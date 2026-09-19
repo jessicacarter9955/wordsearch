@@ -43,3 +43,24 @@ Stage Summary:
 - Similarità visiva stimata: menu ~75%, gameplay ~85% (differenze residue: font logo custom dell'originale non replicabile, dettagli skeuomorfi soggettivi)
 - Gameplay pienamente funzionante dopo fix handler
 - Comparazioni salvate in scripts/compare_menu.png e scripts/compare_gameplay.png
+
+---
+Task ID: 3
+Agent: main (Super Z)
+Task: "Cosa manca per pubblicarlo su YouTube Playables, itch.io e avere ads?" — analisi gap + build standalone pubblicabile
+
+Work Log:
+- Letti tutti i sorgenti (page.tsx, 5 componenti game, engine, sfx, globals.css, seed) per il port
+- Creato build standalone single-file (scripts/standalone/index.html, scritto a 5 chunk): UI replica dell'app (menu/select/game + overlay vittoria/info), icone lucide inline SVG, CSS hand-ported da Tailwind (classi ws-* identiche), 552 vocaboli incorporati, motore/sfx portati 1:1, localStorage con try/catch + shim ytgame (YouTube Playables) per i salvataggi, zero richieste di rete
+- Font: individuato Baloo 2 variable wght 400-800 (subset latino, 33KB) nella cache next/font; copiato in scripts/assets/baloo2-latin-var.woff2; incorporato in base64 via scripts/build_standalone.py
+- Build: download/crucipuzzle/index.html + download/crucipuzzle.html (105.9 KB) + download/crucipuzzle-itchio.zip (51.2 KB, index.html in root)
+- E2E con agent-browser (mouse reale): menu->select->game, drag 8/8 parole con anteprima, vittoria 2 stelle a 130s punteggio 700, record salvato + badge "2:10" sulla tessera, RIGIOCA, aiuto (hintsUsed=1, cella hint), pausa (timer congelato verificato) e ripresa, mute persistito, cambio lingua EN (3 categorie), mobile 390x844 senza overflow X, 0 errori console
+- Nota: il click GIOCA via "find first" del CLI falliva per un quirk di sovrapposizione del tool; con click mouse reale alle coordinate funziona correttamente (non è un bug del gioco)
+- QA visivo VLM (z-ai vision): desktop menu/select/game OK su 5 controlli; vittoria+mobile OK; similarità menu vs reference originale ~75% (in linea con l'app Next.js)
+- Copertina itch.io 630x500 (scripts/make_cover.py): gradiente ws-bg, lettere faint, placca bubble con estrusione/contorno/fill sfumato via PIL+fontTools instancer, lente, mini-griglia con GIOCO evidenziato, PLAY glossy, badge categorie; QA VLM OK
+- Asset pagina: download/crucipuzzle-assets/ (cover-itchio.png/jpg + 5 screenshot)
+
+Stage Summary:
+- Deliverable pronti per la pubblicazione: crucipuzzle-itchio.zip (caricabile subito su itch.io), crucipuzzle.html (giocabile ovunque offline), cover e screenshot
+- Lo standalone è già conforme ai vincoli tecnici di itch.io e compatibile con i requisiti base di YouTube Playables (self-contained, touch, salvataggi via shim ytgame)
+- Restano azioni esterne all'utente: account itch.io + pagina gioco; candidatura partner YouTube Playables + integrazione SDK completa; per gli ads: portali (GameDistribution/CrazyGames/Poki) o sito proprio con AdSense (serve privacy policy GDPR)

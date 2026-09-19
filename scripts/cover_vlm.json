@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Ecco la valutazione:\n\n1) **Testo \"WORD SEARCH\"**: **OK**. Il testo è perfettamente leggibile, ben formattato con gerarchia visiva chiara (\"WORD\" più piccolo sopra \"SEARCH\" in grassetto). La scelta del font e dei colori (bianco/azzurro su sfondo bianco) garantisce ottima leggibilità.\n\n2) **Composizione**: **OK**. L'immagine è bilanciata, con il titolo centrale ben incorniciato, la griglia di esempio posizionata correttamente in basso a sinistra e la lente d'ingrandimento/pulsante play che bilanciano la composizione a destra. Lo stile è coerente e professionale per un gioco di parole.\n\n3) **Difetti evidenti**: **OK**. Non ci sono elementi tagliati o mal posizionati. Tutti i testi sono interamente visibili (incluso il banner inferiore \"15 CATEGORIE...\"), la griglia è completa e gli elementi grafici sono ben posizionati entro i margini.\n\n**Verdetto complessivo: OK** — La copertina è pronta per l'uso su itch.io.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1789858306,
+  "id": "2026092006513739d54c1ace5b4105",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "2026092006513739d54c1ace5b4105",
+  "usage": {
+    "completion_tokens": 273,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 485,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 758
+  }
+}
