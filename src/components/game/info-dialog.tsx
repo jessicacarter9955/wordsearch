@@ -23,8 +23,8 @@ export function InfoDialog({ open, onOpenChange }: InfoDialogProps) {
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="max-h-[85vh] max-w-lg overflow-y-auto rounded-3xl">
         <DialogHeader>
-          <DialogTitle className="flex items-center gap-2 text-xl font-black text-stone-800">
-            <Database className="h-5 w-5 text-emerald-600" />
+          <DialogTitle className="flex items-center gap-2 text-xl font-extrabold text-[#0a5adf]">
+            <Database className="h-5 w-5 text-[#0a86ff]" />
             Come funziona il vocabolario
           </DialogTitle>
           <DialogDescription>
@@ -36,7 +36,7 @@ export function InfoDialog({ open, onOpenChange }: InfoDialogProps) {
         <div className="space-y-4 text-sm leading-relaxed text-stone-600">
           <section>
             <h3 className="mb-1 flex items-center gap-2 font-bold text-stone-800">
-              <Database className="h-4 w-4 text-emerald-600" /> Il database
+              <Database className="h-4 w-4 text-[#0a86ff]" /> Il database
             </h3>
             <p>
               Un database SQLite (via Prisma ORM) con tre tabelle collegate:
@@ -54,7 +54,7 @@ export function InfoDialog({ open, onOpenChange }: InfoDialogProps) {
 
           <section>
             <h3 className="mb-1 flex items-center gap-2 font-bold text-stone-800">
-              <Globe className="h-4 w-4 text-emerald-600" /> Le API
+              <Globe className="h-4 w-4 text-[#0a86ff]" /> Le API
             </h3>
             <ul className="list-disc space-y-1 pl-5">
               <li>
@@ -70,7 +70,7 @@ export function InfoDialog({ open, onOpenChange }: InfoDialogProps) {
 
           <section>
             <h3 className="mb-1 flex items-center gap-2 font-bold text-stone-800">
-              <Layers className="h-4 w-4 text-emerald-600" /> Aggiungere parole
+              <Layers className="h-4 w-4 text-[#0a86ff]" /> Aggiungere parole
             </h3>
             <p>
               Basta un insert nel database, <em>senza toccare una riga di codice</em>:

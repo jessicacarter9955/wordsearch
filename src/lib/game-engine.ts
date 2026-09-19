@@ -225,3 +225,12 @@ export function formatTime(totalSeconds: number): string {
   const s = totalSeconds % 60
   return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`
 }
+
+/** Cronometro -> mm:ss:cc (minuti:secondi:centesimi) */
+export function formatTimerMs(totalMs: number): string {
+  const total = Math.floor(totalMs / 10) // centesimi
+  const cs = total % 100
+  const s = Math.floor(total / 100) % 60
+  const m = Math.floor(total / 6000)
+  return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}:${String(cs).padStart(2, '0')}`
+}

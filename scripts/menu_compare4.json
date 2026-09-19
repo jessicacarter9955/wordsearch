@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**Visual Similarity: 45%**\n\n*   **Main Logo/Title Style:** The original features a large, 3D, glossy \"SEARCH\" with a smaller \"WORD\" inside a complex, multi-layered beveled plaque with a realistic magnifying glass. The recreation uses a flat, 2D font on a simple rounded rectangle with a basic circle for the glass.\n*   **Background Pattern:** The original has a specific repeating sequence of letters (A, C, O, B...). The recreation uses a different, uniform repeating pattern (D, M, T).\n*   **UI Icons & Details:** The top-right sound icon in the original is muted (red slash) and has a distinct 3D gloss; the recreation's icon is active and flatter. The play button in the original is larger with a more pronounced 3D bevel and purple glow.\n*   **Color & Lighting:** The original has a richer blue gradient and high-contrast lighting effects (glows, highlights, drop shadows). The recreation is visually flatter with less saturation and depth.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1789839884,
+  "id": "202609200144344b42dc2c54df4f7a",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "202609200144344b42dc2c54df4f7a",
+  "usage": {
+    "completion_tokens": 223,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5855,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6078
+  }
+}

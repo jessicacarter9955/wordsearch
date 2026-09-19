@@ -1,6 +1,5 @@
 'use client'
 
-import { Button }from '@/components/ui/button'
 import {
   Dialog,
   DialogContent,
@@ -37,76 +36,76 @@ export function WinDialog({
   onReplay,
   onHome,
 }: WinDialogProps) {
-  // Stelle: par = 20s per parola da trovare
-  const wordCountHint = Math.max(1, Math.round(seconds / 20))
   const stars = seconds <= 120 ? 3 : seconds <= 200 ? 2 : 1
 
   return (
     <Dialog open={open}>
-      <DialogContent className="max-w-sm rounded-3xl border-stone-200 bg-white sm:max-w-md">
+      <DialogContent className="max-w-sm rounded-[2rem] border-[#88ccff] bg-[#0066ff] sm:max-w-md [&>button]:border-white/30 [&>button]:text-white hover:[&>button]:bg-white/10">
         <DialogHeader className="text-center">
-          <div className="mx-auto mb-2 text-6xl" aria-hidden="true">🎉</div>
-          <DialogTitle className="text-2xl font-black text-stone-800">
-            Hai vinto!
+          <div className="mx-auto mb-1 text-6xl" aria-hidden="true">🏆</div>
+          <DialogTitle className="text-3xl font-extrabold tracking-wide text-white drop-shadow-[0_2px_3px_rgba(0,0,60,0.4)]">
+            HAI VINTO!
           </DialogTitle>
-          <DialogDescription>
-            Categoria <strong>{categoryName}</strong> · {difficultyName}
+          <DialogDescription className="text-sm font-bold text-cyan-100">
+            {categoryName} · {difficultyName}
           </DialogDescription>
         </DialogHeader>
 
-        <div className="flex justify-center gap-2" aria-label={`${stars} stelle su 3`}>
+        <div className="flex justify-center gap-3" aria-label={`${stars} stelle su 3`}>
           {[1, 2, 3].map((i) => (
             <Star
               key={i}
-              className={`h-10 w-10 ${
-                i <= stars ? 'fill-amber-400 text-amber-400' : 'fill-stone-100 text-stone-300'
+              className={`h-11 w-11 drop-shadow-[0_3px_4px_rgba(0,0,60,0.4)] ${
+                i <= stars
+                  ? 'fill-amber-300 text-amber-300 [filter:drop-shadow(0_0_10px_rgba(252,211,77,0.7))]'
+                  : 'fill-white/10 text-white/25'
               }`}
+              strokeWidth={2}
             />
           ))}
         </div>
 
-        <div className="grid grid-cols-3 gap-2 text-center">
-          <div className="rounded-2xl bg-stone-100 p-3">
-            <Clock className="mx-auto mb-1 h-4 w-4 text-stone-500" />
-            <div className="text-lg font-black text-stone-800">{formatTime(seconds)}</div>
-            <div className="text-[11px] text-stone-500">tempo</div>
+        <div className="grid grid-cols-3 gap-2.5 text-center">
+          <div className="ws-glass !rounded-2xl px-2 py-3">
+            <Clock className="mx-auto mb-1 h-4 w-4 text-cyan-100" />
+            <div className="text-lg font-extrabold tabular-nums text-white">{formatTime(seconds)}</div>
+            <div className="text-[11px] font-semibold text-cyan-100/80">tempo</div>
           </div>
-          <div className="rounded-2xl bg-stone-100 p-3">
-            <Trophy className="mx-auto mb-1 h-4 w-4 text-stone-500" />
-            <div className="text-lg font-black text-stone-800">{score}</div>
-            <div className="text-[11px] text-stone-500">punti</div>
+          <div className="ws-glass !rounded-2xl px-2 py-3">
+            <Trophy className="mx-auto mb-1 h-4 w-4 text-cyan-100" />
+            <div className="text-lg font-extrabold tabular-nums text-white">{score}</div>
+            <div className="text-[11px] font-semibold text-cyan-100/80">punti</div>
           </div>
-          <div className="rounded-2xl bg-stone-100 p-3">
-            <Lightbulb className="mx-auto mb-1 h-4 w-4 text-stone-500" />
-            <div className="text-lg font-black text-stone-800">{hintsUsed}</div>
-            <div className="text-[11px] text-stone-500">aiuti</div>
+          <div className="ws-glass !rounded-2xl px-2 py-3">
+            <Lightbulb className="mx-auto mb-1 h-4 w-4 text-cyan-100" />
+            <div className="text-lg font-extrabold tabular-nums text-white">{hintsUsed}</div>
+            <div className="text-[11px] font-semibold text-cyan-100/80">aiuti</div>
           </div>
         </div>
 
         {isNewRecord ? (
-          <p className="text-center text-sm font-bold text-amber-600">
+          <p className="text-center text-sm font-extrabold text-amber-200 drop-shadow-[0_1px_2px_rgba(0,0,60,0.4)]">
             ⭐ Nuovo record per questa categoria!
           </p>
         ) : bestTime !== null ? (
-          <p className="text-center text-xs text-stone-400">
+          <p className="text-center text-xs font-semibold text-cyan-100/70">
             Record personale: {formatTime(bestTime)}
           </p>
         ) : null}
 
-        <DialogFooter className="flex-row gap-2 sm:justify-center">
-          <Button
+        <DialogFooter className="flex-row gap-3 sm:justify-center">
+          <button
             onClick={onReplay}
-            className="gap-2 rounded-full bg-emerald-600 font-bold hover:bg-emerald-700"
+            className="ws-btn-play flex h-13 items-center gap-2 px-7 py-3 text-base font-extrabold tracking-wide"
           >
-            <RotateCcw className="h-4 w-4" /> Rigioca
-          </Button>
-          <Button
+            <RotateCcw className="h-5 w-5" strokeWidth={2.5} /> RIGIOCA
+          </button>
+          <button
             onClick={onHome}
-            variant="outline"
-            className="gap-2 rounded-full border-stone-300 font-bold"
+            className="ws-btn flex items-center gap-2 px-6 py-3 text-base font-extrabold tracking-wide"
           >
-            <Home className="h-4 w-4" /> Cambia categoria
-          </Button>
+            <Home className="h-5 w-5" strokeWidth={2.5} /> MENU
+          </button>
         </DialogFooter>
       </DialogContent>
     </Dialog>

@@ -120,3 +120,176 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* ============================================================
+   STILE DEL GIOCO — vetro, glossy e bagliori
+   ============================================================ */
+
+/* Sfondo blu-viola con grande bagliore ciano radiale (colori campionati dall'originale) */
+.ws-bg {
+  background:
+    radial-gradient(ellipse 65% 60% at 50% 30%, #05d2fa 0%, #0aa0f6 28%, #0d72f2 55%, #1a23e4 85%, #1718d3 100%);
+}
+
+/* Variante gameplay: bagliore più alto e lati più chiari */
+.ws-bg-game {
+  background:
+    radial-gradient(ellipse 72% 58% at 50% 14%, #05aafb 0%, #0ea9f1 38%, #0d5ee1 72%, #033ed2 100%);
+}
+
+/* Bottoni squircle glossy (stile skeuomorfo) con cupola di luce */
+.ws-btn {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #7cb8ff 0%, #2f7cf6 52%, #1747c4 100%);
+  border: 3px solid rgba(191, 219, 254, 0.95);
+  border-radius: 1.05rem;
+  box-shadow:
+    inset 0 3px 0 rgba(255, 255, 255, 0.55),
+    inset 0 -5px 10px rgba(0, 20, 90, 0.45),
+    0 5px 12px rgba(0, 0, 0, 0.4);
+  color: #fff;
+  transition: transform 0.12s ease, filter 0.12s ease;
+}
+.ws-btn::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 8%;
+  right: 8%;
+  height: 46%;
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.75) 0%, rgba(255, 255, 255, 0.05) 100%);
+  pointer-events: none;
+}
+.ws-btn:hover {
+  filter: brightness(1.1);
+}
+.ws-btn:active {
+  transform: translateY(2px) scale(0.97);
+  box-shadow:
+    inset 0 2px 6px rgba(0, 20, 90, 0.45),
+    0 2px 4px rgba(0, 0, 0, 0.3);
+}
+.ws-btn:disabled {
+  filter: grayscale(0.5) brightness(0.8);
+  opacity: 0.7;
+}
+
+/* Bottone PLAY grande con glow morbido */
+.ws-btn-play {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #6fd6ff 0%, #38bdf8 35%, #2563eb 100%);
+  border: 5px solid rgba(255, 255, 255, 0.9);
+  border-radius: 2.1rem;
+  box-shadow:
+    0 0 22px 6px rgba(168, 85, 247, 0.75),
+    0 0 58px 16px rgba(139, 92, 246, 0.45),
+    0 0 100px 30px rgba(59, 130, 246, 0.4),
+    inset 0 0 0 3px rgba(147, 197, 253, 0.7),
+    inset 0 5px 0 rgba(255, 255, 255, 0.65),
+    inset 0 -10px 14px rgba(0, 25, 110, 0.45),
+    0 12px 26px rgba(0, 0, 0, 0.45);
+  color: #fff;
+  transition: transform 0.12s ease, filter 0.12s ease;
+}
+.ws-btn-play::after {
+  content: '';
+  position: absolute;
+  top: 4px;
+  left: 8%;
+  right: 8%;
+  height: 42%;
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.65) 0%, rgba(255, 255, 255, 0.05) 100%);
+  pointer-events: none;
+}
+.ws-btn-play:hover {
+  filter: brightness(1.08);
+}
+.ws-btn-play:active {
+  transform: translateY(3px) scale(0.97);
+}
+
+/* Pill del timer */
+.ws-timer {
+  background: linear-gradient(180deg, #0a6aff 0%, #0047cc 100%);
+  border: 3px solid #88ccff;
+  border-radius: 999px;
+  box-shadow:
+    inset 0 3px 0 rgba(255, 255, 255, 0.4),
+    inset 0 -4px 8px rgba(0, 15, 80, 0.45),
+    0 5px 12px rgba(0, 0, 0, 0.35);
+}
+
+/* Pannelli di vetro */
+.ws-glass {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.32) 0%, rgba(255, 255, 255, 0.15) 55%, rgba(255, 255, 255, 0.08) 100%);
+  border: 3px solid #88ccff;
+  border-radius: 1.5rem;
+  box-shadow:
+    inset 0 2px 0 rgba(255, 255, 255, 0.45),
+    inset 0 -4px 8px rgba(0, 40, 120, 0.18),
+    0 10px 25px rgba(0, 0, 0, 0.28);
+  backdrop-filter: blur(3px);
+}
+
+/* Pannello bianco della griglia con tubo di luce ciano */
+.ws-grid-panel {
+  background: #ffffff;
+  border: 6px solid #00ddff;
+  border-radius: 1.75rem;
+  box-shadow:
+    0 0 20px 3px rgba(0, 221, 255, 0.8),
+    0 0 55px 10px rgba(0, 221, 255, 0.4),
+    inset 0 0 10px rgba(0, 221, 255, 0.35),
+    inset 0 3px 0 rgba(255, 255, 255, 0.9),
+    0 14px 30px rgba(0, 0, 0, 0.32);
+}
+
+/* Placca del logo con bordo metallico */
+.ws-plaque {
+  position: relative;
+  background: linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%);
+  border: 5px solid #22d3ee;
+  border-radius: 2.25rem;
+  box-shadow:
+    0 0 28px rgba(34, 211, 238, 0.75),
+    0 0 70px rgba(34, 211, 238, 0.3),
+    inset 0 0 0 5px #ffffff,
+    inset 0 0 0 8px rgba(56, 189, 248, 0.55),
+    inset 0 6px 0 #ffffff,
+    inset 0 -10px 14px rgba(100, 116, 139, 0.35),
+    0 16px 34px rgba(0, 0, 40, 0.5);
+}
+
+/* Copia dietro il testo bubble: contorno bianco spesso + estrusione navy */
+.ws-logo-stroke {
+  color: transparent;
+  -webkit-text-stroke: 13px #ffffff;
+  paint-order: stroke fill;
+  text-shadow:
+    5px 6px 0 #1e3a8a,
+    7px 8px 0 #172554,
+    9px 11px 0 #0f1e4e,
+    11px 14px 16px rgba(0, 0, 60, 0.55);
+}
+
+/* Riempimento sfumato brillante del testo bubble */
+.ws-logo-fill {
+  background: linear-gradient(180deg, #a5d8ff 0%, #4f9dff 38%, #2563eb 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Lettere decorative dello sfondo */
+.ws-letter {
+  position: absolute;
+  color: rgba(255, 255, 255, 0.09);
+  font-weight: 800;
+  line-height: 1;
+  user-select: none;
+  pointer-events: none;
+}
