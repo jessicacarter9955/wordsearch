@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Word Search - Test Mode</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .test-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .status {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+        }
+        .success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .info {
+            background-color: #d1ecf1;
+            color: #0c5460;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #game-frame {
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>Word Search Game - Test Mode</h1>
+        
+        <div id="test-results">
+            <div class="status info">Testing game setup...</div>
+        </div>
+        
+        <div style="margin: 20px 0;">
+            <button onclick="testHardcodedMode()">Test Hardcoded Mode</button>
+            <button onclick="testSupabaseMode()">Test Supabase Mode</button>
+            <button onclick="launchGame()">Launch Game</button>
+        </div>
+        
+        <iframe id="game-frame" width="640" height="960" style="display:none;"></iframe>
+    </div>
+
+    <!-- Load game scripts for testing -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/easeljs-NEXT.min.js"></script>
+    <script src="js/screenfull.min.js"></script>
+    <script src="js/howler.min.js"></script>
+    <script src="js/CLang.min.js"></script>
+    <script src="supabase_config_example.js"></script>
+    <script src="js/supabase_client.js"></script>
+    <script src="js/main.js"></script>
+    
+    <script>
+        async function testHardcodedMode() {
+            const results = document.getElementById('test-results');
+            results.innerHTML = '<div class="status info">Testing hardcoded mode...</div>';
+            
+            try {
+                // Check if main.js loads
+                if (typeof CMain !== 'undefined') {
+                    results.innerHTML += '<div class="status success">✓ Main game loaded successfully</div>';
+                } else {
+                    results.innerHTML += '<div class="status error">✗ Main game not loaded</div>';
+                }
+                
+                // Check if Supabase config exists
+                if (typeof SUPABASE_CONFIG !== 'undefined') {
+                    results.innerHTML += '<div class="status info">ℹ Supabase config found: useSupabase = ' + SUPABASE_CONFIG.useSupabase + '</div>';
+                    
+                    if (SUPABASE_CONFIG.useSupabase === false) {
+                        results.innerHTML += '<div class="status success">✓ Hardcoded mode is active</div>';
+                    } else {
+                        results.innerHTML += '<div class="status error">✗ Supabase mode is active, switch to false for hardcoded test</div>';
+                    }
+                } else {
+                    results.innerHTML += '<div class="status success">✓ No Supabase config, using hardcoded mode</div>';
+                }
+                
+                results.innerHTML += '<div class="status success">✓ Hardcoded mode test completed</div>';
+                
+            } catch (error) {
+                results.innerHTML += '<div class="status error">✗ Error: ' + error.message + '</div>';
+            }
+        }
+        
+        async function testSupabaseMode() {
+            const results = document.getElementById('test-results');
+            results.innerHTML = '<div class="status info">Testing Supabase mode...</div>';
+            
+            try {
+                if (typeof SUPABASE_CONFIG === 'undefined') {
+                    results.innerHTML += '<div class="status error">✗ Supabase config not found</div>';
+                    return;
+                }
+                
+                if (SUPABASE_CONFIG.useSupabase === false) {
+                    results.innerHTML += '<div class="status error">✗ Supabase mode is disabled in config</div>';
+                    results.innerHTML += '<div class="status info">ℹ Set useSupabase: true in supabase_config.js to test</div>';
+                    return;
+                }
+                
+                if (!SUPABASE_CONFIG.url || SUPABASE_CONFIG.url === 'YOUR_SUPABASE_URL_HERE') {
+                    results.innerHTML += '<div class="status error">✗ Supabase URL not configured</div>';
+                    return;
+                }
+                
+                if (!SUPABASE_CONFIG.anonKey || SUPABASE_CONFIG.anonKey === 'YOUR_SUPABASE_ANON_KEY_HERE') {
+                    results.innerHTML += '<div class="status error">✗ Supabase anon key not configured</div>';
+                    return;
+                }
+                
+                results.innerHTML += '<div class="status success">✓ Supabase configuration looks valid</div>';
+                results.innerHTML += '<div class="status info">ℹ URL: ' + SUPABASE_CONFIG.url + '</div>';
+                results.innerHTML += '<div class="status success">✓ Supabase mode test completed</div>';
+                
+            } catch (error) {
+                results.innerHTML += '<div class="status error">✗ Error: ' + error.message + '</div>';
+            }
+        }
+        
+        function launchGame() {
+            const frame = document.getElementById('game-frame');
+            frame.style.display = 'block';
+            frame.src = 'index.html';
+        }
+        
+        // Auto-test on load
+        window.addEventListener('load', function() {
+            // Wait for scripts to load
+            setTimeout(() => {
+                document.getElementById('test-results').innerHTML = '<div class="status info">Scripts loaded. Click test buttons to verify configuration.</div>';
+            }, 2000);
+        });
+    </script>
+</body>
+</html>
