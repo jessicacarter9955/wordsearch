@@ -25,19 +25,19 @@ Dall'estrazione del "5 Language Visual Dictionary" (pagine 10-303), sono stati c
 ## 📊 **Statistiche attuali:**
 
 ### Parole Singole (gioco):
-- **Inglese:** 147 categorie, 978 parole ✨
-- **Francese:** 121 categorie, 609 parole ✨ (articoli rimossi)
-- **Tedesco:** 184 categorie, 1241 parole ✨ (articoli rimossi)
-- **Spagnolo:** 103 categorie, 464 parole ✨ (articoli rimossi)
-- **Italiano:** 85 categorie, 349 parole ✨ (articoli rimossi)
-- **TOTALE: ~3,641 parole singole**
+- **Inglese:** 200 categorie, 1663 parole ✨
+- **Francese:** 187 categorie, 1535 parole ✨ (articoli rimossi)
+- **Tedesco:** 198 categorie, 1720 parole ✨ (articoli rimossi)
+- **Spagnolo:** 156 categorie, 884 parole ✨ (articoli rimossi)
+- **Italiano:** 135 categorie, 733 parole ✨ (articoli rimossi)
+- **TOTALE: ~6,535 parole singole**
 
 ### Frasi Composte (futuro - opzionale):
-- **Inglese:** 195 categorie, 1025 frasi ✨ (articoli rimossi)
-- **Francese:** 197 categorie, 1337 frasi ✨ (articoli rimossi)
-- **Tedesco:** 176 categorie, 798 frasi ✨ (articoli rimossi)
-- **Spagnolo:** 183 categorie, 584 frasi ✨ (articoli rimossi)
-- **Italiano:** 136 categorie, 251 frasi ✨ (articoli rimossi)
+- **Inglese:** 206 categorie, 2978 frasi ✨ (articoli rimossi)
+- **Francese:** 209 categorie, 3628 frasi ✨ (articoli rimossi)
+- **Tedesco:** 209 categorie, 2567 frasi ✨ (articoli rimossi)
+- **Spagnolo:** 201 categorie, 1109 frasi ✨ (articoli rimossi)
+- **Italiano:** 174 categorie, 497 frasi ✨ (articoli rimossi)
 
 ## 🚀 **Come integrare nel gioco:**
 
@@ -52,11 +52,15 @@ Dall'estrazione del "5 Language Visual Dictionary" (pagine 10-303), sono stati c
 
 ## ⚠️ **Note importanti:**
 
-- L'estrazione automatica dal PDF non è perfetta
-- Alcuni dati potrebbero richiedere pulizia manuale
+- L'estrazione automatica dal PDF non è perfetta a causa della formattazione complessa
+- Le traduzioni sono presenti in ogni pagina ma la sincronizzazione perfetta è difficile
+- Alcune parole potrebbero essere ancora leggermente mescolate tra le lingue
+- Per un gioco professionale, i dati richiederebbero pulizia manuale delle categorie più importanti
 - Per un gioco professionale, considera:
+  - Verifica manuale delle categorie principali
   - Estrazione manuale dei termini più importanti
   - OCR più avanzato per PDF complessi
+  - Inserimento manuale delle categorie chiave
   - Inserimento manuale delle categorie chiave
 
 ## 🔧 **Script di elaborazione:**
