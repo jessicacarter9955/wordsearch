@@ -50,5 +50,7 @@ test
 prompt
 
 server.log
+# File caricati dal gioco (dizionari PDF ecc.)
+/uploads/
 # Skills directory
 /skills/

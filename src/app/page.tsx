@@ -5,6 +5,7 @@ import { InfoDialog } from '@/components/game/info-dialog'
 import { MenuScreen } from '@/components/game/menu-screen'
 import { SelectScreen } from '@/components/game/select-screen'
 import { StatsScreen } from '@/components/game/stats-screen'
+import { UploadDialog } from '@/components/game/upload-dialog'
 import { WinDialog } from '@/components/game/win-dialog'
 import {
   DIFFICULTY_CONFIGS,
@@ -58,6 +59,7 @@ export default function Home() {
   const [bestTimes, setBestTimes] = useState<Record<string, number>>({})
   const [muted, setMutedState] = useState(false)
   const [infoOpen, setInfoOpen] = useState(false)
+  const [uploadOpen, setUploadOpen] = useState(false)
   const [wordStats, setWordStats] = useState<WordStats>({})
 
   const hintTimer = useRef<number | null>(null)
@@ -204,6 +206,7 @@ export default function Home() {
           onToggleMute={toggleMute}
           onOpenInfo={() => setInfoOpen(true)}
           onOpenStats={() => setScreen('stats')}
+          onOpenUpload={() => setUploadOpen(true)}
           onPlay={() => setScreen('select')}
         />
       )}
@@ -272,6 +275,8 @@ export default function Home() {
       )}
 
       <InfoDialog open={infoOpen} onOpenChange={setInfoOpen} />
+
+      <UploadDialog open={uploadOpen} onOpenChange={setUploadOpen} />
 
       <WinDialog
         open={won}

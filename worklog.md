@@ -87,3 +87,23 @@ Stage Summary:
 - Schermata statistiche integrata e funzionante (bandiere, ✓/✗, contatore volte, temi vs classiche)
 - Deliverable dati già pronti dalle sessioni precedenti: data/wordbank.json (versione 2), supabase/schema.sql + seed-wordbank.sql
 - Restano 14 categorie del dizionario visivo da popolare quando l'utente fornirà le prossime pagine OCR (aspetto, salute, servizi, shopping, mangiare fuori, studio, trasporti, tempo libero, ambiente, altro)
+
+---
+Task ID: 6
+Agent: main (Super Z)
+Task: Uploader in-game per il PDF del dizionario (nessun limite di dimensione)
+
+Work Log:
+- Aggiunto POST /api/upload (route.ts): il client invia il File come corpo raw (no multipart) e il server lo strema su disco con pipeline(Readable.fromWeb, createWriteStream) in uploads/ — zero buffering in memoria, NESSUN limite di dimensione; nome file sanitizzato, stesso nome = sostituzione
+- Aggiunto GET /api/upload: elenca i file caricati (nome, dimensione, data) con Cache-Control no-store
+- Nuovo componente upload-dialog.tsx: drag & drop + click per scegliere, upload via XMLHttpRequest (unico modo per avere l'evento progress), barra di avanzamento con percentuale e MB trasferiti, stati successo/errore con retry, elenco file già caricati, messaggio "chiedi all'assistente di analizzarlo"; reset stato alla chiusura (pattern lint-safe senza setState-in-effect)
+- Menu: bottone libro (BookOpen) in basso a destra, simmetrico al Trophy statistiche in basso a sinistra
+- .gitignore: aggiunto /uploads/ (i PDF caricati restano fuori dal repo)
+- Test NO-LIMIT: dd 300MB -> curl POST -> salvato byte-perfetto (314.572.800 byte) in 1,8s; GET elenco OK; file di test rimosso
+- E2E browser: menu -> bottone "Carica dizionario PDF" -> dialog -> input file esposto via eval -> upload PDF di test 1,5KB -> "File caricato!" con nome+dimensione -> file su disco byte-identical (cmp OK) -> mobile 390px senza overflow -> 0 errori console
+- tsc pulito su src/, eslint pulito
+
+Stage Summary:
+- L'utente può ora caricare il PDF del dizionario direttamente dal gioco (menu -> icona libro): drag&drop o selezione, progress live, nessun limite di dimensione
+- I file finiscono in /home/z/my-project/uploads/ (fuori dal repo git): quando arriva un caricamento, leggerlo da lì per l'analisi (estrazione parole per pagina -> nuove categorie wordbank.json -> reseed)
+- uploads/ è vuoto e pronto per il PDF reale

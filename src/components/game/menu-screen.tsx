@@ -1,13 +1,14 @@
 'use client'
 
 import { GlossyIconButton, LetterBackground, SpeakerIcon } from '@/components/game/decor'
-import { Info, Play, Trophy } from 'lucide-react'
+import { BookOpen, Info, Play, Trophy } from 'lucide-react'
 
 interface MenuScreenProps {
   muted: boolean
   onToggleMute: () => void
   onOpenInfo: () => void
   onOpenStats: () => void
+  onOpenUpload: () => void
   onPlay: () => void
 }
 
@@ -26,7 +27,7 @@ function BubbleText({ text, className }: { text: string; className: string }) {
  * sfondo blu con griglia di lettere sfocate, bottoni agli angoli in alto,
  * placca-logo centrale con lente d'ingrandimento e grande bottone PLAY.
  */
-export function MenuScreen({ muted, onToggleMute, onOpenInfo, onOpenStats, onPlay }: MenuScreenProps) {
+export function MenuScreen({ muted, onToggleMute, onOpenInfo, onOpenStats, onOpenUpload, onPlay }: MenuScreenProps) {
   return (
     <div className="ws-bg relative flex min-h-[100dvh] flex-col overflow-hidden">
       <LetterBackground />
@@ -102,10 +103,15 @@ export function MenuScreen({ muted, onToggleMute, onOpenInfo, onOpenStats, onPla
         </button>
       </div>
 
-      {/* Bottone statistiche in basso a sinistra, simmetrico agli angoli alti */}
+      {/* Bottone statistiche in basso a sinistra, carica dizionario in basso a destra */}
       <div className="absolute bottom-4 left-4 z-10 sm:bottom-6 sm:left-6">
         <GlossyIconButton onClick={onOpenStats} label="Le mie parole (statistiche)">
           <Trophy className="h-7 w-7" strokeWidth={2.6} />
+        </GlossyIconButton>
+      </div>
+      <div className="absolute bottom-4 right-4 z-10 sm:bottom-6 sm:right-6">
+        <GlossyIconButton onClick={onOpenUpload} label="Carica dizionario PDF">
+          <BookOpen className="h-7 w-7" strokeWidth={2.6} />
         </GlossyIconButton>
       </div>
     </div>
