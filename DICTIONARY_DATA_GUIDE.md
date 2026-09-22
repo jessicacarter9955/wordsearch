@@ -10,32 +10,33 @@ Dall'estrazione del "5 Language Visual Dictionary" (pagine 10-303), sono stati c
   - Formattato compatibile con la struttura del gioco
   - Pronto per essere integrato nel sistema Supabase o hardcoded
 
-### 🔮 **Per uso futuro:**
-- **`showcase.codethislab.com/games/word_search/dictionary_phrases.json`**
+### 🔮 **Per uso futuro (opzionale):**
+- **`showcase.codethislab.com/games/word_search/dictionary_phrases_optional.json`**
   - Contiene frasi composte (es: "united states of america")
   - Non compatibile con il gioco attuale
   - Riservato per future espansioni (potenziale "Phrase Mode")
+  - Articoli rimossi anche dalle frasi
 
 ### 📄 **File sorgente:**
 - **`extracted_text_full.txt`** - Testo grezzo completo da tutte le pagine
 - **`dictionary_game_data_clean.json`** - Versione pulita (in root)
-- **`dictionary_phrases.json`** - Versione frasi (in root)
+- **`dictionary_phrases_optional.json`** - Versione frasi opzionale (in root)
 
 ## 📊 **Statistiche attuali:**
 
 ### Parole Singole (gioco):
 - **Inglese:** 15 categorie, 127 parole
-- **Francese:** 2 categorie, 10 parole  
-- **Tedesco:** 8 categorie, 69 parole
-- **Spagnolo:** 4 categorie, 25 parole
-- **Italiano:** 8 categorie, 44 parole
+- **Francese:** 15 categorie, 88 parole ✨ (articoli rimossi)
+- **Tedesco:** 21 categorie, 178 parole ✨ (articoli rimossi)
+- **Spagnolo:** 14 categorie, 85 parole ✨ (articoli rimossi)
+- **Italiano:** 23 categorie, 162 parole ✨ (articoli rimossi)
 
-### Frasi Composte (futuro):
+### Frasi Composte (futuro - opzionale):
 - **Inglese:** 89 categorie, 148 frasi
-- **Francese:** 172 categorie, 525 frasi
-- **Tedesco:** 169 categorie, 475 frasi
-- **Spagnolo:** 169 categorie, 525 frasi
-- **Italiano:** 164 categorie, 442 frasi
+- **Francese:** 141 categorie, 338 frasi ✨ (articoli rimossi)
+- **Tedesco:** 105 categorie, 210 frasi ✨ (articoli rimossi)
+- **Spagnolo:** 134 categorie, 339 frasi ✨ (articoli rimossi)
+- **Italiano:** 126 categorie, 253 frasi ✨ (articoli rimossi)
 
 ## 🚀 **Come integrare nel gioco:**
 
