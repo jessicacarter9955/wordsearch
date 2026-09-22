@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://developers.google.com/youtube/gaming/playables/certification/requirements_stability",
+    "name": "Stability and performance requirements | Playables",
+    "snippet": "Jun 16, 2026 — Playables must have an initial bundle size under 15 MB and a total bundle size under 250 MB, ideally striving for 5 MB and 15 MB respectively. ...",
+    "host_name": "developers.google.com",
+    "rank": 0,
+    "date": "Jun 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://alconost.video",
+    "name": "Playable Ad File Size Limits by Network (2026 Guide)",
+    "snippet": "The current Google specification allows a ZIP of up to 5 MB and no more than 512 files. Google also expects the creative to declare its orientation in the HTML. Read more",
+    "host_name": "alconost.video",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://playables.in",
+    "name": "YouTube Playables Game Size Limit: Complete Guide for",
+    "snippet": "1 day ago — Individual files within your package cannot exceed 30 MiB, and Google recommends keeping each file under 512 KiB . That last one catches a lot ... Read more",
+    "host_name": "playables.in",
+    "rank": 2,
+    "date": "Sep 19, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://wiki.playgama.com",
+    "name": "YouTube Playables Requirements for Games",
+    "snippet": "Aug 25, 2026 — Monetization Rules · Size Limits: Your initial load must be less than 30 MB , and each individual file in the build must be less than 30 MB. Read more",
+    "host_name": "wiki.playgama.com",
+    "rank": 3,
+    "date": "Aug 25, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://developers.google.com/youtube/gaming/playables/support/certification_faq",
+    "name": "Certification FAQ | Playables",
+    "snippet": "Jun 16, 2026 — YouTube Playables have specific technical requirements , including file size and bundle size limits, that developers need to adhere to. Read more",
+    "host_name": "developers.google.com",
+    "rank": 4,
+    "date": "Jun 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://support.google.com/youtube/answer/14328604?hl=en",
+    "name": "Playables on YouTube",
+    "snippet": "Playables are currently supported on the following devices: Android YouTube app version: 20.46 and higher Mobile operating systems: Android S and above , Q, R",
+    "host_name": "support.google.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]

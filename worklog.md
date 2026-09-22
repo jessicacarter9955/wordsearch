@@ -64,3 +64,26 @@ Stage Summary:
 - Deliverable pronti per la pubblicazione: crucipuzzle-itchio.zip (caricabile subito su itch.io), crucipuzzle.html (giocabile ovunque offline), cover e screenshot
 - Lo standalone è già conforme ai vincoli tecnici di itch.io e compatibile con i requisiti base di YouTube Playables (self-contained, touch, salvataggi via shim ytgame)
 - Restano azioni esterne all'utente: account itch.io + pagina gioco; candidatura partner YouTube Playables + integrazione SDK completa; per gli ads: portali (GameDistribution/CrazyGames/Poki) o sito proprio con AdSense (serve privacy policy GDPR)
+
+---
+Task ID: 5
+Agent: main (Super Z)
+Task: Fix runtime error "wordbanks?.find is not a function" + completare integrazione sottocategorie/statistiche
+
+Work Log:
+- Diagnosi: /api/wordbanks restituiva 500 perché il Prisma Client era stantio (schema con parentId/slug/isNew/sortOrder/display generato prima dell'update) -> la risposta {error} veniva parsata come JSON valido e finiva nello state wordbanks (oggetto, non array) -> crash su .find()
+- Fix root cause: `npx prisma generate` + riavvio dev server con .next pulito
+- Fix difensivo in page.tsx: fetch /api/wordbanks ora valida Array.isArray(data) prima del setState
+- Verificato DB: 5 lingue, colonne nuove presenti, 1515 parole (seed sessione precedente OK)
+- Completata UI sottocategorie in select-screen.tsx: pannello chip "Tutta la categoria" + 11 gruppi (Corpo, Viso, Mano, ...) con emoji, conteggio parole e badge record; badge Layers sul tile categoria; separatore "✨ NUOVE CATEGORIE" fra vecchie e nuove
+- page.tsx: stato subcategoryId (reset su cambio categoria/lingua), startGame usa subcategoryId ?? categoryId, maxLen=cfg.maxWordLength passato a /api/words, chiavi best-time su id effettivo, onReplay mantiene la sottocategoria
+- Completata schermata statistiche (stats-screen.tsx era orfana): aggiunti tipi LanguageWords + THEMATIC_SLUGS in types.ts, modalità /api/words?languageCode=xx (vocabolario completo per lingua, famiglia deduplicata), registrazione recordFoundWord(lang, parola) in handleSelection, bottone Trophy in basso a sinistra nel menu
+- E2E con agent-browser: menu -> select IT (13 cat + badge 11 su Persone) -> pannello sottocategorie -> partita "PERSONE · MANO" -> drag ANULARE trovato -> statistiche "LE MIE PAROLE" (1/188, sezione "I miei temi", chip anulare verde) -> FR: Gens + 11 sottocategorie francesi -> partita "GENS · MAIN" -> divider NUOVE CATEGORIE verificato in IT -> mobile 390px senza overflow -> 0 errori console/pagina
+- tsc --noEmit pulito su src/, eslint pulito, /api/wordbanks OK, home HTTP 200
+
+Stage Summary:
+- Crash risolto: causa era il Prisma Client non rigenerato dopo il cambio schema della sessione precedente
+- Funzionalità sottocategorie opzionali completa e verificata su 5 lingue (gioca tutta la categoria o un solo gruppo)
+- Schermata statistiche integrata e funzionante (bandiere, ✓/✗, contatore volte, temi vs classiche)
+- Deliverable dati già pronti dalle sessioni precedenti: data/wordbank.json (versione 2), supabase/schema.sql + seed-wordbank.sql
+- Restano 14 categorie del dizionario visivo da popolare quando l'utente fornirà le prossime pagine OCR (aspetto, salute, servizi, shopping, mangiare fuori, studio, trasporti, tempo libero, ambiente, altro)

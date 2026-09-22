@@ -1,0 +1,464 @@
+{
+  "version": 2,
+  "comment": "Vocabolario Crucipuzzle — formato di scambio unificato. names/descriptions/words/entries sono mappe per codice lingua (it,en,fr,de,es). Le parole sono senza articolo, forma naturale; il seeder le normalizza (maiuscolo, senza spazi, accenti mantenuti). entries = righe di concetti allineate fra le lingue. 'subcategories' = categorie figlie (selezionabili, opzionali).",
+  "languages": [
+    { "code": "it", "name": "Italiano", "emoji": "🇮🇹" },
+    { "code": "en", "name": "English", "emoji": "🇬🇧" },
+    { "code": "fr", "name": "Français", "emoji": "🇫🇷" },
+    { "code": "de", "name": "Deutsch", "emoji": "🇩🇪" },
+    { "code": "es", "name": "Español", "emoji": "🇪🇸" }
+  ],
+  "categories": [
+    {
+      "slug": "animali",
+      "emoji": "🦁",
+      "color": "bg-amber-100 text-amber-900 border-amber-300",
+      "isNew": false,
+      "names": { "it": "Animali" },
+      "descriptions": { "it": "Dal giardino di casa alla savana" },
+      "words": {
+        "it": ["LEONE","TIGRE","ZEBRA","CANE","GATTO","CAVALLO","MUCCA","PECORA","CAPRA","GALLINA","ANATRA","CONIGLIO","LEPRE","VOLPE","ORSO","LUPO","CERVO","GIRAFFA","ELEFANTE","SCIMMIA","DELFINO","BALENA","SQUALO","TONNO","AQUILA","FALCO","GUFO","CIGNO","PASSERO","PAPPAGALLO","RICCIO","FARFALLA","GRILLO","RAGNO","SERPENTE","LUCERTOLA","TARTARUGA","RANA","CANGURO","PANDA","KOALA","CAMMELLO","LINCE","STAMBECCO","ISTICE","GHEPARDO"]
+      }
+    },
+    {
+      "slug": "frutta-verdura",
+      "emoji": "🍎",
+      "color": "bg-lime-100 text-lime-900 border-lime-300",
+      "isNew": false,
+      "names": { "it": "Frutta & Verdura" },
+      "descriptions": { "it": "Il mercato contadino in una griglia" },
+      "words": {
+        "it": ["MELA","PERA","BANANA","ARANCIA","LIMONE","FRAGOLA","CILIEGIA","ALBICOCCA","PESCA","UVA","FICO","MELONE","ANGURIA","MANDORLA","NOCE","CASTAGNA","PATATA","CAROTA","POMODORO","ZUCCHINA","MELANZANA","PEPERONE","CIPOLLA","AGLIO","LATTUGA","SPINACI","BROCCOLO","CAVOLFIORE","FINOCCHIO","SEDANO","RAVANELLO","ASPARAGO","FUNGO","TARTUFO","RUCOLA","BASILICO","PREZZEMOLO","SALVIA","ROSMARINO","MELAGRANA","PAPAIA","KAKI","LITCHI"]
+      }
+    },
+    {
+      "slug": "cibo",
+      "emoji": "🍝",
+      "color": "bg-orange-100 text-orange-900 border-orange-300",
+      "isNew": false,
+      "names": { "it": "Cibo" },
+      "descriptions": { "it": "Un menù degustazione di parole" },
+      "words": {
+        "it": ["PASTA","PIZZA","RISO","PANE","LASAGNE","GNOCCHI","RAVIOLI","TORTELLINI","SPAGHETTI","RISOTTO","POLLO","BISTECCA","SALSICCIA","PROSCIUTTO","SALAME","MOZZARELLA","PARMIGIANO","GORGONZOLA","RICOTTA","BURRO","FORMAGGIO","GELATO","TORTA","BISCOTTI","CIOCCOLATO","CARAMELLE","MARMELLATA","MIELE","ZUCCHERO","PEPE","OLIO","ACETO","PANETTONE","TIRAMISU","CROSTATA","BRIOCHE","CANNOLI","ARANCINI","PESTO","RAGU","ABBACCHIO"]
+      }
+    },
+    {
+      "slug": "nazioni",
+      "emoji": "🌍",
+      "color": "bg-emerald-100 text-emerald-900 border-emerald-300",
+      "isNew": false,
+      "names": { "it": "Nazioni" },
+      "descriptions": { "it": "Un giro del mondo in 12x12" },
+      "words": {
+        "it": ["ITALIA","FRANCIA","SPAGNA","PORTOGALLO","GERMANIA","AUSTRIA","SVIZZERA","OLANDA","BELGIO","IRLANDA","DANIMARCA","SVEZIA","NORVEGIA","FINLANDIA","POLONIA","RUSSIA","UCRAINA","GRECIA","TURCHIA","EGITTO","MAROCCO","TUNISIA","ALGERIA","NIGERIA","AMERICA","CANADA","MESSICO","BRASILE","ARGENTINA","CILE","PERU","BOLIVIA","CUBA","GIAPPONE","CINA","INDIA","COREA","VIETNAM","THAILANDIA","AUSTRALIA","GROENLANDIA","ISLANDA"]
+      }
+    },
+    {
+      "slug": "colori",
+      "emoji": "🎨",
+      "color": "bg-rose-100 text-rose-900 border-rose-300",
+      "isNew": false,
+      "names": { "it": "Colori" },
+      "descriptions": { "it": "La tavolozza nascosta" },
+      "words": {
+        "it": ["ROSSO","GIALLO","VERDE","VIOLA","ROSA","MARRONE","GRIGIO","NERO","BIANCO","ORO","ARGENTO","TURCHESE","INDACO","MAGENTA","BEIGE","PORPORA","SMERALDO","AMBRA","CORALLO","AVORIO","EBANO","AMARANTO","LILLA","ZAFFERANO","CREMISI","OCRA"]
+      }
+    },
+    {
+      "slug": "sport",
+      "emoji": "🏆",
+      "color": "bg-teal-100 text-teal-900 border-teal-300",
+      "isNew": false,
+      "names": { "it": "Sport" },
+      "descriptions": { "it": "Podio, record e sudore" },
+      "words": {
+        "it": ["CALCIO","PALLONE","TENNIS","NUOTO","ATLETICA","PUGILATO","SCHERMA","CICLISMO","CORSA","MARATONA","SCI","PALESTRA","PADEL","GOLF","RUGBY","BASEBALL","PALLANUOTO","PALLAVOLO","GINNASTICA","EQUITAZIONE","CANOA","VELA","BOXE","LOTTA","SALTO","OSTACOLI","BICICLETTA","MARCIA","ARCIERE","PIROETTA","SLALOM","TRIPLO","MARTELLO","GIAVELLOTTO"]
+      }
+    },
+    {
+      "slug": "corpo-umano",
+      "emoji": "🫀",
+      "color": "bg-red-100 text-red-900 border-red-300",
+      "isNew": false,
+      "names": { "it": "Corpo Umano" },
+      "descriptions": { "it": "Piccola anatomia tra le celle" },
+      "words": {
+        "it": ["TESTA","OCCHIO","NASO","BOCCA","DENTI","LINGUA","LABBRA","ORECCHIO","COLLO","SPALLA","BRACCIO","GOMITO","MANO","DITO","POLSO","TORACE","PETTO","COSTOLE","SCHIENA","GINOCCHIO","COSCIA","POLPACCIO","CAVIGLIA","PIEDE","TALLONE","CUORE","POLMONI","FEGATO","STOMACO","RENI","CERVELLO","SANGUE","OSSA","MUSCOLI","PELLE","CAPELLI","BARBA","UNGHIE","INTESTINO"]
+      }
+    },
+    {
+      "slug": "citta",
+      "emoji": "🏛️",
+      "color": "bg-stone-100 text-stone-900 border-stone-300",
+      "isNew": false,
+      "names": { "it": "Città Italiane" },
+      "descriptions": { "it": "Da Nord a Sud, capoluoghi e non solo" },
+      "words": {
+        "it": ["ROMA","MILANO","NAPOLI","TORINO","PALERMO","GENOVA","BOLOGNA","FIRENZE","BARI","CATANIA","VENEZIA","VERONA","PISA","SIENA","TRIESTE","TRENTO","UDINE","PARMA","MODENA","FERRARA","RAVENNA","RIMINI","ANCONA","PERUGIA","PESCARA","CAMPOBASSO","CASERTA","BENEVENTO","POTENZA","COSENZA","CATANZARO","MESSINA","SASSARI","CAGLIARI","NUORO","ORISTANO","AOSTA","LECCE","TARANTO","BRINDISI","FOGGIA","TERNI","MATERA","LAMEZIA","OLBIA","SIRACUSA","AGRIGENTO"]
+      }
+    },
+    {
+      "slug": "natura",
+      "emoji": "🌦️",
+      "color": "bg-sky-100 text-sky-900 border-sky-300",
+      "isNew": false,
+      "names": { "it": "Natura & Meteo" },
+      "descriptions": { "it": "Cieli, boschi e stagioni" },
+      "words": {
+        "it": ["PIOGGIA","NEVE","VENTO","TEMPESTA","FOGHINA","NUVOLE","SOLE","LUNA","STELLE","ARCOBALENO","TUONO","FULMINE","GRANDINE","BRINA","GHIACCIO","BRUMA","CALDO","FREDDO","PRIMAVERA","ESTATE","AUTUNNO","INVERNO","MARE","MONTAGNA","FIUME","LAGO","BOSCO","FORESTA","DESERTO","VULCANO","ISOLA","VALLE","GHIACCIAIO","CASCATA","PRATO","SPIAGGIA"]
+      }
+    },
+    {
+      "slug": "casa",
+      "emoji": "🏠",
+      "color": "bg-yellow-100 text-yellow-900 border-yellow-300",
+      "isNew": false,
+      "names": { "it": "Casa" },
+      "descriptions": { "it": "Oggetti quotidiani ben nascosti" },
+      "words": {
+        "it": ["PORTA","FINESTRA","TAVOLO","SEDIA","DIVANO","LETTO","CUCINA","SALOTTO","BAGNO","SPECCHIO","ARMADIO","CASSETTI","LAMPADA","TAPPETO","CUSCINO","SPOGLIATOIO","FORCHETTA","COLTELLO","CUCCHIAIO","PIATTO","BICCHIERE","PENTOLA","PADELLA","FORNO","FRIGORIFERO","LAVATRICE","SCOPA","ASPIRAPOLVERE","TENDA","SERRATURA","CAMINO"]
+      }
+    },
+    {
+      "slug": "musica",
+      "emoji": "🎵",
+      "color": "bg-fuchsia-100 text-fuchsia-900 border-fuchsia-300",
+      "isNew": false,
+      "names": { "it": "Musica" },
+      "descriptions": { "it": "Note, strumenti e ritmi" },
+      "words": {
+        "it": ["NOTA","MUSICA","CANZONE","MELODIA","RITMO","CORO","ORCHESTRA","PIANOFORTE","VIOLINO","VIOLONCELLO","CHITARRA","BASSO","BATTERIA","TAMBURELLO","TROMBA","SAXOFONO","FLAUTO","CLARINETTO","ARPA","ORGANO","ACCORDO","SCALA","OPERA","SINFONIA","CONCERTO","MICROFONO","CASSE","DISCO"]
+      }
+    },
+    {
+      "slug": "lavori",
+      "emoji": "👷",
+      "color": "bg-cyan-100 text-cyan-900 border-cyan-300",
+      "isNew": false,
+      "names": { "it": "Lavori & Mestieri" },
+      "descriptions": { "it": "Chi fa cosa nella griglia" },
+      "words": {
+        "it": ["MEDICO","INFERMIERE","AVVOCATO","GIUDICE","NOTAIO","INSEGNANTE","STUDENTE","INGEGNERE","ARCHITETTO","GEOMETRA","ELETTRICISTA","IDRAULICO","MURATORE","CARPENTIERE","FALEGNAME","PANETTIERE","MACELLAIO","PESCATORE","CONTADINO","PASTORE","BARBIERE","PARRUCCHIERA","SARTO","CALZOLAIO","OREFICE","COMMERCIANTE","CASSIERA","CAMERIERE","CUOCO","PILOTA","VIGILE","VIGILFUOCO","GIORNALISTA","FOTOGRAFO"]
+      }
+    },
+    {
+      "slug": "animals",
+      "emoji": "🦁",
+      "color": "bg-amber-100 text-amber-900 border-amber-300",
+      "isNew": false,
+      "names": { "en": "Animals" },
+      "descriptions": { "en": "From the backyard to the savanna" },
+      "words": {
+        "en": ["LION","TIGER","ZEBRA","DOG","CAT","HORSE","COW","SHEEP","GOAT","CHICKEN","DUCK","RABBIT","HARE","FOX","BEAR","WOLF","DEER","GIRAFFE","ELEPHANT","MONKEY","DOLPHIN","WHALE","SHARK","EAGLE","FALCON","OWL","SWAN","SPARROW","PARROT","HEDGEHOG","BUTTERFLY","SNAKE","TURTLE","FROG","KANGAROO","PANDA","KOALA","CAMEL"]
+      }
+    },
+    {
+      "slug": "food",
+      "emoji": "🍔",
+      "color": "bg-orange-100 text-orange-900 border-orange-300",
+      "isNew": false,
+      "names": { "en": "Food" },
+      "descriptions": { "en": "A tasting menu of words" },
+      "words": {
+        "en": ["BREAD","PASTA","PIZZA","RICE","CHEESE","BUTTER","HONEY","SUGAR","APPLE","BANANA","ORANGE","LEMON","CHERRY","GRAPE","POTATO","CARROT","TOMATO","ONION","SALAD","SOUP","STEAK","CHICKEN","FISH","CAKE","COOKIE","CHOCOLATE","ICECREAM","JAM","PEPPER","VINEGAR","MEATBALL","POPCORN"]
+      }
+    },
+    {
+      "slug": "countries",
+      "emoji": "🌍",
+      "color": "bg-emerald-100 text-emerald-900 border-emerald-300",
+      "isNew": false,
+      "names": { "en": "Countries" },
+      "descriptions": { "en": "A world tour in a grid" },
+      "words": {
+        "en": ["ITALY","FRANCE","SPAIN","PORTUGAL","GERMANY","AUSTRIA","SWITZERLAND","HOLLAND","BELGIUM","IRELAND","DENMARK","SWEDEN","NORWAY","FINLAND","POLAND","RUSSIA","GREECE","TURKEY","EGYPT","MOROCCO","AMERICA","CANADA","MEXICO","BRAZIL","CHILE","PERU","CUBA","JAPAN","CHINA","INDIA","VIETNAM","AUSTRALIA","ICELAND","ENGLAND","SCOTLAND"]
+      }
+    },
+    {
+      "slug": "persone",
+      "emoji": "🧑",
+      "color": "bg-violet-100 text-violet-900 border-violet-300",
+      "isNew": true,
+      "names": { "it": "Persone", "en": "People", "fr": "Gens", "de": "Menschen", "es": "Gente" },
+      "descriptions": {
+        "it": "Il corpo umano dal viso ai piedi",
+        "en": "The human body from head to toe",
+        "fr": "Le corps humain de la tête aux pieds",
+        "de": "Der menschliche Körper von Kopf bis Fuß",
+        "es": "El cuerpo humano de la cabeza a los pies"
+      },
+      "subcategories": [
+        {
+          "slug": "corpo",
+          "emoji": "🧍",
+          "names": { "it": "Corpo", "en": "Body", "fr": "Corps", "de": "Körper", "es": "Cuerpo" },
+          "entries": [
+            { "it": "corpo", "en": "body", "fr": "corps", "de": "Körper", "es": "cuerpo" },
+            { "it": "testa", "en": "head", "fr": "tête", "de": "Kopf", "es": "cabeza" },
+            { "it": "collo", "en": "neck", "fr": "cou", "de": "Hals", "es": "cuello" },
+            { "it": "torace", "en": "chest", "fr": "poitrine", "de": "Brust", "es": "pecho" },
+            { "it": "seno", "en": "breast", "fr": "sein", "de": "Brust", "es": "pecho" },
+            { "it": "capezzolo", "en": "nipple", "fr": "mamelon", "de": "Brustwarze", "es": "pezón" },
+            { "it": "addome", "en": "abdomen", "fr": "ventre", "de": "Bauch", "es": "abdomen" },
+            { "it": "vita", "en": "waist", "fr": "taille", "de": "Taille", "es": "cintura" },
+            { "it": "ombelico", "en": "navel", "fr": "nombril", "de": "Nabel", "es": "ombligo" },
+            { "it": "fianco", "en": "hip", "fr": "hanche", "de": "Hüfte", "es": "cadera" },
+            { "it": "avambraccio", "en": "forearm", "fr": "avant-bras", "de": "Unterarm", "es": "antebrazo" },
+            { "it": "genitali", "en": "genitals", "fr": "organes génitaux", "de": "Geschlechtsteile", "es": "genitales" },
+            { "it": "coscia", "en": "thigh", "fr": "cuisse", "de": "Oberschenkel", "es": "muslo" },
+            { "it": "inguine", "en": "groin", "fr": "aine", "de": "Leiste", "es": "ingle" },
+            { "it": "ginocchio", "en": "knee", "fr": "genou", "de": "Knie", "es": "rodilla" },
+            { "it": "gamba", "en": "leg", "fr": "jambe", "de": "Bein", "es": "pierna" },
+            { "it": "stinco", "en": "shin", "fr": "tibia", "de": "Schienbein", "es": "espinilla" },
+            { "it": "schiena", "en": "back", "fr": "dos", "de": "Rücken", "es": "espalda" },
+            { "it": "nuca", "en": "nape", "fr": "nuque", "de": "Nacken", "es": "nuca" },
+            { "it": "spalla", "en": "shoulder", "fr": "épaule", "de": "Schulter", "es": "hombro" },
+            { "it": "ascella", "en": "armpit", "fr": "aisselle", "de": "Achselhöhle", "es": "axila" },
+            { "it": "braccio", "en": "arm", "fr": "bras", "de": "Arm", "es": "brazo" },
+            { "it": "gomito", "en": "elbow", "fr": "coude", "de": "Ellbogen", "es": "codo" },
+            { "it": "natica", "en": "buttock", "fr": "fesse", "de": "Hinterbacke", "es": "nalga" },
+            { "it": "mano", "en": "hand", "fr": "main", "de": "Hand", "es": "mano" },
+            { "it": "polpaccio", "en": "calf", "fr": "mollet", "de": "Wade", "es": "pantorrilla" },
+            { "it": "caviglia", "en": "ankle", "fr": "cheville", "de": "Knöchel", "es": "tobillo" },
+            { "it": "tallone", "en": "heel", "fr": "talon", "de": "Ferse", "es": "talón" },
+            { "it": "piede", "en": "foot", "fr": "pied", "de": "Fuß", "es": "pie" },
+            { "it": "uomo", "en": "male", "fr": "homme", "de": "Mann", "es": "hombre" },
+            { "it": "donna", "en": "female", "fr": "femme", "de": "Frau", "es": "mujer" }
+          ]
+        },
+        {
+          "slug": "viso",
+          "emoji": "😊",
+          "names": { "it": "Viso", "en": "Face", "fr": "Visage", "de": "Gesicht", "es": "Cara" },
+          "entries": [
+            { "it": "faccia", "en": "face", "fr": "visage", "de": "Gesicht", "es": "cara" },
+            { "it": "capelli", "en": "hair", "fr": "cheveux", "de": "Haar", "es": "cabello" },
+            { "it": "pelle", "en": "skin", "fr": "peau", "de": "Haut", "es": "piel" },
+            { "it": "fronte", "en": "forehead", "fr": "front", "de": "Stirn", "es": "frente" },
+            { "it": "sopracciglio", "en": "eyebrow", "fr": "sourcil", "de": "Augenbraue", "es": "ceja" },
+            { "it": "tempia", "en": "temple", "fr": "tempe", "de": "Schläfe", "es": "sien" },
+            { "it": "ciglio", "en": "eyelash", "fr": "cil", "de": "Wimper", "es": "pestaña" },
+            { "it": "occhio", "en": "eye", "fr": "œil", "de": "Auge", "es": "ojo" },
+            { "it": "orecchio", "en": "ear", "fr": "oreille", "de": "Ohr", "es": "oreja" },
+            { "it": "guancia", "en": "cheek", "fr": "joue", "de": "Backe", "es": "mejilla" },
+            { "it": "naso", "en": "nose", "fr": "nez", "de": "Nase", "es": "nariz" },
+            { "it": "narice", "en": "nostril", "fr": "narine", "de": "Nasenloch", "es": "fosa nasal" },
+            { "it": "neo", "en": "mole", "fr": "grain de beauté", "de": "Muttermal", "es": "lunar" },
+            { "it": "bocca", "en": "mouth", "fr": "bouche", "de": "Mund", "es": "boca" },
+            { "it": "labbro", "en": "lip", "fr": "lèvre", "de": "Lippe", "es": "labio" },
+            { "it": "mandibola", "en": "jaw", "fr": "mâchoire", "de": "Kinnlade", "es": "mandíbula" },
+            { "it": "mento", "en": "chin", "fr": "menton", "de": "Kinn", "es": "barbilla" },
+            { "it": "ruga", "en": "wrinkle", "fr": "ride", "de": "Falte", "es": "arruga" },
+            { "it": "lentiggine", "en": "freckle", "fr": "tache de rousseur", "de": "Sommersprosse", "es": "peca" },
+            { "it": "fossetta", "en": "dimple", "fr": "fossette", "de": "Grübchen", "es": "hoyuelo" },
+            { "it": "poro", "en": "pore", "fr": "pore", "de": "Pore", "es": "poro" }
+          ]
+        },
+        {
+          "slug": "mano",
+          "emoji": "✋",
+          "names": { "it": "Mano", "en": "Hand", "fr": "Main", "de": "Hand", "es": "Mano" },
+          "entries": [
+            { "it": "mano", "en": "hand", "fr": "main", "de": "Hand", "es": "mano" },
+            { "it": "dito", "en": "finger", "fr": "doigt", "de": "Finger", "es": "dedo" },
+            { "it": "pollice", "en": "thumb", "fr": "pouce", "de": "Daumen", "es": "pulgar" },
+            { "it": "indice", "en": "index finger", "fr": "index", "de": "Zeigefinger", "es": "índice" },
+            { "it": "medio", "en": "middle finger", "fr": "majeur", "de": "Mittelfinger", "es": "dedo corazón" },
+            { "it": "anulare", "en": "ring finger", "fr": "annulaire", "de": "Ringfinger", "es": "anular" },
+            { "it": "mignolo", "en": "little finger", "fr": "auriculaire", "de": "kleiner Finger", "es": "meñique" },
+            { "it": "palmo", "en": "palm", "fr": "paume", "de": "Handfläche", "es": "palma" },
+            { "it": "nocca", "en": "knuckle", "fr": "jointure", "de": "Knöchel", "es": "nudillo" },
+            { "it": "unghia", "en": "nail", "fr": "ongle", "de": "Fingernagel", "es": "uña" },
+            { "it": "pellicina", "en": "cuticle", "fr": "cuticule", "de": "Nagelhaut", "es": "cutícula" },
+            { "it": "pugno", "en": "fist", "fr": "poing", "de": "Faust", "es": "puño" },
+            { "it": "polso", "en": "wrist", "fr": "poignet", "de": "Handgelenk", "es": "muñeca" }
+          ]
+        },
+        {
+          "slug": "piede",
+          "emoji": "🦶",
+          "names": { "it": "Piede", "en": "Foot", "fr": "Pied", "de": "Fuß", "es": "Pie" },
+          "entries": [
+            { "it": "piede", "en": "foot", "fr": "pied", "de": "Fuß", "es": "pie" },
+            { "it": "avampiede", "en": "ball of foot", "fr": "avant-pied", "de": "Ballen", "es": "antepié" },
+            { "it": "dito del piede", "en": "toe", "fr": "orteil", "de": "Zeh", "es": "dedo del pie" },
+            { "it": "tallone", "en": "heel", "fr": "talon", "de": "Ferse", "es": "talón" },
+            { "it": "pianta del piede", "en": "sole", "fr": "plante du pied", "de": "Fußsohle", "es": "planta del pie" },
+            { "it": "collo del piede", "en": "instep", "fr": "cou-de-pied", "de": "Spann", "es": "empeine" },
+            { "it": "arco plantare", "en": "arch", "fr": "cambrure", "de": "Gewölbe", "es": "arco plantar" },
+            { "it": "alluce", "en": "big toe", "fr": "gros orteil", "de": "große Zeh", "es": "dedo gordo" },
+            { "it": "unghia del piede", "en": "toenail", "fr": "ongle du pied", "de": "Zehennagel", "es": "uña del pie" },
+            { "it": "mignolo del piede", "en": "little toe", "fr": "petit orteil", "de": "kleiner Zeh", "es": "dedo pequeño" },
+            { "it": "caviglia", "en": "ankle", "fr": "cheville", "de": "Knöchel", "es": "tobillo" }
+          ]
+        },
+        {
+          "slug": "muscoli",
+          "emoji": "💪",
+          "names": { "it": "Muscoli", "en": "Muscles", "fr": "Muscles", "de": "Muskeln", "es": "Músculos" },
+          "entries": [
+            { "it": "muscolo", "en": "muscle", "fr": "muscle", "de": "Muskel", "es": "músculo" },
+            { "it": "frontale", "en": "frontal", "fr": "frontal", "de": "Stirnmuskel", "es": "frontal" },
+            { "it": "pettorale", "en": "pectoral", "fr": "pectoral", "de": "Brustmuskel", "es": "pectoral" },
+            { "it": "deltoide", "en": "deltoid", "fr": "deltoïde", "de": "Deltamuskel", "es": "deltoides" },
+            { "it": "trapezio", "en": "trapezius", "fr": "trapèze", "de": "Kapuzenmuskel", "es": "trapecio" },
+            { "it": "intercostale", "en": "intercostal", "fr": "intercostal", "de": "Zwischenrippenmuskel", "es": "intercostal" },
+            { "it": "dorsale", "en": "latissimus dorsi", "fr": "dorsal", "de": "Rückenmuskel", "es": "dorsal" },
+            { "it": "bicipite", "en": "biceps", "fr": "biceps", "de": "Bizeps", "es": "bíceps" },
+            { "it": "tricipite", "en": "triceps", "fr": "triceps", "de": "Trizeps", "es": "tríceps" },
+            { "it": "addominali", "en": "abdominals", "fr": "abdominaux", "de": "Bauchmuskeln", "es": "abdominales" },
+            { "it": "gluteo", "en": "gluteus", "fr": "fessier", "de": "Gesäßmuskel", "es": "glúteo" },
+            { "it": "quadricipite", "en": "quadriceps", "fr": "quadriceps", "de": "Oberschenkelmuskeln", "es": "cuádriceps" },
+            { "it": "tendine d'Achille", "en": "Achilles tendon", "fr": "tendon d'Achille", "de": "Achillessehne", "es": "tendón de Aquiles" }
+          ]
+        },
+        {
+          "slug": "scheletro",
+          "emoji": "🦴",
+          "names": { "it": "Scheletro", "en": "Skeleton", "fr": "Squelette", "de": "Skelett", "es": "Esqueleto" },
+          "entries": [
+            { "it": "scheletro", "en": "skeleton", "fr": "squelette", "de": "Skelett", "es": "esqueleto" },
+            { "it": "osso", "en": "bone", "fr": "os", "de": "Knochen", "es": "hueso" },
+            { "it": "cranio", "en": "skull", "fr": "crâne", "de": "Schädel", "es": "cráneo" },
+            { "it": "clavicola", "en": "collar bone", "fr": "clavicule", "de": "Schlüsselbein", "es": "clavícula" },
+            { "it": "scapola", "en": "shoulder blade", "fr": "omoplate", "de": "Schulterblatt", "es": "escápula" },
+            { "it": "colonna vertebrale", "en": "spine", "fr": "colonne vertébrale", "de": "Wirbelsäule", "es": "espina dorsal" },
+            { "it": "bacino", "en": "pelvis", "fr": "bassin", "de": "Becken", "es": "pelvis" },
+            { "it": "coccige", "en": "tailbone", "fr": "coccyx", "de": "Steißbein", "es": "coxis" },
+            { "it": "omero", "en": "humerus", "fr": "humérus", "de": "Oberarmknochen", "es": "húmero" },
+            { "it": "radio", "en": "radius", "fr": "radius", "de": "Speiche", "es": "radio" },
+            { "it": "ulna", "en": "ulna", "fr": "cubitus", "de": "Elle", "es": "cúbito" },
+            { "it": "femore", "en": "femur", "fr": "fémur", "de": "Oberschenkelknochen", "es": "fémur" },
+            { "it": "rotula", "en": "kneecap", "fr": "rotule", "de": "Kniescheibe", "es": "rótula" },
+            { "it": "tibia", "en": "tibia", "fr": "tibia", "de": "Schienbein", "es": "tibia" },
+            { "it": "perone", "en": "fibula", "fr": "péroné", "de": "Wadenbein", "es": "peroné" },
+            { "it": "costola", "en": "rib", "fr": "côte", "de": "Rippe", "es": "costilla" },
+            { "it": "cassa toracica", "en": "rib cage", "fr": "cage thoracique", "de": "Brustkorb", "es": "caja torácica" },
+            { "it": "sterno", "en": "sternum", "fr": "sternum", "de": "Brustbein", "es": "esternón" },
+            { "it": "vertebre cervicali", "en": "cervical vertebrae", "fr": "vertèbres cervicales", "de": "Halswirbel", "es": "vértebras cervicales" },
+            { "it": "vertebre toraciche", "en": "thoracic vertebrae", "fr": "vertèbres thoraciques", "de": "Brustwirbel", "es": "vértebras dorsales" },
+            { "it": "vertebre lombari", "en": "lumbar vertebrae", "fr": "vertèbres lombaires", "de": "Lendenwirbel", "es": "vértebras lumbares" },
+            { "it": "articolazione", "en": "joint", "fr": "articulation", "de": "Gelenk", "es": "articulación" },
+            { "it": "legamento", "en": "ligament", "fr": "ligament", "de": "Sehnenband", "es": "ligamento" },
+            { "it": "tendine", "en": "tendon", "fr": "tendon", "de": "Sehne", "es": "tendón" },
+            { "it": "metacarpo", "en": "metacarpal", "fr": "métacarpien", "de": "Mittelhandknochen", "es": "metacarpo" },
+            { "it": "metatarso", "en": "metatarsal", "fr": "métatarsien", "de": "Mittelfußknochen", "es": "metatarso" },
+            { "it": "cartilagine", "en": "cartilage", "fr": "cartilage", "de": "Knorpel", "es": "cartílago" }
+          ]
+        },
+        {
+          "slug": "organi-interni",
+          "emoji": "🫀",
+          "names": { "it": "Organi interni", "en": "Internal organs", "fr": "Organes internes", "de": "Innere Organe", "es": "Órganos internos" },
+          "entries": [
+            { "it": "cuore", "en": "heart", "fr": "cœur", "de": "Herz", "es": "corazón" },
+            { "it": "polmone", "en": "lung", "fr": "poumon", "de": "Lunge", "es": "pulmón" },
+            { "it": "fegato", "en": "liver", "fr": "foie", "de": "Leber", "es": "hígado" },
+            { "it": "stomaco", "en": "stomach", "fr": "estomac", "de": "Magen", "es": "estómago" },
+            { "it": "rene", "en": "kidney", "fr": "rein", "de": "Niere", "es": "riñón" },
+            { "it": "milza", "en": "spleen", "fr": "rate", "de": "Milz", "es": "bazo" },
+            { "it": "pancreas", "en": "pancreas", "fr": "pancréas", "de": "Bauchspeicheldrüse", "es": "páncreas" },
+            { "it": "tiroide", "en": "thyroid gland", "fr": "thyroïde", "de": "Schilddrüse", "es": "tiroides" },
+            { "it": "trachea", "en": "windpipe", "fr": "trachée", "de": "Luftröhre", "es": "tráquea" },
+            { "it": "duodeno", "en": "duodenum", "fr": "duodénum", "de": "Zwölffingerdarm", "es": "duodeno" },
+            { "it": "intestino tenue", "en": "small intestine", "fr": "intestin grêle", "de": "Dünndarm", "es": "intestino delgado" },
+            { "it": "intestino crasso", "en": "large intestine", "fr": "gros intestin", "de": "Dickdarm", "es": "intestino grueso" },
+            { "it": "appendice", "en": "appendix", "fr": "appendice", "de": "Blinddarm", "es": "apéndice" }
+          ]
+        },
+        {
+          "slug": "testa",
+          "emoji": "🧠",
+          "names": { "it": "Testa", "en": "Head", "fr": "Tête", "de": "Kopf", "es": "Cabeza" },
+          "entries": [
+            { "it": "cervello", "en": "brain", "fr": "cerveau", "de": "Gehirn", "es": "cerebro" },
+            { "it": "seno paranasale", "en": "sinus", "fr": "sinus", "de": "Sinus", "es": "seno" },
+            { "it": "palato", "en": "palate", "fr": "palais", "de": "Gaumen", "es": "paladar" },
+            { "it": "faringe", "en": "pharynx", "fr": "pharynx", "de": "Rachen", "es": "faringe" },
+            { "it": "lingua", "en": "tongue", "fr": "langue", "de": "Zunge", "es": "lengua" },
+            { "it": "epiglottide", "en": "epiglottis", "fr": "épiglotte", "de": "Kehldeckel", "es": "epiglotis" },
+            { "it": "laringe", "en": "larynx", "fr": "larynx", "de": "Kehlkopf", "es": "laringe" },
+            { "it": "esofago", "en": "esophagus", "fr": "œsophage", "de": "Speiseröhre", "es": "esófago" },
+            { "it": "pomo d'Adamo", "en": "Adam's apple", "fr": "pomme d'Adam", "de": "Adamsapfel", "es": "manzana de Adán" },
+            { "it": "corde vocali", "en": "vocal cords", "fr": "cordes vocales", "de": "Stimmbänder", "es": "cuerdas vocales" },
+            { "it": "gola", "en": "throat", "fr": "gorge", "de": "Kehle", "es": "garganta" }
+          ]
+        },
+        {
+          "slug": "sistemi-corporei",
+          "emoji": "🩺",
+          "names": { "it": "Sistemi corporei", "en": "Body systems", "fr": "Systèmes du corps", "de": "Körpersysteme", "es": "Sistemas corporales" },
+          "entries": [
+            { "it": "diaframma", "en": "diaphragm", "fr": "diaphragme", "de": "Zwerchfell", "es": "diafragma" },
+            { "it": "vena", "en": "vein", "fr": "veine", "de": "Vene", "es": "vena" },
+            { "it": "arteria", "en": "artery", "fr": "artère", "de": "Arterie", "es": "arteria" },
+            { "it": "ghiandola", "en": "gland", "fr": "glande", "de": "Drüse", "es": "glándula" },
+            { "it": "nervo", "en": "nerve", "fr": "nerf", "de": "Nerv", "es": "nervio" },
+            { "it": "respiratorio", "en": "respiratory", "fr": "respiratoire", "de": "Atmungssystem", "es": "respiratorio" },
+            { "it": "digestivo", "en": "digestive", "fr": "digestif", "de": "Verdauungssystem", "es": "digestivo" },
+            { "it": "cardiovascolare", "en": "cardiovascular", "fr": "cardio-vasculaire", "de": "Kreislaufsystem", "es": "cardiovascular" },
+            { "it": "linfatico", "en": "lymphatic", "fr": "lymphatique", "de": "lymphatisches System", "es": "linfático" },
+            { "it": "urinario", "en": "urinary", "fr": "urinaire", "de": "Harnsystem", "es": "urinario" },
+            { "it": "endocrino", "en": "endocrine", "fr": "endocrine", "de": "endokrines System", "es": "endocrino" },
+            { "it": "nervoso", "en": "nervous", "fr": "nerveux", "de": "Nervensystem", "es": "nervioso" },
+            { "it": "riproduttivo", "en": "reproductive", "fr": "reproducteur", "de": "Fortpflanzungssystem", "es": "reproductor" }
+          ]
+        },
+        {
+          "slug": "organi-riproduttivi",
+          "emoji": "🧬",
+          "names": { "it": "Organi riproduttivi", "en": "Reproductive organs", "fr": "Organes reproducteurs", "de": "Fortpflanzungsorgane", "es": "Órganos reproductores" },
+          "entries": [
+            { "it": "ovaia", "en": "ovary", "fr": "ovaire", "de": "Eierstock", "es": "ovario" },
+            { "it": "follicolo", "en": "follicle", "fr": "follicule", "de": "Follikel", "es": "folículo" },
+            { "it": "tubo di Falloppio", "en": "fallopian tube", "fr": "trompe de Fallope", "de": "Eileiter", "es": "trompa de Falopio" },
+            { "it": "utero", "en": "uterus", "fr": "utérus", "de": "Gebärmutter", "es": "útero" },
+            { "it": "collo dell'utero", "en": "cervix", "fr": "col de l'utérus", "de": "Gebärmutterhals", "es": "cuello uterino" },
+            { "it": "vagina", "en": "vagina", "fr": "vagin", "de": "Scheide", "es": "vagina" },
+            { "it": "clitoride", "en": "clitoris", "fr": "clitoris", "de": "Klitoris", "es": "clítoris" },
+            { "it": "labbra", "en": "labia", "fr": "lèvres", "de": "Schamlippen", "es": "labios" },
+            { "it": "vescica", "en": "bladder", "fr": "vessie", "de": "Blase", "es": "vejiga" },
+            { "it": "uretra", "en": "urethra", "fr": "urètre", "de": "Harnröhre", "es": "uretra" },
+            { "it": "pene", "en": "penis", "fr": "pénis", "de": "Penis", "es": "pene" },
+            { "it": "testicolo", "en": "testicle", "fr": "testicule", "de": "Hoden", "es": "testículo" },
+            { "it": "scroto", "en": "scrotum", "fr": "scrotum", "de": "Hodensack", "es": "escroto" },
+            { "it": "prepuzio", "en": "foreskin", "fr": "prépuce", "de": "Vorhaut", "es": "prepucio" },
+            { "it": "prostata", "en": "prostate", "fr": "prostate", "de": "Prostata", "es": "próstata" },
+            { "it": "vescicola seminale", "en": "seminal vesicle", "fr": "vésicule séminale", "de": "Samenbläschen", "es": "vesícula seminal" },
+            { "it": "dotto deferente", "en": "vas deferens", "fr": "conduit spermatique", "de": "Samenleiter", "es": "conducto deferente" },
+            { "it": "dotto eiaculatore", "en": "ejaculatory duct", "fr": "conduit éjaculatoire", "de": "Samenausführungsgang", "es": "conducto eyaculador" },
+            { "it": "uretere", "en": "ureter", "fr": "uretère", "de": "Harnleiter", "es": "uréter" },
+            { "it": "retto", "en": "rectum", "fr": "rectum", "de": "Mastdarm", "es": "recto" },
+            { "it": "ormone", "en": "hormone", "fr": "hormone", "de": "Hormon", "es": "hormona" },
+            { "it": "sperma", "en": "sperm", "fr": "sperme", "de": "Spermium", "es": "esperma" },
+            { "it": "ovulo", "en": "egg", "fr": "œuf", "de": "Ei", "es": "óvulo" },
+            { "it": "mestruazione", "en": "menstruation", "fr": "règles", "de": "Menstruation", "es": "menstruación" },
+            { "it": "ovulazione", "en": "ovulation", "fr": "ovulation", "de": "Eisprung", "es": "ovulación" },
+            { "it": "fecondo", "en": "fertile", "fr": "fécond", "de": "fruchtbar", "es": "fértil" },
+            { "it": "sterile", "en": "infertile", "fr": "stérile", "de": "steril", "es": "estéril" },
+            { "it": "impotente", "en": "impotent", "fr": "impuissant", "de": "impotent", "es": "impotente" },
+            { "it": "concepire", "en": "conceive", "fr": "concevoir", "de": "empfangen", "es": "concebir" },
+            { "it": "fecondazione", "en": "fertilization", "fr": "fertilisation", "de": "Befruchtung", "es": "fertilización" },
+            { "it": "coito", "en": "intercourse", "fr": "rapports sexuels", "de": "Geschlechtsverkehr", "es": "coito" },
+            { "it": "maschile", "en": "male", "fr": "masculin", "de": "männlich", "es": "masculino" },
+            { "it": "femminile", "en": "female", "fr": "féminin", "de": "weiblich", "es": "femenino" }
+          ]
+        },
+        {
+          "slug": "contraccezione",
+          "emoji": "💊",
+          "names": { "it": "Contraccezione", "en": "Contraception", "fr": "Contraception", "de": "Empfängnisverhütung", "es": "Anticoncepción" },
+          "entries": [
+            { "it": "contraccezione", "en": "contraception", "fr": "contraception", "de": "Empfängnisverhütung", "es": "anticoncepción" },
+            { "it": "preservativo", "en": "condom", "fr": "condom", "de": "Kondom", "es": "condón" },
+            { "it": "pillola", "en": "pill", "fr": "pilule", "de": "Pille", "es": "pastilla" },
+            { "it": "diaframma", "en": "diaphragm", "fr": "diaphragme", "de": "Diaphragma", "es": "diafragma" },
+            { "it": "pessario", "en": "cap", "fr": "pessaire", "de": "Pessar", "es": "pesario" },
+            { "it": "cappuccio cervicale", "en": "cervical cap", "fr": "capuchon cervical", "de": "Kappe", "es": "capuchón cervical" },
+            { "it": "spirale", "en": "IUD", "fr": "stérilet", "de": "Spirale", "es": "dispositivo intrauterino" }
+          ]
+        }
+      ]
+    }
+  ]
+}

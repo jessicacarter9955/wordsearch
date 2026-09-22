@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.defold.com",
+    "name": "Releasing HTML5 games on Yandex.Games",
+    "snippet": "Apr 21, 2021 — The only requirement to release a game on Yandex . Games is that the game integrates the Yandex . Games SDK. Let's see how this is done!",
+    "host_name": "www.defold.com",
+    "rank": 0,
+    "date": "Apr 21, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://partners.gamepix.com",
+    "name": "HTML5 Game Publishers | Monetize Your Games",
+    "snippet": "GamePix is the ultimate platform for HTML5 game developer publishing . you will earn revenue shares while reaching and monetizing your games",
+    "host_name": "partners.gamepix.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://truetech.dev",
+    "name": "Development of a Browser HTML5 Game on Unity for Yandex",
+    "snippet": "Turnkey brow s er game development for Yandex Games: mechanics, design, integration. Get a ready-made tool for attracting customers and increasing revenue.",
+    "host_name": "truetech.dev",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://marketplace.gamemaker.io",
+    "name": "Yandex.Games SDK HTML5 by Maxim Trumdu",
+    "snippet": "Aug 17, 2025 — Description. Extension for publishing HTML games in Yandex . Games . Functionality of the Yandex . Games SDK: Full-screen advertising. Read more",
+    "host_name": "marketplace.gamemaker.io",
+    "rank": 3,
+    "date": "Aug 17, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Yandex.Games for Defold - YaGames",
+    "snippet": "This is an open-source project, and it's not affiliated with Yandex LLC. YaGames is the Yandex . Games SDK native extension for the Defold game engine. Read more",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

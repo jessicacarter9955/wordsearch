@@ -1,12 +1,13 @@
 'use client'
 
 import { GlossyIconButton, LetterBackground, SpeakerIcon } from '@/components/game/decor'
-import { Info, Play } from 'lucide-react'
+import { Info, Play, Trophy } from 'lucide-react'
 
 interface MenuScreenProps {
   muted: boolean
   onToggleMute: () => void
   onOpenInfo: () => void
+  onOpenStats: () => void
   onPlay: () => void
 }
 
@@ -25,7 +26,7 @@ function BubbleText({ text, className }: { text: string; className: string }) {
  * sfondo blu con griglia di lettere sfocate, bottoni agli angoli in alto,
  * placca-logo centrale con lente d'ingrandimento e grande bottone PLAY.
  */
-export function MenuScreen({ muted, onToggleMute, onOpenInfo, onPlay }: MenuScreenProps) {
+export function MenuScreen({ muted, onToggleMute, onOpenInfo, onOpenStats, onPlay }: MenuScreenProps) {
   return (
     <div className="ws-bg relative flex min-h-[100dvh] flex-col overflow-hidden">
       <LetterBackground />
@@ -99,6 +100,13 @@ export function MenuScreen({ muted, onToggleMute, onOpenInfo, onPlay }: MenuScre
             strokeWidth={1.2}
           />
         </button>
+      </div>
+
+      {/* Bottone statistiche in basso a sinistra, simmetrico agli angoli alti */}
+      <div className="absolute bottom-4 left-4 z-10 sm:bottom-6 sm:left-6">
+        <GlossyIconButton onClick={onOpenStats} label="Le mie parole (statistiche)">
+          <Trophy className="h-7 w-7" strokeWidth={2.6} />
+        </GlossyIconButton>
       </div>
     </div>
   )

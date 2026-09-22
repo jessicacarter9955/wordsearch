@@ -18,6 +18,8 @@ export interface Placement {
   word: string
   cells: Vec[]
   found: boolean
+  /** Forma naturale con spazi ("tendine d'Achille") per la lista parole */
+  display?: string
 }
 
 export interface Puzzle {
@@ -93,6 +95,33 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 /**
+ * Normalizza una parola per la griglia: MAIUSCOLO, solo lettere (Unicode),
+ * senza spazi/apostrofi/trattini. Le legature rare diventano doppie lettere
+ * (œ → OE) e la ß tedesca diventa SS (comportamento standard di toUpperCase).
+ * Gli accenti (É Ü Ñ À Ç...) sono MANTENUTI: ogni lettera accentata è una
+ * cella della griglia a tutti gli effetti.
+ */
+export function normalizeWord(w: string): string {
+  return w
+    .toUpperCase()
+    .replace(/Œ/g, 'OE')
+    .replace(/Æ/g, 'AE')
+    .replace(/[^\p{L}\p{N}]/gu, '')
+}
+
+/**
+ * Forma "display": maiuscolo con legature mappate, ma CON spazi e apostrofi
+ * ("TENDINE D'ACHILLE"). Usata dal seeder per il campo Word.display e dalla
+ * lista parole a lato.
+ */
+export function normalizeDisplay(w: string): string {
+  return w
+    .toUpperCase()
+    .replace(/Œ/g, 'OE')
+    .replace(/Æ/g, 'AE')
+}
+
+/**
  * Genera il puzzle. Riprova più volte con seed diversi se un piazzamento
  * fallisce (caso raro con griglie piccole e parole lunghe).
  */
@@ -104,7 +133,7 @@ export function generatePuzzle(
 
   // Filtra le parole troppo lunghe e prendi quelle richieste
   const usable = words
-    .map((w) => w.toUpperCase().replace(/[^A-Z]/g, ''))
+    .map((w) => normalizeWord(w))
     .filter((w) => w.length >= 3 && w.length <= Math.min(cfg.maxWordLength, cfg.rows, cfg.cols))
   const chosen = shuffle(usable).slice(0, cfg.wordCount)
 

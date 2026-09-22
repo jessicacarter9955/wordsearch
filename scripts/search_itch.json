@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://itch.io/docs/creators/html5",
+    "name": "Uploading HTML5 games - Itch.io",
+    "snippet": "If your game is more than a single file, it must be uploaded as a ZIP file. The ZIP file must contain a file called index.html , this is what people will see ...",
+    "host_name": "itch.io",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forums.unrealengine.com/t/uploading-html5-game-to-itch-io/405898",
+    "name": "Uploading html5 game to itch.io - Epic Developer Community Forums",
+    "snippet": "The ZIP file should not contain more than 100 individual files after extraction. The maximum length of a file name including path should not be ...",
+    "host_name": "forums.unrealengine.com",
+    "rank": 1,
+    "date": "Oct 1, 2017",
+    "favicon": ""
+  },
+  {
+    "url": "https://itch.io/t/3073110/how-do-i-add-downloadable-files-into-a-html5-game",
+    "name": "How do I add downloadable files into a HTML5 game? - itch.io",
+    "snippet": "Upload a ZIP file containing your game. There must be an index.html file in the ZIP . Or upload a .html file that contains your entire game.",
+    "host_name": "itch.io",
+    "rank": 2,
+    "date": "Aug 17, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BBiD2LLcjFI",
+    "name": "Upload (& Secure) an HTML Game to itch.io | Pong GDScript Basics",
+    "snippet": "... HTML5 game onto itch.io and friendly guidance on securing an account. ✓ Project: https://github.com/Godot-Tutorials/pong-basics-series Game ...",
+    "host_name": "www.youtube.com",
+    "rank": 3,
+    "date": "Jun 14, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/gamemaker/comments/byolt2/upload_html_game_to_itchio",
+    "name": "upload html game to itch.io : r/gamemaker - Reddit",
+    "snippet": "[SOLVED] I made an executable and uploaded the gamename.html file to itch.io but when i tried it there the game never loaded.",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "Jun 9, 2019",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.playcanvas.com/t/solved-uploading-to-itch-io/29269",
+    "name": "[SOLVED] Uploading To Itch.io - Help & Support - PlayCanvas Forum",
+    "snippet": "I want to upload my game to itch.io and I need to upload it today, and I am in no interest to upgrade (yet) is there a way to convert the ...",
+    "host_name": "forum.playcanvas.com",
+    "rank": 5,
+    "date": "Jan 13, 2023",
+    "favicon": ""
+  }
+]

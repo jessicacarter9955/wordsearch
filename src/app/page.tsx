@@ -4,6 +4,7 @@ import { GameScreen } from '@/components/game/game-screen'
 import { InfoDialog } from '@/components/game/info-dialog'
 import { MenuScreen } from '@/components/game/menu-screen'
 import { SelectScreen } from '@/components/game/select-screen'
+import { StatsScreen } from '@/components/game/stats-screen'
 import { WinDialog } from '@/components/game/win-dialog'
 import {
   DIFFICULTY_CONFIGS,
@@ -16,13 +17,14 @@ import {
   type Vec,
 } from '@/lib/game-engine'
 import { isMuted, setMuted, sfxFound, sfxWin } from '@/lib/sfx'
+import { loadWordStats, recordFoundWord, type WordStats } from '@/lib/wordstats'
 import type { Wordbank } from '@/lib/types'
 import { useCallback, useEffect, useRef, useState } from 'react'
 
 const BEST_KEY = 'crucipuzzle_best'
 const MUTE_KEY = 'crucipuzzle_muted'
 
-type Screen = 'menu' | 'select' | 'game'
+type Screen = 'menu' | 'select' | 'game' | 'stats'
 
 function loadBest(): Record<string, number> {
   if (typeof window === 'undefined') return {}
@@ -39,6 +41,7 @@ export default function Home() {
   const [wordbanks, setWordbanks] = useState<Wordbank[] | null>(null)
   const [lang, setLang] = useState('it')
   const [categoryId, setCategoryId] = useState<number | null>(null)
+  const [subcategoryId, setSubcategoryId] = useState<number | null>(null)
   const [difficulty, setDifficulty] = useState<Difficulty>('medium')
   const [categoryName, setCategoryName] = useState('')
 
@@ -55,6 +58,7 @@ export default function Home() {
   const [bestTimes, setBestTimes] = useState<Record<string, number>>({})
   const [muted, setMutedState] = useState(false)
   const [infoOpen, setInfoOpen] = useState(false)
+  const [wordStats, setWordStats] = useState<WordStats>({})
 
   const hintTimer = useRef<number | null>(null)
 
@@ -62,9 +66,12 @@ export default function Home() {
   useEffect(() => {
     fetch('/api/wordbanks')
       .then((r) => r.json())
-      .then((data: Wordbank[]) => setWordbanks(data))
+      .then((data: unknown) =>
+        setWordbanks(Array.isArray(data) ? (data as Wordbank[]) : [])
+      )
       .catch(() => setWordbanks([]))
     setBestTimes(loadBest())
+    setWordStats(loadWordStats())
     const m = localStorage.getItem(MUTE_KEY) === '1'
     setMutedState(m)
     setMuted(m)
@@ -96,7 +103,7 @@ export default function Home() {
       try {
         const cfg = DIFFICULTY_CONFIGS[difficulty]
         const res = await fetch(
-          `/api/words?categoryId=${catId}&count=${cfg.wordCount + 4}`
+          `/api/words?categoryId=${catId}&count=${cfg.wordCount + 4}&maxLen=${cfg.maxWordLength}`
         )
         if (!res.ok) throw new Error('fetch failed')
         const data = (await res.json()) as {
@@ -134,6 +141,7 @@ export default function Home() {
       }
       setPuzzle(nextPuzzle)
       setScore((s) => s + placement.word.length * 10)
+      setWordStats(recordFoundWord(lang, placement.word))
       sfxFound()
 
       if (nextPuzzle.placements.every((p) => p.found)) {
@@ -144,7 +152,8 @@ export default function Home() {
           timeBonus -
           hintsUsed * 25
         setScore(Math.max(0, finalScore))
-        const key = `${categoryId}_${difficulty}`
+        // Chiave record: id effettivo (sottocategoria se selezionata, altrimenti categoria)
+        const key = `${subcategoryId ?? categoryId}_${difficulty}`
         const prev = bestTimes[key]
         if (prev === undefined || seconds < prev) {
           const next = { ...bestTimes, [key]: seconds }
@@ -159,7 +168,7 @@ export default function Home() {
       }
       return 'found'
     },
-    [puzzle, won, elapsedMs, hintsUsed, categoryId, difficulty, bestTimes]
+    [puzzle, won, elapsedMs, hintsUsed, categoryId, subcategoryId, difficulty, bestTimes, lang]
   )
 
   // ---- aiuto ----
@@ -194,7 +203,18 @@ export default function Home() {
           muted={muted}
           onToggleMute={toggleMute}
           onOpenInfo={() => setInfoOpen(true)}
+          onOpenStats={() => setScreen('stats')}
           onPlay={() => setScreen('select')}
+        />
+      )}
+
+      {screen === 'stats' && (
+        <StatsScreen
+          wordbanks={wordbanks}
+          lang={lang}
+          onLangChange={(code) => setLang(code)}
+          stats={wordStats}
+          onBack={() => setScreen('menu')}
         />
       )}
 
@@ -205,14 +225,23 @@ export default function Home() {
           onLangChange={(code) => {
             setLang(code)
             setCategoryId(null)
+            setSubcategoryId(null)
           }}
           categoryId={categoryId}
-          onCategoryChange={setCategoryId}
+          onCategoryChange={(id) => {
+            setCategoryId(id)
+            setSubcategoryId(null)
+          }}
+          subcategoryId={subcategoryId}
+          onSubcategoryChange={setSubcategoryId}
           difficulty={difficulty}
           onDifficultyChange={setDifficulty}
           bestTimes={bestTimes}
           onBack={() => setScreen('menu')}
-          onStart={() => categoryId && startGame(categoryId)}
+          onStart={() => {
+            const id = subcategoryId ?? categoryId
+            if (id) startGame(id)
+          }}
         />
       )}
 
@@ -252,8 +281,11 @@ export default function Home() {
         score={score}
         hintsUsed={hintsUsed}
         isNewRecord={isNewRecord}
-        bestTime={bestTimes[`${categoryId}_${difficulty}`] ?? null}
-        onReplay={() => categoryId && startGame(categoryId)}
+        bestTime={bestTimes[`${subcategoryId ?? categoryId}_${difficulty}`] ?? null}
+        onReplay={() => {
+          const id = subcategoryId ?? categoryId
+          if (id) startGame(id)
+        }}
         onHome={() => {
           setWon(false)
           setScreen('select')

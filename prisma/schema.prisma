@@ -1,6 +1,12 @@
 // Prisma schema — Vocabolario del Crucipuzzle
-// Architettura: Lingue -> Categorie -> Parole
+// Architettura: Lingue -> Categorie (con sottocategorie opzionali) -> Parole
 // (concetto funzionale standard per word search, implementazione originale)
+//
+// Le categorie possono avere un `parentId`: se impostato, la categoria è una
+// sottocategoria selezionabile (opzionale) nella schermata di scelta.
+// `isNew` marca le categorie aggiunte dopo la prima versione (divider in UI).
+// `Word.display` conserva la forma naturale con spazi ("TENDINE D'ACHILLE")
+// mentre `text` è la forma per la griglia (solo lettere, maiuscolo).
 
 generator client {
   provider = "prisma-client-js"
@@ -13,32 +19,41 @@ datasource db {
 
 model Language {
   id         Int         @id @default(autoincrement())
-  code       String      @unique // "it", "en"
+  code       String      @unique // "it", "en", "fr", "de", "es"
   name       String // "Italiano"
   emoji      String // "🇮🇹"
   categories Category[]
 }
 
 model Category {
-  id          Int      @id @default(autoincrement())
+  id          Int         @id @default(autoincrement())
   languageId  Int
-  language    Language @relation(fields: [languageId], references: [id], onDelete: Cascade)
+  language    Language    @relation(fields: [languageId], references: [id], onDelete: Cascade)
+
+  // Sottocategorie: riferimento alla categoria padre (null = categoria radice)
+  parentId    Int?
+  parent      Category?   @relation("CategoryTree", fields: [parentId], references: [id], onDelete: Cascade)
+  children    Category[]  @relation("CategoryTree")
+
   slug        String
   name        String
-  description String
+  description String      @default("")
   emoji       String
   color       String // classi Tailwind per la tile
+  isNew       Boolean     @default(false)
+  sortOrder   Int         @default(0)
   words       Word[]
 
   @@unique([languageId, slug])
 }
 
 model Word {
-  id         Int      @id @default(autoincrement())
-  categoryId Int
-  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
-  text       String // "GATTO" — maiuscolo, senza spazi/accenti
-  difficulty String   @default("medium") // easy | medium | hard (per lunghezza)
+  id          Int      @id @default(autoincrement())
+  categoryId  Int
+  category    Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  text        String // "GATTO" / "TENDINEDACHILLE" — maiuscolo, solo lettere, accenti mantenuti
+  display     String? // "Tendine d'Achille" — forma naturale per la lista parole (opzionale)
+  difficulty  String   @default("medium") // easy | medium | hard (per lunghezza)
 
   @@index([categoryId])
 }
