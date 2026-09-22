@@ -1,0 +1,273 @@
+{
+ "page": 134,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "delicatessen • la charcuterie • die Feinkost • la charcutería • la salumeria",
+   "parts": [
+    "delicatessen",
+    "la charcuterie",
+    "die feinkost",
+    "la charcutería",
+    "la salumeria"
+   ],
+   "entries": [
+    {
+     "en": "quiche",
+     "fr": "la quiche",
+     "de": "die Quiche",
+     "es": "la quiché",
+     "it": "lo sformato",
+     "_pos": [
+      666,
+      122
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spicy sausage",
+     "fr": "le saucisson piquant",
+     "de": "die pikante Wurst",
+     "es": "el fiambre",
+     "it": "la salsiccia piccante",
+     "_pos": [
+      40,
+      156
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vinegar",
+     "fr": "le vinaigre",
+     "de": "der Essig",
+     "es": "el vinagre",
+     "it": "l'aceto",
+     "_pos": [
+      478,
+      223
+     ],
+     "_flags": []
+    },
+    {
+     "en": "uncooked meat",
+     "fr": "la viande non cuite",
+     "de": "das frische Fleisch",
+     "es": "la carne fresca",
+     "it": "la carne cruda",
+     "_pos": [
+      478,
+      343
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oil",
+     "fr": "Lhuilc",
+     "de": "das ÜI",
+     "es": "el aceite",
+     "it": "l'olio",
+     "_pos": [
+      40,
+      352
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "counter",
+     "fr": "le comptoir",
+     "de": "die Theke",
+     "es": "el mostrador",
+     "it": "il banco",
+     "_pos": [
+      478,
+      477
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salami",
+     "fr": "le salami",
+     "de": "die Salami",
+     "es": "el sal ami",
+     "it": "I salame",
+     "_pos": [
+      212,
+      562
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "pepperoni",
+     "fr": "le peppcroni",
+     "de": "die Pepperoniwurst",
+     "es": "el salchichón",
+     "it": "il salame piccante",
+     "_pos": [
+      424,
+      562
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pâté",
+     "fr": "le pâté",
+     "de": "die Pastete",
+     "es": "el pate",
+     "it": "il pété",
+     "_pos": [
+      698,
+      562
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mozzarella",
+     "fr": "la m ozzarella",
+     "de": "der Mozzarella",
+     "es": "la m ozzarella",
+     "it": "la mozzarella",
+     "_pos": [
+      42,
+      823
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "Brie",
+     "fr": "le brie",
+     "de": "der Brie",
+     "es": "el brie",
+     "it": "il brie",
+     "_pos": [
+      260,
+      823
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "Cheddar",
+     "fr": "le cheddar",
+     "de": "der Cheddar",
+     "es": "el chcddar",
+     "it": "il cheddar",
+     "_pos": [
+      698,
+      824
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "goat's cheese",
+     "fr": "le fromage de chèvre",
+     "de": "der Ziegenkäse",
+     "es": "el queso de cabra",
+     "it": "il formaggio",
+     "_pos": [
+      479,
+      824
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rind",
+     "fr": "la croûte",
+     "de": "die Rinde",
+     "es": "la corteza",
+     "it": "la scorza",
+     "_pos": [
+      480,
+      915
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Parmesan",
+     "fr": "le parmesan",
+     "de": "der Parmesan",
+     "es": "el parmesano",
+     "it": "il parmigiano",
+     "_pos": [
+      42,
+      1068
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "Camembert",
+     "fr": "le cam em bert der Camembert",
+     "es": "el cam em bert",
+     "it": "il camembert",
+     "_pos": [
+      260,
+      1069
+     ],
+     "_flags": [
+      "missing:de",
+      "en:case"
+     ]
+    },
+    {
+     "en": "Edam",
+     "fr": "l'edam",
+     "de": "der Edamer",
+     "es": "el queso de bola",
+     "it": "l'edam",
+     "_pos": [
+      480,
+      1069
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "Manchego",
+     "fr": "1c nianchego",
+     "de": "der Manchego",
+     "es": "el manchego",
+     "it": "I manchego",
+     "_pos": [
+      700,
+      1069
+     ],
+     "_flags": [
+      "en:case",
+      "fr:num:1c",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 3,
+  "flagged": 15,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

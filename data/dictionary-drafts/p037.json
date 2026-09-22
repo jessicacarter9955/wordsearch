@@ -1,0 +1,286 @@
+{
+ "page": 37,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • I A P P A R E N C E • DIE AUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "beauty • la beauté • die Schönheit • la belleza • la bellezza",
+   "parts": [
+    "beauty",
+    "la beauté",
+    "die schönheit",
+    "la belleza",
+    "la bellezza"
+   ],
+   "entries": [
+    {
+     "en": "hair dye",
+     "fr": "la teinture de cheveux",
+     "de": "das Haarfärbemittel",
+     "es": "ei tinte para el pelo",
+     "it": "la tini uro per capelli",
+     "_pos": [
+      268,
+      147
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "makeup • le maquillage • das Make-up • el m aquillaje • il trucco",
+   "parts": [
+    "makeup",
+    "le maquillage",
+    "das make-up",
+    "el m aquillaje",
+    "il trucco"
+   ],
+   "entries": [
+    {
+     "en": "eyebrow pencil",
+     "fr": "le crayon à sourcils",
+     "de": "der Augenbrauenstift",
+     "es": "el lápiz de cejas",
+     "it": "la matita per le sopracciglia",
+     "_pos": [
+      488,
+      230
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eye shadow",
+     "fr": "le fard à paupières",
+     "de": "der Lidschatten",
+     "es": "la sombra de ojos",
+     "it": "l'ombretto",
+     "_pos": [
+      325,
+      310
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eyebrow brush",
+     "fr": "la brosse à sourcils",
+     "de": "das Brauenbürstchen",
+     "es": "el cepillo para las cejas",
+     "it": "la spazzolino per le sopracciglia",
+     "_pos": [
+      488,
+      328
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tweezers",
+     "fr": "la pince à épiler",
+     "de": "die Pinzette",
+     "es": "las pinzas",
+     "it": "le pinzette",
+     "_pos": [
+      701,
+      328
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mascara",
+     "fr": "le m ascara",
+     "de": "die Wimperntusche",
+     "es": "el rim el",
+     "it": "il mascara",
+     "_pos": [
+      336,
+      459
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "lip brush",
+     "fr": "le pinceau à lèvres",
+     "de": "der Lippenpinsel",
+     "es": "el pincel de labios",
+     "it": "il pennello per le labbra",
+     "_pos": [
+      701,
+      459
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lip gloss",
+     "fr": "le b rillan t á lèvres",
+     "de": "das Lipgloss",
+     "es": "el brillo de labios",
+     "it": "lo smalto per le labbra",
+     "_pos": [
+      489,
+      459
+     ],
+     "_flags": [
+      "fr:short:b",
+      "fr:short:t",
+      "fr:short:á"
+     ]
+    },
+    {
+     "en": "eyeliner",
+     "fr": "Pcyc-liner",
+     "de": "der Eyeliner",
+     "es": "el delineador",
+     "it": "la matita per gli occhi",
+     "_pos": [
+      309,
+      556
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "tip liner",
+     "fr": "le crayon à lèvres",
+     "de": "der Lippenkonturenstift",
+     "es": "el lápiz de labios",
+     "it": "il marcato re perle labbra",
+     "_pos": [
+      489,
+      581
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blusher",
+     "fr": "le fard à joues",
+     "de": "das Puderrouge",
+     "es": "el rubor",
+     "it": "il fard",
+     "_pos": [
+      266,
+      670
+     ],
+     "_flags": []
+    },
+    {
+     "en": "concealer",
+     "fr": "le correcteur",
+     "de": "der Korrekturstift",
+     "es": "el lápiz corrector",
+     "it": "il correttore",
+     "_pos": [
+      715,
+      687
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brush",
+     "fr": "le pinceau",
+     "de": "der Puderpinsel",
+     "es": "la brocha",
+     "it": "il pennello",
+     "_pos": [
+      490,
+      704
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mirror",
+     "fr": "le miroir",
+     "de": "der Spiegel",
+     "es": "el espejo",
+     "it": "lo specchio",
+     "_pos": [
+      662,
+      768
+     ],
+     "_flags": []
+    },
+    {
+     "en": "foundation",
+     "fr": "le fond de teint",
+     "de": "die Grundierung",
+     "es": "la base",
+     "it": "il fondotinta",
+     "_pos": [
+      226,
+      777
+     ],
+     "_flags": []
+    },
+    {
+     "en": "face powder",
+     "fr": "la poudre",
+     "de": "der Gesichtspuder",
+     "es": "el m aquillaje",
+     "it": "la cipria",
+     "_pos": [
+      516,
+      817
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "lipstick",
+     "fr": "le rouge à lèvres",
+     "de": "der Lippenstift",
+     "es": "el lápiz labial",
+     "it": "il rossetto",
+     "_pos": [
+      198,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "powder puff",
+     "fr": "la houppette",
+     "de": "die Puderquaste",
+     "es": "la borla",
+     "it": "il piumino",
+     "_pos": [
+      568,
+      933
+     ],
+     "_flags": []
+    },
+    {
+     "en": "compact",
+     "fr": "le poudrier",
+     "de": "die Puderdose",
+     "es": "la polvera",
+     "it": "il porta cipria",
+     "_pos": [
+      490,
+      1047
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 6,
+  "flagged": 13,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

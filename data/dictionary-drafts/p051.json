@@ -1,0 +1,294 @@
+{
+ "page": 51,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H E A LT H • L A S A N T E • DIE GESUNDHEIT • L A S A L U D • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "counselor",
+     "fr": "le conseiller",
+     "de": "der Berater",
+     "es": "el terapeuta",
+     "it": "l'assistente socio-psicologico",
+     "_pos": [
+      42,
+      84
+     ],
+     "_flags": []
+    },
+    {
+     "en": "acupuncture",
+     "fr": "l'acuponcture",
+     "de": "die Akupunktur",
+     "es": "la acupuntura",
+     "it": "l'agopuntura",
+     "_pos": [
+      678,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "es": "el re iki",
+     "it": "il reiki",
+     "_pos": [
+      467,
+      278
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de"
+     ]
+    },
+    {
+     "en": "hypnotherapy",
+     "fr": "Phypnothérapic",
+     "de": "die Hypnotherapie",
+     "es": "la hipnoter3pia",
+     "it": "l'ipnositerapia",
+     "_pos": [
+      680,
+      522
+     ],
+     "_flags": [
+      "fr:case",
+      "es:num:hipnoter3pia"
+     ]
+    },
+    {
+     "en": "ayurvéda",
+     "fr": "la médecine ayurvédique",
+     "de": "das Ayurveda",
+     "es": "la ayurvéda",
+     "it": "la medicina aiurvedica",
+     "_pos": [
+      468,
+      523
+     ],
+     "_flags": []
+    },
+    {
+     "en": "group therapy",
+     "fr": "la thérapie de groupe",
+     "de": "die Gruppentherapie",
+     "es": "la terapia de grupo",
+     "it": "la terapia di gruppo",
+     "_pos": [
+      44,
+      524
+     ],
+     "_flags": []
+    },
+    {
+     "en": "essential oils",
+     "fr": "les huiles essentielles",
+     "de": "die ätherischen Öle",
+     "es": "los aceites esenciales",
+     "it": "gli oli essenziali",
+     "_pos": [
+      258,
+      573
+     ],
+     "_flags": []
+    },
+    {
+     "en": "homeopathy",
+     "fr": "l'homéopathie",
+     "de": "die Homöopathie",
+     "es": "la homeopatía",
+     "it": "l'omeopatia",
+     "_pos": [
+      474,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "acupressure",
+     "fr": "l'acupression",
+     "de": "die Akupressur",
+     "es": "la acupresión",
+     "it": "l'agopressionc",
+     "_pos": [
+      682,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aromatherapy",
+     "fr": "l'arom athérapie",
+     "de": "die Aromatherapie",
+     "es": "la aroma terapia",
+     "it": "l'aromaterapia",
+     "_pos": [
+      250,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herbalism",
+     "fr": "l'herboristerie",
+     "de": "die Kräuterheilkunde",
+     "es": "el herbolario",
+     "it": "l'erbalismo",
+     "_pos": [
+      46,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "therapist",
+     "fr": "la thérapeute",
+     "de": "die Therapeutin",
+     "es": "la terapeuta",
+     "it": "la terapista",
+     "_pos": [
+      47,
+      851
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herb",
+     "fr": "H ierbe",
+     "de": "das Heilkraut",
+     "es": "la hierba",
+     "it": "l'erba",
+     "_pos": [
+      758,
+      880
+     ],
+     "_flags": [
+      "fr:short:H",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "relaxation",
+     "fr": "la relaxation",
+     "de": "die Entspannung",
+     "es": "I3 relajación",
+     "it": "il rilassamento",
+     "_pos": [
+      637,
+      881
+     ],
+     "_flags": [
+      "es:num:I3",
+      "es:case"
+     ]
+    },
+    {
+     "en": "naturopathy",
+     "fr": "la naturopathic",
+     "de": "die Naturheilkuncie",
+     "es": "la naturopati3",
+     "it": "la naturopatia",
+     "_pos": [
+      506,
+      881
+     ],
+     "_flags": [
+      "es:num:naturopati3"
+     ]
+    },
+    {
+     "en": "crystal healing",
+     "fr": "la guérison par cristaux",
+     "de": "die Kristalitherapie",
+     "es": "la cristalotcrapia",
+     "it": "la cristalloterapia",
+     "_pos": [
+      336,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "supplement",
+     "fr": "le supplément",
+     "de": "die Ergänzung",
+     "es": "el suplemento",
+     "it": "l'integratore",
+     "_pos": [
+      758,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stress",
+     "fr": "le stress",
+     "de": "der Stress",
+     "es": "el estrés",
+     "it": "lo stress",
+     "_pos": [
+      638,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "feng shui",
+     "fr": "le feng shui",
+     "de": "das Feng Shui",
+     "es": "el feng shui",
+     "it": "ÍI feng shui",
+     "_pos": [
+      507,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hydrotherapy",
+     "fr": "l'hydrothérapie",
+     "de": "die Wasserbehandlung",
+     "es": "la hidroterapia",
+     "it": "l'idroterapia",
+     "_pos": [
+      337,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "psychotherapy",
+     "fr": "la psychothérapie",
+     "de": "die Psychotherapie",
+     "es": "la psicoterapia",
+     "it": "la psicoterapia",
+     "_pos": [
+      48,
+      1032
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 5,
+  "flagged": 16,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

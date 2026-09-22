@@ -1,0 +1,311 @@
+{
+ "page": 139,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "café • le café • das Café • la cafetería • il caffè",
+   "parts": [
+    "café",
+    "le café",
+    "das café",
+    "la cafetería",
+    "il caffè"
+   ],
+   "entries": [
+    {
+     "en": "umbrella",
+     "fr": "le parasol",
+     "de": "der Sonnensch",
+     "es": "la sombrilla",
+     "it": "l'ombrellone",
+     "_pos": [
+      800,
+      86
+     ],
+     "_flags": []
+    },
+    {
+     "en": "awning",
+     "fr": "le store",
+     "de": "die Markise",
+     "es": "el toldo",
+     "it": "la tenda",
+     "_pos": [
+      202,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "menu",
+     "fr": "le menu",
+     "de": "die Speisekarte",
+     "es": "la carta",
+     "it": "il menù",
+     "_pos": [
+      50,
+      200
+     ],
+     "_flags": []
+    },
+    {
+     "en": "T R V & 1 ! K æÀ",
+     "_pos": [
+      758,
+      320
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:short:T",
+      "en:short:R",
+      "en:short:V",
+      "en:weird:&",
+      "en:num:1",
+      "en:weird:!",
+      "en:short:K",
+      "en:case"
+     ]
+    },
+    {
+     "en": "terrace café",
+     "fr": "la terrasse de café",
+     "de": "das Terrassencafe",
+     "es": "la terraza",
+     "it": "il bar con terrazza",
+     "_pos": [
+      480,
+      353
+     ],
+     "_flags": []
+    },
+    {
+     "en": "server",
+     "fr": "le serveur",
+     "de": "der Kellner",
+     "es": "el mesero",
+     "it": "il cameriere",
+     "_pos": [
+      478,
+      401
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coffee machine",
+     "fr": "le percolateur",
+     "de": "die Kaffeemaschine",
+     "es": "la máquina del café",
+     "it": "la macchina del caffè",
+     "_pos": [
+      623,
+      402
+     ],
+     "_flags": []
+    },
+    {
+     "en": "table",
+     "fr": "la table",
+     "de": "der Tisch",
+     "es": "la mesa",
+     "it": "il tavolo",
+     "_pos": [
+      796,
+      402
+     ],
+     "_flags": []
+    },
+    {
+     "en": "J",
+     "_pos": [
+      846,
+      526
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:short:J",
+      "en:case"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "2",
+   "parts": [],
+   "entries": [
+    {
+     "en": "sidewalk café",
+     "fr": "la rerrasse de café",
+     "de": "das Straßencafe",
+     "es": "la cafetería con mesas fuera",
+     "it": "il bar all'aperto",
+     "_pos": [
+      48,
+      765
+     ],
+     "_flags": []
+    },
+    {
+     "en": "snack bar",
+     "fr": "le snack",
+     "de": "die Snackbar",
+     "es": "el har",
+     "it": "lo snack bar",
+     "_pos": [
+      477,
+      765
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "coffee • le café « de r Kaffee • el café • il caffè",
+   "parts": [
+    "coffee",
+    "le café « de r kaffee",
+    "el café",
+    "il caffè"
+   ],
+   "entries": [
+    {
+     "en": "coffee with cream",
+     "fr": "le crème",
+     "de": "der Kaffee mit Milch",
+     "es": "el café con leche",
+     "_pos": [
+      134,
+      847
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "black coffee",
+     "fr": "le noir",
+     "de": "der schwarze Kaffee",
+     "es": "el café solo",
+     "it": "il caffè nero",
+     "_pos": [
+      274,
+      848
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cocoa powder",
+     "fr": "le chocolat en poudre",
+     "de": "das Kakaopulver",
+     "es": "la cocoa",
+     "it": "la polvere di cacao",
+     "_pos": [
+      411,
+      849
+     ],
+     "_flags": []
+    },
+    {
+     "en": "froth",
+     "fr": "la mousse",
+     "de": "der Schaum",
+     "es": "la espuma",
+     "it": "la schiuma",
+     "_pos": [
+      636,
+      849
+     ],
+     "_flags": []
+    },
+    {
+     "en": "filter coffee",
+     "fr": "le café fi Irre",
+     "de": "der Filterkaffee",
+     "es": "el café de cafetera eléctrica",
+     "it": "il caffè filtrato",
+     "_pos": [
+      48,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "espresso",
+     "fr": "l'ex presso",
+     "de": "der Espresso",
+     "es": "el expreso",
+     "it": "l'espresso",
+     "_pos": [
+      292,
+      1047
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cappuccino",
+     "fr": "le cappuccino",
+     "de": "der Cappuccino",
+     "es": "el cappuccino",
+     "it": "il cappuccino",
+     "_pos": [
+      477,
+      1048
+     ],
+     "_flags": []
+    },
+    {
+     "en": "iced coffee",
+     "fr": "le café glacé",
+     "de": "der Eiskaffee",
+     "es": "el café con hielo",
+     "it": "il caffè freddo",
+     "_pos": [
+      686,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "»7 * * ' .1",
+   "pos": [
+    774,
+    560
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "Ì",
+   "pos": [
+    796,
+    566
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 8,
+  "flagged": 11,
+  "missing_lang": 3,
+  "leftovers": 2,
+  "subcats": 3
+ }
+}

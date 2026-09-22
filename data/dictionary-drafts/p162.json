@@ -1,0 +1,327 @@
+{
+ "page": 162,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • L E T R AVA II • DIE ARBEIT • EL T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "office supplies • les fournitures de bureau • der Bürobedarf • la papelería • gli articoli",
+   "parts": [
+    "office supplies",
+    "les fournitures de bureau",
+    "der bürobedarf",
+    "la papelería",
+    "gli articoli"
+   ],
+   "entries": [
+    {
+     "en": "box file",
+     "fr": "le dossier-classeur",
+     "de": "der Aktenordner",
+     "es": "la caja archivador",
+     "it": "la scatola d'archivio",
+     "_pos": [
+      540,
+      145
+     ],
+     "_flags": []
+    },
+    {
+     "en": "compliments slip",
+     "fr": "la fiche compliments",
+     "de": "der Empfehlungszettel",
+     "es": "la tarjeta m em bretada",
+     "it": "il foglietto di omaggio",
+     "_pos": [
+      195,
+      145
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "1_UL letterhead",
+     "fr": "l'en-téte",
+     "de": "der Geschäftsbogen",
+     "es": "el membrete",
+     "it": "la carta intestata",
+     "_pos": [
+      24,
+      232
+     ],
+     "_flags": [
+      "en:weird:1_UL"
+     ]
+    },
+    {
+     "en": "envelope",
+     "fr": "l'enveloppe",
+     "de": "der Briefumschlag",
+     "es": "el sobre",
+     "it": "la busta",
+     "_pos": [
+      368,
+      244
+     ],
+     "_flags": []
+    },
+    {
+     "en": "divider",
+     "fr": "la fiche intercalaire",
+     "de": "der Teiler",
+     "es": "el divisor",
+     "it": "il divisore",
+     "_pos": [
+      557,
+      294
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tab",
+     "fr": "l'étiquette",
+     "de": "der Kartenreiter",
+     "es": "el rótulo",
+     "it": "l'etichetta",
+     "_pos": [
+      370,
+      328
+     ],
+     "_flags": []
+    },
+    {
+     "en": "binder file",
+     "fr": "le classeur à levier",
+     "de": "der Leitz-Ordner",
+     "es": "la carpeta de argollas",
+     "it": "il raccoglitore a leva",
+     "_pos": [
+      712,
+      543
+     ],
+     "_flags": []
+    },
+    {
+     "en": "accordion Tile",
+     "fr": "le porte dossiers",
+     "de": "der Fächerordner",
+     "es": "la carpeta de acordeón",
+     "it": "il portacarte a fisarmonica",
+     "_pos": [
+      544,
+      544
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "hanging file",
+     "fr": "le dossier suspendu",
+     "de": "der Hängeordner",
+     "es": "el colgante",
+     "it": "la cartella sospesa",
+     "_pos": [
+      372,
+      545
+     ],
+     "_flags": []
+    },
+    {
+     "en": "notepad",
+     "fr": "le bloc-notes",
+     "de": "der Notizblock",
+     "es": "la libreta",
+     "it": "il blocco per appunti",
+     "_pos": [
+      198,
+      545
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clipboard",
+     "fr": "le clipboard",
+     "de": "das Klemmbrett",
+     "es": "la labia con portapapeles",
+     "it": "il portablocco con fermaglio",
+     "_pos": [
+      26,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ink pad",
+     "fr": "le tampon encreur",
+     "de": "das Stempelkissen",
+     "es": "el cojín de la tinta",
+     "it": "il tampone di inchiostro",
+     "_pos": [
+      688,
+      644
+     ],
+     "_flags": []
+    },
+    {
+     "en": "adhesive tape",
+     "fr": "le scotch",
+     "de": "der Tesafilm",
+     "es": "la cinta scotch",
+     "it": "il nastro adesivo",
+     "_pos": [
+      314,
+      644
+     ],
+     "_flags": []
+    },
+    {
+     "en": "staples",
+     "fr": "les agrafes",
+     "de": "die Klammem",
+     "es": "las grapas",
+     "it": "i punti",
+     "_pos": [
+      208,
+      646
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rubber stamp",
+     "fr": "cachet",
+     "de": "der Stempel",
+     "es": "el sello",
+     "it": "il timbro umido",
+     "_pos": [
+      718,
+      826
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hole punch",
+     "fr": "le perforateur",
+     "de": "der Locher",
+     "es": "la perforadora",
+     "it": "il perforatore",
+     "_pos": [
+      536,
+      827
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tape dispenser",
+     "fr": "le dévidoir de scotch",
+     "de": "der Tesafilmhalter",
+     "es": "el portacinta",
+     "it": "il dispenser",
+     "_pos": [
+      374,
+      828
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stapler",
+     "fr": "l'agrafeuse",
+     "de": "der Hefter",
+     "es": "la engrapadora",
+     "it": "la cucitrice",
+     "_pos": [
+      201,
+      829
+     ],
+     "_flags": []
+    },
+    {
+     "en": "personal organizer",
+     "fr": "l'agenda",
+     "de": "der Terminkalender",
+     "es": "la agenda",
+     "it": "l'agenda",
+     "_pos": [
+      29,
+      830
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thumbtack",
+     "fr": "la punaise",
+     "de": "der Reißnagel",
+     "es": "la chinche",
+     "it": "la puntina",
+     "_pos": [
+      547,
+      943
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bulldog clip",
+     "fr": "la pince à dessin",
+     "de": "die Papierklammer",
+     "es": "la pinza",
+     "it": "la molletta",
+     "_pos": [
+      202,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rubber band",
+     "fr": "l'élastique",
+     "de": "das Gummiband",
+     "es": "la liga",
+     "it": "l'elastico",
+     "_pos": [
+      30,
+      1029
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bulletin board",
+     "fr": "le panneau d' affichage",
+     "de": "die Pinnward",
+     "es": "el corcho",
+     "it": "il tabellone",
+     "_pos": [
+      573,
+      1060
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "di cancelleria",
+   "pos": [
+    24,
+    100
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 4,
+  "flagged": 19,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,438 @@
+{
+ "page": 63,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "kitchenware • les ustensiles de cuisine • die Küchengeräte • los utensilios de cocina • gli utensili da cucina",
+   "parts": [
+    "kitchenware",
+    "les ustensiles de cuisine",
+    "die küchengeräte",
+    "los utensilios de cocina",
+    "gli utensili da cucina"
+   ],
+   "entries": [
+    {
+     "en": "bread knife",
+     "fr": "le couteau a pain",
+     "de": "das Brotmesser",
+     "es": "el cuchillo de sierra",
+     "it": "il coltello da pane",
+     "_pos": [
+      218,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cutting board",
+     "fr": "la planche à hacher",
+     "de": "das Hackbrett",
+     "es": "!a tabla para cortar",
+     "it": "il tagliere",
+     "_pos": [
+      46,
+      278
+     ],
+     "_flags": [
+      "es:weird:!a"
+     ]
+    },
+    {
+     "en": "paring knife",
+     "fr": "le couteau de cuisine",
+     "de": "das Kuchenmesser",
+     "es": "el cuchillo de cocina",
+     "it": "il coltello da cucina",
+     "_pos": [
+      218,
+      279
+     ],
+     "_flags": []
+    },
+    {
+     "en": "meat deaver",
+     "fr": "le fendoir",
+     "de": "das Hackmesser",
+     "es": "el hacha de cocina",
+     "it": "la mannaia",
+     "_pos": [
+      388,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knife sharpener",
+     "fr": "l'aiguisoir",
+     "de": "der Messer schärfer",
+     "es": "el afilador",
+     "it": "1‘affilacoltelli",
+     "_pos": [
+      560,
+      282
+     ],
+     "_flags": [
+      "it:weird:1‘affilacoltelli"
+     ]
+    },
+    {
+     "en": "meat tenderizer",
+     "fr": "l'écrase-viande",
+     "de": "der Fleischklopfer",
+     "es": "el mazo de cocina",
+     "it": "il martello",
+     "_pos": [
+      731,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skewer",
+     "fr": "la broche",
+     "de": "der Spieß",
+     "es": "e i pincho",
+     "it": "lo spiedino",
+     "_pos": [
+      46,
+      389
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pilon",
+     "fr": "der Stößel",
+     "de": "amanode",
+     "es": "mortero",
+     "it": "il pestello",
+     "_pos": [
+      676,
+      399
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "V « V V V",
+     "fr": "H M «",
+     "de": "9 9 1 1 9 t",
+     "es": "9 9 9t«",
+     "it": "999999 9 9 9 9 9",
+     "_pos": [
+      428,
+      405
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "en:short:V",
+      "en:weird:«",
+      "en:case",
+      "fr:short:H",
+      "fr:short:M",
+      "fr:weird:«",
+      "fr:case",
+      "de:num:9",
+      "de:num:1",
+      "de:short:t",
+      "es:num:9",
+      "es:weird:9t«",
+      "it:num:999999",
+      "it:num:9"
+     ],
+     "_alts": [
+      {
+       "en": "V « V V V",
+       "fr": "H M «",
+       "de": "9 9 1 1 9 t",
+       "es": "9 9 9t« 999999",
+       "it": "9 9 9 9 9"
+      },
+      {
+       "en": "V « V V V",
+       "fr": "H M «",
+       "de": "9 9 1 1 9 t 9 9 9t«",
+       "es": "999999",
+       "it": "9 9 9 9 9"
+      }
+     ]
+    },
+    {
+     "en": "peeler",
+     "fr": "l'épluche légume",
+     "de": "der Schäler",
+     "es": "el pelador",
+     "it": "il pelapatate",
+     "_pos": [
+      43,
+      511
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apple corer",
+     "fr": "le vide-pomme",
+     "de": "der Apfelstecher",
+     "es": "el descorazonador",
+     "it": "il cavatorsoli",
+     "_pos": [
+      218,
+      511
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grater",
+     "fr": "la râpe",
+     "de": "die Reibe",
+     "es": "el rallador",
+     "it": "la grattugia",
+     "_pos": [
+      387,
+      513
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mortar",
+     "fr": "le mortier",
+     "de": "der Mörser",
+     "es": "el mortero",
+     "it": "il mortaio",
+     "_pos": [
+      560,
+      514
+     ],
+     "_flags": []
+    },
+    {
+     "en": "masher",
+     "fr": "le presse purée",
+     "de": "der Kartoffel stampfer",
+     "es": "el machacador",
+     "it": "la schiacciapatate",
+     "_pos": [
+      730,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "can opener",
+     "fr": "l'ouvre boitc",
+     "de": "der Dosenöffner",
+     "es": "el abrelatas",
+     "it": "l'apriscatole",
+     "_pos": [
+      46,
+      677
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bottle opener",
+     "fr": "Louvre-bouteille",
+     "de": "der Flaschenöffner",
+     "es": "el destapador",
+     "it": "l'apribottiglie",
+     "_pos": [
+      217,
+      677
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "serving spoon",
+     "fr": "la cuiller à servir",
+     "de": "der Servierlöffel",
+     "es": "la cuchara de servir",
+     "it": "il cucchiaio da portata",
+     "_pos": [
+      560,
+      678
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garlic press",
+     "fr": "le presse ail",
+     "de": "die Knoblauchpresse",
+     "es": "el exp rim id o r de ajos",
+     "it": "lo spremiaglio",
+     "_pos": [
+      388,
+      679
+     ],
+     "_flags": [
+      "es:short:r"
+     ]
+    },
+    {
+     "en": "fish spatula",
+     "fr": "la truelle",
+     "de": "der Pfannenwender",
+     "es": "la pala",
+     "it": "la paletta forata",
+     "_pos": [
+      731,
+      682
+     ],
+     "_flags": []
+    },
+    {
+     "en": "colander",
+     "fr": "la passoire",
+     "de": "das Sieb",
+     "es": "el escurridor",
+     "it": "lo scolapasta",
+     "_pos": [
+      44,
+      875
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spatula",
+     "fr": "la spatule",
+     "de": "der Spachtel",
+     "es": "la espátula",
+     "it": "la spatola",
+     "_pos": [
+      215,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wooden spoon",
+     "fr": "la cuiller en bois",
+     "de": "der Holzlöffel",
+     "es": "la cuchara ele madera",
+     "it": "il cucchiaio di legno",
+     "_pos": [
+      386,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mesh skimmer",
+     "fr": "l'écumoire",
+     "de": "der Schaumlöffel",
+     "es": "la espumadera",
+     "it": "il cucchiaio perforato",
+     "_pos": [
+      559,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ladle",
+     "fr": "la louche",
+     "de": "der Schöpflöffel",
+     "es": "ei cucharón",
+     "it": "il mestolo",
+     "_pos": [
+      730,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carving fork",
+     "fr": "la fourchette à découper",
+     "de": "die Tranchiergabel",
+     "es": "el trinche",
+     "it": "il forchettone",
+     "_pos": [
+      44,
+      1024
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      388,
+      1027
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "ice-cream scoop",
+      "la cuiller whisk",
+      "le fouet à glace",
+      "der Portìomerer",
+      "la cuchara para helado",
+      "il cucchiaio dosatore"
+     ]
+    },
+    {
+     "en": "strainer",
+     "fr": "la passoire",
+     "de": "das Sieb",
+     "es": "el colador",
+     "it": "il colino",
+     "_pos": [
+      729,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "de": "der Schneebesen",
+     "es": "el globo para batir",
+     "it": "la frusta",
+     "_pos": [
+      560,
+      1044
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "fl",
+   "pos": [
+    823,
+    141
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "O",
+   "pos": [
+    334,
+    389
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 0,
+  "flagged": 28,
+  "missing_lang": 1,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "page": 66,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • I A MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "bed linen • le linge de lir • die Bettwäsche • la ro p a d e c a m a • la biancheria da letto",
+   "parts": [
+    "bed linen",
+    "le linge de lir",
+    "die bettwäsche",
+    "la ropa de cama",
+    "la biancheria da letto"
+   ],
+   "entries": [
+    {
+     "en": "pillowcase",
+     "fr": "la taie d'oreiller",
+     "de": "der Kissenbezug",
+     "es": "la funda de la almohada",
+     "it": "la federa",
+     "_pos": [
+      710,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mirror",
+     "fr": "le miroir",
+     "de": "der Spiegel",
+     "es": "el espejo",
+     "it": "lo specchio",
+     "_pos": [
+      260,
+      234
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sheet",
+     "fr": "le drap",
+     "de": "das Bettlaken",
+     "es": "la sábana",
+     "it": "il lenzuolo",
+     "_pos": [
+      710,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "valance",
+     "fr": "la frange de lit",
+     "de": "der Volant",
+     "es": "d cubrecanapé",
+     "it": "il volant",
+     "_pos": [
+      710,
+      381
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vanity table",
+     "fr": "la coûteuse",
+     "de": "der Frisiertisch",
+     "es": "el tocador",
+     "it": "la toeletta",
+     "_pos": [
+      260,
+      433
+     ],
+     "_flags": []
+    },
+    {
+     "en": "comforter",
+     "fr": "la couette",
+     "de": "die Bettdecke",
+     "es": "el edredón",
+     "it": "la coperta imbottita",
+     "_pos": [
+      380,
+      464
+     ],
+     "_flags": []
+    },
+    {
+     "en": "quilt",
+     "fr": "l'edredon",
+     "de": "die Steppdecke",
+     "es": "la colcha",
+     "it": "la trapunta",
+     "_pos": [
+      380,
+      564
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blanket",
+     "fr": "la couverture",
+     "de": "die Decke",
+     "es": "la cobija",
+     "it": "la coperta",
+     "_pos": [
+      381,
+      663
+     ],
+     "_flags": []
+    },
+    {
+     "en": "floor",
+     "fr": "le sol",
+     "de": "der Fußboden",
+     "es": "el suelo",
+     "it": "il pavimento",
+     "_pos": [
+      262,
+      664
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set the alarm (v)",
+     "fr": "mettre le réveil",
+     "de": "den Wecker stellen",
+     "es": "poner el despertador",
+     "it": "mettere ta sveglia",
+     "_pos": [
+      716,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wake up (v)",
+     "fr": "sc réveiller",
+     "de": "aufwachen",
+     "es": "despertarse",
+     "it": "svegliarsi",
+     "_pos": [
+      562,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "insomnia",
+     "fr": "l'insomnie",
+     "de": "die Schlaflosigkeit",
+     "es": "el insomnio",
+     "it": "l'insonnia",
+     "_pos": [
+      414,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "footboard",
+     "fr": "le pied de lit",
+     "de": "das Fußende",
+     "es": "el pie de la cama",
+     "it": "la pedana del letto",
+     "_pos": [
+      256,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "single bed",
+     "fr": "le lit simple",
+     "de": "das Einzelbett",
+     "es": "la cama individual",
+     "it": "lì letto singolo",
+     "_pos": [
+      54,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "snore (v)",
+     "fr": "ronfler",
+     "de": "schnarchen",
+     "es": "roncar",
+     "it": "russare",
+     "_pos": [
+      716,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "get up (v)",
+     "fr": "se lever",
+     "de": "aufstehen",
+     "es": "levantarse",
+     "it": "alzarsi",
+     "_pos": [
+      563,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "go to bed (v)",
+     "fr": "se coucher",
+     "de": "ins Bett gehen",
+     "es": "acostarse",
+     "it": "andare a letto",
+     "_pos": [
+      414,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "box spring",
+     "fr": "le ressort",
+     "de": "die Sprungfeder",
+     "es": "el resorte",
+     "it": "la molla",
+     "_pos": [
+      256,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "double bed",
+     "fr": "le vrand lit",
+     "de": "das Doppelbett",
+     "es": "ia cama m atrim onial",
+     "it": "il letto matrimoniale",
+     "_pos": [
+      54,
+      896
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "closet",
+     "fr": "l'armoire encastrée",
+     "de": "der Einbauschrank",
+     "es": "el armario empotrado",
+     "it": "l'armadio a muro",
+     "_pos": [
+      717,
+      993
+     ],
+     "_flags": []
+    },
+    {
+     "en": "make the bed (v)",
+     "fr": "faire le lit",
+     "de": "das Bett machen",
+     "es": "hacer la cama",
+     "it": "fare il letto",
+     "_pos": [
+      564,
+      993
+     ],
+     "_flags": []
+    },
+    {
+     "en": "go to sleep (v)",
+     "fr": "s' endormir",
+     "de": "einschlafen",
+     "es": "dormir se",
+     "it": "addormentarsi",
+     "_pos": [
+      416,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electric blanket",
+     "fr": "ia couverture chauffante",
+     "de": "die Heizdecke",
+     "es": "cobija eléctrica",
+     "it": "ia termocoperta",
+     "_pos": [
+      56,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carpet",
+     "fr": "le rapis",
+     "de": "der Teppich",
+     "es": "el tapete",
+     "it": "il tappeto",
+     "_pos": [
+      257,
+      995
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 13,
+  "flagged": 11,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,737 @@
+[
+ {
+  "page": 21,
+  "where": "entry[0.5].fr",
+  "before": "Ics parents",
+  "after": "les parents",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 21,
+  "where": "entry[0.6].fr",
+  "before": "Ics jum eaux",
+  "after": "les jumeaux",
+  "kinds": [
+   "article",
+   "segment"
+  ]
+ },
+ {
+  "page": 22,
+  "where": "entry[0.11].fr",
+  "before": "le périr am i",
+  "after": "le périr ami",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 25,
+  "where": "entry[1.8].es",
+  "before": "el Ram adán",
+  "after": "el Ramadán",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 28,
+  "where": "entry[0.0].fr",
+  "before": "Pccharpe",
+  "after": "l'écharpe",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 28,
+  "where": "entry[0.7].fr",
+  "before": "Ics bottes de caoutchouc",
+  "after": "les bottes de caoutchouc",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 28,
+  "where": "entry[0.8].fr",
+  "before": "Ics sandales",
+  "after": "les sandales",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 28,
+  "where": "entry[0.12].fr",
+  "before": "Père",
+  "after": "l'ère",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 28,
+  "where": "entry[0.16].fr",
+  "before": "Ics baskets",
+  "after": "les baskets",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 29,
+  "where": "entry[0.19].fr",
+  "before": "Ics sous-vêtem ents",
+  "after": "les sous-vêtements",
+  "kinds": [
+   "article",
+   "segment"
+  ]
+ },
+ {
+  "page": 29,
+  "where": "entry[0.20].fr",
+  "before": "1'im perm eable",
+  "after": "l''im perm eable",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 31,
+  "where": "entry[0.1].fr",
+  "before": "Pcncolure",
+  "after": "l'encolure",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 36,
+  "where": "entry[0.1].fr",
+  "before": "Ics couettes",
+  "after": "les couettes",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 36,
+  "where": "entry[0.1].es",
+  "before": "Lis coletas",
+  "after": "las coletas",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 36,
+  "where": "entry[0.17].fr",
+  "before": "Ics reflets",
+  "after": "les reflets",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 47,
+  "where": "entry[0.5].es",
+  "before": "el líquido lim piador",
+  "after": "el líquido limpiador",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 49,
+  "where": "entry[0.9].fr",
+  "before": "Pallaitement",
+  "after": "l'allaitement",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 63,
+  "where": "entry[0.7].de",
+  "before": "l am anode",
+  "after": "amanode",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 75,
+  "where": "entry[0.5].fr",
+  "before": "Ics embouts de tournevis",
+  "after": "les embouts de tournevis",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 80,
+  "where": "entry[0.20].fr",
+  "before": "Ics planches",
+  "after": "les planches",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 84,
+  "where": "entry[0.0].fr",
+  "before": "Ics gants de jardinage",
+  "after": "les gants de jardinage",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 84,
+  "where": "entry[0.4].fr",
+  "before": "Ics criquet res",
+  "after": "les criquet res",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 84,
+  "where": "entry[0.6].fr",
+  "before": "Ics attaches",
+  "after": "les attaches",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 84,
+  "where": "entry[0.9].fr",
+  "before": "Ics anneaux",
+  "after": "les anneaux",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 85,
+  "where": "entry[0.9].en",
+  "before": "t rimy",
+  "after": "rimy",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 91,
+  "where": "entry[2.9].fr",
+  "before": "Ics titres",
+  "after": "les titres",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 93,
+  "where": "entry[1.13].es",
+  "before": "la inform ación telefónica",
+  "after": "la información telefónica",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 97,
+  "where": "entry[0.18].fr",
+  "before": "Ics toilettes",
+  "after": "les toilettes",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 98,
+  "where": "entry[0.15].fr",
+  "before": "Ics jouets",
+  "after": "les jouets",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 100,
+  "where": "entry[0.12].fr",
+  "before": "Ics boissons",
+  "after": "les boissons",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 104,
+  "where": "entry[1.1].fr",
+  "before": "Ics fleurs séchées",
+  "after": "les fleurs séchées",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 105,
+  "where": "entry[0.2].fr",
+  "before": "Ics allum ettes",
+  "after": "les allumettes",
+  "kinds": [
+   "article",
+   "segment"
+  ]
+ },
+ {
+  "page": 106,
+  "where": "entry[0.1].fr",
+  "before": "Ics chips",
+  "after": "les chips",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 106,
+  "where": "entry[0.9].fr",
+  "before": "Ics bonbons assortis",
+  "after": "les bonbons assortis",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 106,
+  "where": "entry[0.10].fr",
+  "before": "Ics bonbons",
+  "after": "les bonbons",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 106,
+  "where": "entry[1.0].fr",
+  "before": "Ics bonbons",
+  "after": "les bonbons",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 116,
+  "where": "entry[0.9].fr",
+  "before": "la tom ate censé",
+  "after": "la tomate censé",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 123,
+  "where": "entry[0.4].fr",
+  "before": "Ics haricots blancs",
+  "after": "les haricots blancs",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 123,
+  "where": "entry[0.11].fr",
+  "before": "Ics pois chiches",
+  "after": "les pois chiches",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 123,
+  "where": "entry[0.12].fr",
+  "before": "Ics pois cassés",
+  "after": "les pois cassés",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 126,
+  "where": "entry[1.7].fr",
+  "before": "Ics herbes",
+  "after": "les herbes",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 126,
+  "where": "entry[3.6].es",
+  "before": "la m iei líquida",
+  "after": "la mi e ilíquida",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 129,
+  "where": "entry[0.6].es",
+  "before": "la crem a ácida",
+  "after": "la crema ácida",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 133,
+  "where": "entry[0.4].fr",
+  "before": "Ics biscuits",
+  "after": "les biscuits",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 133,
+  "where": "entry[0.6].fr",
+  "before": "la crème caram el",
+  "after": "la crème caramel",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 136,
+  "where": "entry[1.4].fr",
+  "before": "Ics feuilles de thé",
+  "after": "les feuilles de thé",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 142,
+  "where": "entry[2.4].fr",
+  "before": "Ics chips",
+  "after": "les chips",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 148,
+  "where": "entry[0.4].en",
+  "before": "f ned egg",
+  "after": "ned egg",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 149,
+  "where": "entry[1.3].fr",
+  "before": "Ics pâtes",
+  "after": "les pâtes",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 152,
+  "where": "entry[1.9].fr",
+  "before": "Ics langues",
+  "after": "les langues",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 152,
+  "where": "entry[1.10].fr",
+  "before": "Ics sciences",
+  "after": "les sciences",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 155,
+  "where": "entry[0.35].es",
+  "before": "la aritm ética",
+  "after": "la aritmética",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 157,
+  "where": "entry[0.3].es",
+  "before": "d bisturí",
+  "after": "bisturí",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 157,
+  "where": "entry[1.4].fr",
+  "before": "Ics lunettes de protection",
+  "after": "les lunettes de protection",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 159,
+  "where": "entry[2.7].fr",
+  "before": "Ics sciences économiques",
+  "after": "les sciences économiques",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 168,
+  "where": "entry[1.2].fr",
+  "before": "Ics ondes moyennes",
+  "after": "les ondes moyennes",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 171,
+  "where": "entry[0.11].fr",
+  "before": "Ics bestiaux",
+  "after": "les bestiaux",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 191,
+  "where": "entry[0.10].fr",
+  "before": "Ics ccrous île roue",
+  "after": "les ccrous île roue",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 199,
+  "where": "entry[0.7].es",
+  "before": "d avión supersónico",
+  "after": "avión supersónico",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 199,
+  "where": "entry[0.14].fr",
+  "before": "Ics bagages à main",
+  "after": "les bagages à main",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 200,
+  "where": "entry[0.5].es",
+  "before": "el avión de linca",
+  "after": "el avión del inca",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 212,
+  "where": "entry[0.4].en",
+  "before": "l aligned'envoi",
+  "after": "aligned'envoi",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 213,
+  "where": "entry[0.19].de",
+  "before": "d erKort",
+  "after": "erKort",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 226,
+  "where": "entry[2.3].en",
+  "before": "r ont crawl",
+  "after": "ont crawl",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 226,
+  "where": "entry[3.11].fr",
+  "before": "Ics casiers",
+  "after": "les casiers",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 234,
+  "where": "entry[2.0].es",
+  "before": "d patín",
+  "after": "patín",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 237,
+  "where": "entry[0.2].fr",
+  "before": "le vélo d'entraînem ent",
+  "after": "le vélo d' entraînement",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 237,
+  "where": "entry[2.0].fr",
+  "before": "Ics poids",
+  "after": "les poids",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 240,
+  "where": "entry[0.1].fr",
+  "before": "Ics coulisses",
+  "after": "les coulisses",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 242,
+  "where": "entry[0.22].fr",
+  "before": "Ics instrum ents",
+  "after": "les instruments",
+  "kinds": [
+   "article",
+   "segment"
+  ]
+ },
+ {
+  "page": 243,
+  "where": "entry[2.3].fr",
+  "before": "Ics cym bales",
+  "after": "les cymbales",
+  "kinds": [
+   "article",
+   "segment"
+  ]
+ },
+ {
+  "page": 245,
+  "where": "entry[0.12].de",
+  "before": "derBe at",
+  "after": "derBeat",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 246,
+  "where": "entry[0.6].fr",
+  "before": "Ics souvenirs",
+  "after": "les souvenirs",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 251,
+  "where": "entry[2.3].fr",
+  "before": "Ics lunettes de soleil",
+  "after": "les lunettes de soleil",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 252,
+  "where": "entry[0.0].fr",
+  "before": "Ics toilettes",
+  "after": "les toilettes",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 257,
+  "where": "entry[2.0].en",
+  "before": "(v)",
+  "after": "(v)",
+  "kinds": [
+   "chars"
+  ]
+ },
+ {
+  "page": 259,
+  "where": "entry[0.2].fr",
+  "before": "Ics dom inos",
+  "after": "les dominos",
+  "kinds": [
+   "article",
+   "segment"
+  ]
+ },
+ {
+  "page": 259,
+  "where": "entry[0.17].fr",
+  "before": "Ics carres",
+  "after": "les carres",
+  "kinds": [
+   "article"
+  ]
+ },
+ {
+  "page": 260,
+  "where": "entry[1.4].es",
+  "before": "las pinturas al óleo",
+  "after": "las pintura sal óleo",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 262,
+  "where": "entry[1.5].es",
+  "before": "d patrón",
+  "after": "patrón",
+  "kinds": [
+   "segment"
+  ]
+ },
+ {
+  "page": 268,
+  "where": "entry[0.6].fr",
+  "before": "Ics tropiques",
+  "after": "les tropiques",
+  "kinds": [
+   "article"
+  ]
+ }
+]

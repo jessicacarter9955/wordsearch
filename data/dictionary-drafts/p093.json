@@ -1,0 +1,412 @@
+{
+ "page": 93,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES ♦ LES SERVICES • DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "courier",
+     "fr": "le service de messagerie",
+     "de": "der Kurierdienst",
+     "es": "la mensajería",
+     "it": "il corriere",
+     "_pos": [
+      670,
+      215
+     ],
+     "_flags": []
+    },
+    {
+     "en": "letter slot",
+     "fr": "la boîte aux lettres",
+     "de": "der Hausbriefkasten",
+     "es": "el buzón",
+     "it": "la cassetta delle lettere",
+     "_pos": [
+      242,
+      218
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mailbox",
+     "fr": "la boire aux lettres",
+     "de": "der Briefkasten",
+     "es": "el buzón",
+     "it": "la buca delle lettere",
+     "_pos": [
+      28,
+      220
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parcel",
+     "fr": "le colis",
+     "de": "das Paket",
+     "es": "el paquete",
+     "it": "il pacco",
+     "_pos": [
+      476,
+      220
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "telephone • le téléphone • das Telefon • el teléfono • il telefono",
+   "parts": [
+    "telephone",
+    "le téléphone",
+    "das telefon",
+    "el teléfono",
+    "il telefono"
+   ],
+   "entries": [
+    {
+     "en": "handset le com binéderApparatel auricular il base station la base die Feststationla base la base cordless phone",
+     "fr": "le téléphone sans til",
+     "de": "das schnurlose Telefon",
+     "es": "el teléfono inalámbrico",
+     "it": "I telefono senza fili",
+     "_pos": [
+      28,
+      320
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "answering machine",
+     "fr": "le répondeur",
+     "de": "der Anrufbeantworter",
+     "es": "la contestador j",
+     "it": "la segreteria telefonica",
+     "_pos": [
+      274,
+      367
+     ],
+     "_flags": [
+      "es:short:j"
+     ]
+    },
+    {
+     "en": "phone booth",
+     "fr": "la cabine téléphonique",
+     "de": "die Telefonzelle",
+     "es": "laca bina telefónica",
+     "it": "la cabina telefonica",
+     "_pos": [
+      672,
+      447
+     ],
+     "_flags": []
+    },
+    {
+     "en": "video phone",
+     "fr": "le visiophone",
+     "de": "das Fernsehtelefon",
+     "es": "el videoteléfono",
+     "it": "il videoteléfono",
+     "_pos": [
+      458,
+      448
+     ],
+     "_flags": []
+    },
+    {
+     "en": "receiver",
+     "fr": "le combiné",
+     "de": "der Hörer",
+     "es": "el auricular",
+     "it": "il ricevitore",
+     "_pos": [
+      367,
+      564
+     ],
+     "_flags": []
+    },
+    {
+     "en": "keypad",
+     "fr": "le clavier",
+     "de": "das Tastenfeld",
+     "es": "el teclado",
+     "it": "la tastiera",
+     "_pos": [
+      196,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coin return",
+     "fr": "le rendu de monnaie",
+     "de": "die Münzruckgabe",
+     "es": "las monedas devueltas",
+     "it": "le monete non utilizzate",
+     "_pos": [
+      283,
+      656
+     ],
+     "_flags": []
+    },
+    {
+     "en": "card phone",
+     "fr": "le téléphone à carte",
+     "de": "das Kartentelefon",
+     "es": "el teléfono de tarjeta",
+     "it": "il telefono a scheda",
+     "_pos": [
+      675,
+      694
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pay phone",
+     "fr": "le téléphone à pièces",
+     "de": "der Münzfernsprecher",
+     "es": "el teléfono de monedas",
+     "it": "il telefono a monete",
+     "_pos": [
+      461,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cellular phone",
+     "fr": "le porra blé",
+     "de": "das Handy",
+     "es": "el celular",
+     "it": "il telefonino",
+     "_pos": [
+      32,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can you give me the number for...?",
+     "fr": "Pouvez-vous me donner le",
+     "de": "num éro p o u r...?",
+     "es": "Können Sie mir die Nummer",
+     "it": "für...geben? M e podría dar el núm ero d e ...? Può darmi il numero per...?",
+     "_pos": [
+      630,
+      794
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "en:weird:for...?",
+      "en:case",
+      "fr:case",
+      "de:short:p",
+      "de:short:u",
+      "de:weird:r...?",
+      "es:case",
+      "it:weird:für...geben?",
+      "it:short:M",
+      "it:weird:...?",
+      "it:weird:per...?"
+     ],
+     "_alts": [
+      {
+       "en": "Can you give me the number for...?",
+       "fr": "Pouvez-vous me donner le",
+       "de": "num éro p o u r...?",
+       "es": "Können Sie mir die Nummer für...geben?",
+       "it": "¿M e podría dar el núm ero d e ...? Può darmi il numero per...?"
+      },
+      {
+       "en": "Can you give me the number for...?",
+       "fr": "Pouvez-vous me donner le",
+       "de": "num éro p o u r...?",
+       "es": "Können Sie mir die Nummer für...geben? ¿M e podría dar el núm ero d e ...?",
+       "it": "Può darmi il numero per...?"
+      }
+     ]
+    },
+    {
+     "en": "operator",
+     "fr": "le téléphoniste",
+     "de": "die Vermittlung",
+     "es": "el operador",
+     "it": "l'operatore",
+     "_pos": [
+      488,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "answer (v)",
+     "fr": "répondre",
+     "de": "abheben",
+     "es": "contestar",
+     "it": "rispondere",
+     "_pos": [
+      286,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "directory assistance",
+     "fr": "les renseignements",
+     "de": "die Auskunft",
+     "es": "la información telefónica",
+     "it": "le informazioni telefoniche",
+     "_pos": [
+      48,
+      799
+     ],
+     "_flags": []
+    },
+    {
+     "en": "busy",
+     "fr": "occupé",
+     "de": "besetzt",
+     "es": "ocupado",
+     "it": "occupato",
+     "_pos": [
+      488,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "text message",
+     "fr": "le texto",
+     "de": "die sMS",
+     "es": "el mensaje de texto",
+     "it": "il messaggio di testo",
+     "_pos": [
+      288,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "collect call",
+     "fr": "le R C V",
+     "de": "das R-Gespräch",
+     "es": "la llamada a por cobrar",
+     "it": "la chiamata a carico del destinatario",
+     "_pos": [
+      49,
+      898
+     ],
+     "_flags": [
+      "fr:short:R",
+      "fr:short:C",
+      "fr:short:V",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "W hat is the area code fon..?",
+     "fr": "Quel est V indicatif pour...?",
+     "de": "Was ist die Vorwahl für...?",
+     "es": "Cual e sel prefijo de larga",
+     "it": "distancia para llam ar a ...? Qual è il prefisso per...?",
+     "_pos": [
+      630,
+      927
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "en:short:W",
+      "en:weird:fon..?",
+      "en:case",
+      "fr:short:V",
+      "fr:weird:pour...?",
+      "fr:case",
+      "de:weird:für...?",
+      "es:case",
+      "it:weird:...?",
+      "it:short:è",
+      "it:weird:per...?"
+     ],
+     "_alts": [
+      {
+       "en": "W hat is the area code fon..?",
+       "fr": "Quel est V indicatif pour...?",
+       "de": "Was ist die Vorwahl für...?",
+       "es": "¿C ual es el prefijo de larga distancia para llam ar a ...?",
+       "it": "Qual è il prefisso per...?"
+      },
+      {
+       "en": "W hat is the area code fon..?",
+       "fr": "Quel est V indicatif pour...?",
+       "de": "Was ist die Vorwahl für...? ¿C ual es el prefijo de larga",
+       "es": "distancia para llam ar a ...?",
+       "it": "Qual è il prefisso per...?"
+      }
+     ]
+    },
+    {
+     "en": "disconnected",
+     "fr": "coupé",
+     "de": "unterbrochen",
+     "es": "desconectado",
+     "it": "staccato",
+     "_pos": [
+      489,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "voice message",
+     "fr": "le message vocal",
+     "de": "die Sprachmitteilung",
+     "es": "el mensaje de voz",
+     "it": "il messaggio vocale",
+     "_pos": [
+      288,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dial (v)",
+     "fr": "composer",
+     "de": "wählen",
+     "es": "marcar",
+     "it": "comporre",
+     "_pos": [
+      50,
+      998
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 7,
+  "flagged": 18,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

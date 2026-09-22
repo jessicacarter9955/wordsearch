@@ -1,0 +1,401 @@
+{
+ "page": 137,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FO O D • I.A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "alcoholic drinks • les boissons alcoolisées • die alkoholischen Getränke • las bebidas alcohólicas • le bevande",
+   "parts": [
+    "alcoholic drinks",
+    "les boissons alcoolisées",
+    "die alkoholischen getränke",
+    "las bebidas alcohólicas",
+    "le bevande"
+   ],
+   "entries": [
+    {
+     "en": "can",
+     "fr": "la boîte",
+     "de": "die Dose",
+     "es": "la lata",
+     "it": "la lattina",
+     "_pos": [
+      326,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hard cider",
+     "fr": "le cidre",
+     "de": "der Apfelwein",
+     "es": "la sidra",
+     "it": "il sidro",
+     "_pos": [
+      362,
+      291
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bitter",
+     "fr": "la bière anglaise",
+     "de": "das halbdunkle Bier",
+     "es": "la cerveza amarga",
+     "it": "la birra amara",
+     "_pos": [
+      532,
+      291
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stout",
+     "fr": "la bière brune",
+     "de": "der Stout",
+     "es": "la cerveza negra",
+     "it": "la birra scura",
+     "_pos": [
+      700,
+      292
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Bier",
+     "fr": "la cerveza",
+     "es": "la birra",
+     "_pos": [
+      195,
+      308
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:it",
+      "en:case"
+     ]
+    },
+    {
+     "en": "gin",
+     "fr": "le gin",
+     "de": "der Gin",
+     "_pos": [
+      22,
+      537
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "whiskey",
+     "fr": "le whisky",
+     "de": "der Whisky",
+     "es": "el w hisky",
+     "it": "il whisky",
+     "_pos": [
+      362,
+      537
+     ],
+     "_flags": [
+      "es:short:w"
+     ]
+    },
+    {
+     "en": "vodka",
+     "fr": "la vodka",
+     "de": "der Wodka",
+     "es": "el vodka",
+     "it": "la vodka",
+     "_pos": [
+      192,
+      537
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rum",
+     "de": "der Rum",
+     "es": "el ron",
+     "it": "il rum",
+     "_pos": [
+      532,
+      537
+     ],
+     "_flags": [
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "brandy",
+     "fr": "le brandy",
+     "de": "derWeinbrand",
+     "es": "el brandy",
+     "it": "il brandy",
+     "_pos": [
+      702,
+      538
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• la ginebra • il gin",
+   "parts": [
+    "la ginebra",
+    "il gin"
+   ],
+   "entries": [
+    {
+     "en": "rose",
+     "fr": "rosé",
+     "de": "rosé",
+     "es": "rosado",
+     "it": "rosé",
+     "_pos": [
+      532,
+      618
+     ],
+     "_flags": []
+    },
+    {
+     "en": "white",
+     "fr": "blanc",
+     "de": "weiß",
+     "es": "blanco",
+     "_pos": [
+      664,
+      618
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "red",
+     "fr": "rouge",
+     "de": "rot",
+     "es": "tinto",
+     "_pos": [
+      776,
+      618
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "sherry",
+     "fr": "le sherry",
+     "de": "der Sherry",
+     "es": "el vino de jerez",
+     "it": "lo sherry",
+     "_pos": [
+      194,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "port",
+     "fr": "le porto",
+     "de": "der Portwein",
+     "es": "el oporto",
+     "it": "I porto",
+     "_pos": [
+      24,
+      783
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "campan",
+     "fr": "le camp an",
+     "de": "der Campari",
+     "es": "el campaci",
+     "it": "il camp3ri",
+     "_pos": [
+      363,
+      783
+     ],
+     "_flags": [
+      "it:num:camp3ri"
+     ]
+    },
+    {
+     "en": "liqueur",
+     "fr": "la liqueur",
+     "de": "der Likör",
+     "es": "el licor",
+     "it": "il liquore",
+     "_pos": [
+      24,
+      1012
+     ],
+     "_flags": []
+    },
+    {
+     "en": "champagne",
+     "fr": "le champagne",
+     "de": "der Champagner",
+     "es": "el champán",
+     "it": "lo champagne",
+     "_pos": [
+      364,
+      1012
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wine",
+     "fr": "le vin",
+     "de": "der Wein",
+     "es": "el vino",
+     "it": "il vino",
+     "_pos": [
+      533,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "de": "der Tequila",
+     "es": "el tequila",
+     "it": "la tequila",
+     "_pos": [
+      194,
+      1028
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "UU'IPi f l $ S A N C E R R t",
+     "_pos": [
+      684,
+      1063
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:short:f",
+      "en:weird:$",
+      "en:short:S",
+      "en:short:N",
+      "en:short:C",
+      "en:short:R",
+      "en:short:t",
+      "en:case"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "M",
+   "parts": [
+    "m"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "alcoliche",
+   "pos": [
+    22,
+    99
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "tequila",
+   "pos": [
+    264,
+    1011
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "m",
+   "pos": [
+    728,
+    1041
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "s",
+   "pos": [
+    876,
+    1065
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 2,
+  "flagged": 19,
+  "missing_lang": 7,
+  "leftovers": 4,
+  "subcats": 3
+ }
+}

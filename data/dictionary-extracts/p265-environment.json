@@ -1,0 +1,616 @@
+{
+ "page": 265,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "macro_slug": "ambiente",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "spazio",
+   "names": {
+    "en": "space",
+    "fr": "l'espace",
+    "de": "der weltraum",
+    "es": "el espado",
+    "it": "lo spazio"
+   },
+   "entries": [
+    {
+     "en": "Mercury",
+     "fr": "Mercure",
+     "de": "Merkur",
+     "es": "Mercurio",
+     "it": "Mercurio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "Earth",
+     "fr": "Terre",
+     "de": "Erde",
+     "es": "Tierra",
+     "it": "Terra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "Pluto",
+     "fr": "Pintón",
+     "de": "Pluto",
+     "es": "Plutón",
+     "it": "Plutone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "Mars",
+     "fr": "Mars",
+     "de": "Mars",
+     "es": "Marte",
+     "it": "Marte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "Jupiter",
+     "fr": "Jup iter",
+     "de": "Jupiter",
+     "es": "Júpiter",
+     "it": "Giove",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "Uranus",
+     "fr": "U ranus",
+     "de": "Uranus",
+     "es": "Urano",
+     "it": "Uranio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "Neptune",
+     "fr": "Neptune",
+     "de": "Neptun",
+     "es": "Neptuno",
+     "it": "Nettuno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "Venus",
+     "fr": "Vénus",
+     "de": "Venus",
+     "es": "Venus",
+     "it": "Venere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "Sun",
+     "fr": "soleil",
+     "de": "Sonne",
+     "es": "sol",
+     "it": "sole",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 5,
+      "es": 3,
+      "it": 4
+     }
+    },
+    {
+     "en": "Moon",
+     "fr": "a lune",
+     "de": "Mond",
+     "es": "luna",
+     "it": "luna",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "Saturn",
+     "fr": "Saturne",
+     "de": "Saturn",
+     "es": "Saturno",
+     "it": "Saturno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "star",
+     "fr": "étoile",
+     "de": "Stern",
+     "es": "estrella",
+     "it": "stella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "tail",
+     "fr": "queue",
+     "de": "Schweif",
+     "es": "cola",
+     "it": "coda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "solar system",
+     "fr": "sytème solaire",
+     "de": "Sonnensystem",
+     "es": "sistema solar",
+     "it": "sistema solare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 12,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "galaxy",
+     "fr": "ln galaxie",
+     "de": "Galaxie",
+     "es": "galaxia",
+     "it": "galassia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "nebula",
+     "fr": "nébuleuse",
+     "de": "Nebelfleck",
+     "es": "nebulosa",
+     "it": "nebulosa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "comet",
+     "fr": "comète",
+     "de": "Komet",
+     "es": "com eta",
+     "it": "cometa",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "asteroid",
+     "fr": "astéroïde",
+     "de": "Asteroid",
+     "es": "asteroide",
+     "it": "asteroide",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "universe",
+     "fr": "univers",
+     "de": "Universum",
+     "es": "universo",
+     "it": "universo",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "black hole",
+     "fr": "trou noir",
+     "de": "schwarze Loch",
+     "es": "agujero negro",
+     "it": "buco nero",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 12,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "full moon",
+     "fr": "pleine lune",
+     "de": "Vollmond",
+     "es": "lima llena",
+     "it": "luna piena",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "orbit",
+     "fr": "orbitc",
+     "de": "Umlaufbahn",
+     "es": "órbita",
+     "it": "orbita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "planet",
+     "fr": "planète",
+     "de": "Planet",
+     "es": "planeta",
+     "it": "pianeta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "new moon",
+     "fr": "nouvelle lune",
+     "de": "Neumond",
+     "es": "luna nueva",
+     "it": "luna nuova",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "meteor",
+     "fr": "météore",
+     "de": "Meteor",
+     "es": "meteorito",
+     "it": "meteora",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "gravity",
+     "fr": "pesanteur",
+     "de": "Schwerkraft",
+     "es": "gravedad",
+     "it": "gravità",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 11,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "crescent moon",
+     "fr": "croissant de lune",
+     "de": "Mondsichel",
+     "es": "media luna",
+     "it": "mezzaluna",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

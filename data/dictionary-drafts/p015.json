@@ -1,0 +1,368 @@
+{
+ "page": 15,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • LES GENS • / DIE MENSCHEN • / L A GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "skeleton • le squelette • das Skelett • el esqueleto • lo scheletro",
+   "parts": [
+    "skeleton",
+    "le squelette",
+    "das skelett",
+    "el esqueleto",
+    "lo scheletro"
+   ],
+   "entries": [
+    {
+     "en": "skull",
+     "fr": "le crâne",
+     "de": "der Schädel",
+     "es": "el cráneo",
+     "it": "il cranio",
+     "_pos": [
+      369,
+      116
+     ],
+     "_flags": []
+    },
+    {
+     "en": "collar bone",
+     "fr": "la clavicule",
+     "de": "das Schlüsselbein",
+     "es": "la clavícula",
+     "it": "la clavicola",
+     "_pos": [
+      138,
+      117
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jaw",
+     "fr": "le maxillaire",
+     "de": "der Kieferknochen",
+     "es": "la mandíbula",
+     "it": "la mandibola",
+     "_pos": [
+      408,
+      212
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shoulder blade",
+     "fr": "l'omoplate",
+     "de": "das Schulterblatt",
+     "es": "e lomo plato",
+     "it": "la scapola",
+     "_pos": [
+      85,
+      215
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cervical vertebrae",
+     "fr": "les vertèbres cervicales",
+     "de": "die Halswirbel",
+     "es": "las vértebras cervicales",
+     "it": "la vertebra cervicale",
+     "_pos": [
+      696,
+      216
+     ],
+     "_flags": []
+    },
+    {
+     "en": "humerus",
+     "fr": "l'humérus",
+     "de": "der Oberarmknochen",
+     "es": "el húmero",
+     "it": "l'omero",
+     "_pos": [
+      458,
+      312
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breast bone",
+     "fr": "le sternum",
+     "de": "das Brustbein",
+     "es": "el esternón",
+     "it": "lo sterno",
+     "_pos": [
+      76,
+      314
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thoracic vertebrae",
+     "fr": "les vertèbres thoraciques",
+     "de": "die Brustwirbel",
+     "es": "las vértebras dorsales",
+     "it": "la vertebra toracica",
+     "_pos": [
+      696,
+      325
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nb cage",
+     "fr": "la cage thoracique",
+     "de": "der Brustkorb",
+     "es": "la caja torácica",
+     "it": "la cassa toracica",
+     "_pos": [
+      460,
+      410
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la côte",
+     "de": "die Rippe",
+     "es": "la costilla",
+     "it": "la costola",
+     "_pos": [
+      34,
+      429
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "lumbar vertebrae",
+     "fr": "les lombaires",
+     "de": "die Lendenwirbel",
+     "es": "las vértebras lum bares",
+     "it": "Ih vertebra lombare",
+     "_pos": [
+      700,
+      463
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "metacarpal",
+     "fr": "le m étacarpien",
+     "de": "der Mittelhandknochen",
+     "es": "el metacarpo",
+     "it": "il metacarpo",
+     "_pos": [
+      460,
+      508
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "ulna",
+     "fr": "le cubitus",
+     "de": "die Elle",
+     "es": "el cúbito",
+     "it": "l'ulna",
+     "_pos": [
+      36,
+      511
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailbone",
+     "fr": "le coccyx",
+     "de": "das Steißbein",
+     "es": "el coxis",
+     "it": "la coccige",
+     "_pos": [
+      702,
+      590
+     ],
+     "_flags": []
+    },
+    {
+     "en": "radius",
+     "fr": "le radius",
+     "de": "die Speiche",
+     "es": "el radio",
+     "it": "il radio",
+     "_pos": [
+      37,
+      625
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spine",
+     "fr": "la colonne vertébrale",
+     "de": "die Wirbelsäule",
+     "es": "la espina dorsal",
+     "it": "la spina dorsale",
+     "_pos": [
+      564,
+      655
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pelvis",
+     "fr": "le bassin",
+     "de": "das Becken",
+     "es": "la pelvis",
+     "it": "il bacino",
+     "_pos": [
+      142,
+      674
+     ],
+     "_flags": []
+    },
+    {
+     "en": "femur",
+     "fr": "le fémur",
+     "de": "der Oberschenkelknochen",
+     "es": "el fémur",
+     "it": "il femore",
+     "_pos": [
+      396,
+      748
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "joint • l'articulation • das Gelenk • la articulación • l'articolazione",
+   "parts": [
+    "joint",
+    "l'articulation",
+    "das gelenk",
+    "la articulación",
+    "l'articolazione"
+   ],
+   "entries": [
+    {
+     "en": "kneecap",
+     "fr": "la rotule",
+     "de": "die Kniescheibe",
+     "es": "la rótula",
+     "it": "la rotula",
+     "_pos": [
+      105,
+      772
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cartilage",
+     "fr": "le cartilage",
+     "de": "der Knorpel",
+     "es": "el cartílago",
+     "it": "la cartilagine",
+     "_pos": [
+      566,
+      819
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fibula",
+     "fr": "le péroné",
+     "de": "das Wadenbein",
+     "es": "el peroné",
+     "it": "il perone",
+     "_pos": [
+      116,
+      871
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tibia",
+     "fr": "le tibia",
+     "de": "das Schienbein",
+     "es": "la tibia",
+     "it": "la tibia",
+     "_pos": [
+      383,
+      908
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ligament",
+     "fr": "le ligament",
+     "de": "das Sehnenband",
+     "es": "el ligamento",
+     "it": "il legamento",
+     "_pos": [
+      568,
+      932
+     ],
+     "_flags": []
+    },
+    {
+     "en": "metatarsal",
+     "fr": "le m étatarsien",
+     "de": "der Mittelfußknochen",
+     "es": "el metatarso",
+     "it": "il m etatarso",
+     "_pos": [
+      70,
+      973
+     ],
+     "_flags": [
+      "fr:short:m",
+      "it:short:m"
+     ]
+    },
+    {
+     "en": "tendon",
+     "fr": "le tendon",
+     "de": "die Sehne",
+     "es": "el tendón",
+     "it": "il tendine",
+     "_pos": [
+      778,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bone",
+     "fr": "l'os",
+     "de": "der Knochen",
+     "es": "el hueso",
+     "it": "l'osso",
+     "_pos": [
+      692,
+      997
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 16,
+  "flagged": 10,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

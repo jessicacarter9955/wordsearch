@@ -1,0 +1,216 @@
+{
+ "page": 103,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "flohst • le fleuriste • das Blumengeschäft • la florería • il fioraio",
+   "parts": [
+    "flohst",
+    "le fleuriste",
+    "das blumengeschäft",
+    "la florería",
+    "il fioraio"
+   ],
+   "entries": [
+    {
+     "en": "gladiolus",
+     "fr": "le glaïeul",
+     "de": "die Gladiole",
+     "es": "la gladiola",
+     "it": "il gladiolo",
+     "_pos": [
+      754,
+      158
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flowers",
+     "fr": "les fleurs",
+     "de": "die Blumen",
+     "es": "las flores",
+     "it": "i fiori",
+     "_pos": [
+      36,
+      160
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ins",
+     "fr": "l'iris",
+     "de": "die Iris",
+     "es": "el ms",
+     "it": "l'iris",
+     "_pos": [
+      754,
+      289
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lily",
+     "fr": "le lis",
+     "de": "die Lilie",
+     "es": "la azucena",
+     "it": "il giglio",
+     "_pos": [
+      37,
+      309
+     ],
+     "_flags": []
+    },
+    {
+     "en": "acacia",
+     "fr": "l'acacia",
+     "de": "die Akazie",
+     "es": "la acacia",
+     "it": "l'acacia",
+     "_pos": [
+      38,
+      407
+     ],
+     "_flags": []
+    },
+    {
+     "en": "daisy",
+     "fr": "la marguerite",
+     "de": "die Margerite",
+     "es": "la margarita",
+     "it": "la margherita",
+     "_pos": [
+      756,
+      422
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carnation",
+     "fr": "l'œillet",
+     "de": "die Nelke",
+     "es": "el clavel",
+     "it": "il garofano",
+     "_pos": [
+      38,
+      523
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chrysanthemum",
+     "fr": "le chrysanthème",
+     "de": "die Chrysantheme",
+     "es": "el crisantemo",
+     "it": "il crisantemo",
+     "_pos": [
+      756,
+      554
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gypsophila",
+     "fr": "la gypsophile",
+     "de": "das Schleierkraut",
+     "es": "la nube",
+     "it": "la gipsofila",
+     "_pos": [
+      758,
+      703
+     ],
+     "_flags": []
+    },
+    {
+     "en": "potted plant",
+     "fr": "la plante en pot",
+     "de": "die Topfpflanze",
+     "es": "la maceta",
+     "it": "la pianta da vaso",
+     "_pos": [
+      40,
+      704
+     ],
+     "_flags": []
+    },
+    {
+     "en": "freesia",
+     "fr": "le freesia",
+     "de": "die Freesie",
+     "es": "la fresia",
+     "it": "la fresia",
+     "_pos": [
+      728,
+      1051
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rose",
+     "fr": "la rose",
+     "de": "die Rose",
+     "es": "la rosa",
+     "it": "la rosa",
+     "_pos": [
+      557,
+      1051
+     ],
+     "_flags": []
+    },
+    {
+     "en": "foliage",
+     "fr": "le feuillage",
+     "de": "die Blätter",
+     "es": "el follaje",
+     "it": "il fogliame",
+     "_pos": [
+      384,
+      1052
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stocks",
+     "fr": "la giroflée",
+     "de": "die Levkoje",
+     "es": "el alhelí",
+     "it": "la violacciocca",
+     "_pos": [
+      41,
+      1052
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gerbera",
+     "fr": "le gerbera",
+     "de": "die Gerbera",
+     "es": "la gerbera",
+     "it": "la gerbera",
+     "_pos": [
+      212,
+      1052
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 10,
+  "flagged": 5,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

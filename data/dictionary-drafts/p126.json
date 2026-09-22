@@ -1,0 +1,319 @@
+{
+ "page": 126,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "bottled foods • les aliments en bouteilles • die Nahrungsmittel in Flaschen • los alimentos",
+   "parts": [
+    "bottled foods",
+    "les aliments en bouteilles",
+    "die nahrungsmittel in flaschen",
+    "los alimentos"
+   ],
+   "entries": [
+    {
+     "en": "cork",
+     "fr": "le bouchon",
+     "de": "der Korken",
+     "es": "el corcho",
+     "it": "I tannn",
+     "_pos": [
+      612,
+      114
+     ],
+     "_flags": [
+      "it:rep:tannn",
+      "it:case"
+     ]
+    },
+    {
+     "en": "sunflower oil",
+     "fr": "l'huile de tournesol",
+     "de": "das Sonnenblumenöl",
+     "es": "el aceite de girasol",
+     "it": "folio di semi di girasole",
+     "_pos": [
+      784,
+      132
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "embotellados • i cibi im bottigliati",
+   "parts": [
+    "embotellados",
+    "i cibi im bottigliati"
+   ],
+   "entries": [
+    {
+     "en": "walnut oil",
+     "fr": "l'huile de noix",
+     "de": "das Walnussöl",
+     "es": "el aceite de nueces",
+     "it": "l'olio di noce",
+     "_pos": [
+      84,
+      179
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grapeseed oil",
+     "fr": "l'huile de pépins de raisin",
+     "de": "das Traubenkernöl",
+     "es": "el aceite dese mil las de uva",
+     "it": "l'olio di semi d'uva",
+     "_pos": [
+      298,
+      181
+     ],
+     "_flags": []
+    },
+    {
+     "en": "almond oil",
+     "fr": "l'huile d'amande",
+     "de": "das Mandelöl",
+     "es": "el aceite de almendras",
+     "it": "l'olio di mandorla",
+     "_pos": [
+      58,
+      261
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      712,
+      394
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "sesame seed oil",
+     "fr": "l'huile de sésame",
+     "de": "das Sesamöl",
+     "es": "el aceite de sésamo",
+     "it": "l'olio di sesamo",
+     "_pos": [
+      58,
+      586
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hazelnut oil",
+     "fr": "l'huile de noisette",
+     "de": "das Haselnussöl",
+     "es": "el aceite de avellanas",
+     "it": "l'olio di noccioline",
+     "_pos": [
+      246,
+      588
+     ],
+     "_flags": []
+    },
+    {
+     "en": "olive oil",
+     "fr": "l'huile d' olive",
+     "de": "das Olivenöl",
+     "es": "el aceite de oliva",
+     "it": "l'olio d'oliva",
+     "_pos": [
+      462,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herbs",
+     "fr": "les herbes",
+     "de": "die Krauter",
+     "es": "las hierbas",
+     "it": "le erbe aromatiche",
+     "_pos": [
+      619,
+      590
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flavored oil",
+     "fr": "l'huile parfumée",
+     "de": "das aromatischeÖl",
+     "es": "el aceite aromatizado",
+     "it": "l'olio aromatizzato",
+     "_pos": [
+      752,
+      591
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "oils • les huiles • die Öle • los aceites • gli oli",
+   "parts": [
+    "oils",
+    "les huiles",
+    "die öle",
+    "los aceites",
+    "gli oli"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "sweet spreads • Ics produits à tartiner • der süße Aufstrich • las conservas dulces • le confetture",
+   "parts": [
+    "sweet spreads",
+    "ics produits à tartiner",
+    "der süße aufstrich",
+    "las conservas dulces",
+    "le confetture"
+   ],
+   "entries": [
+    {
+     "en": "honeycomb",
+     "fr": "le gâteau de miel",
+     "de": "die Honigwabe",
+     "es": "el panal",
+     "it": "il favo",
+     "_pos": [
+      387,
+      769
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set honey",
+     "fr": "le miei solide",
+     "de": "der feste Honig",
+     "es": "la miel cristal izada",
+     "it": "il miele condensato",
+     "_pos": [
+      680,
+      771
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lar",
+     "fr": "le pot",
+     "de": "das Glas el tarro",
+     "it": "il barattolo",
+     "_pos": [
+      160,
+      783
+     ],
+     "_flags": [
+      "missing:es"
+     ]
+    },
+    {
+     "en": "lemon curd",
+     "fr": "la pâle à rartiner au citron",
+     "de": "der Zitronenaufstrich",
+     "es": "la crema de limón",
+     "it": "la crema al limone",
+     "_pos": [
+      56,
+      1000
+     ],
+     "_flags": []
+    },
+    {
+     "en": "raspberry jam",
+     "fr": "la confiture de framboises",
+     "de": "die Himbeerkonfiture",
+     "es": "la mermelada de frambuesa",
+     "it": "la marmellata di lamponi",
+     "_pos": [
+      226,
+      1001
+     ],
+     "_flags": []
+    },
+    {
+     "en": "marmalade",
+     "fr": "la confiture d'oranges",
+     "de": "die Orangenmarmelade",
+     "es": "la mermelada de naranja",
+     "it": "la marmellata di agrumi",
+     "_pos": [
+      398,
+      1002
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clear honey",
+     "fr": "le ici liquide",
+     "de": "der flüssige Honig",
+     "es": "la mi e ilíquida",
+     "it": "il miele sciolto",
+     "_pos": [
+      568,
+      1003
+     ],
+     "_flags": []
+    },
+    {
+     "en": "maple syrup",
+     "fr": "le sirop d",
+     "de": "der Ahornsi",
+     "es": "la m iei dt",
+     "it": "lo sciroppi",
+     "_pos": [
+      758,
+      1004
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "(T5",
+   "pos": [
+    710,
+    356
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "'^UKTrCCkirv o",
+   "pos": [
+    682,
+    377
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 0,
+  "flagged": 19,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 4
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "page": 245,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • L E TEMPS LIBRE • DIE FREIZEIT • E L O C IO • IL TEMPO UBERO",
+ "groups": [
+  {
+   "names_raw": "musical styles • les styles de musique • die Musikstile • los estilos musicales • gli stili musicali",
+   "parts": [
+    "musical styles",
+    "les styles de musique",
+    "die musikstile",
+    "los estilos musicales",
+    "gli stili musicali"
+   ],
+   "entries": [
+    {
+     "en": "punk",
+     "fr": "la m usique punk",
+     "de": "die Punkmusik",
+     "es": "el punk",
+     "it": "il punk",
+     "_pos": [
+      600,
+      336
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "blues",
+     "fr": "le blues",
+     "de": "der Blues",
+     "es": "el blues",
+     "it": "il blues",
+     "_pos": [
+      317,
+      338
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jazz",
+     "fr": "le jazz",
+     "de": "der Jazz",
+     "es": "el ja zz",
+     "it": "il jazz",
+     "_pos": [
+      34,
+      340
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dance",
+     "fr": "la dance",
+     "de": "die Tanzmusik",
+     "es": "la música de baile",
+     "it": "la musica da ballo",
+     "_pos": [
+      602,
+      615
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pop",
+     "fr": "la pop",
+     "de": "der Pop",
+     "es": "el pop",
+     "it": "il pop",
+     "_pos": [
+      320,
+      617
+     ],
+     "_flags": []
+    },
+    {
+     "en": "folk music",
+     "fr": "la m usique fo lk",
+     "de": "der Folk",
+     "es": "la música folklórica",
+     "it": "la musica folk",
+     "_pos": [
+      37,
+      618
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "classical music",
+     "fr": "la musique classique",
+     "de": "die klassische Musik",
+     "es": "la m ùsica clásica",
+     "it": "la musica classica",
+     "_pos": [
+      604,
+      894
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "heavy melai",
+     "fr": "la heavy m ita i",
+     "de": "das Heavymetal",
+     "es": "el heavy m etal",
+     "it": "l'heavy metal",
+     "_pos": [
+      322,
+      896
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "rap",
+     "fr": "le rap",
+     "de": "der Rap",
+     "es": "el rap",
+     "it": "il rap",
+     "_pos": [
+      40,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spotlight",
+     "fr": "le projecteur",
+     "de": "der Scheinwerfer",
+     "es": "el reflector",
+     "it": "il proiettore",
+     "_pos": [
+      756,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "country",
+     "fr": "la country",
+     "de": "die Countrymusic",
+     "es": "la m ùsica countryw",
+     "it": "il country",
+     "_pos": [
+      598,
+      977
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "reggae",
+     "fr": "le reggae",
+     "de": "der Reggae",
+     "es": "el reggae",
+     "it": "il reggae",
+     "_pos": [
+      491,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beat",
+     "fr": "le bear",
+     "de": "derBeat",
+     "es": "el ritmo",
+     "it": "il ritmo",
+     "_pos": [
+      393,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "melody",
+     "fr": "la mélodie",
+     "de": "die Melodie",
+     "es": "la m elodia",
+     "it": "la melodia",
+     "_pos": [
+      280,
+      979
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "lyrics",
+     "fr": "les paroles",
+     "de": "der Text",
+     "es": "la letra",
+     "it": "il testo",
+     "_pos": [
+      168,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "song",
+     "fr": "la chanson",
+     "de": "das Lied",
+     "es": "la canción",
+     "it": "la canzone",
+     "_pos": [
+      56,
+      980
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 5,
+  "flagged": 11,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

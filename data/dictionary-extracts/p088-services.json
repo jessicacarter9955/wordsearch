@@ -1,0 +1,605 @@
+{
+ "page": 88,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "servizi-di-emergenza",
+   "names": {
+    "en": "emergency services",
+    "fr": "les services d'urgence",
+    "de": "die notdienste",
+    "es": "los servicios de emergencia",
+    "it": "servizi di emergenza"
+   },
+   "entries": []
+  },
+  {
+   "slug": "ambulanza",
+   "names": {
+    "en": "ambulance",
+    "fr": "l'ambulance",
+    "de": "der krankenwagen",
+    "es": "la ambulancia",
+    "it": "l'ambulanza"
+   },
+   "entries": [
+    {
+     "en": "stretcher",
+     "fr": "Ic brancard",
+     "de": "Tragbahre",
+     "es": "camilla",
+     "it": "barella",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "ambulance",
+     "fr": "ambulance",
+     "de": "Krankenwagen",
+     "es": "ambulancia",
+     "it": "ambulanza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 12,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "paramedic",
+     "fr": "infirmier du S A M U",
+     "de": "Rettungssanitäter",
+     "es": "param èdico",
+     "it": "paramedico",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 17,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": "polizia",
+   "names": {
+    "en": "police",
+    "fr": "la police",
+    "de": "die polizei",
+    "es": "la policía",
+    "it": "la polizia"
+   },
+   "entries": [
+    {
+     "en": "lights",
+     "fr": "feux",
+     "de": "Licht",
+     "es": "luces",
+     "it": "luci",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "badge",
+     "fr": "badge",
+     "de": "Kennmarke",
+     "es": "placa",
+     "it": "il",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 2
+     }
+    },
+    {
+     "en": "uniform",
+     "fr": "uniforme",
+     "de": "Uniform",
+     "es": "uniforme",
+     "it": "uniforme",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "siren",
+     "fr": "sirène",
+     "de": "Sirene",
+     "es": "sirena",
+     "it": "sirena",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "police station",
+     "fr": "poste de police",
+     "de": "Polizeiwache",
+     "es": "estación de policía",
+     "it": "stazione di polizia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 12,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "police car",
+     "fr": "voiture de police",
+     "de": "Polizeiauto",
+     "es": "patrulla",
+     "it": "auto della polizia",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 11,
+      "es": 8,
+      "it": 16
+     }
+    },
+    {
+     "en": "nightstick",
+     "fr": "matraque",
+     "de": "Gummiknüppel",
+     "es": "macana",
+     "it": "manganello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 12,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "captain",
+     "fr": "inspecteur",
+     "de": "Inspektor",
+     "es": "inspector",
+     "it": "commissario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 9,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "burglary",
+     "fr": "cambriolage",
+     "de": "Einbruchdiebstahl",
+     "es": "robo",
+     "it": "furto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 17,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "complaint",
+     "fr": "piaim e",
+     "de": "Beschwerde",
+     "es": "denuncia",
+     "it": "denuncia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "arrest",
+     "fr": "arrestation",
+     "de": "Festnahme",
+     "es": "arresto",
+     "it": "arresto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "gun",
+     "fr": "pistolet",
+     "de": "Pistole",
+     "es": "pistola",
+     "it": "pistola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "detective",
+     "fr": "officier de police",
+     "de": "Kriminalbeamte",
+     "es": "detective",
+     "it": "investigatore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 14,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "assault",
+     "fr": "agression",
+     "de": "Körperverletzung",
+     "es": "agresión",
+     "it": "aggressione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 16,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "investigation",
+     "fr": "enquête",
+     "de": "Ermittlung",
+     "es": "investigación",
+     "it": "indagine",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 7,
+      "de": 10,
+      "es": 13,
+      "it": 8
+     }
+    },
+    {
+     "en": "lockup",
+     "fr": "cellule",
+     "de": "Polizeizelie",
+     "es": "celda",
+     "it": "cella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "handcuffs",
+     "fr": "menottes",
+     "de": "Handschellen",
+     "es": "esposas",
+     "it": "manette",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 12,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "crime",
+     "fr": "crime",
+     "de": "Verbrechen",
+     "es": "crimen",
+     "it": "l reato",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "fingerprint",
+     "fr": "empreintes",
+     "de": "Fingerabdruck",
+     "es": "huella digital",
+     "it": "impronta digitale",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 13,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "suspect",
+     "fr": "suspect",
+     "de": "Verdächtige",
+     "es": "sospechoso",
+     "it": "sospetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "charge",
+     "fr": "accusation",
+     "de": "Anklage",
+     "es": "cargo",
+     "it": "accusa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "police officer",
+     "fr": "policier",
+     "it": "agente",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "it": 6
+     }
+    },
+    {
+     "de": "Polizist",
+     "es": "policía",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "de": 8,
+      "es": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

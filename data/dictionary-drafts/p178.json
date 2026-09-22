@@ -1,0 +1,262 @@
+{
+ "page": 178,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • I F T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "dentist",
+     "fr": "la dentiste",
+     "de": "die Zahnärztin",
+     "es": "la dentista",
+     "it": "la dentista",
+     "_pos": [
+      450,
+      327
+     ],
+     "_flags": []
+    },
+    {
+     "en": "doctor",
+     "fr": "le docteur",
+     "de": "der Arzt",
+     "es": "el médico",
+     "it": "il medico",
+     "_pos": [
+      666,
+      327
+     ],
+     "_flags": []
+    },
+    {
+     "en": "optician",
+     "fr": "l'opticien",
+     "de": "der Optiker",
+     "es": "el optom etrist«",
+     "it": "l'ottico",
+     "_pos": [
+      234,
+      330
+     ],
+     "_flags": [
+      "es:weird:etrist«"
+     ]
+    },
+    {
+     "en": "estate agent",
+     "fr": "l'agent immobilier",
+     "de": "die Immobilienmaklerin",
+     "es": "la agente inmobiliario",
+     "it": "l'agente immobiliare",
+     "_pos": [
+      17,
+      334
+     ],
+     "_flags": []
+    },
+    {
+     "en": "farmer",
+     "fr": "le fermier",
+     "de": "der Bauer",
+     "es": "el agricultor",
+     "it": "l'agricoltore",
+     "_pos": [
+      670,
+      560
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vet",
+     "fr": "la vétérinaire",
+     "de": "die Tierarztin",
+     "es": "la veterinaria",
+     "it": "la veterinaria",
+     "_pos": [
+      453,
+      562
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nurse",
+     "fr": "l'infirmière",
+     "de": "die Krankenschwester",
+     "es": "la enfermera",
+     "it": "l'infermiera",
+     "_pos": [
+      237,
+      565
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pharmacist",
+     "fr": "la pharmacienne",
+     "de": "die Apothekerin",
+     "es": "la farmacéutica",
+     "it": "la farmacista",
+     "_pos": [
+      22,
+      568
+     ],
+     "_flags": []
+    },
+    {
+     "en": "identity card",
+     "fr": "le badge",
+     "de": "das Abzeichen",
+     "es": "la placa de identificación",
+     "it": "il distintivo",
+     "_pos": [
+      598,
+      629
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "r",
+   "parts": [
+    "r"
+   ],
+   "entries": [
+    {
+     "en": "security guard",
+     "fr": "le garde",
+     "de": "der Wächter",
+     "es": "el guardia de seguridad",
+     "it": "la guardia di sicurezza",
+     "_pos": [
+      674,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fisherman",
+     "fr": "le pêcheur",
+     "de": "der Fischer",
+     "es": "el pescador",
+     "it": "il pescatore",
+     "_pos": [
+      24,
+      802
+     ],
+     "_flags": []
+    },
+    {
+     "en": "uniform",
+     "fr": "l'uniforme",
+     "de": "die Uniform",
+     "es": "el uniforme",
+     "it": "la divisa",
+     "_pos": [
+      580,
+      812
+     ],
+     "_flags": []
+    },
+    {
+     "en": "machine gun",
+     "fr": "la mirra i lieuse",
+     "de": "das Maschinen gewehr",
+     "es": "la metralleta",
+     "it": "la mitragliatrice",
+     "_pos": [
+      228,
+      816
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fireman",
+     "fr": "le pompier",
+     "de": "der Feuerwehrmann",
+     "es": "el bombero",
+     "it": "il vigile del fuoco",
+     "_pos": [
+      677,
+      1044
+     ],
+     "_flags": []
+    },
+    {
+     "en": "policeman",
+     "fr": "le policier",
+     "de": "der Polizist",
+     "es": "el policía",
+     "it": "il poliziotto",
+     "_pos": [
+      460,
+      1047
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soldier",
+     "fr": "le soldat",
+     "de": "der Soldat",
+     "es": "el soldado",
+     "it": "il soldato",
+     "_pos": [
+      244,
+      1050
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sailor",
+     "fr": "le marin",
+     "de": "der Seemann",
+     "es": "el marino",
+     "it": "il marinaio",
+     "_pos": [
+      28,
+      1052
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "mask",
+   "pos": [
+    613,
+    76
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "w",
+   "pos": [
+    814,
+    776
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 1,
+  "flagged": 16,
+  "missing_lang": 0,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

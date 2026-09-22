@@ -1,0 +1,497 @@
+{
+ "page": 169,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "legge",
+   "names": {
+    "en": "law",
+    "fr": "le droit",
+    "de": "das recht",
+    "es": "el derecho",
+    "it": "la legge"
+   },
+   "entries": [
+    {
+     "en": "bailiff",
+     "fr": "huissier de tribunal",
+     "de": "Gerichtsdiener",
+     "es": "ei guardia",
+     "it": "guardia",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 18,
+      "de": 14,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "witness",
+     "fr": "témoin",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6
+     }
+    },
+    {
+     "en": "judge",
+     "fr": "juge",
+     "de": "Richter",
+     "es": "juez",
+     "it": "giudice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 7,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "lawyer",
+     "fr": "avocat",
+     "de": "Rechtsanwalt",
+     "es": "abogado",
+     "it": "avvocato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 12,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "jury",
+     "fr": "jury",
+     "de": "Geschworenen",
+     "es": "jurado",
+     "it": "giuria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 12,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "jury box",
+     "fr": "banc des jurés",
+     "de": "Geschworenenbank",
+     "es": "tribuna del jurado",
+     "it": "banco della giuria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 16,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "courtroom",
+     "fr": "salle de tribunal",
+     "de": "Gerichtssaal",
+     "es": "sala del tribunal",
+     "it": "aula del tribunale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 12,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "prosecution",
+     "fr": "accusation!",
+     "de": "Staatsanwaltschaft",
+     "es": "acusación",
+     "it": "pubblico ministero",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 18,
+      "es": 9,
+      "it": 17
+     }
+    },
+    {
+     "en": "court officiai",
+     "fr": "greffier",
+     "de": "Protokollführer",
+     "es": "auditor",
+     "it": "cancelliere",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 15,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "lawyer's office",
+     "fr": "cabinet",
+     "de": "Anwaltsbüro",
+     "es": "bufete",
+     "it": "studio dell'awoeato",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 7,
+      "de": 11,
+      "es": 6,
+      "it": 17
+     }
+    },
+    {
+     "en": "summons",
+     "fr": "assignation",
+     "de": "Vorladung",
+     "es": "citación",
+     "it": "citazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "w nt",
+     "fr": "acte judiciaire",
+     "de": "Verfügung",
+     "es": "orden judicial",
+     "it": "ordine",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 14,
+      "de": 9,
+      "es": 13,
+      "it": 6
+     }
+    },
+    {
+     "en": "court case",
+     "fr": "cause",
+     "de": "Rechtsfall",
+     "es": "juicio",
+     "it": "procedimento",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "legal advice",
+     "fr": "conseil juridique",
+     "de": "Rechtsberatung",
+     "es": "asesoría luridica",
+     "it": "consulenza legale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 14,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "statement",
+     "fr": "déposition",
+     "de": "Aussage",
+     "es": "declaración",
+     "it": "dichiarazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 7,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "court date",
+     "fr": "date du procès",
+     "de": "Gerichtstermin",
+     "es": "fecha del juicio",
+     "it": "data di comparizione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 14,
+      "es": 14,
+      "it": 18
+     }
+    },
+    {
+     "en": "charge",
+     "fr": "accusation",
+     "de": "Anklage",
+     "es": "cargo",
+     "it": "imputazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 7,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "client",
+     "fr": "client",
+     "de": "Klient",
+     "es": "cliente",
+     "it": "cliente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "warrant",
+     "fr": "mandat",
+     "de": "Haftbefehl",
+     "es": "orden judicial",
+     "it": "mandato",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "plea",
+     "fr": "plaidoyer",
+     "de": "Plädoyer",
+     "es": "cóm o se declara el acusado",
+     "it": "petizione",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 8,
+      "es": 22,
+      "it": 9
+     }
+    },
+    {
+     "en": "accused",
+     "fr": "accusé",
+     "de": "Angeklagte",
+     "es": "acusado",
+     "it": "accusato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

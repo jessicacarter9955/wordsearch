@@ -1,0 +1,295 @@
+{
+ "page": 61,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • L A CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "kitchen • la cuisine • die Küche • la cocina • la cucina",
+   "parts": [
+    "kitchen",
+    "la cuisine",
+    "die küche",
+    "la cocina",
+    "la cucina"
+   ],
+   "entries": [
+    {
+     "en": "shelves",
+     "fr": "l'étagère",
+     "de": "das Kuchenregal",
+     "es": "los estantes",
+     "it": "le mensole",
+     "_pos": [
+      43,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ventilation hood",
+     "fr": "la horre",
+     "de": "der Dunstabzug",
+     "es": "el extractor",
+     "it": "la cappa",
+     "_pos": [
+      777,
+      135
+     ],
+     "_flags": []
+    },
+    {
+     "en": "splashback",
+     "fr": "le revêtement",
+     "de": "der Spntzschutz",
+     "es": "el trente de la cocina",
+     "it": "il pannello di protezione",
+     "_pos": [
+      42,
+      244
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ceramic stovetop",
+     "fr": "la table de cuisson céramique",
+     "de": "das Glaskeramikkochfeld",
+     "es": "la placa vitrocerám ica",
+     "it": "il fornello di ceramica",
+     "_pos": [
+      734,
+      249
+     ],
+     "_flags": []
+    },
+    {
+     "en": "faucet",
+     "fr": "le robinet",
+     "de": "der Wasserhahn",
+     "es": "el grifo",
+     "it": "il rubinetto",
+     "_pos": [
+      42,
+      342
+     ],
+     "_flags": []
+    },
+    {
+     "en": "countertop",
+     "fr": "le plan de travail",
+     "de": "die Arbeitsfläche",
+     "es": "la plancha",
+     "it": "il piano di lavoro",
+     "_pos": [
+      770,
+      366
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sink",
+     "fr": "l'évier",
+     "de": "das Spülbecken",
+     "es": "fregadero",
+     "it": "il lavandino",
+     "_pos": [
+      41,
+      458
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oven",
+     "fr": "le four",
+     "de": "der Backofen",
+     "es": "el horno",
+     "it": "il forno",
+     "_pos": [
+      769,
+      481
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drawer",
+     "fr": "le tiroir",
+     "de": "die Schublade",
+     "es": "el cajón",
+     "it": "il cassetto",
+     "_pos": [
+      40,
+      574
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cabinet",
+     "fr": "le placard",
+     "de": "der Küchenschrank",
+     "es": "la gaveta",
+     "it": "l'armadietto",
+     "_pos": [
+      768,
+      581
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "a p p lia n ce s • le s a p p a r e ils m é n a g e rs • die Küchengeräte • lo s e le c t r o d o m é s t ic o s • gli e le ttro d o m e stic i",
+   "parts": [
+    "appliances",
+    "les appareils ménagers",
+    "die küchengeräte",
+    "lo s e le c t r o d o m é s t ic o s",
+    "gli e le ttro d o m e stic i"
+   ],
+   "entries": [
+    {
+     "en": "lid",
+     "fr": "le couvercle",
+     "de": "der Deckel",
+     "es": "la lapa",
+     "it": "il coperchio",
+     "_pos": [
+      560,
+      712
+     ],
+     "_flags": []
+    },
+    {
+     "en": "work bowl",
+     "fr": "le bol du mixeur",
+     "de": "die Mixerschüssel",
+     "es": "el recipiente",
+     "it": "il recipiente",
+     "_pos": [
+      330,
+      726
+     ],
+     "_flags": []
+    },
+    {
+     "en": "biade",
+     "fr": "la lame",
+     "de": "das Messer",
+     "es": "la cuchilla",
+     "it": "la lama",
+     "_pos": [
+      316,
+      825
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      40,
+      839
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "microwave oven",
+      "le m icroonde«",
+      "die Mikrowelle",
+      "d m icroondas",
+      "il",
+      ">rno a microonde"
+     ]
+    },
+    {
+     "en": "teakettle",
+     "fr": "la bouilloire électrique",
+     "de": "der Elektro kessel",
+     "es": "la jarra para hervir",
+     "it": "I bollitore",
+     "_pos": [
+      38,
+      1022
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "toaster",
+     "fr": "le grille pam",
+     "de": "der Toaster",
+     "es": "el tostador",
+     "it": "il tostapane",
+     "_pos": [
+      195,
+      1022
+     ],
+     "_flags": []
+    },
+    {
+     "en": "food processor",
+     "fr": "le robot ménager",
+     "de": "die Küchenmaschine",
+     "es": "d m u lti m ezclador",
+     "it": "il miscelatore",
+     "_pos": [
+      342,
+      1025
+     ],
+     "_flags": [
+      "es:short:m",
+      "es:short:u"
+     ]
+    },
+    {
+     "en": "blender",
+     "fr": "le mixeur",
+     "de": "der Mixer",
+     "es": "la lidiadora",
+     "it": "il frullatore",
+     "_pos": [
+      532,
+      1026
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dishwasher",
+     "fr": "le lave vaisselle",
+     "de": "die Spülmaschine",
+     "es": "la lavavajilla",
+     "it": "la lavastoviglie",
+     "_pos": [
+      704,
+      1027
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "66",
+   "pos": [
+    38,
+    1106
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 11,
+  "flagged": 8,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

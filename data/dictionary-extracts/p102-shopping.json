@@ -1,0 +1,824 @@
+{
+ "page": 102,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "measuring spoon",
+     "fr": "cuiller pour mesurer",
+     "de": "Messlöffel",
+     "es": "su i liara medidora",
+     "it": "cucchiaio misuratore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 10,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "instructions",
+     "fr": "mode d' emploi",
+     "de": "Gebrauchsanweisung",
+     "es": "modo de empleo",
+     "it": "istruzioni v",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 18,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "inhaler",
+     "fr": "inhalateur",
+     "de": "Inhalierstift",
+     "es": "inhalador",
+     "it": "inalatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 13,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "syrup",
+     "fr": "sirop",
+     "de": "Saft",
+     "es": "jarabe",
+     "it": "sciroppo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "pill",
+     "fr": "pilule",
+     "de": "Pille",
+     "es": "píldora",
+     "it": "pillola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "capsule",
+     "fr": "capsule",
+     "de": "Kapsel",
+     "es": "cápsula",
+     "it": "pasticca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "suppository",
+     "fr": "suppositoire",
+     "de": "Zäpfchen",
+     "es": "supositorio",
+     "it": "supposta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 8,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "gel",
+     "fr": "gel",
+     "de": "Gel",
+     "es": "gel",
+     "it": "gel",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "ointment",
+     "fr": "pommade",
+     "de": "Salbe",
+     "es": "pomada",
+     "it": "unguento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "cream",
+     "fr": "crème",
+     "de": "Creme",
+     "es": "crema",
+     "it": "crema",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "eye dropper",
+     "fr": "compte-gouttes",
+     "de": "Tropfer",
+     "es": "gotero",
+     "it": "contagocce",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 7,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "needle",
+     "fr": "aiguillc",
+     "de": "Nadel",
+     "es": "aguja",
+     "it": "ago",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 5,
+      "es": 5,
+      "it": 3
+     }
+    },
+    {
+     "en": "» %",
+     "fr": "MSB",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 0,
+      "fr": 3
+     }
+    },
+    {
+     "en": "powder",
+     "fr": "poudre",
+     "de": "Puder",
+     "es": "polvos",
+     "it": "polvere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "synnge",
+     "fr": "seringue",
+     "de": "Spritze",
+     "es": "jeringa",
+     "it": "siringa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "eye drops",
+     "fr": "gouttes",
+     "de": "'ropfen",
+     "es": "gotas",
+     "it": "gocce",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "spray",
+     "fr": "spray",
+     "de": "Spray",
+     "es": "spray",
+     "it": "spray",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "painkiller",
+     "fr": "analgésique",
+     "de": "Schmerzmittel",
+     "es": "analgésico",
+     "it": "antidolorifico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 13,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "disposable",
+     "fr": "jetable",
+     "de": "Wegwerf",
+     "es": "desechable",
+     "it": "monouso",
+     "_multi": [],
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 7,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "medicine",
+     "fr": "médicament",
+     "de": "Medikament",
+     "es": "medicamento",
+     "it": "medicina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "multivitamins",
+     "fr": "médicament multivitamine",
+     "de": "Multivitaminmittel",
+     "es": "complejo vitamínico",
+     "it": "multivitamina",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 23,
+      "de": 18,
+      "es": 18,
+      "it": 13
+     }
+    },
+    {
+     "en": "iron",
+     "fr": "fer",
+     "de": "Eisen",
+     "es": "hierro",
+     "it": "ferro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "sedative",
+     "fr": "sédatif",
+     "de": "Beruhigungsmittei",
+     "es": "calmante",
+     "it": "sedativo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 17,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "laxative",
+     "fr": "laxatif",
+     "de": "Abführmittel",
+     "es": "laxante",
+     "it": "lassativo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 12,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "soluble",
+     "fr": "soluble",
+     "de": "löslich",
+     "es": "soluble",
+     "it": "solubile",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "side-effects",
+     "fr": "effets secondaires",
+     "de": "Nebenwirkungen",
+     "es": "efectos secundarios",
+     "it": "effetti collaterali",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 17,
+      "de": 14,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "calcium",
+     "fr": "calcium",
+     "de": "Kalzium",
+     "es": "calcio",
+     "it": "calcio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "sleeping pill",
+     "fr": "somnifère",
+     "de": "Schlaftablette",
+     "es": "somnífero",
+     "it": "sonnifero",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 14,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "diarrhea",
+     "fr": "diarrhée",
+     "de": "Durchfall",
+     "es": "diarrea",
+     "it": "diarrea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "expiration date",
+     "fr": "date d' expiration",
+     "de": "Verfallsdatum",
+     "es": "fecha de caducidad",
+     "it": "data di scadenza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 15,
+      "de": 13,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "dosage",
+     "fr": "posologie",
+     "de": "Dosierung",
+     "es": "dosis",
+     "it": "dosaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "magnesium",
+     "fr": "magnésium",
+     "de": "Magnesium",
+     "es": "magnesio",
+     "it": "magnesio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "anti-inflammatory",
+     "fr": "I'anti-inflam m atoirc",
+     "de": "Entzundungshemmer",
+     "es": "anti inflamatorio",
+     "it": "Tantinfiammatorio",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 18,
+      "de": 17,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "medication",
+     "fr": "médication",
+     "de": "Verordnung",
+     "es": "medicación",
+     "it": "medicamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "throat lozenge",
+     "fr": "pastille pour la gorge",
+     "de": "Halspastille",
+     "es": "pastilla para la garganta",
+     "it": "pasticca per la gola",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 19,
+      "de": 12,
+      "es": 22,
+      "it": 17
+     }
+    },
+    {
+     "en": "travel sickness pills",
+     "fr": "cachets antinaupathiques",
+     "de": "Reisekrankheitstabletten",
+     "es": "pildoras para el mareo",
+     "it": "pasticche per il mal d'auto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 23,
+      "de": 24,
+      "es": 19,
+      "it": 22
+     }
+    },
+    {
+     "en": "insulin",
+     "fr": "insuline",
+     "de": "Insulin",
+     "es": "insulina",
+     "it": "insulina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

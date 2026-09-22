@@ -1,0 +1,298 @@
+{
+ "page": 211,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS • LES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "hockey • le hockey • das Hockey • el hockey • l'hoekey ¡ce hockey • le hockey sur glace • das Eishockey • el hockey sobre hielo • l'hoekey su ghiaccio",
+   "parts": [
+    "hockey",
+    "le hockey",
+    "das hockey",
+    "el hockey",
+    "l'hoekey ¡ce hockey",
+    "le hockey sur glace",
+    "das eishockey",
+    "el hockey sobre hielo",
+    "l'hoekey su ghiaccio"
+   ],
+   "entries": [
+    {
+     "en": "goal line",
+     "fr": "la ligne de but",
+     "de": "die Torlinie",
+     "es": "la línea de meta",
+     "_pos": [
+      66,
+      167
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "attack zone",
+     "fr": "la zone d'attaque",
+     "de": "die Angriffszone",
+     "es": "la zona de ataque",
+     "it": "l'area di attacco",
+     "_pos": [
+      234,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "neutral zone",
+     "fr": "la zone neutre",
+     "de": "die neutrale Zone",
+     "es": "la zona neutra!",
+     "it": "l'area neutrale",
+     "_pos": [
+      405,
+      168
+     ],
+     "_flags": [
+      "es:weird:neutra!"
+     ]
+    },
+    {
+     "en": "defending zone",
+     "fr": "la zone de défense",
+     "de": "die Verteidigungszone",
+     "es": "la zona de defensa",
+     "it": "l'area di difesa",
+     "_pos": [
+      530,
+      169
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goal keeper",
+     "fr": "le gardien de but",
+     "de": "der Torwart",
+     "es": "el portero",
+     "it": "il portiere",
+     "_pos": [
+      746,
+      169
+     ],
+     "_flags": []
+    },
+    {
+     "en": "face-off circle I",
+     "fr": "le cercle de mise en jeu",
+     "de": "der Anspielkreis",
+     "es": "el círculo de face-off",
+     "it": "il circolo di confronto",
+     "_pos": [
+      160,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goal",
+     "fr": "le but",
+     "de": "das Tor",
+     "es": "la portería",
+     "it": "la porta",
+     "_pos": [
+      65,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "centre circle f",
+     "fr": "le cercle centrai",
+     "de": "der Mittelkreis",
+     "es": "el circu lo central",
+     "it": "il cerchio centrale",
+     "_pos": [
+      326,
+      545
+     ],
+     "_flags": [
+      "en:short:f"
+     ]
+    },
+    {
+     "en": "glove",
+     "fr": "le gam",
+     "de": "der Handschuh",
+     "es": "el guante",
+     "it": "I guanto",
+     "_pos": [
+      502,
+      546
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "pad",
+     "fr": "la protection",
+     "de": "das Polster",
+     "es": "la hombrera",
+     "it": "il parastinchi",
+     "_pos": [
+      761,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stick",
+     "fr": "la crosse",
+     "de": "der Schläger",
+     "es": "el palo",
+     "it": "la mazza",
+     "_pos": [
+      502,
+      644
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ice skate",
+     "fr": "le patin à glace",
+     "de": "der Schlittschuh",
+     "es": "el patín de cuchilla",
+     "it": "il pattino",
+     "_pos": [
+      773,
+      645
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ice hockey rink",
+     "fr": "la patinoire",
+     "de": "die Eisfläche sobre hielo",
+     "es": "la pista da hockey su ghiaccio",
+     "_pos": [
+      64,
+      660
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "field hockey • le hockey • das Hockey • el hockey sobre pasto • l'hoekey sull'erba",
+   "parts": [
+    "field hockey",
+    "le hockey",
+    "das hockey",
+    "el hockey sobre pasto",
+    "l'hoekey sull'erba"
+   ],
+   "entries": [
+    {
+     "fr": "le palet",
+     "de": "der Puck",
+     "es": "el disco",
+     "it": "il dischetto",
+     "_pos": [
+      582,
+      743
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "hockey stick",
+     "fr": "la crosse de hockey",
+     "de": "der Hockeyschläger",
+     "es": "el palo de hockey",
+     "it": "la mazza da hockey",
+     "_pos": [
+      64,
+      807
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ice hockey player",
+     "fr": "le hockeyeur",
+     "de": "der Eishockeyspieler",
+     "es": "el jugador de hockey sobre hielo",
+     "it": "il giocatore di hockey su ghiaccio",
+     "_pos": [
+      488,
+      825
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ball",
+     "fr": "la halle",
+     "de": "der Hockeyball",
+     "es": "la pelota",
+     "it": "la pallina",
+     "_pos": [
+      361,
+      857
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skate (v)",
+     "fr": "patiner",
+     "de": "Schlittschuh laufen",
+     "es": "patinar",
+     "it": "pattinare",
+     "_pos": [
+      488,
+      1039
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hit (v)",
+     "fr": "frapper",
+     "de": "schlagen",
+     "es": "golpear",
+     "it": "colpire",
+     "_pos": [
+      702,
+      1039
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 10,
+  "flagged": 9,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

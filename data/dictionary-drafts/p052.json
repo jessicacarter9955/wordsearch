@@ -1,0 +1,29 @@
+{
+ "page": 52,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

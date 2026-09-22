@@ -1,0 +1,319 @@
+{
+ "page": 164,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • LH TRAVAIL • DIE ARBEIT • EL TRABAJO • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "business • les affaires • das Geschäft • los negocios • gli affari",
+   "parts": [
+    "business",
+    "les affaires",
+    "das geschäft",
+    "los negocios",
+    "gli affari"
+   ],
+   "entries": [
+    {
+     "en": "businesswoman",
+     "fr": "la temine d'affaires",
+     "de": "die Geschäftsfrau",
+     "es": "la mujer de negocios",
+     "it": "la donna rii affari",
+     "_pos": [
+      712,
+      106
+     ],
+     "_flags": []
+    },
+    {
+     "en": "businessman",
+     "fr": "l'homme d' affaires",
+     "de": "der Geschäftsmann",
+     "es": "el hombre de negocios",
+     "it": "l ' i i f i mnH i a f f a i",
+     "_pos": [
+      452,
+      107
+     ],
+     "_flags": [
+      "it:short:'",
+      "it:short:f"
+     ]
+    },
+    {
+     "en": "notes",
+     "fr": "les notes",
+     "de": "die Notizen",
+     "es": "las notas",
+     "_pos": [
+      288,
+      108
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "laptop",
+     "fr": "le portable",
+     "de": "der Laptop",
+     "es": "el laptop",
+     "_pos": [
+      87,
+      110
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "business trip",
+     "fr": "le voyage d' affaires",
+     "de": "die Geschäftsreise",
+     "es": "el viaje de negocios",
+     "it": "il viaggio di affari",
+     "_pos": [
+      456,
+      473
+     ],
+     "_flags": []
+    },
+    {
+     "en": "business lunch",
+     "fr": "le déjeuner d'affaires",
+     "de": "das Arbeitsessen",
+     "es": "la com ida de negocios",
+     "it": "il pranzo di affari",
+     "_pos": [
+      26,
+      475
+     ],
+     "_flags": []
+    },
+    {
+     "en": "appointment",
+     "fr": "le rendez-vous",
+     "de": "der Termin",
+     "es": "la cita",
+     "it": "l'appuntamento",
+     "_pos": [
+      308,
+      540
+     ],
+     "_flags": []
+    },
+    {
+     "en": "managing director",
+     "fr": "le direcreur gênerai",
+     "de": "der Generaldirektor",
+     "es": "el director general",
+     "it": "l'amministratore delegato",
+     "_pos": [
+      740,
+      598
+     ],
+     "_flags": []
+    },
+    {
+     "en": "palmtop computer",
+     "fr": "l'ordinateur de poche",
+     "de": "der Palmtop",
+     "es": "la palm top",
+     "it": "il palmtop",
+     "_pos": [
+      306,
+      641
+     ],
+     "_flags": []
+    },
+    {
+     "en": "business deal",
+     "fr": "le contrat",
+     "de": "das Geschäftsabkommen",
+     "es": "el trato",
+     "it": "l'accordo di affari",
+     "_pos": [
+      458,
+      723
+     ],
+     "_flags": []
+    },
+    {
+     "en": "date book",
+     "fr": "l'agenda",
+     "de": "der Terminkalender",
+     "es": "la agenda",
+     "it": "l'agenda",
+     "_pos": [
+      29,
+      742
+     ],
+     "_flags": []
+    },
+    {
+     "en": "legal department",
+     "fr": "le service du contentieux",
+     "de": "die Rechtsabteilung",
+     "es": "el departamento legal",
+     "it": "l'ufficio legale",
+     "_pos": [
+      594,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "accounting department",
+     "fr": "la comptabilité",
+     "de": "die Buchhaltung",
+     "es": "el departamento de contabilidad",
+     "it": "l'ufficio contabilità",
+     "_pos": [
+      330,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "staff",
+     "fr": "le personnel",
+     "de": "das Personal",
+     "es": "el personal",
+     "it": "il personale",
+     "_pos": [
+      190,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "company",
+     "fr": "la société",
+     "de": "die Firma",
+     "es": "la empresa",
+     "it": "la società",
+     "_pos": [
+      42,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customer service department",
+     "fr": "le service apres-vente",
+     "de": "die Kundendienstabteilung",
+     "es": "el departamento de atención al cliente",
+     "it": "l'ufficio di assistenza al cliente",
+     "_pos": [
+      595,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "marketing department",
+     "fr": "le service marketing",
+     "de": "die Marketingabteilung",
+     "es": "el departamento de m árketing",
+     "it": "l'ufficio marketing",
+     "_pos": [
+      332,
+      891
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "payroll",
+     "fr": "le livre de paie",
+     "de": "die Lohnliste",
+     "es": "la nómina",
+     "it": "il libro paga",
+     "_pos": [
+      190,
+      892
+     ],
+     "_flags": []
+    },
+    {
+     "en": "head office",
+     "fr": "le siège social",
+     "de": "die Zentrale",
+     "es": "oficina central",
+     "it": "la sede",
+     "_pos": [
+      43,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "human resources department",
+     "fr": "le service de ressources humaines",
+     "de": "die Personalabteilung",
+     "es": "el departamento de recursos humanos",
+     "it": "l'ufficio del personale",
+     "_pos": [
+      596,
+      989
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sales department",
+     "fr": "le service des ventes",
+     "de": "die Verkaufsabteilung",
+     "es": "el departamento de venias",
+     "it": "l'ufficio vendite",
+     "_pos": [
+      332,
+      991
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salary",
+     "fr": "le salaire",
+     "de": "das Gehalt",
+     "es": "el sueldo",
+     "it": "lo stipendio",
+     "_pos": [
+      192,
+      991
+     ],
+     "_flags": []
+    },
+    {
+     "en": "branch",
+     "fr": "la succursale",
+     "de": "die Zweigstelle",
+     "es": "la sucursal",
+     "it": "la succursale",
+     "_pos": [
+      44,
+      993
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 11,
+  "flagged": 12,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

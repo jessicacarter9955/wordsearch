@@ -1,0 +1,239 @@
+{
+ "page": 19,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • LES GENS / • DIE MENSCHEN • LA GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "ureter",
+     "fr": "l'uretère",
+     "de": "der Harnleiter",
+     "es": "el uréter",
+     "it": "l'uretere",
+     "_pos": [
+      549,
+      94
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vas deferens",
+     "fr": "le conduit sperm atique",
+     "de": "der Samenleiter",
+     "es": "el conducto deferente",
+     "_pos": [
+      381,
+      95
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "ejaculatory duct",
+     "fr": "le conduit éjaculatoire",
+     "de": "der Samenausführungsgang",
+     "es": "el conducto seminal",
+     "it": "il dotto eiaculatorio",
+     "_pos": [
+      171,
+      97
+     ],
+     "_flags": []
+    },
+    {
+     "en": "semmai vesicle",
+     "fr": "la vésicule",
+     "de": "das Samenbläschen",
+     "es": "la vesícula seminal",
+     "it": "la vescicola seminale",
+     "_pos": [
+      42,
+      207
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prostate",
+     "fr": "la prostate",
+     "de": "die Prostata",
+     "es": "la prestata",
+     "it": "la prostata",
+     "_pos": [
+      68,
+      402
+     ],
+     "_flags": []
+    },
+    {
+     "en": "penis",
+     "fr": "le pénis",
+     "de": "der Penis",
+     "es": "el pene",
+     "it": "il pene",
+     "_pos": [
+      750,
+      407
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rectum",
+     "fr": "le rectum",
+     "de": "der Mastdarm",
+     "es": "recto",
+     "it": "il retto",
+     "_pos": [
+      70,
+      516
+     ],
+     "_flags": []
+    },
+    {
+     "en": "foreskin",
+     "fr": "le prépuce",
+     "de": "die Vorhaut",
+     "es": "el prepucio",
+     "it": "il prepuzio",
+     "_pos": [
+      768,
+      516
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scrotum",
+     "fr": "le scrotum",
+     "de": "der Hodensack",
+     "es": "el escroto",
+     "it": "lo scroto",
+     "_pos": [
+      784,
+      610
+     ],
+     "_flags": []
+    },
+    {
+     "en": "testicie",
+     "fr": "le testicule",
+     "de": "der Hoden",
+     "es": "el testículo",
+     "it": "il testicolo",
+     "_pos": [
+      132,
+      655
+     ],
+     "_flags": []
+    },
+    {
+     "en": "male",
+     "fr": "masculin",
+     "de": "männlich",
+     "es": "masculino",
+     "it": "maschili",
+     "_pos": [
+      342,
+      732
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "contraception • la contraception • die Em pfäng nisverhütung • la anticoncepción • la contraccezione",
+   "parts": [
+    "contraception",
+    "la contraception",
+    "die empfängnisverhütung",
+    "la anticoncepción",
+    "la contraccezione"
+   ],
+   "entries": [
+    {
+     "en": "IU D",
+     "fr": "le stérilet",
+     "de": "die Spirale",
+     "es": "el dispositivo intrauterino D ll1",
+     "it": "il dispositivo intrauterino",
+     "_pos": [
+      521,
+      993
+     ],
+     "_flags": [
+      "en:case",
+      "es:num:ll1"
+     ]
+    },
+    {
+     "en": "pill",
+     "fr": "la pilule",
+     "de": "die Pille",
+     "es": "la pastilla",
+     "it": "la pillola",
+     "_pos": [
+      749,
+      993
+     ],
+     "_flags": []
+    },
+    {
+     "en": "condom",
+     "fr": "le condom",
+     "de": "das Kondom",
+     "es": "el condón",
+     "it": "il preservativo",
+     "_pos": [
+      368,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diaphragm",
+     "fr": "le diaphragme",
+     "de": "das Diaphragma",
+     "es": "el diafragma",
+     "it": "il diaframma",
+     "_pos": [
+      206,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cap",
+     "fr": "le pessaire",
+     "de": "das Pessar",
+     "es": "el anillo cervical",
+     "it": "il cappuccio cervicale",
+     "_pos": [
+      52,
+      999
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 12,
+  "flagged": 4,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

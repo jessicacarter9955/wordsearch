@@ -1,0 +1,621 @@
+{
+ "page": 154,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "matematica",
+   "names": {
+    "en": "math",
+    "fr": "les mathématiques",
+    "de": "die mathematik",
+    "es": "las matemáticas",
+    "it": "la matematica"
+   },
+   "entries": []
+  },
+  {
+   "slug": "forme",
+   "names": {
+    "en": "shapes",
+    "fr": "les formes",
+    "de": "die formen",
+    "es": "las formas",
+    "it": "le forme"
+   },
+   "entries": [
+    {
+     "en": "arc",
+     "fr": "l 'arc",
+     "de": "Bogen",
+     "es": "arco",
+     "it": "arco",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "circumference",
+     "fr": "circonférence",
+     "de": "Umfang",
+     "es": "circunferencia",
+     "it": "circonferenza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 6,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "fr": "la",
+     "de": "Diagonale",
+     "es": "diagonal",
+     "it": "diagonale",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 2,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "center",
+     "fr": "centre",
+     "de": "Mittelpunkt",
+     "es": "centro",
+     "it": "centro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "square",
+     "fr": "carré",
+     "de": "Quadrat",
+     "es": "cuadrado",
+     "it": "quadrato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "rectangle",
+     "fr": "rectangle",
+     "de": "Rechteck",
+     "es": "rectángulo",
+     "it": "rettangolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "diameter",
+     "fr": "diamètre",
+     "de": "Durchmesser",
+     "es": "diámetro",
+     "it": "diametro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "hypotenuse",
+     "fr": "hypoténuse",
+     "de": "Hypotenuse",
+     "es": "hipotenusa",
+     "it": "hipotenusa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "angle",
+     "fr": "angle",
+     "de": "Winkel",
+     "es": "ángulo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 6
+     }
+    },
+    {
+     "en": "radius",
+     "fr": "rayon",
+     "de": "Radius",
+     "es": "radio",
+     "it": "raggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "oval",
+     "fr": "ovale",
+     "de": "Oval",
+     "es": "óvalo",
+     "it": "ovale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "triangle",
+     "fr": "triangle",
+     "de": "Dreieck",
+     "es": "triángulo",
+     "it": "triangolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "parallelogram",
+     "fr": "parallélogramme",
+     "de": "Parallelogramm el paralelogramo",
+     "it": "parallelogramma",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 29,
+      "it": 15
+     }
+    },
+    {
+     "en": "circle",
+     "fr": "cercle",
+     "de": "Kreis",
+     "es": "círculo",
+     "it": "cerchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "rhombus",
+     "fr": "rhum he",
+     "de": "Rhombus",
+     "es": "rombo",
+     "it": "rombo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "trapezium",
+     "fr": "trapèze",
+     "de": "Trapez",
+     "es": "trapecio",
+     "it": "trapezio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "pentagon",
+     "fr": "pentagone",
+     "de": "Fünfeck",
+     "es": "pentágono",
+     "it": "pentagono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "hexagon",
+     "fr": "hexagone",
+     "de": "Sechseck",
+     "es": "hexágono",
+     "it": "esagono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "octagon",
+     "fr": "octogone",
+     "de": "Achteck",
+     "es": "octágono",
+     "it": "ottagono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": "solidi",
+   "names": {
+    "en": "solids",
+    "fr": "les solides",
+    "de": "die körper",
+    "es": "los cuerpos geométricos",
+    "it": "i solidi"
+   },
+   "entries": [
+    {
+     "en": "side",
+     "fr": "côté",
+     "de": "Seite",
+     "es": "lado",
+     "it": "lato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "apex",
+     "fr": "sommer",
+     "de": "Spitze",
+     "es": "ápice",
+     "it": "lapice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "base",
+     "fr": "base",
+     "de": "Grundfläche",
+     "es": "base",
+     "it": "base i",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 11,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "cone",
+     "fr": "cône",
+     "de": "Kegel",
+     "es": "cono",
+     "it": "cono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "cylinder",
+     "fr": "cylindre",
+     "de": "Zylinder",
+     "es": "cilindro",
+     "it": "cilindro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "cube",
+     "fr": "cube",
+     "de": "Würfel",
+     "es": "cubo",
+     "it": "cubo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "pyramid",
+     "fr": "pyramide",
+     "de": "Pyramide",
+     "es": "piràm ide",
+     "it": "piramide",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "sphere",
+     "fr": "sphère",
+     "de": "Kugel",
+     "es": "esferc",
+     "it": "sfera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

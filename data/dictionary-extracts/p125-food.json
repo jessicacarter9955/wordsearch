@@ -1,0 +1,444 @@
+{
+ "page": 125,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "fennel seeds",
+     "fr": "graines de fenouil",
+     "de": "Fenchelsamen",
+     "es": "sem illas dt1 hinojo",
+     "it": "semi di finocchio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 12,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "cinnamon",
+     "fr": "cannelle",
+     "de": "Zimt",
+     "es": "canela",
+     "it": "cannella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 4,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "parsley",
+     "fr": "persil",
+     "de": "Petersilie",
+     "es": "perejil",
+     "it": "prezzemolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "bay leaf",
+     "fr": "feuille de laurier",
+     "de": "Lorbeerblatt",
+     "es": "laurel",
+     "it": "alloro",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 12,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "fennel",
+     "fr": "fenouil",
+     "de": "Fenchel",
+     "es": "hinojo",
+     "it": "finocchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "lemon grass",
+     "fr": "citronnelle",
+     "de": "Zitronengras",
+     "es": "dtronela",
+     "it": "ci trancila",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 12,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "sage",
+     "fr": "sauge",
+     "de": "Salbei",
+     "es": "salvia",
+     "it": "salvia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "thyme",
+     "fr": "thym",
+     "de": "Thymian",
+     "es": "tomillo",
+     "it": "timo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 7,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "mint",
+     "fr": "menthe",
+     "de": "Minze",
+     "es": "menta",
+     "it": "menta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "chives",
+     "fr": "ciboulette",
+     "de": "Schnittlauch",
+     "es": "cebollinos",
+     "it": "erba",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "los",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 12,
+      "es": 10,
+      "it": 4
+     }
+    },
+    {
+     "en": "girofle",
+     "de": "Gewürznelke",
+     "es": "davos",
+     "it": "chiodi di garofano",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "de": 11,
+      "es": 5,
+      "it": 16
+     }
+    },
+    {
+     "en": "marjoram",
+     "fr": "marjolaine",
+     "de": "Majoran",
+     "es": "mejorana",
+     "it": "maggiorana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 7,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "tarragon",
+     "fr": "estragon",
+     "de": "Estragon",
+     "es": "estragón",
+     "it": "dragoncello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "star anise",
+     "fr": "anis étoilé",
+     "de": "Sternarnis",
+     "es": "anís estrellado",
+     "it": "anice stellato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "Basilikum",
+     "fr": "albahaca",
+     "it": "basilico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "rosemary",
+     "fr": "rom .inn",
+     "de": "Rosmarin",
+     "es": "romero",
+     "it": "rosmarino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "coriander",
+     "fr": "coriandre",
+     "de": "Koriander « e l cilantro",
+     "it": "coriandolo",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 19,
+      "it": 10
+     }
+    },
+    {
+     "en": "oregano",
+     "fr": "origan",
+     "de": "Oregano",
+     "es": "orégano",
+     "it": "origano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "rnger",
+     "fr": "gingembre",
+     "de": "Ingwer",
+     "es": "'engibre",
+     "it": "zenzero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "es": "eneldo",
+     "it": "aneto",
+     "_multi": [],
+     "_articles_removed": {
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

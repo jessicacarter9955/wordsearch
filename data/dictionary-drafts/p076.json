@@ -1,0 +1,311 @@
+{
+ "page": 76,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • I A MAISON • DAS HAUS • l.A CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "wire cutter",
+     "fr": "la pince cou pan re",
+     "de": "der Drahtschneider",
+     "es": "el cortaalam bres",
+     "it": "la pinza tagliatilo",
+     "_pos": [
+      428,
+      83
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wire stripper",
+     "fr": "la pince à dénuder",
+     "de": "die Enüsolierzange",
+     "es": "el pelacables",
+     "it": "la pinza spelafilo",
+     "_pos": [
+      90,
+      84
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electrical tape",
+     "fr": "le ruban isolant",
+     "de": "das Isolierband",
+     "es": "la cinta aislante",
+     "it": "il nastro isolante",
+     "_pos": [
+      612,
+      150
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soldering iron",
+     "fr": "le fer à soutier",
+     "de": "der Lotkolben",
+     "es": "el soldador",
+     "it": "il saldatoio",
+     "_pos": [
+      35,
+      167
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hobby kmfe",
+     "fr": "le scalpel",
+     "de": "das Skalpell",
+     "es": "el escalpelo",
+     "it": "il bisturi",
+     "_pos": [
+      612,
+      282
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fretsaw",
+     "fr": "la scie à chantourner",
+     "de": "die Schweilsage",
+     "es": "la sierra de calar",
+     "it": "la sega da traforo",
+     "_pos": [
+      714,
+      314
+     ],
+     "_flags": []
+    },
+    {
+     "en": "solder",
+     "fr": "la soudure",
+     "de": "der Lötzinn",
+     "es": "la soldadura",
+     "it": "le lega per saldatura",
+     "_pos": [
+      58,
+      333
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tenon saw",
+     "fr": "la scie à dosseret",
+     "de": "die Prolilsage",
+     "es": "el serrucho de costilla",
+     "it": "la sega per tenoni",
+     "_pos": [
+      552,
+      496
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "sf",
+   "parts": [
+    "sf"
+   ],
+   "entries": [
+    {
+     "en": "safety goggles",
+     "fr": "les lunettes de sécurité",
+     "de": "die Schutzbrille",
+     "es": "las gafas de seguridad",
+     "it": "gli occhiali protettivi",
+     "_pos": [
+      38,
+      598
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handsaw",
+     "fr": "la scic gome",
+     "de": "der Fuchsschwanz",
+     "es": "el serrucho",
+     "it": "il seghetto",
+     "_pos": [
+      552,
+      613
+     ],
+     "_flags": []
+    },
+    {
+     "en": "piane",
+     "fr": "le rabot",
+     "de": "der Hobel",
+     "es": "el cepillo",
+     "it": "la pialla",
+     "_pos": [
+      210,
+      646
+     ],
+     "_flags": []
+    },
+    {
+     "en": "miter block",
+     "fr": "la boîte à onglets",
+     "de": "die Gehrungslade",
+     "es": "la caja para cortar en ìnglete",
+     "it": "la cassetta guidalama per ugnature",
+     "_pos": [
+      352,
+      720
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      553,
+      762
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "hacksaw",
+      "la scic a m étaux",
+      "die Metallsäge",
+      "la sierra paru m etales",
+      "il seghetto per metalli pipe wrench",
+      "la clef serre-tube",
+      "dre Rohrzange",
+      "las tenazas",
+      "la chiave inglese"
+     ]
+    },
+    {
+     "en": "steel wool",
+     "fr": "la paille de 1er",
+     "de": "die Stahlwolle",
+     "es": "la lana de acero",
+     "it": "la lana d'acciaio",
+     "_pos": [
+      211,
+      796
+     ],
+     "_flags": [
+      "fr:num:1er"
+     ]
+    },
+    {
+     "en": "hand drill",
+     "fr": "la perceuse manuelle",
+     "de": "der Handbohrer",
+     "es": "el taladro manual",
+     "it": "il trapano manuale",
+     "_pos": [
+      40,
+      813
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sandpaper",
+     "fr": "le papier de verre",
+     "de": "das Schmirgelpapier",
+     "es": "el papel de lija",
+     "it": "la carta vetrata",
+     "_pos": [
+      383,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chisel",
+     "fr": "le burin",
+     "de": "der Meißel",
+     "es": "el formón",
+     "it": "lo scalpello",
+     "_pos": [
+      41,
+      945
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plunger",
+     "fr": "la venrouse",
+     "de": "der Sauger",
+     "es": "el destapacaños lo sturalavandini",
+     "_pos": [
+      588,
+      959
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "sharpening stone",
+     "fr": "la pierre à aiguiser",
+     "de": "der Wetzstahl",
+     "es": "piedra afiladora",
+     "it": "l'affilatorc",
+     "_pos": [
+      212,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "file",
+     "fr": "la lime",
+     "de": "die Feile",
+     "es": "la lima",
+     "it": "la lima",
+     "_pos": [
+      42,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pipe cutter",
+     "fr": "le coupe-tubc",
+     "de": "der Rohrab schneider",
+     "es": "el cortatuberias",
+     "it": "il tagliatubi",
+     "_pos": [
+      384,
+      1060
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "r",
+   "pos": [
+    828,
+    396
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 4,
+  "flagged": 17,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,343 @@
+{
+ "page": 172,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • L E T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "types of farms • les exploitations agricoles • die landwirtschaftlichen Betriebe • los tipos de granja • i tipi di fattoria",
+   "parts": [
+    "types of farms",
+    "les exploitations agricoles",
+    "die landwirtschaftlichen betriebe",
+    "los tipos de granja",
+    "i tipi di fattoria"
+   ],
+   "entries": [
+    {
+     "en": "flock",
+     "fr": "le troupeau",
+     "de": "die Herde",
+     "es": "e rebaño",
+     "it": "il gregge",
+     "_pos": [
+      600,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crop",
+     "fr": "la culture",
+     "de": "die Feldfrucht",
+     "es": "la cosecha",
+     "_pos": [
+      106,
+      115
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "poultry farm",
+     "fr": "la ferme d'aviculture",
+     "de": "die Hühnerfarm",
+     "es": "la granja avícola",
+     "it": "l'azienda avicola",
+     "_pos": [
+      676,
+      274
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sheep farm",
+     "fr": "la ferme d'élevage de mourons",
+     "de": "die Schaffarm",
+     "es": "la granja de ganado ovino",
+     "it": "l'allevamento di pecore",
+     "_pos": [
+      461,
+      278
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dairy farm",
+     "fr": "la ferme laitière",
+     "de": "der Betrieb für Milchproduktion",
+     "es": "la vaquería",
+     "it": "il caseificio",
+     "_pos": [
+      246,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crop farm",
+     "fr": "la ferme de culture",
+     "de": "der Ackerbaubetrieb",
+     "es": "la granja de tierras cultivables",
+     "it": "l'azienda agricola",
+     "_pos": [
+      30,
+      281
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vine",
+     "fr": "la vigne",
+     "de": "der Wem",
+     "_pos": [
+      704,
+      354
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "vineyard",
+     "fr": "la vigne",
+     "de": "der Weinberg",
+     "es": "el viñedo",
+     "it": "il vigneto",
+     "_pos": [
+      678,
+      510
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      463,
+      511
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "fruit farm",
+      "l'exploitation fruitière",
+      "der Obstanbau",
+      "la granja dt",
+      "frutales",
+      "l'azienda ortofrutticola"
+     ]
+    },
+    {
+     "en": "fish farm",
+     "fr": "le centre de pisciculture",
+     "de": "die Fischzucht",
+     "es": "el criadero de peces",
+     "it": "il vivaio ittico",
+     "_pos": [
+      248,
+      513
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pg farm",
+     "fr": "la ferme d'élevage porcin",
+     "de": "die Schweinefarm",
+     "es": "la granja de ganado porcino",
+     "it": "l'allevamento di maiali",
+     "_pos": [
+      33,
+      515
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "actions • les activités • die Tätigkeiten • las actividades • le attività",
+   "parts": [
+    "actions",
+    "les activités",
+    "die tätigkeiten",
+    "las actividades",
+    "le attività"
+   ],
+   "entries": [
+    {
+     "en": "furrow",
+     "fr": "le sillon",
+     "de": "die Furche",
+     "es": "el surco",
+     "it": "solco",
+     "_pos": [
+      176,
+      638
+     ],
+     "_flags": []
+    },
+    {
+     "en": "feed (v)",
+     "fr": "donner à manger",
+     "de": "futtern",
+     "es": "alimentar",
+     "it": "dar da mangiare",
+     "_pos": [
+      682,
+      806
+     ],
+     "_flags": []
+    },
+    {
+     "en": "milk (v)",
+     "fr": "traire",
+     "de": "melken",
+     "es": "ordeñar",
+     "it": "mungere",
+     "_pos": [
+      466,
+      811
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sow (v)",
+     "fr": "semer",
+     "de": "säen",
+     "es": "sembrar",
+     "it": "seminare",
+     "_pos": [
+      251,
+      812
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plow (v)",
+     "fr": "labourer",
+     "de": "pflügen",
+     "es": "arar",
+     "it": "am re",
+     "_pos": [
+      36,
+      815
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trough",
+     "fr": "l'auge",
+     "de": "der Trog",
+     "es": "el comedero",
+     "it": "la mangiatoia",
+     "_pos": [
+      754,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herd",
+     "fr": "le troupeau",
+     "de": "die Herde",
+     "es": "la manada",
+     "it": "la mandria",
+     "_pos": [
+      618,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herbicide",
+     "fr": "l'herbicide",
+     "de": "das Herbizid",
+     "es": "el herbicida",
+     "it": "l'erbicida",
+     "_pos": [
+      482,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plant (v)",
+     "fr": "planter",
+     "de": "pflanzen",
+     "es": "plantar",
+     "it": "piantare",
+     "_pos": [
+      756,
+      993
+     ],
+     "_flags": []
+    },
+    {
+     "en": "silo",
+     "fr": "le silo",
+     "de": "der Silo",
+     "es": "el silo",
+     "it": "il silos",
+     "_pos": [
+      618,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pesticide",
+     "fr": "le pesticide",
+     "de": "das Pestizid",
+     "es": "el pesticida",
+     "it": "il pesticida",
+     "_pos": [
+      483,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "harvest (v)",
+     "fr": "récolter",
+     "de": "ernten",
+     "es": "recolectar",
+     "it": "raccogliere",
+     "_pos": [
+      254,
+      1063
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water (v)",
+     "fr": "arroser",
+     "de": "bewässern",
+     "es": "regar",
+     "it": "irrigare",
+     "_pos": [
+      37,
+      1065
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 6,
+  "flagged": 18,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

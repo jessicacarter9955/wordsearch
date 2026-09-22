@@ -1,0 +1,379 @@
+{
+ "page": 64,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • T.A M A IS O N • DAS HAUS • I A C A S A • IA CASA",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "lid",
+     "fr": "le couvercle",
+     "de": "der Deckel",
+     "_pos": [
+      141,
+      86
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "nonstick",
+     "fr": "anri-adhcrcnr",
+     "_pos": [
+      450,
+      86
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "frying pan",
+     "fr": "la poêle",
+     "de": "die Bratpfanne",
+     "es": "la sartén",
+     "it": "la padella",
+     "_pos": [
+      28,
+      235
+     ],
+     "_flags": []
+    },
+    {
+     "en": "saucepan",
+     "fr": "la casserole",
+     "de": "der Kochtopf",
+     "es": "la cacerola",
+     "it": "la pentola",
+     "_pos": [
+      200,
+      235
+     ],
+     "_flags": []
+    },
+    {
+     "en": "griddle",
+     "fr": "le gril",
+     "de": "das Grillblech",
+     "es": "la parrilla",
+     "it": "la padella per grigliare",
+     "_pos": [
+      370,
+      235
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wok",
+     "fr": "le w ok",
+     "de": "der Wok",
+     "es": "e l.w ok",
+     "it": "il wok",
+     "_pos": [
+      542,
+      235
+     ],
+     "_flags": [
+      "fr:short:w",
+      "es:weird:l.w"
+     ]
+    },
+    {
+     "en": "earthenware dish",
+     "fr": "le fait roui",
+     "de": "der Schmortopf",
+     "es": "la olla de barro",
+     "it": "la casseruola di terracotta",
+     "_pos": [
+      710,
+      235
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ovenproof",
+     "fr": "allant au tour",
+     "de": "feuerfest",
+     "es": "resistente al hom o",
+     "it": "pirofilo",
+     "_pos": [
+      410,
+      301
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glass",
+     "fr": "en verre",
+     "de": "Glas",
+     "es": "de cristal",
+     "it": "di vetro",
+     "_pos": [
+      28,
+      303
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gratin dish",
+     "fr": "le plat à gratin",
+     "de": "die Auflaufform",
+     "es": "la fuente para gratinar",
+     "it": "il piatto da gratin",
+     "_pos": [
+      371,
+      433
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mixing bowl",
+     "fr": "le grand hol",
+     "de": "die Rührschüssel",
+     "es": "la ensaladera",
+     "it": "la scodella",
+     "_pos": [
+      28,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soufflé dish",
+     "fr": "le moule à souffle",
+     "de": "die Souffléform",
+     "es": "el molde para suflé",
+     "it": "lo stampo per soufflé",
+     "_pos": [
+      200,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ramekin",
+     "fr": "le ram equin",
+     "de": "das Auflaufförmchen",
+     "es": "el molde individual",
+     "it": "lo stampo",
+     "_pos": [
+      544,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "casserole dish",
+     "fr": "la cocotte «die Kasserolle",
+     "es": "la cazuela",
+     "it": "la casseruola",
+     "_pos": [
+      714,
+      434
+     ],
+     "_flags": [
+      "missing:de",
+      "fr:weird:«die"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "baking cakes • la pâtisserie • das Kuchenbacken • la reposteria • la cottura dei dolci",
+   "parts": [
+    "baking cakes",
+    "la pâtisserie",
+    "das kuchenbacken",
+    "la repostería",
+    "la cottura dei dolci"
+   ],
+   "entries": [
+    {
+     "en": "measuring cup",
+     "fr": "le pot gradué",
+     "de": "der Messbecher",
+     "es": "la taza medidora",
+     "it": "il bricco misuratore",
+     "_pos": [
+      200,
+      682
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cake pan",
+     "fr": "le moule à gâteaux",
+     "de": "die Kuchenform",
+     "es": "el molde para pastel",
+     "it": "lo stampo per dolci",
+     "_pos": [
+      372,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flan pan",
+     "fr": "le m oule è carre",
+     "de": "die Obstkuchen form",
+     "es": "la llanera",
+     "it": "lo stampo per flan",
+     "_pos": [
+      714,
+      683
+     ],
+     "_flags": [
+      "fr:short:m",
+      "fr:short:è"
+     ]
+    },
+    {
+     "en": "pie pan",
+     "fr": "la tourtière",
+     "de": "die Pastetenform",
+     "es": "el molde redondo",
+     "it": "lo stampo per torte",
+     "_pos": [
+      544,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scales",
+     "fr": "la balance",
+     "de": "die Haushaltswaage",
+     "es": "la báscula de cocina",
+     "it": "la bilancia",
+     "_pos": [
+      30,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "piping bag",
+     "fr": "la poche à douille",
+     "de": "der Spritzbeutel",
+     "es": "la dulía",
+     "it": "la tasca da pasticciere",
+     "_pos": [
+      618,
+      847
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pastry brush",
+     "fr": "le pinceau à pâtisserie",
+     "de": "der Backpinsel",
+     "es": "la brocha de cocina",
+     "it": "il pennello da cucina",
+     "_pos": [
+      30,
+      848
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rolling pin",
+     "fr": "le rouleau pâtissier",
+     "de": "das Nudelholz",
+     "es": "el rodillo de cocina",
+     "it": "il mattarello",
+     "_pos": [
+      279,
+      848
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cooling rack",
+     "fr": "la grille de refroidissement",
+     "de": "das Abkühlgitter",
+     "es": "la rejilla",
+     "it": "la gratella",
+     "_pos": [
+      374,
+      1012
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oven mitt",
+     "fr": "le gant isolant",
+     "de": "der Topfhandschuh",
+     "es": "el guanti- de cocina",
+     "it": "il guanto da forno",
+     "_pos": [
+      545,
+      1012
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apron",
+     "fr": "le tablier",
+     "de": "die Schürze",
+     "es": "el delantal",
+     "it": "il grembiule",
+     "_pos": [
+      716,
+      1012
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cookie sheet",
+     "fr": "la plaque à gâteaux",
+     "de": "das Kuchenblech",
+     "es": "la charola de hom o",
+     "it": "la placca da forno",
+     "_pos": [
+      202,
+      1013
+     ],
+     "_flags": []
+    },
+    {
+     "en": "muffìn pan",
+     "fr": "le moule à m uffins",
+     "de": "die Törtchen form",
+     "es": "el molde para panqués",
+     "it": "la teglia per pasticcini",
+     "_pos": [
+      31,
+      1013
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 0,
+  "flagged": 27,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

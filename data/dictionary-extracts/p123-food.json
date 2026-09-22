@@ -1,0 +1,556 @@
+{
+ "page": 123,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "it": "fagioli e i piselli",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "it": "i"
+     },
+     "_grid_len": {
+      "it": 16
+     }
+    },
+    {
+     "en": "fava beans",
+     "fr": "fèves",
+     "de": "Saubohnen",
+     "es": "habas",
+     "it": "fave",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "aduki beans",
+     "fr": "ad zu k is",
+     "de": "dieAdzuki bohnen",
+     "es": "frijol morado",
+     "it": "fagioli aduki",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 15,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "kidney beans",
+     "fr": "haricots rongés",
+     "de": "roten Bohnen",
+     "es": "frijol rojo",
+     "it": "fagioli di Spagna",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 11,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "navy beans",
+     "fr": "haricots blancs",
+     "de": "weißen Bohnen",
+     "es": "frijol blanco chico",
+     "it": "fagioli bianchi",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 13,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "lima beans",
+     "fr": "gros haricûts blancs",
+     "de": "Mondbohnen",
+     "es": "frijol blanco",
+     "it": "fagioli cannellini",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 18,
+      "de": 10,
+      "es": 12,
+      "it": 17
+     }
+    },
+    {
+     "en": "flageolet beans",
+     "fr": "flageolets",
+     "de": "französischen Bohnen",
+     "es": "frijol flageolet",
+     "it": "fagioli nani",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 10,
+      "de": 19,
+      "es": 15,
+      "it": 11
+     }
+    },
+    {
+     "en": "mung beans",
+     "fr": "haricots mung",
+     "de": "Mungbohnen",
+     "es": "frijol m ung",
+     "it": "fagioli mung",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "pinto beans",
+     "fr": "haricots pinto",
+     "de": "Pintobohnen",
+     "es": "frijol pinto",
+     "it": "fagioli borlotti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 11,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "black eyed peas",
+     "fr": "haricots à œil noir",
+     "de": "Teparybohnen",
+     "es": "frijol do ojo negro",
+     "it": "fagioli dall'occhio nero",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 12,
+      "es": 16,
+      "it": 21
+     }
+    },
+    {
+     "en": "soybeans",
+     "fr": "graines de so3",
+     "de": "Sojabohnen",
+     "es": "semilla de soja",
+     "it": "semi di soia",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 10,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "chick peas",
+     "fr": "pois chiches",
+     "de": "Kichererbsen",
+     "es": "garbanzos",
+     "it": "ceci",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 12,
+      "es": 9,
+      "it": 4
+     }
+    },
+    {
+     "en": "split peas",
+     "fr": "pois cassés",
+     "de": "getrockneten Erbsen",
+     "it": "piselli spaccati",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 18,
+      "it": 15
+     }
+    },
+    {
+     "en": "peas",
+     "fr": "petits pois",
+     "de": "grünen Erbsen",
+     "es": "chícharos",
+     "it": "piselli",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 12,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "red lentils",
+     "fr": "lentilles rouges",
+     "de": "roten Linsen",
+     "es": "lenteja roja",
+     "it": "lenticchie rosse",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 11,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "brown lentils",
+     "fr": "lentilles",
+     "de": "braunen Unsen",
+     "es": "lenteja castellana",
+     "it": "lenticchie marroni",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 12,
+      "es": 17,
+      "it": 17
+     }
+    }
+   ]
+  },
+  {
+   "slug": "semi",
+   "names": {
+    "en": "seeds",
+    "fr": "les graines",
+    "de": "die körner",
+    "es": "las sem illas",
+    "it": "i semi"
+   },
+   "entries": [
+    {
+     "en": "sesame seed",
+     "fr": "graine de sésame",
+     "de": "Sesamkorn",
+     "es": "semilla de sésamo",
+     "it": "seme di sesamo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 9,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "caraway",
+     "fr": "graine de carvi",
+     "de": "Kümmel",
+     "es": "carvi",
+     "it": "seme di carvi",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 6,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "mustard seed",
+     "fr": "grain tie moutarde",
+     "de": "Senfkorn",
+     "es": "semilla de mostaza",
+     "it": "seme di mostarda",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 8,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "pumpkin seed",
+     "fr": "graine de potiron",
+     "de": "Kurbiskern",
+     "es": "pepita de calabaza",
+     "it": "seme di zucca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 10,
+      "es": 16,
+      "it": 11
+     }
+    },
+    {
+     "en": "sunflower seed",
+     "fr": "grame de tournesol",
+     "de": "Sonnenblumenkern",
+     "es": "semilla de girasol",
+     "it": "seme di girasole",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 16,
+      "es": 16,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

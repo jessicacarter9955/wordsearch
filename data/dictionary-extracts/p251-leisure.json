@@ -1,0 +1,405 @@
+{
+ "page": 251,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "lifeguard",
+     "fr": "maître nageur",
+     "de": "Rettungsschwimmer",
+     "es": "salvavidas",
+     "it": "bagnino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 17,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "deck chair",
+     "fr": "transat asolc3dero",
+     "es": "sedia a sdraio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "es": 12
+     }
+    },
+    {
+     "en": "promenade",
+     "fr": "promenade m arítim o",
+     "it": "lungomare",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "it": 9
+     }
+    },
+    {
+     "en": "windbreak",
+     "fr": "parc-vent",
+     "de": "Windschutz",
+     "es": "barrera contra el viento",
+     "it": "paravento",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 21,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "sunblock",
+     "fr": "écran t«na I",
+     "de": "Sonnenblock",
+     "es": "crema protectora",
+     "it": "crema protettiva",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "suntan lotion",
+     "fr": "lotion solaire",
+     "de": "Sonnenmilch",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 11
+     }
+    },
+    {
+     "en": "sunhat",
+     "fr": "chapeau de plage",
+     "de": "Sonnenhut",
+     "es": "sombrero para el sol",
+     "it": "cappello da spiaggia",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 9,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "sunglasses",
+     "fr": "lunettes de soleil",
+     "de": "Sonnenbrille",
+     "es": "lentes obscuros",
+     "it": "occhiali da sole",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 12,
+      "es": 14,
+      "it": 14
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "swimsuit",
+     "fr": "maillot de bain",
+     "de": "Badeanzug",
+     "es": "traje de baño",
+     "it": "costume da",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 9,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "pad",
+     "fr": "scau",
+     "de": "Eimer",
+     "es": "cubeta",
+     "it": "secchiello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "shovel",
+     "fr": "pelle",
+     "de": "Spaten",
+     "es": "pala",
+     "it": "paletta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "rubber ring",
+     "fr": "bouée",
+     "de": "Schwimmreifen",
+     "es": "llanta",
+     "it": "ciambella",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 13,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "beach ball",
+     "fr": "ballon de plage",
+     "de": "Wasserball",
+     "es": "pelota de playa",
+     "it": "pallone da spiaggia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 10,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "sandeasde",
+     "fr": "château de sable",
+     "de": "Sandburg",
+     "es": "castillo de arena",
+     "it": "castello di sabbia",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 8,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "shell",
+     "fr": "coquillage",
+     "de": "Muschel",
+     "es": "concha",
+     "it": "conchiglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 7,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "beach towel",
+     "fr": "serviette de plage",
+     "de": "Strandtuch",
+     "es": "toalla de playa",
+     "it": "asciugamano da spiaggia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 10,
+      "es": 13,
+      "it": 21
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

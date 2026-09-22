@@ -1,0 +1,1539 @@
+{
+  "p020": {
+    "groups": {
+      "0": {
+        "slug": "famiglia",
+        "names": {
+          "en": "family",
+          "fr": "la famille",
+          "de": "die Familie",
+          "es": "la familia",
+          "it": "la famiglia"
+        }
+      }
+    },
+    "entries": {
+      "0.1": {
+        "fr": "le grand-père"
+      },
+      "0.2": {
+        "fr": "l'oncle"
+      },
+      "0.7": {
+        "fr": "la sœur"
+      },
+      "0.13": {
+        "fr": "le petit-fils"
+      },
+      "0.14": {
+        "fr": "la petite-fille"
+      }
+    }
+  },
+  "p021": {
+    "groups": {
+      "0": {
+        "slug": "famiglia",
+        "names": {
+          "en": "family",
+          "fr": "la famille",
+          "de": "die Familie",
+          "es": "la familia",
+          "it": "la famiglia"
+        }
+      },
+      "1": {
+        "slug": "stadi-della-vita",
+        "names": {
+          "en": "stages",
+          "fr": "les stades",
+          "de": "die Stadien",
+          "es": "las etapas",
+          "it": "le fasi"
+        }
+      },
+      "2": {
+        "slug": "titoli",
+        "names": {
+          "en": "titles",
+          "fr": "les titres",
+          "de": "die Anreden",
+          "es": "los tratamientos",
+          "it": "gli appellativi"
+        }
+      }
+    },
+    "entries": {
+      "0.5": {
+        "fr": "les parents"
+      },
+      "0.6": {
+        "fr": "les jumeaux",
+        "es": "los gemelos"
+      },
+      "0.7": {
+        "es": "el/la compañero/-a",
+        "it": "il/la compagno/-a"
+      },
+      "1.0": {
+        "en": "father-in-law"
+      },
+      "1.1": {
+        "en": "mother-in-law"
+      },
+      "1.5": {
+        "en": "sister-in-law",
+        "fr": "la belle-sœur",
+        "de": "die Schwägerin",
+        "es": "la cuñada",
+        "it": "la cognata"
+      },
+      "1.8": {
+        "it": "la signora"
+      },
+      "1.12": {
+        "en": "niece"
+      },
+      "2.0": {
+        "en": "Mr"
+      }
+    },
+    "note": "PRE = continuazione albero familiare di p020. 'relatives' fr 'les parents' come da libro (FR usa parents per entrambi)."
+  },
+  "p022": {
+    "groups": {
+      "0": {
+        "slug": "relazioni",
+        "names": {
+          "en": "relationships",
+          "fr": "les relations",
+          "de": "die Beziehungen",
+          "es": "las relaciones",
+          "it": "i rapporti"
+        }
+      }
+    },
+    "entries": {
+      "0.1": {
+        "it": "l'assistente"
+      },
+      "0.2": {
+        "fr": "l'associée",
+        "it": "il partner di affari"
+      },
+      "0.3": {
+        "es": "la empresaria",
+        "it": "la datrice di lavoro"
+      },
+      "0.4": {
+        "it": "il dipendente"
+      },
+      "0.11": {
+        "fr": "le petit ami"
+      }
+    },
+    "note": "employer/employee: figure femminile (Arbeitgeberin, employeuse) → es 'la empresaria', it 'la datrice di lavoro'."
+  },
+  "p023": {
+    "groups": {
+      "0": {
+        "slug": "emozioni",
+        "names": {
+          "en": "emotions",
+          "fr": "les émotions",
+          "de": "die Gefühle",
+          "es": "las emociones",
+          "it": "le emozioni"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "it": "il sorriso"
+      },
+      "0.3": {
+        "de": "traurig"
+      },
+      "0.4": {
+        "en": "happy"
+      },
+      "0.8": {
+        "fr": "effrayé"
+      },
+      "0.20": {
+        "es": "desmayarse"
+      },
+      "0.22": {
+        "es": "tímido"
+      }
+    }
+  },
+  "p024": {
+    "groups": {
+      "0": {
+        "slug": "eventi-della-vita",
+        "names": {
+          "en": "life events",
+          "fr": "les événements de la vie",
+          "de": "die Ereignisse des Lebens",
+          "es": "los acontecimientos de la vida",
+          "it": "gli avvenimenti della vita"
+        }
+      }
+    },
+    "entries": {
+      "0.2": {
+        "en": "make friends (v)"
+      },
+      "0.7": {
+        "en": "have a baby (v)"
+      },
+      "0.10": {
+        "fr": "la bar-mitzvah",
+        "es": "el bar mitzvah"
+      },
+      "0.12": "DELETE",
+      "0.13": "DELETE",
+      "0.14": {
+        "fr": "l'anniversaire de mariage",
+        "it": "l'anniversario di matrimonio"
+      },
+      "0.16": {
+        "fr": "le mariage"
+      },
+      "0.20": {
+        "es": "la luna de miel"
+      }
+    },
+    "note": "0.12 'fëv' e 0.13 apostrofo = rumore illustrazione, eliminati."
+  },
+  "p025": {
+    "delete_groups": [
+      0
+    ],
+    "groups": {
+      "1": {
+        "slug": "feste-e-celebrazioni",
+        "names": {
+          "en": "celebrations",
+          "fr": "les fêtes",
+          "de": "die Feste",
+          "es": "las celebraciones",
+          "it": "le celebrazioni"
+        }
+      }
+    },
+    "entries": {
+      "1.0": "DELETE",
+      "1.5": {
+        "en": "Christmas"
+      },
+      "1.7": {
+        "es": "el desfile"
+      },
+      "1.8": {
+        "es": "el Ramadán"
+      },
+      "1.12": {
+        "fr": "la Diwali",
+        "es": "el Diwali"
+      },
+      "1.13": {
+        "en": "Halloween"
+      }
+    },
+    "note": "Titolo pagina 'festivals and celebrations' spezzato su più righe nell'OCR: gruppo G0 (festivals, senza voci) eliminato e voce-titolo 1.0 eliminata; gruppo nominato dalla riga completa (celebrations)."
+  },
+  "p027": {
+    "delete_groups": [
+      0
+    ],
+    "groups": {
+      "1": {
+        "slug": "neonato",
+        "names": {
+          "en": "baby",
+          "fr": "le bébé",
+          "de": "das Baby",
+          "es": "el bebé",
+          "it": "il bimbo"
+        }
+      },
+      "2": {
+        "slug": "bambino-piccolo",
+        "names": {
+          "en": "toddler",
+          "fr": "le petit enfant",
+          "de": "das Kleinkind",
+          "es": "el niño pequeño",
+          "it": "il bambino piccolo"
+        }
+      }
+    },
+    "entries": {
+      "1.0": {
+        "en": "snowsuit"
+      },
+      "1.1": {
+        "fr": "le tricot de corps"
+      },
+      "1.3": {
+        "en": "onesie"
+      },
+      "1.4": {
+        "it": "il pigiama"
+      },
+      "1.5": {
+        "en": "romper suit"
+      },
+      "2.1": {
+        "es": "los pantalones con peto",
+        "it": "la salopetta"
+      }
+    },
+    "note": "G0 'children's clothing' era solo titolo pagina (senza voci)."
+  },
+  "p028": {
+    "groups": {
+      "0": {
+        "slug": "abbigliamento-bambini",
+        "names": {
+          "en": "children's clothing",
+          "fr": "les vêtements d'enfants",
+          "de": "die Kinderkleidung",
+          "es": "la ropa de niño",
+          "it": "gli abiti da bambino"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "fr": "l'écharpe"
+      },
+      "0.2": "DELETE",
+      "0.4": {
+        "fr": "le jean"
+      },
+      "0.6": {
+        "es": "la chamarra"
+      },
+      "0.7": {
+        "fr": "les bottes de caoutchouc"
+      },
+      "0.8": {
+        "fr": "les sandales"
+      },
+      "0.10": {
+        "fr": "le duffel coat"
+      },
+      "0.12": {
+        "fr": "l'été"
+      },
+      "0.16": {
+        "fr": "les baskets"
+      },
+      "0.17": {
+        "es": "las mallas"
+      },
+      "0.20": {
+        "en": "nightshirt"
+      },
+      "0.21": {
+        "fr": "Est-ce lavable en machine ?",
+        "es": "Se puede lavar en lavadora?",
+        "it": "È lavabile in lavatrice?"
+      },
+      "0.24": {
+        "fr": "C'est la taille pour deux ans ?"
+      },
+      "0.26": {
+        "de": "die Nachtwäsche"
+      }
+    },
+    "add": [
+      {
+        "en": "dress",
+        "fr": "la robe",
+        "de": "das Kleid",
+        "es": "el vestido",
+        "it": "il vestito"
+      },
+      {
+        "en": "child",
+        "fr": "l'enfant",
+        "de": "das Kind",
+        "es": "el niño",
+        "it": "il bambino"
+      }
+    ],
+    "add_to_group": 0,
+    "note": "Voce 'dress' e 'child' ricostruite dal blocco orizzontale rotto 0.2 (PARTS con das Kind/el niño interleaved)."
+  },
+  "p029": {
+    "groups": {
+      "0": {
+        "slug": "abbigliamento-uomo",
+        "names": {
+          "en": "men's clothing",
+          "fr": "les vêtements pour hommes",
+          "de": "die Herrenkleidung",
+          "es": "la ropa de caballero",
+          "it": "l'abbigliamento da uomo"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "it": "il colletto"
+      },
+      "0.1": {
+        "it": "il risvolto"
+      },
+      "0.3": {
+        "es": "el cinturón",
+        "it": "la cintura"
+      },
+      "0.7": {
+        "en": "pocket",
+        "fr": "la poche"
+      },
+      "0.10": {
+        "fr": "le costume",
+        "de": "der Straßenanzug"
+      },
+      "0.17": {
+        "fr": "les chaussures en cuir",
+        "de": "die Lederschuhe",
+        "es": "los zapatos de cuero"
+      },
+      "0.19": {
+        "fr": "les sous-vêtements"
+      },
+      "0.20": {
+        "fr": "l'imperméable"
+      },
+      "0.22": {
+        "en": "Do you have this in a larger size?"
+      },
+      "0.23": {
+        "fr": "Je peux l'essayer ?"
+      }
+    },
+    "note": "pants es 'el saco' come da OCR (dubbio: probabilmente 'el pantalón' nel libro, ma non verificabile)."
+  },
+  "p030": {
+    "merge_groups": [
+      [
+        0,
+        1
+      ]
+    ],
+    "groups": {
+      "0": {
+        "slug": "abbigliamento-uomo",
+        "names": {
+          "en": "men's clothing",
+          "fr": "les vêtements pour hommes",
+          "de": "die Herrenkleidung",
+          "es": "la ropa de caballero",
+          "it": "l'abbigliamento da uomo"
+        }
+      }
+    },
+    "entries": {
+      "0.3": {
+        "fr": "la veste de sport"
+      },
+      "0.4": {
+        "es": "el saco",
+        "it": "il blazer"
+      },
+      "1.10": {
+        "en": "briefs"
+      }
+    },
+    "note": "Titolo di sezione a metà pagina illeggibile nell'OCR (':d rJR'): voci unite al gruppo abbigliamento uomo."
+  },
+  "p031": {
+    "groups": {
+      "0": {
+        "slug": "abbigliamento-donna",
+        "names": {
+          "en": "women's clothing",
+          "fr": "les vêtements pour femmes",
+          "de": "die Damenkleidung",
+          "es": "la ropa de dama",
+          "it": "l'abbigliamento da donna"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "it": "senza spalline"
+      },
+      "0.1": {
+        "fr": "l'encolure"
+      },
+      "0.5": {
+        "it": "alla caviglia"
+      },
+      "0.10": {
+        "en": "blouse",
+        "it": "la camicetta"
+      },
+      "0.14": {
+        "en": "panty hose",
+        "fr": "les collants",
+        "it": "il collant"
+      }
+    },
+    "note": "de 'leger' corretto (parola tedesca per casual). en di 0.14 ricostruito (riga persa nell'OCR)."
+  },
+  "p032": {
+    "delete_groups": [
+      0
+    ],
+    "merge_groups": [
+      [
+        1,
+        2
+      ]
+    ],
+    "groups": {
+      "1": {
+        "slug": "lingerie",
+        "names": {
+          "en": "lingerie",
+          "fr": "la lingerie",
+          "de": "die Unterwäsche",
+          "es": "la lencería",
+          "it": "la biancheria intima"
+        }
+      }
+    },
+    "entries": {
+      "2.0": "DELETE",
+      "2.1": {
+        "it": "la spallina"
+      },
+      "2.13": {
+        "es": "las pantimedias"
+      },
+      "2.14": {
+        "es": "las medias de liguero"
+      },
+      "2.17": {
+        "fr": "dos nu"
+      },
+      "2.18": {
+        "es": "el brassiere deportivo"
+      },
+      "2.23": {
+        "es": "las pantaletas",
+        "it": "lo slip"
+      },
+      "2.24": {
+        "fr": "le soutien-gorge"
+      }
+    },
+    "note": "Titolo 'wedding • le mariage • die Hochzeit • la boda • il matrimonio' spezzato su 2 righe OCR (G0+G2); voce-titolo 'la biancheria intima' eliminata. Le voci matrimonio+lingeria convivono nel gruppo (layout OCR non separabile)."
+  },
+  "p033": {
+    "groups": {
+      "0": {
+        "slug": "accessori",
+        "names": {
+          "en": "accessories",
+          "fr": "les accessoires",
+          "de": "die Accessoires",
+          "es": "los accesorios",
+          "it": "gli accessori"
+        }
+      }
+    },
+    "entries": {
+      "0.1": {
+        "en": "handle"
+      },
+      "0.4": {
+        "es": "el cinturón"
+      },
+      "0.12": {
+        "es": "las joyas"
+      },
+      "0.13": {
+        "it": "il filo di perle"
+      },
+      "0.15": {
+        "es": "las mancuernillas"
+      },
+      "0.16": {
+        "es": "el colgante"
+      },
+      "0.18": {
+        "it": "la maglia"
+      },
+      "0.23": "DELETE"
+    },
+    "add": [
+      {
+        "en": "watch",
+        "fr": "la montre",
+        "de": "die Uhr",
+        "es": "el reloj",
+        "it": "l'orologio da polso"
+      },
+      {
+        "en": "jewelry box",
+        "fr": "la boîte à bijoux",
+        "de": "der Schmuckkasten",
+        "es": "el joyero",
+        "it": "il cofanetto portagioie"
+      }
+    ],
+    "add_to_group": 0,
+    "note": "0.16 es: OCR 'colguije' → 'el colgante' (correzione da dizionario, formulazione standard DK). 0.23 = 2 voci (watch + jewelry box) fuse in un blocco orizzontale, ricostruite."
+  },
+  "p034": {
+    "groups": {
+      "0": {
+        "slug": "accessori",
+        "names": {
+          "en": "accessories",
+          "fr": "les accessoires",
+          "de": "die Accessoires",
+          "es": "los accesorios",
+          "it": "gli accessori"
+        }
+      },
+      "1": {
+        "slug": "borse",
+        "names": {
+          "en": "bags",
+          "fr": "les sacs",
+          "de": "die Taschen",
+          "es": "las bolsas",
+          "it": "le borse"
+        }
+      },
+      "2": {
+        "slug": "scarpe",
+        "names": {
+          "en": "shoes",
+          "fr": "les chaussures",
+          "de": "die Schuhe",
+          "es": "los zapatos",
+          "it": "le scarpe"
+        }
+      }
+    },
+    "entries": {
+      "1.1": {
+        "en": "handles",
+        "fr": "les poignées",
+        "de": "die Griffe",
+        "es": "las asas",
+        "it": "le maniglie"
+      },
+      "1.4": {
+        "en": "wallet",
+        "es": "la cartera"
+      },
+      "1.5": {
+        "it": "la borsetta"
+      },
+      "1.6": {
+        "fr": "le sac à dos"
+      },
+      "1.8": {
+        "en": "duffle bag",
+        "fr": "le fourre-tout",
+        "es": "la bolsa de viaje",
+        "it": "la sacca da viaggio"
+      },
+      "2.1": {
+        "it": "il laccio"
+      },
+      "2.2": {
+        "fr": "l'œillet",
+        "it": "l'occhiello"
+      },
+      "2.5": {
+        "fr": "le talon",
+        "it": "il tacco"
+      },
+      "2.6": {
+        "de": "die Sohle",
+        "it": "la suola"
+      },
+      "2.7": {
+        "es": "la chancla"
+      },
+      "2.9": {
+        "en": "lace-up"
+      },
+      "2.10": {
+        "fr": "le mocassin",
+        "de": "der Slipper",
+        "es": "el mocasín",
+        "it": "il mocassino"
+      },
+      "2.11": {
+        "en": "brogue",
+        "fr": "le richelieu",
+        "es": "el zapato de caballero"
+      },
+      "2.12": {
+        "fr": "la sandale",
+        "de": "die Sandale",
+        "es": "la sandalia",
+        "it": "il sandalo"
+      }
+    },
+    "note": "2.10-2.12 ricostruite dai blocchi orizzontali a 3 colonne (slip-on/brogue/sandal su righe adiacenti). de di brogue perso nell'OCR."
+  },
+  "p035": {
+    "groups": {
+      "0": {
+        "slug": "parrucchiere",
+        "names": {
+          "en": "hairdresser's",
+          "fr": "le salon de coiffure",
+          "de": "der Friseursalon",
+          "es": "la peluquería",
+          "it": "il parrucchiere"
+        }
+      },
+      "1": {
+        "slug": "accessori-capelli",
+        "names": {
+          "en": "accessories",
+          "fr": "les accessoires",
+          "de": "die Frisierartikel",
+          "es": "los accesorios",
+          "it": "gli accessori"
+        }
+      }
+    },
+    "entries": {
+      "0.10": {
+        "en": "rinse (v)"
+      },
+      "1.0": {
+        "es": "el secador de pelo",
+        "it": "l'asciugacapelli"
+      },
+      "1.3": {
+        "fr": "le shampooing"
+      },
+      "1.4": {
+        "it": "il balsamo"
+      },
+      "1.5": {
+        "en": "curling iron",
+        "fr": "le fer à friser",
+        "de": "der Lockenstab",
+        "es": "las tenazas",
+        "it": "l'arricciacapelli"
+      },
+      "1.7": "DELETE"
+    },
+    "note": "1.5 e 1.7 erano lo stesso concetto (curling iron) spezzato in due blocchi. G0 nominata dal contenuto (titolo pagina = dal parrucchiere)."
+  },
+  "p036": {
+    "merge_groups": [
+      [
+        1,
+        2
+      ]
+    ],
+    "groups": {
+      "0": {
+        "slug": "acconciature",
+        "names": {
+          "en": "styles",
+          "fr": "les coiffures",
+          "de": "die Frisuren",
+          "es": "los estilos",
+          "it": "le acconciature"
+        }
+      },
+      "1": {
+        "slug": "colori-capelli",
+        "names": {
+          "en": "colours",
+          "fr": "les couleurs",
+          "de": "die Haarfarben",
+          "es": "los colores",
+          "it": "i colori"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "it": "il nastro"
+      },
+      "0.1": {
+        "fr": "les couettes",
+        "es": "las coletas"
+      },
+      "0.2": {
+        "fr": "le rouleau"
+      },
+      "0.3": "DELETE",
+      "0.7": {
+        "fr": "la permanente"
+      },
+      "0.8": "DELETE",
+      "0.9": {
+        "es": "rizado",
+        "it": "ricci"
+      },
+      "0.11": {
+        "es": "las raíces"
+      },
+      "0.17": {
+        "fr": "les reflets",
+        "it": "i colpi di sole"
+      },
+      "2.11": {
+        "es": "negro",
+        "it": "nero"
+      }
+    },
+    "add": [
+      {
+        "en": "bun",
+        "fr": "le chignon",
+        "de": "der Haarknoten",
+        "es": "el chongo",
+        "it": "la crocchia"
+      },
+      {
+        "en": "crop",
+        "fr": "la coupe courte",
+        "de": "der Kurzhaarschnitt",
+        "es": "el pelo corto",
+        "it": "la sfumatura alta"
+      }
+    ],
+    "add_to_group": 0,
+    "note": "G2 'A' = spazzatura OCR, fusa nei colori. es di split ends 'la orzitela' mantenuto da OCR (dubbio, forse 'las horquillas'). 'normali' it mantenuto (plurale nel libro)."
+  },
+  "p037": {
+    "groups": {
+      "0": {
+        "slug": "bellezza",
+        "names": {
+          "en": "beauty",
+          "fr": "la beauté",
+          "de": "die Schönheit",
+          "es": "la belleza",
+          "it": "la bellezza"
+        }
+      },
+      "1": {
+        "slug": "trucco",
+        "names": {
+          "en": "makeup",
+          "fr": "le maquillage",
+          "de": "das Make-up",
+          "es": "el maquillaje",
+          "it": "il trucco"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "es": "la tinte para el pelo",
+        "it": "la tintura per capelli"
+      },
+      "1.2": {
+        "de": "das Brauenbürstchen"
+      },
+      "1.4": {
+        "fr": "le mascara",
+        "es": "el rimel"
+      },
+      "1.6": {
+        "fr": "le brillant à lèvres"
+      },
+      "1.7": {
+        "fr": "l'eyeliner"
+      },
+      "1.8": {
+        "en": "lip liner",
+        "it": "il marcatore per le labbra"
+      }
+    },
+    "note": "face powder es 'el maquillaje' come da OCR (dubbio: forse 'el polvo facial')."
+  },
+  "p038": {
+    "merge_groups": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        4,
+        5
+      ]
+    ],
+    "groups": {
+      "1": {
+        "slug": "trattamenti-di-bellezza",
+        "names": {
+          "en": "beauty treatments",
+          "fr": "les soins de beauté",
+          "de": "die Schönheitsbehandlungen",
+          "es": "los tratamientos de belleza",
+          "it": "i trattamenti di bellezza"
+        }
+      },
+      "5": {
+        "slug": "manicure",
+        "names": {
+          "en": "manicure",
+          "fr": "la manicure",
+          "de": "die Maniküre",
+          "es": "la manicura",
+          "it": "la manicure"
+        }
+      }
+    },
+    "entries": {
+      "2.0": "DELETE",
+      "2.2": {
+        "fr": "le lit UV"
+      },
+      "2.9": {
+        "en": "eau de toilette"
+      },
+      "2.10": {
+        "es": "el perfume"
+      },
+      "2.11": {
+        "fr": "la pédicure",
+        "es": "la pedicura"
+      },
+      "2.12": {
+        "it": "la ceretta"
+      },
+      "4.0": "DELETE",
+      "5.0": {
+        "fr": "le dissolvant",
+        "es": "el quitaesmalte"
+      },
+      "5.1": {
+        "es": "el tatuaje"
+      },
+      "5.4": {
+        "de": "die Wattebällchen"
+      },
+      "5.5": {
+        "es": "hipoalergénico"
+      },
+      "5.10": {
+        "es": "antiarrugas"
+      },
+      "5.12": {
+        "es": "seco"
+      },
+      "5.13": {
+        "es": "el cortaúñas",
+        "it": "il tagliaunghie"
+      }
+    },
+    "note": "Titoli 'toiletries' e 'beauty treatments' e 'manicure' spezzati su più righe/gruppi OCR; voci-titolo 2.0 e 4.0 eliminate. LEFT 'da toeletta' = coda del titolo toiletries (gli articoli da toeletta)."
+  },
+  "p040": {
+    "groups": {
+      "0": {
+        "slug": "malattia",
+        "names": {
+          "en": "illness",
+          "fr": "la maladie",
+          "de": "die Krankheit",
+          "es": "la enfermedad",
+          "it": "la malattia"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "fr": "la toux"
+      },
+      "0.20": {
+        "es": "la fiebre del heno"
+      },
+      "0.22": {
+        "fr": "le mal d'estomac"
+      },
+      "0.27": {
+        "fr": "la tension"
+      },
+      "0.29": {
+        "en": "faint (v)"
+      }
+    }
+  },
+  "p041": {
+    "groups": {
+      "0": {
+        "slug": "dottore",
+        "names": {
+          "en": "doctor",
+          "fr": "le médecin",
+          "de": "der Arzt",
+          "es": "el doctor",
+          "it": "il medico"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "es": "el metro"
+      },
+      "0.3": {
+        "it": "l'infermiera"
+      },
+      "0.5": {
+        "it": "la ricetta"
+      },
+      "0.7": {
+        "es": "el examen médico"
+      },
+      "0.9": {
+        "en": "blood pressure gauge"
+      },
+      "0.13": {
+        "de": "Warteraum",
+        "it": "la sala d'attesa"
+      },
+      "0.14": {
+        "en": "I need to see a doctor",
+        "fr": "J'ai besoin de voir un médecin",
+        "es": "Necesito ver a un médico",
+        "it": "Ho bisogno di vedere un medico"
+      },
+      "0.15": {
+        "fr": "J'ai mal ici",
+        "es": "Me duele aquí",
+        "it": "Ho un dolore qui"
+      }
+    },
+    "note": "Titoli 'doctor' e 'consultation' fusi dall'OCR in un solo gruppo; G0 nominata dal primo."
+  },
+  "p042": {
+    "groups": {
+      "0": {
+        "slug": "ferite",
+        "names": {
+          "en": "injury",
+          "fr": "la blessure",
+          "de": "die Verletzung",
+          "es": "la lesión",
+          "it": "la ferita"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "fr": "la minerve"
+      },
+      "0.10": {
+        "en": "burn"
+      },
+      "0.13": {
+        "en": "Will he/she be all right?"
+      },
+      "0.18": {
+        "en": "Please call an ambulance!",
+        "es": "Por favor llame una ambulancia"
+      },
+      "0.21": {
+        "en": "Where does it hurt?",
+        "fr": "Où avez-vous mal?"
+      },
+      "0.22": {
+        "en": "electric shock"
+      }
+    },
+    "note": "es 'la ardida' (sunburn) mantenuto: regionalismo messicano del libro."
+  },
+  "p043": {
+    "groups": {
+      "0": {
+        "slug": "pronto-soccorso",
+        "names": {
+          "en": "first aid",
+          "fr": "les premiers secours",
+          "de": "die erste Hilfe",
+          "es": "los primeros auxilios",
+          "it": "il pronto soccorso"
+        }
+      }
+    },
+    "entries": {
+      "0.0": "DELETE",
+      "0.3": {
+        "fr": "l'épingle de sûreté"
+      },
+      "0.6": {
+        "en": "antiseptic"
+      },
+      "0.7": {
+        "fr": "les analgésiques"
+      },
+      "0.9": {
+        "it": "la garza"
+      },
+      "0.19": {
+        "en": "sterile"
+      }
+    },
+    "add": [
+      {
+        "en": "ointment",
+        "fr": "la pommade",
+        "de": "die Salbe",
+        "es": "la pomada",
+        "it": "la pomata"
+      },
+      {
+        "en": "adhesive bandage",
+        "fr": "le pansement",
+        "de": "das Pflaster",
+        "es": "la tirita",
+        "it": "il cerotto"
+      }
+    ],
+    "add_to_group": 0
+  },
+  "p044": {
+    "groups": {
+      "0": {
+        "slug": "ospedale",
+        "names": {
+          "en": "hospital",
+          "fr": "l'hôpital",
+          "de": "das Krankenhaus",
+          "es": "el hospital",
+          "it": "l'ospedale"
+        }
+      }
+    },
+    "entries": {
+      "0.3": {
+        "fr": "l'infirmier"
+      },
+      "0.4": {
+        "fr": "l'anesthésiste"
+      },
+      "0.6": "DELETE",
+      "0.9": {
+        "fr": "la salle des urgences"
+      },
+      "0.13": {
+        "en": "operation"
+      },
+      "0.15": {
+        "en": "visiting hours"
+      },
+      "0.16": {
+        "fr": "la maternité"
+      },
+      "0.20": {
+        "es": "la sala de pediatría"
+      }
+    },
+    "add": [
+      {
+        "en": "operating room",
+        "fr": "la salle d'opération",
+        "de": "der Operationssaal",
+        "es": "el quirófano",
+        "it": "la sala operatoria"
+      },
+      {
+        "en": "gurney",
+        "fr": "le chariot",
+        "de": "die fahrbare Liege",
+        "es": "la camilla",
+        "it": "la lettiga"
+      }
+    ],
+    "add_to_group": 0
+  },
+  "p045": {
+    "delete_groups": [
+      0,
+      1
+    ],
+    "groups": {
+      "2": {
+        "slug": "reparti",
+        "names": {
+          "en": "departments",
+          "fr": "les services",
+          "de": "die Abteilungen",
+          "es": "los servicios",
+          "it": "i reparti"
+        }
+      }
+    },
+    "entries": {
+      "2.0": "DELETE",
+      "2.1": "DELETE",
+      "2.2": {
+        "fr": "l'orthopédie"
+      },
+      "2.5": {
+        "en": "Ear, Nose, and Throat",
+        "fr": "l'O.R.L."
+      },
+      "2.8": {
+        "fr": "la dermatologie"
+      },
+      "2.10": {
+        "fr": "l'ophthalmologie"
+      },
+      "2.12": {
+        "es": "la cirugía"
+      },
+      "2.14": {
+        "fr": "la pathologie"
+      },
+      "2.16": {
+        "es": "la cirugía plástica"
+      },
+      "2.18": {
+        "es": "la urología"
+      },
+      "2.19": {
+        "fr": "le spécialiste",
+        "it": "lo specialista"
+      },
+      "2.21": {
+        "es": "la referencia"
+      },
+      "2.23": {
+        "de": "die Onkologie"
+      }
+    },
+    "note": "Titolo 'departments' spezzato su G0/G1/G2 + voci-titolo eliminate; de 'Ontologie'→'Onkologie' (OCR)."
+  },
+  "p046": {
+    "groups": {
+      "0": {
+        "slug": "dentista",
+        "names": {
+          "en": "dentist",
+          "fr": "le dentiste",
+          "de": "der Zahnarzt",
+          "es": "el dentista",
+          "it": "il dentista"
+        }
+      },
+      "1": {
+        "slug": "controllo",
+        "names": {
+          "en": "check-up",
+          "fr": "la visite de contrôle",
+          "de": "der Check-up",
+          "es": "la revisión",
+          "it": "il controllo"
+        }
+      }
+    },
+    "entries": {
+      "1.0": "DELETE",
+      "1.1": {
+        "fr": "l'émail",
+        "it": "lo smalto"
+      },
+      "1.3": {
+        "fr": "la lampe",
+        "de": "die Behandlungslampe",
+        "es": "la lámpara",
+        "it": "la lampada"
+      },
+      "1.5": {
+        "it": "il nervo"
+      },
+      "1.8": {
+        "de": "der vordere Backenzahn",
+        "es": "el premolar"
+      },
+      "1.10": {
+        "en": "molar"
+      },
+      "1.13": {
+        "fr": "la rage de dents",
+        "es": "el dolor de muelas"
+      },
+      "1.14": {
+        "es": "el torno del dentista"
+      },
+      "1.16": {
+        "en": "dental floss",
+        "fr": "le fil dentaire"
+      },
+      "1.20": {
+        "it": "la carie"
+      },
+      "1.21": {
+        "fr": "l'extraction",
+        "de": "die Extraktion",
+        "es": "la extracción",
+        "it": "l'estrazione"
+      },
+      "1.24": {
+        "en": "dental x-ray",
+        "es": "los rayos x dentales"
+      },
+      "1.26": {
+        "fr": "le dentier"
+      }
+    },
+    "add": [
+      {
+        "en": "tooth",
+        "fr": "la dent",
+        "de": "der Zahn",
+        "es": "el diente",
+        "it": "il dente"
+      }
+    ],
+    "add_to_group": 1,
+    "note": "Titoli 'dentist' e 'tooth' fusi dall'OCR. LEFT 'apron'/'le bavoir' = voce con solo en+fr nell'OCR, scartata (regola 5/5)."
+  },
+  "p047": {
+    "groups": {
+      "0": {
+        "slug": "ottico",
+        "names": {
+          "en": "optician",
+          "fr": "l'opticien",
+          "de": "der Augenoptiker",
+          "es": "el óptico",
+          "it": "l'ottico"
+        }
+      },
+      "1": {
+        "slug": "occhio",
+        "names": {
+          "en": "eye",
+          "fr": "l'œil",
+          "de": "das Auge",
+          "es": "el ojo",
+          "it": "l'occhio"
+        }
+      }
+    },
+    "entries": {
+      "0.2": {
+        "fr": "l'étui"
+      },
+      "0.7": {
+        "en": "lens case",
+        "fr": "l'étui à lentilles"
+      },
+      "0.8": {
+        "en": "contact lenses"
+      },
+      "0.9": {
+        "fr": "l'examen de la vue",
+        "es": "el examen de ojos"
+      },
+      "1.2": {
+        "es": "la hipermetropía"
+      },
+      "1.6": {
+        "fr": "la myopie"
+      },
+      "1.7": {
+        "es": "la lágrima"
+      },
+      "1.8": {
+        "it": "la retina"
+      },
+      "1.9": {
+        "en": "iris"
+      },
+      "1.12": {
+        "it": "la cataratta"
+      },
+      "1.13": {
+        "en": "optic nerve"
+      }
+    }
+  },
+  "p048": {
+    "groups": {
+      "0": {
+        "slug": "gravidanza",
+        "names": {
+          "en": "pregnancy",
+          "fr": "la grossesse",
+          "de": "die Schwangerschaft",
+          "es": "el embarazo",
+          "it": "la gravidanza"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "it": "la cervice"
+      },
+      "0.2": {
+        "it": "la placenta"
+      },
+      "0.6": {
+        "en": "uterus"
+      },
+      "0.20": {
+        "it": "l'epidurale"
+      },
+      "0.26": {
+        "it": "il taglio cesareo"
+      },
+      "0.30": {
+        "en": "break water (v)"
+      }
+    }
+  },
+  "p049": {
+    "groups": {
+      "0": {
+        "slug": "parto",
+        "names": {
+          "en": "childbirth",
+          "fr": "la naissance",
+          "de": "die Geburt",
+          "es": "el parto",
+          "it": "il parto"
+        }
+      }
+    },
+    "entries": {
+      "0.0": {
+        "es": "la partera",
+        "it": "l'ostetrica"
+      },
+      "0.5": {
+        "fr": "le pèse-bébé"
+      },
+      "0.6": "DELETE",
+      "0.10": {
+        "it": "il reggiseno da allattamento"
+      },
+      "0.12": {
+        "fr": "l'accouchement assisté",
+        "it": "il parto assistito"
+      }
+    },
+    "add": [
+      {
+        "en": "induce labour (v)",
+        "fr": "déclencher l'accouchement",
+        "de": "die Geburt einleiten",
+        "es": "inducir el parto",
+        "it": "il travaglio indotto"
+      },
+      {
+        "en": "forceps",
+        "fr": "le forceps",
+        "de": "die Geburtszange",
+        "es": "los fórceps",
+        "it": "il forcipe"
+      }
+    ],
+    "add_to_group": 0
+  },
+  "p050": {
+    "groups": {
+      "0": {
+        "slug": "terapie-alternative",
+        "names": {
+          "en": "alternative therapy",
+          "fr": "les thérapies alternatives",
+          "de": "die Alternativtherapien",
+          "es": "las terapias alternativas",
+          "it": "le terapie alternative"
+        }
+      }
+    },
+    "entries": {
+      "0.3": {
+        "en": "mat"
+      },
+      "0.6": {
+        "fr": "la réflexologie"
+      }
+    },
+    "add": [
+      {
+        "en": "yoga",
+        "fr": "le yoga",
+        "de": "das Yoga",
+        "es": "el yoga",
+        "it": "lo yoga"
+      }
+    ],
+    "add_to_group": 0,
+    "note": "Voce 'yoga' ricostruita dal leftover (riga EN isolata; articoli standard)."
+  },
+  "p051": {
+    "groups": {
+      "0": {
+        "slug": "terapie-alternative",
+        "names": {
+          "en": "alternative therapy",
+          "fr": "les thérapies alternatives",
+          "de": "die Alternativtherapien",
+          "es": "las terapias alternativas",
+          "it": "le terapie alternative"
+        }
+      }
+    },
+    "entries": {
+      "0.2": {
+        "en": "reiki",
+        "fr": "le reiki",
+        "de": "das Reiki"
+      },
+      "0.3": {
+        "fr": "l'hypnothérapie",
+        "es": "la hipnoterapia",
+        "it": "l'ipnoterapia"
+      },
+      "0.4": {
+        "en": "ayurveda"
+      },
+      "0.8": {
+        "it": "l'agopressione"
+      },
+      "0.9": {
+        "fr": "l'aromathérapie",
+        "es": "la aromaterapia"
+      },
+      "0.12": {
+        "fr": "la herbe"
+      },
+      "0.13": {
+        "es": "la relajación"
+      },
+      "0.14": {
+        "fr": "la naturopathie",
+        "es": "la naturopatía"
+      },
+      "0.18": {
+        "it": "il feng shui"
+      }
+    },
+    "note": "Continuazione terapie alternative (nessun titolo pagina)."
+  }
+}

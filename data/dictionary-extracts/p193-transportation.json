@@ -1,0 +1,311 @@
+{
+ "page": 193,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "leathers",
+     "fr": "vêtement en cuir",
+     "de": "Lederanzug",
+     "es": "traje de cuero",
+     "it": "tuta di pelle",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 10,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "visor",
+     "fr": "visière",
+     "de": "Visier",
+     "es": "visera",
+     "it": "a visiera",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "reflector strap",
+     "fr": "bande fluorescente",
+     "de": "Leuchtstreifen",
+     "es": "cinta reflectante",
+     "it": "fascia rifrangente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 14,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "kneepad",
+     "fr": "genouillère",
+     "de": "Knieschützer",
+     "es": "rodillera",
+     "it": "paraginocchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 12,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "clothing",
+     "fr": "vêtements",
+     "de": "Kleidung",
+     "es": "equipo",
+     "it": "abbigliamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 13
+     }
+    },
+    {
+     "en": "headlight",
+     "fr": "phare",
+     "de": "Scheinwerfer",
+     "es": "faro",
+     "it": "proiettore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 12,
+      "es": 4,
+      "it": 10
+     }
+    },
+    {
+     "en": "suspension",
+     "fr": "suspension",
+     "de": "Aufhängung",
+     "es": "suspensión",
+     "it": "rammnrti77atnrc",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "mudguard",
+     "fr": "garde-bouc",
+     "de": "Schutzblech",
+     "es": "salpicadera",
+     "it": "parafango",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "tourer",
+     "fr": "moto routière",
+     "de": "Tourer",
+     "es": "moto de carretera",
+     "it": "moto da turismo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 6,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "tire",
+     "fr": "pneu",
+     "de": "Reifen",
+     "es": "llanta",
+     "it": "pneumatico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "fr": "essieu",
+     "de": "Achse",
+     "es": "eje",
+     "it": "asse",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 5,
+      "es": 3,
+      "it": 4
+     }
+    },
+    {
+     "fr": "pédale de frein",
+     "de": "Bremspedal",
+     "es": "pedal de los frenos",
+     "it": "pedale del freno",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 13,
+      "de": 10,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "scooter",
+     "fr": "scooter",
+     "de": "Roller",
+     "es": "vespa",
+     "it": "vespa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

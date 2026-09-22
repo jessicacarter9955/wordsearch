@@ -1,0 +1,670 @@
+{
+ "page": 191,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "foratura",
+   "names": {
+    "en": "'tat tire",
+    "fr": "la crevaison",
+    "de": "die reifenpanne",
+    "es": "la ponchadura",
+    "it": "la foratura"
+   },
+   "entries": [
+    {
+     "en": "cam belt",
+     "fr": "courroie de cames",
+     "de": "Nockenriemen",
+     "es": "banda del disco",
+     "it": "cinghia della camma",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 12,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "car accident",
+     "fr": "accident de voiture",
+     "de": "Autounfall",
+     "es": "accidente de carro",
+     "it": "incidente stradale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 17,
+      "de": 10,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "spare tire",
+     "fr": "L« roue de secours",
+     "de": "Ersatzrad",
+     "es": "llanta de refacción",
+     "it": "ia ruota di scorta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 9,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "turbocharger",
+     "fr": "turbocompresseur",
+     "de": "Turbolader",
+     "es": "turbo",
+     "it": "tubocompresscire",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 10,
+      "es": 5,
+      "it": 16
+     }
+    },
+    {
+     "en": "breakdown",
+     "fr": "panne",
+     "de": "Panne",
+     "es": "avena",
+     "it": "panne",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "distributor",
+     "fr": "distributeur",
+     "de": "Verteiler",
+     "es": "distribuidor",
+     "it": "distributore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "insurance",
+     "fr": "assurance",
+     "de": "Versicherung",
+     "es": "seguro",
+     "it": "assicurazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 12,
+      "es": 6,
+      "it": 13
+     }
+    },
+    {
+     "en": "tire iron",
+     "fr": "manivelle",
+     "de": "Radschlüssel",
+     "es": "llave",
+     "it": "la",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 12,
+      "es": 5,
+      "it": 2
+     }
+    },
+    {
+     "en": "timing",
+     "fr": "réglage de l'allumage",
+     "de": "Einstellung",
+     "es": "ralenti",
+     "it": "messa in fase",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 18,
+      "de": 11,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "tow truck",
+     "fr": "dépanneuse",
+     "de": "Abschleppwagen",
+     "es": "grúa",
+     "it": "carro attrezzi",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 14,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "en": "wheel lugs",
+     "fr": "ccrous île roue",
+     "de": "Radmuttern",
+     "es": "birlos",
+     "it": "bulloni della ruota",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 10,
+      "es": 6,
+      "it": 17
+     }
+    },
+    {
+     "de": "Wagenheber",
+     "es": "gato",
+     "it": "cric",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 10,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "chassis",
+     "fr": "châssis",
+     "de": "Chassis",
+     "es": "chasis",
+     "it": "telaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "mechanic",
+     "fr": "mécanicien",
+     "de": "Mechaniker",
+     "es": "mecánico",
+     "it": "meccanico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "change a tire (v)",
+     "fr": "changer une roue",
+     "de": "Rad wechseln",
+     "es": "cambiar una llanta",
+     "it": "cambiare una ruota",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "ein"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 11,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "roof",
+     "fr": "toit",
+     "de": "Dach",
+     "es": "techo",
+     "it": "tetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "parking brake",
+     "fr": "frein à mam",
+     "de": "Handbremse",
+     "es": "freno de mano",
+     "it": "freno a mano",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 10,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "tire pressure",
+     "fr": "pression des pneus",
+     "de": "Reifendruck",
+     "es": "presión del neumático",
+     "it": "pressione dei pneumatici",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 11,
+      "es": 19,
+      "it": 22
+     }
+    },
+    {
+     "en": "suspension",
+     "fr": "suspension",
+     "de": "Aufhängung",
+     "es": "suspensión",
+     "it": "sospensione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "muffler",
+     "fr": "silencieux",
+     "de": "Auspufftopf",
+     "es": "silenciador",
+     "it": "silenziatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 11,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "alternator",
+     "fr": "alternateur",
+     "de": "Lichtmaschine",
+     "es": "alternador",
+     "it": "alternatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 13,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "fuse box",
+     "fr": "porre-fusibles",
+     "de": "Sichemngskasten",
+     "es": "caja de fusibles",
+     "it": "scatola dei fusibili",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 15,
+      "es": 14,
+      "it": 18
+     }
+    },
+    {
+     "en": "My car has broken down",
+     "fr": "Ma voiture est en panne",
+     "de": "Ich habe eine Panne",
+     "es": "Se descompuso el carro",
+     "it": "Sono in panne",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 18,
+      "fr": 19,
+      "de": 16,
+      "es": 19,
+      "it": 11
+     }
+    },
+    {
+     "en": "spark plug",
+     "fr": "bougie",
+     "de": "Zündkerze",
+     "es": "bujía",
+     "it": "candela",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "My car won't start",
+     "fr": "Ma voiture ne démarre pas",
+     "de": "Mein Auto springt nicht an",
+     "es": "E l carro no arranca",
+     "it": "mia macchina non parte",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "it": "La"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 21,
+      "de": 22,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "fan belt",
+     "fr": "courroie de ventilateur",
+     "de": "Keilriemen",
+     "es": "banda del ventilador",
+     "it": "cinghia della ventola",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 21,
+      "de": 10,
+      "es": 18,
+      "it": 19
+     }
+    },
+    {
+     "en": "gas tank",
+     "fr": "réservoir d'essence",
+     "de": "Benzintank",
+     "es": "tanque de la gasolina",
+     "it": "serbatoio della benzina",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 10,
+      "es": 18,
+      "it": 21
+     }
+    },
+    {
+     "fr": "pot d' échappement",
+     "de": "Auspuff",
+     "es": "tubo de escape",
+     "it": "tubo di scappamento",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 15,
+      "de": 7,
+      "es": 12,
+      "it": 17
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,236 @@
+{
+ "page": 108,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • I ES C O U R S E S • DER EINKAUF • L A S C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "pet store",
+     "fr": "l'animal crie",
+     "de": "die Tierhandlung",
+     "es": "la tienda de mascotas",
+     "it": "il negozio di animali",
+     "_pos": [
+      675,
+      336
+     ],
+     "_flags": []
+    },
+    {
+     "en": "liquor store",
+     "fr": "le magasin de vins et spiritueux",
+     "de": "die Weinhandlung",
+     "es": "la tienda de licores",
+     "it": "il negozio di liquori",
+     "_pos": [
+      460,
+      337
+     ],
+     "_flags": []
+    },
+    {
+     "en": "record score",
+     "fr": "le magasin de disques",
+     "de": "das Plattengeschäft",
+     "es": "la tienda de discos",
+     "it": "I negozio di dischi",
+     "_pos": [
+      246,
+      338
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "bookstore",
+     "fr": "la librairie",
+     "de": "der Buchladen",
+     "es": "la librería",
+     "it": "la libreria",
+     "_pos": [
+      32,
+      340
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camera store",
+     "fr": "le magasin d'appareils photos",
+     "de": "das Fotogeschäft",
+     "es": "la tienda de fotografía",
+     "it": "il negozio di articoli fotografici",
+     "_pos": [
+      658,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "realty office",
+     "fr": "l'agent immobilier",
+     "de": "der Immobilienmakler",
+     "es": "la agenda inmobiliaria",
+     "it": "l'agenzia immobiliare",
+     "_pos": [
+      476,
+      435
+     ],
+     "_flags": []
+    },
+    {
+     "en": "second-hand store",
+     "fr": "le marchand d' occasion",
+     "de": "der Gebrauchtwarenhändler",
+     "es": "la tienda de artículos usados",
+     "it": "il negozio dell'usato",
+     "_pos": [
+      659,
+      533
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garden center",
+     "fr": "la pépinière",
+     "de": "das Gartencenter",
+     "es": "el vivero",
+     "it": "il vivaio",
+     "_pos": [
+      477,
+      534
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dry cleaner",
+     "fr": "le pressing",
+     "de": "die Reinigung",
+     "es": "la tintorería",
+     "it": "il lavasecco",
+     "_pos": [
+      478,
+      633
+     ],
+     "_flags": []
+    },
+    {
+     "en": "health food store",
+     "fr": "le magasin bio",
+     "de": "das Reformhaus",
+     "es": "la tienda naturista",
+     "it": "il negozio di alimenti biologici",
+     "_pos": [
+      660,
+      633
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boutique",
+     "fr": "la boutique",
+     "de": "die Boutique",
+     "es": "la boutique",
+     "it": "labo utique",
+     "_pos": [
+      250,
+      702
+     ],
+     "_flags": []
+    },
+    {
+     "en": "furniture store",
+     "fr": "le magasin de meubles",
+     "de": "das Möbelgeschäft",
+     "es": "la mueblería",
+     "it": "il negozio di mobili",
+     "_pos": [
+      34,
+      703
+     ],
+     "_flags": []
+    },
+    {
+     "en": "laundromat",
+     "fr": "la laverie automatique",
+     "de": "der Waschsalon",
+     "es": "la lavandería",
+     "it": "la lavanderia",
+     "_pos": [
+      479,
+      732
+     ],
+     "_flags": []
+    },
+    {
+     "en": "art store",
+     "fr": "la boutique d'art",
+     "de": "die Kunsthandlung",
+     "es": "la galena de arte",
+     "it": "il negozio di articoli per l'arte",
+     "_pos": [
+      661,
+      732
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hair salon",
+     "fr": "le salon de coiffure",
+     "de": "der Frisiersalon",
+     "es": "la estética",
+     "it": "il parrucchiere",
+     "_pos": [
+      253,
+      1049
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailor shop",
+     "fr": "le tailleur",
+     "de": "die Schneiderei",
+     "es": "la sastrería",
+     "it": "la sartoria",
+     "_pos": [
+      38,
+      1051
+     ],
+     "_flags": []
+    },
+    {
+     "en": "market",
+     "fr": "le marché",
+     "de": "der Markt",
+     "es": "el mercado",
+     "it": "il mercato",
+     "_pos": [
+      468,
+      1081
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 6,
+  "flagged": 11,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

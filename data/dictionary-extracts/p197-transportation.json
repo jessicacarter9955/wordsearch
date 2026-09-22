@@ -1,0 +1,633 @@
+{
+ "page": 197,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "luggage rack",
+     "fr": "porre bagages",
+     "de": "Gepäckablage",
+     "es": "portaequipajes",
+     "it": "portabagagli",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "track",
+     "fr": "voie terrée",
+     "de": "Gleis",
+     "es": "vía",
+     "it": "binario",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 5,
+      "es": 3,
+      "it": 7
+     }
+    },
+    {
+     "en": "window",
+     "fr": "fenêtre",
+     "de": "Zugfenster",
+     "es": "ventanilla",
+     "it": "finestrino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "seat",
+     "fr": "siège",
+     "de": "Sitz",
+     "es": "asiento",
+     "it": "sedile",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "door",
+     "fr": "porte",
+     "de": "Tür",
+     "es": "puerta",
+     "it": "porta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 3,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "ticket barrier",
+     "fr": "portillon",
+     "de": "Eingangssperre",
+     "es": "barrera",
+     "it": "barriera",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 14,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "compartment",
+     "fr": "compartiment",
+     "de": "Abteil",
+     "es": "com partim ento",
+     "it": "scompartimento",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 6,
+      "es": 13,
+      "it": 14
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "KUPONG 7.00 kr",
+     "fr": "fr. wBV m m >wi?o-0on",
+     "de": "S5J >- '",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 3
+     }
+    },
+    {
+     "en": "1 w ticket",
+     "fr": "billet",
+     "de": "Fahrkarte",
+     "es": "boleto",
+     "it": "bicilietto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "timetable",
+     "fr": "horaire",
+     "de": "Fahrplan",
+     "es": "horario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 7
+     }
+    },
+    {
+     "en": "xiöitc address system",
+     "fr": "haur-pa rieur",
+     "de": "aer Lautsprecher",
+     "es": "d aitavo",
+     "it": "nc i ctpmnH i D l fnn a l i in l i",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 11,
+      "de": 15,
+      "es": 7,
+      "it": 22
+     }
+    },
+    {
+     "en": "dining car",
+     "fr": "voiture-restaurant",
+     "de": "Speisewagen",
+     "es": "vagón restaurante",
+     "it": "vagone ristorante",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 11,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "sleeping compartment",
+     "fr": "com parrim enr couchcrtcs",
+     "de": "Schlafabteil",
+     "es": "cochee ama",
+     "it": "scompartimento a cuccette",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 22,
+      "de": 12,
+      "es": 9,
+      "it": 23
+     }
+    },
+    {
+     "en": "oncourse",
+     "fr": "hall de gare",
+     "de": "Bahnhofshalle",
+     "es": "vestíbulo",
+     "it": "atrio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 13,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "ticket office",
+     "fr": "guichet",
+     "de": "Fahrkartenschalter",
+     "es": "taquilla",
+     "it": "biglietteria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 18,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "live rail",
+     "fr": "rail conducteur",
+     "de": "stromführende Schiene",
+     "es": "riel electrificado",
+     "it": "binario elettrificato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 20,
+      "es": 17,
+      "it": 20
+     }
+    },
+    {
+     "en": "underground map",
+     "fr": "plan de métro",
+     "de": "U-Bahnplan",
+     "es": "plano del metro",
+     "it": "mappa della metropolitana",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 11,
+      "de": 9,
+      "es": 13,
+      "it": 23
+     }
+    },
+    {
+     "en": "railroad network",
+     "fr": "réseau ferroviaire",
+     "de": "Bahnnetz",
+     "es": "red ferroviaria",
+     "it": "rete ferroviaria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 8,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "ticket inspector",
+     "fr": "contrôleur",
+     "de": "Schaffner",
+     "es": "dictador",
+     "it": "controllore",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 10,
+      "de": 9,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "signal",
+     "fr": "signal",
+     "de": "Signal",
+     "es": "señal",
+     "it": "segnale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "delay",
+     "fr": "retard",
+     "de": "Verspätung",
+     "es": "retraso",
+     "it": "ritardo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "inter city train",
+     "fr": "rapide",
+     "de": "Intercity",
+     "es": "tren in te rcity",
+     "it": "treno intercity",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 6,
+      "de": 9,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "change (v)",
+     "fr": "changer",
+     "de": "umsteigen",
+     "es": "cambiar",
+     "it": "cambiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "emergency lever",
+     "fr": "manette Je secours",
+     "de": "Nothebel",
+     "es": "palanca de emergencia",
+     "it": "leva di emergenza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 8,
+      "es": 19,
+      "it": 15
+     }
+    },
+    {
+     "en": "fare",
+     "fr": "prix",
+     "de": "Fahrpreis",
+     "es": "precio",
+     "it": "tariffa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "rush hour",
+     "fr": "heure de pointe",
+     "de": "Stoßzeit",
+     "es": "hora pico",
+     "it": "ora di punta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

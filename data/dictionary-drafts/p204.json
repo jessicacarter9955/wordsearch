@@ -1,0 +1,275 @@
+{
+ "page": 204,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "port • le port • der Hafen • el puerto • ¡I porto",
+   "parts": [
+    "port",
+    "le port",
+    "der hafen",
+    "el puerto",
+    "i porto"
+   ],
+   "entries": [
+    {
+     "en": "warehouse",
+     "fr": "l'entrepôt",
+     "de": "das Warenlager",
+     "es": "la bodega",
+     "it": "I magazzino",
+     "_pos": [
+      48,
+      124
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "crane",
+     "fr": "la grue",
+     "de": "der Kran",
+     "es": "la grúa",
+     "it": "la gru",
+     "_pos": [
+      246,
+      125
+     ],
+     "_flags": []
+    },
+    {
+     "en": "forklift",
+     "fr": "le chariot élévateur",
+     "de": "der Gabelstapler",
+     "es": "la carretilla elevadora",
+     "it": "il carrello elevatore",
+     "_pos": [
+      352,
+      126
+     ],
+     "_flags": []
+    },
+    {
+     "en": "access road",
+     "fr": "la route d'accès",
+     "de": "die Zufahrtsstraße",
+     "es": "la vía de acceso",
+     "it": "la strada di accesso",
+     "_pos": [
+      522,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customs house",
+     "fr": "le bureau des douanes",
+     "de": "das Zollamt",
+     "es": "las aduanas del puerto",
+     "it": "l'ufficio della dogana",
+     "_pos": [
+      710,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "it": "I w »II» u l i! A l i i > i r . »",
+     "_pos": [
+      464,
+      486
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "it:short:w",
+      "it:weird:»II»",
+      "it:short:u",
+      "it:weird:i!",
+      "it:weird:>",
+      "it:short:r",
+      "it:weird:.",
+      "it:weird:»",
+      "it:case"
+     ]
+    },
+    {
+     "en": "",
+     "fr": ">",
+     "_pos": [
+      642,
+      534
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "fr:weird:>"
+     ]
+    },
+    {
+     "en": "container",
+     "fr": "le conteneur",
+     "de": "der Container",
+     "es": "el contenedor",
+     "it": "il container",
+     "_pos": [
+      46,
+      601
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dock",
+     "fr": "le dock",
+     "de": "das Dock",
+     "es": "la dársena",
+     "it": "il bacino",
+     "_pos": [
+      196,
+      602
+     ],
+     "_flags": []
+    },
+    {
+     "en": "1 quay",
+     "fr": "le quai",
+     "de": "der Kai",
+     "es": "el muelle",
+     "it": "la banchina",
+     "_pos": [
+      308,
+      602
+     ],
+     "_flags": [
+      "en:num:1"
+     ]
+    },
+    {
+     "en": "cargo",
+     "fr": "la cargaison",
+     "de": "die Fracht",
+     "es": "la carga",
+     "it": "il carico",
+     "_pos": [
+      444,
+      605
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ferry terminal",
+     "fr": "le term inal tie ferrys",
+     "de": "der Fährterminal",
+     "es": "la terminal del ferry",
+     "it": "il terminale dei traghetti",
+     "_pos": [
+      568,
+      606
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ferryboat",
+     "fr": "le ferry",
+     "de": "die Fähre",
+     "es": "el ferry",
+     "it": "il traghetto",
+     "_pos": [
+      774,
+      608
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ticket office",
+     "fr": "le guichet",
+     "de": "der Fahrkartenschalter",
+     "es": "la ventanilla de boletos",
+     "it": "bialietterin",
+     "_pos": [
+      605,
+      737
+     ],
+     "_flags": []
+    },
+    {
+     "en": "passenger",
+     "fr": "le passager",
+     "de": "der Passagier",
+     "es": "el pasajero",
+     "it": "il passeggero",
+     "_pos": [
+      788,
+      738
+     ],
+     "_flags": []
+    },
+    {
+     "en": "containerport",
+     "fr": "le port de conteneurs",
+     "de": "der Containerhafen",
+     "es": "el m uelle com ercial",
+     "it": "il porto per container",
+     "_pos": [
+      44,
+      1046
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "passenger port",
+     "fr": "le port de passagers",
+     "de": "der Passagier hafen",
+     "es": "el muelle de pasajeros",
+     "it": "il porto per passeggeri",
+     "_pos": [
+      548,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "»Al»»' «Ul IJ",
+   "pos": [
+    384,
+    485
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "vìi* '-V:",
+   "pos": [
+    88,
+    552
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 10,
+  "flagged": 7,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,505 @@
+{
+ "page": 117,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "jerusalem artichoke",
+     "fr": "topinambour",
+     "de": "Topinambur",
+     "es": "topinambur",
+     "it": "topinambur",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "rutabaga",
+     "fr": "rutabaga",
+     "de": "Kohlrübe",
+     "es": "nabo sueco",
+     "it": "rapa svedese",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "beet",
+     "fr": "betterave",
+     "de": "Rote Bete",
+     "es": "betabel",
+     "it": "barbabietola",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 12
+     }
+    },
+    {
+     "en": "sweet potato",
+     "fr": "patate douce",
+     "de": "Süßkartoffel",
+     "es": "camote",
+     "it": "patata dolce",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 13,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "yarn",
+     "fr": "igname",
+     "de": "Jamswurzel",
+     "es": "ñame",
+     "it": "igname",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 10,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "tomato",
+     "fr": "tomate",
+     "de": "Tomate",
+     "es": "jitomate",
+     "it": "pomodoro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "eggplant",
+     "fr": "aubergine",
+     "de": "Aubergine",
+     "es": "berenjena",
+     "it": "melanzana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "parsnip",
+     "fr": "panais",
+     "de": "Pastinake",
+     "es": "ch irivia",
+     "it": "pastinaca",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "ginger",
+     "fr": "gingembre",
+     "de": "Ingwer",
+     "es": "jengibre",
+     "it": "zenzero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "horseradish",
+     "fr": "raifort",
+     "de": "Meerrettich",
+     "es": "rábano picante",
+     "it": "rafano",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 11,
+      "es": 13,
+      "it": 6
+     }
+    },
+    {
+     "en": "clove",
+     "fr": "gousse",
+     "de": "Zehe",
+     "es": "diente",
+     "it": "spicchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "garlic",
+     "fr": "ail",
+     "de": "Knoblauch",
+     "es": "ajo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 9,
+      "es": 3
+     }
+    },
+    {
+     "en": "shallot",
+     "fr": "échalote",
+     "de": "Schalotte",
+     "es": "chalote",
+     "it": "scalogno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "leek",
+     "fr": "poireau",
+     "de": "Lauch",
+     "es": "puerro",
+     "it": "porro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "scallion",
+     "fr": "ciboule",
+     "de": "Frühlingszwiebel",
+     "es": "cebollin",
+     "it": "cipollina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 16,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "truffle",
+     "fr": "truffe",
+     "de": "Trüffel",
+     "es": "trufa",
+     "it": "tartufo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "mushroom",
+     "fr": "champignon",
+     "de": "Pilz",
+     "es": "d cham piñón",
+     "it": "fungo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 4,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "pumpkin",
+     "fr": "citrouille",
+     "de": "Kürbis",
+     "es": "calabaza",
+     "it": "zucca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 6,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "acom squash",
+     "fr": "courge gland",
+     "de": "Eichelkurbis",
+     "es": "calabaza bellota",
+     "it": "zucca a ghianda",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 12,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "butternut squash",
+     "fr": "courge musquée",
+     "de": "Butternusskurbis",
+     "es": "calabaza",
+     "it": "zucca",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 16,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "zucchini",
+     "fr": "courgette",
+     "de": "Zucchini",
+     "es": "calabacita",
+     "it": "zucchina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "cucumber",
+     "fr": "concombre",
+     "de": "Gurke",
+     "es": "pepino",
+     "it": "cetriolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 5,
+      "es": 6,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

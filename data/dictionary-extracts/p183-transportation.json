@@ -1,0 +1,563 @@
+{
+ "page": 183,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "disabled parking place",
+     "fr": "parking réservé aux personnes handicapées",
+     "de": "Behindertenparkplatz",
+     "es": "estacionamiento para m inusválidos",
+     "it": "pareheggio per disabili",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 37,
+      "de": 20,
+      "es": 31,
+      "it": 21
+     }
+    },
+    {
+     "en": "emergency phone",
+     "fr": "téléphone de secours",
+     "de": "Notrufsaule",
+     "es": "teléfono de emergencia",
+     "it": "telefono per emergenze",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 11,
+      "es": 20,
+      "it": 20
+     }
+    },
+    {
+     "en": "traffic jam",
+     "fr": "embouteillage",
+     "de": "Verkehrsstau",
+     "es": "tráfico",
+     "it": "ingorgo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 12,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "crosswalk",
+     "fr": "passage doute",
+     "de": "^Bgángerüberweg",
+     "es": "paso de peatones",
+     "it": "passaggio pedonale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 14,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "rotary",
+     "fr": "rond-point",
+     "de": "Kreisverkehr",
+     "es": "glorieta",
+     "it": "rotatoria",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 12,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "reverse (v)",
+     "fr": "taire marche arrière",
+     "de": "rückwärts fahren",
+     "es": "meter reversa",
+     "it": "fare marcia indietro",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 15,
+      "es": 12,
+      "it": 18
+     }
+    },
+    {
+     "en": "tow away (v)",
+     "fr": "remorquer",
+     "de": "abschleppen",
+     "es": "remolcar",
+     "it": "rimorchiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "map",
+     "fr": "carte",
+     "de": "Zie Landkarte",
+     "es": "mapa",
+     "it": "<2 mappa",
+     "_multi": [
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 12,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "detour",
+     "fr": "déviation",
+     "de": "Umleitung",
+     "es": "desviación",
+     "it": "deviazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "drive (v)",
+     "fr": "conduire",
+     "de": "fahren",
+     "es": "manejar",
+     "it": "guidare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "divided highway",
+     "fr": "route à quatre voies",
+     "de": "Schnellstraße",
+     "es": "autovía",
+     "it": "carreggiata doppia",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 14,
+      "es": 7,
+      "it": 17
+     }
+    },
+    {
+     "en": "Is this the road to...?",
+     "fr": "C e s i la route pour...?",
+     "de": "Ist dies die Straße nach...?",
+     "es": "Es ésta la carretera h acia...?",
+     "it": "E questa la strada p e r...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 15,
+      "fr": 15,
+      "de": 21,
+      "es": 22,
+      "it": 18
+     }
+    },
+    {
+     "en": "park (v)",
+     "fr": "garer",
+     "de": "parken",
+     "es": "estacionar",
+     "it": "parcheggiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "roadworks",
+     "fr": "travaux",
+     "de": "Straßenbaustelle",
+     "es": "obras",
+     "it": "lavori stradali",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 17,
+      "es": 5,
+      "it": 14
+     }
+    },
+    {
+     "en": "parking meter",
+     "fr": "parc-mètre",
+     "de": "Parkuhr",
+     "es": "parquím etro",
+     "it": "parchimetro",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 7,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "W here can 1 park?",
+     "fr": "O ù peut-on se garer?",
+     "de": "Wo kann ich parken?",
+     "es": "D ónde m e puedo estacionar?",
+     "it": "Dove posso parcheggiare7",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 15,
+      "es": 22,
+      "it": 22
+     }
+    },
+    {
+     "en": "pass (v)",
+     "fr": "doubler",
+     "de": "überholen",
+     "es": "rebasar",
+     "it": "sorpassare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "guardrail",
+     "fr": "glissière de sécurité",
+     "de": "Leitplanke",
+     "es": "muro de contención",
+     "it": "guardrail",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 19,
+      "de": 10,
+      "es": 16,
+      "it": 9
+     }
+    },
+    {
+     "en": "traffic",
+     "fr": "agent de la circularion",
+     "de": "Verkehrspolizist",
+     "es": "policía de tránsito",
+     "it": "vigile urbano",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 20,
+      "de": 16,
+      "es": 17,
+      "it": 12
+     }
+    }
+   ]
+  },
+  {
+   "slug": "cartelli-stradali",
+   "names": {
+    "en": "road signs",
+    "fr": "les panneaux routiers",
+    "de": "die verkehrsschilder",
+    "es": "las señales de tràqnsito",
+    "it": "i cartelli stradali"
+   },
+   "entries": [
+    {
+     "en": "no right tum",
+     "fr": "interdit de tourner à droite",
+     "de": "rechts abbiegen verboten",
+     "es": "no dar vuelta ala derecha",
+     "it": "svolta a destra vietata",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 24,
+      "de": 22,
+      "es": 21,
+      "it": 20
+     }
+    },
+    {
+     "en": "no stopping",
+     "fr": "arrêt interdit",
+     "de": "Halten verboten",
+     "es": "prohibido parar",
+     "it": "sosta vietata",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 14,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "hazard",
+     "fr": "danger",
+     "de": "Gefahr",
+     "es": "peligro",
+     "it": "pericolo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "speed limit",
+     "fr": "limitation de vitesse",
+     "de": "Geschwindigkeitsbegrenzung",
+     "es": "lim ite de velocidad",
+     "it": "limite di velocità",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 19,
+      "de": 26,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "no entry",
+     "fr": "sens interdit",
+     "de": "keine Einfahrt",
+     "es": "prohibido el paso",
+     "it": "ingresso vietato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 13,
+      "es": 15,
+      "it": 15
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

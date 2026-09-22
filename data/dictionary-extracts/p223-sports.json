@@ -1,0 +1,345 @@
+{
+ "page": 223,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "sport-da-combattimento",
+   "names": {
+    "en": "combat sports",
+    "fr": "les sports de combat",
+    "de": "der kampfsport",
+    "es": "los deportes de combate",
+    "it": "gli sport da combattimento"
+   },
+   "entries": [
+    {
+     "en": "opponent",
+     "fr": "adversaire",
+     "de": "Gegner",
+     "es": "adversario",
+     "it": "avversario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 6,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "guard",
+     "fr": "protège-téte",
+     "de": "Kopfschutz",
+     "es": "protector",
+     "it": "casco",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 10,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "karate",
+     "fr": "karaté",
+     "de": "Karate",
+     "es": "karate",
+     "it": "karate",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "glove",
+     "fr": "gam",
+     "de": "Handschuh",
+     "es": "guante",
+     "it": "guanto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "belt",
+     "fr": "ceinture",
+     "de": "Gürtel",
+     "es": "cinturón",
+     "it": "cintura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "tae kwon do",
+     "fr": "taekw ondo",
+     "de": "Taekwondo",
+     "es": "taekw ondo",
+     "it": "tae kwondo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "mask",
+     "fr": "masque",
+     "de": "Maske",
+     "es": "careta",
+     "it": "maschera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "ludo",
+     "fr": "judo",
+     "de": "Judo",
+     "es": "judo",
+     "it": "judo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "aikido",
+     "fr": "I aikid o",
+     "de": "Aikido",
+     "es": "aikido",
+     "it": "aikido",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": "kendo",
+   "names": {
+    "en": "kendo",
+    "fr": "le kendo",
+    "de": "das kendo",
+    "es": "el kendo",
+    "it": "il kendo"
+   },
+   "entries": [
+    {
+     "en": "kung fu",
+     "fr": "kung-fu",
+     "de": "Kung-Fu",
+     "es": "kung fu",
+     "it": "kung fu",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "kickboxing",
+     "fr": "hove thaïlandaise",
+     "de": "Kickboxen",
+     "es": "fu ll contact",
+     "it": "kickboxing",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 9,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "wrestling",
+     "fr": "Iurte",
+     "de": "Ringen",
+     "es": "lucha libre",
+     "it": "lotta greco-romana",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 6,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "boxing",
+     "fr": "boxe",
+     "de": "Boxen",
+     "es": "boxeo",
+     "it": "pugilato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

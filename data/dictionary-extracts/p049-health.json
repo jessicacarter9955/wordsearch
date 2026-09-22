@@ -1,0 +1,452 @@
+{
+ "page": 49,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "parto",
+   "names": {
+    "en": "childbirth",
+    "fr": "la naissance",
+    "de": "die Geburt",
+    "es": "el parto",
+    "it": "il parto"
+   },
+   "entries": [
+    {
+     "en": "midwife",
+     "fr": "sage-l em me",
+     "de": "Hebamme",
+     "es": "partera",
+     "it": "ostetrica",
+     "_multi": [
+      "fr"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "drip",
+     "fr": "perfusion",
+     "de": "Tropfinfusion",
+     "es": "suero",
+     "it": "gocciolature",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 13,
+      "es": 5,
+      "it": 12
+     }
+    },
+    {
+     "en": "monitor",
+     "fr": "moniteur",
+     "de": "Monitor",
+     "es": "monitor",
+     "it": "monitor",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "catheter",
+     "fr": "cathéter",
+     "de": "Katheter",
+     "es": "catéter",
+     "it": "catetere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "incubator",
+     "fr": "couveuse",
+     "de": "Brutkasten",
+     "es": "incubadora",
+     "it": "incubatrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "scales",
+     "fr": "pèse-bébé",
+     "de": "Waage",
+     "es": "báscula",
+     "it": "bilancia",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "birth weight",
+     "fr": "poids de naissance",
+     "de": "Geburtsgewicht",
+     "es": "peso al nacer",
+     "it": "peso alla nascita",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 14,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "suction cup",
+     "fr": "ventouse",
+     "de": "Saugglocke",
+     "es": "ventosa",
+     "it": "ventosa",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 10,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "nursing",
+     "fr": "allaitement",
+     "de": "Stillen",
+     "es": "lactancia",
+     "it": "allatta mento",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 7,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "nursing bra",
+     "fr": "soutien gorge d' allaitement",
+     "de": "Stillbüstenhalter",
+     "es": "brassiere para la lactancia",
+     "it": "reggiseno da allattamento",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 24,
+      "de": 17,
+      "es": 24,
+      "it": 23
+     }
+    },
+    {
+     "en": "breast pump",
+     "fr": "pompe à lait",
+     "de": "Brustpumpe",
+     "es": "tiraleches",
+     "it": "pompa da seno",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "assisted delivery",
+     "fr": "accouchement assisté",
+     "de": "assistierte Entbindung",
+     "es": "parto asistido",
+     "it": "parto assistito",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 19,
+      "de": 21,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "identity tag",
+     "fr": "bracelet d'identité",
+     "de": "Erkennungsetikett",
+     "es": "pulsera de identificación",
+     "it": "targhetta d'identità",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 17,
+      "de": 17,
+      "es": 23,
+      "it": 18
+     }
+    },
+    {
+     "en": "pads",
+     "fr": "coussinets",
+     "de": "Einlagen",
+     "es": "discos protectores",
+     "it": "coppe",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 8,
+      "es": 17,
+      "it": 5
+     }
+    },
+    {
+     "en": "breastfeed (v)",
+     "fr": "donner le sein",
+     "de": "stillen",
+     "es": "amamantar",
+     "it": "allattare al seno",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 7,
+      "es": 9,
+      "it": 15
+     }
+    },
+    {
+     "en": "newborn baby",
+     "fr": "nouveau-né",
+     "de": "Neugeborene",
+     "es": "recién nacido",
+     "it": "neonato",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 11,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "induce labour (v)",
+     "fr": "déclencher l'accouchement",
+     "de": "Geburt einleiten",
+     "es": "inducir el parto",
+     "it": "travaglio indotto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 23,
+      "de": 15,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "forceps",
+     "fr": "forceps",
+     "de": "Geburtszange",
+     "es": "fórceps",
+     "it": "forcipe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,727 @@
+{
+ "page": 155,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "unes",
+     "fr": "lignes",
+     "de": "dieLinien",
+     "es": "s lin e a s",
+     "it": "linee",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 9,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "curved",
+     "fr": "courbe",
+     "de": "gekrümmt",
+     "es": "curvo",
+     "it": "curvo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "perpendicular",
+     "fr": "perpendiculaire",
+     "de": "senkrecht",
+     "es": "perpendicular",
+     "it": "perpendicolare",
+     "_multi": [],
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 9,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "parallel",
+     "fr": "parallèle",
+     "de": "parallel",
+     "es": "paralelo",
+     "it": "parallelo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "straight",
+     "fr": "droit",
+     "de": "gerade",
+     "es": "recto",
+     "it": "dritto",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "measurements",
+     "fr": "Ic s m e s u re s",
+     "de": "Maße",
+     "es": "s m e d id a s",
+     "it": "misure",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 5,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "numerator",
+     "fr": "numérateur",
+     "de": "Zähler",
+     "es": "numerador",
+     "it": "numeratore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 6,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "width",
+     "fr": "largeur",
+     "de": "Breite",
+     "es": "anchura",
+     "it": "larghezza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "length",
+     "fr": "longueur",
+     "de": "Länge",
+     "es": "longitud",
+     "it": "lunghezza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "height",
+     "fr": "hauteur",
+     "de": "Höhe",
+     "es": "altura",
+     "it": "altezza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "denominator",
+     "fr": "dénominateur",
+     "de": "Nenner",
+     "es": "tl denominador",
+     "it": "denominatore",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 6,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "depth",
+     "fr": "l:i profondeur",
+     "de": "Tiefe",
+     "es": "profundidad",
+     "it": "profondità",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 12,
+      "de": 5,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "area",
+     "fr": "aire",
+     "de": "Fläche",
+     "es": "área",
+     "it": "superficie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 10
+     }
+    },
+    {
+     "en": "dimensions",
+     "fr": "dimensions",
+     "de": "Abmessungen",
+     "es": "dim ensiones",
+     "it": "dimensioni",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "fraction",
+     "fr": "traction",
+     "de": "Bruch",
+     "es": "fracción",
+     "it": "frazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "volume",
+     "fr": "volume",
+     "de": "Volumen",
+     "es": "volumen",
+     "it": "volume",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "equipment",
+     "fr": "l 'équipe ment",
+     "de": "Ausrüstung",
+     "es": "materia les",
+     "it": "attrezzatura",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "los",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "calculator",
+     "fr": "calculatrice",
+     "de": "Taschenrechner",
+     "es": "calculadora",
+     "it": "calcolatrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 14,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "compass",
+     "fr": "compas",
+     "de": "Zirkel",
+     "es": "compás",
+     "it": "compasso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "protractor",
+     "fr": "rapporteur",
+     "de": "Winkelmesser",
+     "es": "transportador",
+     "it": "goniometro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 12,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "ruler",
+     "fr": "règle",
+     "de": "Lineal",
+     "es": "regla",
+     "it": "righello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "set square",
+     "fr": "équerre",
+     "de": "Zeichendreieck",
+     "es": "escuadra",
+     "it": "squadra",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 14,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "equation",
+     "fr": "équation",
+     "de": "Gleichung",
+     "es": "ecuación",
+     "it": "equazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "add (v)",
+     "fr": "additionner",
+     "de": "addieren",
+     "es": "sumar",
+     "it": "sommare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 11,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "multiply (v)",
+     "fr": "multiplier",
+     "de": "multiplizieren",
+     "es": "multiplicar",
+     "it": "moltiplicare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 14,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "times",
+     "fr": "fois",
+     "de": "mal",
+     "es": "m ultiplicado por",
+     "it": "moltipllcato per",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 3,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "equals",
+     "fr": "égalc nt",
+     "de": "gleich",
+     "es": "igual a",
+     "it": "uguale",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "plus",
+     "fr": "plus",
+     "de": "plus",
+     "es": "mas",
+     "it": "più",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "geometry",
+     "fr": "géométrie",
+     "de": "Geometrie",
+     "es": "geometría",
+     "it": "geometria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "percentage",
+     "fr": "pourcentage",
+     "de": "Prozentsatz",
+     "es": "porcentaje",
+     "it": "percentuale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "divide (v)",
+     "fr": "diviser",
+     "de": "dividieren",
+     "es": "dividir",
+     "it": "dividere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "subtract (v)",
+     "fr": "soustraire",
+     "de": "subtrahieren",
+     "es": "restar",
+     "it": "sottrarre",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 12,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "divided by",
+     "fr": "divise par",
+     "de": "geteilt durch",
+     "es": "dividido entre",
+     "it": "diviso per",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 12,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "count (v)",
+     "fr": "compter",
+     "de": "zählen",
+     "es": "contar",
+     "it": "contare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "minus",
+     "fr": "moins",
+     "de": "minus",
+     "es": "menos",
+     "it": "meno",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "arithmetic",
+     "fr": "arithmétique",
+     "de": "Arithmetik",
+     "es": "aritmética",
+     "it": "aritmetica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

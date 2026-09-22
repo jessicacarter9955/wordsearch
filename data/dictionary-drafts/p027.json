@@ -1,0 +1,296 @@
+{
+ "page": 27,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • I.*APPARENCE • DIE ÄUSSERE ERSCHEINUNG • l.A APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "children's clothing • les vêtements d'enfants • die Kinderkleidung • la ropa de niño • gli abiti da bambino",
+   "parts": [
+    "children's clothing",
+    "les vêtements d'enfants",
+    "die kinderkleidung",
+    "la ropa de niño",
+    "gli abiti da bambino"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "baby • le bébé • das Baby • el bebé • ¡I bimbo",
+   "parts": [
+    "baby",
+    "le bébé",
+    "das baby",
+    "el bebé",
+    "i bimbo"
+   ],
+   "entries": [
+    {
+     "en": "snowsuiT",
+     "fr": "la combinaison de neige",
+     "de": "der Schneeanzug",
+     "es": "el traje de invierno",
+     "it": "la tutina da neve",
+     "_pos": [
+      616,
+      232
+     ],
+     "_flags": []
+    },
+    {
+     "en": "undershirt",
+     "fr": "le tri corde corps",
+     "de": "das Hemdchen",
+     "es": "la camiseta",
+     "it": "la canottiera",
+     "_pos": [
+      248,
+      315
+     ],
+     "_flags": []
+    },
+    {
+     "en": "snap",
+     "fr": "le bouton-pression",
+     "de": "der Druckknopf",
+     "es": "el botón",
+     "it": "il bottone automatico",
+     "_pos": [
+      53,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "onesize",
+     "fr": "la grenouillère",
+     "de": "der Strampelanzug",
+     "es": "el mameluco",
+     "it": "la tutina",
+     "_pos": [
+      222,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sleeper",
+     "fr": "le pyjama",
+     "de": "der Schlafanzug",
+     "es": "el mameluco",
+     "it": "il pigiammo",
+     "_pos": [
+      393,
+      412
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rom per suit",
+     "fr": "la combinaison-short",
+     "de": "der Spielanzug",
+     "es": "el mameluco sin pies",
+     "it": "la tutina senza maniche",
+     "_pos": [
+      548,
+      413
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bib",
+     "fr": "le bavoir",
+     "de": "das Lätzchen",
+     "es": "el babero",
+     "it": "il bavaglino",
+     "_pos": [
+      743,
+      413
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mittens",
+     "fr": "les moufles",
+     "de": "die Babyhandschuhe",
+     "es": "los guantes",
+     "it": "i guanti",
+     "_pos": [
+      52,
+      606
+     ],
+     "_flags": []
+    },
+    {
+     "en": "booties",
+     "fr": "les chaussons",
+     "de": "die Babyschuhe",
+     "es": "las botas",
+     "it": "le scarpette",
+     "_pos": [
+      222,
+      607
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cloth diaper",
+     "fr": "la couche éponge",
+     "de": "die Stoffwindel",
+     "es": "el pañal de felpa",
+     "it": "il pannolino di spugna",
+     "_pos": [
+      392,
+      608
+     ],
+     "_flags": []
+    },
+    {
+     "en": "disposable diaper",
+     "fr": "la couche jetable",
+     "de": "die Wegwerfwindel",
+     "es": "el pañal desechable",
+     "it": "il pannolino usa e getta",
+     "_pos": [
+      562,
+      608
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plastic underpants",
+     "fr": "la culotte en plastique",
+     "de": "das Gummihöschen",
+     "es": "el calzón de plástico",
+     "it": "le mutande di plastica",
+     "_pos": [
+      730,
+      609
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "toddler • le petit enfant • das Kleinkind • el niño pequeño • il bambino piccolo",
+   "parts": [
+    "toddler",
+    "le petit enfant",
+    "das kleinkind",
+    "el niño pequeño",
+    "il bambino piccolo"
+   ],
+   "entries": [
+    {
+     "en": "shirt",
+     "fr": "le t-shirt",
+     "de": "das T-Shirt",
+     "es": "la playera",
+     "it": "la maglietta",
+     "_pos": [
+      656,
+      713
+     ],
+     "_flags": []
+    },
+    {
+     "en": "overalls",
+     "fr": "la salopette",
+     "de": "die Latzhose",
+     "es": "los panatalones",
+     "it": "con peto la salopette",
+     "_pos": [
+      362,
+      753
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "overalls",
+       "fr": "la salopette",
+       "de": "die Latzhose",
+       "es": "los panatalones con peto",
+       "it": "la salopette"
+      }
+     ]
+    },
+    {
+     "en": "sun bonnet",
+     "fr": "le chapeau de soleil",
+     "de": "der Sonnenhut",
+     "es": "el gorro para el sol",
+     "it": "il cappello per il sole",
+     "_pos": [
+      52,
+      835
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skirt",
+     "fr": "la jupe",
+     "de": "der Rock",
+     "es": "la falda",
+     "it": "la gonna",
+     "_pos": [
+      598,
+      969
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shorts",
+     "fr": "le bermuda",
+     "de": "die Shorts",
+     "es": "los shorts",
+     "it": "i pantaloncini",
+     "_pos": [
+      362,
+      969
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apron",
+     "fr": "le tablier",
+     "de": "die Schürze",
+     "es": "el delantal",
+     "it": "il grembiulino",
+     "_pos": [
+      52,
+      1016
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "+",
+   "pos": [
+    192,
+    315
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 3,
+  "flagged": 15,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 3
+ }
+}

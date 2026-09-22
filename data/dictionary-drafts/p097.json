@@ -1,0 +1,346 @@
+{
+ "page": 97,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • LES C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "shopping mall • le centre commercial • das Einkaufszentrum • el centro comercial • il centro com m erciale",
+   "parts": [
+    "shopping mall",
+    "le centre commercial",
+    "das einkaufszentrum",
+    "el centro comercial",
+    "il centro commerciale"
+   ],
+   "entries": [
+    {
+     "en": "atrium",
+     "fr": "l'atrium",
+     "de": "das Atrium",
+     "es": "el atrio",
+     "it": "l'atrio",
+     "_pos": [
+      44,
+      163
+     ],
+     "_flags": []
+    },
+    {
+     "en": "third floor",
+     "fr": "le deuxième étage",
+     "de": "die zweite Etage",
+     "es": "el segundo piso",
+     "it": "il secondo piano",
+     "_pos": [
+      760,
+      167
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sign",
+     "fr": "Penseignc",
+     "de": "das Schild",
+     "es": "el letrero",
+     "it": "l'insegna",
+     "_pos": [
+      44,
+      295
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "second floor",
+     "fr": "le premier étage",
+     "de": "die erste Etage",
+     "es": "el primer piso",
+     "it": "il primo piano",
+     "_pos": [
+      758,
+      298
+     ],
+     "_flags": []
+    },
+    {
+     "en": "escalator",
+     "fr": "l'escalier mécanique",
+     "de": "die Rolltreppe",
+     "es": "la escalera eléctrica",
+     "it": "la scala mobile",
+     "_pos": [
+      758,
+      415
+     ],
+     "_flags": []
+    },
+    {
+     "en": "»",
+     "_pos": [
+      560,
+      427
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:weird:»"
+     ]
+    },
+    {
+     "en": "elevator",
+     "fr": "l'ascenseur",
+     "de": "der Fahrstuhl",
+     "es": "el elevador",
+     "it": "l'ascensore",
+     "_pos": [
+      44,
+      461
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ground floor",
+     "fr": "le rez-de-chaussée",
+     "de": "das Erdgeschoss",
+     "es": "la planta haja",
+     "it": "il piano terra",
+     "_pos": [
+      757,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customer",
+     "fr": "le client",
+     "de": "der Kunde",
+     "es": "el diente",
+     "it": "I diente",
+     "_pos": [
+      757,
+      646
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "childrens department",
+     "fr": "le rayon enfants",
+     "de": "die Kinderabteilung",
+     "es": "el departamento de niños",
+     "it": "il reparto bambini",
+     "_pos": [
+      58,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "store directory",
+     "fr": "le guide",
+     "de": "die Anzeigetafel",
+     "es": "el directorio",
+     "it": "la guida al negozio",
+     "_pos": [
+      276,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fitting rooms",
+     "fr": "les cabines d'essayage",
+     "de": "die Anprobe",
+     "es": "los probadores",
+     "it": "i camerini",
+     "_pos": [
+      416,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "H ow much is this?",
+     "fr": "C 'est combien?",
+     "de": "Was kostet das?",
+     "es": "C uanto cuesta esto?",
+     "it": "Quanto costa questo?",
+     "_pos": [
+      670,
+      794
+     ],
+     "_flags": [
+      "en:short:H",
+      "en:weird:this?",
+      "en:case",
+      "fr:short:C",
+      "fr:weird:combien?",
+      "fr:case",
+      "de:weird:das?",
+      "es:short:C",
+      "es:weird:esto?",
+      "es:case",
+      "it:weird:questo?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "luggage department",
+     "fr": "le rayon bagages",
+     "de": "die Gepackabteilung",
+     "es": "el departamento de equipajes",
+     "it": "il reparto bagagli",
+     "_pos": [
+      57,
+      891
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sales clerk",
+     "fr": "le vendeur",
+     "de": "der Verkäufer",
+     "es": "el vendedor",
+     "it": "il commesso",
+     "_pos": [
+      276,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baby changing room",
+     "fr": "les soins de bébés",
+     "de": "der Wickelraum",
+     "es": "el cuarto para cambiar a los bebés",
+     "it": "la stanza di cambio pannolini",
+     "_pos": [
+      415,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "May 1 exchange this?",
+     "fr": "list-ce que je peux changer ça?",
+     "de": "Kann ich das Umtauschen?",
+     "es": "Puedo cam biar esto?",
+     "it": "Posso cambiare questo?",
+     "_pos": [
+      670,
+      894
+     ],
+     "_flags": [
+      "en:num:1",
+      "en:weird:this?",
+      "en:case",
+      "fr:weird:ça?",
+      "de:weird:Umtauschen?",
+      "es:weird:esto?",
+      "es:case",
+      "it:weird:questo?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "shoe department",
+     "fr": "le rayon chaussures",
+     "de": "die Schuhabteilung",
+     "es": "el departamento de zapatería",
+     "it": "il reparto calzature",
+     "_pos": [
+      57,
+      990
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rest room",
+     "fr": "les toilettes",
+     "de": "die Toiletten",
+     "es": "los baños",
+     "it": "le toilettes",
+     "_pos": [
+      276,
+      992
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customer services",
+     "fr": "le service après-vente",
+     "de": "der Kundendienst",
+     "es": "el servicio al cliente",
+     "it": "l'assistenza ai clienti",
+     "_pos": [
+      415,
+      993
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "M",
+   "pos": [
+    480,
+    441
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "i",
+   "pos": [
+    520,
+    441
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "á £ ¡",
+   "pos": [
+    596,
+    463
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "1",
+   "pos": [
+    540,
+    468
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "«0",
+   "pos": [
+    559,
+    468
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 14,
+  "flagged": 6,
+  "missing_lang": 1,
+  "leftovers": 5,
+  "subcats": 1
+ }
+}

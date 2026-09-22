@@ -1,0 +1,379 @@
+{
+ "page": 88,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES • I F S S E R V IC E S • DIE DIENSTLEISTUNGEN • L O S S E R V IC IO S • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "em ergency services • les services d'urgence • die Notdienste • los servicios de emergencia • ¡ servizi di emergenza",
+   "parts": [
+    "emergency services",
+    "les services d'urgence",
+    "die notdienste",
+    "los servicios de emergencia",
+    "servizi di emergenza"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "ambulance • l'ambulance • der Krankenwagen • la am bulancia • l'ambulanza",
+   "parts": [
+    "ambulance",
+    "l'ambulance",
+    "der krankenwagen",
+    "la ambulancia",
+    "l'ambulanza"
+   ],
+   "entries": [
+    {
+     "en": "stretcher",
+     "fr": "Ic brancard",
+     "de": "die Tragbahre",
+     "es": "la camilla",
+     "it": "la barella",
+     "_pos": [
+      786,
+      265
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "ambulance",
+     "fr": "l'ambulance",
+     "de": "der Krankenwagen",
+     "es": "la ambulancia",
+     "it": "l'ambulanza",
+     "_pos": [
+      54,
+      383
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paramedic",
+     "fr": "l'infirmier du S A M U",
+     "de": "der Rettungssanitäter",
+     "es": "el param èdico",
+     "it": "il paramedico",
+     "_pos": [
+      569,
+      384
+     ],
+     "_flags": [
+      "fr:short:S",
+      "fr:short:M",
+      "fr:short:U"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "police • la police • die Polizei • la policía • la polizia",
+   "parts": [
+    "police",
+    "la police",
+    "die polizei",
+    "la policía",
+    "la polizia"
+   ],
+   "entries": [
+    {
+     "en": "lights",
+     "fr": "les feux",
+     "de": "das Licht",
+     "es": "las luces",
+     "it": "le luci",
+     "_pos": [
+      578,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "en": "badge",
+     "fr": "le badge",
+     "de": "die Kennmarke",
+     "es": "la placa",
+     "it": "il",
+     "_pos": [
+      54,
+      481
+     ],
+     "_flags": []
+    },
+    {
+     "en": "uniform",
+     "fr": "l'uniforme",
+     "de": "die Uniform",
+     "es": "el uniforme",
+     "it": "l'uniforme",
+     "_pos": [
+      254,
+      481
+     ],
+     "_flags": []
+    },
+    {
+     "en": "siren",
+     "fr": "la sirène",
+     "de": "die Sirene",
+     "es": "la sirena",
+     "it": "la sirena",
+     "_pos": [
+      376,
+      482
+     ],
+     "_flags": []
+    },
+    {
+     "en": "police station",
+     "fr": "le poste de police",
+     "de": "die Polizeiwache",
+     "es": "la estación de policía",
+     "it": "la stazione di polizia",
+     "_pos": [
+      698,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "police car",
+     "fr": "la voiture de police",
+     "de": "das Polizeiauto",
+     "es": "la patrulla",
+     "it": "l'auto della polizia",
+     "_pos": [
+      398,
+      714
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nightstick",
+     "fr": "la matraque",
+     "de": "der Gummiknüppel",
+     "es": "la macana",
+     "it": "il manganello",
+     "_pos": [
+      286,
+      730
+     ],
+     "_flags": []
+    },
+    {
+     "en": "captain",
+     "fr": "l'inspecteur",
+     "de": "der Inspektor",
+     "es": "el inspector",
+     "it": "il commissario",
+     "_pos": [
+      412,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "burglary",
+     "fr": "le cambriolage",
+     "de": "der Einbruchdiebstahl",
+     "es": "el robo",
+     "it": "il furto",
+     "_pos": [
+      535,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "complaint",
+     "fr": "la piaim e",
+     "de": "die Beschwerde",
+     "es": "la denuncia",
+     "it": "la denuncia",
+     "_pos": [
+      667,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arrest",
+     "fr": "l'arrestation",
+     "de": "die Festnahme",
+     "es": "el arresto",
+     "it": "l'arresto",
+     "_pos": [
+      784,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gun",
+     "fr": "le pistolet",
+     "de": "die Pistole",
+     "es": "la pistola",
+     "it": "la pistola",
+     "_pos": [
+      54,
+      828
+     ],
+     "_flags": []
+    },
+    {
+     "en": "detective",
+     "fr": "l'officier de police",
+     "de": "der Kriminalbeamte",
+     "es": "el detective",
+     "it": "l'investigatore",
+     "_pos": [
+      412,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "assault",
+     "fr": "l'agression",
+     "de": "die Körperverletzung",
+     "es": "la agresión",
+     "it": "l'aggressione",
+     "_pos": [
+      535,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "investigation",
+     "fr": "l'enquête",
+     "de": "die Ermittlung",
+     "es": "la investigación",
+     "it": "l'indagine",
+     "_pos": [
+      668,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lockup",
+     "fr": "la cellule",
+     "de": "die Polizeizelie",
+     "es": "la celda",
+     "it": "la cella",
+     "_pos": [
+      784,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handcuffs",
+     "fr": "les menottes",
+     "de": "die Handschellen",
+     "es": "las esposas",
+     "it": "le manette",
+     "_pos": [
+      274,
+      962
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crime",
+     "fr": "le crime",
+     "de": "das Verbrechen",
+     "es": "el crimen",
+     "it": "l reato",
+     "_pos": [
+      412,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fingerprint",
+     "fr": "les empreintes",
+     "de": "der Fingerabdruck",
+     "es": "la huella digital",
+     "it": "l'impronta digitale",
+     "_pos": [
+      535,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suspect",
+     "fr": "le suspect",
+     "de": "der Verdächtige",
+     "es": "el sospechoso",
+     "it": "il sospetto",
+     "_pos": [
+      667,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "charge",
+     "fr": "l'accusation",
+     "de": "die Anklage",
+     "es": "el cargo",
+     "it": "l'accusa",
+     "_pos": [
+      784,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "police officer",
+     "fr": "le policier",
+     "it": "l'agente",
+     "_pos": [
+      54,
+      1060
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "de": "der Polizist",
+     "es": "el policía",
+     "_pos": [
+      227,
+      1061
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:it"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 16,
+  "flagged": 10,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

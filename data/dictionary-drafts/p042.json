@@ -1,0 +1,370 @@
+{
+ "page": 42,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H E A LT H • I.A SANTÉ • DIE GESUNDHEIT • L A S A L U D • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "injury • la blessure • die Verletzung • la lesión • la ferita",
+   "parts": [
+    "injury",
+    "la blessure",
+    "die verletzung",
+    "la lesión",
+    "la ferita"
+   ],
+   "entries": [
+    {
+     "en": "neck brace",
+     "fr": "la m inerve",
+     "de": "die Halskrawatte",
+     "es": "el collarín",
+     "it": "il collare",
+     "_pos": [
+      634,
+      119
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "sling",
+     "fr": "l'écharpe",
+     "de": "die Schlinge",
+     "es": "el cabestrillo",
+     "it": "la fascia a",
+     "_pos": [
+      404,
+      121
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whiplash",
+     "fr": "le coup du lapin",
+     "de": "das Schleudertrauma",
+     "es": "el tirón en el cuello",
+     "it": "il colpo di frusta",
+     "_pos": [
+      694,
+      299
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fracture",
+     "fr": "la fracture",
+     "de": "die Fraktur",
+     "es": "la fractura",
+     "it": "la frattura",
+     "_pos": [
+      482,
+      300
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sprain",
+     "fr": "l'entorse",
+     "de": "die Verstauchung",
+     "es": "la torcedura",
+     "it": "la slogatura",
+     "_pos": [
+      58,
+      333
+     ],
+     "_flags": []
+    },
+    {
+     "en": "splinter",
+     "fr": "l'écharde",
+     "de": "der Splitter",
+     "es": "la astilla",
+     "it": "la scheggia",
+     "_pos": [
+      696,
+      494
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bruise",
+     "fr": "la contusion",
+     "de": "die Prellung",
+     "es": "el moretón",
+     "it": "il livido",
+     "_pos": [
+      484,
+      496
+     ],
+     "_flags": []
+    },
+    {
+     "en": "graze",
+     "fr": "l'écorchure",
+     "de": "die Abschürfung",
+     "es": "la raspada",
+     "it": "la sbucciatura",
+     "_pos": [
+      272,
+      496
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cut",
+     "fr": "la coupure",
+     "de": "der Schnitt",
+     "es": "la cortada",
+     "it": "il taglio",
+     "_pos": [
+      60,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sting",
+     "fr": "la piqûre",
+     "de": "der Stich",
+     "es": "la picadura",
+     "it": "la puntura",
+     "_pos": [
+      697,
+      690
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bum",
+     "fr": "la brûlure",
+     "de": "die Brandwunde",
+     "es": "la quemadura",
+     "it": "l'ustione",
+     "_pos": [
+      273,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sunburn",
+     "fr": "le coup de soleil",
+     "de": "der Sonnenbrand",
+     "es": "la ardida",
+     "it": "la scottatura",
+     "_pos": [
+      62,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bite",
+     "fr": "la morsure",
+     "de": "der Biss",
+     "es": "el mordisco",
+     "it": "il morso",
+     "_pos": [
+      485,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W ill he/she be all right?",
+     "fr": "Est-ce qu'íl/c lk va se rem ettre?",
+     "de": "Wird er/sie es gut überstehen?",
+     "es": "cSe pondrá bien!'",
+     "it": "Si rimetterà?",
+     "_pos": [
+      530,
+      790
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:he/she",
+      "en:weird:right?",
+      "en:case",
+      "fr:weird:qu'íl/c",
+      "fr:weird:ettre?",
+      "fr:case",
+      "de:weird:er/sie",
+      "de:weird:überstehen?",
+      "es:weird:bien!'",
+      "it:weird:rimetterà?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "concussion",
+     "fr": "la commotion cérébrale",
+     "de": "die Gehirnerschütterung",
+     "es": "la conmoción",
+     "it": "la commozione",
+     "_pos": [
+      336,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hemorrhage",
+     "fr": "l'hémorragie",
+     "de": "die Blutung",
+     "es": "la hemorragia",
+     "it": "l'emorragia",
+     "_pos": [
+      184,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "accident",
+     "fr": "l'accident",
+     "de": "der Unfall",
+     "es": "el accidente",
+     "it": "l'incidente",
+     "_pos": [
+      77,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "head injury",
+     "fr": "traumatisme crânien",
+     "de": "die Kopfverletzung",
+     "es": "la lesión en la cabeza",
+     "it": "la ferita alla testa",
+     "_pos": [
+      336,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Please call an ambulance",
+     "fr": "Appelez une am bulance s'il vous p lait",
+     "de": "Rufen Sie bitte einen Krankenwagen",
+     "es": "Por favor llam e a una ambulancia",
+     "it": "Chiami un'ambulanza, per favore",
+     "_pos": [
+      531,
+      888
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:p",
+      "fr:case",
+      "es:case",
+      "it:weird:un'ambulanza,",
+      "it:case"
+     ]
+    },
+    {
+     "en": "blister",
+     "fr": "l'ampoule",
+     "de": "die Blase",
+     "es": "la ampolla",
+     "it": "la vescica",
+     "_pos": [
+      186,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "emergency",
+     "fr": "l'urgence",
+     "de": "der Notfall",
+     "es": "la emergencia",
+     "it": "l'emergenza",
+     "_pos": [
+      78,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W here does it hurt?",
+     "fr": "O ù avez-vous mal?",
+     "de": "Wo haben Sie Schmerzen?",
+     "es": "D ónde le duele?",
+     "it": "Dove le fa male?",
+     "_pos": [
+      532,
+      986
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:hurt?",
+      "en:case",
+      "fr:short:ù",
+      "fr:weird:mal?",
+      "fr:case",
+      "de:weird:Schmerzen?",
+      "es:weird:duele?",
+      "es:case",
+      "it:weird:male?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "eleetne shock",
+     "fr": "le choc électrique",
+     "de": "der elektrische Schlag",
+     "es": "el shock eléctrico",
+     "it": "la scossa elettrica",
+     "_pos": [
+      337,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "poisoning",
+     "fr": "l'empoisonnement",
+     "de": "die Vergiftung",
+     "es": "el envenenamiento",
+     "it": "l'avvelenamento",
+     "_pos": [
+      186,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wound",
+     "fr": "la blessure",
+     "de": "die Wunde",
+     "es": "la herida",
+     "it": "la ferita",
+     "_pos": [
+      78,
+      988
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 7,
+  "flagged": 18,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

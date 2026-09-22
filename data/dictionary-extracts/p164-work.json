@@ -1,0 +1,577 @@
+{
+ "page": 164,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "affari",
+   "names": {
+    "en": "business",
+    "fr": "les affaires",
+    "de": "das geschäft",
+    "es": "los negocios",
+    "it": "gli affari"
+   },
+   "entries": [
+    {
+     "en": "businesswoman",
+     "fr": "temine d'affaires",
+     "de": "Geschäftsfrau",
+     "es": "mujer de negocios",
+     "it": "donna rii affari",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 13,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "businessman",
+     "fr": "homme d' affaires",
+     "de": "Geschäftsmann",
+     "es": "hombre de negocios",
+     "it": "l ' i i f i mnH i a f f a i",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 13,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "notes",
+     "fr": "notes",
+     "de": "Notizen",
+     "es": "notas",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 5
+     }
+    },
+    {
+     "en": "laptop",
+     "fr": "portable",
+     "de": "Laptop",
+     "es": "laptop",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 6
+     }
+    },
+    {
+     "en": "business trip",
+     "fr": "voyage d' affaires",
+     "de": "Geschäftsreise",
+     "es": "viaje de negocios",
+     "it": "viaggio di affari",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 14,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "business lunch",
+     "fr": "déjeuner d'affaires",
+     "de": "Arbeitsessen",
+     "es": "com ida de negocios",
+     "it": "pranzo di affari",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 12,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "appointment",
+     "fr": "rendez-vous",
+     "de": "Termin",
+     "es": "cita",
+     "it": "appuntamento",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 6,
+      "es": 4,
+      "it": 12
+     }
+    },
+    {
+     "en": "managing director",
+     "fr": "direcreur gênerai",
+     "de": "Generaldirektor",
+     "es": "director general",
+     "it": "amministratore delegato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 16,
+      "de": 15,
+      "es": 15,
+      "it": 22
+     }
+    },
+    {
+     "en": "palmtop computer",
+     "fr": "ordinateur de poche",
+     "de": "Palmtop",
+     "es": "palm top",
+     "it": "palmtop",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "business deal",
+     "fr": "contrat",
+     "de": "Geschäftsabkommen",
+     "es": "trato",
+     "it": "accordo di affari",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 17,
+      "es": 5,
+      "it": 15
+     }
+    },
+    {
+     "en": "date book",
+     "fr": "agenda",
+     "de": "Terminkalender",
+     "es": "agenda",
+     "it": "agenda",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 14,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "legal department",
+     "fr": "service du contentieux",
+     "de": "Rechtsabteilung",
+     "es": "departamento legal",
+     "it": "ufficio legale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 20,
+      "de": 15,
+      "es": 17,
+      "it": 13
+     }
+    },
+    {
+     "en": "accounting department",
+     "fr": "comptabilité",
+     "de": "Buchhaltung",
+     "es": "departamento de contabilidad",
+     "it": "ufficio contabilità",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 12,
+      "de": 11,
+      "es": 26,
+      "it": 18
+     }
+    },
+    {
+     "en": "staff",
+     "fr": "personnel",
+     "de": "Personal",
+     "es": "personal",
+     "it": "personale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "company",
+     "fr": "société",
+     "de": "Firma",
+     "es": "empresa",
+     "it": "società",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "customer service department",
+     "fr": "service apres-vente",
+     "de": "Kundendienstabteilung",
+     "es": "departamento de atención al cliente",
+     "it": "ufficio di assistenza al cliente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 25,
+      "fr": 17,
+      "de": 21,
+      "es": 31,
+      "it": 28
+     }
+    },
+    {
+     "en": "marketing department",
+     "fr": "service marketing",
+     "de": "Marketingabteilung",
+     "es": "departamento de m árketing",
+     "it": "ufficio marketing",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 16,
+      "de": 18,
+      "es": 23,
+      "it": 16
+     }
+    },
+    {
+     "en": "payroll",
+     "fr": "livre de paie",
+     "de": "Lohnliste",
+     "es": "nómina",
+     "it": "libro paga",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "head office",
+     "fr": "siège social",
+     "de": "Zentrale",
+     "es": "oficina central",
+     "it": "sede",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 8,
+      "es": 14,
+      "it": 4
+     }
+    },
+    {
+     "en": "human resources department",
+     "fr": "service de ressources humaines",
+     "de": "Personalabteilung",
+     "es": "departamento de recursos humanos",
+     "it": "ufficio del personale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 24,
+      "fr": 27,
+      "de": 17,
+      "es": 29,
+      "it": 19
+     }
+    },
+    {
+     "en": "sales department",
+     "fr": "service des ventes",
+     "de": "Verkaufsabteilung",
+     "es": "departamento de venias",
+     "it": "ufficio vendite",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 16,
+      "de": 17,
+      "es": 20,
+      "it": 14
+     }
+    },
+    {
+     "en": "salary",
+     "fr": "salaire",
+     "de": "Gehalt",
+     "es": "sueldo",
+     "it": "stipendio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "branch",
+     "fr": "succursale",
+     "de": "Zweigstelle",
+     "es": "sucursal",
+     "it": "succursale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 11,
+      "es": 8,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

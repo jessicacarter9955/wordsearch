@@ -1,0 +1,220 @@
+{
+ "page": 130,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "breads and flours • les pains et la farine • das Brot und das Mehl • el pan y las harinas • il pane e le farine",
+   "parts": [
+    "breads and flours",
+    "les pains et la farine",
+    "das brot und das mehl",
+    "el pan y las harinas",
+    "il pane e le farine"
+   ],
+   "entries": [
+    {
+     "en": "sliced bread",
+     "fr": "le pain tranché",
+     "de": "das Scheibenbrot",
+     "es": "el pan de caja",
+     "it": "il oane affettato",
+     "_pos": [
+      56,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "poppy seeds",
+     "fr": "les graines de pavot",
+     "de": "der Mohn",
+     "es": "las sem illas de amapola",
+     "it": "i semi di papavero",
+     "_pos": [
+      216,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "French bread",
+     "fr": "la baguette",
+     "de": "das Baguette",
+     "es": "la baguette",
+     "it": "il filone",
+     "_pos": [
+      738,
+      168
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "r",
+     "fr": "pain de seigle",
+     "de": "das Roggenbrot",
+     "es": "el pan de centeno",
+     "it": "il pane di segale",
+     "_pos": [
+      527,
+      170
+     ],
+     "_flags": [
+      "en:short:r"
+     ]
+    },
+    {
+     "en": "bakery",
+     "fr": "la boulangerie",
+     "de": "die Bäckerei",
+     "es": "la panadería",
+     "it": "il panificio",
+     "_pos": [
+      56,
+      626
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "making bread • faire du pain • Brot backen • haciendo pan • fare il pane",
+   "parts": [
+    "making bread",
+    "faire du pain",
+    "brot backen",
+    "haciendo pan",
+    "fare il pane"
+   ],
+   "entries": [
+    {
+     "en": "white flour",
+     "fr": "la farine blanche",
+     "de": "das Weizenmehl",
+     "es": "la harina blanca",
+     "it": "la farina bianca",
+     "_pos": [
+      56,
+      823
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whole-wheat flour",
+     "fr": "la farine complète",
+     "de": "das Roggenmehl",
+     "es": "la harina morena",
+     "it": "la farina integrale",
+     "_pos": [
+      268,
+      823
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stone-ground flour",
+     "fr": "la farine brute",
+     "de": "das Vollkornmehl",
+     "es": "la harina integral",
+     "it": "la farina integrale",
+     "_pos": [
+      482,
+      824
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yeast",
+     "fr": "la levure",
+     "de": "die Hefe",
+     "es": "la levadura",
+     "it": "illi evito",
+     "_pos": [
+      695,
+      825
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dough",
+     "fr": "la paré",
+     "de": "der Teig",
+     "es": "la masa",
+     "it": "la pasta",
+     "_pos": [
+      440,
+      939
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sift (v)",
+     "fr": "tamiser",
+     "de": "sieben",
+     "es": "cernir",
+     "it": "setacciare",
+     "_pos": [
+      56,
+      1053
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mix (v)",
+     "fr": "mélanger",
+     "de": "verrühren",
+     "es": "mezclar",
+     "it": "mescolare",
+     "_pos": [
+      269,
+      1055
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knead (v)",
+     "fr": "pétrir",
+     "de": "kneten",
+     "es": "amasar",
+     "it": "impastare",
+     "_pos": [
+      482,
+      1055
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bake (v)",
+     "fr": "faire cuir au four",
+     "de": "backen",
+     "es": "hornear",
+     "it": "cuocere al forno",
+     "_pos": [
+      666,
+      1055
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 14,
+  "complete_clean": 3,
+  "flagged": 11,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "page": 233,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "sci",
+   "names": {
+    "en": "skiing",
+    "fr": "le ski",
+    "de": "der skisport",
+    "es": "el esquí",
+    "it": "lo sci"
+   },
+   "entries": [
+    {
+     "en": "ski slope",
+     "fr": "pente de ski",
+     "de": "Skihang",
+     "es": "pista",
+     "it": "pista da sci",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 7,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "chairlift",
+     "fr": "télésiège",
+     "de": "Sessellift",
+     "es": "telesilla",
+     "it": "seggiovia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "cable car",
+     "fr": "télécabine",
+     "de": "Kabinenlift",
+     "es": "góndola",
+     "it": "funivia",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "ski suit",
+     "fr": "combinaison de ski",
+     "de": "Skianzug",
+     "es": "traje de es qui",
+     "it": "tuta da sci",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 8,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "ski pole",
+     "fr": "bâton de ski",
+     "de": "Skistock",
+     "es": "bastón",
+     "it": "bastone da sci",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 8,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "ski run",
+     "fr": "piste de ski",
+     "de": "Skipiste",
+     "es": "pista de esquí",
+     "it": "pista da sci",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 8,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "de": "Handschuh",
+     "es": "guante",
+     "it": "guanto",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "ski boot",
+     "fr": "chaussure de ski",
+     "de": "Skistiefel",
+     "es": "bota de esquí",
+     "it": "scarpone da sci",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 10,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "safety barrier",
+     "fr": "barrière de sécurité",
+     "de": "Sicherheitssperre",
+     "es": "barrera de seguridad",
+     "it": "transenna di sicurezza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 17,
+      "es": 18,
+      "it": 20
+     }
+    },
+    {
+     "en": "ski",
+     "fr": "ski",
+     "de": "Ski",
+     "es": "esquí",
+     "it": "sci",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 5,
+      "it": 3
+     }
+    },
+    {
+     "en": "edge",
+     "fr": "carre",
+     "de": "Kante",
+     "es": "canto",
+     "it": "lama",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "skier",
+     "fr": "skieuse",
+     "de": "Skiläuferin",
+     "es": "esquiadora",
+     "it": "sciatrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 11,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "tip",
+     "fr": "pointe",
+     "de": "Spitze",
+     "es": "punta",
+     "it": "punta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,261 @@
+{
+ "page": 179,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K . L E T R A V A IL • DIE ARBEIT ♦ E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "occupations 2 • les professions 2 • die Berufe 2 • las profesiones 2 • i mestieri 2",
+   "parts": [
+    "occupations",
+    "les professions",
+    "die berufe",
+    "las profesiones",
+    "i mestieri"
+   ],
+   "entries": [
+    {
+     "en": "model",
+     "fr": "la maquerre",
+     "de": "das Modell",
+     "es": "la maqueta",
+     "it": "il modello",
+     "_pos": [
+      672,
+      127
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lawyer",
+     "fr": "l'avocat",
+     "de": "der Rechtsanwalt",
+     "es": "el ahogado",
+     "it": "l'avvocato",
+     "_pos": [
+      52,
+      342
+     ],
+     "_flags": []
+    },
+    {
+     "en": "accountant",
+     "fr": "le comptable",
+     "de": "der Wirtschaftsprüfer",
+     "es": "el contador",
+     "it": "il commercialista",
+     "_pos": [
+      268,
+      344
+     ],
+     "_flags": []
+    },
+    {
+     "en": "architect",
+     "fr": "l'architecte",
+     "de": "der Architekt",
+     "es": "el arquitecto",
+     "it": "l'architetto",
+     "_pos": [
+      486,
+      346
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "»",
+   "parts": [
+    "»"
+   ],
+   "entries": [
+    {
+     "en": "scientist",
+     "fr": "le scientifique",
+     "de": "der Wissenschaftler",
+     "es": "el cien tífico",
+     "it": "la scienziato",
+     "_pos": [
+      52,
+      542
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teacher",
+     "fr": "l'institutrice",
+     "de": "die Lehrerin",
+     "es": "la maestra",
+     "it": "l'insegnante",
+     "_pos": [
+      268,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "librarian",
+     "fr": "le bibliothécaire",
+     "de": "der Bibliothekar",
+     "es": "el bibliotecario",
+     "it": "il bibliotecario",
+     "_pos": [
+      485,
+      546
+     ],
+     "_flags": []
+    },
+    {
+     "en": "receptionist",
+     "fr": "la réceptionniste",
+     "de": "die Empfangsdame",
+     "es": "la recepcionista",
+     "it": "l'addetta alla ricezione",
+     "_pos": [
+      700,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mailbag",
+     "fr": "le sac postal",
+     "de": "die Posttasche",
+     "es": "la cartera",
+     "it": "la borsa",
+     "_pos": [
+      174,
+      626
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mail earner",
+     "fr": "le facteur",
+     "de": "der Briefträger",
+     "es": "el cartero",
+     "it": "il postino",
+     "_pos": [
+      50,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bus driver",
+     "fr": "le conducteur de bus",
+     "de": "der Busfahrer",
+     "es": "el chófer",
+     "it": "l'autista",
+     "_pos": [
+      266,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "truck driver",
+     "fr": "le camionneur",
+     "de": "der Lastwagenfahrer",
+     "es": "el chófer",
+     "it": "il camionista",
+     "_pos": [
+      483,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "taxi driver",
+     "fr": "le chauffeur de raxi",
+     "de": "der Taxifahrer",
+     "es": "el taxista",
+     "it": "il tassista",
+     "_pos": [
+      700,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la toque",
+     "de": "die Kochmütze",
+     "es": "el gorro de cocinero",
+     "it": "il cappello",
+     "_pos": [
+      686,
+      898
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "pilot",
+     "fr": "le pilote",
+     "de": "der Pilot",
+     "es": "el piloto",
+     "it": "il pilota",
+     "_pos": [
+      54,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flight attendant",
+     "fr": "l'hôtesse de l'air",
+     "de": "die Flugbegleiterin",
+     "es": "la sobrecargo",
+     "it": "l'assistente di volo",
+     "_pos": [
+      271,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "travel agent",
+     "fr": "l'agcnr de voyages",
+     "de": "die Reisebürokautfrau",
+     "es": "la agente de viajes",
+     "it": "l'agente di viaggio",
+     "_pos": [
+      488,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chef",
+     "fr": "le chef",
+     "de": "der Koch",
+     "es": "el chef",
+     "it": "il cuoco",
+     "_pos": [
+      705,
+      1031
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 1,
+  "flagged": 17,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

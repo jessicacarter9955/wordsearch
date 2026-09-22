@@ -1,0 +1,661 @@
+{
+ "page": 91,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "coin",
+     "fr": "picce",
+     "de": "Münze",
+     "es": "moneda",
+     "it": "moneta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "screen",
+     "fr": "écran",
+     "de": "Bildschirm",
+     "es": "pantalla",
+     "it": "schermo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "card reader",
+     "fr": "fence",
+     "de": "Kartenschlitz",
+     "es": "ranura de la tarjeta",
+     "it": "fessura per la carta",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 13,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "bill",
+     "fr": "lo billet",
+     "de": "Schein",
+     "es": "billete",
+     "it": "banconota",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "keypad",
+     "fr": "clavier",
+     "de": "Tastenfeld",
+     "es": "teclado",
+     "it": "tastiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "ATM",
+     "fr": "distributeur",
+     "de": "Geldautomat",
+     "es": "cajero automático",
+     "it": "cassa automatica",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 12,
+      "de": 11,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "money",
+     "fr": "argent",
+     "de": "Geld",
+     "es": "dinero",
+     "it": "denaro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "foreign currency",
+     "fr": "devises",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 7
+     }
+    },
+    {
+     "de": "ausländische",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die"
+     },
+     "_grid_len": {
+      "de": 12
+     }
+    },
+    {
+     "en": "cash (v)",
+     "fr": "encaisser",
+     "de": "einlösen",
+     "es": "cobrar",
+     "it": "incassare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "stocks",
+     "fr": "actions",
+     "de": "Aktien",
+     "es": "acciones",
+     "it": "azioni",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "denomination",
+     "fr": "valeur",
+     "de": "Nennwert",
+     "es": "denominación",
+     "it": "denominazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 8,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "dividends",
+     "fr": "dividendes",
+     "de": "Gewinnanteile",
+     "es": "dividendos",
+     "it": "dividendi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 13,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "traveler's check",
+     "fr": "traveller",
+     "de": "Reisescheck",
+     "es": "cheque de viajero",
+     "it": "travel cheque",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 9,
+      "de": 11,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "commission",
+     "fr": "commission",
+     "de": "Provision",
+     "es": "comisión",
+     "it": "commissione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "accountant",
+     "fr": "comprable",
+     "de": "Wirtschaftsprüfer",
+     "es": "contador",
+     "it": "contabile",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 17,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "investment",
+     "fr": "investissement",
+     "de": "Kapitalanlage",
+     "es": "inversión",
+     "it": "investimento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 13,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "portfolio",
+     "fr": "portefeuille",
+     "de": "Portefeuille",
+     "es": "cartera",
+     "it": "portafoglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 12,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "exchange rate",
+     "fr": "taux de change",
+     "de": "Wechselkurs",
+     "es": "tipo ile cam bio",
+     "it": "tasso di cambio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 11,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "currency exchange",
+     "fr": "bureau de change",
+     "de": "Wechselstube",
+     "es": "oficina de cambio",
+     "it": "ufficio di cambio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 14,
+      "de": 12,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "securities",
+     "fr": "titres",
+     "de": "Wertpapiere",
+     "es": "acetones",
+     "it": "titoli",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 11,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "equity",
+     "fr": "action",
+     "de": "Stammaktie",
+     "es": "patrimonio neto",
+     "it": "capitale netto",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 10,
+      "es": 14,
+      "it": 13
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "fr": "finanza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la"
+     },
+     "_grid_len": {
+      "fr": 7
+     }
+    },
+    {
+     "en": "stockbroker",
+     "fr": "agent de la bourse",
+     "de": "Börsenmakler",
+     "es": "agente de bolsa",
+     "it": "broker",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 12,
+      "es": 13,
+      "it": 6
+     }
+    },
+    {
+     "en": "stock price",
+     "fr": "prix des actions",
+     "de": "Aktienpreis",
+     "es": "valor de las act iones",
+     "it": "corso per azione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 11,
+      "es": 18,
+      "it": 14
+     }
+    },
+    {
+     "en": "Can 1 change this, please?",
+     "fr": "Est-ce que je peux changer ça,s'il vous plaît?",
+     "de": "Konnte ich das bitte wechseln?",
+     "es": "Podría cam biar esto por favor?",
+     "it": "Posso cambiare questo?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 35,
+      "de": 25,
+      "es": 25,
+      "it": 19
+     }
+    },
+    {
+     "en": "W hat's today's exchange rate?",
+     "fr": "Quel est le taux de change aujourd'hui?",
+     "de": "Wie ist der heutige Wechselkurs?",
+     "es": "Cóm o está el tipo de cam bio hoy?",
+     "it": "Qual è il tasso di cambio oggi?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 23,
+      "fr": 31,
+      "de": 27,
+      "es": 25,
+      "it": 24
+     }
+    },
+    {
+     "en": "financial advisor",
+     "fr": "conseillère financière",
+     "de": "Finanzberaterin",
+     "es": "asesora financiera",
+     "it": "consulente finanziaria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 21,
+      "de": 15,
+      "es": 17,
+      "it": 21
+     }
+    },
+    {
+     "en": "stock exchange",
+     "fr": "bourse",
+     "de": "Börse",
+     "es": "bolsa de valores",
+     "it": "borsa valori",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 6,
+      "de": 5,
+      "es": 14,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

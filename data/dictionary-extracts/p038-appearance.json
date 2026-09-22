@@ -1,0 +1,656 @@
+{
+ "page": 38,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "face pack",
+     "fr": "masque de beauté",
+     "de": "Gesichtsmaske",
+     "es": "mascarilla",
+     "it": "maschera di bellezza",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 13,
+      "es": 10,
+      "it": 18
+     }
+    },
+    {
+     "en": "sunbed",
+     "fr": "lit UV",
+     "de": "Sonnenbank",
+     "es": "cam a de rayos ultravioletas",
+     "it": "lettino solare",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 24,
+      "it": 13
+     }
+    },
+    {
+     "en": "moisturizer",
+     "fr": "crème hydratante",
+     "de": "Feuchtigkeitscreme",
+     "es": "crema hidratante",
+     "it": "crema idratante",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 18,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "cleanser",
+     "fr": "démaquillant",
+     "de": "Reiniger",
+     "es": "crema limpiadora",
+     "it": "latte detergente",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 8,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "toner",
+     "fr": "tonique",
+     "de": "Gesichtswasser",
+     "es": "tónico",
+     "it": "lozione tonificante",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 14,
+      "es": 6,
+      "it": 18
+     }
+    },
+    {
+     "en": "exfoliate (v)",
+     "fr": "exfolier",
+     "de": "Haut schälen",
+     "es": "exfoliar",
+     "it": "esfoliare",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "facial",
+     "fr": "soin du visage",
+     "de": "Gesichtsbehandlung",
+     "es": "limpieza de cutis",
+     "it": "trattamento per il viso",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 18,
+      "es": 15,
+      "it": 20
+     }
+    },
+    {
+     "en": "self-tanning louon",
+     "fr": "autobronzant",
+     "de": "Selbstbraunungsoeme",
+     "es": "crema bronceadura",
+     "it": "crema autoabbronzante",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 12,
+      "de": 19,
+      "es": 16,
+      "it": 20
+     }
+    },
+    {
+     "en": "eau de toilette",
+     "fr": "eau de toilette",
+     "de": "Eau de Toilette",
+     "es": "agua de colonia",
+     "it": "acqua di colonia",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 13,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "perfume",
+     "fr": "parfum",
+     "de": "Parfum",
+     "es": "perfume",
+     "it": "profumo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "pedicure",
+     "fr": "pédicure",
+     "de": "Pediküre",
+     "es": "pedicura",
+     "it": "pedicure",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "wax",
+     "fr": "épilation",
+     "de": "Enthaarung",
+     "es": "depilación a la cera",
+     "it": "ceretta",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 10,
+      "es": 17,
+      "it": 7
+     }
+    },
+    {
+     "en": "tan",
+     "fr": "bronzage",
+     "de": "Sonnenbräune",
+     "es": "bronceado",
+     "it": "abbronzatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 12,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "complexion",
+     "fr": "teint",
+     "de": "Teint",
+     "es": "cutis",
+     "it": "carnagione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "oily",
+     "fr": "gras",
+     "de": "fettig",
+     "es": "graso",
+     "it": "grasso",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "nail polish remover",
+     "fr": "dissolvant",
+     "de": "Nagellackentferner",
+     "es": "quitaesmalte",
+     "it": "acetone",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 10,
+      "de": 18,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "tattoo",
+     "fr": "tatouage",
+     "de": "Tätowierung",
+     "es": "tatuaje",
+     "it": "tatuaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "fair",
+     "fr": "clair",
+     "de": "hell",
+     "es": "claro",
+     "it": "chiaro",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "sensitive",
+     "fr": "sensible",
+     "de": "empfindlich",
+     "es": "sensible",
+     "it": "sensibile",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "cotton balls",
+     "fr": "boules de coton",
+     "de": "Wattebällchen",
+     "es": "bolas de algodón",
+     "it": "batuffoli di ovatta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 13,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "hypoallergenic",
+     "fr": "hypoallergénique",
+     "de": "hypoallergen",
+     "es": "hipoalergénico",
+     "it": "ipoallergenico",
+     "_multi": [],
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 12,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "dark",
+     "fr": "foncé",
+     "de": "dunkel",
+     "es": "moreno",
+     "it": "scuro",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "nail polish",
+     "fr": "vernis à ongles",
+     "de": "Nagellack",
+     "es": "esmalte de uñas",
+     "it": "smalto per unghie",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 9,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "nail file",
+     "fr": "lime à ongles",
+     "de": "Nagelfeile",
+     "es": "lim a de uñas",
+     "it": "limetta",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "nail scissors",
+     "fr": "ciseaux à ongles",
+     "de": "Nagelschere",
+     "es": "tijeras de uñas",
+     "it": "forbicine per le unghie",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 11,
+      "es": 13,
+      "it": 20
+     }
+    },
+    {
+     "en": "antiwrinkle",
+     "fr": "antirides",
+     "de": "Antifalten",
+     "es": "antiarrugas",
+     "it": "antirughe",
+     "_multi": [],
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 10,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "shade",
+     "fr": "ton",
+     "de": "Farbton",
+     "es": "tono",
+     "it": "tonalità",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 7,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "dry",
+     "fr": "sec",
+     "de": "trocken",
+     "es": "seco",
+     "it": "secco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 7,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "nail clippers",
+     "fr": "coupe-ongles",
+     "de": "Nagelknipser",
+     "es": "cortaúñas",
+     "it": "tagliaunghie",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 12,
+      "es": 9,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Titoli 'toiletries' e 'beauty treatments' e 'manicure' spezzati su più righe/gruppi OCR; voci-titolo 2.0 e 4.0 eliminate. LEFT 'da toeletta' = coda del titolo toiletries (gli articoli da toeletta)."
+}

@@ -1,0 +1,377 @@
+{
+ "page": 165,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • I K T R AVA 11 • DIE ARBEIT • EL T R A B A JO • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "com puter • l'ordinateur • der Computer • la computadora • il computer",
+   "parts": [
+    "computer",
+    "l'ordinateur",
+    "der computer",
+    "la computadora",
+    "il computer"
+   ],
+   "entries": [
+    {
+     "en": "printer",
+     "fr": "l'imprimante",
+     "de": "der Drucker",
+     "es": "la impresora",
+     "it": "la stampante",
+     "_pos": [
+      44,
+      127
+     ],
+     "_flags": []
+    },
+    {
+     "en": "monitor",
+     "fr": "le moniteur",
+     "de": "der Monitor",
+     "es": "el monitor",
+     "it": "il monitor",
+     "_pos": [
+      260,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "screen",
+     "fr": "écran",
+     "de": "der Bildschirm",
+     "es": "la pantalla",
+     "it": "la çrhprmn",
+     "_pos": [
+      446,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "CPU",
+     "fr": "Puniré cenrrale",
+     "de": "die Zentraleinheit",
+     "es": "la C P U . il CPU",
+     "_pos": [
+      616,
+      132
+     ],
+     "_flags": [
+      "missing:it",
+      "en:case",
+      "fr:case",
+      "es:short:C",
+      "es:short:P",
+      "es:short:U",
+      "es:weird:.",
+      "es:case"
+     ]
+    },
+    {
+     "en": "scanner",
+     "fr": "le scanneur",
+     "de": "der Scanner",
+     "es": "el escáner",
+     "it": "lo scanner",
+     "_pos": [
+      804,
+      198
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "o",
+   "parts": [
+    "o"
+   ],
+   "entries": [
+    {
+     "en": "speaker « le haut-parleur",
+     "de": "der Lautsprecher",
+     "es": "la bocina",
+     "it": "l'altoparlante",
+     "_pos": [
+      44,
+      478
+     ],
+     "_flags": [
+      "missing:fr",
+      "en:weird:«"
+     ]
+    },
+    {
+     "en": "mouse",
+     "fr": "la souris",
+     "de": "die Maus",
+     "es": "el ratón",
+     "it": "il mouse",
+     "_pos": [
+      486,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la touche",
+     "de": "die Taste",
+     "es": "la tecla",
+     "it": "il tasto",
+     "_pos": [
+      258,
+      562
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "clavier",
+     "de": "die Tastatur",
+     "es": "el teclado",
+     "it": "la tastiera",
+     "_pos": [
+      342,
+      563
+     ],
+     "_flags": [
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "hardware",
+     "fr": "le matériel",
+     "de": "die Hardware",
+     "es": "el hardware",
+     "it": "l'hardware",
+     "_pos": [
+      44,
+      646
+     ],
+     "_flags": []
+    },
+    {
+     "en": "memory",
+     "fr": "la mémoire",
+     "de": "der Speicher",
+     "es": "la memoria",
+     "it": "la memoria",
+     "_pos": [
+      59,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "server",
+     "fr": "le serveur",
+     "de": "der Server",
+     "es": "el servidor",
+     "it": "il server",
+     "_pos": [
+      264,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "software",
+     "fr": "le logiciel",
+     "de": "die Software",
+     "es": "el software",
+     "it": "il software",
+     "_pos": [
+      153,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "disk",
+     "fr": "le disque",
+     "de": "die Diskette",
+     "es": "el disquete",
+     "it": "il dischetto",
+     "_pos": [
+      476,
+      765
+     ],
+     "_flags": []
+    },
+    {
+     "en": "laptop",
+     "fr": "le portable",
+     "de": "der Laptop",
+     "es": "el laptop",
+     "it": "il computer portatile",
+     "_pos": [
+      692,
+      765
+     ],
+     "_flags": []
+    },
+    {
+     "en": "RAM",
+     "fr": "la R A M",
+     "de": "das RAM",
+     "es": "el R A M",
+     "it": "la RAM",
+     "_pos": [
+      60,
+      792
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:R",
+      "fr:short:M",
+      "fr:case",
+      "es:short:R",
+      "es:short:M",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "application",
+     "fr": "l'application",
+     "de": "die Anwendung",
+     "es": "lu aplicación",
+     "it": "l'applicazione",
+     "_pos": [
+      154,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "port",
+     "fr": "le port",
+     "de": "der Port",
+     "es": "el puerto",
+     "it": "la porta",
+     "_pos": [
+      266,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hard drive",
+     "fr": "le disque dur",
+     "de": "das Festplattenlaufwerk",
+     "es": "el disco duro",
+     "it": "l'hard drive",
+     "_pos": [
+      692,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bytes",
+     "fr": "les bytes",
+     "de": "die Bytes",
+     "es": "los bytes",
+     "it": "i byte",
+     "_pos": [
+      60,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "program",
+     "fr": "le programme",
+     "de": "das Programm",
+     "es": "programa",
+     "it": "il programma",
+     "_pos": [
+      154,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "power cable",
+     "fr": "le câble électrique",
+     "de": "das Strom kabel",
+     "es": "el cable de alimentación",
+     "it": "il cavo di alimentazione",
+     "_pos": [
+      266,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "modem",
+     "fr": "le modem",
+     "de": "das Modem",
+     "es": "el módem",
+     "it": "il modem",
+     "_pos": [
+      793,
+      945
+     ],
+     "_flags": []
+    },
+    {
+     "en": "system",
+     "fr": "le système",
+     "de": "das System",
+     "es": "el sistema",
+     "it": "il sistema",
+     "_pos": [
+      60,
+      993
+     ],
+     "_flags": []
+    },
+    {
+     "en": "network",
+     "fr": "le réseau",
+     "de": "das Netzwerk",
+     "es": "la red",
+     "it": "la rete",
+     "_pos": [
+      154,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "processor",
+     "fr": "le processeur",
+     "de": "der Prozessor",
+     "es": "el procesador",
+     "it": "il processare",
+     "_pos": [
+      266,
+      996
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 13,
+  "flagged": 13,
+  "missing_lang": 4,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

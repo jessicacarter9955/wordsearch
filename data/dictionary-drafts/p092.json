@@ -1,0 +1,448 @@
+{
+ "page": 92,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES • I I s S E R V IC E S • DIE DIENSTLEISTUNGEN • L O S S E R V IC IO S • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "communications • les communications • die Kommunikation • las comunicaciones • le comunicazioni",
+   "parts": [
+    "communications",
+    "les communications",
+    "die kommunikation",
+    "las comunicaciones",
+    "le comunicazioni"
+   ],
+   "entries": [
+    {
+     "en": "postal worker",
+     "fr": "le postier",
+     "de": "der Postbeamte",
+     "es": "el empleado de correos",
+     "it": "l'impiegato delle poste",
+     "_pos": [
+      46,
+      167
+     ],
+     "_flags": []
+    },
+    {
+     "en": "window",
+     "fr": "le guichet",
+     "de": "der Schalter",
+     "es": "la ventanilla",
+     "it": "lo sportello",
+     "_pos": [
+      46,
+      282
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scale",
+     "fr": "la balance",
+     "de": "die Waage",
+     "es": "la báscula",
+     "it": "la bilancia",
+     "_pos": [
+      45,
+      382
+     ],
+     "_flags": []
+    },
+    {
+     "en": "counter",
+     "fr": "le guichet",
+     "de": "der Schalter",
+     "es": "el mostrador",
+     "it": "il banco",
+     "_pos": [
+      44,
+      481
+     ],
+     "_flags": []
+    },
+    {
+     "en": "post office",
+     "fr": "la poste",
+     "de": "die Post",
+     "es": "la oficina de correos",
+     "it": "l'ufficio postale",
+     "_pos": [
+      190,
+      501
+     ],
+     "_flags": []
+    },
+    {
+     "en": "postmark",
+     "fr": "le tampon de la poste",
+     "de": "der Poststempel",
+     "es": "el matasellos",
+     "it": "il timbro postale",
+     "_pos": [
+      181,
+      532
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stamp",
+     "fr": "le timbre",
+     "de": "die Briefmarke",
+     "es": "el timbre",
+     "it": "il francobollo",
+     "_pos": [
+      462,
+      534
+     ],
+     "_flags": []
+    },
+    {
+     "en": "address",
+     "fr": "l'adresse",
+     "de": "die Adresse",
+     "es": "la dirección",
+     "it": "l'indirizzo",
+     "_pos": [
+      82,
+      646
+     ],
+     "_flags": []
+    },
+    {
+     "en": "zip code",
+     "fr": "le code postal",
+     "de": "die Postleitzahl",
+     "es": "el código postal",
+     "it": "I codice di avviamento postale",
+     "_pos": [
+      460,
+      650
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "mail carrier",
+     "fr": "le facteur",
+     "de": "der Briefträger",
+     "es": "cartero",
+     "it": "il postino",
+     "_pos": [
+      670,
+      718
+     ],
+     "_flags": []
+    },
+    {
+     "en": "envelope",
+     "fr": "l'enveloppe",
+     "de": "der Umschlag",
+     "es": "el sobre",
+     "_pos": [
+      136,
+      748
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "lener",
+     "fr": "a i",
+     "_pos": [
+      58,
+      794
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "de"
+      ],
+      [
+       "en",
+       "es"
+      ],
+      [
+       "en",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "return address",
+     "fr": "l'expéditeur",
+     "de": "der Absender",
+     "es": "el remitente",
+     "it": "il mittente",
+     "_pos": [
+      244,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "delivery",
+     "fr": "la distribution",
+     "de": "die Zustellung",
+     "es": "el reparto",
+     "it": "la consegna",
+     "_pos": [
+      386,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fragile",
+     "fr": "fragile",
+     "de": "zerbrechlich",
+     "es": "frágil",
+     "it": "fragile",
+     "_pos": [
+      577,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "do not bend (v)",
+     "fr": "ne pas plier",
+     "de": "nicht falten",
+     "es": "no doblar",
+     "it": "non piegare",
+     "_pos": [
+      726,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la lettre",
+     "de": "der Brief",
+     "es": "",
+     "_pos": [
+      58,
+      811
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "fr": "la carta",
+     "es": "la lettera",
+     "_pos": [
+      58,
+      844
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "it"
+      ],
+      [
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "by airmail",
+     "fr": "par avion",
+     "de": "per Luftpost",
+     "es": "por avión",
+     "it": "posta aerea",
+     "_pos": [
+      57,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "signature",
+     "fr": "la signature",
+     "de": "die Unterschrift",
+     "es": "la firma",
+     "it": "la firma",
+     "_pos": [
+      244,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "postage",
+     "fr": "le tarif d'affranchissement",
+     "de": "die Postgebühr",
+     "es": "el franqueo",
+     "it": "l'affrancatura",
+     "_pos": [
+      386,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mailbag",
+     "fr": "le sac postal",
+     "de": "der Postsack",
+     "es": "la bolsa de correo",
+     "it": "il sacco postale",
+     "_pos": [
+      576,
+      900
+     ],
+     "_flags": []
+    },
+    {
+     "en": "this way up",
+     "fr": "dessus",
+     "de": "oben",
+     "es": "hacia arriba",
+     "it": "alto",
+     "_pos": [
+      726,
+      901
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pickup",
+     "fr": "la levée",
+     "de": "die Leerung",
+     "es": "la recogida",
+     "it": "la raccolta",
+     "_pos": [
+      242,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "postai order",
+     "fr": "le mandat postal",
+     "de": "die Postanweisung",
+     "es": "el giro postal",
+     "it": "il vaglia postale",
+     "_pos": [
+      386,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "telegram",
+     "fr": "le Télégramme",
+     "de": "das Telegramm",
+     "es": "el telegrama",
+     "it": "il telegramma",
+     "_pos": [
+      575,
+      999
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "fax",
+     "fr": "le fax",
+     "de": "das Fax",
+     "es": "el fax",
+     "it": "il fax",
+     "_pos": [
+      725,
+      999
+     ],
+     "_flags": []
+    },
+    {
+     "es": "el correo certificado",
+     "it": "la posta raccomandata",
+     "_pos": [
+      56,
+      1043
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "la busta",
+   "pos": [
+    454,
+    750
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "registered mail | i envoi en recommande | das Einschreiben | f",
+   "pos": [
+    56,
+    993
+   ],
+   "why": "blocco 4 righe non risolvibile"
+  },
+  {
+   "text": ", A",
+   "pos": [
+    143,
+    1036
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "i",
+   "pos": [
+    173,
+    1036
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 15,
+  "flagged": 13,
+  "missing_lang": 5,
+  "leftovers": 4,
+  "subcats": 1
+ }
+}

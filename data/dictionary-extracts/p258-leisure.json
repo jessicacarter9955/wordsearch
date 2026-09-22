@@ -1,0 +1,420 @@
+{
+ "page": 258,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "giochi",
+   "names": {
+    "en": "games",
+    "fr": "les jeux",
+    "de": "die spiele",
+    "es": "los juegos",
+    "it": "i giochi"
+   },
+   "entries": [
+    {
+     "en": "white",
+     "fr": "blanc",
+     "de": "weiß",
+     "es": "blanco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 6
+     }
+    },
+    {
+     "en": "queen",
+     "fr": "dame",
+     "de": "Dame",
+     "es": "reina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 5
+     }
+    },
+    {
+     "en": "king",
+     "fr": "roi",
+     "de": "König",
+     "es": "rey",
+     "it": "re",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 3,
+      "it": 2
+     }
+    },
+    {
+     "en": "black",
+     "fr": "noir",
+     "de": "schwarz",
+     "es": "negro",
+     "it": "nero",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 7,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "chessboard",
+     "fr": "i'cchiq uicr",
+     "de": "Schachbrett",
+     "es": "tablero de ajedrez",
+     "it": "scacchiera",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "bishop",
+     "fr": "fou",
+     "de": "Läufer",
+     "es": "alfil",
+     "it": "alfiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "pawn",
+     "fr": "pion",
+     "de": "Bauer",
+     "es": "peón",
+     "it": "pendone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "rook",
+     "fr": "tour",
+     "de": "Turm",
+     "es": "torre",
+     "it": "torre",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "knight",
+     "fr": "cavalier",
+     "de": "Springer",
+     "es": "caballo",
+     "it": "cavallo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "square",
+     "fr": "case",
+     "de": "Feld",
+     "es": "casilla",
+     "it": "la",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 4,
+      "es": 7,
+      "it": 2
+     }
+    },
+    {
+     "en": "tile",
+     "fr": "pièce",
+     "de": "Stein",
+     "es": "ficha",
+     "it": "pedina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "chess",
+     "fr": "échecs",
+     "de": "Schach",
+     "es": "ajedrez",
+     "it": "scacchi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "scrabble",
+     "fr": "scrabble",
+     "de": "Scrabble",
+     "es": "scrabble",
+     "it": "Io scrabble",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "checkers",
+     "fr": "dames",
+     "de": "Damespiel",
+     "es": "damas",
+     "it": "dama",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "counter",
+     "fr": "jeton",
+     "de": "Spielmarke",
+     "es": "ficha",
+     "it": "pedina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 10,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "monopoly",
+     "fr": "m onopoly",
+     "de": "Monopoly",
+     "es": "monopolio",
+     "it": "monopoly",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "fr": "dé",
+     "de": "Würfel",
+     "es": "dado",
+     "it": "dado",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 2,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "backgammon",
+     "fr": "trictrac",
+     "de": "Backgammon",
+     "es": "backgam m on",
+     "it": "trie trac la tavola reale",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 10,
+      "es": 10,
+      "it": 21
+     }
+    },
+    {
+     "en": "board games",
+     "fr": "jeux de société",
+     "de": "Brettspiele",
+     "es": "juegos de mesa",
+     "it": "giochi da tavolo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 11,
+      "es": 12,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

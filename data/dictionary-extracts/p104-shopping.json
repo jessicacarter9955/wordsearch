@@ -1,0 +1,468 @@
+{
+ "page": 104,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "vase",
+     "fr": "vase",
+     "de": "Blumenvase",
+     "es": "Horero",
+     "it": "vaso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 10,
+      "es": 6,
+      "it": 4
+     }
+    }
+   ]
+  },
+  {
+   "slug": "arrangiamenti",
+   "names": {
+    "en": "arrangements",
+    "fr": "ics com positions florales",
+    "de": "die blumenarrangements",
+    "es": "los arreglos",
+    "it": "gli arrangiamenti"
+   },
+   "entries": [
+    {
+     "en": "ribbon",
+     "fr": "ruban",
+     "de": "Band",
+     "es": "cinta",
+     "it": "nastro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "dried flowers",
+     "fr": "fleurs séchées",
+     "de": "Trockenblumen",
+     "es": "flores secas",
+     "it": "fiori secchi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 13,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "bouquet",
+     "fr": "bouquet",
+     "de": "Bukett",
+     "es": "ramo",
+     "it": "mazzo di fiori",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 4,
+      "it": 12
+     }
+    },
+    {
+     "en": "peony",
+     "fr": "pivoine",
+     "de": "Pfingstrose",
+     "es": "peonia",
+     "it": "peonia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "orchid",
+     "fr": "orchidée",
+     "de": "Orchidee",
+     "es": "orquídea",
+     "it": "orchidea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "bunch",
+     "fr": "horte",
+     "de": "Strauß",
+     "es": "ramo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 4
+     }
+    },
+    {
+     "en": "wreath",
+     "fr": "couronne",
+     "de": "Kranz",
+     "es": "corona",
+     "it": "corona",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "stem",
+     "fr": "tige",
+     "de": "Stengel",
+     "es": "tallo",
+     "it": "stelo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "garland",
+     "fr": "guirlande de fleurs",
+     "de": "Blumengirlande",
+     "es": "guirnalda",
+     "it": "ghirlanda",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 14,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "daffodil",
+     "fr": "jonquille",
+     "de": "Osterglocke",
+     "es": "narciso",
+     "it": "narciso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "How long will these last?",
+     "fr": "Liles tiennent combien de temps?",
+     "de": "Wie lange halten sie?",
+     "es": "Cuánto tiempo durarán éstos?",
+     "it": "Quanto dureranno?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 27,
+      "de": 17,
+      "es": 24,
+      "it": 15
+     }
+    },
+    {
+     "en": "May I have a bunch o f... please",
+     "fr": "Je voudrais un bouquet d e ..., SVP",
+     "de": "Ich möchte einen Strauß..., bitte",
+     "es": "Meda un ramo d e ... por favor?",
+     "it": "Mi dà un mazzo di... per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 22,
+      "fr": 24,
+      "de": 26,
+      "es": 20,
+      "it": 22
+     }
+    },
+    {
+     "fr": "bourgeon",
+     "de": "Knospe",
+     "es": "capullo",
+     "it": "bocciolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "May I have them wrapped?",
+     "fr": "Pouvez-vous les emballer?",
+     "de": "Können Sie die Blumen bitte einwickeln?",
+     "es": "M e los puede envolver?",
+     "it": "Me li può incartare?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 19,
+      "fr": 21,
+      "de": 33,
+      "es": 18,
+      "it": 16
+     }
+    },
+    {
+     "en": "Are they fragrant?",
+     "fr": "Esr-cc qu'elles sentent bon?",
+     "de": "Duften sie?",
+     "es": "Huelen?",
+     "it": "Sono profumati?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 15,
+      "fr": 22,
+      "de": 9,
+      "es": 6,
+      "it": 13
+     }
+    },
+    {
+     "en": "wrapping",
+     "fr": "emballage",
+     "de": "Einwickelpapier",
+     "es": "envoltura",
+     "it": "incarto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 15,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "Would you send them to ....?",
+     "fr": "Pouvez-vous les envoyer à ...?",
+     "de": "Können Sie die Blumen an... schicken?",
+     "es": "puede enviar a ...?",
+     "it": "U può mandare a...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "es": "Los"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 21,
+      "de": 28,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "May I attach a message?",
+     "fr": "Je peux y attacher un message?",
+     "de": "Kann ich eine Nachricht mitschicken?",
+     "es": "Puedo poner un mensaje?",
+     "it": "Posso allegare un messaggio?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 18,
+      "fr": 24,
+      "de": 31,
+      "es": 19,
+      "it": 24
+     }
+    },
+    {
+     "en": "tLip",
+     "fr": "rulipc",
+     "de": "Tulpe",
+     "es": "tulipán",
+     "it": "tulipano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

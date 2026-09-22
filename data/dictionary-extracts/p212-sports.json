@@ -1,0 +1,431 @@
+{
+ "page": 212,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "cricket",
+   "names": {
+    "en": "cricket",
+    "fr": "le cricket",
+    "de": "das kricket",
+    "es": "el criquet",
+    "it": "il cricket"
+   },
+   "entries": [
+    {
+     "en": "pitch",
+     "fr": "terrain de cricket",
+     "de": "Spielbahn",
+     "es": "campo de criquet",
+     "it": "campo di cricket",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 16,
+      "de": 9,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "wicket",
+     "fr": "guichet",
+     "de": "Krickettor",
+     "es": "rastrillo",
+     "it": "w icket",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "batsman",
+     "fr": "batteur",
+     "de": "Schlagmann",
+     "es": "bateador",
+     "it": "battitore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "face mask",
+     "fr": "masque protecteur",
+     "de": "Gesichtsschutzmaske",
+     "es": "protector de la cara",
+     "it": "maschera protettiva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 16,
+      "de": 19,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "aligned'envoi",
+     "fr": "die Wurflinie",
+     "de": "la línea del",
+     "es": "bateador",
+     "it": "linca",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 10,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "boundary line",
+     "fr": "limite du terrain",
+     "de": "Spielfeldgrenze",
+     "es": "línea de tondo",
+     "it": "limite „",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 15,
+      "es": 12,
+      "it": 6
+     }
+    },
+    {
+     "en": "bowler",
+     "fr": "lanceur",
+     "de": "Werfer",
+     "es": "lanzador",
+     "it": "lanciatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "stump",
+     "fr": "piquet",
+     "de": "Stab",
+     "es": "palo",
+     "it": "asticella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "leg pad",
+     "fr": "jambière",
+     "de": "Polster",
+     "es": "protector de la pierna",
+     "it": "parastinchi",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 7,
+      "es": 19,
+      "it": 11
+     }
+    },
+    {
+     "en": "bat",
+     "fr": "barte",
+     "de": "Schlagholz",
+     "es": "bate",
+     "it": "mazza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 10,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "bat (v)",
+     "fr": "trapper",
+     "de": "schlagen",
+     "es": "batear",
+     "it": "colpire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "bowl (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "lanciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "cricket ball",
+     "fr": "balle de criquet",
+     "de": "Kricketball",
+     "es": "pelota de criquet",
+     "it": "pallina da cricket",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 11,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "cricket player",
+     "fr": "jouer de cricket",
+     "de": "Kricketspieler",
+     "es": "jugador de criq uet",
+     "it": "giocatore di cricket",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 14,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "umpire",
+     "fr": "arbitre",
+     "de": "Schiedsrichter",
+     "es": "árbitro",
+     "it": "arbitro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "scoreboard",
+     "fr": "tableau de points",
+     "de": "Anzeigetafel",
+     "es": "marcador",
+     "it": "tabellone dei risultati",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 12,
+      "es": 8,
+      "it": 21
+     }
+    },
+    {
+     "en": "wicket-keeper",
+     "fr": "gardien de but",
+     "de": "Torwächter",
+     "es": "guardián del rastrillo",
+     "it": "ricevitore",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 10,
+      "es": 20,
+      "it": 10
+     }
+    },
+    {
+     "en": "field (v)",
+     "fr": "atrraper",
+     "de": "fangen",
+     "es": "interceptar y devolver",
+     "it": "difendere",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 20,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

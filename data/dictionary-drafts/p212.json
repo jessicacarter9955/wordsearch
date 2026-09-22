@@ -1,0 +1,259 @@
+{
+ "page": 212,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "cricket • le cricket • das Kricket • el criquet • il cricket",
+   "parts": [
+    "cricket",
+    "le cricket",
+    "das kricket",
+    "el criquet",
+    "il cricket"
+   ],
+   "entries": [
+    {
+     "en": "pitch",
+     "fr": "le terrain de cricket",
+     "de": "die Spielbahn",
+     "es": "el campo de criquet",
+     "it": "il campo di cricket",
+     "_pos": [
+      641,
+      124
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wicket",
+     "fr": "le guichet",
+     "de": "das Krickettor",
+     "es": "el rastrillo",
+     "it": "il w icket",
+     "_pos": [
+      170,
+      127
+     ],
+     "_flags": [
+      "it:short:w"
+     ]
+    },
+    {
+     "en": "batsman",
+     "fr": "le batteur",
+     "de": "der Schlagmann",
+     "es": "el bateador",
+     "it": "il battitore",
+     "_pos": [
+      72,
+      208
+     ],
+     "_flags": []
+    },
+    {
+     "en": "face mask",
+     "fr": "le masque protecteur",
+     "de": "die Gesichtsschutzmaske",
+     "es": "el protector de la cara",
+     "it": "la maschera protettiva",
+     "_pos": [
+      732,
+      222
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aligned'envoi",
+     "fr": "die Wurflinie",
+     "de": "la línea del",
+     "es": "bateador",
+     "it": "la linca",
+     "_pos": [
+      50,
+      341
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "boundary line",
+     "fr": "la limite du terrain",
+     "de": "die Spielfeldgrenze",
+     "es": "la línea de tondo",
+     "it": "I limite „",
+     "_pos": [
+      50,
+      455
+     ],
+     "_flags": [
+      "it:weird:„",
+      "it:case"
+     ]
+    },
+    {
+     "en": "bowler",
+     "fr": "le lanceur",
+     "de": "der Werfer",
+     "es": "el lanzador",
+     "it": "il lanciatore",
+     "_pos": [
+      198,
+      568
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stump",
+     "fr": "le piquet",
+     "de": "der Stab",
+     "es": "el palo",
+     "it": "l'asticella",
+     "_pos": [
+      492,
+      682
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leg pad",
+     "fr": "la jambière",
+     "de": "das Polster",
+     "es": "el protector de la pierna",
+     "it": "il parastinchi",
+     "_pos": [
+      792,
+      748
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bat",
+     "fr": "la barte",
+     "de": "das Schlagholz",
+     "es": "el bate",
+     "it": "la mazza",
+     "_pos": [
+      494,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bat (v)",
+     "fr": "trapper",
+     "de": "schlagen",
+     "es": "batear",
+     "it": "colpire",
+     "_pos": [
+      268,
+      815
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bowl (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "lanciare",
+     "_pos": [
+      54,
+      817
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cricket ball",
+     "fr": "la balle de criquet",
+     "de": "der Kricketball",
+     "es": "pelota de criquet",
+     "it": "la pallina da cricket",
+     "_pos": [
+      212,
+      866
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cricket player",
+     "fr": "le jouer de cricket",
+     "de": "der Kricketspieler",
+     "es": "jugador de criq uet",
+     "it": "il giocatore di cricket",
+     "_pos": [
+      510,
+      911
+     ],
+     "_flags": []
+    },
+    {
+     "en": "umpire",
+     "fr": "l'arbitre",
+     "de": "der Schiedsrichter",
+     "es": "el árbitro",
+     "it": "l'arbitro",
+     "_pos": [
+      765,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scoreboard",
+     "fr": "le tableau de points",
+     "de": "die Anzeigetafel",
+     "es": "el marcador",
+     "it": "il tabellone dei risultati",
+     "_pos": [
+      601,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wicket-keeper",
+     "fr": "le gardien de but",
+     "de": "der Torwächter",
+     "es": "el guardián del rastrillo",
+     "it": "il ricevitore",
+     "_pos": [
+      268,
+      1029
+     ],
+     "_flags": []
+    },
+    {
+     "en": "field (v)",
+     "fr": "atrraper",
+     "de": "fangen",
+     "es": "interceptar y devolver",
+     "it": "difendere",
+     "_pos": [
+      56,
+      1035
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 4,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "page": 267,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "ambiente",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "header_raw": "E N V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • EL MF.DIO AMBIENTE • LAM BIENTE",
+ "groups": [
+  {
+   "names_raw": "Earth • la terre • die Erde • la Tierra • la Terra",
+   "parts": [
+    "earth",
+    "la terre",
+    "die erde",
+    "la tierra",
+    "la terra"
+   ],
+   "entries": [
+    {
+     "en": "pole",
+     "fr": "le pôle",
+     "de": "der Pol",
+     "es": "el polo",
+     "it": "il polo",
+     "_pos": [
+      58,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "land",
+     "fr": "la terre",
+     "de": "das Land",
+     "es": "la tierra firme",
+     "it": "la terraferma",
+     "_pos": [
+      752,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ocean",
+     "fr": "Poccan",
+     "de": "der Ozean",
+     "es": "el océano",
+     "it": "l'oceano",
+     "_pos": [
+      58,
+      261
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "mountain range",
+     "fr": "la chaîne de montagne",
+     "de": "die Gebirgskette",
+     "es": "la cadena montañosa",
+     "it": "la catena montuosa",
+     "_pos": [
+      752,
+      266
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sea",
+     "fr": "la mer",
+     "de": "das Meer",
+     "es": "el mar",
+     "it": "il mare",
+     "_pos": [
+      57,
+      393
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peninsula",
+     "fr": "la péninsule",
+     "de": "die Halbinsel",
+     "es": "la península",
+     "it": "la penisola",
+     "_pos": [
+      754,
+      396
+     ],
+     "_flags": []
+    },
+    {
+     "en": "continent",
+     "fr": "le continent",
+     "de": "der Kontinent",
+     "es": "ei continente",
+     "it": "il continente",
+     "_pos": [
+      56,
+      525
+     ],
+     "_flags": []
+    },
+    {
+     "en": "island",
+     "fr": "Hie",
+     "de": "die Insel",
+     "es": "la isla",
+     "it": "l'isola",
+     "_pos": [
+      752,
+      528
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "atmosphere",
+     "fr": "Parm osphere",
+     "de": "die Atmosphäre",
+     "es": "la atmósfera",
+     "it": "l'atmosfera",
+     "_pos": [
+      388,
+      739
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "crust",
+     "fr": "Pecoree",
+     "de": "die Erdkruste",
+     "es": "la corteza",
+     "it": "la crosta",
+     "_pos": [
+      790,
+      757
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "mantle",
+     "fr": "le manteau",
+     "de": "der Mantel",
+     "es": "el manto",
+     "it": "il mantello",
+     "_pos": [
+      386,
+      853
+     ],
+     "_flags": []
+    },
+    {
+     "en": "outer core",
+     "fr": "le noyau extérieur",
+     "de": "der äußere Kern",
+     "es": "el núcleo ex tem o",
+     "it": "il nucleo esterno",
+     "_pos": [
+      763,
+      936
+     ],
+     "_flags": []
+    },
+    {
+     "en": "inner core",
+     "fr": "le noyau intérieur",
+     "de": "der innere Kem",
+     "es": "el núcleo interno",
+     "it": "il nucleo interno",
+     "_pos": [
+      388,
+      952
+     ],
+     "_flags": []
+    },
+    {
+     "en": "planet",
+     "fr": "la planète",
+     "de": "der Planet",
+     "es": "el planeta",
+     "it": "il pianeta",
+     "_pos": [
+      56,
+      1049
+     ],
+     "_flags": []
+    },
+    {
+     "en": "section",
+     "fr": "la section",
+     "de": "der Längsschnitt",
+     "es": "la sección",
+     "it": "lo spaccato",
+     "_pos": [
+      566,
+      1050
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 4,
+  "flagged": 11,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

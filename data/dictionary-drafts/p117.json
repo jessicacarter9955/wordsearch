@@ -1,0 +1,297 @@
+{
+ "page": 117,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "jerusalem artichoke",
+     "fr": "le topinambour",
+     "de": "der Topinambur",
+     "es": "el topinambur",
+     "it": "il topinambur",
+     "_pos": [
+      712,
+      212
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rutabaga",
+     "fr": "le rutabaga",
+     "de": "die Kohlrübe",
+     "es": "el nabo sueco",
+     "it": "la rapa svedese",
+     "_pos": [
+      542,
+      212
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beet",
+     "fr": "la betterave",
+     "de": "die Rote Bete",
+     "es": "el betabel",
+     "it": "la barbabietola",
+     "_pos": [
+      371,
+      213
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweet potato",
+     "fr": "la patate douce",
+     "de": "die Süßkartoffel",
+     "es": "el camote",
+     "it": "la patata dolce",
+     "_pos": [
+      30,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yarn",
+     "fr": "l'igname",
+     "de": "die Jamswurzel",
+     "es": "el ñame",
+     "it": "l'igname",
+     "_pos": [
+      200,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tomato",
+     "fr": "la tomate",
+     "de": "die Tomate",
+     "es": "el jitomate",
+     "it": "I pomodoro",
+     "_pos": [
+      714,
+      409
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "eggplant",
+     "fr": "l'aubergine",
+     "de": "die Aubergine",
+     "es": "la berenjena",
+     "it": "la melanzana",
+     "_pos": [
+      544,
+      409
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parsnip",
+     "fr": "le panais",
+     "de": "die Pastinake",
+     "es": "la ch irivia",
+     "it": "la pastinaca",
+     "_pos": [
+      202,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ginger",
+     "fr": "le gingembre",
+     "de": "der Ingwer",
+     "es": "el jengibre",
+     "it": "lo zenzero",
+     "_pos": [
+      372,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horseradish",
+     "fr": "le raifort",
+     "de": "der Meerrettich",
+     "es": "el rábano picante",
+     "it": "il rafano",
+     "_pos": [
+      32,
+      412
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clove",
+     "fr": "la gousse",
+     "de": "die Zehe",
+     "es": "el diente",
+     "it": "lo spicchio",
+     "_pos": [
+      684,
+      491
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garlic",
+     "fr": "l'ail",
+     "de": "der Knoblauch",
+     "es": "el ajo",
+     "_pos": [
+      544,
+      606
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "shallot",
+     "fr": "l'échalote",
+     "de": "die Schalotte",
+     "es": "el chalote",
+     "it": "lo scalogno",
+     "_pos": [
+      374,
+      608
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leek",
+     "fr": "le poireau",
+     "de": "der Lauch",
+     "es": "el puerro",
+     "it": "il porro",
+     "_pos": [
+      218,
+      608
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scallion",
+     "fr": "la ciboule",
+     "de": "die Frühlingszwiebel",
+     "es": "el cebollin",
+     "it": "la cipollina",
+     "_pos": [
+      33,
+      610
+     ],
+     "_flags": []
+    },
+    {
+     "en": "truffle",
+     "fr": "la truffe",
+     "de": "die Trüffel",
+     "es": "la trufa",
+     "it": "il tartufo",
+     "_pos": [
+      274,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mushroom",
+     "fr": "le champignon",
+     "de": "der Pilz",
+     "es": "d cham piñón",
+     "it": "il fungo",
+     "_pos": [
+      35,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pumpkin",
+     "fr": "la citrouille",
+     "de": "der Kürbis",
+     "es": "la calabaza",
+     "it": "la zucca",
+     "_pos": [
+      720,
+      1017
+     ],
+     "_flags": []
+    },
+    {
+     "en": "acom squash",
+     "fr": "la courge gland",
+     "de": "der Eichelkurbis",
+     "es": "la calabaza bellota",
+     "it": "la zucca a ghianda",
+     "_pos": [
+      544,
+      1018
+     ],
+     "_flags": []
+    },
+    {
+     "en": "butternut squash",
+     "fr": "la courge musquée",
+     "de": "der Butternusskurbis",
+     "es": "la calabaza",
+     "it": "la zucca",
+     "_pos": [
+      370,
+      1019
+     ],
+     "_flags": []
+    },
+    {
+     "en": "zucchini",
+     "fr": "la courgette",
+     "de": "die Zucchini",
+     "es": "la calabacita",
+     "it": "la zucchina",
+     "_pos": [
+      197,
+      1020
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cucumber",
+     "fr": "le concombre",
+     "de": "die Gurke",
+     "es": "el pepino",
+     "it": "il cetriolo",
+     "_pos": [
+      37,
+      1021
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 2,
+  "flagged": 20,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

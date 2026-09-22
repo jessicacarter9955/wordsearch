@@ -1,0 +1,465 @@
+{
+ "page": 244,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "concerto",
+   "names": {
+    "en": "concert",
+    "fr": "le concert",
+    "de": "das konzert",
+    "es": "el concierto",
+    "it": "il concerto"
+   },
+   "entries": [
+    {
+     "en": "lead singer",
+     "fr": "chanteur",
+     "de": "Leadsänger",
+     "es": "vocalista",
+     "it": "cantante",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 10,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "microphone",
+     "fr": "microphone",
+     "de": "Mikrophon",
+     "es": "micrófono",
+     "it": "microfono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "drummer",
+     "fr": "barreur",
+     "de": "Schlagzeuger",
+     "es": "batterista",
+     "it": "batterista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "guitarist",
+     "fr": "guitariste",
+     "de": "Gitarrist",
+     "es": "guitarrista",
+     "it": "chitarrista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "speaker",
+     "fr": "haut-parleur",
+     "de": "Lautsprecher",
+     "es": "bocina",
+     "it": "altoparlante",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 12,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "fans",
+     "fr": "fans",
+     "de": "Fans",
+     "es": "fans",
+     "it": "fans",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "bass guitarist",
+     "fr": "bassiste",
+     "de": "Bassgitarrist",
+     "es": "balista",
+     "it": "bassista",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 13,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "lock concert",
+     "fr": "concert de rock",
+     "de": "Rockkonzert",
+     "es": "concierto de rock",
+     "it": "concerto rock",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 15,
+      "it": 12
+     }
+    }
+   ]
+  },
+  {
+   "slug": "strumenti",
+   "names": {
+    "en": "instruments",
+    "fr": "les instruments",
+    "de": "die instrumente",
+    "es": "los instrumentos",
+    "it": "gli strumenti"
+   },
+   "entries": [
+    {
+     "en": "pickup",
+     "fr": "pick-up",
+     "de": "Tonabnehmer",
+     "es": "pastilla",
+     "it": "riproduttore acustico",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 8,
+      "it": 20
+     }
+    },
+    {
+     "en": "neck",
+     "fr": "manche",
+     "de": "Hals",
+     "es": "mástil",
+     "it": "manico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "tuning peg",
+     "fr": "cheville",
+     "de": "Wirbel",
+     "es": "clavija",
+     "it": "piroio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "fret",
+     "fr": "sillet",
+     "de": "Bund",
+     "es": "traste",
+     "it": "tasto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "string",
+     "fr": "corde",
+     "de": "Saite",
+     "es": "cuerda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 6
+     }
+    },
+    {
+     "en": "bridge",
+     "fr": "chevalet",
+     "de": "Steg",
+     "es": "puente",
+     "it": "ponte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "drum",
+     "fr": "tambour la corda",
+     "de": "Trommel",
+     "es": "tambor",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 14,
+      "de": 7,
+      "es": 6
+     }
+    },
+    {
+     "en": "bass guitar",
+     "fr": "hasse",
+     "de": "Bassgitarre",
+     "es": "bajo",
+     "it": "basso",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 11,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "keyboard",
+     "fr": "piano électronique",
+     "de": "Keyboard",
+     "es": "teclado",
+     "it": "tastiera",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "electric guitar",
+     "fr": "giurare électrique",
+     "de": "elektrische Gitarre",
+     "es": "guitarra eléctrica",
+     "it": "chitarra elettrica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 18,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "drum kit",
+     "fr": "batterie",
+     "de": "Schlagzeug",
+     "es": "batería",
+     "it": "batteria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,392 @@
+{
+ "page": 135,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "black olive",
+     "fr": "Poliye noire",
+     "de": "schwarze Olive",
+     "es": "aceituna negra",
+     "it": "oliva nera",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 13,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "chili",
+     "fr": "pimenr",
+     "de": "Peperoni",
+     "es": "chile piquín",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 8,
+      "es": 11
+     }
+    },
+    {
+     "en": "sauce",
+     "fr": "sauce",
+     "de": "Soße",
+     "es": "salsa",
+     "it": "salsa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "meat pies",
+     "fr": "pâtés en croûte",
+     "de": "Pasteten » los pasteles de carne",
+     "it": "pasticci di carne",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 26,
+      "it": 15
+     }
+    },
+    {
+     "en": "roll",
+     "fr": "petit pain",
+     "de": "Brötchen",
+     "es": "panecillo",
+     "it": "panino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "cooked meat",
+     "fr": "viande cuite",
+     "de": "gekochte Fleisch",
+     "es": "fiambre",
+     "it": "carne cotta",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 15,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "green olive",
+     "fr": "Polivo verte",
+     "de": "grüne Olive",
+     "es": "aceituna verde",
+     "it": "oliva verde",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "sandwich counter",
+     "fr": "comptoir sandwichs",
+     "de": "Sandwichtheke",
+     "es": "mostrador de bocadillos",
+     "it": "paninoteca",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 13,
+      "es": 21,
+      "it": 10
+     }
+    },
+    {
+     "en": "ham",
+     "fr": "jambon",
+     "de": "Schinken",
+     "es": "jamón",
+     "it": "prosciutto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "capers",
+     "fr": "câpres",
+     "de": "Kapern",
+     "es": "alcaparras",
+     "it": "capperi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "Take a number, please",
+     "fr": "Prenez un num éro, s'il vous plaît",
+     "de": "Nehmen Sie bitte eine Nummer",
+     "es": "Tome un núm ero, por favor",
+     "it": "Prenda un numero, per favore",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 17,
+      "fr": 26,
+      "de": 24,
+      "es": 20,
+      "it": 23
+     }
+    },
+    {
+     "en": "chorizo",
+     "fr": "chorizo",
+     "de": "Chonzo",
+     "es": "chorizo",
+     "it": "chorizo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "Can I try some of that, please?",
+     "fr": "Est-ce que je peut goûter un peu de ça, s'il vous plaît V",
+     "de": "Kann ich bitte etwas davon probieren?",
+     "es": "Puedo probar un poco de eso?",
+     "it": "Posso assaggiare un po' di quello, per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 23,
+      "fr": 42,
+      "de": 31,
+      "es": 22,
+      "it": 36
+     }
+    },
+    {
+     "en": "May I have six slices of that, please?",
+     "fr": "Je voudrais six tranches, s'il vous plaît",
+     "de": "Ich hätte gerne sechs Scheiben davon, bitte",
+     "es": "M e pone seis rebanadas de aquél?",
+     "it": "Mi dà sei fette di quello, per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 29,
+      "fr": 33,
+      "de": 36,
+      "es": 26,
+      "it": 29
+     }
+    },
+    {
+     "en": "stuffed olive",
+     "fr": "olive fourrée",
+     "de": "gefüllte Olive",
+     "es": "aceituna rellena",
+     "it": "olive ripiene",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 13,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "ceosciutto",
+     "fr": "prosciutto",
+     "de": "Prosciutto",
+     "es": "jamón serrano",
+     "it": "prosciutto crudo",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 12,
+      "it": 15
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

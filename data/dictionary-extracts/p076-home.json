@@ -1,0 +1,512 @@
+{
+ "page": 76,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "wire cutter",
+     "fr": "pince cou pan re",
+     "de": "Drahtschneider",
+     "es": "cortaalam bres",
+     "it": "pinza tagliatilo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 14,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "wire stripper",
+     "fr": "pince à dénuder",
+     "de": "Enüsolierzange",
+     "es": "pelacables",
+     "it": "pinza spelafilo",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 14,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "electrical tape",
+     "fr": "ruban isolant",
+     "de": "Isolierband",
+     "es": "cinta aislante",
+     "it": "nastro isolante",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 11,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "soldering iron",
+     "fr": "fer à soutier",
+     "de": "Lotkolben",
+     "es": "soldador",
+     "it": "saldatoio",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "hobby kmfe",
+     "fr": "scalpel",
+     "de": "Skalpell",
+     "es": "escalpelo",
+     "it": "bisturi",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "fretsaw",
+     "fr": "scie à chantourner",
+     "de": "Schweilsage",
+     "es": "sierra de calar",
+     "it": "sega da traforo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 11,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "solder",
+     "fr": "soudure",
+     "de": "Lötzinn",
+     "es": "soldadura",
+     "it": "lega per saldatura",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 16
+     }
+    },
+    {
+     "en": "tenon saw",
+     "fr": "scie à dosseret",
+     "de": "Prolilsage",
+     "es": "serrucho de costilla",
+     "it": "sega per tenoni",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 10,
+      "es": 18,
+      "it": 13
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "safety goggles",
+     "fr": "lunettes de sécurité",
+     "de": "Schutzbrille",
+     "es": "gafas de seguridad",
+     "it": "occhiali protettivi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 12,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "handsaw",
+     "fr": "scic gome",
+     "de": "Fuchsschwanz",
+     "es": "serrucho",
+     "it": "seghetto",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 12,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "piane",
+     "fr": "rabot",
+     "de": "Hobel",
+     "es": "cepillo",
+     "it": "pialla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "miter block",
+     "fr": "boîte à onglets",
+     "de": "Gehrungslade",
+     "es": "caja para cortar en ìnglete",
+     "it": "cassetta guidalama per ugnature",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 12,
+      "es": 23,
+      "it": 28
+     }
+    },
+    {
+     "en": "steel wool",
+     "fr": "paille de 1er",
+     "de": "Stahlwolle",
+     "es": "lana de acero",
+     "it": "lana d'acciaio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 10,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "hand drill",
+     "fr": "perceuse manuelle",
+     "de": "Handbohrer",
+     "es": "taladro manual",
+     "it": "trapano manuale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 10,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "sandpaper",
+     "fr": "papier de verre",
+     "de": "Schmirgelpapier",
+     "es": "papel de lija",
+     "it": "carta vetrata",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 15,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "chisel",
+     "fr": "burin",
+     "de": "Meißel",
+     "es": "formón",
+     "it": "scalpello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "plunger",
+     "fr": "venrouse",
+     "de": "Sauger",
+     "es": "destapacaños lo sturalavandini",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 28
+     }
+    },
+    {
+     "en": "sharpening stone",
+     "fr": "pierre à aiguiser",
+     "de": "Wetzstahl",
+     "es": "piedra afiladora",
+     "it": "affilatorc",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 15,
+      "de": 9,
+      "es": 15,
+      "it": 10
+     }
+    },
+    {
+     "en": "file",
+     "fr": "lime",
+     "de": "Feile",
+     "es": "lima",
+     "it": "lima",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "pipe cutter",
+     "fr": "coupe-tubc",
+     "de": "Rohrab schneider",
+     "es": "cortatuberias",
+     "it": "tagliatubi",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 15,
+      "es": 13,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

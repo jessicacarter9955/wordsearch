@@ -1,0 +1,510 @@
+{
+ "page": 213,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "pallacanestro",
+   "names": {
+    "en": "basketball",
+    "fr": "le basket",
+    "de": "der basketball",
+    "es": "el baloncesto",
+    "it": "la pallacanestro"
+   },
+   "entries": [
+    {
+     "en": "sideline",
+     "fr": "ligne de touche",
+     "de": "Seitenlinie",
+     "es": "línea de banda",
+     "it": "linea laterale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 11,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "referee",
+     "fr": "Parbirrc",
+     "de": "Schiedsrichter",
+     "es": "árbitro",
+     "it": "arbitro",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 14,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "center circle",
+     "fr": "cercle central",
+     "de": "Mittelkreis",
+     "es": "circu lo central",
+     "it": "dischetto",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 9
+     }
+    },
+    {
+     "en": "free-throw Ime",
+     "fr": "ligne de lancer franc",
+     "de": "Freiwurflinie",
+     "es": "línea de tiro libre",
+     "it": "linea di tiro libero",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 13,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "endline",
+     "fr": "ligne de bout",
+     "de": "Endlinie",
+     "es": "línea de fondo",
+     "it": "linea di fondo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 8,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "Y i centerline",
+     "fr": "ligne de centre",
+     "de": "Mittellinie",
+     "es": "línea central",
+     "it": "linea di centro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 11,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "court",
+     "fr": "terrain",
+     "de": "Spielfeld",
+     "es": "cancha",
+     "it": "campo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "i three point line",
+     "fr": "ligne de trois points",
+     "de": "D reip u n ktlin ic",
+     "es": "línea de tres puntos",
+     "it": "linea dei tre punti",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 18,
+      "de": 14,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "backboard",
+     "fr": "panneau",
+     "de": "Korbbrett",
+     "es": "tablero",
+     "it": "tabellone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "number",
+     "fr": "numéro",
+     "de": "Spielernummer",
+     "es": "número",
+     "it": "numero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 13,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "pass",
+     "fr": "passe",
+     "de": "Pass",
+     "es": "pase",
+     "it": "passaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "throw in",
+     "fr": "rentrée",
+     "de": "Einwurf",
+     "es": "saque de banda",
+     "it": "rimessa",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "ball",
+     "fr": "ballon",
+     "de": "Basketball",
+     "es": "balón",
+     "it": "pallone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "hoop",
+     "fr": "anneau",
+     "de": "Korbring",
+     "es": "aro",
+     "it": "anello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 3,
+      "it": 6
+     }
+    },
+    {
+     "en": "foul",
+     "fr": "faute",
+     "de": "Foul",
+     "es": "falta",
+     "it": "fallo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "jump ball",
+     "fr": "entre-deux",
+     "de": "Schiedsnchterball",
+     "es": "salto entre dos",
+     "it": "tiro in sospensione",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 17,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "fr": "hict",
+     "de": "Netz",
+     "es": "red",
+     "it": "rete",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 4,
+      "de": 4,
+      "es": 3,
+      "it": 4
+     }
+    },
+    {
+     "en": "rebound",
+     "fr": "rebond",
+     "de": "Rebound",
+     "es": "rebote",
+     "it": "rimbalzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "out of bounds",
+     "fr": "hors jeu",
+     "de": "aus",
+     "es": "fuera de banda",
+     "it": "fuori campo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 3,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "basket",
+     "fr": "panier",
+     "de": "erKort",
+     "es": "canasta",
+     "it": "canestro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "basketball player",
+     "fr": "joueur de basket",
+     "de": "Basketballspieler",
+     "es": "jugador de baiom esto",
+     "it": "giocatore di pallacenestro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 14,
+      "de": 17,
+      "es": 18,
+      "it": 24
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

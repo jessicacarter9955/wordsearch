@@ -1,0 +1,413 @@
+{
+ "page": 228,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • LES S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "watersports • les sports aquatiques • der Wassersport • los deportes acuáticos • gli sport acquatici",
+   "parts": [
+    "watersports",
+    "les sports aquatiques",
+    "der wassersport",
+    "los deportes acuáticos",
+    "gli sport acquatici"
+   ],
+   "entries": [
+    {
+     "en": "oar",
+     "fr": "la rame",
+     "de": "das Ruder",
+     "es": "el remo",
+     "it": "il remo",
+     "_pos": [
+      314,
+      123
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rower",
+     "fr": "le rameur",
+     "de": "der Ruderer",
+     "es": "el remero",
+     "it": "il rematore",
+     "_pos": [
+      34,
+      123
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kayak",
+     "fr": "le kayak",
+     "de": "das Kajak",
+     "es": "fI I r it V íiíf",
+     "_pos": [
+      476,
+      123
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig",
+      "es:short:r",
+      "es:short:V"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "paddle",
+     "fr": "la pagaie",
+     "de": "das Paddel",
+     "es": "el remo",
+     "it": "la pagaia",
+     "_pos": [
+      729,
+      123
+     ],
+     "_flags": []
+    },
+    {
+     "en": "row (v)",
+     "fr": "ramer",
+     "de": "rudern",
+     "es": "rem ai",
+     "it": "remare",
+     "_pos": [
+      34,
+      320
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      460,
+      320
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "kayaking",
+      "le canoe",
+      "der Kanusport",
+      "el canotaje",
+      "il canottaggio waterski",
+      "le ski",
+      "der Wasserski",
+      "el esquí",
+      "lo so"
+     ]
+    },
+    {
+     "en": "surfboard",
+     "fr": "la planche",
+     "de": "das Surfbrett",
+     "es": "la tabla de su rf",
+     "_pos": [
+      246,
+      353
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "sail",
+     "fr": "la voile",
+     "de": "das Segei",
+     "es": "la vela",
+     "it": "la vela",
+     "_pos": [
+      34,
+      370
+     ],
+     "_flags": []
+    },
+    {
+     "en": "windsurfer",
+     "fr": "le planchiste",
+     "de": "der Windsurfer",
+     "es": "el w indsurfista",
+     "it": "il windsurf",
+     "_pos": [
+      34,
+      500
+     ],
+     "_flags": [
+      "es:short:w"
+     ]
+    },
+    {
+     "en": "surfing",
+     "fr": "le surf",
+     "de": "das Wellenreiten",
+     "es": "el surfing",
+     "it": "il surfing",
+     "_pos": [
+      248,
+      550
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waterskiing",
+     "fr": "le ski nautique",
+     "de": "das Wasserski",
+     "es": "el esquí acuático",
+     "it": "lo sci d'acqua",
+     "_pos": [
+      460,
+      550
+     ],
+     "_flags": []
+    },
+    {
+     "en": "speedboating",
+     "fr": "le moto nautisme",
+     "de": "der Schnellbootsport",
+     "es": "la carrera de lanchas",
+     "it": "la corsa in motoscafo",
+     "_pos": [
+      673,
+      550
+     ],
+     "_flags": []
+    },
+    {
+     "en": "footstrap",
+     "fr": "la bride",
+     "de": "die Fußschlaufe",
+     "es": "la an tapara el pie",
+     "it": "la presa per il piede",
+     "_pos": [
+      260,
+      648
+     ],
+     "_flags": []
+    },
+    {
+     "en": "board",
+     "fr": "la planche",
+     "de": "das Surfbrett",
+     "es": "la tabi.i",
+     "it": "la tavola",
+     "_pos": [
+      35,
+      649
+     ],
+     "_flags": [
+      "es:weird:tabi.i"
+     ]
+    },
+    {
+     "en": "rafting",
+     "fr": "le rafting",
+     "de": "das Rafting",
+     "es": "el ratting",
+     "it": "rafting",
+     "_pos": [
+      462,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jet-skiing",
+     "fr": "le jet-ski",
+     "de": "der Wassermotonadsporl",
+     "es": "la moto acuática",
+     "it": "l'acquascooter",
+     "_pos": [
+      674,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "windsurfing",
+     "fr": "la planche à voile",
+     "de": "das Windsurfing",
+     "es": "el w indsurf",
+     "it": "il windsurfing",
+     "_pos": [
+      36,
+      812
+     ],
+     "_flags": [
+      "es:short:w"
+     ]
+    },
+    {
+     "en": "crew",
+     "fr": "l'équipage",
+     "de": "die Crew",
+     "es": "la tripulación",
+     "it": "l'equipaggio",
+     "_pos": [
+      221,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wind",
+     "fr": "le vent",
+     "de": "der Wind",
+     "es": "el viento",
+     "it": "I vento",
+     "_pos": [
+      347,
+      878
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "surf",
+     "fr": "l'écume",
+     "de": "die Brandung",
+     "es": "la rompiente",
+     "it": "la cresta dell'onda",
+     "_pos": [
+      449,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sheet",
+     "fr": "l'écoute",
+     "de": "die Schot",
+     "es": "la escota",
+     "it": "la scotta",
+     "_pos": [
+      588,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "centerboard",
+     "fr": "la dérive",
+     "de": "das Schwert",
+     "es": "la orza",
+     "it": "il centro della tavola",
+     "_pos": [
+      706,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waterskier",
+     "fr": "le skieur nautique",
+     "de": "der Wasserskifahrer",
+     "es": "el esquiador acuático",
+     "it": "lo sciatore d'acqua",
+     "_pos": [
+      50,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "surfer",
+     "fr": "le surfeur",
+     "de": "der Surfer",
+     "es": "el surfista",
+     "it": "il surfista",
+     "_pos": [
+      50,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wave",
+     "fr": "la vague",
+     "de": "die Welle",
+     "es": "la ola",
+     "it": "l'onda",
+     "_pos": [
+      347,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rudder",
+     "fr": "le gouvernail",
+     "de": "das Ruder",
+     "es": "el timón",
+     "it": "il timone",
+     "_pos": [
+      588,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tack (v)",
+     "fr": "louvoyer",
+     "de": "aufkreuzen",
+     "es": "virar",
+     "it": "bordeggiare",
+     "_pos": [
+      222,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rapids",
+     "fr": "les rapides",
+     "de": "das Wildwasser",
+     "es": "los rápidos",
+     "it": "le rapide",
+     "_pos": [
+      450,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "capsize (v)",
+     "fr": "chavirer",
+     "de": "kentern",
+     "es": "volcar",
+     "it": "capovolgersi",
+     "_pos": [
+      706,
+      976
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 13,
+  "flagged": 16,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

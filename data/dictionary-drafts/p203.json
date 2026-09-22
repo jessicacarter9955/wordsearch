@@ -1,0 +1,298 @@
+{
+ "page": 203,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • l.l I R A N S P O R T • DER VERKEHR • E L IR A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "other ships • autres bateaux • andere Schiffe • otras embarcaciones • altre imbarcazioni",
+   "parts": [
+    "other ships",
+    "autres bateaux",
+    "andere schiffe",
+    "otras embarcaciones",
+    "altre imbarcazioni"
+   ],
+   "entries": [
+    {
+     "en": "outboard motor",
+     "fr": "le hors-bord",
+     "de": "der Außenbordmotor",
+     "es": "el motor fuera borda",
+     "it": "il motore fuoribordo",
+     "_pos": [
+      466,
+      104
+     ],
+     "_flags": []
+    },
+    {
+     "en": "'",
+     "it": "i",
+     "_pos": [
+      466,
+      239
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "slot-ambig",
+      "en:short:'"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "it"
+      ],
+      [
+       "de",
+       "it"
+      ],
+      [
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "” inflatable dinghy",
+     "fr": "le dinghy pneumatique",
+     "de": "das Schlauchboot",
+     "es": "la zodiac",
+     "it": "il gommone",
+     "_pos": [
+      468,
+      252
+     ],
+     "_flags": [
+      "en:weird:”"
+     ]
+    },
+    {
+     "en": "hydrofoil",
+     "fr": "Phydroptère",
+     "de": "das Tragflügelboot",
+     "es": "el hidrodeslizador",
+     "it": "l'aliscafo",
+     "_pos": [
+      680,
+      277
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "ferryboat",
+     "fr": "le ferry",
+     "de": "die Fähre",
+     "es": "el ferry",
+     "it": "il traghetto",
+     "_pos": [
+      42,
+      279
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hovercraft",
+     "fr": "l'aéroglisseur",
+     "de": "das Luftkissenboot",
+     "es": "el acrodeslizador",
+     "it": "l'hovcrcraft",
+     "_pos": [
+      682,
+      466
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tugboat",
+     "fr": "le remorqueur",
+     "de": "der Schleppdampfer",
+     "es": "el remolcador",
+     "it": "il rimorchiatore",
+     "_pos": [
+      469,
+      467
+     ],
+     "_flags": []
+    },
+    {
+     "en": "catamaran",
+     "fr": "le catamaran",
+     "de": "der Katamaran",
+     "es": "el catam arán",
+     "it": "il catamarano",
+     "_pos": [
+      256,
+      468
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yacht",
+     "fr": "le yacht",
+     "de": "die Jacht",
+     "es": "el yate",
+     "it": "lo yacht",
+     "_pos": [
+      44,
+      469
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hold",
+     "fr": "la cale",
+     "de": "der Frachtraum",
+     "es": "la bodega",
+     "it": "la stiva",
+     "_pos": [
+      684,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rigging",
+     "fr": "le gréement",
+     "de": "die Takelung",
+     "es": "las jarcias",
+     "it": "il sartiamet",
+     "_pos": [
+      470,
+      532
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      680,
+      810
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "freighter",
+      "le cargo",
+      "das Frachtschiff",
+      "c l buque de carga",
+      "la nave da trasporto conning tower",
+      "le kiosque",
+      "der Kommandoturm",
+      "la falsa torre",
+      "la torretta di comando"
+     ]
+    },
+    {
+     "en": "sailboat",
+     "fr": "le voilier",
+     "de": "das Segelboot",
+     "es": "el barco de vela",
+     "it": "la barca a vela",
+     "_pos": [
+      472,
+      812
+     ],
+     "_flags": []
+    },
+    {
+     "en": "container ship",
+     "fr": "le navire porte-conteneurs",
+     "de": "das Containerschiff",
+     "es": "el barco carguero",
+     "it": "la nave porta container",
+     "_pos": [
+      46,
+      813
+     ],
+     "_flags": []
+    },
+    {
+     "en": "submarine",
+     "fr": "le sous-marin",
+     "de": "das U-Boot",
+     "es": "el submarino",
+     "it": "il sottomarino",
+     "_pos": [
+      686,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "battleship",
+     "fr": "le navire de guerre",
+     "de": "das Kriegsschiff",
+     "es": "el barco de guerra",
+     "it": "la nave da guerra",
+     "_pos": [
+      474,
+      1026
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aircraft carrier",
+     "fr": "le porte avions",
+     "de": "der Flugzeugträger",
+     "es": "el portaaviones",
+     "it": "la portaerei",
+     "_pos": [
+      260,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oil tanker",
+     "fr": "le pétrolier",
+     "de": "der Öltanker",
+     "es": "el buque tanque",
+     "it": "la petroliera",
+     "_pos": [
+      48,
+      1028
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "V",
+   "pos": [
+    638,
+    239
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "\"",
+   "pos": [
+    537,
+    252
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 2,
+  "flagged": 16,
+  "missing_lang": 1,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

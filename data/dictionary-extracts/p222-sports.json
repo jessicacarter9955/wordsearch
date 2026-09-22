@@ -1,0 +1,632 @@
+{
+ "page": 222,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "bar",
+     "fr": "barre",
+     "de": "Latte",
+     "es": "barra",
+     "it": "sbarra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "bacon",
+     "fr": "bâton",
+     "de": "Stab",
+     "es": "relevo",
+     "it": "testimone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "hurdles",
+     "fr": "haies",
+     "de": "Hürdenlauf",
+     "es": "carrera de vallas",
+     "it": "corsa a ostacoli",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 10,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "high jump",
+     "fr": "saur en hauteur",
+     "de": "Hochsprung",
+     "es": "salto de altura",
+     "it": "salto in alto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 10,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "long jump",
+     "fr": "saut en longueur",
+     "de": "Weitsprung",
+     "es": "salto de longitud",
+     "it": "salto in lungo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 10,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "relay race",
+     "fr": "relais",
+     "de": "Staffellauf",
+     "es": "carrera de relevos",
+     "it": "staffetta",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 11,
+      "es": 16,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ginnastica",
+   "names": {
+    "en": "gymnastics",
+    "fr": "la gymnastique",
+    "de": "das turnen",
+    "es": "la gimnasia",
+    "it": "la ginnastica"
+   },
+   "entries": [
+    {
+     "en": "gymnast",
+     "fr": "gymnaste",
+     "de": "Turnerin",
+     "es": "gimnasta",
+     "it": "ginnasta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "springboard",
+     "fr": "tremplin",
+     "de": "Sprungbrett",
+     "es": "trampolín",
+     "it": "pedana elastica",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 11,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "borse",
+     "fr": "cheval",
+     "de": "Pferd",
+     "es": "caballo",
+     "it": "cavallo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "beam",
+     "fr": "poutre",
+     "de": "Schwebebalken",
+     "es": "viga de equilibrio",
+     "it": "trave",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 13,
+      "es": 16,
+      "it": 5
+     }
+    },
+    {
+     "en": "somersault",
+     "fr": "alto",
+     "de": "Salto",
+     "es": "salto m ortai",
+     "it": "capriola",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 4,
+      "de": 5,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "ribbon",
+     "fr": "drapeau",
+     "de": "Gymnastikband",
+     "es": "listón",
+     "it": "nastro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 13,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "y",
+     "it": "I",
+     "_multi": [],
+     "_grid_len": {
+      "en": 1,
+      "it": 1
+     }
+    },
+    {
+     "en": "rhythmic gymnastics",
+     "fr": "gymnastique rythmique",
+     "de": "rhythmische Gymnastik",
+     "es": "gimnasia ritm ica",
+     "it": "ginnastica ritmica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 20,
+      "de": 20,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "cartwheel",
+     "fr": "cabriole",
+     "de": "Bodenakrobatik",
+     "es": "voltereta la ruota",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 14,
+      "es": 16
+     }
+    },
+    {
+     "en": "floor exercises",
+     "fr": "exercises au sol",
+     "de": "Bodenturnen los ejercidosdepisolaginnasticaacorpo libero",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 53
+     }
+    },
+    {
+     "en": "vault",
+     "fr": "saur",
+     "de": "Sprung",
+     "es": "salto",
+     "it": "salto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "silver",
+     "fr": "argent",
+     "de": "Silber",
+     "es": "plata",
+     "it": "argento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "medals",
+     "fr": "médailles",
+     "de": "Medaillen",
+     "es": "m edallas",
+     "it": "medaglie",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "rings",
+     "fr": "anneaux",
+     "de": "Ringe",
+     "es": "argollas",
+     "it": "anelli",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "asymmetric bars",
+     "fr": "barres asymétriques",
+     "de": "Stufenbarren",
+     "es": "barras asim étricas",
+     "it": "sbarre asimmetriche",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 12,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "horizontal bar",
+     "fr": "barre fixe",
+     "de": "Reck",
+     "es": "barra fija",
+     "it": "sbarra",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 4,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "bronze",
+     "fr": "bronze",
+     "de": "Bronze",
+     "es": "bronce",
+     "it": "bronzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "podium",
+     "fr": "podium",
+     "de": "Siegerpodium",
+     "es": "podio",
+     "it": "podio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "gold",
+     "fr": "or",
+     "de": "Gold",
+     "es": "oro",
+     "it": "oro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 2,
+      "de": 4,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "pommel horse",
+     "fr": "cheval d'arçons",
+     "de": "Seitpferd",
+     "es": "caballo con arcos",
+     "it": "cavallo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 9,
+      "es": 15,
+      "it": 7
+     }
+    },
+    {
+     "en": "parallel bars",
+     "fr": "Ies barres parallèles",
+     "de": "Barren",
+     "es": "barras paralelas",
+     "it": "parallele",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 19,
+      "de": 6,
+      "es": 15,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

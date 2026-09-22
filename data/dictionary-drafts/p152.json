@@ -1,0 +1,370 @@
+{
+ "page": 152,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "STUDY • L'É T U D E • DAS LERNEN • EL E S T U D IO • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": "school • l'école • die Schule • la escuela • la scuola",
+   "parts": [
+    "school",
+    "l'école",
+    "die schule",
+    "la escuela",
+    "la scuola"
+   ],
+   "entries": [
+    {
+     "en": "teacher",
+     "fr": "l'institutrice",
+     "de": "die Lehrerin",
+     "es": "la maestra",
+     "it": "l'insegnante",
+     "_pos": [
+      105,
+      114
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chalkboard",
+     "fr": "le tableau",
+     "de": "die Tafel",
+     "es": "el pizarrón",
+     "it": "la lavagna",
+     "_pos": [
+      302,
+      114
+     ],
+     "_flags": []
+    },
+    {
+     "en": "schoolboy",
+     "fr": "l'écolier",
+     "de": "der Schuljunge",
+     "es": "el colegial",
+     "it": "lo scolaro",
+     "_pos": [
+      474,
+      320
+     ],
+     "_flags": []
+    },
+    {
+     "en": "school uniform",
+     "fr": "l'uniforme",
+     "de": "die Schuluniform",
+     "es": "el uniforme",
+     "it": "la divisa scolastica",
+     "_pos": [
+      594,
+      379
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pupil",
+     "fr": "I'eleve",
+     "de": "der Schüler",
+     "es": "el alumno",
+     "it": "l'alunno",
+     "_pos": [
+      476,
+      380
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "desk",
+     "fr": "le pupitre",
+     "de": "das Pult",
+     "es": "el pupitre",
+     "it": "il banco",
+     "_pos": [
+      476,
+      480
+     ],
+     "_flags": []
+    },
+    {
+     "en": "book bag",
+     "fr": "le cartable",
+     "de": "die Schultasche",
+     "es": "mochila",
+     "it": "la cartella",
+     "_pos": [
+      631,
+      496
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chalk",
+     "fr": "la craie",
+     "de": "die Kreide",
+     "es": "el gis",
+     "it": "il gesso",
+     "_pos": [
+      502,
+      580
+     ],
+     "_flags": []
+    },
+    {
+     "en": "schoolgirl",
+     "fr": "l'èco!ièrc",
+     "de": "das Schulmädchen",
+     "es": "la colegiala",
+     "it": "la scolara",
+     "_pos": [
+      692,
+      612
+     ],
+     "_flags": [
+      "fr:weird:l'èco!ièrc"
+     ]
+    },
+    {
+     "en": "classroom",
+     "fr": "la salle de classe",
+     "de": "das Klassenzimmer",
+     "es": "el salón",
+     "it": "l'aula",
+     "_pos": [
+      46,
+      631
+     ],
+     "_flags": []
+    },
+    {
+     "en": "physics",
+     "fr": "la physique",
+     "de": "die Physik",
+     "es": "La física",
+     "it": "la fìsica",
+     "_pos": [
+      310,
+      689
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "history",
+     "fr": "l'histoire",
+     "de": "die Geschichte",
+     "es": "la historia",
+     "it": "la storia",
+     "_pos": [
+      60,
+      690
+     ],
+     "_flags": []
+    },
+    {
+     "en": "art",
+     "fr": "l'art",
+     "de": "die Kunst",
+     "es": "el arte",
+     "it": "l'arte",
+     "_pos": [
+      168,
+      690
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "activities • les activités • die Aktivitäten • las actividades • le attività",
+   "parts": [
+    "activities",
+    "les activités",
+    "die aktivitäten",
+    "las actividades",
+    "le attività"
+   ],
+   "entries": [
+    {
+     "en": "chemistry",
+     "fr": "la chimie",
+     "de": "die Chemie",
+     "es": "la química",
+     "it": "la chimica",
+     "_pos": [
+      312,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "geography",
+     "fr": "la géographie",
+     "de": "die Erdkunde",
+     "es": "la geografía",
+     "it": "la geografia",
+     "_pos": [
+      60,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "music",
+     "fr": "la musique",
+     "de": "die Musik",
+     "es": "la m ùsica",
+     "it": "la musica",
+     "_pos": [
+      169,
+      792
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "write (v)",
+     "fr": "écrire",
+     "de": "schreiben",
+     "es": "escribir",
+     "it": "scrivere",
+     "_pos": [
+      696,
+      862
+     ],
+     "_flags": []
+    },
+    {
+     "en": "read (v)",
+     "fr": "lire",
+     "de": "lesen",
+     "es": "leer",
+     "it": "leggere",
+     "_pos": [
+      478,
+      863
+     ],
+     "_flags": []
+    },
+    {
+     "en": "math",
+     "fr": "les mathématiques",
+     "de": "die Mathematik",
+     "es": "las m atem áticas",
+     "it": "la matematica",
+     "_pos": [
+      170,
+      894
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "biology",
+     "fr": "la biologie",
+     "de": "die Biologie",
+     "es": "labio logia",
+     "it": "la biologia",
+     "_pos": [
+      312,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "literature",
+     "fr": "la littérature",
+     "de": "die Literatur",
+     "es": "la literatura",
+     "it": "la letteratura",
+     "_pos": [
+      61,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "physical education",
+     "fr": "l'éducation physique",
+     "de": "der Sport",
+     "es": "la educación física",
+     "it": "l'educazione fisica",
+     "_pos": [
+      312,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "languages",
+     "fr": "les langues",
+     "de": "die Sprachen",
+     "es": "los idiomas",
+     "it": "le lingue",
+     "_pos": [
+      62,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "science",
+     "fr": "les sciences",
+     "de": "die Naturwissenschaft",
+     "es": "la ciencia",
+     "it": "la scienza",
+     "_pos": [
+      170,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "draw (v)",
+     "fr": "dessiner",
+     "de": "zeichnen",
+     "es": "dibujar",
+     "it": "disegnare",
+     "_pos": [
+      696,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spell (v)",
+     "fr": "épeler",
+     "de": "buchstabieren",
+     "es": "deletrear",
+     "it": "scandire",
+     "_pos": [
+      480,
+      1046
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 12,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,431 @@
+{
+ "page": 167,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "mass-media",
+   "names": {
+    "en": "media",
+    "fr": "les médias",
+    "de": "die medien",
+    "es": "los medios de comunicación",
+    "it": "i mass media"
+   },
+   "entries": []
+  },
+  {
+   "slug": "studio-televisivo",
+   "names": {
+    "en": "television studio",
+    "fr": "le studio de télévision",
+    "de": "das fernsehstudio",
+    "es": "el estudio de televisión",
+    "it": "lo studio televisivo"
+   },
+   "entries": [
+    {
+     "en": "host",
+     "fr": "présentateur",
+     "de": "Moderator",
+     "es": "presentador",
+     "it": "presentatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 12,
+      "de": 9,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "set",
+     "fr": "plateau",
+     "de": "Studioeinrichtung",
+     "es": "plato",
+     "it": "set",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 17,
+      "es": 5,
+      "it": 3
+     }
+    },
+    {
+     "en": "light",
+     "fr": "éclairage",
+     "de": "Beleuchtung",
+     "es": "reflet-tor",
+     "it": "lampada",
+     "_multi": [],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "camera",
+     "fr": "caméra",
+     "de": "Kamera",
+     "es": "cámara",
+     "it": "telecamera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "I camera crane",
+     "fr": "grue de caméra",
+     "de": "Kamerakran",
+     "es": "grúa de la cámara",
+     "it": "carrello della telecamera",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 23
+     }
+    },
+    {
+     "en": "> cameraman",
+     "fr": "It cam eram an",
+     "de": "Kameramann",
+     "es": "camarógrafo",
+     "it": "cameraman",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 10,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "channel",
+     "fr": "chaîne",
+     "de": "Kanal",
+     "es": "canal",
+     "it": "canale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "documentary",
+     "fr": "documentaire",
+     "de": "Dokumentarfilm",
+     "es": "documental",
+     "it": "documentano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 14,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "press",
+     "fr": "presse",
+     "de": "Presse",
+     "es": "prensa",
+     "it": "stampa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "soap",
+     "fr": "feuilleton",
+     "de": "Seifenoper",
+     "es": "telenovela",
+     "it": "telenovela",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "cartoon",
+     "fr": "dessin animé",
+     "de": "Zeichentrickfilm",
+     "es": "caricaturas",
+     "it": "cartone animato",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 16,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "live",
+     "fr": "en direct",
+     "de": "live",
+     "es": "en directo",
+     "it": "in diretta",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 4,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "programming",
+     "fr": "programmation",
+     "de": "Programmgestaltung",
+     "es": "programación",
+     "it": "programmazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 18,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "news",
+     "fr": "nouvelles",
+     "de": "Nachrichten",
+     "es": "noticiario",
+     "it": "telegiornale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 11,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "television senes",
+     "fr": "série télévisée",
+     "de": "Fernsehserie",
+     "es": "serie televisiva",
+     "it": "serie televisiva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 14,
+      "de": 12,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "game show",
+     "fr": "jeu télévisé",
+     "de": "Spielshow",
+     "es": "concurso",
+     "it": "gioco a premi",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 9,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "prerecorded",
+     "fr": "en différé",
+     "de": "vorher aufgezeichnet",
+     "es": "pregrabado",
+     "it": "in differita",
+     "_multi": [
+      "fr",
+      "de",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 19,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "broadcast (v)",
+     "fr": "émettre",
+     "de": "senden",
+     "es": "transmitir",
+     "it": "trasmettere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 6,
+      "es": 10,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

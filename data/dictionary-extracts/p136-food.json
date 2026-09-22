@@ -1,0 +1,507 @@
+{
+ "page": 136,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "heißen Getränke",
+     "es": "bebidas calientes",
+     "it": "bevande calde",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 15,
+      "es": 16,
+      "it": 12
+     }
+    },
+    {
+     "en": "bottled water",
+     "fr": "eau en bouteille",
+     "de": "Flaschenwasser",
+     "es": "agua embotellada",
+     "it": "acqua in bottiglia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 14,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "sparkling",
+     "fr": "gazeux",
+     "de": "mit Kohlensäure",
+     "es": "con gas",
+     "it": "frizzante",
+     "_multi": [
+      "de",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 14,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "teabag",
+     "fr": "sachet de thé",
+     "de": "Teebeutel",
+     "es": "bolsita de té",
+     "it": "bustina di tè",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 9,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "loose leaf tea",
+     "fr": "feuilles de thé",
+     "de": "Teeblätter el té en hoja il tè sciolto",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 31
+     }
+    },
+    {
+     "en": "tap water",
+     "fr": "eau du robinet",
+     "de": "Leitungswasser",
+     "es": "agua de la llave",
+     "it": "acqua dal rubinetto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 14,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "noncarbonated",
+     "fr": "non gazeux",
+     "de": "ohne Kohlensäure",
+     "es": "sin gas",
+     "it": "liscia",
+     "_multi": [
+      "fr",
+      "de",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 15,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "ground coffee",
+     "fr": "café moulu",
+     "de": "gemahlene Kaffee",
+     "es": "café molido",
+     "it": "caffè macinato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 15,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "tonic water",
+     "fr": "tonic",
+     "de": "Toniewater la tònica",
+     "it": "acqua tonica",
+     "_multi": [
+      "en",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 18,
+      "it": 11
+     }
+    },
+    {
+     "en": "coffee",
+     "fr": "café",
+     "de": "Kaffee",
+     "es": "café",
+     "it": "cafté",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "hot chocolate",
+     "fr": "chocolat chaud",
+     "de": "heiße Schokolade",
+     "es": "chocolate caliente",
+     "it": "cioccolato caldo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 16,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "malted drink",
+     "fr": "boisson maltée",
+     "de": "Malzgetränk",
+     "es": "bebida m aìteada",
+     "it": "bevanda",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "en": "soda water",
+     "fr": "soda",
+     "de": "Sodawasser",
+     "es": "soda",
+     "it": "soda",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 10,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "mineral water",
+     "fr": "eau minérale",
+     "de": "Mineralwasser",
+     "es": "agua mineral",
+     "it": "acqua minerale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 13,
+      "es": 11,
+      "it": 13
+     }
+    }
+   ]
+  },
+  {
+   "slug": "le",
+   "names": {
+    "en": "soft drinks",
+    "fr": "les boissons non alcoolisées",
+    "de": "die alkoholfreien getränke",
+    "es": "los refrescos",
+    "it": "le"
+   },
+   "entries": [
+    {
+     "en": "straw",
+     "fr": "paille",
+     "de": "Strohhalm",
+     "es": "popote",
+     "it": "cannuccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "tornato juice",
+     "fr": "jus de tornare",
+     "de": "Tomatensaft",
+     "es": "jugo de tomate",
+     "it": "succo di pomodoro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 11,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "grape juice",
+     "fr": "jus de raisin",
+     "de": "Traubensaft",
+     "es": "jugo de uva",
+     "it": "succo d'uva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "lemonade",
+     "fr": "limonade",
+     "de": "Limonade",
+     "es": "limonada",
+     "it": "limonata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "orangeade",
+     "fr": "orangeade",
+     "de": "Orangeade",
+     "es": "naranjada",
+     "it": "spremuta d'arancia",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 16
+     }
+    },
+    {
+     "en": "cola",
+     "fr": "coca",
+     "de": "Cola",
+     "es": "cola",
+     "it": "lac oca",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

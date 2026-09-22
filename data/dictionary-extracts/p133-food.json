@@ -1,0 +1,478 @@
+{
+ "page": 133,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "lady fingers",
+     "fr": "boudoirs",
+     "de": "Löffelbiskuits",
+     "es": "soletillas",
+     "it": "savoiardi",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 14,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "chocolate chip",
+     "fr": "pépites Àt chocolat",
+     "de": "Schokoladenstückchen",
+     "es": "chips de chocolate",
+     "it": "biscotto con scaglie di cioccolato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 20,
+      "es": 16,
+      "it": 30
+     }
+    },
+    {
+     "en": "florentine",
+     "fr": "florentine",
+     "de": "Florentiner",
+     "es": "florentina",
+     "it": "biscotto alle noci",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "trifle",
+     "fr": "diplomate",
+     "de": "Trifle",
+     "es": "postre de soletillas, gelatina de frutas y crem a",
+     "it": "zuppa inglese",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 6,
+      "es": 40,
+      "it": 12
+     }
+    },
+    {
+     "en": "cookies",
+     "fr": "biscuits",
+     "de": "Kekse",
+     "es": "galletas",
+     "it": "biscotti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "sorbet",
+     "fr": "sorbet",
+     "de": "Sorbett",
+     "es": "sorbete",
+     "it": "sorbetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "crème caramel",
+     "fr": "crème caramel",
+     "de": "Karamellpudding",
+     "es": "flan",
+     "it": "crème caramel",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 15,
+      "es": 4,
+      "it": 12
+     }
+    },
+    {
+     "en": "custard pie",
+     "fr": "tarte à la crème",
+     "de": "Sahnetorte",
+     "es": "pastel de crema",
+     "it": "torta alla crema",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 10,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "Trousse",
+     "fr": "mousse",
+     "de": "Mousse",
+     "es": "mousse",
+     "it": "mousse",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "fr": "torte per celebrazioni",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "fr": 20
+     }
+    },
+    {
+     "en": "ribbon",
+     "fr": "ruban",
+     "de": "Band",
+     "es": "listón",
+     "it": "nastro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "decoration",
+     "fr": "décoration",
+     "de": "Dekoration",
+     "es": "decoración",
+     "it": "decorazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "blowout v j",
+     "fr": "souffler",
+     "de": "ausblasen",
+     "es": "apagar",
+     "it": "soffiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "birthday candles",
+     "fr": "bougies d'anniversaire",
+     "de": "Geburtstagskerzen",
+     "es": "velas de cumpleaños",
+     "it": "candeline",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 20,
+      "de": 17,
+      "es": 17,
+      "it": 9
+     }
+    },
+    {
+     "en": "top tier",
+     "fr": "étage supérieur",
+     "de": "obere Kuchenteil",
+     "es": "ùltim o piso",
+     "it": "piano superiore",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 15,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "bottom tier",
+     "fr": "Pérage inférieur",
+     "de": "untere Kuchenteil",
+     "es": "primer piso",
+     "it": "piano",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 16,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "icing",
+     "fr": "glaçage",
+     "de": "Zuckerguss",
+     "es": "alcorza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 10,
+      "es": 7
+     }
+    },
+    {
+     "en": "marzipan",
+     "fr": "pâte d'amandes",
+     "de": "Marzipan",
+     "es": "mazapán",
+     "it": "marzapane",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "birthday cake",
+     "fr": "gâteau d' anniversaire",
+     "de": "Geburtstagskuchen",
+     "es": "pastel de cumpleaños",
+     "it": "torta di compleanno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 19,
+      "de": 17,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "wedding cake",
+     "fr": "gâteau de manage",
+     "de": "Hochzeitstorte",
+     "es": "pastel de bodas",
+     "it": "torta nuziale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 14,
+      "es": 13,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

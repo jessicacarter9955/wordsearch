@@ -1,0 +1,362 @@
+{
+ "page": 25,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "macro_slug": "persone",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "feste-e-celebrazioni",
+   "names": {
+    "en": "celebrations",
+    "fr": "les fêtes",
+    "de": "die Feste",
+    "es": "las celebraciones",
+    "it": "le celebrazioni"
+   },
+   "entries": [
+    {
+     "en": "card",
+     "fr": "carte",
+     "de": "Karte",
+     "es": "tarjeta",
+     "it": "cartolina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "birthday party",
+     "fr": "fête",
+     "de": "Geburtstagsfeier",
+     "es": "fiesta de cumpleaños",
+     "it": "festa di compleanno",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 4,
+      "de": 16,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "present",
+     "fr": "cadeau",
+     "de": "Geschenk",
+     "es": "regalo",
+     "it": "regalo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "Passover",
+     "fr": "Pâque",
+     "de": "Passah",
+     "es": "Pascua judía",
+     "it": "Pasqua ebraica",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 6,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "Christmas",
+     "fr": "Noël",
+     "de": "Weihnachten",
+     "es": "Navidad",
+     "it": "Natale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 11,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "birthday",
+     "fr": "anniversaire",
+     "de": "Geburtstag",
+     "es": "cumpleaños",
+     "it": "compleanno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "procession",
+     "fr": "défilé",
+     "de": "Umzug",
+     "es": "desfile",
+     "it": "processione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "Ramadan",
+     "fr": "Ramadan",
+     "de": "Ramadan",
+     "es": "Ramadán",
+     "it": "Ramadan",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "carnival",
+     "fr": "carnaval",
+     "de": "Karneval",
+     "es": "carnaval",
+     "it": "carnevale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "New Year",
+     "fr": "Nouvel An",
+     "de": "Neujahr",
+     "es": "Año Nuevo",
+     "it": "Capodanno",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "ribbon",
+     "fr": "ruban",
+     "de": "Band",
+     "es": "cinta",
+     "it": "nastro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "Diwali",
+     "fr": "Diwali",
+     "de": "Diwali",
+     "es": "Diwali",
+     "it": "Diwali",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "Halloween",
+     "fr": "veille de la Tous saint",
+     "de": "Halloween",
+     "es": "día de Halloween",
+     "it": "vigilia d'Ognissanti",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 19,
+      "de": 9,
+      "es": 14,
+      "it": 18
+     }
+    },
+    {
+     "en": "Thanksgiving",
+     "fr": "fête de Thanksgiving",
+     "de": "Thanksgiving Day",
+     "es": "día de Acción de Gracias",
+     "it": "giorno del ringraziamento",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 15,
+      "es": 20,
+      "it": 23
+     }
+    },
+    {
+     "en": "Easter",
+     "fr": "Pâques",
+     "de": "Ostern",
+     "es": "Pascua",
+     "it": "Pasqua",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Titolo pagina 'festivals and celebrations' spezzato su più righe nell'OCR: gruppo G0 (festivals, senza voci) eliminato e voce-titolo 1.0 eliminata; gruppo nominato dalla riga completa (celebrations)."
+}

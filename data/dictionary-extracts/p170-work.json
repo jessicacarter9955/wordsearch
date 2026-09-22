@@ -1,0 +1,527 @@
+{
+ "page": 170,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "criminal",
+     "fr": "criminel",
+     "de": "Straftäter",
+     "es": "criminal",
+     "it": "criminale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "court reporter",
+     "fr": "scénographe",
+     "de": "Gerichtsstenograf",
+     "es": "taquígrafa",
+     "it": "stenografo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 17,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "suspect",
+     "fr": "suspect",
+     "de": "Verdächtige",
+     "es": "sospechoso",
+     "it": "persona sospetta",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "—",
+     "fr": "—",
+     "es": "« T",
+     "_multi": [
+      "es"
+     ],
+     "_grid_len": {
+      "en": 0,
+      "fr": 0,
+      "es": 1
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "defense",
+     "fr": "défense",
+     "de": "Verteidigung",
+     "es": "defensa",
+     "it": "difesa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "fr": "W M SZ-srSz",
+     "_multi": [
+      "fr"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "fr": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "SäNfcÄÄÄflCX A Ä t t V f t cnminal record",
+     "fr": "casier indiciare",
+     "de": "Strafregister",
+     "es": "antecedentes",
+     "it": "fedina penale",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 32,
+      "fr": 15,
+      "de": 13,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "facial composite",
+     "fr": "portrait robot",
+     "de": "Phantombild",
+     "es": "retrato hablado",
+     "it": "fotofit",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "en": "defendant",
+     "fr": "accusé",
+     "de": "Angeklagte",
+     "es": "el",
+     "it": "imputato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 10,
+      "es": 2,
+      "it": 8
+     }
+    },
+    {
+     "en": "prison",
+     "fr": "prison",
+     "de": "Gefängnis",
+     "es": "cárcel",
+     "it": "carcere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "cell",
+     "fr": "cellule",
+     "de": "Gefängniszelle",
+     "es": "celda",
+     "it": "cella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 14,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "prison guard",
+     "fr": "gardien de prison",
+     "de": "Gefängniswärter",
+     "es": "celador",
+     "it": "guardia carceraria",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 15,
+      "es": 7,
+      "it": 17
+     }
+    },
+    {
+     "en": "1 want to see a lawyer",
+     "fr": "Je voudrais voir un avocat",
+     "de": "Ich möchte mit einem Anwalt sprechen",
+     "es": "Quier overa un abogado",
+     "it": "Voglio vedere un avvocato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 17,
+      "fr": 22,
+      "de": 31,
+      "es": 19,
+      "it": 22
+     }
+    },
+    {
+     "en": "bail",
+     "fr": "caution",
+     "de": "Kaution",
+     "es": "fianza",
+     "it": "cauzione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "guilty",
+     "fr": "coupable",
+     "de": "schuldig",
+     "es": "culpable",
+     "it": "colpevole",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "evidence",
+     "fr": "preuve",
+     "de": "Beweismittel",
+     "es": "evidencia",
+     "it": "prova",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 12,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "W here is the courthouse?",
+     "fr": "Où est le palais de justice",
+     "de": "Wo ist das Gericht?",
+     "es": "D ónde está el juzgado",
+     "it": "Dov'è il palazzo di giustizia?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 22,
+      "de": 15,
+      "es": 18,
+      "it": 24
+     }
+    },
+    {
+     "en": "appeal",
+     "fr": "appel",
+     "de": "Berufung",
+     "es": "apelación",
+     "it": "ricorso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 8,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "acquitted",
+     "fr": "acquitté",
+     "de": "freigesprochen",
+     "es": "absuelto",
+     "it": "assolto",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 14,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "verdict",
+     "fr": "verdict",
+     "de": "Urteil",
+     "es": "ei veredicto",
+     "it": "verdetto",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "O n 1 post bail?",
+     "fr": "Est-ce que je peux verser la caution?",
+     "de": "Kann ich die Kaution leisten?",
+     "es": "Puedo pagar la fianza?",
+     "it": "Posso versare una cauzione?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 29,
+      "de": 24,
+      "es": 18,
+      "it": 23
+     }
+    },
+    {
+     "en": "parole",
+     "fr": "liberté conditionnelle",
+     "de": "Haftentlassung auf Bewährung",
+     "es": "libertad condicional",
+     "it": "libertà per buona condotta",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 21,
+      "de": 26,
+      "es": 19,
+      "it": 23
+     }
+    },
+    {
+     "en": "sentence",
+     "fr": "condamnation",
+     "de": "Strafmaß",
+     "es": "sentencia",
+     "it": "sentenza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 9,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "innocent",
+     "fr": "innocent",
+     "de": "unschuldig",
+     "es": "inocente",
+     "it": "innocente",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

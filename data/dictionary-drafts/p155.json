@@ -1,0 +1,475 @@
+{
+ "page": 155,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "S T U D Y • L* É T U D E • DAS LERNEN • E I . E S T U D IO • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "unes",
+     "fr": "le lignes",
+     "de": "dieLinien",
+     "es": "la s lin e a s",
+     "it": "le linee",
+     "_pos": [
+      27,
+      82
+     ],
+     "_flags": [
+      "es:short:s"
+     ]
+    },
+    {
+     "en": "curved",
+     "fr": "courbe",
+     "de": "gekrümmt",
+     "es": "curvo",
+     "it": "curvo",
+     "_pos": [
+      657,
+      196
+     ],
+     "_flags": []
+    },
+    {
+     "en": "perpendicular",
+     "fr": "perpendiculaire",
+     "de": "senkrecht",
+     "es": "perpendicular",
+     "it": "perpendicolare",
+     "_pos": [
+      396,
+      196
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parallel",
+     "fr": "parallèle",
+     "de": "parallel",
+     "es": "paralelo",
+     "it": "parallelo",
+     "_pos": [
+      218,
+      198
+     ],
+     "_flags": []
+    },
+    {
+     "en": "straight",
+     "fr": "droit",
+     "de": "gerade",
+     "es": "recto",
+     "it": "dritto",
+     "_pos": [
+      28,
+      199
+     ],
+     "_flags": []
+    },
+    {
+     "en": "measurements",
+     "fr": "Ic s m e s u re s",
+     "de": "die Maße",
+     "es": "la s m e d id a s",
+     "it": "le misure",
+     "_pos": [
+      30,
+      273
+     ],
+     "_flags": [
+      "fr:short:s",
+      "fr:short:m",
+      "fr:short:u",
+      "fr:case",
+      "es:short:s",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "numerator",
+     "fr": "le numérateur",
+     "de": "der Zähler",
+     "es": "el numerador",
+     "it": "il numeratore",
+     "_pos": [
+      263,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "width",
+     "fr": "la largeur",
+     "de": "die Breite",
+     "es": "la anchura",
+     "it": "la larghezza",
+     "_pos": [
+      689,
+      312
+     ],
+     "_flags": []
+    },
+    {
+     "en": "length",
+     "fr": "la longueur",
+     "de": "die Länge",
+     "es": "la longitud",
+     "it": "la lunghezza",
+     "_pos": [
+      789,
+      312
+     ],
+     "_flags": []
+    },
+    {
+     "en": "height",
+     "fr": "la hauteur",
+     "de": "die Höhe",
+     "es": "la altura",
+     "it": "l'altezza",
+     "_pos": [
+      588,
+      346
+     ],
+     "_flags": []
+    },
+    {
+     "en": "denominator",
+     "fr": "le dénominateur",
+     "de": "der Nenner",
+     "es": "tl denominador",
+     "it": "il denominatore",
+     "_pos": [
+      264,
+      397
+     ],
+     "_flags": []
+    },
+    {
+     "en": "depth",
+     "fr": "l:i profondeur",
+     "de": "die Tiefe",
+     "es": "la profundidad",
+     "it": "la profondità",
+     "_pos": [
+      588,
+      479
+     ],
+     "_flags": [
+      "fr:weird:l:i"
+     ]
+    },
+    {
+     "en": "area",
+     "fr": "l'aire",
+     "de": "die Fläche",
+     "es": "el área",
+     "it": "la superficie",
+     "_pos": [
+      720,
+      496
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dimensions",
+     "fr": "les dimensions",
+     "de": "die Abmessungen",
+     "es": "las dim ensiones",
+     "it": "le dimensioni",
+     "_pos": [
+      387,
+      496
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fraction",
+     "fr": "la traction",
+     "de": "der Bruch",
+     "es": "la fracción",
+     "it": "la frazione",
+     "_pos": [
+      202,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "volume",
+     "fr": "le volume",
+     "de": "das Volumen",
+     "es": "el volumen",
+     "it": "il volume",
+     "_pos": [
+      31,
+      499
+     ],
+     "_flags": []
+    },
+    {
+     "en": "equipment",
+     "fr": "l 'équipe ment",
+     "de": "die Ausrüstung",
+     "es": "los materia les",
+     "it": "l'attrezzatura",
+     "_pos": [
+      30,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "calculator",
+     "fr": "la calculatrice",
+     "de": "der Taschenrechner",
+     "es": "la calculadora",
+     "it": "la calcolatrice",
+     "_pos": [
+      732,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "compass",
+     "fr": "le compas",
+     "de": "der Zirkel",
+     "es": "el compás",
+     "it": "il compasso",
+     "_pos": [
+      560,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "protractor",
+     "fr": "le rapporteur",
+     "de": "der Winkelmesser",
+     "es": "el transportador",
+     "it": "il goniometro",
+     "_pos": [
+      204,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ruler",
+     "fr": "la règle",
+     "de": "das Lineal",
+     "es": "la regla",
+     "it": "il righello",
+     "_pos": [
+      401,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set square",
+     "fr": "l'équerre",
+     "de": "das Zeichendreieck",
+     "es": "la escuadra",
+     "it": "la squadra",
+     "_pos": [
+      32,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "equation",
+     "fr": "l'équation",
+     "de": "die Gleichung",
+     "es": "la ecuación",
+     "it": "l'equazione",
+     "_pos": [
+      754,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "add (v)",
+     "fr": "additionner",
+     "de": "addieren",
+     "es": "sumar",
+     "it": "sommare",
+     "_pos": [
+      517,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "multiply (v)",
+     "fr": "multiplier",
+     "de": "multiplizieren",
+     "es": "multiplicar",
+     "it": "moltiplicare",
+     "_pos": [
+      636,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "times",
+     "fr": "fois",
+     "de": "mal",
+     "es": "m ultiplicado por",
+     "it": "moltipllcato per",
+     "_pos": [
+      261,
+      897
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "equals",
+     "fr": "égalc nt",
+     "de": "gleich",
+     "es": "igual a",
+     "it": "uguale",
+     "_pos": [
+      416,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plus",
+     "fr": "plus",
+     "de": "plus",
+     "es": "mas",
+     "it": "più",
+     "_pos": [
+      177,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "geometry",
+     "fr": "la géométrie",
+     "de": "die Geometrie",
+     "es": "la geometría",
+     "it": "la geometria",
+     "_pos": [
+      48,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "percentage",
+     "fr": "le pourcentage",
+     "de": "der Prozentsatz",
+     "es": "el porcentaje",
+     "it": "la percentuale",
+     "_pos": [
+      756,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "divide (v)",
+     "fr": "diviser",
+     "de": "dividieren",
+     "es": "dividir",
+     "it": "dividere",
+     "_pos": [
+      636,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "subtract (v)",
+     "fr": "soustraire",
+     "de": "subtrahieren",
+     "es": "restar",
+     "it": "sottrarre",
+     "_pos": [
+      518,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "divided by",
+     "fr": "divise par",
+     "de": "geteilt durch",
+     "es": "dividido entre",
+     "it": "diviso per",
+     "_pos": [
+      262,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "count (v)",
+     "fr": "compter",
+     "de": "zählen",
+     "es": "contar",
+     "it": "contare",
+     "_pos": [
+      416,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "minus",
+     "fr": "moins",
+     "de": "minus",
+     "es": "menos",
+     "it": "meno",
+     "_pos": [
+      178,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arithmetic",
+     "fr": "l'arithmétique",
+     "de": "die Arithmetik",
+     "es": "la aritmética",
+     "it": "l'aritmetica",
+     "_pos": [
+      48,
+      998
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 36,
+  "complete_clean": 10,
+  "flagged": 26,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

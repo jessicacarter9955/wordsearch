@@ -1,0 +1,300 @@
+{
+ "page": 95,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES • LES SERVICES • DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "breakfast tray",
+     "fr": "le plateau a périr déjeuner",
+     "de": "das Frühstuckstablett",
+     "es": "la charola del desayuno",
+     "_pos": [
+      587,
+      84
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "services • les services • die Dienstleistungen • los servicios • i S ervizi",
+   "parts": [
+    "services",
+    "les services",
+    "die dienstleistungen",
+    "los servicios",
+    "i servizi"
+   ],
+   "entries": [
+    {
+     "en": "laundry service",
+     "fr": "le service de blanchisserie",
+     "de": "der Wäschedienst",
+     "es": "el servicio de lavandería",
+     "it": "il servizio di lavanderia",
+     "_pos": [
+      250,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "maid service",
+     "fr": "le service de ménage",
+     "de": "die Zimmerreinigung",
+     "es": "el servicio de limpieza",
+     "it": "il servizio di pulizia",
+     "_pos": [
+      37,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "room service",
+     "fr": "le service d'étage",
+     "de": "der Zimmerservice",
+     "es": "el servicio de habitaciones",
+     "it": "il servizio in camera",
+     "_pos": [
+      465,
+      398
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gym",
+     "fr": "la salle de sporr",
+     "de": "der Fitnessraum",
+     "es": "el gimnasio",
+     "it": "la palestra",
+     "_pos": [
+      466,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swimming pool",
+     "fr": "la piscine",
+     "de": "das Schwimmbad",
+     "es": "la piscina",
+     "it": "la piscina",
+     "_pos": [
+      682,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "restaurant",
+     "fr": "le restaurant",
+     "de": "das Restaurant",
+     "es": "el restaurante",
+     "it": "il ristorante",
+     "_pos": [
+      252,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "minibar",
+     "fr": "le m inibar",
+     "de": "die Minibar",
+     "es": "el m inlbar",
+     "it": "il minibar",
+     "_pos": [
+      39,
+      714
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "I'd like a room for three nights",
+     "fr": "Je voudrais une chambre pour trois nuits",
+     "de": "Ich möchte ein Zimmer für drei Nächte",
+     "es": "Q uiero una habitación para tres días",
+     "it": "Vorrei una camera per tre notti",
+     "_pos": [
+      572,
+      795
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:short:Q",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Do you have any vacancies?",
+     "fr": "Avez-vous une chambre de libre.1",
+     "de": "Haben Sie ein Zimmer frei?",
+     "es": "Tiene alguna habitación libre?",
+     "it": "Avete una camera libera?",
+     "_pos": [
+      320,
+      795
+     ],
+     "_flags": [
+      "en:weird:vacancies?",
+      "en:case",
+      "fr:weird:libre.1",
+      "fr:case",
+      "de:weird:frei?",
+      "es:weird:libre?",
+      "es:case",
+      "it:weird:libera?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "full board",
+     "fr": "la pension complète",
+     "de": "die Vollpension",
+     "es": "la pensión completa",
+     "it": "la pensione completa",
+     "_pos": [
+      54,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W hat is the charge per night?",
+     "fr": "Test combien par nuit?",
+     "de": "Was kostet das Zimmer pro Nacht?",
+     "es": "Cuánto cuesta la habitación por día?",
+     "it": "Quanto costa la camera a notte?",
+     "_pos": [
+      573,
+      894
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:night?",
+      "en:case",
+      "fr:weird:nuit?",
+      "fr:case",
+      "de:weird:Nacht?",
+      "es:weird:día?",
+      "es:case",
+      "it:weird:notte?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "1 have a reservation",
+     "fr": "J' ai une réservation",
+     "de": "Ich habe ein Zimmer reserviert",
+     "es": "Tengo una reservación",
+     "it": "Ho una prenotazione",
+     "_pos": [
+      320,
+      894
+     ],
+     "_flags": [
+      "en:num:1",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "half board",
+     "fr": "la demi-pension",
+     "de": "die Halbpension",
+     "es": "la media pensión",
+     "it": "la mezza pensione",
+     "_pos": [
+      54,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "When do 1 have to vacate the room?",
+     "fr": "Q uand est-ce que je dois quitter la chambre?",
+     "de": "Wann muss ich das Zimmer räumen?",
+     "es": "Cuándo tengo que dejar la habitación?",
+     "it": "Quando devo lasciare la stanza?",
+     "_pos": [
+      574,
+      992
+     ],
+     "_flags": [
+      "en:num:1",
+      "en:weird:room?",
+      "en:case",
+      "fr:short:Q",
+      "fr:weird:chambre?",
+      "fr:case",
+      "de:weird:räumen?",
+      "es:weird:habitación?",
+      "es:case",
+      "it:weird:stanza?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "I'd like a single room",
+     "fr": "Je voudrais une chambre simple",
+     "de": "Ich mochte ein Einzelzimmer",
+     "es": "Qui ero una habitación sencilla",
+     "it": "Vorrei una camera singola",
+     "_pos": [
+      320,
+      994
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "bed and breakfast",
+     "fr": "la chambre avec le périr déjeuner",
+     "de": "die Übernachtung mit Frühstück",
+     "es": "la habitación con desayuno incluido",
+     "it": "la pensione con colazione",
+     "_pos": [
+      55,
+      995
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 2,
+  "flagged": 15,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,654 @@
+{
+ "page": 166,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "desktop",
+   "names": {
+    "en": "desktop",
+    "fr": "ic bureau",
+    "de": "das desktop",
+    "es": "el escritorio",
+    "it": "il desktop"
+   },
+   "entries": [
+    {
+     "en": "font",
+     "fr": "polite",
+     "de": "Schriftart",
+     "es": "fuente",
+     "it": "carattere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 10,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "nenubar",
+     "fr": "Li barre de menus",
+     "de": "Menübalken",
+     "es": "barra del m enù",
+     "it": "a barra del menu",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "file",
+     "fr": "fichier",
+     "de": "Datei",
+     "es": "archivo",
+     "it": "file",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "icon",
+     "fr": "Bicóne",
+     "de": "Symbol",
+     "es": "icono",
+     "it": "icona",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "toolbar",
+     "fr": "barre d'outils",
+     "de": "»Verkzeugleiste",
+     "es": "barra de herra mientas",
+     "it": "barra degli strumenti",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 14,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "scrollbar",
+     "fr": "barre de défilement",
+     "de": "Scrollbalken",
+     "es": "barra de desplazamiento",
+     "it": "barra di scorrimento",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 12,
+      "es": 21,
+      "it": 18
+     }
+    },
+    {
+     "en": "folder",
+     "fr": "dossier",
+     "de": "Ordner",
+     "es": "carpeta",
+     "it": "cartella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "window",
+     "fr": "fenêtre",
+     "de": "Fenster",
+     "es": "ventana",
+     "it": "finestra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "wallpaper",
+     "fr": "papier peint",
+     "de": "Tapete",
+     "es": "fondo",
+     "it": "sfondo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "trash",
+     "fr": "poubelle",
+     "de": "Papierkorb",
+     "es": "basurero",
+     "it": "cestino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "Internet",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8
+     }
+    },
+    {
+     "en": "browser",
+     "fr": "navigateur",
+     "de": "Browser",
+     "es": "navegador",
+     "it": "browser",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 7,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "email address",
+     "fr": "adresse de courrier électronique",
+     "de": "E-Mail-Adresse",
+     "es": "dirección de correo electrónico",
+     "it": "indirizzo di posta elettronica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 29,
+      "de": 12,
+      "es": 28,
+      "it": 27
+     }
+    },
+    {
+     "en": "DORLING K1NDERSLEY",
+     "fr": "BIRDSOFBRITAINANOEUROPI",
+     "de": "»rerwU~+m~ahi",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 17,
+      "fr": 23,
+      "de": 9
+     }
+    },
+    {
+     "en": "inbox",
+     "fr": "boîte de réception",
+     "de": "Inbox",
+     "es": "bandeja de entrada",
+     "it": "posta in arrivo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 16,
+      "de": 5,
+      "es": 16,
+      "it": 13
+     }
+    },
+    {
+     "en": "website",
+     "fr": "sire web",
+     "de": "Web-Site",
+     "es": "sitio web",
+     "it": "sito web",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "WORTH",
+     "fr": "DK BOOKS",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7
+     }
+    },
+    {
+     "en": "browse (v)",
+     "fr": "naviguer",
+     "de": "browsen",
+     "es": "navegar",
+     "it": "navigazione",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "save (v)",
+     "fr": "sauvegarder",
+     "de": "sichern",
+     "es": "guardar",
+     "it": "salvare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "send (v)",
+     "fr": "envoyer",
+     "de": "senden",
+     "es": "enviar",
+     "it": "spedire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "download (v)",
+     "fr": "télécharger",
+     "de": "herunterladen",
+     "es": "bajar",
+     "it": "scaricare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 13,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "log on (v)",
+     "fr": "entrer",
+     "de": "einloggen",
+     "es": "entrar en el sistema",
+     "it": "collegarsi",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 17,
+      "it": 10
+     }
+    },
+    {
+     "en": "service provider",
+     "fr": "fournisseur d'accès",
+     "de": "Serviceprovider",
+     "es": "proveedor de servicios",
+     "it": "fornitore di servizi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 15,
+      "es": 20,
+      "it": 18
+     }
+    },
+    {
+     "en": "connect (v)",
+     "fr": "connecter",
+     "de": "verbinden",
+     "es": "conectar",
+     "it": "collegare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "search (v)",
+     "fr": "chercher",
+     "de": "suchen",
+     "es": "buscar",
+     "it": "cercare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "receive (v)",
+     "fr": "recevoir",
+     "de": "erhalten",
+     "es": "recibir",
+     "it": "ricevere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "attachment",
+     "fr": "documenr attaché",
+     "de": "Anhang",
+     "es": "documento adjunto",
+     "it": "T'allegato",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 6,
+      "es": 16,
+      "it": 9
+     }
+    },
+    {
+     "en": "online",
+     "fr": "en ligne",
+     "de": "online",
+     "es": "en línea",
+     "it": "in rete",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "email account",
+     "fr": "compte de courrier électronique",
+     "de": "E Mail-Konto",
+     "es": "cuenta de correo",
+     "it": "account di posta elettronica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 28,
+      "de": 10,
+      "es": 14,
+      "it": 25
+     }
+    },
+    {
+     "en": "install (v)",
+     "fr": "installer",
+     "de": "installieren",
+     "es": "instalar",
+     "it": "installare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 12,
+      "es": 8,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

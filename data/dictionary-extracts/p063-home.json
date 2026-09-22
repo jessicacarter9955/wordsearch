@@ -1,0 +1,657 @@
+{
+ "page": 63,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "utensili-da-cucina",
+   "names": {
+    "en": "kitchenware",
+    "fr": "les ustensiles de cuisine",
+    "de": "die küchengeräte",
+    "es": "los utensilios de cocina",
+    "it": "gli utensili da cucina"
+   },
+   "entries": [
+    {
+     "en": "bread knife",
+     "fr": "couteau a pain",
+     "de": "Brotmesser",
+     "es": "cuchillo de sierra",
+     "it": "coltello da pane",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "cutting board",
+     "fr": "planche à hacher",
+     "de": "Hackbrett",
+     "es": "!a tabla para cortar",
+     "it": "tagliere",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 9,
+      "es": 16,
+      "it": 8
+     }
+    },
+    {
+     "en": "paring knife",
+     "fr": "couteau de cuisine",
+     "de": "Kuchenmesser",
+     "es": "cuchillo de cocina",
+     "it": "coltello da cucina",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 12,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "meat deaver",
+     "fr": "fendoir",
+     "de": "Hackmesser",
+     "es": "hacha de cocina",
+     "it": "mannaia",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 10,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "knife sharpener",
+     "fr": "aiguisoir",
+     "de": "Messer schärfer",
+     "es": "afilador",
+     "it": "1‘affilacoltelli",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 9,
+      "de": 14,
+      "es": 8,
+      "it": 15
+     }
+    },
+    {
+     "en": "meat tenderizer",
+     "fr": "écrase-viande",
+     "de": "Fleischklopfer",
+     "es": "mazo de cocina",
+     "it": "martello",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 14,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "skewer",
+     "fr": "broche",
+     "de": "Spieß",
+     "es": "e i pincho",
+     "it": "spiedino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "pilon",
+     "fr": "der Stößel",
+     "de": "amanode",
+     "es": "mortero",
+     "it": "pestello",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "V « V V V",
+     "fr": "H M «",
+     "de": "9 9 1 1 9 t",
+     "es": "9 9 9t«",
+     "it": "999999 9 9 9 9 9",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 2,
+      "de": 6,
+      "es": 4,
+      "it": 11
+     }
+    },
+    {
+     "en": "peeler",
+     "fr": "épluche légume",
+     "de": "Schäler",
+     "es": "pelador",
+     "it": "pelapatate",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 7,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "apple corer",
+     "fr": "vide-pomme",
+     "de": "Apfelstecher",
+     "es": "descorazonador",
+     "it": "cavatorsoli",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 12,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "grater",
+     "fr": "râpe",
+     "de": "Reibe",
+     "es": "rallador",
+     "it": "grattugia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 5,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "mortar",
+     "fr": "mortier",
+     "de": "Mörser",
+     "es": "mortero",
+     "it": "mortaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "masher",
+     "fr": "presse purée",
+     "de": "Kartoffel stampfer",
+     "es": "machacador",
+     "it": "schiacciapatate",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 17,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "can opener",
+     "fr": "ouvre boitc",
+     "de": "Dosenöffner",
+     "es": "abrelatas",
+     "it": "apriscatole",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 11,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "bottle opener",
+     "fr": "Louvre-bouteille",
+     "de": "Flaschenöffner",
+     "es": "destapador",
+     "it": "apribottiglie",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 14,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "serving spoon",
+     "fr": "cuiller à servir",
+     "de": "Servierlöffel",
+     "es": "cuchara de servir",
+     "it": "cucchiaio da portata",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 13,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "garlic press",
+     "fr": "presse ail",
+     "de": "Knoblauchpresse",
+     "es": "exp rim id o r de ajos",
+     "it": "spremiaglio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 15,
+      "es": 16,
+      "it": 11
+     }
+    },
+    {
+     "en": "fish spatula",
+     "fr": "truelle",
+     "de": "Pfannenwender",
+     "es": "pala",
+     "it": "paletta forata",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 13,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "en": "colander",
+     "fr": "passoire",
+     "de": "Sieb",
+     "es": "escurridor",
+     "it": "scolapasta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 4,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "spatula",
+     "fr": "spatule",
+     "de": "Spachtel",
+     "es": "espátula",
+     "it": "spatola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "wooden spoon",
+     "fr": "cuiller en bois",
+     "de": "Holzlöffel",
+     "es": "cuchara ele madera",
+     "it": "cucchiaio di legno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 10,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "mesh skimmer",
+     "fr": "écumoire",
+     "de": "Schaumlöffel",
+     "es": "espumadera",
+     "it": "cucchiaio perforato",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 12,
+      "es": 10,
+      "it": 18
+     }
+    },
+    {
+     "en": "ladle",
+     "fr": "louche",
+     "de": "Schöpflöffel",
+     "es": "ei cucharón",
+     "it": "mestolo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 12,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "carving fork",
+     "fr": "fourchette à découper",
+     "de": "Tranchiergabel",
+     "es": "trinche",
+     "it": "forchettone",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 19,
+      "de": 14,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "strainer",
+     "fr": "passoire",
+     "de": "Sieb",
+     "es": "colador",
+     "it": "colino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "de": "Schneebesen",
+     "es": "globo para batir",
+     "it": "frusta",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "de": 11,
+      "es": 14,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

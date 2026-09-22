@@ -1,0 +1,140 @@
+====================================================================================================
+== p265 [ambiente] 27 voci, 18 flag, 0 mancanti, 0 leftover, header=E N V IR O N M E N T • T.' ENVIRONNEMENT • DIE UMWELT • EL ~
+-- G0 subcat: space • l'espace • der Weltraum • el espado • lo spazio
+   parts: space • l'espace • der weltraum • el espado • lo spazio
+ 0.0  ⚠ Mercury | la Mercure | der Merkur | Mercurio | Mercurio   en es fr it
+ 0.1  ⚠ Earth | la Terre | die Erde | Tierra | la Terra   en es fr it
+ 0.2  ⚠ Pluto | la Pintón | der Pluto | Plutón | Plutone   en es fr it
+ 0.3  ⚠ Mars | la Mars | der Mars | Marte | Marte   en es fr it
+ 0.4  ⚠ Jupiter | la Jup iter | der Jupiter | Júpiter | Giove   en es fr it
+ 0.5  ⚠ Uranus | l'U ranus | der Uranus | Urano | Uranio   en es fr it
+ 0.6  ⚠ Neptune | la Neptune | der Neptun | Neptuno | Nettuno   en es fr it
+-- G1 subcat: 3
+ 1.0  ⚠ Venus | la Vénus | die Venus | Venus | Venere   en es fr it
+ 1.1  ⚠ Sun | le soleil | die Sonne | el sol | il sole   en
+ 1.2  ⚠ Moon | a lune | der Mond | la luna | la luna   en
+ 1.3  ⚠ Saturn | la Saturne | der Saturn | Saturno | Saturno   en es fr it
+ 1.4  M star | l'étoile | der Stern | la estrella | la stella   
+ 1.5  M tail | la queue | der Schweif | la cola | la coda   
+ 1.6  M solar system | le sytème solaire | das Sonnensystem | el sistema solar | il sistema solare   
+ 1.7  M galaxy | ln galaxie | die Galaxie | la galaxia | la galassia   
+ 1.8  M nebula | la nébuleuse | der Nebelfleck | la nebulosa | la nebulosa   
+ 1.9  M comet | la comète | der Komet | el com eta | la cometa   
+ 1.10 M asteroid | l'astéroïde | der Asteroid | el asteroide | l'asteroide   
+ 1.11 M universe | univers | das Universum | el universo | l'universo   
+ 1.12 M black hole | le trou noir | das schwarze Loch | el agujero negro | il buco nero   
+ 1.13 M full moon | la pleine lune | der Vollmond | la lima llena | la luna piena   
+ 1.14 M orbit | l'orbitc | die Umlaufbahn | la órbita | l'orbita   
+ 1.15 M planet | la planète | der Planet | el planeta | il pianeta   
+ 1.16 M new moon | la nouvelle lune | der Neumond | la luna nueva | la luna nuova   
+ 1.17 M meteor | le météore | der Meteor | el meteorito | la meteora   
+ 1.18 M gravity | la pesanteur | die Schwerkraft | la gravedad | la gravità   
+ 1.19 M crescent moon | le croissant de ~ | die Mondsichel | la media luna | la mezzaluna   
+====================================================================================================
+== p266 [ambiente] 16 voci, 10 flag, 1 mancanti, 5 leftover, header=EN V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • E L M ~
+-- G0 subcat: space exploration • l'exploration spatiale • die Raumforschung • la exploración~
+   parts: space exploration • l'exploration spatiale • die raumforschung • la exploración espacial • ~
+ 0.0  M thruster | la fasce d'orien~ | die Steuerrakete | el propulsor | il reattore   
+ 0.1  M space suit | le scaphandre sp~ | der Raumanzug | el traje espacial | la tuta spaziale   
+ 0.2  M space shuttle | la navette spati~ | die Raumfähre | el transbordador~ | lo shuttle   
+ 0.3  M crew hatch | le sas d'équipage | die Besatzungs l~ | la escotilla | lo sportello del~   
+ 0.4  M booster | l'accélérateur | der Booster | el lanzacohetes | il lanciarazzi   
+ 0.5  M lunar module | le module lunaire | die Mondfähre | el módulo lunar | il modulo lunare   
+ 0.6  M astronaut | l'astronaute | der Astronaut | el astronauta | l'astronauta   
+ 0.7  ⚠ launch pad | la rampe de lanc~ | die Abschussramp~ | la rampa de lanz~ | la rampa dì lanc~   de
+ 0.8  ⚠ V l | <r | ? | ? | ?   en fr missing slot-ambig
+        ALTS: [['en', 'de'], ['en', 'es'], ['en', 'it']]
+ 0.9  M satellite | le satellite | der Satellit | el satélite | il satellite   
+ 0.10 M space station | la station spati~ | die Raumstation | la estación espa~ | la stazione spaz~   
+ 0.11 M launch | le lancement | der Abschuss | el lanzamiento | il lando   
+-- G1 subcat: astronomy • l'astronomie • die Astronomie • la astronomia • l'astronomia
+   parts: astronomy • l'astronomie • die astronomie • la astronomía • l'astronomia
+ 1.0  M telescope | le télescope | das Teleskop | el telescopio | il telescopio   
+ 1.1  M tripod | le trépied | das Stativ | el trípode | il treppiede   
+ 1.2  M constellation | la constellation | das Sternbild | la constelación | la costellazione   
+ 1.3  M binoculars | les jumelles | das Fernglas | los prism áticos | il binocolo   
+   LEFT 'H 1' @[542, 328] (riga singola isolata)
+   LEFT '1 . H i t' @[516, 344] (riga singola isolata)
+   LEFT 'J v ;' @[579, 368] (riga singola isolata)
+   LEFT 'a' @[640, 392] (riga singola isolata)
+   LEFT 'Æ' @[346, 618] (riga singola isolata)
+====================================================================================================
+== p267 [ambiente] 15 voci, 11 flag, 0 mancanti, 0 leftover, header=E N V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • EL MF~
+-- G0 subcat: Earth • la terre • die Erde • la Tierra • la Terra
+   parts: earth • la terre • die erde • la tierra • la terra
+ 0.0  M pole | le pôle | der Pol | el polo | il polo   
+ 0.1  M land | la terre | das Land | la tierra firme | la terraferma   
+ 0.2  ⚠ ocean | Poccan | der Ozean | el océano | l'oceano   fr
+ 0.3  M mountain range | la chaîne de mon~ | die Gebirgskette | la cadena montañ~ | la catena montuo~   
+ 0.4  M sea | la mer | das Meer | el mar | il mare   
+ 0.5  M peninsula | la péninsule | die Halbinsel | la península | la penisola   
+ 0.6  M continent | le continent | der Kontinent | ei continente | il continente   
+ 0.7  ⚠ island | Hie | die Insel | la isla | l'isola   fr
+ 0.8  ⚠ atmosphere | Parm osphere | die Atmosphäre | la atmósfera | l'atmosfera   fr
+ 0.9  ⚠ crust | Pecoree | die Erdkruste | la corteza | la crosta   fr
+ 0.10 M mantle | le manteau | der Mantel | el manto | il mantello   
+ 0.11 M outer core | le noyau extérie~ | der äußere Kern | el núcleo ex tem~ | il nucleo esterno   
+ 0.12 M inner core | le noyau intérie~ | der innere Kem | el núcleo interno | il nucleo interno   
+ 0.13 M planet | la planète | der Planet | el planeta | il pianeta   
+ 0.14 M section | la section | der Längsschnitt | la sección | lo spaccato   
+====================================================================================================
+== p268 [ambiente] 22 voci, 12 flag, 1 mancanti, 0 leftover, header=E N V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • EL ME~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ North pole | le pôle nord | der Nordpol | el Polo Norte | il Polo Nord   en es it
+ 0.1  ⚠ Arctic orde | le cercle polair~ | der nördliche Po~ | el circu lo Pola~ | il circolo polar~   en
+ 0.2  ⚠ northern hemisph~ | Phém isphère nord | die nördliche Ha~ | el hemisferio no~ | l'emisfero sette~   fr
+ 0.3  M tropic of Cancer | la tropique du c~ | der Wendekreis d~ | el trópico de Cá~ | il tropico del c~   
+ 0.4  M longitude | la longitude | der Langengrad | la longitud | la longitudine   
+ 0.5  ⚠ latitude | la latitude | der Breitengrad | la latitud | > la latitudine   it
+ 0.6  M tropics | les tropiques | die Tropen | los trópicos | i tropici   
+ 0.7  M southern hemisph~ | l'hémisphère sud | die südliche Hal~ | el hemisferio sur | l'emisfero merid~   
+ 0.8  M equator | l'équateur | der Äquator | el ecuador | l'equatore   
+ 0.9  M tropic of | la tropique du c~ | der Wendekreis d~ | el trópico de Ca~ | il tropico del C~   
+ 0.10 M earthquake | le rrcm hlem em | das Erdbeben | el terremoto | il terremoto   
+ 0.11 M zones | les zones | die Erdzonen | las zonas | le zone   
+ 0.12 M vent | la cheminée | der Schlot | la chimenea | la fessura   
+ 0.13 M lava | la lave | die Lava | la lava | la lava   
+ 0.14 M ash | la cendre | die Asche | la ceniza | la cenere   
+ 0.15 M plate | la plaque | die Platte | la placa | la zolla   
+ 0.16 M erupt (v) | entrer en érupti~ | ausbrechen | hacer erupción | eruttare   
+ 0.17 M chamber | la chambre | die Kammer | la cámara | la camera   
+ 0.18 M tremor | le rrcm blcm cnt | das Beben | el temblor | il tremore   
+ 0.19 M magma | le magma | das Magma | el magma | il magma   
+ 0.20 ⚠ volcano | le volcan | der Vulkan | el volcán | I vulcano   it
+-- G1 subcat: crater • le cratère • der Krater • el cráter
+   parts: crater • le cratère • der krater • el cráter
+ 1.0  ⚠ I cratere | ? | ? | ? | ?   en missing
+====================================================================================================
+== p269 [ambiente] 11 voci, 7 flag, 1 mancanti, 0 leftover, header=E N V IR O N M E N T •L'ENVIRONNEMENT • DIE UMWELT • EL MED~
+-- G0 subcat: landscape • le paysage • die Landschaft • el paisaje • ¡I paesaggio
+   parts: landscape • le paysage • die landschaft • el paisaje • i paesaggio
+ 0.0  M mountain | la montagne | der Berg | la montaña | la montagna   
+ 0.1  M slope | la pente | der Hang | la ladera | la pendice   
+ 0.2  M bank | la rive | das Ufer | la orilla | la riva   
+ 0.3  M glacier | le glacier | der Gletscher | el glaciar | il ghiacciaio   
+ 0.4  ⚠ ? | la rivière | der Fluss | el no | il fiume   missing
+ 0.5  M rapids | les rapides | die Stromschnell~ | los rápidos | le rapide   
+ 0.6  M rocks | les rochers | die Felsen | las rocas | le rocce   
+ 0.7  M valley | la vallée | das Tal | el valle | la valle   
+ 0.8  M hill | la colline | der Hügel | la colina | la collina   
+ 0.9  M gorge | la gorge | die Schlucht | el desfiladero | la gola   
+ 0.10 M cave | la caverne | die Höhle | la cueva | la caverna   
+====================================================================================================
+== p270 [ambiente] 16 voci, 16 flag, 0 mancanti, 0 leftover, header=E N V IR O N M E N T • L'EN V IRO N N EM EN T • DIE UMWELT ~
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ wood | le hois | der Wald | el bosque | I bosco   it
+ 0.1  M desert | le désert | die Wüste | el desierto | il deserto   
+ 0.2  M forest | la forêt | der Wald | el bosque | la foresta   
+ 0.3  M plain | la plaine | die Ebene | la llanura | la pianura   
+ 0.4  M grassland | la prairie | das Grasland | la pradera | la prateria   
+ 0.5  M meadow | le pré | die Wieselabel | el prado | il pascolo   
+ 0.6  M swamp | le marais | der Sumpf | el pantano | la palude   
+ 0.7  M rain forest | la foret tropica~ | der Regenwald | la selva tropical | la foresta pluvi~   
+ 0.8  M geyser | le geyser | der Geysir | el geiser | il geyser   
+ 0.9  M lake | le lac | der See | el lago | il lago   
+ 0.10 M stream | le ruisseau | der Bach | el arroyo | il torrente   
+ 0.11 M waterfall | la cascade | der Wasserfall | la cascada | la cascata   
+ 0.12 M estuary | l'estuaire | die Flussmündung | el estuario | l'estuario   
+ 0.13 M coral reef | le récif de cora~ | das Korallenriff | el arrecife de c~ | la barriera cora~   
+ 0.14 M cliff | la falaise | die Klippe | el acantilado | la scogliera   
+ 0.15 M coast | la côte | die Küste | la costa | la costa   

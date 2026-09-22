@@ -1,0 +1,367 @@
+{
+ "page": 216,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "fr": "azioni",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "fr": 6
+     }
+    },
+    {
+     "en": "foul line",
+     "fr": "ligne de pénalité",
+     "de": "Foullinie",
+     "es": "línea de falta",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 9,
+      "es": 12
+     }
+    },
+    {
+     "en": "right field",
+     "fr": "cham p droir",
+     "de": "rechte Feld",
+     "es": "exterior derecho",
+     "it": "campo destro",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 15,
+      "it": 11
+     }
+    },
+    {
+     "en": "outfield",
+     "fr": "champ extérieur",
+     "de": "Außenfeld",
+     "es": "exterior",
+     "it": "campo esterno",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 10,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "catch z",
+     "fr": "attraper",
+     "de": "fangen",
+     "es": "atrapar",
+     "it": "acchiappare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "throw (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "lanciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "team",
+     "fr": "équipe",
+     "de": "Team",
+     "es": "equipo",
+     "it": "squadra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "field (v)",
+     "fr": "être en défense",
+     "de": "als Fänger spielen",
+     "es": "defender",
+     "it": "difendere",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 16,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "run (v)",
+     "fr": "courir",
+     "de": "rennen",
+     "es": "correr",
+     "it": "correre",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "slide (v)",
+     "fr": "glisser",
+     "de": "rutschen",
+     "es": "barrer",
+     "it": "scivolare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "dugout",
+     "fr": "banc de rauche",
+     "de": "Spielerbank",
+     "es": "banca",
+     "it": "fossa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 11,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "tag (v)",
+     "fr": "courser",
+     "de": "hinterherlaufen",
+     "es": "perseguir",
+     "it": "inseguire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 15,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "umpire",
+     "fr": "arbitre",
+     "de": "Schiedsrichter",
+     "es": "um pire",
+     "it": "arbitro",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 14,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "bat (v)",
+     "fr": "harter",
+     "de": "schlagen",
+     "es": "hatear",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 6
+     }
+    },
+    {
+     "en": "pitch (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lan/.ar",
+     "it": "servire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "catcher",
+     "fr": "receveur",
+     "de": "Fänger",
+     "es": "catcher",
+     "it": "ricevitore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "pitcher",
+     "fr": "lanceur",
+     "de": "Werfer",
+     "es": "pitcher",
+     "it": "pitcher",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "play (v)",
+     "fr": "jouer",
+     "de": "spielen",
+     "es": "jugar",
+     "it": "giocare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

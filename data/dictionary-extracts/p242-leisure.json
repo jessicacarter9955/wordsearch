@@ -1,0 +1,557 @@
+{
+ "page": 242,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "harp",
+     "fr": "harpe",
+     "de": "Harfe",
+     "es": "arpa",
+     "it": "Tarpa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "conductor",
+     "fr": "chef d' orchestre",
+     "de": "Dirigent",
+     "es": "director de orquesta",
+     "it": "direttore di orchestra",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 8,
+      "es": 18,
+      "it": 20
+     }
+    },
+    {
+     "en": "double bass",
+     "fr": "contrebasse",
+     "de": "Kontrabass",
+     "es": "contrabajo",
+     "it": "contrabbasso",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "cello",
+     "fr": "violoncelle",
+     "de": "Cello",
+     "es": "violoncelo",
+     "it": "violoncello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 5,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "fr": "violon",
+     "de": "Geige",
+     "es": "vio lin",
+     "it": "violino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "fr": "alto",
+     "de": "Bratsche",
+     "es": "viola",
+     "it": "viola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 4,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "de": "Podium",
+     "es": "podio",
+     "it": "podio",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "score",
+     "fr": "partition",
+     "de": "Noten",
+     "es": "partitura",
+     "it": "spartito",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 5,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "note",
+     "fr": "note",
+     "de": "Note",
+     "es": "nota",
+     "it": "nota",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "staff",
+     "fr": "portée",
+     "de": "Liniensystem",
+     "es": "pentágrama",
+     "it": "pentagramma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 12,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "treble clef",
+     "fr": "clé de sol",
+     "de": "Violinschlüssel",
+     "es": "clave de sol",
+     "it": "chiave di sol",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 15,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "bass clef",
+     "fr": "clé de fa",
+     "de": "Bassschlüssel",
+     "es": "clave de la",
+     "it": "chiave di basso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 13,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "piano",
+     "fr": "piano",
+     "de": "Klavier",
+     "es": "piano",
+     "it": "pianoforte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "overture",
+     "fr": "Pou vern i re",
+     "de": "Ouvertüre",
+     "es": "obertura",
+     "it": "ouverture",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "sonata",
+     "fr": "sonate",
+     "de": "Sonate",
+     "es": "sonata",
+     "it": "sonata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "rest",
+     "fr": "silence",
+     "de": "Pausenzeichen",
+     "es": "pausa",
+     "it": "pausa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 13,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "sharp",
+     "fr": "dièse",
+     "de": "Kreuz",
+     "es": "sostenido",
+     "it": "diesis",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "natural",
+     "fr": "bécarre",
+     "de": "Auflösungszeichen",
+     "es": "natural",
+     "it": "naturale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 17,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "scale",
+     "fr": "gamme",
+     "de": "Tonleiter",
+     "es": "escala",
+     "it": "scala",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 9,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "symphony",
+     "fr": "sym phonic",
+     "de": "Symphonie",
+     "es": "sinfonía",
+     "it": "sinfonia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "baton",
+     "fr": "baguette",
+     "de": "Taktstock",
+     "es": "batura",
+     "it": "bacchetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "instruments",
+     "fr": "instruments",
+     "de": "Musikinstrumente",
+     "es": "instrum entos",
+     "it": "strumenti",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 16,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "pitch",
+     "fr": "ton",
+     "de": "Tonhöhe",
+     "es": "tono",
+     "it": "tono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "flat",
+     "fr": "bémol",
+     "de": "B",
+     "es": "bemol",
+     "it": "bemolle",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 1,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "bar",
+     "fr": "barre de mesure",
+     "de": "Taktstrich",
+     "es": "barra",
+     "it": "battuta",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 13,
+      "de": 10,
+      "es": 5,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

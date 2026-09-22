@@ -1,0 +1,270 @@
+{
+ "page": 196,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE T R A N S P O R T • DER VERKEHR • L L TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "train • le train • der Zug • el tren • il treno",
+   "parts": [
+    "train",
+    "le train",
+    "der zug",
+    "el tren",
+    "il treno"
+   ],
+   "entries": [
+    {
+     "en": "carriage",
+     "fr": "la voiture",
+     "de": "der Wagen",
+     "es": "el vagón",
+     "it": "il vagone",
+     "_pos": [
+      44,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "platform number",
+     "fr": "le nu me rode voie",
+     "de": "die Gleisnummer",
+     "es": "el número de andén",
+     "it": "il numero del binario",
+     "_pos": [
+      744,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "platform",
+     "fr": "le quai",
+     "de": "der Bahnsteig",
+     "es": "el andén",
+     "it": "il binario",
+     "_pos": [
+      44,
+      227
+     ],
+     "_flags": []
+    },
+    {
+     "en": "le voyageur",
+     "fr": "der Pendler",
+     "de": "e l viajero de",
+     "es": "cercanías",
+     "it": "il pendolare",
+     "_pos": [
+      744,
+      312
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "cart",
+     "fr": "le caddie",
+     "de": "der Kofferkuli",
+     "es": "el carrito",
+     "it": "il carrello",
+     "_pos": [
+      44,
+      334
+     ],
+     "_flags": []
+    },
+    {
+     "en": "train station",
+     "fr": "la gare",
+     "_pos": [
+      140,
+      425
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "de": "der Bahnhof",
+     "es": "la estación de tren",
+     "it": "la stazione ferroviaria",
+     "_pos": [
+      285,
+      426
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "types of train • les types de trains •",
+   "parts": [
+    "types of train",
+    "les types de trains"
+   ],
+   "entries": [
+    {
+     "en": "conducted cabin",
+     "fr": "la cabine du conducteur",
+     "de": "der Führerstand",
+     "es": "laca bina del conductor",
+     "it": "la cabina del conducente",
+     "_pos": [
+      715,
+      477
+     ],
+     "_flags": []
+    },
+    {
+     "en": "engine",
+     "fr": "la locomotive",
+     "de": "die Lokomotive",
+     "es": "la locomotora",
+     "it": "la locomotiva",
+     "_pos": [
+      328,
+      500
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rail",
+     "fr": "le rail",
+     "de": "die Schiene",
+     "es": "el riel",
+     "it": "la rotaia",
+     "_pos": [
+      717,
+      574
+     ],
+     "_flags": []
+    },
+    {
+     "en": "steam train",
+     "fr": "le train à vapeur",
+     "de": "die Dampflokomotive",
+     "es": "el tren de vapor",
+     "it": "if treno a vapore",
+     "_pos": [
+      44,
+      655
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diesel train",
+     "fr": "le train diesel",
+     "de": "die Diesellokomotive",
+     "es": "el tren diesel",
+     "it": "il treno diesel",
+     "_pos": [
+      328,
+      690
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electric tram",
+     "fr": "le rrain électrique",
+     "de": "die Elektrolokomotive",
+     "es": "el tren eléctrico",
+     "it": "il treno elettrico",
+     "_pos": [
+      44,
+      844
+     ],
+     "_flags": []
+    },
+    {
+     "en": "high-speed tram",
+     "fr": "le train à grande vitesse",
+     "de": "der Hochgeschwindigkeitszug",
+     "es": "el tren de alta velocidad",
+     "it": "il treno ad alta velocità",
+     "_pos": [
+      328,
+      845
+     ],
+     "_flags": []
+    },
+    {
+     "en": "monorail",
+     "fr": "le m onorail",
+     "de": "die Einschienenbahn",
+     "es": "el m onorriel",
+     "it": "la monorotaia",
+     "_pos": [
+      613,
+      846
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "underground train",
+     "fr": "le métro",
+     "de": "die U-Bahn",
+     "es": "el metro",
+     "it": "la metropolitana",
+     "_pos": [
+      44,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "streetcar",
+     "fr": "le tram",
+     "de": "die Straßenbahn",
+     "es": "el tranvía",
+     "it": "il tram",
+     "_pos": [
+      328,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "freight train",
+     "fr": "le train de marchandises",
+     "de": "der Güterzug",
+     "es": "el tren de carga",
+     "it": "I treno merci",
+     "_pos": [
+      613,
+      1035
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 6,
+  "flagged": 12,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

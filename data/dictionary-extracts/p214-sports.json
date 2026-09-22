@@ -1,0 +1,299 @@
+{
+ "page": 214,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "azioni",
+   "names": {
+    "en": "actions",
+    "fr": "ies actions",
+    "de": "die aktionen",
+    "es": "las acciones",
+    "it": "le azioni"
+   },
+   "entries": [
+    {
+     "en": "jump (v)",
+     "fr": "saurer",
+     "de": "springen",
+     "es": "saltar",
+     "it": "saltare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "shoot (v)",
+     "fr": "tirer",
+     "de": "schießen",
+     "es": "tirar",
+     "it": "tirare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "throw (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "tirare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "catch (v)",
+     "fr": "arrraper",
+     "de": "fangen",
+     "es": "cachar",
+     "it": "acchiappare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "dunk (v)",
+     "fr": "faire un dunk",
+     "de": "einen Dunk spielen",
+     "es": "marcar",
+     "it": "segnare",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 16,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "dribble (v)",
+     "fr": "faire rebondir",
+     "de": "springen lassen",
+     "es": "botar",
+     "it": "rimbalzare",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 14,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "block /",
+     "fr": "bloquer",
+     "de": "blocken",
+     "es": "bloquear",
+     "it": "bloccare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "cover (v)",
+     "fr": "marquer",
+     "de": "decken",
+     "es": "marcar",
+     "it": "marcare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pallavolo",
+   "names": {
+    "en": "volleyball",
+    "fr": "le volley",
+    "de": "der volleyball",
+    "es": "el vóleibol",
+    "it": "la pallavolo"
+   },
+   "entries": [
+    {
+     "en": "block v",
+     "fr": "bloquer",
+     "de": "blocken",
+     "es": "bloquear",
+     "it": "contrastare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "referee",
+     "fr": "arbitre",
+     "de": "Schiedsrichter",
+     "es": "árbitro",
+     "it": "arbitro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "net",
+     "fr": "filet",
+     "de": "Netz",
+     "es": "red",
+     "it": "rete",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 4,
+      "es": 3,
+      "it": 4
+     }
+    },
+    {
+     "en": "knee support",
+     "fr": "genouillère",
+     "de": "Knieschützer",
+     "es": "rodillera",
+     "it": "ginocchiera",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 12,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "m anchette",
+     "fr": "baggern",
+     "de": "recib ir",
+     "es": "difendere",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 7,
+      "es": 9
+     }
+    },
+    {
+     "en": "court",
+     "fr": "terrain",
+     "de": "Spielfeld",
+     "es": "cancha",
+     "it": "campo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

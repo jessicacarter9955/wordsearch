@@ -1,0 +1,430 @@
+{
+ "page": 134,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "salumeria",
+   "names": {
+    "en": "delicatessen",
+    "fr": "la charcuterie",
+    "de": "die feinkost",
+    "es": "la charcutería",
+    "it": "la salumeria"
+   },
+   "entries": [
+    {
+     "en": "quiche",
+     "fr": "quiche",
+     "de": "Quiche",
+     "es": "quiché",
+     "it": "sformato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "spicy sausage",
+     "fr": "saucisson piquant",
+     "de": "pikante Wurst",
+     "es": "fiambre",
+     "it": "salsiccia piccante",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 12,
+      "es": 7,
+      "it": 17
+     }
+    },
+    {
+     "en": "vinegar",
+     "fr": "vinaigre",
+     "de": "Essig",
+     "es": "vinagre",
+     "it": "aceto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "uncooked meat",
+     "fr": "viande non cuite",
+     "de": "frische Fleisch",
+     "es": "carne fresca",
+     "it": "carne cruda",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 14,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "oil",
+     "fr": "Lhuilc",
+     "de": "ÜI",
+     "es": "aceite",
+     "it": "olio",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 2,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "counter",
+     "fr": "comptoir",
+     "de": "Theke",
+     "es": "mostrador",
+     "it": "banco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 5,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "salami",
+     "fr": "salami",
+     "de": "Salami",
+     "es": "sal ami",
+     "it": "salame",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "pepperoni",
+     "fr": "peppcroni",
+     "de": "Pepperoniwurst",
+     "es": "salchichón",
+     "it": "salame piccante",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 14,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "pâté",
+     "fr": "pâté",
+     "de": "Pastete",
+     "es": "pate",
+     "it": "pété",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "mozzarella",
+     "fr": "m ozzarella",
+     "de": "Mozzarella",
+     "es": "m ozzarella",
+     "it": "mozzarella",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "Brie",
+     "fr": "brie",
+     "de": "Brie",
+     "es": "brie",
+     "it": "brie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "Cheddar",
+     "fr": "cheddar",
+     "de": "Cheddar",
+     "es": "chcddar",
+     "it": "cheddar",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "goat's cheese",
+     "fr": "fromage de chèvre",
+     "de": "Ziegenkäse",
+     "es": "queso de cabra",
+     "it": "formaggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 10,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "rind",
+     "fr": "croûte",
+     "de": "Rinde",
+     "es": "corteza",
+     "it": "scorza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "Parmesan",
+     "fr": "parmesan",
+     "de": "Parmesan",
+     "es": "parmesano",
+     "it": "parmigiano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "Camembert",
+     "fr": "cam em bert der Camembert",
+     "es": "cam em bert",
+     "it": "camembert",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 21,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "Edam",
+     "fr": "edam",
+     "de": "Edamer",
+     "es": "queso de bola",
+     "it": "edam",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 11,
+      "it": 4
+     }
+    },
+    {
+     "en": "Manchego",
+     "fr": "1c nianchego",
+     "de": "Manchego",
+     "es": "manchego",
+     "it": "manchego",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,45 @@
+{
+ "page": 160,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "work le travail",
+   "parts": [
+    "work le travail"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "die Arbeit el trabajo",
+   "parts": [
+    "die arbeit el trabajo"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "il lavoro",
+   "parts": [
+    "il lavoro"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

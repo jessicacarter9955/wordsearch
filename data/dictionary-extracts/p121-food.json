@@ -1,0 +1,701 @@
+{
+ "page": 121,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "noci-e-la-frutta-secca",
+   "names": {
+    "en": "nuts and dried fruit",
+    "fr": "les noix et les fruits secs",
+    "de": "die nüsse und das dörrobst",
+    "es": "los frutos secos",
+    "it": "le noci e la frutta secca"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "hazelnut",
+     "fr": "noisette",
+     "de": "Haselnuss",
+     "es": "avellana",
+     "it": "nocciola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "peanut",
+     "fr": "cacahouète",
+     "de": "Erdnuss",
+     "es": "cacahuete",
+     "it": "arachide",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "cashew nut",
+     "fr": "Li noix de cajou",
+     "de": "Cashewnuss",
+     "es": "nuez, de la India",
+     "it": "anacardio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 10,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "pistachio",
+     "fr": "pistache",
+     "de": "Pistazie",
+     "es": "pistache",
+     "it": "pistacchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "pine nut",
+     "fr": "pignon",
+     "de": "Piniennuss",
+     "es": "piñón",
+     "it": "pinolo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "chestnut",
+     "fr": "marron",
+     "de": "Esskastanie",
+     "es": "castaña",
+     "it": "castagna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "walnut",
+     "fr": "noix",
+     "de": "Walnuss",
+     "es": "nuez de Castilla",
+     "it": "noce",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 7,
+      "es": 14,
+      "it": 4
+     }
+    },
+    {
+     "en": "almond",
+     "fr": "amande",
+     "de": "Mandel",
+     "es": "almendra",
+     "it": "mandorla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "pecan",
+     "fr": "noix pacane",
+     "de": "Pecannuss",
+     "es": "nuez",
+     "it": "pecan",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 9,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "Brazil nut",
+     "fr": "noix du Brésil",
+     "de": "Paranuss",
+     "es": "nuez de Brasil",
+     "it": "mandorla brasiliana",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 8,
+      "es": 12,
+      "it": 18
+     }
+    },
+    {
+     "en": "shell",
+     "fr": "coquille",
+     "de": "Schale",
+     "es": "cáscara",
+     "it": "guscio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "prune",
+     "fr": "pruneau",
+     "de": "Backpflaume",
+     "es": "ciruela pasa",
+     "it": "prugna sceca",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "date",
+     "fr": "darre",
+     "de": "Dattel",
+     "es": "dátil",
+     "it": "dattero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "macadamia",
+     "fr": "m acadam ia",
+     "de": "Macadamianuss",
+     "es": "macadamia",
+     "it": "caramellato per intero",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 13,
+      "es": 9,
+      "it": 20
+     }
+    },
+    {
+     "en": "flesh",
+     "fr": "chair",
+     "de": "Fruchtfleisch",
+     "es": "pulpa",
+     "it": "polpa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 13,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "coconut",
+     "fr": "noix de coco",
+     "de": "Kokosnuss",
+     "es": "coco",
+     "it": "nuce di cocco",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 9,
+      "es": 4,
+      "it": 11
+     }
+    },
+    {
+     "en": "currant",
+     "fr": "raisin de C orinthe",
+     "de": "Korinthe « la pasa de Corinto",
+     "it": "uva passa",
+     "_multi": [
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 23,
+      "it": 8
+     }
+    },
+    {
+     "en": "raisin",
+     "fr": "raisin sec",
+     "de": "Rosine",
+     "es": "pasa",
+     "it": "uvetta",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 6,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "sultana",
+     "fr": "raisin de >myrne",
+     "de": "Sultanine",
+     "es": "pasa sultana",
+     "it": "uva sultanina",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 9,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "shelled",
+     "fr": "décortiqué",
+     "de": "geschält",
+     "es": "pelado",
+     "it": "sgusciato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "tropical fruit",
+     "fr": "fruits tropicaux",
+     "de": "Südfrüchte",
+     "es": "frutas tropicales",
+     "it": "frutta tropicale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 10,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "roasted",
+     "fr": "grillé",
+     "de": "geröstet",
+     "es": "tostado",
+     "it": "arrostito",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "salted",
+     "fr": "salé",
+     "de": "gesalzen",
+     "es": "salado",
+     "it": "salato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "kernel",
+     "fr": "amande",
+     "de": "Kern",
+     "es": "almendra",
+     "it": "nocciòlo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "hard",
+     "fr": "dur",
+     "de": "han",
+     "es": "duro",
+     "it": "duro",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 3,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "green",
+     "fr": "vert",
+     "de": "grün",
+     "es": "verde",
+     "it": "verde",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "whole",
+     "fr": "complet",
+     "de": "ganz",
+     "es": "entero",
+     "it": "intero",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "candied fruit",
+     "fr": "truie confit",
+     "de": "kandierten Früchte",
+     "es": "fruta escarchada",
+     "it": "frutta candita",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 17,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "seasonal",
+     "fr": "de saison",
+     "de": "Saison",
+     "es": "dé temporada",
+     "it": "stagionale",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 6,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "raw",
+     "fr": "cru",
+     "de": "roh",
+     "es": "crudo",
+     "it": "crudo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "dned",
+     "fr": "séché",
+     "de": "getrocknet",
+     "es": "desecado",
+     "it": "essiccato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "npe",
+     "fr": "mûr",
+     "de": "reif",
+     "es": "maduro",
+     "it": "maturo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "soft",
+     "fr": "mou",
+     "de": "weich",
+     "es": "blando",
+     "it": "morbido",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

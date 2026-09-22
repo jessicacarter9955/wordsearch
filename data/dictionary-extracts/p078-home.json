@@ -1,0 +1,676 @@
+{
+ "page": 78,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "roller",
+     "fr": "rouleau",
+     "de": "Roller",
+     "es": "rodillo",
+     "it": "rullo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "paint tray",
+     "fr": "bac à peinture",
+     "de": "Wanne",
+     "es": "bandeja para la pintura",
+     "it": "vaschetta per la vernice",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 5,
+      "es": 20,
+      "it": 21
+     }
+    },
+    {
+     "en": "paint",
+     "fr": "peinture",
+     "de": "Farbe",
+     "es": "pintura",
+     "it": "vernice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "brush",
+     "fr": "brosse",
+     "de": "Streichburste",
+     "es": "brocha",
+     "it": "pennello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 13,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "sandpaper",
+     "fr": "papier de verre",
+     "de": "Schmirgelpapier",
+     "es": "papel de lija",
+     "it": "carta vetrata",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 15,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "masking tape",
+     "fr": "papier cache",
+     "de": "Abdeckband",
+     "es": "m asking tape",
+     "it": "nastro adesivo coprente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 10,
+      "es": 11,
+      "it": 21
+     }
+    },
+    {
+     "en": "paint can",
+     "fr": "pot de peinture",
+     "de": "Farbtopí",
+     "es": "lata de pintura",
+     "it": "barattolo di vernice",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 8,
+      "es": 13,
+      "it": 18
+     }
+    },
+    {
+     "en": "sponge",
+     "fr": "éponge",
+     "de": "Schwamm",
+     "es": "esponja",
+     "it": "spugna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "coveralls",
+     "fr": "bleus",
+     "de": "Overall",
+     "es": "overol",
+     "it": "tuta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "turpentine",
+     "fr": "térébenthine",
+     "de": "Terpentin",
+     "es": "trementina",
+     "it": "trementina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "oilcloth",
+     "fr": "couverture de protection",
+     "de": "Abdecktuch",
+     "es": "protector",
+     "it": "telo di protezione",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 22,
+      "de": 10,
+      "es": 9,
+      "it": 16
+     }
+    },
+    {
+     "en": "paint thinner",
+     "fr": "white sp irit",
+     "de": "Verdünnungsmittel",
+     "es": "aguarrás",
+     "it": "acquaragia",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 17,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "filler",
+     "fr": "mastic",
+     "de": "Spachtelmasse",
+     "es": "mas tique",
+     "it": "stucco",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 13,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "paint (v)",
+     "fr": "peindre",
+     "de": "anstreichen",
+     "es": "pintar",
+     "it": "dipingere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "base coat",
+     "fr": "couche de fond",
+     "de": "Grundierung",
+     "es": "primera mano",
+     "it": "mano di fondo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "sealant",
+     "fr": "enduit",
+     "de": "Versiegelungsmittel",
+     "es": "sellador",
+     "it": "sigillante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 19,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "embossed paper",
+     "fr": "papier gaufré",
+     "de": "Reliefpapier",
+     "es": "papel estampado en relieve",
+     "it": "carta a rilievo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 12,
+      "es": 23,
+      "it": 13
+     }
+    },
+    {
+     "en": "plaster",
+     "fr": "plâtre",
+     "de": "Gips",
+     "es": "yeso",
+     "it": "intonaco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 4,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "gloss",
+     "fr": "brillant",
+     "de": "Glanz",
+     "es": "con brillo",
+     "it": "lucido",
+     "_multi": [
+      "es"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "solvent",
+     "fr": "solvant",
+     "de": "Lösungsmittel",
+     "es": "solvente",
+     "it": "solvente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 13,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "lining paper",
+     "fr": "papier d'apprét",
+     "de": "Einsatzpapier",
+     "es": "papel de apresto",
+     "it": "carta di fondo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 13,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "top coat",
+     "fr": "dernière couche",
+     "de": "Deckanstrich",
+     "es": "última mano",
+     "it": "mano finale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 12,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "varnish",
+     "fr": "vernis",
+     "de": "Lack",
+     "es": "barniz",
+     "it": "vernice trasparente",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 18
+     }
+    },
+    {
+     "en": "matte",
+     "fr": "mat",
+     "de": "matt",
+     "es": "mate",
+     "it": "opaeo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "grout",
+     "fr": "mastic",
+     "de": "Fugenkitt",
+     "es": "cemento blanco",
+     "it": "malta",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 13,
+      "it": 5
+     }
+    },
+    {
+     "en": "primer",
+     "fr": "apprêt",
+     "de": "Grundfarbe",
+     "es": "base",
+     "it": "vernice di base",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 10,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "en": "preservative",
+     "fr": "agent de conservation",
+     "de": "Schutzanstrich",
+     "es": "conservante",
+     "it": "conservante",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 19,
+      "de": 14,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "latex paint",
+     "fr": "peinture mate",
+     "de": "Emulsionsfarbe",
+     "es": "pintura al agua",
+     "it": "pittura",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 14,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "stencil",
+     "fr": "pochoir",
+     "de": "Schablone",
+     "es": "plantilla",
+     "it": "stampino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 9,
+      "es": 9,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

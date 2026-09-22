@@ -1,0 +1,702 @@
+{
+ "page": 40,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "malattia",
+   "names": {
+    "en": "illness",
+    "fr": "la maladie",
+    "de": "die Krankheit",
+    "es": "la enfermedad",
+    "it": "la malattia"
+   },
+   "entries": [
+    {
+     "en": "cough",
+     "fr": "toux",
+     "de": "Husten",
+     "es": "tos",
+     "it": "tosse",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 6,
+      "es": 3,
+      "it": 5
+     }
+    },
+    {
+     "en": "headache",
+     "fr": "mal de tête",
+     "de": "Kopfschmerzen",
+     "es": "dolor de cabeza",
+     "it": "mal di testa",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 13,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "nosebleed",
+     "fr": "saignement de ne",
+     "de": "Nasenbluten",
+     "es": "hemorragia nasal",
+     "it": "emorragia nasale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 11,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "fever",
+     "fr": "fièvre",
+     "de": "Fieber",
+     "es": "fiebre",
+     "it": "febbre",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "flu",
+     "fr": "grippe",
+     "de": "Grippe",
+     "es": "gripe",
+     "it": "influenza",
+     "_multi": [],
+     "_articles_removed": {
+      "en": "the",
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "sneeze",
+     "fr": "éternuement",
+     "de": "Niesen",
+     "es": "estornudo",
+     "it": "starnuto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 6,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "cold",
+     "fr": "rhume",
+     "de": "Erkältung",
+     "es": "resfriado",
+     "it": "raffreddore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 9,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "inhaler",
+     "fr": "inhalateur",
+     "de": "Inhalationsapparat",
+     "es": "inhalador",
+     "it": "inalatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 18,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "chickenpox",
+     "fr": "varicelle",
+     "de": "Windpocken",
+     "es": "varicela",
+     "it": "varicella",
+     "_multi": [],
+     "_articles_removed": {
+      "en": "the",
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "rash",
+     "fr": "éruption",
+     "de": "Hautausschlag",
+     "es": "sarpullido",
+     "it": "sfogo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 13,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "asthma",
+     "fr": "asthme",
+     "de": "Asthma",
+     "es": "asma",
+     "it": "asma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "cramps",
+     "fr": "crampes",
+     "de": "Krämpfe",
+     "es": "calam bres",
+     "it": "crampi",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "nausea",
+     "fr": "nausée",
+     "de": "Übelkeit",
+     "es": "náusea",
+     "it": "nausea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "heart attack",
+     "fr": "crise cardiaque",
+     "de": "Herzinfarkt",
+     "es": "atâque cardiaco",
+     "it": "infarto",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 11,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "en": "diabetes",
+     "fr": "diabète",
+     "de": "Zuckerkrankheit",
+     "es": "diabetes",
+     "it": "diabete",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 15,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "eczema",
+     "fr": "eczéma",
+     "de": "Ekzem",
+     "es": "eccema",
+     "it": "eczema",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "chill",
+     "fr": "refroidissement",
+     "de": "Verkühlung",
+     "es": "resfriado",
+     "it": "infreddatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 15,
+      "de": 10,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "vomit (v)",
+     "fr": "vomir",
+     "de": "sich übergeben",
+     "es": "vomitar",
+     "it": "vomitare",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 13,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "diarrhea",
+     "fr": "diarrhée",
+     "de": "Durchfall",
+     "es": "diarrea",
+     "it": "diarrea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "stroke",
+     "fr": "attaque",
+     "de": "Schlaganfall",
+     "es": "aplopejia",
+     "it": "apoplessia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "hay fever",
+     "fr": "rhume des foins",
+     "de": "Heuschnupfen",
+     "es": "fiebre del heno",
+     "it": "febbre da fieno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 12,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "infection",
+     "fr": "infection",
+     "de": "Infektion",
+     "es": "infección",
+     "it": "infezione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "stomach ache",
+     "fr": "mal d'estomac",
+     "de": "Magenschmerzen",
+     "es": "dolor de estómago",
+     "it": "mal di stomaco",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 14,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "epilepsy",
+     "fr": "épilepsie",
+     "de": "Epilepsie",
+     "es": "epilepsia",
+     "it": "epilessia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "measles",
+     "fr": "rougeole",
+     "de": "Masern",
+     "es": "sarampión",
+     "it": "morbillo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "allergy",
+     "fr": "allergie",
+     "de": "Allergie",
+     "es": "alergia",
+     "it": "allergia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "mumps",
+     "fr": "oreillons",
+     "de": "Mumps",
+     "es": "paperas",
+     "it": "orecchioni",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 5,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "blood pressure",
+     "fr": "tension",
+     "de": "Blutdruck",
+     "es": "!a presión arterial",
+     "it": "pressione del sangue",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 7,
+      "de": 9,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "virus",
+     "fr": "virus",
+     "de": "Virus",
+     "es": "virus",
+     "it": "virus",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "faint (v)",
+     "fr": "s'évanouir",
+     "de": "in Ohnmacht fallen",
+     "es": "desmayar se",
+     "it": "svenire",
+     "_multi": [
+      "en",
+      "de",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 16,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "migraine",
+     "fr": "migraine",
+     "de": "Migräne",
+     "es": "migraña",
+     "it": "emicrania",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ]
+}

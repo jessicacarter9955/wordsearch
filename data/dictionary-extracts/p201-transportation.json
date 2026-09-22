@@ -1,0 +1,488 @@
+{
+ "page": 201,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "visa",
+     "fr": "visa",
+     "de": "Visum",
+     "es": "visa",
+     "it": "visto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "carry-on luggage",
+     "fr": "bagages à main",
+     "de": "Handgepäck",
+     "es": "equipaje de mano",
+     "it": "bagaglio a mano",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "passport",
+     "fr": "passeport",
+     "de": "Pass",
+     "es": "pasaporte",
+     "it": "passaporto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 4,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "boarding pass",
+     "fr": "carré d' embarquement",
+     "de": "Bordkarte",
+     "es": "tarjeta de embarque",
+     "it": "carta d'imbarco",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 9,
+      "es": 17,
+      "it": 13
+     }
+    },
+    {
+     "en": "luggage",
+     "fr": "bagages",
+     "de": "Gepäck",
+     "es": "equipaje",
+     "it": "bagaglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "can",
+     "fr": "ie chario t",
+     "de": "Kotferkuli",
+     "es": "carrito",
+     "it": "carrello",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "ticket",
+     "fr": "biller",
+     "de": "Flugticket",
+     "es": "boleto",
+     "it": "biglietto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 10,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "passport control",
+     "fr": "contrôle de passeports",
+     "de": "Passkontrolle",
+     "es": "control de pasaportes",
+     "it": "controllo passaporti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 20,
+      "de": 13,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "check in desk",
+     "fr": "enregistrement des bagages",
+     "de": "Abfertigungsschalter",
+     "es": "mostrador de check-in",
+     "it": "banco accettazione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 24,
+      "de": 20,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "destination",
+     "fr": "destination",
+     "de": "Reiseziel",
+     "es": "destino",
+     "it": "destinazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 9,
+      "es": 7,
+      "it": 12
+     }
+    },
+    {
+     "en": "gate number",
+     "fr": "nu me rode la porte d' embarquement",
+     "de": "Gatenummer",
+     "es": "nùm ero de puerta de embarque",
+     "it": "numero dell'uscita",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 28,
+      "de": 10,
+      "es": 24,
+      "it": 16
+     }
+    },
+    {
+     "en": "arrivals",
+     "fr": "arrivées",
+     "de": "Ankunft",
+     "es": "llegadas",
+     "it": "arrivi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "departures",
+     "fr": "départs",
+     "de": "Abflug",
+     "es": "salidas",
+     "it": "partenze",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "information screen",
+     "fr": "écran d' information",
+     "de": "Fluginformationsanzeige",
+     "es": "pantalla informativa",
+     "it": "pannello degli orari",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 17,
+      "de": 23,
+      "es": 19,
+      "it": 18
+     }
+    },
+    {
+     "en": "departure lounge",
+     "fr": "salle de départ",
+     "de": "Abflughalle",
+     "es": "sala de embarque",
+     "it": "sala delle partenze",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "car rental",
+     "fr": "location de voitures",
+     "de": "Autoverieih",
+     "es": "renta de carros",
+     "it": "autonoleggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 18,
+      "de": 11,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "taxi stand",
+     "fr": "station de taxis",
+     "de": "Taxistand",
+     "es": "sitio de taxis",
+     "it": "posteggio dei taxi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 9,
+      "es": 12,
+      "it": 16
+     }
+    },
+    {
+     "en": "baggage claim",
+     "fr": "U- retrait des bagages",
+     "de": "Gepäckausgabe",
+     "es": "recogida de equipajes",
+     "it": "ricupero bagagli",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 13,
+      "es": 19,
+      "it": 15
+     }
+    },
+    {
+     "en": "duty-free store",
+     "fr": "boutique hors taxes",
+     "de": "Duty-free Shop",
+     "es": "duty-free",
+     "it": "negozio duty free",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_hyphen": [
+      "en",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 12,
+      "es": 8,
+      "it": 15
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

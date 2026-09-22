@@ -1,0 +1,425 @@
+{
+ "page": 220,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L K S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "golf clubs",
+     "fr": "les clubs de golf",
+     "de": "die Golf schläger",
+     "es": "los palos de golf",
+     "it": "le mazze da golf",
+     "_pos": [
+      692,
+      71
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "equipment • l'équipement • die Ausrüstung • el equipo",
+   "parts": [
+    "equipment",
+    "l'équipement",
+    "die ausrüstung",
+    "el equipo"
+   ],
+   "entries": [
+    {
+     "en": "umbrella",
+     "fr": "le parapluie",
+     "de": "der Schirm",
+     "es": "el paraguas",
+     "it": "l'ombrello",
+     "_pos": [
+      558,
+      89
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le attrezzature",
+     "_pos": [
+      28,
+      93
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "golf ball",
+     "fr": "Li balle de golf",
+     "de": "der Golfball",
+     "es": "la boia de golf",
+     "it": "la pallina da golf",
+     "_pos": [
+      147,
+      140
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "golf bag",
+     "fr": "le sac de golf",
+     "de": "die Golftasche",
+     "es": "la bolsa de goll",
+     "it": "la sacca da golf",
+     "_pos": [
+      486,
+      177
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spikes",
+     "fr": "les pointes",
+     "de": "die Spikes",
+     "es": "los spikes",
+     "it": "i chiodi",
+     "_pos": [
+      446,
+      281
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wood",
+     "fr": "le bois",
+     "de": "das Holz",
+     "es": "la madera",
+     "it": "la mazza di legno",
+     "_pos": [
+      694,
+      286
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tee",
+     "fr": "le tee",
+     "de": "der Aufsatz",
+     "es": "el tee",
+     "it": "il tee",
+     "_pos": [
+      28,
+      288
+     ],
+     "_flags": []
+    },
+    {
+     "en": "golf shoe",
+     "fr": "la chaussure de golf",
+     "de": "der Golfschuh",
+     "es": "el zapato de golf",
+     "it": "la scarpa da golf",
+     "_pos": [
+      476,
+      467
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glove",
+     "fr": "le gant",
+     "de": "der Handschuh",
+     "es": "el guante",
+     "it": "il guanto",
+     "_pos": [
+      28,
+      467
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bag cart",
+     "fr": "le caddie",
+     "de": "der Caddie",
+     "es": "el carrito de golf",
+     "it": "il carrellino",
+     "_pos": [
+      197,
+      467
+     ],
+     "_flags": []
+    },
+    {
+     "en": "putter",
+     "fr": "le putrer",
+     "de": "der Putter",
+     "es": "el p u tier",
+     "it": "il putter",
+     "_pos": [
+      696,
+      475
+     ],
+     "_flags": [
+      "es:short:p",
+      "es:short:u"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "actions • Ics actions • die Aktionen • las acciones • le azioni",
+   "parts": [
+    "actions",
+    "ics actions",
+    "die aktionen",
+    "las acciones",
+    "le azioni"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "4",
+   "parts": [],
+   "entries": [
+    {
+     "en": "iron",
+     "fr": "le fer",
+     "de": "das Eisen",
+     "es": "el fierro",
+     "it": "la mazza di",
+     "_pos": [
+      696,
+      622
+     ],
+     "_flags": []
+    },
+    {
+     "en": "putt (v)",
+     "fr": "putier",
+     "de": "einlochen",
+     "es": "tirar al hoyo con un putter",
+     "it": "colpire leggermente",
+     "_pos": [
+      370,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chip (v)",
+     "fr": "cocher",
+     "de": "chippen",
+     "es": "hacer un chip",
+     "it": "colpire da vicino",
+     "_pos": [
+      541,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tee off (v)",
+     "fr": "partir du tec",
+     "de": "vom Abschlag spielen",
+     "es": "salir",
+     "it": "cominciare la partita",
+     "_pos": [
+      30,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drive (v)",
+     "fr": "driver",
+     "de": "driven",
+     "es": "hacer un drive",
+     "it": "colpire a distanza",
+     "_pos": [
+      200,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wedge",
+     "fr": "la cale",
+     "de": "das Wedge",
+     "es": "el wedge",
+     "it": "la mazza ricurva",
+     "_pos": [
+      696,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "backswing",
+     "fr": "le swing en arrière",
+     "de": "der Durchschwung",
+     "es": "el backswing",
+     "it": "il back-swing",
+     "_pos": [
+      724,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "caddy",
+     "fr": "le caddie",
+     "de": "der Caddie",
+     "es": "el caddy",
+     "it": "il caddy",
+     "_pos": [
+      432,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stroke",
+     "fr": "le coup",
+     "de": "der Schlag",
+     "es": "el golpe",
+     "it": "il colpo",
+     "_pos": [
+      570,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "over par",
+     "fr": "le over par",
+     "de": "das Überpar",
+     "es": "sobre par",
+     "it": "l'overpar",
+     "_pos": [
+      160,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handicap",
+     "fr": "le handicap",
+     "de": "das Golfhandicap",
+     "es": "el handicap",
+     "it": "l'handicap",
+     "_pos": [
+      303,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "par",
+     "fr": "le par",
+     "de": "das Par",
+     "es": "el par",
+     "it": "il par",
+     "_pos": [
+      45,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spectators",
+     "fr": "les spectateurs",
+     "de": "die Zuschauer",
+     "es": "los espectadores",
+     "it": "gli spettatori",
+     "_pos": [
+      432,
+      974
+     ],
+     "_flags": []
+    },
+    {
+     "en": "practice swing",
+     "fr": "le swing d' essai",
+     "de": "der Übungsschwung",
+     "es": "el sw ing de práctica",
+     "it": "lo swing di pratica",
+     "_pos": [
+      570,
+      974
+     ],
+     "_flags": []
+    },
+    {
+     "en": "line of play",
+     "fr": "la ligne de jeu",
+     "de": "die Spielbahn",
+     "es": "la línea de juego",
+     "it": "la linea di gioco",
+     "_pos": [
+      724,
+      974
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tournament",
+     "fr": "le tournoi",
+     "de": "das Golfturnier",
+     "es": "el torneo",
+     "it": "il torneo",
+     "_pos": [
+      304,
+      975
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hole in one",
+     "fr": "le trou en un",
+     "de": "das Hoie-in-One",
+     "es": "el hoyo en uno",
+     "it": "la buca in uno",
+     "_pos": [
+      160,
+      975
+     ],
+     "_flags": []
+    },
+    {
+     "en": "under par",
+     "fr": "le under par",
+     "de": "das Unterpar",
+     "es": "el bajo par",
+     "it": "l'undcrpar",
+     "_pos": [
+      46,
+      976
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 30,
+  "complete_clean": 15,
+  "flagged": 15,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

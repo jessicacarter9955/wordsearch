@@ -1,0 +1,334 @@
+{
+ "page": 67,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • LA M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "bathroom • la salle de bain • das Badezimmer • el baño • la stanza da bagno",
+   "parts": [
+    "bathroom",
+    "la salle de bain",
+    "das badezimmer",
+    "el baño",
+    "la stanza da bagno"
+   ],
+   "entries": [
+    {
+     "en": "towel rack",
+     "fr": "le porte-servi erres",
+     "de": "der Handtuchhalter",
+     "es": "el toallero",
+     "it": "il portasciugamani",
+     "_pos": [
+      55,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shower door",
+     "fr": "la porte de douche",
+     "de": "die Duschtür",
+     "es": "la pilerìa de la regadera la llave de agua fría",
+     "it": "la porta della doccia",
+     "_pos": [
+      183,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cold faucet",
+     "fr": "le robinet d'eau froide",
+     "de": "der Kaltwasserhahn",
+     "_pos": [
+      344,
+      151
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "hot faucet",
+     "fr": "le robinet d'eau chaude",
+     "de": "der Heißwasserhahn",
+     "es": "la llave de agua caliente",
+     "it": "il rubinetto dell'acqua calda",
+     "_pos": [
+      535,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shower head",
+     "fr": "le pommeau de douche",
+     "de": "der Duschkopf",
+     "es": "la piña de la regadera",
+     "it": "il soffione della doccia",
+     "_pos": [
+      732,
+      153
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sink",
+     "fr": "le lavabo",
+     "de": "das Waschbecken",
+     "es": "el lavabo",
+     "it": "il lavandino",
+     "_pos": [
+      54,
+      248
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shower",
+     "fr": "la douche",
+     "de": "die Dusche",
+     "es": "la regadera",
+     "it": "la doccia",
+     "_pos": [
+      731,
+      252
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stopper",
+     "fr": "la bonde",
+     "de": "der Stöpsel",
+     "es": "el tapón",
+     "it": "il tappo",
+     "_pos": [
+      54,
+      347
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drain",
+     "fr": "le tuyau d'écoulement",
+     "de": "der Abfluss",
+     "es": "el desagüe",
+     "it": "lo scolo",
+     "_pos": [
+      730,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toilet seat",
+     "fr": "le siège des toilettes",
+     "de": "der Toilettensitz",
+     "es": "la tapa del excusado",
+     "it": "il sedile",
+     "_pos": [
+      730,
+      467
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bathtub",
+     "fr": "la baignoire",
+     "de": "die Badewanne",
+     "es": "la tina",
+     "it": "la vasca",
+     "_pos": [
+      54,
+      562
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toilet",
+     "fr": "les toilettes",
+     "de": "die Toilette",
+     "es": "el excusado",
+     "it": "il water",
+     "_pos": [
+      729,
+      583
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toilet brush",
+     "fr": "la brosse",
+     "de": "die Toilettenbürste",
+     "es": "la escobilla del excusado",
+     "it": "la spazzola da water",
+     "_pos": [
+      729,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "medicine cabinet",
+     "fr": "la pharmacie de ménage",
+     "de": "die Hausapotheke",
+     "es": "el botiquín",
+     "it": "l'armadiettu dei medicinali",
+     "_pos": [
+      68,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bathmat",
+     "fr": "le tapis de bain",
+     "de": "die Badematte",
+     "es": "el tapete de baño",
+     "it": "lo scendibagno",
+     "_pos": [
+      288,
+      802
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "dental hygiene • l'hygiène dentaire • die Zahnpflege • la higiene dentai • l'igiene dentale",
+   "parts": [
+    "dental hygiene",
+    "l'hygiène dentaire",
+    "die zahnpflege",
+    "la higiene dentai",
+    "l'igiene dentale"
+   ],
+   "entries": [
+    {
+     "en": "dentai floss",
+     "fr": "le lil dentaire",
+     "de": "die Zahnseide",
+     "es": "el hilo dental",
+     "it": "il filo interdentale",
+     "_pos": [
+      762,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toothbrush",
+     "fr": "la brosse à dents",
+     "de": "die Zahnbürste",
+     "es": "el cepillo de dientes",
+     "it": "lo spazzolino da denti",
+     "_pos": [
+      480,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toilet paper",
+     "fr": "le rouleau de papier hygiénique",
+     "de": "die Rolle Toilettenpapier",
+     "es": "el rollo de papel higiénico",
+     "it": "la carta igienica",
+     "_pos": [
+      67,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shower curtain",
+     "fr": "le rideau de douche",
+     "de": "der Duschvorhang",
+     "es": "la cortina de la regadera",
+     "it": "la tenda da doccia",
+     "_pos": [
+      286,
+      900
+     ],
+     "_flags": []
+    },
+    {
+     "en": "take a shower (v)",
+     "fr": "prendre une douche",
+     "de": "duschen",
+     "es": "bañarse",
+     "it": "farsi la doccia",
+     "_pos": [
+      66,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "take a bath (v)",
+     "fr": "prendre un bain",
+     "de": "baden",
+     "es": "darse un baño",
+     "it": "farsi il bagno",
+     "_pos": [
+      288,
+      998
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toothpaste",
+     "fr": "le dentifrice",
+     "de": "die Zahnpasta",
+     "es": "la pasta de dientes",
+     "it": "il dentifricio",
+     "_pos": [
+      480,
+      1044
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mouthwash",
+     "fr": "l'cau dentifrice",
+     "de": "das Mundwasser",
+     "es": "el enjuague bucal",
+     "it": "il colludono",
+     "_pos": [
+      694,
+      1046
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "il rubinetto dell'acqua fredda",
+   "pos": [
+    345,
+    217
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 15,
+  "flagged": 8,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,280 @@
+{
+ "page": 192,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "motorcycle • la moto • das Motorrad • la motocicleta • la motocicletta",
+   "parts": [
+    "motorcycle",
+    "la moto",
+    "das motorrad",
+    "la motocicleta",
+    "la motocicletta"
+   ],
+   "entries": [
+    {
+     "en": "helmet",
+     "fr": "le casque",
+     "de": "der Motorradhelm",
+     "_pos": [
+      744,
+      103
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "speedometer",
+     "fr": "le compteur",
+     "de": "der Tachometer",
+     "es": "el velocím etro",
+     "it": "il contachilometri",
+     "_pos": [
+      216,
+      151
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brake",
+     "fr": "le frein",
+     "de": "die Bremse",
+     "es": "el freno",
+     "it": "il freno",
+     "_pos": [
+      512,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tum signal",
+     "fr": "le clignoranr",
+     "de": "der Blinker",
+     "es": "la direccional",
+     "it": "la freccia",
+     "_pos": [
+      38,
+      167
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horn",
+     "fr": "le klaxon",
+     "de": "die Hupe",
+     "es": "el claxon",
+     "it": "il clacson",
+     "_pos": [
+      512,
+      252
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clutch",
+     "fr": "l'embrayage",
+     "de": "die Kupplung",
+     "es": "el embrague",
+     "it": "la frizione",
+     "_pos": [
+      38,
+      298
+     ],
+     "_flags": []
+    },
+    {
+     "en": "throttle",
+     "fr": "accélérateur",
+     "de": "der Gashebel",
+     "es": "el acelerador",
+     "it": "l'acceleratore",
+     "_pos": [
+      510,
+      351
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carrier",
+     "fr": "le porte-bagages",
+     "de": "der Gepäckträger",
+     "es": "el portaequipaje",
+     "it": "il portapacchi",
+     "_pos": [
+      667,
+      367
+     ],
+     "_flags": []
+    },
+    {
+     "en": "controls",
+     "fr": "les commandes",
+     "de": "die Steuerung",
+     "es": "los controles",
+     "it": "i comandi",
+     "_pos": [
+      38,
+      398
+     ],
+     "_flags": []
+    },
+    {
+     "en": "passenger seat",
+     "fr": "le siège arrière",
+     "de": "der Soziussitz",
+     "es": "el asiento trasero",
+     "it": "I sellino posteriore",
+     "_pos": [
+      291,
+      447
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "engine",
+     "fr": "le moteur",
+     "de": "der Motor",
+     "es": "el motor",
+     "it": "il motore",
+     "_pos": [
+      596,
+      449
+     ],
+     "_flags": []
+    },
+    {
+     "en": "",
+     "fr": "la selle",
+     "de": "der Sitz",
+     "es": "el asiento",
+     "_pos": [
+      480,
+      449
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "tuel tank",
+     "fr": "le réservoir d' essence",
+     "de": "der Kraftstofftank",
+     "es": "el tanque de la gasolina",
+     "it": "il serbatoio",
+     "_pos": [
+      702,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reflector",
+     "fr": "le réflecteur",
+     "de": "das Katzenauge",
+     "es": "el reflector",
+     "it": "il riflettore",
+     "_pos": [
+      78,
+      463
+     ],
+     "_flags": []
+    },
+    {
+     "en": "taillight",
+     "fr": "le feu arrière",
+     "de": "das Bremslicht",
+     "es": "la luz trasera",
+     "it": "il fanale posteriore",
+     "_pos": [
+      36,
+      660
+     ],
+     "_flags": []
+    },
+    {
+     "en": "exhaust pipe",
+     "fr": "le pot d'échappement",
+     "de": "das Auspuffrohr",
+     "es": "el tubo de escape",
+     "it": "il tubo di scappamento",
+     "_pos": [
+      36,
+      825
+     ],
+     "_flags": []
+    },
+    {
+     "en": "muffler",
+     "fr": "le silencieux",
+     "de": "der Auspufftopf",
+     "es": "el silenciador",
+     "it": "il silenziatore",
+     "_pos": [
+      122,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oil tank",
+     "fr": "le réservoir d' huile",
+     "de": "der Ölsumpf",
+     "es": "el depósito del aceite",
+     "it": "il serbatoio dell'olio",
+     "_pos": [
+      368,
+      1006
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gearbox",
+     "fr": "la boîte de vitesses",
+     "de": "das Getriebe",
+     "es": "laca jade velocidad es",
+     "it": "la scatola del cambio",
+     "_pos": [
+      560,
+      1007
+     ],
+     "_flags": []
+    },
+    {
+     "en": "air filter",
+     "fr": "le filtre d' air",
+     "de": "der Luftfilter",
+     "es": "el filtro del aire",
+     "it": "il filtro dell'aria",
+     "_pos": [
+      752,
+      1008
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 12,
+  "flagged": 8,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,435 @@
+{
+ "page": 190,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "automobile",
+   "names": {
+    "en": "car",
+    "fr": "la voiture",
+    "de": "das auto",
+    "es": "el carro",
+    "it": "l'automobile"
+   },
+   "entries": []
+  },
+  {
+   "slug": "meccanica",
+   "names": {
+    "en": "mechanics",
+    "fr": "la mécanique",
+    "de": "die mechanik",
+    "es": "la mecánica",
+    "it": "la meccanica"
+   },
+   "entries": [
+    {
+     "en": "washer fluid reservoir",
+     "fr": "réservoir de lave-glace",
+     "de": "Scheibenputzmittelbehälter",
+     "es": "depósito del limpiaparabrisas",
+     "it": "serbatoio del liquido lavavetri",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 20,
+      "de": 26,
+      "es": 27,
+      "it": 28
+     }
+    },
+    {
+     "en": "air filter",
+     "fr": "filtre à air",
+     "de": "Luftfilter",
+     "es": "filtro del aire",
+     "it": "filtro dell'aria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "dipstick",
+     "fr": "jauge d'huile",
+     "de": "Ölmessstab",
+     "es": "varilla del nivel del aceite",
+     "it": "inrìirafnrH Hi livello HpH'nlin",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 10,
+      "es": 24,
+      "it": 27
+     }
+    },
+    {
+     "en": "brake fluid reservoir",
+     "fr": "réservoir de liquide de frein",
+     "de": "Bremsflüssigkeitsbehälter",
+     "es": "depósito del líquido de frenos",
+     "it": "serbatoio del liquido per i freni",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 25,
+      "de": 25,
+      "es": 26,
+      "it": 28
+     }
+    },
+    {
+     "en": "battery",
+     "fr": "batterie",
+     "de": "Batterie",
+     "es": "batería",
+     "it": "batteria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "bodywork",
+     "fr": "carrosserie",
+     "de": "Karosserie",
+     "es": "chapa",
+     "it": "carrozzeria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 10,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "sunroof",
+     "fr": "toi rouvrant",
+     "de": "Schiebedach",
+     "es": "quemacocos",
+     "it": "tettuccio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "cylinder head",
+     "fr": "culasse",
+     "de": "Zylinder köpf",
+     "es": "culata",
+     "it": "testa del cilindro",
+     "_multi": [
+      "en",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 12,
+      "es": 6,
+      "it": 16
+     }
+    },
+    {
+     "en": "coolant reservoir",
+     "fr": "réservoir Je liquide de refroidissement",
+     "de": "Kùhlmittelbehalter",
+     "es": "depósito del líquido refrigerante",
+     "it": "serbatoio per il liquido refrigerante",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 35,
+      "de": 18,
+      "es": 30,
+      "it": 33
+     }
+    },
+    {
+     "fr": "tuyau",
+     "de": "Rohr",
+     "es": "tubo",
+     "it": "tubo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "engine",
+     "fr": "moteur",
+     "de": "Motor",
+     "es": "motor",
+     "it": "motore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "radiator",
+     "fr": "radiateur",
+     "de": "Kühler",
+     "es": "radiador",
+     "it": "radiatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "fan",
+     "fr": "venrilareur",
+     "de": "Ventilator",
+     "es": "ventilador",
+     "it": "ventilatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "gearbox",
+     "fr": "boîte de vitesses",
+     "de": "Getriebe",
+     "es": "caja de cambios",
+     "it": "scatola del cambio",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 8,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "hubcap",
+     "fr": "enjoliveur",
+     "de": "Radkappe",
+     "es": "tapón",
+     "it": "coprimozzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 8,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "transmission",
+     "fr": "transmission",
+     "de": "Transmission",
+     "es": "transmisión",
+     "it": "trasmissione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 12,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "drive shaft",
+     "fr": "Earbre de transmission",
+     "de": "Kardanwelle",
+     "es": "eje de la transmisión",
+     "it": "albero di transmissionc",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 20,
+      "de": 11,
+      "es": 18,
+      "it": 21
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

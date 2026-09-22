@@ -1,0 +1,268 @@
+{
+ "page": 167,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • I H T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "media • les médias • die Medien • los medios de comunicación • i mass media",
+   "parts": [
+    "media",
+    "les médias",
+    "die medien",
+    "los medios de comunicación",
+    "i mass media"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "television studio • le studio de télévision • das Fernsehstudio • el estudio de televisión • lo studio televisivo",
+   "parts": [
+    "television studio",
+    "le studio de télévision",
+    "das fernsehstudio",
+    "el estudio de televisión",
+    "lo studio televisivo"
+   ],
+   "entries": [
+    {
+     "en": "host",
+     "fr": "le présentateur",
+     "de": "der Moderator",
+     "es": "el presentador",
+     "it": "il presentatore",
+     "_pos": [
+      130,
+      176
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set",
+     "fr": "le plateau",
+     "de": "die Studioeinrichtung",
+     "es": "el plato",
+     "it": "il set",
+     "_pos": [
+      554,
+      179
+     ],
+     "_flags": []
+    },
+    {
+     "en": "light",
+     "fr": "l'éclairage",
+     "de": "die Beleuchtung",
+     "es": "el reflet-tor",
+     "it": "la lampada",
+     "_pos": [
+      370,
+      181
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camera",
+     "fr": "la caméra",
+     "de": "die Kamera",
+     "es": "la cámara",
+     "it": "la telecamera",
+     "_pos": [
+      190,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "I camera crane",
+     "fr": "la grue de caméra",
+     "de": "der Kamerakran",
+     "es": "la grúa de la cámara",
+     "it": "il carrello della telecamera",
+     "_pos": [
+      384,
+      779
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "> cameraman",
+     "fr": "It cam eram an",
+     "de": "der Kameramann",
+     "es": "el camarógrafo",
+     "it": "il cameraman",
+     "_pos": [
+      634,
+      780
+     ],
+     "_flags": [
+      "en:weird:>",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "channel",
+     "fr": "la chaîne",
+     "de": "der Kanal",
+     "es": "el canal",
+     "it": "il canale",
+     "_pos": [
+      59,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "documentary",
+     "fr": "le documentaire",
+     "de": "der Dokumentarfilm",
+     "es": "el documental",
+     "it": "il documentano",
+     "_pos": [
+      216,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "press",
+     "fr": "la presse",
+     "de": "die Presse",
+     "es": "la prensa",
+     "it": "la stampa",
+     "_pos": [
+      352,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soap",
+     "fr": "le feuilleton",
+     "de": "die Seifenoper",
+     "es": "la telenovela",
+     "it": "la telenovela",
+     "_pos": [
+      484,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cartoon",
+     "fr": "le dessin animé",
+     "de": "der Zeichentrickfilm",
+     "es": "las caricaturas",
+     "it": "il cartone animato",
+     "_pos": [
+      606,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "live",
+     "fr": "en direct",
+     "de": "live",
+     "es": "en directo",
+     "it": "in diretta",
+     "_pos": [
+      780,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "programming",
+     "fr": "la programmation",
+     "de": "die Programmgestaltung",
+     "es": "la programación",
+     "it": "la programmazione",
+     "_pos": [
+      58,
+      992
+     ],
+     "_flags": []
+    },
+    {
+     "en": "news",
+     "fr": "les nouvelles",
+     "de": "die Nachrichten",
+     "es": "el noticiario",
+     "it": "il telegiornale",
+     "_pos": [
+      216,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "television senes",
+     "fr": "la série télévisée",
+     "de": "die Fernsehserie",
+     "es": "la serie televisiva",
+     "it": "le serie televisiva",
+     "_pos": [
+      351,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "game show",
+     "fr": "le jeu télévisé",
+     "de": "die Spielshow",
+     "es": "el concurso",
+     "it": "il gioco a premi",
+     "_pos": [
+      484,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prerecorded",
+     "fr": "en différé",
+     "de": "vorher aufgezeichnet",
+     "es": "pregrabado",
+     "it": "in differita",
+     "_pos": [
+      605,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "broadcast (v)",
+     "fr": "émettre",
+     "de": "senden",
+     "es": "transmitir",
+     "it": "trasmettere",
+     "_pos": [
+      779,
+      998
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 13,
+  "flagged": 5,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

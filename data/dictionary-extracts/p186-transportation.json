@@ -1,0 +1,444 @@
+{
+ "page": 186,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "mirror",
+     "fr": "rétroviseur",
+     "de": "Seitenspiegei",
+     "es": "e\\ espejo lateral",
+     "it": "specchietto laterale",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 13,
+      "es": 14,
+      "it": 19
+     }
+    },
+    {
+     "en": "windshield",
+     "fr": "pare-brise",
+     "de": "Windschutzscheibe",
+     "es": "parabrisas",
+     "it": "parabrezza",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 17,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "rearview mirror",
+     "fr": "rétroviseur",
+     "de": "Rückspiegel",
+     "es": "espejo retrovisor",
+     "it": "specchietto retrovisore",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 11,
+      "de": 11,
+      "es": 16,
+      "it": 22
+     }
+    },
+    {
+     "en": "windscreen wiper",
+     "fr": "l 'essuie-glace",
+     "de": "Scheibenwischer",
+     "es": "limpiaparabrisas",
+     "it": "tergicristallo",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 12,
+      "de": 15,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "door",
+     "fr": "porte",
+     "de": "Autotür",
+     "es": "puerta",
+     "it": "sportello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "hood",
+     "fr": "capot",
+     "de": "Motorhaube",
+     "es": "cofre",
+     "it": "cofano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "trunk",
+     "fr": "coffre",
+     "de": "Kofferraum",
+     "es": "cajuela",
+     "it": "bagagliaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "tum signal",
+     "fr": "clignotant",
+     "de": "Blinker",
+     "es": "directional",
+     "it": "freccia",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 7,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "license plate",
+     "fr": "plaque d' immatriculation",
+     "de": "Nummernschild",
+     "es": "l.i m atrícula",
+     "it": "targa",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 22,
+      "de": 13,
+      "es": 11,
+      "it": 5
+     }
+    },
+    {
+     "en": "bumper",
+     "fr": "pare-chocs",
+     "de": "Stoßstange",
+     "es": "defensa",
+     "it": "paraurti",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "headlight",
+     "fr": "phare",
+     "de": "Scheinwerfer",
+     "es": "faro",
+     "it": "fari anabbaglianti",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 12,
+      "es": 4,
+      "it": 17
+     }
+    },
+    {
+     "en": "wheel",
+     "fr": "roue",
+     "de": "Rad",
+     "es": "rueda",
+     "it": "ruota",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 3,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "tire",
+     "fr": "pneu",
+     "de": "Reifen",
+     "es": "llanta",
+     "it": "pneumatico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "luggage",
+     "fr": "bagages",
+     "de": "Gepäck",
+     "es": "equipaje",
+     "it": "hananli",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "roof rack",
+     "fr": "galerie",
+     "de": "Dachgepäckträger",
+     "es": "baca",
+     "it": "portabagagli",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 16,
+      "es": 4,
+      "it": 12
+     }
+    },
+    {
+     "en": "tailgate",
+     "fr": "hayon",
+     "de": "Hecktur",
+     "es": "puerta abatible",
+     "it": "portellone",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 7,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "seat belt",
+     "fr": "ceinture de sécuriré",
+     "de": "Sicherheitsgurt",
+     "es": "cinturón de seguridad",
+     "it": "cintura di sicurezza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 15,
+      "es": 19,
+      "it": 18
+     }
+    },
+    {
+     "en": "child seat",
+     "fr": "siège d'enfant",
+     "de": "Kindersitz",
+     "es": "silla para niños",
+     "it": "seggiolino per bambino",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 20
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,161 @@
+====================================================================================================
+== p020 [persone] 16 voci, 16 flag, 0 mancanti, 0 leftover, header=P EO P LE • L E S G E N S • DIE MENSCHEN ♦ L A G E N T E • ~
+-- G0 subcat: family • la famille • die Familie • la familia • la fam iglia
+   parts: family • la famille • die familie • la familia • la famiglia
+ 0.0  M grandmother | la grand-mère | die Großmutter | la abuela | la nonna   
+ 0.1  M grandfather | le grand-pére | der Großvater | el abuelo | il nonno   
+ 0.2  M uncle | l'onde | der Onkel | el tío | lo zio   
+ 0.3  M aunt | la tante | die Tante | la tía | la zia   
+ 0.4  M mother | la mère | die Mutter | la madre | la madre   
+ 0.5  M cousin | le cousin | der Cousin | el primo | il cugino   
+ 0.6  M brother | le frère | der Bruder | el hermano | il fratello   
+ 0.7  M sister | la sceiir | die Schwester | la hermana | la sorella   
+ 0.8  M wife | la femme | die Ehefrau | la esposa | la moglie   
+ 0.9  M daughter-in-law | la belle-fille | die Schwiegertoc~ | la nuera | la nuora   
+ 0.10 M son | le fils | der Sohn | el hijo | il figlio   
+ 0.11 M daughter | la fille | die Tochter | la hija | la figlia   
+ 0.12 M son-in-law | le gendre | der Schwiegersohn | el yerno | il genero   
+ 0.13 M grandson | le perit-fils | der Enkel | el nieto | il nipote   
+ 0.14 M granddaughter | la perire-fille | die Enkelin | la nieta | la nipote   
+ 0.15 M husband | le mari | der Ehemann | el esposo | il marito   
+====================================================================================================
+== p021 [persone] 29 voci, 21 flag, 2 mancanti, 0 leftover, header=PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE /~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M generation | la génération | die Generation | la generación | la generazione   
+ 0.1  M stepson | le beau-fils | der Stiefsohn | el hijastro | il figliastro   
+ 0.2  M stepmother | la belle-mère | die Stiefmutter | la madrastra | la matrigna   
+ 0.3  M grandchildren | les petits-enfan~ | die Enkelkinder | los nietos | i nipoti   
+ 0.4  M parents | les parents | die Eltern | los padres | i genitori   
+ 0.5  M relatives | les parents | die Verwandten | los parientes | i parenti   
+ 0.6  M twins | les jumeaux | die Zwillinge | los geme los | i gemelli   
+ 0.7  ⚠ partner | le/la partenaire | der Partner/die ~ | el/la com pañero~ | if/la compagno/-a   de es fr it
+ 0.8  M stepdaughter | la belle-fille | die Stieftochter | la hijastra | la figliastra   
+ 0.9  M stepfather | le beau-père | der Stiefvater | el padrastro | il patrigno   
+ 0.10 M children | les enfants | die Kinder | los niños | i bambini   
+ 0.11 M grandparents | les grands-paren~ | die Großeltern | los abuelos | i nonni   
+-- G1 subcat: stages • les stades • dìe Stadien • las etapas • le fasi
+   parts: stages • les stades • dìe stadien • las etapas • le fasi
+ 1.0  M father-irvlaw | le beau-père | der Schwiegervat~ | el suegro | il suocero   
+ 1.1  M mother-in law | la belle-mère | die Schwiegermut~ | la suegra | la suocera   
+ 1.2  M child | l'enfant | das Kind | el niño | il bambino   
+ 1.3  M baby | le bébé | das Baby | el bebé | il bimbo   
+ 1.4  M brother-in-law | le beau-frère | der Schwager | el cuñado | il cognato   
+ 1.5  ⚠ ? | la cuñada | ? | la cognata | ?   missing
+ 1.6  M girl | la fille | das Mädchen | la niña | la ragazza   
+ 1.7  M boy | le garçon | der Junge | el niño | il ragazzo   
+ 1.8  ⚠ Mrs | Madame | Frau | Señora | ?   en es fr missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 1.9  M adult | l'adulte | der Erwachsene | el adulto | l'adulto   
+ 1.10 M teenager | l'adolescente | die Jugendliche | la adolescente | l'adolescente   
+ 1.11 M nephew | le neveu | der Neffe | el sobrino | il nipote   
+ 1.12 M mece | la nièce | die Nichte | la sobrina | la nipote   
+-- G2 subcat: titles • les titres • die Anreden • los tratamientos • gli appellativi
+   parts: titles • les titres • die anreden • los tratamientos • gli appellativi
+ 2.0  ⚠ M r | Monsieur | Herr | Señor | Signore   en es fr it
+ 2.1  ⚠ Miss | Mademoiselle | Fräulein | Señorita | Signorina   en es fr it
+ 2.2  M woman | la femme | die Frau | la mujer | la donna   
+ 2.3  M man | l'homme | der Mann | el hombre | l'uomo   
+====================================================================================================
+== p022 [persone] 17 voci, 11 flag, 3 mancanti, 0 leftover, header=PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE
+-- G0 subcat: relationships • les relations • die Beziehungen • las relaciones • i rapporti
+   parts: relationships • les relations • die beziehungen • las relaciones • i rapporti
+ 0.0  M manager | le chef | der Chef | el jefe | il capo   
+ 0.1  ⚠ assistant | l'assistante | die Assistentin | la asistente | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.2  M business partner | l'associ cc | die Geschäftspar~ | la socia | il partner di   
+ 0.3  ⚠ employer | l'employeuse | die Arbeitgeberin | la empresario | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.4  ⚠ employee | l'employé | der Arbeitnehmer | el empleado | ?   missing
+ 0.5  M colleague | le collègue | der Kollege | el com pañero | il collega   
+ 0.6  M office | le bureau | das Büro | la oficina | l'ufficio   
+ 0.7  M neighbor | le voisin | der Nachbar | el vecino | il vicino   
+ 0.8  M friend | l'ami | der Freund | el amigo | l'amico   
+ 0.9  M acquaintance | la connaissance | der Bekannte | el conocido | il conoscente   
+ 0.10 M pen pal | le correspondant | der Brieffreund | el amigo por cor~ | l'amico di penna   
+ 0.11 M boyfriend | le périr ami | der Freund | el novio | il ragazzo   
+ 0.12 M girlfriend | la petite amie | die Freundin | la novia | la ragazza   
+ 0.13 M fiancé | le fiancé | der Verlobte | el prometido | il fidanzato   
+ 0.14 M fiancée | la fiancée | die Verlobte | la prometida | la fidanzata   
+ 0.15 M couple | le couple | das Paar | la pareja | la coppia   
+ 0.16 M engaged couple | les fiancés | die Verlobten | la pareja | i fidanzati   
+====================================================================================================
+== p023 [persone] 24 voci, 21 flag, 0 mancanti, 0 leftover, header=PEO PLE • LES GF NS • DIE MENSCHEN • LA GENTE • LE PERSONE
+-- G0 subcat: emotions • les émotions • die Gefühle • las emociones • le emozioni
+   parts: emotions • les émotions • die gefühle • las emociones • le emozioni
+ 0.0  M smile | le sourire | das Lächeln | la sonrisa | sorriso   
+ 0.1    bored | ennuyé | gelangweilt | aburrido | annoiato   
+ 0.2  M excited | excité | aufgeregt | entusiasm adó | eccitato   
+ 0.3    sad | triste | traung | triste | triste   
+ 0.4    ''appy | heureux | glücklich | contento | felice   
+ 0.5  M frown | le froncement de~ | das Stirnrunzeln | el ceño fruncido | aggrottare le so~   
+ 0.6    angry | fâché | verärgert | enfadado | arrabbiato   
+ 0.7    confused | confus | verwirrt | confuso | confuso   
+ 0.8    scared | effraye | erschrocken | asustado | spaventato   
+ 0.9    surprised | surpris | überrascht | sorprendido | sorpreso   
+ 0.10   proud | fier | stolz | orgulloso | fiero   
+ 0.11 M confident | confiant | selbstsicher | seguro de si mis~ | fiducioso   
+ 0.12   nervous | nerveux | nervös | nervioso | nervoso   
+ 0.13   worried | inquiet | besorgt | preocupado | preoccupato   
+ 0.14   shout (v) | crier | schreien | gritar | gridare   
+ 0.15   laugh (v) | rire | lachen | reir | ridere   
+ 0.16   sigh (v) | soupirer | seufzen | suspirar | sospirare   
+ 0.17   upset | consterné | bestürzt | triste | turbato   
+ 0.18   yawn (v) | bâiller | gähnen | bostezar | sbadigliare   
+ 0.19   cry (v) | pleurer | weinen | llorar | piangere   
+ 0.20 M faint (v) | s'évanouir | in Ohnmacht fall~ | desmayar se | svenire   
+ 0.21   shocked | choqué | schockiert | horrorizado | scandalizzato   
+ 0.22 M shy | timide | schüchtern | tim ido | timido   
+ 0.23   embarrassed | gêné | verlegen | avergonzado | imbarazzato   
+====================================================================================================
+== p024 [persone] 23 voci, 20 flag, 2 mancanti, 2 leftover, header=PEO PLE • ! ES GENS • DIE MENSCHEN • LA GENTE ♦ LE PERSONE
+-- G0 subcat: life events • les événements de la vie • die Ereignisse des Lebens • los aconte~
+   parts: life events • les événements de la vie • die ereignisse des lebens • los acontecimientos de~
+ 0.0  M be born (v) | naître | geboren werden | nacer | nascere   
+ 0.1  M start school (v) | commencer à l'éc~ | zur Schule kommen | empezar el coleg~ | iniziare la scuo~   
+ 0.2  M make fnends (v) | faire des amis | sich befreunden | hacer amigos | fare amicizia   
+ 0.3  M graduate (v) | obtenir sa licen~ | graduieren | graduarse | laurearsi   
+ 0.4  M get a job (v) | trouver un emploi | eine Stelle beko~ | conseguir un tra~ | trovare un lavoro   
+ 0.5  M fall in love (v) | tomber amoureux | sich verlieben | enamorar se | innamorarsi   
+ 0.6  M get married (v) | se marier | heiraten | casarse | sposarsi   
+ 0.7  ⚠ have a baby <v | avoir un bébé | ein Baby bekommen | tener un hijo | avere un bambino   en
+ 0.8  M christening | le baptême | die Taufe | el bautizo | il battesimo   
+ 0.9    die (v) | mourir | sterben | morir | morire   
+ 0.10 ⚠ bar mitzvah | la bar-m itsvah | die Bar Mizwa | el bar m itzvah | il bar mitzvah   es
+ 0.11 M make a will (v) | faire son testam~ | sein Testament m~ | hacer testamento | fare testamento   
+ 0.12 ⚠ fëv | ? | ? | ? | ?   missing
+ 0.13 ⚠ ' | l | ? | ? | ?   en missing
+ 0.14 M anniversary | l'anniversaire d~ | der Hochzeitstag | el aniversario | rannivera rio   
+ 0.15 M birth certificate | l'acte de naissa~ | die Geburtsurkun~ | el acta de nacim~ | il certificato d~   
+ 0.16 M wedding | le ma nage | die Hochzeit | la boda | il matrimonio   
+ 0.17   emigrate (v) | émigrer | emigrieren | emigrar | emigrare   
+ 0.18 M wedding reception | le repas de noces | die Hochzeitsfei~ | el banquete de b~ | il ricevimento n~   
+ 0.19 M retire (v) | prendre sa retra~ | in den Ruhestand~ | retirarse | andare in pensio~   
+ 0.20 ⚠ honeymoon | le voyage de noc~ | die Hochzeitsrei~ | la luna de m iei | il viaggio di no~   es
+ 0.21 M divorce | le divorce | die Scheidung | el divorcio | il divorzio   
+ 0.22 M funeral | l'enterrement | das Begräbnis | el funeral | il funerale   
+   LEFT 'I B I | IH 1' @[220, 733] (blocco 2 righe non risolvibile)
+   LEFT 'm | i l | i' @[160, 748] (blocco 3 righe non risolvibile)
+====================================================================================================
+== p025 [persone] 16 voci, 11 flag, 1 mancanti, 0 leftover, header=PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE
+-- G0 subcat: festivals • les fêtes • die
+   parts: festivals • les fêtes • die
+-- G1 subcat: celebrations • les fetes • die Feste • las celebraciones • le celebrazioni
+   parts: celebrations • les fêtes • die feste • las celebraciones • le celebrazioni
+ 1.0  ⚠ Feste | ? | ? | los festivales | le feste   en missing
+ 1.1  M card | la carte | die Karte | la tarjeta | la cartolina   
+ 1.2  M birthday party | la fête | die Geburtstagsf~ | la fiesta de cum~ | la festa di comp~   
+ 1.3  M present | le cadeau | das Geschenk | el regalo | il regalo   
+ 1.4  ⚠ Passover | la Pâque | das Passah | la Pascua judía | la Pasqua ebraica   en es fr it
+ 1.5  ⚠ Chnstmas | le Noël | das Weihnachten | la Navidad | il Natale   en es fr it
+ 1.6  M birthday | l'anniversaire | der Geburtstag | el cumpleaños | il compleanno   
+ 1.7  M procession | le défilé | der Umzug | el deslile | la processione   
+ 1.8  ⚠ Ramadan | le Ramadan | der Ramadan | el Ramadán | il Ramadan   en es fr it
+ 1.9  M carnival | le carnaval | der Karneval | el carnaval | il carnevale   
+ 1.10 ⚠ New Year | le Nouvel An | das Neujahr | el Año Nuevo | il Capodanno   en es fr it
+ 1.11 M ribbon | le ruban | das Band | la cinta | il nastro   
+ 1.12 ⚠ Diwali | la D iw a li | das Diwali | el D iw a li | il Diwali   en es fr it
+ 1.13 ⚠ Halbween | la veille de la ~ | das Halloween | el día de Hallow~ | la vigilia d'Ogn~   en
+ 1.14 ⚠ Thanksgiving | la fête de Thank~ | der Thanksgiving~ | el día de Acción~ | il giorno del ri~   en
+ 1.15 ⚠ Easter | Pâques | das Ostern | la Pascua | la Pasqua   en es fr it
+====================================================================================================
+== p026 [persone] PAGINA DIVISORIA / SENZA VOCI

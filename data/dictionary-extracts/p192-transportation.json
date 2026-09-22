@@ -1,0 +1,474 @@
+{
+ "page": 192,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "motocicletta",
+   "names": {
+    "en": "motorcycle",
+    "fr": "la moto",
+    "de": "das motorrad",
+    "es": "la motocicleta",
+    "it": "la motocicletta"
+   },
+   "entries": [
+    {
+     "en": "helmet",
+     "fr": "casque",
+     "de": "Motorradhelm",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 12
+     }
+    },
+    {
+     "en": "speedometer",
+     "fr": "compteur",
+     "de": "Tachometer",
+     "es": "velocím etro",
+     "it": "contachilometri",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 10,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "brake",
+     "fr": "frein",
+     "de": "Bremse",
+     "es": "freno",
+     "it": "freno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "tum signal",
+     "fr": "clignoranr",
+     "de": "Blinker",
+     "es": "direccional",
+     "it": "freccia",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 7,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "horn",
+     "fr": "klaxon",
+     "de": "Hupe",
+     "es": "claxon",
+     "it": "clacson",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "clutch",
+     "fr": "embrayage",
+     "de": "Kupplung",
+     "es": "embrague",
+     "it": "frizione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "throttle",
+     "fr": "accélérateur",
+     "de": "Gashebel",
+     "es": "acelerador",
+     "it": "acceleratore",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 8,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "carrier",
+     "fr": "porte-bagages",
+     "de": "Gepäckträger",
+     "es": "portaequipaje",
+     "it": "portapacchi",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "controls",
+     "fr": "commandes",
+     "de": "Steuerung",
+     "es": "controles",
+     "it": "comandi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "passenger seat",
+     "fr": "siège arrière",
+     "de": "Soziussitz",
+     "es": "asiento trasero",
+     "it": "sellino posteriore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "engine",
+     "fr": "moteur",
+     "de": "Motor",
+     "es": "motor",
+     "it": "motore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "fr": "selle",
+     "de": "Sitz",
+     "es": "asiento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "de": 4,
+      "es": 7
+     }
+    },
+    {
+     "en": "tuel tank",
+     "fr": "réservoir d' essence",
+     "de": "Kraftstofftank",
+     "es": "tanque de la gasolina",
+     "it": "serbatoio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "de": 14,
+      "es": 18,
+      "it": 9
+     }
+    },
+    {
+     "en": "reflector",
+     "fr": "réflecteur",
+     "de": "Katzenauge",
+     "es": "reflector",
+     "it": "riflettore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "taillight",
+     "fr": "feu arrière",
+     "de": "Bremslicht",
+     "es": "luz trasera",
+     "it": "fanale posteriore",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "exhaust pipe",
+     "fr": "pot d'échappement",
+     "de": "Auspuffrohr",
+     "es": "tubo de escape",
+     "it": "tubo di scappamento",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 11,
+      "es": 12,
+      "it": 17
+     }
+    },
+    {
+     "en": "muffler",
+     "fr": "silencieux",
+     "de": "Auspufftopf",
+     "es": "silenciador",
+     "it": "silenziatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 11,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "oil tank",
+     "fr": "réservoir d' huile",
+     "de": "Ölsumpf",
+     "es": "depósito del aceite",
+     "it": "serbatoio dell'olio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 7,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "gearbox",
+     "fr": "boîte de vitesses",
+     "de": "Getriebe",
+     "es": "laca jade velocidad es",
+     "it": "scatola del cambio",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 8,
+      "es": 19,
+      "it": 16
+     }
+    },
+    {
+     "en": "air filter",
+     "fr": "filtre d' air",
+     "de": "Luftfilter",
+     "es": "filtro del aire",
+     "it": "filtro dell'aria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 13,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

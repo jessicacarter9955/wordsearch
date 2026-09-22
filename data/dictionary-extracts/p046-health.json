@@ -1,0 +1,643 @@
+{
+ "page": 46,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "dentista",
+   "names": {
+    "en": "dentist",
+    "fr": "le dentiste",
+    "de": "der Zahnarzt",
+    "es": "el dentista",
+    "it": "il dentista"
+   },
+   "entries": []
+  },
+  {
+   "slug": "controllo",
+   "names": {
+    "en": "check-up",
+    "fr": "la visite de contrôle",
+    "de": "der Check-up",
+    "es": "la revisión",
+    "it": "il controllo"
+   },
+   "entries": [
+    {
+     "en": "enamel",
+     "fr": "émail",
+     "de": "Zahnschmelz",
+     "es": "esmalte",
+     "it": "smalto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 11,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "gum",
+     "fr": "gencive",
+     "de": "Zahnfleisch",
+     "es": "encía",
+     "it": "gengiva",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 11,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "reflector",
+     "fr": "lampe",
+     "de": "Behandlungslampe",
+     "es": "lámpara",
+     "it": "lampada",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 16,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "probe",
+     "fr": "sonde",
+     "de": "Sonde",
+     "es": "sonda",
+     "it": "sonda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "nerve",
+     "fr": "nerf",
+     "de": "Nerv",
+     "es": "nervio",
+     "it": "nervo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "root",
+     "fr": "racine",
+     "de": "Zahnwurzel",
+     "es": "raíz",
+     "it": "radice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 10,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "incisor",
+     "fr": "incisive",
+     "de": "Schneidezahn",
+     "es": "incisivo",
+     "it": "incisivo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 12,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "premolar",
+     "fr": "prémolaire",
+     "de": "vordere Backenzahn",
+     "es": "premolar",
+     "it": "premolare",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 17,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "canine",
+     "fr": "canine",
+     "de": "Eckzahn",
+     "es": "colmillo",
+     "it": "canino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "molar",
+     "fr": "molaire",
+     "de": "Backenzahn",
+     "es": "muela",
+     "it": "molare",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 10,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "basin",
+     "fr": "crachoir",
+     "de": "Speibecken",
+     "es": "lavabo",
+     "it": "sputacchiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 10,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "dentist's chair",
+     "fr": "fauteuil de dentiste",
+     "de": "Patientenstuhl",
+     "es": "sillón del dentista",
+     "it": "poltrona da dentista",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 14,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "toothache",
+     "fr": "rage de dents",
+     "de": "Zahnschmerzen",
+     "es": "dolor de muelas",
+     "it": "mal di denti",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 13,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "drill",
+     "fr": "fraise",
+     "de": "Bohrer",
+     "es": "torno del dentista",
+     "it": "trapano",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 16,
+      "it": 7
+     }
+    },
+    {
+     "en": "plaque",
+     "fr": "plaque",
+     "de": "Zahnbelag",
+     "es": "placa bacteriana",
+     "it": "placca",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 15,
+      "it": 6
+     }
+    },
+    {
+     "en": "dental floss",
+     "fr": "fil dentaire",
+     "de": "Zahnseide",
+     "es": "hilo dental",
+     "it": "filo dentale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 9,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "braces",
+     "fr": "appareil dentaire",
+     "de": "Zahnspange",
+     "es": "frenos",
+     "it": "apparecchio correttore",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "los",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 16,
+      "de": 10,
+      "es": 6,
+      "it": 21
+     }
+    },
+    {
+     "en": "floss (v)",
+     "fr": "utiliser le fil dentaire",
+     "de": "mit Zahnseide reinigen",
+     "es": "usar el Itilo dental",
+     "it": "usare il filo dentale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 21,
+      "de": 20,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "brush (v)",
+     "fr": "brosser",
+     "de": "bürsten",
+     "es": "cepillarse los dientes",
+     "it": "spazzolare",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 20,
+      "it": 10
+     }
+    },
+    {
+     "en": "decay",
+     "fr": "carie",
+     "de": "Karies",
+     "es": "caries",
+     "it": "carie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "extraction",
+     "fr": "extraction",
+     "de": "Extraktion",
+     "es": "extracción",
+     "it": "estrazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "filling",
+     "fr": "plombage",
+     "de": "Zahnfüllung",
+     "es": "empaste",
+     "it": "otturazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "crown",
+     "fr": "couronne",
+     "de": "Krone",
+     "es": "corona",
+     "it": "corona",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "dental x-ray",
+     "fr": "radio dentaire",
+     "de": "Röntgen aufnahme",
+     "es": "rayos x dentales",
+     "it": "radio grafia dentale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 15,
+      "es": 14,
+      "it": 18
+     }
+    },
+    {
+     "en": "x-ray film",
+     "fr": "radio",
+     "de": "Rontgenbild",
+     "es": "radiografía",
+     "it": "pellicola radiografica",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 11,
+      "es": 11,
+      "it": 21
+     }
+    },
+    {
+     "en": "dentures",
+     "fr": "dentier",
+     "de": "Zahnprothese",
+     "es": "dentadura postiza",
+     "it": "dentiera",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 12,
+      "es": 16,
+      "it": 8
+     }
+    },
+    {
+     "en": "tooth",
+     "fr": "dent",
+     "de": "Zahn",
+     "es": "diente",
+     "it": "dente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Titoli 'dentist' e 'tooth' fusi dall'OCR. LEFT 'apron'/'le bavoir' = voce con solo en+fr nell'OCR, scartata (regola 5/5)."
+}

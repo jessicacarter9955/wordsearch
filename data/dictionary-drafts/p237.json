@@ -1,0 +1,229 @@
+{
+ "page": 237,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "fitness • le conditionnement physique • die Fitness • la forma fisica ¡I fitness",
+   "parts": [
+    "fitness",
+    "le conditionnement physique",
+    "die fitness",
+    "la forma fisica ¡i fitness"
+   ],
+   "entries": [
+    {
+     "en": "gym machine",
+     "fr": "Tappareil de gym",
+     "de": "das Fitnessgerät",
+     "es": "la máquina de ejercicios",
+     "it": "la macchina per esercizi",
+     "_pos": [
+      384,
+      111
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "bench",
+     "fr": "le banc",
+     "de": "die Bank",
+     "es": "el banco",
+     "it": "la panca",
+     "_pos": [
+      628,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "exercise bike",
+     "fr": "le vélo d' entraînement",
+     "de": "das Trainingsrad",
+     "es": "la bicicleta",
+     "it": "la cyclette",
+     "_pos": [
+      54,
+      158
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "SP !",
+   "parts": [
+    "sp !"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "1 i",
+   "parts": [
+    "1 i"
+   ],
+   "entries": [
+    {
+     "en": "free weights",
+     "fr": "les poids",
+     "de": "die Gewichte",
+     "es": "las posas",
+     "it": "i manubri",
+     "_pos": [
+      53,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bar",
+     "fr": "la barre",
+     "de": "die Stange",
+     "es": "la barra",
+     "it": "la sbarra",
+     "_pos": [
+      52,
+      403
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gym",
+     "fr": "le gymnase",
+     "de": "das Fitnesscenter",
+     "es": "el gim asio",
+     "it": "la palestra",
+     "_pos": [
+      235,
+      586
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rowing machine",
+     "fr": "la machine à ramer",
+     "de": "die Rudermaschine",
+     "es": "la máquina de remos",
+     "it": "il vogatore",
+     "_pos": [
+      52,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "treadmill",
+     "fr": "la tapis roulant",
+     "de": "das Laufband",
+     "es": "la banda caminadora",
+     "it": "il treadmill",
+     "_pos": [
+      476,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "elliptical trainer",
+     "fr": "la machine de randonnée",
+     "de": "die Langlauf maschine",
+     "es": "la máquina de cross",
+     "it": "il cross trainer",
+     "_pos": [
+      688,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "personal trainer",
+     "fr": "Tcntraineusc individuelle",
+     "de": "die private Fitness trainerin",
+     "es": "la entrenadora personal",
+     "it": "l'istruttore individuale",
+     "_pos": [
+      51,
+      1011
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "step machine",
+     "fr": "Pcscalier d'entraînem ent",
+     "de": "die Tretmaschine",
+     "es": "la máquina de step",
+     "it": "la macchina per step",
+     "_pos": [
+      264,
+      1012
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "swimming pool",
+     "fr": "la piscine",
+     "de": "das Schwimmbecken",
+     "es": "la alberca",
+     "it": "la piscina",
+     "_pos": [
+      476,
+      1014
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sauna",
+     "fr": "le sauna",
+     "de": "die Sauna",
+     "es": "el sauna",
+     "it": "la sauna",
+     "_pos": [
+      688,
+      1015
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "4 | i f | iS",
+   "pos": [
+    172,
+    234
+   ],
+   "why": "blocco 3 righe non risolvibile"
+  },
+  {
+   "text": "u t",
+   "pos": [
+    328,
+    237
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 13,
+  "complete_clean": 0,
+  "flagged": 13,
+  "missing_lang": 0,
+  "leftovers": 2,
+  "subcats": 3
+ }
+}

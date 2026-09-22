@@ -1,0 +1,407 @@
+{
+ "page": 13,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE ♦ LES GENS / • DIE MENSCHEN • LA GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "•• M",
+   "parts": [
+    "m"
+   ],
+   "entries": [
+    {
+     "en": "pore",
+     "fr": "le pore",
+     "de": "die Pore",
+     "es": "el poro",
+     "it": "I poro",
+     "_pos": [
+      466,
+      288
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "dimple",
+     "fr": "la fossette",
+     "de": "das Grübchen",
+     "es": "el hoyuelo",
+     "it": "la fossetta",
+     "_pos": [
+      678,
+      291
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wrinkle",
+     "fr": "la ride",
+     "de": "die Falte",
+     "es": "la arruga",
+     "it": "la ruga",
+     "_pos": [
+      42,
+      294
+     ],
+     "_flags": []
+    },
+    {
+     "en": "freckle",
+     "fr": "la tache de rousseur",
+     "de": "die Sommersprosse",
+     "es": "peca",
+     "it": "la lentiggine",
+     "_pos": [
+      254,
+      294
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "hand • la m ain • die Hand • la mano • la mano",
+   "parts": [
+    "hand",
+    "la main",
+    "die hand",
+    "la mano",
+    "la mano"
+   ],
+   "entries": [
+    {
+     "en": "nail",
+     "fr": "l'ongle",
+     "de": "der Fingernagel",
+     "es": "la uña",
+     "it": "l'unghia",
+     "_pos": [
+      605,
+      400
+     ],
+     "_flags": []
+    },
+    {
+     "en": "middle finger",
+     "fr": "le m ajeur der Mittelfinger",
+     "es": "el dedo corazón",
+     "_pos": [
+      294,
+      408
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:it",
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "ring fìnger",
+     "fr": "l'annulaire",
+     "de": "der Ringfinger",
+     "es": "el anular",
+     "it": "l'anulare",
+     "_pos": [
+      78,
+      412
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cuticle",
+     "fr": "la cuticule",
+     "de": "die Nagelhaut",
+     "es": "la cutícula",
+     "it": "la pclllcina",
+     "_pos": [
+      628,
+      459
+     ],
+     "_flags": [
+      "it:rep:pclllcina"
+     ]
+    },
+    {
+     "en": "index finger",
+     "fr": "l'index",
+     "de": "der Zeigefinger",
+     "es": "el índice",
+     "it": "l'indice",
+     "_pos": [
+      321,
+      474
+     ],
+     "_flags": []
+    },
+    {
+     "en": "little finger",
+     "fr": "l'auriculaire",
+     "de": "der kleine Finger",
+     "es": "el meñique",
+     "it": "I mignolo",
+     "_pos": [
+      44,
+      510
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "knuckle",
+     "fr": "le nœud de l'articulation",
+     "de": "der Handknöchel",
+     "es": "el nudillo",
+     "it": "la nocca",
+     "_pos": [
+      626,
+      569
+     ],
+     "_flags": [
+      "wrap"
+     ]
+    },
+    {
+     "en": "palm",
+     "fr": "la paume",
+     "de": "die Handfläche",
+     "es": "la palma de",
+     "it": "la mano il palmo",
+     "_pos": [
+      316,
+      605
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "palm",
+       "fr": "la paume",
+       "de": "die Handfläche",
+       "es": "la palm a de la mano",
+       "it": "il palmo"
+      }
+     ]
+    },
+    {
+     "en": "wrist",
+     "fr": "le poignet",
+     "de": "das Handgelenk",
+     "es": "la muñeca",
+     "it": "il polso",
+     "_pos": [
+      46,
+      609
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thumb",
+     "fr": "le pouce",
+     "de": "der Daumen",
+     "es": "el pulgar",
+     "it": "il pollice",
+     "_pos": [
+      418,
+      620
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fist",
+     "fr": "le poing",
+     "de": "die Faust",
+     "es": "el puño",
+     "it": "il pugno",
+     "_pos": [
+      725,
+      650
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "foot • le pied • der Fuß • el pie • il piede",
+   "parts": [
+    "foot",
+    "le pied",
+    "der fuß",
+    "el pie",
+    "il piede"
+   ],
+   "entries": [
+    {
+     "en": "toenail",
+     "fr": "l'ongle du pied",
+     "de": "der Zehennagel",
+     "es": "la uña del pie",
+     "it": "l'unghia del piede",
+     "_pos": [
+      758,
+      748
+     ],
+     "_flags": []
+    },
+    {
+     "en": "big toe",
+     "fr": "le gros orteil",
+     "de": "der große Zeh",
+     "es": "el dedo gordo del pie",
+     "it": "l'alluce",
+     "_pos": [
+      532,
+      751
+     ],
+     "_flags": [
+      "wrap"
+     ]
+    },
+    {
+     "en": "ball",
+     "fr": "l'avant-pied",
+     "de": "der Ballen",
+     "es": "el juanete",
+     "it": "l'avampiede",
+     "_pos": [
+      203,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toe",
+     "fr": "l'orteil",
+     "de": "der Zeh",
+     "es": "el dedo del pie",
+     "it": "il dito del piede",
+     "_pos": [
+      50,
+      832
+     ],
+     "_flags": []
+    },
+    {
+     "en": "little toe",
+     "fr": "le petit orteil",
+     "de": "der kleine Zeh",
+     "es": "el dedo pequeño del pie",
+     "it": "il mignolo del piede",
+     "_pos": [
+      752,
+      845
+     ],
+     "_flags": [
+      "wrap"
+     ]
+    },
+    {
+     "en": "heel",
+     "fr": "le talon",
+     "de": "die Ferse",
+     "es": "el talón",
+     "it": "il tallone",
+     "_pos": [
+      450,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bridge",
+     "fr": "le dos du pied",
+     "de": "der Fußrücken",
+     "es": "el empeine",
+     "it": "il dorso del piede",
+     "_pos": [
+      534,
+      897
+     ],
+     "_flags": [
+      "wrap"
+     ]
+    },
+    {
+     "en": "ankle",
+     "fr": "la cheville",
+     "de": "der Knöchel",
+     "es": "el tobillo",
+     "it": "la caviglia",
+     "_pos": [
+      750,
+      993
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arch",
+     "fr": "la cam bruri",
+     "de": "das Gewölbe",
+     "es": "el arco plantar",
+     "it": "l'arco plantare",
+     "_pos": [
+      366,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "instep",
+     "fr": "le cou-de-pied",
+     "de": "der Spann",
+     "es": "la parte interna del pie",
+     "it": "il collo del piede",
+     "_pos": [
+      202,
+      999
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sole",
+     "fr": "la piante du pied",
+     "de": "die Fußsohle",
+     "es": "la pianta del p il",
+     "it": "la pianta del piede",
+     "_pos": [
+      57,
+      1002
+     ],
+     "_flags": [
+      "es:short:p"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "¡1 medio",
+   "pos": [
+    360,
+    440
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 8,
+  "flagged": 18,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 3
+ }
+}

@@ -1,0 +1,368 @@
+{
+ "page": 29,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E ♦ L 'A P P A R I- N C F * DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "men's clothing • les vêtements pour hommes • die Herrenkleidung • la ropa de caballero • l'abbigliamento da uomo",
+   "parts": [
+    "men's clothing",
+    "les vêtements pour hommes",
+    "die herrenkleidung",
+    "la ropa de caballero",
+    "l'abbigliamento da uomo"
+   ],
+   "entries": [
+    {
+     "en": "collar",
+     "fr": "le col",
+     "de": "der Kragen",
+     "es": "el cuello",
+     "it": "il collctto",
+     "_pos": [
+      138,
+      163
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lapel",
+     "fr": "le revers",
+     "de": "das Revers",
+     "es": "la solapa",
+     "it": "risvolto",
+     "_pos": [
+      626,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tie",
+     "fr": "la cravate",
+     "de": "die Krawatte",
+     "es": "la corbata",
+     "it": "la cravatta",
+     "_pos": [
+      384,
+      197
+     ],
+     "_flags": []
+    },
+    {
+     "en": "belt",
+     "fr": "la ceinture",
+     "de": "der Gürtel",
+     "es": "ul cinturón",
+     "_pos": [
+      500,
+      197
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "buttonhole",
+     "fr": "la boutonnière",
+     "de": "das Knopfloch",
+     "es": "el ojal",
+     "it": "l'asola",
+     "_pos": [
+      744,
+      199
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cuff",
+     "fr": "la manchette",
+     "de": "die Manschette",
+     "es": "el puño",
+     "it": "il polsino",
+     "_pos": [
+      384,
+      459
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jacket",
+     "fr": "la veste",
+     "de": "die Jacke",
+     "es": "la chaqueta",
+     "it": "la giacca",
+     "_pos": [
+      39,
+      465
+     ],
+     "_flags": []
+    },
+    {
+     "de": "die Tasche",
+     "es": "el bolsillo",
+     "it": "la tasca",
+     "_pos": [
+      782,
+      509
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "button",
+     "fr": "le bouton",
+     "de": "der Knopf",
+     "es": "el botón",
+     "it": "il bottone",
+     "_pos": [
+      400,
+      563
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pants",
+     "fr": "le pantalon",
+     "de": "die Hose",
+     "es": "el saco",
+     "it": "i pantaloni",
+     "_pos": [
+      39,
+      579
+     ],
+     "_flags": []
+    },
+    {
+     "en": "business suit",
+     "fr": "le costum e der Straßenanzug",
+     "es": "el traje",
+     "it": "l'abito",
+     "_pos": [
+      346,
+      672
+     ],
+     "_flags": [
+      "missing:de"
+     ]
+    },
+    {
+     "en": "coat",
+     "fr": "le manteau",
+     "de": "der Mantel",
+     "es": "la gabardina",
+     "it": "il cappotto",
+     "_pos": [
+      550,
+      672
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lining",
+     "fr": "la doublure",
+     "de": "das Futter",
+     "es": "el forro",
+     "it": "la fodera",
+     "_pos": [
+      752,
+      673
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shirt",
+     "fr": "la chemise",
+     "de": "das Hemd",
+     "es": "la camisa",
+     "it": "la camicia",
+     "_pos": [
+      358,
+      777
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bathrobe",
+     "fr": "le peignoir",
+     "de": "der Bademantel",
+     "es": "la bata",
+     "it": "la vestaglia",
+     "_pos": [
+      448,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tracksuit",
+     "fr": "le survêtement",
+     "de": "der Trainingsanzug",
+     "es": "los pants",
+     "it": "la tuta da sport",
+     "_pos": [
+      583,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "long",
+     "fr": "long",
+     "de": "lang",
+     "es": "largo",
+     "it": "lungo",
+     "_pos": [
+      718,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leather shoes",
+     "fr": "les chaussures en cuir",
+     "de": "die lederschuhe los zapatos de piel",
+     "it": "le scarpe di cuoio",
+     "_pos": [
+      38,
+      866
+     ],
+     "_flags": [
+      "missing:es"
+     ]
+    },
+    {
+     "en": "cardigan",
+     "fr": "le cardigan",
+     "de": "die Strickjacke",
+     "es": "el cardigan",
+     "it": "il cardigan",
+     "_pos": [
+      358,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "underwear",
+     "fr": "les sous-vêtements",
+     "de": "die Unterwäsche",
+     "es": "la ropa interior",
+     "it": "la biancheria intima",
+     "_pos": [
+      448,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "raincoat",
+     "fr": "l''im perm eable",
+     "de": "der Regenmantel",
+     "es": "el impermeable",
+     "it": "l'impermeabile",
+     "_pos": [
+      583,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "short",
+     "fr": "court",
+     "de": "kurz",
+     "es": "corto",
+     "it": "corto",
+     "_pos": [
+      718,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Do you have this in a larger/sm aller size?",
+     "fr": "Avez-vous ça en plus grand/petit?",
+     "de": "Haben Sie das eine Nummer größer/kleiner?",
+     "es": "Tiene una talla más grande/chica?",
+     "it": "Ha una taglia più grande/piú piccola?",
+     "_pos": [
+      358,
+      983
+     ],
+     "_flags": [
+      "en:weird:larger/sm",
+      "en:weird:size?",
+      "en:case",
+      "fr:weird:grand/petit?",
+      "fr:case",
+      "de:weird:größer/kleiner?",
+      "es:weird:grande/chica?",
+      "es:case",
+      "it:weird:grande/piú",
+      "it:weird:piccola?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "May I try this on?",
+     "fr": "e peux l'essayer?",
+     "de": "Kann ich das anprobieren?",
+     "es": "V ie lo puedo probar?",
+     "it": "Posso provarmelo?",
+     "_pos": [
+      696,
+      984
+     ],
+     "_flags": [
+      "en:weird:on?",
+      "en:case",
+      "fr:weird:l'essayer?",
+      "de:weird:anprobieren?",
+      "es:short:V",
+      "es:weird:probar?",
+      "es:case",
+      "it:weird:provarmelo?",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "íe",
+   "pos": [
+    824,
+    494
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 14,
+  "flagged": 10,
+  "missing_lang": 4,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

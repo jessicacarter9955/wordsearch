@@ -1,0 +1,291 @@
+{
+ "page": 148,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "E A T IN G OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "blood sausage",
+     "fr": "le boudin",
+     "de": "die Blutwurst",
+     "es": "la morcilla",
+     "it": "il sanguinaccio",
+     "_pos": [
+      730,
+      68
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tomato",
+     "fr": "la toniate",
+     "de": "die Tornate",
+     "es": "el ji tomate",
+     "it": "I pomodoro",
+     "_pos": [
+      588,
+      69
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "toast",
+     "fr": "le toast",
+     "de": "der Toast",
+     "es": "el pan tostado",
+     "it": "il pane tostato",
+     "_pos": [
+      456,
+      120
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sausage",
+     "fr": "la saucisse",
+     "de": "das Würstchen",
+     "es": "la salchicha",
+     "it": "la salsiccia",
+     "_pos": [
+      762,
+      167
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ned egg",
+     "fr": "l'ceuf sur le piar",
+     "de": "das Spiegelei",
+     "es": "el huevo estrellado",
+     "it": "l'uovo fritto",
+     "_pos": [
+      436,
+      237
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bacon",
+     "fr": "le bacon",
+     "de": "der Frühstücksspeck",
+     "es": "el tocino",
+     "it": "la pancetta",
+     "_pos": [
+      763,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "English breakfast",
+     "fr": "le périt déjeuner anglais",
+     "de": "das englische Frühstück",
+     "es": "el desayuno inglés",
+     "it": "la colazione all'inglese",
+     "_pos": [
+      460,
+      368
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "bread",
+     "fr": "le pain",
+     "de": "das Brot",
+     "es": "el pan",
+     "it": "il pane",
+     "_pos": [
+      244,
+      371
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brioche",
+     "fr": "la brioche",
+     "de": "die Brioche",
+     "es": "el pan dulce",
+     "it": "la brioche",
+     "_pos": [
+      28,
+      373
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yolk",
+     "fr": "le jaune d'œ uf",
+     "de": "das Eigelb",
+     "es": "la yema",
+     "_pos": [
+      484,
+      436
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "scrambled eggs",
+     "fr": "les œufs brouillés",
+     "de": "das Rührei",
+     "es": "los huevos revueltos",
+     "it": "le uova strapazzate",
+     "_pos": [
+      678,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soft-boiled egg",
+     "fr": "l'œ uf à la coque",
+     "de": "das gekochteEi",
+     "es": "el huevo tibio",
+     "it": "l'uovo alla coque",
+     "_pos": [
+      462,
+      686
+     ],
+     "_flags": []
+    },
+    {
+     "en": "French toast",
+     "fr": "le pain perdu",
+     "de": "das in Eigebratene Brot",
+     "es": "el pan francés",
+     "it": "il pane fritto all'uovo",
+     "_pos": [
+      237,
+      687
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "smoked herring",
+     "fr": "le skippers",
+     "de": "die Raucherheringe",
+     "es": "los arenques ahum ados",
+     "it": "le aringhe affumicate",
+     "_pos": [
+      33,
+      689
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whipped cream",
+     "fr": "la crème",
+     "de": "die Sahne",
+     "es": "la crema",
+     "it": "la",
+     "_pos": [
+      222,
+      754
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fruit yogurt",
+     "fr": "le vaourt a u x fruits",
+     "de": "der Früchtejoghurt",
+     "es": "el yogurt de frutas",
+     "it": "lo yogurt alla frutta",
+     "_pos": [
+      624,
+      768
+     ],
+     "_flags": [
+      "fr:short:u",
+      "fr:short:x"
+     ]
+    },
+    {
+     "en": "fresh fruit",
+     "fr": "les fruits",
+     "de": "das Obst",
+     "es": "la fruta tresca",
+     "it": "la frutta fresca",
+     "_pos": [
+      683,
+      1017
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oatmeal",
+     "fr": "le porridge",
+     "de": "der Porridge",
+     "es": "la avena",
+     "it": "il porridge",
+     "_pos": [
+      468,
+      1019
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waffles",
+     "fr": "les gaufres",
+     "de": "die Waffeln",
+     "es": "los w affles",
+     "it": "i waffle",
+     "_pos": [
+      251,
+      1020
+     ],
+     "_flags": [
+      "es:short:w"
+     ]
+    },
+    {
+     "en": "crepes",
+     "fr": "les crêpes",
+     "de": "die Pfannkuchen",
+     "es": "las crêpas",
+     "it": "le crêpes",
+     "_pos": [
+      35,
+      1024
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 4,
+  "flagged": 16,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

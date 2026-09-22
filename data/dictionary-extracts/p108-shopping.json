@@ -1,0 +1,438 @@
+{
+ "page": 108,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "pet store",
+     "fr": "animal crie",
+     "de": "Tierhandlung",
+     "es": "tienda de mascotas",
+     "it": "negozio di animali",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 12,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "liquor store",
+     "fr": "magasin de vins et spiritueux",
+     "de": "Weinhandlung",
+     "es": "tienda de licores",
+     "it": "negozio di liquori",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 25,
+      "de": 12,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "record score",
+     "fr": "magasin de disques",
+     "de": "Plattengeschäft",
+     "es": "tienda de discos",
+     "it": "negozio di dischi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 15,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "bookstore",
+     "fr": "librairie",
+     "de": "Buchladen",
+     "es": "librería",
+     "it": "libreria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "camera store",
+     "fr": "magasin d'appareils photos",
+     "de": "Fotogeschäft",
+     "es": "tienda de fotografía",
+     "it": "negozio di articoli fotografici",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 23,
+      "de": 12,
+      "es": 18,
+      "it": 28
+     }
+    },
+    {
+     "en": "realty office",
+     "fr": "agent immobilier",
+     "de": "Immobilienmakler",
+     "es": "agenda inmobiliaria",
+     "it": "agenzia immobiliare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 16,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "second-hand store",
+     "fr": "marchand d' occasion",
+     "de": "Gebrauchtwarenhändler",
+     "es": "tienda de artículos usados",
+     "it": "negozio dell'usato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 21,
+      "es": 23,
+      "it": 16
+     }
+    },
+    {
+     "en": "garden center",
+     "fr": "pépinière",
+     "de": "Gartencenter",
+     "es": "vivero",
+     "it": "vivaio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 12,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "dry cleaner",
+     "fr": "pressing",
+     "de": "Reinigung",
+     "es": "tintorería",
+     "it": "lavasecco",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 9,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "health food store",
+     "fr": "magasin bio",
+     "de": "Reformhaus",
+     "es": "tienda naturista",
+     "it": "negozio di alimenti biologici",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 10,
+      "de": 10,
+      "es": 15,
+      "it": 26
+     }
+    },
+    {
+     "en": "boutique",
+     "fr": "boutique",
+     "de": "Boutique",
+     "es": "boutique",
+     "it": "labo utique",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "furniture store",
+     "fr": "magasin de meubles",
+     "de": "Möbelgeschäft",
+     "es": "mueblería",
+     "it": "negozio di mobili",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 13,
+      "es": 9,
+      "it": 15
+     }
+    },
+    {
+     "en": "laundromat",
+     "fr": "laverie automatique",
+     "de": "Waschsalon",
+     "es": "lavandería",
+     "it": "lavanderia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "art store",
+     "fr": "boutique d'art",
+     "de": "Kunsthandlung",
+     "es": "galena de arte",
+     "it": "negozio di articoli per l'arte",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 13,
+      "es": 12,
+      "it": 25
+     }
+    },
+    {
+     "en": "hair salon",
+     "fr": "salon de coiffure",
+     "de": "Frisiersalon",
+     "es": "estética",
+     "it": "parrucchiere",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 12,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "tailor shop",
+     "fr": "tailleur",
+     "de": "Schneiderei",
+     "es": "sastrería",
+     "it": "sartoria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 11,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "market",
+     "fr": "marché",
+     "de": "Markt",
+     "es": "mercado",
+     "it": "mercato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,512 @@
+{
+ "page": 128,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "latticini",
+   "names": {
+    "en": "dairy products",
+    "fr": "les produits laitiers",
+    "de": "die milchprodukte",
+    "es": "los productos lácteos",
+    "it": "i latticini"
+   },
+   "entries": [
+    {
+     "en": "cheese",
+     "fr": "fromage",
+     "de": "Käse",
+     "es": "queso",
+     "it": "formaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 4,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "grated cheese",
+     "fr": "fromage râpé",
+     "de": "geriebene Käse",
+     "es": "queso rallado",
+     "it": "formaggio grattugiato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 13,
+      "es": 12,
+      "it": 20
+     }
+    },
+    {
+     "en": "rind",
+     "fr": "croûte",
+     "de": "Rinde",
+     "es": "corteza",
+     "it": "crosta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "semihard cheese",
+     "fr": "fromage à pâte pressée non cuite",
+     "de": "mittelharte Käse",
+     "es": "queso semicurado",
+     "it": "formaggio semiduro",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 27,
+      "de": 15,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "hard cheese",
+     "fr": "fromage à pâte pressée cuite",
+     "de": "Hartkäse",
+     "es": "queso curado",
+     "it": "formaggio duro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 24,
+      "de": 8,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "cream cheese",
+     "fr": "fromage à la crème",
+     "de": "Rahmkäse",
+     "es": "queso cremoso",
+     "it": "formaggio cremoso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 8,
+      "es": 12,
+      "it": 16
+     }
+    },
+    {
+     "en": "cottage cheese",
+     "fr": "cottage",
+     "de": "Hütten käse",
+     "es": "requesón",
+     "it": "formaggio molle",
+     "_multi": [
+      "en",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 7,
+      "de": 10,
+      "es": 8,
+      "it": 14
+     }
+    },
+    {
+     "en": "cheese",
+     "fr": "fromage à pâte semi molle",
+     "de": "halbfeste Käse",
+     "es": "queso cremoso semi curado",
+     "it": "formaggio semimorbido",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 21,
+      "de": 13,
+      "es": 22,
+      "it": 20
+     }
+    },
+    {
+     "en": "blue cheese",
+     "fr": "bleu",
+     "de": "Blauschimmelkäse",
+     "es": "queso azul",
+     "it": "formaggio tipo gorgonzola",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 4,
+      "de": 16,
+      "es": 9,
+      "it": 23
+     }
+    },
+    {
+     "en": "soft cheese",
+     "fr": "fromage à pâte molle",
+     "de": "Weichkäse",
+     "es": "queso cremoso",
+     "it": "formaggio morbido",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 9,
+      "es": 12,
+      "it": 16
+     }
+    },
+    {
+     "en": "fresh cheese",
+     "fr": "fromage frais",
+     "de": "Frischkäse",
+     "es": "queso fresco",
+     "it": "formaggio fresco",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "milk",
+     "fr": "lait",
+     "de": "Milch",
+     "es": "leche",
+     "it": "latte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "whole milk",
+     "fr": "lait entier",
+     "de": "Vollmilch",
+     "es": "leche entera",
+     "it": "latte intero",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "reduced-fat milk",
+     "fr": "lait demi-écrémé",
+     "de": "Halbfettmilch",
+     "es": "leche semidescremada",
+     "it": "latte parzialmente scremato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 13,
+      "es": 19,
+      "it": 25
+     }
+    },
+    {
+     "en": "fat-free milk",
+     "fr": "lait écrémé",
+     "de": "Magermilch",
+     "es": "leche descremada",
+     "it": "latte scremato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 10,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "milk carton",
+     "fr": "carton de lait",
+     "de": "Milchtüte",
+     "es": "cartón de leche",
+     "it": "cartone di latte",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 9,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "goat's milk",
+     "fr": "1c lait de chèvre",
+     "de": "Ziegenmilch",
+     "es": "lecite de cabra",
+     "it": "latte di capra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 11,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "condensed milk",
+     "fr": "lait condensé",
+     "de": "Kondensmilch",
+     "es": "leche condensada",
+     "it": "latte condensato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 12,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "cows milk",
+     "fr": "lait de vache",
+     "de": "Kuhmilch",
+     "es": "leche de vaca",
+     "it": "latte di mucca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 8,
+      "es": 11,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

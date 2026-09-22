@@ -1,0 +1,352 @@
+{
+ "page": 104,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • LES C O U R S E S • DER EINKAUF • LAS COMPRAS • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "vase",
+     "fr": "le vase",
+     "de": "die Blumenvase",
+     "es": "el Horero",
+     "it": "il vaso",
+     "_pos": [
+      166,
+      88
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "arrangements • Ics com positions florales • die Blumenarrangements • los arreglos • gli arrangiamenti",
+   "parts": [
+    "arrangements",
+    "ics com positions florales",
+    "die blumenarrangements",
+    "los arreglos",
+    "gli arrangiamenti"
+   ],
+   "entries": [
+    {
+     "en": "ribbon",
+     "fr": "le ruban",
+     "de": "das Band",
+     "es": "la cinta",
+     "it": "il nastro",
+     "_pos": [
+      584,
+      154
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dried flowers",
+     "fr": "les fleurs séchées",
+     "de": "die Trockenblumen",
+     "es": "las flores secas",
+     "it": "i fiori secchi",
+     "_pos": [
+      654,
+      319
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bouquet",
+     "fr": "le bouquet",
+     "de": "das Bukett",
+     "es": "el ramo",
+     "it": "il mazzo di fiori",
+     "_pos": [
+      372,
+      319
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peony",
+     "fr": "la pivoine",
+     "de": "die Pfingstrose",
+     "es": "la peonia",
+     "it": "la peonia",
+     "_pos": [
+      200,
+      320
+     ],
+     "_flags": []
+    },
+    {
+     "en": "orchid",
+     "fr": "l'orchidée",
+     "de": "die Orchidee",
+     "es": "la orquídea",
+     "it": "l'orchidea",
+     "_pos": [
+      28,
+      321
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bunch",
+     "fr": "la horte",
+     "de": "der Strauß",
+     "es": "el ramo",
+     "_pos": [
+      73,
+      385
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "wreath",
+     "fr": "la couronne",
+     "de": "der Kranz",
+     "es": "la corona",
+     "it": "la corona",
+     "_pos": [
+      645,
+      566
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stem",
+     "fr": "la tige",
+     "de": "der Stengel",
+     "es": "el tallo",
+     "it": "lo stelo",
+     "_pos": [
+      227,
+      600
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garland",
+     "fr": "la guirlande de fleurs",
+     "de": "die Blumengirlande",
+     "es": "la guirnalda",
+     "it": "la ghirlanda",
+     "_pos": [
+      644,
+      682
+     ],
+     "_flags": []
+    },
+    {
+     "en": "daffodil",
+     "fr": "la jonquille",
+     "de": "die Osterglocke",
+     "es": "el narciso",
+     "it": "il narciso",
+     "_pos": [
+      30,
+      717
+     ],
+     "_flags": []
+    },
+    {
+     "en": "How long will these last?",
+     "fr": "Liles tiennent combien de temps?",
+     "de": "Wie lange halten sie?",
+     "es": "Cuánto tiempo durarán éstos?",
+     "it": "Quanto dureranno?",
+     "_pos": [
+      635,
+      798
+     ],
+     "_flags": [
+      "en:weird:last?",
+      "en:case",
+      "fr:weird:temps?",
+      "fr:case",
+      "de:weird:sie?",
+      "es:weird:éstos?",
+      "es:case",
+      "it:weird:dureranno?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "May I have a bunch o f... please",
+     "fr": "Je voudrais un bouquet d e ..., SVP",
+     "de": "Ich möchte einen Strauß..., bitte",
+     "es": "Meda un ramo d e ... por favor?",
+     "it": "Mi dà un mazzo di... per favore?",
+     "_pos": [
+      388,
+      798
+     ],
+     "_flags": [
+      "en:weird:f...",
+      "en:case",
+      "fr:weird:...,",
+      "fr:case",
+      "de:weird:Strauß...,",
+      "es:weird:...",
+      "es:weird:favor?",
+      "es:case",
+      "it:weird:di...",
+      "it:weird:favore?",
+      "it:case"
+     ]
+    },
+    {
+     "fr": "le bourgeon",
+     "de": "die Knospe",
+     "es": "el capullo",
+     "it": "il bocciolo",
+     "_pos": [
+      244,
+      799
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "May I have them wrapped?",
+     "fr": "Pouvez-vous les emballer?",
+     "de": "Können Sie die Blumen bitte einwickeln?",
+     "es": "M e los puede envolver?",
+     "it": "Me li può incartare?",
+     "_pos": [
+      390,
+      897
+     ],
+     "_flags": [
+      "en:weird:wrapped?",
+      "en:case",
+      "fr:weird:emballer?",
+      "fr:case",
+      "de:weird:einwickeln?",
+      "es:short:M",
+      "es:weird:envolver?",
+      "es:case",
+      "it:weird:incartare?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Are they fragrant?",
+     "fr": "Esr-cc qu'elles sentent bon?",
+     "de": "Duften sie?",
+     "es": "Huelen?",
+     "it": "Sono profumati?",
+     "_pos": [
+      635,
+      897
+     ],
+     "_flags": [
+      "en:weird:fragrant?",
+      "en:case",
+      "fr:weird:bon?",
+      "fr:case",
+      "de:weird:sie?",
+      "es:weird:Huelen?",
+      "es:case",
+      "it:weird:profumati?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "wrapping",
+     "fr": "l'emballage",
+     "de": "das Einwickelpapier",
+     "es": "la envoltura",
+     "it": "l'incarto",
+     "_pos": [
+      245,
+      948
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Would you send them to ....?",
+     "fr": "Pouvez-vous les envoyer à ...?",
+     "de": "Können Sie die Blumen an... schicken?",
+     "es": "Los puede enviar a ...?",
+     "it": "U può mandare a...?",
+     "_pos": [
+      636,
+      996
+     ],
+     "_flags": [
+      "en:weird:....?",
+      "en:case",
+      "fr:weird:...?",
+      "fr:case",
+      "de:weird:an...",
+      "de:weird:schicken?",
+      "es:weird:...?",
+      "es:case",
+      "it:short:U",
+      "it:weird:a...?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "May I attach a message?",
+     "fr": "Je peux y attacher un message?",
+     "de": "Kann ich eine Nachricht mitschicken?",
+     "es": "Puedo poner un mensaje?",
+     "it": "Posso allegare un messaggio?",
+     "_pos": [
+      390,
+      997
+     ],
+     "_flags": [
+      "en:weird:message?",
+      "en:case",
+      "fr:weird:message?",
+      "fr:case",
+      "de:weird:mitschicken?",
+      "es:weird:mensaje?",
+      "es:case",
+      "it:weird:messaggio?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "tLip",
+     "fr": "la rulipc",
+     "de": "die Tulpe",
+     "es": "tulipán",
+     "it": "il tulipano",
+     "_pos": [
+      34,
+      1065
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 3,
+  "flagged": 17,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

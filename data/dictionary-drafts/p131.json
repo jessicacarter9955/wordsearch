@@ -1,0 +1,371 @@
+{
+ "page": 131,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA \\ OU R R IT U R 1 • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "slice",
+     "fr": "la tranche",
+     "de": "die Scheibe",
+     "es": "la rebanada",
+     "it": "la fetta",
+     "_pos": [
+      622,
+      97
+     ],
+     "_flags": []
+    },
+    {
+     "en": "loaf",
+     "fr": "le pain",
+     "de": "der Laib",
+     "es": "la hogaza",
+     "it": "il filone",
+     "_pos": [
+      424,
+      97
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crust",
+     "fr": "la croûte",
+     "de": "die Kruste",
+     "es": "la corteza",
+     "it": "la crosta",
+     "_pos": [
+      188,
+      99
+     ],
+     "_flags": []
+    },
+    {
+     "en": "multigrain bread",
+     "fr": "le pain complet",
+     "de": "das Mehrkornbrot",
+     "es": "el pan con grano",
+     "it": "il pane di granaio",
+     "_pos": [
+      668,
+      243
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whole-wheat bread",
+     "fr": "le pain de son",
+     "de": "das Vollkornbrot",
+     "es": "el pan integral",
+     "it": "il pane integrale",
+     "_pos": [
+      455,
+      245
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brown bread",
+     "fr": "le pain bis",
+     "de": "das Graubrot",
+     "es": "el pan negro",
+     "it": "il pane nero",
+     "_pos": [
+      242,
+      246
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fìat bread",
+     "fr": "le pain plat",
+     "de": "das Fladenbrot",
+     "es": "el pan sin levadura",
+     "it": "la schiacciata",
+     "_pos": [
+      670,
+      440
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sourdough bread",
+     "fr": "le pain au levain",
+     "de": "das Sauerteigbrot",
+     "es": "el pan fermentado",
+     "it": "il pane aspro",
+     "_pos": [
+      458,
+      441
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soda bread",
+     "fr": "le pam à la bicarbonate de soude",
+     "de": "das Sodabrot",
+     "es": "el pan al bicarbonato sódico",
+     "it": "il pane lievitato con bicarbonato di sodio",
+     "_pos": [
+      248,
+      444
+     ],
+     "_flags": []
+    },
+    {
+     "en": "com bread",
+     "fr": "le pain de mais",
+     "de": "das Maisbrot",
+     "es": "el pan de maíz",
+     "it": "il pane di mais",
+     "_pos": [
+      32,
+      445
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fruit bread",
+     "fr": "le pain aux raisins secs",
+     "de": "das Rosinenbrot",
+     "es": "el pan de frutas",
+     "it": "il pane alla frutta",
+     "_pos": [
+      672,
+      622
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roll",
+     "fr": "le petit pain",
+     "de": "das Brötchen",
+     "es": "el panecillo",
+     "it": "il filoncino",
+     "_pos": [
+      460,
+      623
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bun",
+     "fr": "le périr pain rond",
+     "de": "das weiche Brötchen",
+     "es": "el bollo",
+     "_pos": [
+      246,
+      624
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "bagel",
+     "fr": "le petit pain américain",
+     "de": "das Hefebrotchen",
+     "es": "la dona",
+     "it": "la ciambella",
+     "_pos": [
+      34,
+      626
+     ],
+     "_flags": []
+    },
+    {
+     "en": "enspbread",
+     "fr": "le biscuit scandinave",
+     "de": "das Knäckebrot",
+     "es": "el pan danés",
+     "it": "i crackers",
+     "_pos": [
+      674,
+      802
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pita bread",
+     "fr": "le pita",
+     "de": "das Pitabrot",
+     "es": "la pita",
+     "it": "la pita",
+     "_pos": [
+      462,
+      803
+     ],
+     "_flags": []
+    },
+    {
+     "en": "naan bread",
+     "fr": "le naan",
+     "de": "der Naan",
+     "es": "el naan",
+     "it": "il naan",
+     "_pos": [
+      248,
+      805
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eeded bread",
+     "fr": "le pam aux graines",
+     "de": "das Kömerbrot",
+     "es": "el pan con semillas",
+     "it": "il pane con semi",
+     "_pos": [
+      35,
+      807
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slicer",
+     "fr": "la machine à couper",
+     "de": "der Brotschneider",
+     "es": "el reban ador",
+     "it": "l'affettatrice",
+     "_pos": [
+      654,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breadcrumbs",
+     "fr": "la chapelure",
+     "de": "das Paniermehl",
+     "es": "el pan molido",
+     "it": "le briciole",
+     "_pos": [
+      526,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prove (v)",
+     "fr": "lever",
+     "de": "gehen lassen",
+     "es": "levar",
+     "it": "lievitare",
+     "_pos": [
+      422,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "all-purpose flour",
+     "fr": "la farine sans levure",
+     "de": "das Mehl ohne Backpulver",
+     "es": "I a harina blanca",
+     "it": "la farina semplice",
+     "_pos": [
+      258,
+      887
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "self-rising flour",
+     "fr": "la farine avec la levure",
+     "de": "das Mehl mit Backpulver",
+     "es": "la harina con levadura",
+     "it": "la farina autolievitante",
+     "_pos": [
+      50,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baker",
+     "fr": "le boulanger",
+     "de": "der Bäcker",
+     "es": "el panadero",
+     "it": "il panettiere",
+     "_pos": [
+      656,
+      983
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glaze (v)",
+     "fr": "glacer",
+     "de": "glasieren",
+     "es": "glasear",
+     "it": "glassare",
+     "_pos": [
+      422,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flute",
+     "fr": "la Hüte",
+     "de": "die Flöte",
+     "es": "la barra",
+     "it": "il filoncino",
+     "_pos": [
+      527,
+      985
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "nse (v)",
+     "fr": "sc lever",
+     "de": "aufgehen",
+     "es": "subir",
+     "it": "crescere",
+     "_pos": [
+      259,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bread flour",
+     "fr": "la farine traitée",
+     "de": "das anqereicherte Mehl",
+     "es": "la harina para pan",
+     "it": "la farina per il pane",
+     "_pos": [
+      52,
+      988
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 7,
+  "flagged": 21,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

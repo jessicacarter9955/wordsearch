@@ -1,0 +1,529 @@
+{
+ "page": 43,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "pronto-soccorso",
+   "names": {
+    "en": "first aid",
+    "fr": "les premiers secours",
+    "de": "die erste Hilfe",
+    "es": "los primeros auxilios",
+    "it": "il pronto soccorso"
+   },
+   "entries": [
+    {
+     "en": "antiseptic wipe",
+     "fr": "serviette antiseptique",
+     "de": "Desinfektionstuch",
+     "es": "toallita antiséptica",
+     "it": "salvietta antisettica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 21,
+      "de": 17,
+      "es": 19,
+      "it": 20
+     }
+    },
+    {
+     "en": "tweezers",
+     "fr": "pince fine",
+     "de": "Pinzette",
+     "es": "pinzas",
+     "it": "pinzette",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "safety pin",
+     "fr": "épingle de sûreté",
+     "de": "Sicherheitsnadel",
+     "es": "seguro",
+     "it": "spilla da balia",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 16,
+      "es": 6,
+      "it": 13
+     }
+    },
+    {
+     "en": "scissors",
+     "fr": "ciseaux",
+     "de": "Schere",
+     "es": "tijeras",
+     "it": "forbici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "bandage",
+     "fr": "bandage",
+     "de": "Bandage",
+     "es": "venda",
+     "it": "benda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "antiseptic",
+     "fr": "antiseptique",
+     "de": "Antiseptikum",
+     "es": "desinfectante",
+     "it": "disinfettante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "painkillers",
+     "fr": "analgésiques",
+     "de": "Schmerztabletten",
+     "es": "analgésicos",
+     "it": "antidolarifici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 16,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "first aid kit",
+     "fr": "trousse de premiers secours",
+     "de": "Erste-Hilfe-Kasten",
+     "es": "botiquín",
+     "it": "cassetta di pronto soccorso",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 24,
+      "de": 16,
+      "es": 8,
+      "it": 24
+     }
+    },
+    {
+     "en": "gauze",
+     "fr": "gaze",
+     "de": "Gaze",
+     "es": "gasa",
+     "it": "garza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "adhesive tape",
+     "fr": "sparadrap",
+     "de": "Leukoplast",
+     "es": "tela adhesiva",
+     "it": "nastro adesivo",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "dressing",
+     "fr": "pansement",
+     "de": "Verband",
+     "es": "vendaje",
+     "it": "bendatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "splint",
+     "fr": "attelle",
+     "de": "Schiene",
+     "es": "tablilla",
+     "it": "stecca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "Can you help?",
+     "fr": "Est-ce que vous pouvez m'aider?",
+     "de": "Können Sie mir helfen?",
+     "es": "M e puede ayudar?",
+     "it": "Può aiutarmi?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 24,
+      "de": 18,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "pulse",
+     "fr": "pouls",
+     "de": "Puls",
+     "es": "pulso",
+     "it": "pulsazioni",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "choke (v)",
+     "fr": "étouffer",
+     "de": "ersticken",
+     "es": "ahogarse",
+     "it": "soffocare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "shock",
+     "fr": "choc",
+     "de": "Schock",
+     "es": "shock",
+     "it": "shock",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "Do you know first aid?",
+     "fr": "Pouvez-vous donner les soins d'urgence?",
+     "de": "Beherrschen Sie die Erste Hilfe?",
+     "es": "Sabe prim eros auxilios?",
+     "it": "Sa dare pronto soccorso?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 17,
+      "fr": 32,
+      "de": 27,
+      "es": 20,
+      "it": 20
+     }
+    },
+    {
+     "en": "breathing",
+     "fr": "respiration",
+     "de": "Atmung",
+     "es": "respiración",
+     "it": "respirazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 6,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "sterile",
+     "fr": "stérile",
+     "de": "steril",
+     "es": "estéril",
+     "it": "sterile",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "unconscious",
+     "fr": "sans connaissance",
+     "de": "bewusstlos",
+     "es": "inconsciente",
+     "it": "privo di sensi",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 10,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "resuscitation",
+     "fr": "réanimation",
+     "de": "Wiederbelebung",
+     "es": "re animación",
+     "it": "rianimazione",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 14,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "ointment",
+     "fr": "pommade",
+     "de": "Salbe",
+     "es": "pomada",
+     "it": "pomata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "adhesive bandage",
+     "fr": "pansement",
+     "de": "Pflaster",
+     "es": "tirita",
+     "it": "cerotto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ]
+}

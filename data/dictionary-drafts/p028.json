@@ -1,0 +1,392 @@
+{
+ "page": 28,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • L ' A P P A R E N C E • DIE AUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "scarf",
+     "fr": "l'écharpe",
+     "de": "der Schal",
+     "es": "la bufanda",
+     "it": "la sciarpa",
+     "_pos": [
+      778,
+      78
+     ],
+     "_flags": []
+    },
+    {
+     "en": "backpack",
+     "fr": "le sac à dos",
+     "de": "der Rucksack",
+     "es": "la mochila",
+     "it": "lo zaino",
+     "_pos": [
+      528,
+      80
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      170,
+      81
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "das Kind",
+      "el niño dress",
+      "la robe",
+      "das Kleid",
+      "el vestido",
+      "il vestito"
+     ]
+    },
+    {
+     "en": "toggle",
+     "fr": "le bouton",
+     "de": "der Knebelknopf",
+     "es": "el broche",
+     "it": "l'olivetta",
+     "_pos": [
+      573,
+      177
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jeans",
+     "fr": "le iean",
+     "de": "die Jeans",
+     "es": "los jeans",
+     "it": "i jeans",
+     "_pos": [
+      314,
+      180
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hood",
+     "fr": "la capuche",
+     "de": "die Kapuze",
+     "es": "la capucha",
+     "it": "il cappuccio",
+     "_pos": [
+      179,
+      182
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parka",
+     "fr": "l'anorak",
+     "de": "der Anorak",
+     "es": "lacha maría",
+     "it": "l'eskimo",
+     "_pos": [
+      787,
+      193
+     ],
+     "_flags": []
+    },
+    {
+     "en": "galoshes",
+     "fr": "les bottes de caoutchouc",
+     "de": "die Gummistiefel",
+     "es": "las botas de agua",
+     "it": "le galosce",
+     "_pos": [
+      760,
+      291
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sandals",
+     "fr": "les sandales",
+     "de": "die Sandalen",
+     "es": "los huaraches",
+     "it": "i sandali",
+     "_pos": [
+      142,
+      313
+     ],
+     "_flags": []
+    },
+    {
+     "en": "winter",
+     "fr": "l'hiver",
+     "de": "der Winter",
+     "es": "el invierno",
+     "it": "l'inverno",
+     "_pos": [
+      720,
+      406
+     ],
+     "_flags": []
+    },
+    {
+     "en": "duffel coat",
+     "fr": "le d u ffel coat",
+     "de": "der Dufflecoat",
+     "es": "el abrigo",
+     "it": "il montgomery",
+     "_pos": [
+      550,
+      408
+     ],
+     "_flags": [
+      "fr:short:u"
+     ]
+    },
+    {
+     "en": "fall",
+     "fr": "l'automne",
+     "de": "der Herbst",
+     "es": "el otoño",
+     "it": "l'autunno",
+     "_pos": [
+      380,
+      409
+     ],
+     "_flags": []
+    },
+    {
+     "en": "summer",
+     "fr": "l'ère",
+     "de": "der Sommer",
+     "es": "el verano",
+     "it": "l'estate",
+     "_pos": [
+      42,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "raincoat",
+     "fr": "l'imperméable",
+     "de": "der Regenmantel",
+     "es": "el impermeable",
+     "it": "l'impermeabile",
+     "_pos": [
+      202,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "robe",
+     "fr": "la robe de chambre",
+     "de": "der Morgenrock",
+     "es": "la bata",
+     "it": "la vestaglia",
+     "_pos": [
+      217,
+      500
+     ],
+     "_flags": []
+    },
+    {
+     "en": "logo",
+     "fr": "le logo",
+     "de": "das Logo",
+     "es": "el logotipo",
+     "it": "il distintivo",
+     "_pos": [
+      323,
+      574
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sneakers",
+     "fr": "les baskets",
+     "de": "die Sportschuhe",
+     "es": "los tenis",
+     "it": "le scarpe da ginnastica",
+     "_pos": [
+      270,
+      687
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leggings",
+     "fr": "les leggings",
+     "de": "die Leggings",
+     "es": "las mal las",
+     "it": "il pantacollant",
+     "_pos": [
+      724,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soccer uniform",
+     "fr": "la ténue de foot",
+     "de": "der Fußballdress",
+     "es": "el uniforme del equipo",
+     "it": "la tenuta da calcio",
+     "_pos": [
+      384,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "warm-up suit",
+     "fr": "le survêtement",
+     "de": "der Trainingsanzug",
+     "es": "los pants",
+     "it": "la tuta",
+     "_pos": [
+      562,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la chemise de nuit",
+     "de": "das Nachthemd",
+     "es": "el camisón",
+     "it": "la camicia da notte",
+     "_pos": [
+      246,
+      834
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "Is it machine washable?",
+     "fr": "'est lavable en machine?",
+     "de": "Ist es waschmaschinenfest?",
+     "es": "Se puede lavar cm lavadora7",
+     "it": "E lavabile in lavatrice7",
+     "_pos": [
+      555,
+      881
+     ],
+     "_flags": [
+      "en:weird:washable?",
+      "en:case",
+      "fr:weird:machine?",
+      "de:weird:waschmaschinenfest?",
+      "es:num:lavadora7",
+      "es:case",
+      "it:num:lavatrice7",
+      "it:case"
+     ]
+    },
+    {
+     "en": "natural fiber",
+     "fr": "la fibre naturelle",
+     "de": "die Naturfaser",
+     "es": "la fibra naturai",
+     "it": "la fibra naturale",
+     "_pos": [
+      400,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slippers",
+     "fr": "les pantoufles",
+     "de": "die Hausschuhe",
+     "es": "las pantuflas",
+     "it": "le pantofole",
+     "_pos": [
+      262,
+      950
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Will this fit a two-year-old?",
+     "fr": "C 'e.si la taille pour deux ans?",
+     "de": "Passt das einem Zweijährigen?",
+     "es": "Le quedará a un niño de dos años?",
+     "it": "E la taglia giusta per un bambino di due anni?",
+     "_pos": [
+      556,
+      979
+     ],
+     "_flags": [
+      "en:weird:two-year-old?",
+      "en:case",
+      "fr:short:C",
+      "fr:weird:'e.si",
+      "fr:weird:ans?",
+      "fr:case",
+      "de:weird:Zweijährigen?",
+      "es:weird:años?",
+      "es:case",
+      "it:weird:anni?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "synthetic",
+     "fr": "synthétique",
+     "de": "synthetisch",
+     "es": "sintético",
+     "it": "sintetico",
+     "_pos": [
+      402,
+      981
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nightwear",
+     "fr": "les vêtements de nuit",
+     "de": "die Nachtwàsche",
+     "es": "la ropa para dormir",
+     "it": "gli indumenti per la notte",
+     "_pos": [
+      49,
+      1048
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "il bambino",
+   "pos": [
+    322,
+    79
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 9,
+  "flagged": 18,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 0
+ }
+}

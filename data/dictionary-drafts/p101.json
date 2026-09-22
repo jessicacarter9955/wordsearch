@@ -1,0 +1,272 @@
+{
+ "page": 101,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "SHOPPING • LUS COURSES • DER EINKAUF • LAS COMPRAS • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "chemist • la pharmacie • die Apotheke • la farmacia • la farmacia",
+   "parts": [
+    "chemist",
+    "la pharmacie",
+    "die apotheke",
+    "la farmacia",
+    "la farmacia"
+   ],
+   "entries": [
+    {
+     "en": "dentai care",
+     "fr": "le soin dentaire",
+     "de": "die Zahnpflege",
+     "es": "el cuidado dental",
+     "it": "i prodotti per i denti",
+     "_pos": [
+      50,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "feminine hygiene",
+     "fr": "l'hygiène féminine",
+     "de": "die Monatshygiene",
+     "es": "la higiene femenina",
+     "it": "l'igiene femminile",
+     "_pos": [
+      193,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deodorants",
+     "fr": "les déodorants",
+     "de": "die Deos",
+     "es": "los desodorantes",
+     "it": "i deodoranti",
+     "_pos": [
+      349,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vitamins",
+     "fr": "les cachets de vitamines",
+     "de": "die Vitamintabletten",
+     "es": "las vitam inas",
+     "it": "le vitamine",
+     "_pos": [
+      502,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pharmacy",
+     "fr": "l'officine",
+     "de": "die Apotheke",
+     "es": "el dispensario",
+     "it": "il dispensario",
+     "_pos": [
+      708,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pharmacist",
+     "fr": "le pharmacien",
+     "de": "der Apotheker",
+     "es": "el farmacéutico",
+     "it": "il farmacista",
+     "_pos": [
+      708,
+      233
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "S3",
+   "parts": [
+    "s"
+   ],
+   "entries": [
+    {
+     "en": "cough medicine",
+     "fr": "le médicament pour la toux",
+     "de": "das Hustenmedikament",
+     "es": "el jarabe para la tos",
+     "it": "la medicina per la tosse",
+     "_pos": [
+      708,
+      333
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herbal remedies",
+     "fr": "l'herboristerie",
+     "de": "Krauterheilmittel",
+     "es": "los remedios naturistas",
+     "it": "i rimedi alle erbe",
+     "_pos": [
+      709,
+      448
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skin care",
+     "fr": "les soins de la peau",
+     "de": "die Hautpflege",
+     "es": "el cuidado de la piel",
+     "it": "i prodotti per la pelle",
+     "_pos": [
+      709,
+      564
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aftersun care",
+     "fr": "l'après-soleil",
+     "de": "die AfterSun-Lotion",
+     "es": "la crema para después del sol",
+     "it": "il doposole",
+     "_pos": [
+      186,
+      667
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sunscreen",
+     "fr": "l'écran solaire die Sonnenschutzcreme",
+     "es": "la crema protectora",
+     "it": "la crema schermo",
+     "_pos": [
+      51,
+      827
+     ],
+     "_flags": [
+      "missing:de"
+     ]
+    },
+    {
+     "en": "sun block",
+     "fr": "l'écran total",
+     "de": "der Sonnenblock",
+     "es": "la crema protectora total",
+     "it": "la crema schermo totale",
+     "_pos": [
+      258,
+      828
+     ],
+     "_flags": []
+    },
+    {
+     "en": "insect repellent",
+     "fr": "le produit anti insccte",
+     "de": "das Insektenschutzmittel",
+     "es": "el repelente de insectos",
+     "it": "l'insettifugo",
+     "_pos": [
+      456,
+      828
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wet wipe",
+     "fr": "la serviette humide",
+     "de": "das Reinigungstuch",
+     "es": "la toallita húmeda",
+     "it": "la salvicttina umidificata",
+     "_pos": [
+      686,
+      829
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sanitary napkin",
+     "fr": "la serviette hygiénique",
+     "de": "die Damenbinde",
+     "es": "las toallas fem eninas",
+     "it": "l'assorbente",
+     "_pos": [
+      264,
+      1042
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tissue",
+     "fr": "le kleenex",
+     "de": "das Papiertaschentuch",
+     "es": "el pañuelo desechable",
+     "it": "il fazzolettino",
+     "_pos": [
+      51,
+      1042
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tampon",
+     "fr": "le tampon",
+     "de": "der Tampon",
+     "es": "el tam pon",
+     "it": "I tampone",
+     "_pos": [
+      480,
+      1044
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "panty liner",
+     "fr": "le protege-slip",
+     "de": "die Slipemlage",
+     "es": "el pantiprotector",
+     "it": "i salvaslip",
+     "_pos": [
+      694,
+      1044
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "O",
+   "pos": [
+    136,
+    261
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 9,
+  "flagged": 9,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,580 @@
+{
+ "page": 67,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "stanza-da-bagno",
+   "names": {
+    "en": "bathroom",
+    "fr": "la salle de bain",
+    "de": "das badezimmer",
+    "es": "el baño",
+    "it": "la stanza da bagno"
+   },
+   "entries": [
+    {
+     "en": "towel rack",
+     "fr": "porte-servi erres",
+     "de": "Handtuchhalter",
+     "es": "toallero",
+     "it": "portasciugamani",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 14,
+      "es": 8,
+      "it": 15
+     }
+    },
+    {
+     "en": "shower door",
+     "fr": "porte de douche",
+     "de": "Duschtür",
+     "es": "pilerìa de la regadera la llave de agua fría",
+     "it": "porta della doccia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 8,
+      "es": 36,
+      "it": 16
+     }
+    },
+    {
+     "en": "cold faucet",
+     "fr": "robinet d'eau froide",
+     "de": "Kaltwasserhahn",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 14
+     }
+    },
+    {
+     "en": "hot faucet",
+     "fr": "robinet d'eau chaude",
+     "de": "Heißwasserhahn",
+     "es": "llave de agua caliente",
+     "it": "rubinetto dell'acqua calda",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 15,
+      "es": 19,
+      "it": 23
+     }
+    },
+    {
+     "en": "shower head",
+     "fr": "pommeau de douche",
+     "de": "Duschkopf",
+     "es": "piña de la regadera",
+     "it": "soffione della doccia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 9,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "sink",
+     "fr": "lavabo",
+     "de": "Waschbecken",
+     "es": "lavabo",
+     "it": "lavandino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "shower",
+     "fr": "douche",
+     "de": "Dusche",
+     "es": "regadera",
+     "it": "doccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "stopper",
+     "fr": "bonde",
+     "de": "Stöpsel",
+     "es": "tapón",
+     "it": "tappo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "drain",
+     "fr": "tuyau d'écoulement",
+     "de": "Abfluss",
+     "es": "desagüe",
+     "it": "scolo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 16,
+      "de": 7,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "toilet seat",
+     "fr": "siège des toilettes",
+     "de": "Toilettensitz",
+     "es": "tapa del excusado",
+     "it": "sedile",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 13,
+      "es": 15,
+      "it": 6
+     }
+    },
+    {
+     "en": "bathtub",
+     "fr": "baignoire",
+     "de": "Badewanne",
+     "es": "tina",
+     "it": "vasca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 9,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "toilet",
+     "fr": "toilettes",
+     "de": "Toilette",
+     "es": "excusado",
+     "it": "water",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "toilet brush",
+     "fr": "brosse",
+     "de": "Toilettenbürste",
+     "es": "escobilla del excusado",
+     "it": "spazzola da water",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 15,
+      "es": 20,
+      "it": 15
+     }
+    },
+    {
+     "en": "medicine cabinet",
+     "fr": "pharmacie de ménage",
+     "de": "Hausapotheke",
+     "es": "botiquín",
+     "it": "armadiettu dei medicinali",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 12,
+      "es": 8,
+      "it": 23
+     }
+    },
+    {
+     "en": "bathmat",
+     "fr": "tapis de bain",
+     "de": "Badematte",
+     "es": "tapete de baño",
+     "it": "scendibagno",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 12,
+      "it": 11
+     }
+    }
+   ]
+  },
+  {
+   "slug": "igiene-dentale",
+   "names": {
+    "en": "dental hygiene",
+    "fr": "l'hygiène dentaire",
+    "de": "die zahnpflege",
+    "es": "la higiene dentai",
+    "it": "l'igiene dentale"
+   },
+   "entries": [
+    {
+     "en": "dentai floss",
+     "fr": "lil dentaire",
+     "de": "Zahnseide",
+     "es": "hilo dental",
+     "it": "filo interdentale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 9,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "toothbrush",
+     "fr": "brosse à dents",
+     "de": "Zahnbürste",
+     "es": "cepillo de dientes",
+     "it": "spazzolino da denti",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "toilet paper",
+     "fr": "rouleau de papier hygiénique",
+     "de": "Rolle Toilettenpapier",
+     "es": "rollo de papel higiénico",
+     "it": "carta igienica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 25,
+      "de": 20,
+      "es": 21,
+      "it": 13
+     }
+    },
+    {
+     "en": "shower curtain",
+     "fr": "rideau de douche",
+     "de": "Duschvorhang",
+     "es": "cortina de la regadera",
+     "it": "tenda da doccia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 12,
+      "es": 19,
+      "it": 13
+     }
+    },
+    {
+     "en": "take a shower (v)",
+     "fr": "prendre une douche",
+     "de": "duschen",
+     "es": "bañarse",
+     "it": "farsi la doccia",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 7,
+      "es": 7,
+      "it": 13
+     }
+    },
+    {
+     "en": "take a bath (v)",
+     "fr": "prendre un bain",
+     "de": "baden",
+     "es": "darse un baño",
+     "it": "farsi il bagno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 5,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "toothpaste",
+     "fr": "dentifrice",
+     "de": "Zahnpasta",
+     "es": "pasta de dientes",
+     "it": "dentifricio",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "mouthwash",
+     "fr": "cau dentifrice",
+     "de": "Mundwasser",
+     "es": "enjuague bucal",
+     "it": "colludono",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 10,
+      "es": 13,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

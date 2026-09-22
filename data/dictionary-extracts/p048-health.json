@@ -1,0 +1,734 @@
+{
+ "page": 48,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "gravidanza",
+   "names": {
+    "en": "pregnancy",
+    "fr": "la grossesse",
+    "de": "die Schwangerschaft",
+    "es": "el embarazo",
+    "it": "la gravidanza"
+   },
+   "entries": [
+    {
+     "en": "cervix",
+     "fr": "col de l'utérus",
+     "de": "Gebärmutterhals",
+     "es": "cuello uterino",
+     "it": "cervice",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 15,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "umbilical cord",
+     "fr": "cordon ombilical",
+     "de": "Nabelschnur",
+     "es": "cordón umbilical",
+     "it": "cordone ombelicale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 11,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "placenta",
+     "fr": "placenta",
+     "de": "Plazenta",
+     "es": "placenta",
+     "it": "placenta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "nurse",
+     "fr": "infirmière",
+     "de": "Krankenschwester",
+     "es": "enfermera",
+     "it": "infermiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 16,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "pregnancy test",
+     "fr": "test de grossesse",
+     "de": "Schwangerschaftstest",
+     "es": "prueba del embarazo",
+     "it": "test di gravidanza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 20,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "scan",
+     "fr": "échographie",
+     "de": "Ultraschallaufnahme",
+     "es": "ultrasonido",
+     "it": "ecografia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 11,
+      "de": 19,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "uterus",
+     "fr": "utérus",
+     "de": "Gebärmutter",
+     "es": "Útero",
+     "it": "utero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "ultrasound",
+     "fr": "ultrasons",
+     "de": "Ultraschall",
+     "es": "ultrasonido",
+     "it": "ultrasuono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 11,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "fetus",
+     "fr": "fœtus",
+     "de": "Fetus",
+     "es": "feto",
+     "it": "feto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "breech",
+     "fr": "par le siège",
+     "de": "Steiß",
+     "es": "de espaldas",
+     "it": "podalico",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 6,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "dilation",
+     "fr": "dilatation",
+     "de": "Erweiterung",
+     "es": "dilatación",
+     "it": "dilatazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 11,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "stitches",
+     "fr": "points de suture",
+     "de": "Naht",
+     "es": "puntadas",
+     "it": "punti",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 4,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "ovulation",
+     "fr": "ovulation",
+     "de": "Eisprung",
+     "es": "ovulación",
+     "it": "ovulazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "antenatal",
+     "fr": "prénatal",
+     "de": "vorgeburtlich",
+     "es": "prenatal",
+     "it": "prenatale",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 13,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "amniotic fluid",
+     "fr": "liquide am niotique",
+     "de": "Fruchtwasser",
+     "es": "líquido am niotico",
+     "it": "liquido amniotico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 12,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "delivery",
+     "fr": "accouchement",
+     "de": "Entbindung",
+     "es": "parto",
+     "it": "parto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 10,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "premature",
+     "fr": "prématuré",
+     "de": "vorzeitig",
+     "es": "prematuro",
+     "it": "prematuro",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "trim ester",
+     "fr": "trimestre",
+     "de": "Trimester",
+     "es": "trimestre",
+     "it": "trimestre",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "conception",
+     "fr": "conception",
+     "de": "Empfängnis",
+     "es": "concepción",
+     "it": "concezione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "amniocentesis",
+     "fr": "am niocentèse",
+     "de": "Amniozentese",
+     "es": "am niocentesis",
+     "it": "amniocentesi",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "epidural",
+     "fr": "péridurale",
+     "de": "Periduralanästhesie",
+     "es": "epidural",
+     "it": "epidurale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 19,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "gynecologist",
+     "fr": "gynécologue",
+     "de": "Gynäkologe",
+     "es": "ginecólogo",
+     "it": "ginecologo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "birth",
+     "fr": "naissance",
+     "de": "Geburt",
+     "es": "nacimiento",
+     "it": "nascita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 6,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "pregnant",
+     "fr": "enceinte",
+     "de": "schwanger",
+     "es": "embarazada",
+     "it": "incinta",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "embryo",
+     "fr": "embryon",
+     "de": "Embryo",
+     "es": "embrión",
+     "it": "embrione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "contraction",
+     "fr": "contraction",
+     "de": "Wehe",
+     "es": "contracción",
+     "it": "contrazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 4,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "cesarean section",
+     "fr": "césarienne",
+     "de": "Kaiserschnitt",
+     "es": "cesárea",
+     "it": "taglio cesareo",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 10,
+      "de": 13,
+      "es": 7,
+      "it": 13
+     }
+    },
+    {
+     "en": "obstetrician",
+     "fr": "obstétricien",
+     "de": "Geburtshelfer",
+     "es": "obstetra",
+     "it": "ostetrico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 13,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "miscarriage",
+     "fr": "fausse couche",
+     "de": "Fehlgeburt",
+     "es": "aborto espontáneo",
+     "it": "aborto spontaneo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "womb",
+     "fr": "utérus",
+     "de": "Gebärmutter",
+     "es": "matriz",
+     "it": "grembo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "break water (v)",
+     "fr": "perdre les eaux",
+     "de": "Fruchtwasser gehtab",
+     "es": "rom per aguas",
+     "it": "rompere le acque",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 18,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "episiotomy",
+     "fr": "épisiotom ie",
+     "de": "Dammschnitt",
+     "es": "episiotom ia",
+     "it": "episiotom ia",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "expectant",
+     "fr": "enceinte",
+     "de": "schwanger",
+     "es": "embarazada",
+     "it": "in stato interessante",
+     "_multi": [
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 10,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,840 @@
+====================================================================================================
+== p110 [cibo] 23 voci, 6 flag, 0 mancanti, 0 leftover, header=F O O D • I A N O U R R I T U R E • DIE NAHRUNGSMITTEL • L ~
+-- G0 subcat: meat • la viande • das Fleisch • la carne • la carne
+   parts: meat • la viande • das fleisch • la carne • la carne
+ 0.0  M butcher | le boucher | der Metzger | el carnicero | il macellaio   
+ 0.1  ⚠ meat hook | l'allonge | der Fleischerhak~ | el gancho | I gancio   it
+ 0.2  M lamb | l'agneau | das Lamm | el cordero | l'agnello   
+ 0.3  M scales | la balance | die Waage | la báscula | la bilancia   
+ 0.4  M knife sharpener | le fusil | der Messerschärf~ | el afilador | raffilacoltelli   
+ 0.5  M liver | le foie | die Leber | el hígado | il fegato   
+ 0.6  M bacon | le bacon | der Speck | el tocino | la pancetta   
+ 0.7  M sausages | les saucisses | die Würstchen | las salchichas | le salsicce   
+ 0.8  M venison | la venaison | das Wild | el venado | il cervo   
+ 0.9  M offal | les abats | die Innereien | las asaduras | le frattaglie   
+ 0.10 M red meat | la viande rouge | das rote Fleisch | la carne roja | la carne rossa   
+ 0.11 M pork | le porc | das Schweineflei~ | el cerdo | il maiale   
+ 0.12 M free range | de ferme | aus Freilandhalt~ | de granja | ruspante   
+ 0.13 M lean meat | la viande maigre | das magere Fleis~ | laca me magra | la carne magra   
+ 0.14   cured | salé | gepökelt | curado | trattato   
+ 0.15 M organic | naturel | biologisch kontr~ | orgánico | biologico   
+ 0.16 M rabbit | le lapin | das Kaninchen | el conejo | il coniglio   
+ 0.17 M beef | le bœuf | das Rindfleisch | la vaca | l manzo   
+ 0.18 M cooked meat | la viande cuite | das gekochte Fle~ | el fiambre | la carne cotta   
+ 0.19 ⚠ tongue | Ja langue de bœuf | die Zunge | la lengua | la lingua   fr
+ 0.20   smoked | fumé | geräuchert | ahumado | affumicato   
+ 0.21 M white meat | la viande blanche | das weiße Fleisch | la carne blanca | la carne bianca   
+ 0.22 M veal | le veau | das Kalbfleisch | la temerà | il vitello   
+====================================================================================================
+== p111 [cibo] 26 voci, 17 flag, 2 mancanti, 2 leftover, header=F O O D • L A N O U R R I T U R E • DIE NAHRUNGSMITTEL • L ~
+-- G0 subcat: cuts • les morceaux de viande • die Fleischsorten • los cortes • i tagli
+   parts: cuts • les morceaux de viande • die fleischsorten • los cortés • i tagli
+ 0.0  M ham | le jambon | der Schinken | el jamón | prosciutto   
+ 0.1  M rump steak | le rumsteck | das Rumpsteak | el filete de cad~ | la bistecca di c~   
+ 0.2  M fillet | le filet | das Filet | el solomillo | il filetto   
+ 0.3  M ground beef | la viande hachée | das Hackfleisch | la carne molida | la carne macinata   
+ 0.4  M rasher | la tranche de la~ | die Speckscheibe | la rebanada | la fettarind la ~   
+ 0.5  M slice | la tranche | die Scheibe | la rebanada | la fetta   
+ 0.6  M kidney | le rognon | die Niere | el riñón | il rognone   
+ 0.7  M fat | le gras | das Fett | la grasa | il grasso   
+ 0.8  ⚠ ? | ? | der Knochen | el hueso | l'osso   missing
+ 0.9  ⚠ heart | le cœ ur | das Herz | c! corazón | il cuore   es
+ 0.10 M joint | le gigot | die Keule | el asado | l'arrosto   
+ 0.11 M chop | la côtelette | das Kotelett | la chuleta | la costoletta   
+ 0.12 M rib | la côte de bœuf | das Rippenstück | la costilla | la costata   
+ 0.13 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['sirloin steak', "le bifteck d'alovau", 'das Lendensteak', 'el filete de lomo', 'il filetto di manzo', 'r']
+-- G1 subcat: poultry • la volaille • das Geflügel • las aves • il pollo
+   parts: poultry • la volaille • das geflügel • las avés • il pollo
+ 1.0  M game | le gibier | das Wild | la carne de caza | la cacciagione   
+ 1.1  M breast | le blanc | die Brust | la pechuga | il petto   
+ 1.2  M skin | la peau | die Haut | la piel | la pelle   
+ 1.3  M leg | la cuisse | das Bein | la pierna | la zampa   
+ 1.4  M dressed chicken | le poulet prépare | das bratfertige ~ | el pollo prepara~ | il pollo prepara~   
+ 1.5  M thigh | la cuisse | der Schenkel | el muslo | la coscia   
+ 1.6  M quail | la caille | die Wachtel | la codorniz | la quaglia   
+ 1.7  M pheasant | le faisan | der Fasan | el faisán | il fagiano   
+ 1.8  ⚠ wing | l'aile | der Flügel | el ala | ?   missing
+ 1.9  M chicken | le poulet | das Hähnchen | el pollo | il pollo   
+ 1.10 M duck | le canard | die Ente | el pato | l'anatra   
+ 1.11 M turkey | la dinde | die Pute | el pavo | il tacchino   
+-- G2 subcat: • el ganso • l'oca
+   parts: el ganso • l'oca
+   LEFT 'Z' @[197, 152] (riga singola isolata)
+   LEFT 'I 19' @[846, 1095] (riga singola isolata)
+====================================================================================================
+== p112 [cibo] 22 voci, 18 flag, 4 mancanti, 2 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • ~
+-- G0 subcat: fish • le poisson • der Fisch • el pescado • ¡I pesce
+   parts: fish • le poisson • der fisch • el pescado • i pesce
+ 0.0  M peeled shnmp | les crevettes dé~ | die geschälten G~ | los camarones pe~ | i gamberi sgusci~   
+ 0.1  M rainbow trout | la rruite arc-en~ | die Regenbogenfo~ | la trucha arco i~ | la trota   
+ 0.2  ⚠ red mullet | le rouget barbet | die rote Meeräsc~ | el salmonete | ?   missing
+ 0.3  ⚠ halibut fillets | les filets de fl~ | die Heilbuttfile~ | los filotes de m~ | ?   missing
+ 0.4  M ice | la glace | das Eís | el hielo | il ghiaccio   
+ 0.5  M skate wings | les ailes de raie | die Rochenflügel | las aletas de ra~ | le pinne di razza   
+ 0.6  M fish seller | la poissonnerie | das Fischgeschäft | la pescadería | la pescheria   
+ 0.7  M monkfish | la lotte | die Quappe | el rape | la rana pcscatri~   
+ 0.8  ⚠ mackerel | le maquereau | ? | ? | lo sgombro   missing
+ 0.9  M swordfish | l'espadon | der Schwertfisch | el pez espada | il pesce spada   
+ 0.10 ⚠ trout | la rruite | die Forelle | la trucha la tro~ | ?   missing
+-- G1 subcat: • die Makrele • 1j caballa
+   parts: die makrele • 1j caballa
+ 1.0  ⚠ Dover sole | la sole | die Seezunge | el lenguado | la sogliola   en
+ 1.1  M lemon sole | la limande sole | die Rotzunge | la platija | la sogliola lima~   
+ 1.2  M haddock | l'aiglefin | der Schellfisch | abadejo | l'eglefino   
+ 1.3  M skate | la raie | der Rochen | la raya | la razza   
+ 1.4  M sardine | la sardine | die Sardine | la sardina | la sardina   
+ 1.5  M silver hake | le merlan | der Weißfisch | la pescadilla | il merlango   
+ 1.6  M sea bass | le bar | der Seebarsch | la lubina | la spigola   
+ 1.7  M salmon | le saumon | der Lachs | el salmón | il salmone   
+ 1.8  M sea bream | la daurade | der Seebrassen | el besugo | l'abramidc   
+ 1.9  M tuna | le thon | der Tunfisch | el atún | il tonno   
+ 1.10 M cod | la morue | der Kabelau | el bacalao | il merluzzo   
+   LEFT 'í' @[759, 682] (riga singola isolata)
+   LEFT '1' @[798, 691] (riga singola isolata)
+====================================================================================================
+== p113 [cibo] 29 voci, 13 flag, 2 mancanti, 0 leftover, header=FOOD • I.A NOURRITURE • DIE NAHRUNGSMITTEL • 1.0$ ALIMENTOS~
+-- G0 subcat: I seafood • les fruits de mer • die Meeresfrüchte • el marisco • i frutti di ma~
+   parts: i seafood • les fruits de mer • die meeresfrüchte • el marisco • i frutti di mare
+ 0.0  M lobster | le homard | der Hummer | la langosta | l'aragosta   
+ 0.1  ⚠ scafiop | j coquille Saint~ | aie Jakobsmuschel | vieira | i Dettine   fr it
+ 0.2  M prawn | la crevette | die Garnele | el camarón | il jambero   
+ 0.3  ⚠ crab | ie crabe | e Krabbe | cangrejo | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 0.4  M mussel | la moule | die Miesmuschel | el mejillón | la cozza   
+ 0.5  M razor shell | le couteau | die Scheidenmusc~ | la navaja | il cannulicehio   
+ 0.6  ⚠ n y fish | l'écrev isso | der Krebs | el cangrejo de r~ | il ;ambero d'acq~   en it
+ 0.7  ⚠ ? | l'huître | die Auster | la ostra | l'ostrica   missing
+ 0.8  ⚠ clam | le J a m | die Venusmuschel | la almeja | la vongola   fr
+ 0.9  M cuttlefish | la seiche | die Sepie | la sepia | la seppia   
+ 0.10 M squid | le calamar | der Tintenfisch | el calamar | il calamaro   
+ 0.11 ⚠ octopus | la pieuvre | der Seepolyp | el pulpo | I polpo   it
+ 0.12 M cockle | la coque | die Herzmuschel | el berberecho | il cardio   
+ 0.13 M scale | l'oca ille | die Schuppe | la escama | la squama   
+ 0.14 M bone | l'arête | die Grate | la espma | la spina   
+ 0.15 M steak | la tranche | die Schnitte | la rodaja | la trancia   
+ 0.16 M tall | la queue | der Schwanz | la cola | la coda   
+ 0.17 M filleted | cn filets | filetiert | cn filetes | a filetti   
+ 0.18 M descaled | écaille | entschuppt | sin escamas | desquamato   
+ 0.19   smoked | fumé | geräuchert | ahumado | affumicato   
+ 0.20   cleaned | préparé | zubereitet | limpio | pulito   
+ 0.21   frozen | surgelé | tiefgefroren | congelado | congelato   
+ 0.22 ⚠ Can you clean it~ | Pouvez-vous le p~ | Können Sie ihn m~ | M e lo puede lim~ | Me lo pulisce?   de en es fr it
+ 0.23 M loin | la longe | die Lende | el lomo | il lombo   
+ 0.24 M fillet | lc filer | das filet | el filete | il filetto   
+ 0.25 M boned | sans arêtes | entgrätet | sin espinas | spinato   
+ 0.26 M skinned | sans peau | enthäutet | sm piel | spellato   
+ 0.27   salted | salé | gesalzen | salado | salato   
+ 0.28   fresh | frais | frisch | fresco | fresco   
+====================================================================================================
+== p114 [cibo] 21 voci, 14 flag, 1 mancanti, 1 leftover, header=F O O D ♦ LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTO~
+-- G0 subcat: vegetables I • les légumes 1 • das Gemüse 1 • las verduras 1 • la verdura 1
+   parts: vegetable si • les légumes • das gemüse • las verduras • la verdura
+ 0.0  ⚠ pea | le périr pois | die grüne Erbse | el «. hicharo | il pisello   es
+ 0.1  M green bean | le haricot vert | die grüne Bohne | el ejote | il fagiolino   
+ 0.2  ⚠ pod | la gousse | die Schote | ? | ?   missing
+ 0.3  ⚠ okra | l'okra | die Okra | el quingombó | I'okra   it
+ 0.4  M bean sprout | le germe de soja | die Sojabohnensp~ | el germinado de ~ | il germoglio di ~   
+ 0.5  M bamboo | le bambou | der Bambus | el bambú | il bambù   
+ 0.6  M celery | le céleri | der Stangenselle~ | el apio | il sedano   
+ 0.7  M chicory | l'endive | der Chicorée | la endibia | la cicoria   
+ 0.8  M palm hearts | les cœurs de pal~ | die Palmherzen | los palmitos | i cuori di palma   
+ 0.9  ⚠ corn | le maïs | der Mais | el m aiz dulce | il granturco   es
+ 0.10 M fennel | le fenouil | der Fenchel | el hinojo | il finocchio   
+ 0.11 M leaf | la feuille | das Blatt | la hoja | la foglia   
+ 0.12 M floret | la fleurette | das Röschen | la cabezuela | il germoglio   
+ 0.13 M tip | la pointe | die Spitze | la punta | la punta   
+ 0.14   organic | biologique | biodynamisch | biológico | biologico   
+ 0.15 ⚠ Do you sell orga~ | Fsr-ce que vous ~ | Verkaufen Sie Bi~ | Vende verduras o~ | Vendete verdure ~   de en es fr it
+ 0.16 ⚠ stalk | le trognon | der Strunk | el tallo | lo Stelo   it
+ 0.17 M kernel | le grain | der Kern | la almendra | il nocciolo   
+ 0.18 M heart | le cœur | das Herz | el corazón | il cuore   
+ 0.19 M plastic bag | le sac en plasti~ | die Plastiktüte | la bolsa de plás~ | la busta di plas~   
+ 0.20 ⚠ Are these grown ~ | Est-ce qu'ils so~ | Werden sie in di~ | Son productos lo~ | Queste sono dell~   de en es fr it
+   LEFT 'X' @[271, 651] (riga singola isolata)
+====================================================================================================
+== p115 [cibo] 16 voci, 16 flag, 1 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS •~
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ Brussels sprout | le chou de Bruxe~ | der Rosenkohl | la col de brusel~ | il cavolino di B~   en
+ 0.1  M radicchio | le radicchio | der Radicchio | el radicchio | il radicchio   
+ 0.2  ⚠ watercress | le cresson | die Brunnenkress~ | ? | il crescione   de missing
+ 0.3  M arugula | la roquette | die Rauke | la roqueta | la rucóla   
+ 0.4  M kale | le chou trisé | der Grünkohl | la col rizada | il cavolo verde   
+ 0.5  M endive | la chicorée | die Endivie | la escarola | l'indivia   
+ 0.6  ⚠ sorrei | Voseille | der Garten Sauer~ | la acedera | l'acetosa   fr
+ 0.7  M swiss chard | la berte | der Mangold | la acelga | la bietola   
+ 0.8  M bok choy | le chou chinois | der Chinakohl | la acelga china | la bieta   
+ 0.9  M kohlrabi | le chou-rave | der Kohlrabi | el colinabo | il cavolo rapa   
+ 0.10 M spinach | les épinards | der Spinat | la espinaca | gli spinaci   
+ 0.11 M dandelion | le pissenlit | der Löwenzahn | el diente de león | il dente di Icone   
+ 0.12 M young cabbage | le chou précoce | der Frühkohl | la berza | la verza   
+ 0.13 M cabbage | le chou | der Kohl | la col | il cavolo   
+ 0.14 M broccoli | le brocoli | der Brokkoli | el brocoli | il broccolo   
+ 0.15 M lettuce | la laitue | der Salat | la lechuga | la lattuga   
+====================================================================================================
+== p116 [cibo] 28 voci, 10 flag, 1 mancanti, 0 leftover, header=FOOD • I A N OUR RITI IRK • DIE NAHRUNGSMITTEL • LOS AUMENT~
+-- G0 subcat: vegetables 2 • les légumes 2 • das Gemüse 2 • las verduras 2 • le verdure 2
+   parts: vegetables • les légumes • das gemüse • las verduras • le verdure
+ 0.0  M radish | le radis | das Radieschen | el rábano | il ravanello   
+ 0.1  M artichoke | l'artichaut | die Artischocke | la alcachofa | il carciofo   
+ 0.2  M cauliflower | le chou-fleur | der Blumenkohl | la coliflor | il cavolfiore   
+ 0.3  ⚠ ? | le navet | die Rübe | el nabo | la rapa   missing
+ 0.4  ⚠ potato | la pomme | de terre die Kar~ | la papa | la patata   wrap wrap-ambig
+        ALTS: [{'en': 'potato', 'fr': 'la pomme de terre', 'de': 'die Kartoffel', 'es': 'la papa', 'it': 'la patata'}]
+ 0.5  M onion | l'oignon | die Zwiebel | la cebolla | la cipolla   
+ 0.6  M pepper | le poivron | die Paprika | el pimiento | il peperone   
+ 0.7  M squash | la courge | der Gartenkürbis | la calabacita gi~ | la zucca   
+ 0.8  M chili | le piment | die Peperoni | la chilaca | il peperoncino   
+ 0.9  M cherry tomato | la tomate censé | die Kifschtomale | el jitom ate che~ | il pomodorino   
+ 0.10   frozen | surgelé | tiefgefroren | congelado | congelato   
+ 0.11   bitter | amer | bitter | amargo | amaro   
+ 0.12 ⚠ May 1 have one k~ | Puis-je avo ir u~ | terre s'il vous ~ | Konnte ich bitte~ | haben? M e da un~   de en es fr it wrap
+        ALTS: [{'en': 'May 1 have one kilo of potatoes please?', 'fr': 'Puis-je avo ir un kilo de pommes de', 'de': "terre s'il vous plait?", 'es': 'Konnte ich bitte ein Kilo Kartoffeln haben?', 'it': '¿M e da un kilo de papas, por favor? Mi dà un chilo di patate per favore?'}, {'en': 'May 1 have one kilo of potatoes please?', 'fr': 'Puis-je avo ir un kilo de pommes de', 'de': "terre s'il vous plait?", 'es': 'Konnte ich bitte ein Kilo Kartoffeln haben? ¿M e da un kilo de papas, por favor?', 'it': 'Mi dà un chilo di patate per favore?'}]
+ 0.13 M celehac | le célen | der Sellerie | el apio-nabo | il sedano rapa   
+ 0.14   firm | ferme | fest | firme | sodo   
+ 0.15   raw | cru | roh | crudo | crudo   
+ 0.16 ⚠ carrot | la car<»ne | die Karotte | la zanahoria | la carota   fr
+ 0.17 M taro root | le taro | die Tarowurzel | la raíz delta ro | la radice di taro   
+ 0.18 ⚠ What's the price~ | 'est combien le ~ | Was kostet ein K~ | Cuánto vale el k~ | Quanto costa al ~   de en es fr it
+ 0.19 M breadfruit | le fruit de l'ar~ | die Brotfrucht | el fruto del pan | l frutto dell'al~   
+ 0.20 M water chestnut | la châtaigne d'e~ | die Wasserkastan~ | la castaña de ag~ | la castagna d'ac~   
+ 0.21 M hot spicy | cpicé | scharf | picante | piccante   
+ 0.22 M pulp | la pulpe | das Fleisch | la pulpa | la polpa   
+ 0.23 ⚠ W h.it are those~ | Ils s'appellent ~ | Wie heißen diese? | Cóm o sc llam an~ | Quelli come si c~   de en es fr it
+ 0.24 M new potato | la pomme de terr~ | die neue Kartoff~ | la papa nueva | la patata novella   
+ 0.25 M cassava | le manioc | der Maniok | la mandioca | la cassava   
+ 0.26   sweet | sucré | süß | dulce | dolce   
+ 0.27 M root | la racine | die Wurzel | la raíz | la radice   
+====================================================================================================
+== p117 [cibo] 22 voci, 20 flag, 1 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS •~
+-- G0 subcat: (nessuna)
+ 0.0  M jerusalem artich~ | le topinambour | der Topinambur | el topinambur | il topinambur   
+ 0.1  M rutabaga | le rutabaga | die Kohlrübe | el nabo sueco | la rapa svedese   
+ 0.2  M beet | la betterave | die Rote Bete | el betabel | la barbabietola   
+ 0.3  M sweet potato | la patate douce | die Süßkartoffel | el camote | la patata dolce   
+ 0.4  M yarn | l'igname | die Jamswurzel | el ñame | l'igname   
+ 0.5  ⚠ tomato | la tomate | die Tomate | el jitomate | I pomodoro   it
+ 0.6  M eggplant | l'aubergine | die Aubergine | la berenjena | la melanzana   
+ 0.7  M parsnip | le panais | die Pastinake | la ch irivia | la pastinaca   
+ 0.8  M ginger | le gingembre | der Ingwer | el jengibre | lo zenzero   
+ 0.9  M horseradish | le raifort | der Meerrettich | el rábano picante | il rafano   
+ 0.10 M clove | la gousse | die Zehe | el diente | lo spicchio   
+ 0.11 ⚠ garlic | l'ail | der Knoblauch | el ajo | ?   missing
+ 0.12 M shallot | l'échalote | die Schalotte | el chalote | lo scalogno   
+ 0.13 M leek | le poireau | der Lauch | el puerro | il porro   
+ 0.14 M scallion | la ciboule | die Frühlingszwi~ | el cebollin | la cipollina   
+ 0.15 M truffle | la truffe | die Trüffel | la trufa | il tartufo   
+ 0.16 M mushroom | le champignon | der Pilz | d cham piñón | il fungo   
+ 0.17 M pumpkin | la citrouille | der Kürbis | la calabaza | la zucca   
+ 0.18 M acom squash | la courge gland | der Eichelkurbis | la calabaza bell~ | la zucca a ghian~   
+ 0.19 M butternut squash | la courge musquée | der Butternussku~ | la calabaza | la zucca   
+ 0.20 M zucchini | la courgette | die Zucchini | la calabacita | la zucchina   
+ 0.21 M cucumber | le concombre | die Gurke | el pepino | il cetriolo   
+====================================================================================================
+== p118 [cibo] 20 voci, 19 flag, 2 mancanti, 0 leftover, header=FOOD • LA NOURRIT! R F • DIE NAHRUNGSMITTEL • LA COMIDA • I~
+-- G0 subcat: fruit I • le fruit 1 • das Obst 1 • la fruta 1 • la frutta 1 citrus fruit • les~
+   parts: fruit i • le fruit • das obst • la fruta • la frutta 1 citrus fruit • les agrumes • die zit~
+-- G1 subcat: stone fruit • les fruits à noyau • das Steinobst
+   parts: stone fruit • les fruits à noyau • das steinobst
+-- G2 subcat: • los cítricos • gli agrumi
+   parts: los cítricos • gli agrumi
+-- G3 subcat: • la fruta con hueso • la frutta con nocciolo
+   parts: la fruta con hueso • la frutta con nocciolo
+ 3.0  M orange | l'orange | die Orange | la naranja | l'arancio   
+ 3.1  M clementine | la clémentine | die Klementine | la mandarina cle~ | la clementina   
+ 3.2  M peach | la pêche | der Pfirsich | el durazno | la pesca   
+ 3.3  M nectarine | la nectarine | die Nektarine | la nectarina | la pesca noce   
+ 3.4  ⚠ pulp | la peau | bianche die weiße | Haut | l api ella scorz~   es wrap wrap-ambig
+        ALTS: [{'en': 'pulp', 'fr': 'la peau', 'de': 'bianche die weiße', 'es': 'Haut la piel', 'it': 'la scorza interna'}, {'en': 'pulp', 'fr': 'la peau', 'de': 'bianche die weiße', 'es': 'Haut la piel la scorza', 'it': 'interna'}]
+ 3.5  M apricot | l'abricot | die Aprikose | el chabacano | l'albicocca   
+ 3.6  M plum | la prune | die Pflaume | la ciruela | la prugna   
+ 3.7  M cherry | la cerise | die Kirsche | la cereza | la ciliegia   
+ 3.8  M tángelo | le tángelo | die Tángelo | el ugli | il mapo   
+ 3.9  M grapefruit | le pamplemousse | die Grapefruit | la toronja | il pompeimo   
+ 3.10 M apple | la pomme | der Apfel | la manzana | la mela   
+ 3.11 ⚠ ? | le quartier | die Rippe | el gajo | lo spicchio   missing
+ 3.12 M pear | la poire | die Birne | la pera | la pera   
+ 3.13 ⚠ satsurria | la satsuma | die Satsuma | la m andarina sa~ | il satsuma   es
+ 3.14 ⚠ tangerine | la mandarine | die Mandarine | la m andarina il~ | ?   es missing
+ 3.15 M zest | le zeste | die Schale | la cáscara | la buccia   
+ 3.16 M lime | le cirròn vert | die Limone | la lima | la limetta   
+ 3.17 M lemon | le citron | die Zitrone | el limón | il limone   
+ 3.18 M kumquat | le kum quat | die Kumquat | la naranja vhina | l'arancino cinese   
+ 3.19 M basket of fruit | la corbeille de ~ | der Obstkorb | el frutero | il cestino rii f~   
+====================================================================================================
+== p119 [cibo] 31 voci, 16 flag, 0 mancanti, 4 leftover, header=F O O D • I .A N O U R R IT U R E • DIE NAHRUNGSMITTEL • L ~
+-- G0 subcat: Demes and melons • les fruits rouges et les melons • das Beerenobst und die Mel~
+   parts: deme sand melons • les fruits rouges et les melons • das beerenobst und die melonen • las b~
+-- G1 subcat: i s
+   parts: i s
+-- G2 subcat: ##
+   parts: ##
+ 2.0  M raspberry | la framboise | die Himbeere | la frambuesa | il lampone   
+ 2.1  ⚠ Fxraw berry | la fraise | oe Erdbeere | la Fresa | a fragola   en es
+ 2.2  M melon | le melon | die Melone | el melón | il melone   
+ 2.3  M grapes | les raisins | die Weintrauben | la uva | l'uva   
+ 2.4  M redeurrant | la groseille | die Johannisbeere | la grosella | il ribes rosso   
+ 2.5  M rind | l'écorce | die Schale | la cáscara | la buccia   
+ 2.6  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['hssckberry', 'la mure |_', '3', 'Brombeere', 'la ora', 'la mora']
+-- G3 subcat: » • • • •
+   parts: »
+ 3.0  M seed | le pépin | der Kern | la semilla | il seme   
+-- G4 subcat: 6000
+ 4.0  M blackcurrant | le cassis | die schwarze Joh~ | la grosella negra | il ribes nero   
+ 4.1  ⚠ Perry | la canncberge | ae Preiselbeere | el «ondano rojo | l'ossieocco   en es
+ 4.2  M flesh | la pulpe | das Fruchtfleisch | la pulpa | la polpa   
+ 4.3  M white currant | la groseille bia~ | die weiße Johann~ | la grosella blan~ | il ribes bianco   
+ 4.4  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['I Pajeòerry', 'la m yrtille', '2-r Heidelbeere', 'I', 'arándano', 'il mirtillo']
+ 4.5  M watermelon | la pastèque | die Wassermelone | la sandía | l'anguria   
+ 4.6  ⚠ Are they ripe? | Est-ce qu'ils so~ | Sind sie reif? | Están maduros? | Sono maturi?   de en es fr it
+ 4.7  M seedless | satis pépins | kernlos | sin sem illas | senza semi   
+ 4.8    sour | aigre | sauer | amargo | amaro   
+ 4.9    crisp | croquant | knackig | fresco | croccante   
+ 4.10 M rhubarb | la rhubarbe | der Rhabarber | el ruibarbo | il rabarbaro   
+ 4.11 ⚠ cfa-.perry | la loganberry | e loganbeere | la frambuesa an | la mora-lampone   en
+ 4.12 ⚠ May 1 try one? | Je peux goûter? | Könnte ich eine ~ | Puedo probar uno? | Posso assaggiarn~   de en es fr it
+ 4.13 M juice | le jus | der Saft | jugo | il succo   
+ 4.14   rotten | pourri | faul | podrido | marcio   
+ 4.15 M fiber | la fibre | die Faser | la fibra | la fibra   
+ 4.16   fresh | frais | frisch | fresco | fresco   
+-- G5 subcat: fr £
+   parts: fr £
+ 5.0  ⚠ How long will th~ | Ils se gardent c~ | Wie lange halten~ | Hasta cuando dur~ | Per quanto tempo~   de en es fr it
+ 5.1  M core | le trognon | das Kerngehäuse | corazón | il torsolo   
+ 5.2  M pulp | la pulpe | das Fruchtmark | la pulpa | la polpa   
+ 5.3    juicy | juteux | saftig | jugoso | sugoso   
+ 5.4    sweet | sucré | süß | dulce | dolce   
+ 5.5  M fTOseberry | la groseille à p~ | die Stachelbeere | capulín | l'uva spina   
+   LEFT '#' @[44, 343] (riga singola isolata)
+   LEFT '6' @[145, 343] (riga singola isolata)
+   LEFT 'A ié' @[272, 635] (riga singola isolata)
+   LEFT '6' @[162, 990] (riga singola isolata)
+====================================================================================================
+== p120 [cibo] 20 voci, 13 flag, 1 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • [.OS AUMENTOS •~
+-- G0 subcat: fruit 2 • les fruits 2 • das Obst 2 • la fruta f r u t t a i
+   parts: fruit • les fruits • das obst • la fruta f r u t t a i
+ 0.0  M mango | la mangue | die Mango | el mango | il mango   
+ 0.1  M pineapple | l'ananas | die Ananas | la pina | l'ananas   
+ 0.2  M avocado | l'avocar | die Avocado | el aguacate | l'avocado   
+ 0.3  M papaya | la papaye | die Papaya | la papaya | la papaia   
+ 0.4  M peach | la pêche | der Pfirsich | el melocotón | la pesca   
+ 0.5  M lychee | le litchi | die Litschi | el fichi | il litchi   
+ 0.6  ⚠ kiwifruit | le kiwi | die Kiwi | f\ kiw i | I kiwi   es it
+ 0.7  ⚠ Cape gooseberry | le physalis | die Kapstachelbe~ | el capulín | l'alchechengi   en
+ 0.8  ⚠ pit | le pépin | der Kern | la semilla | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.9  M peel | la peau | die Schale | la piel | la buccia   
+ 0.10 ⚠ passion fruit | le fruit de la p~ | die Passionsfruc~ | el m aracuyá | il frutto della ~   es
+ 0.11 M quince | le coing | die Quitte | el membrillo | lo mela cotogna   
+ 0.12 M banana | la banane | die Banane | el plátano | la banana   
+ 0.13 M pomegranate | la grenade | der Granatapfel | la granada | il melograno   
+ 0.14 M guava | la goyave | die Guave | la guayaba | la guaiava   
+ 0.15 M persimmon | le kaki | die Persimone | el caqui | il cachi   
+ 0.16 M feijoa | le feijoa | die Feijoa | la feijoa | il feijoa   
+ 0.17 M pnckly pear | la figue de Barb~ | die Kaktusfeige | la tuna | il fico d'india   
+ 0.18 M star fruit | la carambole | die Stemfrucht | la carambola | la carambola   
+ 0.19 ⚠ mangosteen | le m angoustan | die Mango5tane | el man gostàn | la mangostina   de fr
+====================================================================================================
+== p121 [cibo] 33 voci, 19 flag, 1 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS •~
+-- G0 subcat: nuts and dried fruit • les noix et les fruits secs • die Nüsse und das Dörrobst~
+   parts: nuts and dried fruit • les noix et les fruits secs • die nüsse und das dörrobst • los fruto~
+-- G1 subcat: ?
+   parts: ?
+ 1.0  M hazelnut | la noisette | die Haselnuss | la avellana | la nocciola   
+ 1.1  M peanut | la cacahouète | die Erdnuss | el cacahuete | l'arachide   
+ 1.2  ⚠ cashew nut | Li noix de cajou | die Cashewnuss | la nuez, de la I~ | l'anacardio   es fr
+ 1.3  ⚠ pistachio | la pistache | die Pistazie | el pistache | I pistacchio   it
+ 1.4  M pine nut | le pignon | die Piniennuss | el piñón | il pinolo   
+ 1.5  M chestnut | le marron | die Esskastanie | la castaña | la castagna   
+ 1.6  M walnut | la noix | Walnuss | la nuez de Casti~ | la noce   
+ 1.7  M almond | l'amande | die Mandel | la almendra | la mandorla   
+ 1.8  M pecan | la noix pacane | die Pecannuss | la nuez | il pecan   
+ 1.9  ⚠ Brazil nut | la noix du Brésil | die Paranuss | la nuez de Brasil | la mandorla bras~   en
+ 1.10 M shell | la coquille | die Schale | la cáscara | il guscio   
+ 1.11 M prune | le pruneau | die Backpflaume | la ciruela pasa | la prugna sceca   
+ 1.12 M date | la darre | die Dattel | el dátil | il dattero   
+ 1.13 ⚠ macadamia | le m acadam ia | die Macadamianuss | la macadamia | caramellato per ~   fr
+ 1.14 M flesh | la chair | das Fruchtfleisch | la pulpa | la polpa   
+ 1.15 M coconut | la noix de coco | die Kokosnuss | el coco | la nuce di cocco   
+ 1.16 ⚠ currant | le raisin de C o~ | die Korinthe « l~ | ? | l'uva passa   de fr missing
+ 1.17 M raisin | le raisin sec | die Rosine | la pasa | l'uvetta   
+ 1.18 ⚠ sultana | le raisin de >my~ | die Sultanine | la pasa sultana | uva sultanina   fr
+ 1.19   shelled | décortiqué | geschält | pelado | sgusciato   
+ 1.20 M tropical fruit | les fruits tropi~ | die Südfrüchte | las frutas tropi~ | la frutta tropic~   
+ 1.21   roasted | grillé | geröstet | tostado | arrostito   
+ 1.22   salted | salé | gesalzen | salado | salato   
+ 1.23 M kernel | l'amande | der Kern | la almendra | il nocciòlo   
+ 1.24   hard | dur | han | duro | duro   
+ 1.25   green | vert | grün | verde | verde   
+ 1.26   whole | complet | ganz | entero | intero   
+ 1.27 M candied fruit | le truie confit | die kandierten F~ | la fruta escarch~ | la frutta candita   
+ 1.28 M seasonal | de saison | Saison | dé temporada | stagionale   
+ 1.29   raw | cru | roh | crudo | crudo   
+ 1.30   dned | séché | getrocknet | desecado | essiccato   
+ 1.31   npe | mûr | reif | maduro | maturo   
+ 1.32   soft | mou | weich | blando | morbido   
+====================================================================================================
+== p122 [cibo] 28 voci, 18 flag, 2 mancanti, 2 leftover, header=FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS ~
+-- G0 subcat: grains and pulses • les céréales et les légumes secs • die Getreidearten und di~
+   parts: grains and pulses • les céréales et les légumes secs • die getreidearten und die hülsenfrüc~
+-- G1 subcat: • le granaglie e i legumi secchi grains • Ics céréales • das Getreide • los gra~
+   parts: le granaglie e i legumi secchi grains • ics céréales • das getreide • los granos • le grana~
+ 1.0  M seed | la graine | der Samen | la semilla | il seme   
+ 1.1    fresh | trais | frisch | fresco | fresco   
+ 1.2  M easy-to-cook | facile à cuisiner | leicht zu kochen | de fácil cocción | cottura facile   
+ 1.3  M husk | la balle | die Hülse | la cáscara | la pula   
+ 1.4    whole-grain | complet | Vollkorn | integral | integrale   
+ 1.5  M fragranced | parfumé | aromatisch | perfum adó | profumato   
+ 1.6  M wheat | le blé | der Weizen | el trigo | il grano   
+ 1.7  M barley | l'orge | die Gerste | la cebada | l'orzo   
+ 1.8  M oats | l'avoine | der Hafer | la avena | l'avena   
+ 1.9  M long-grain | a grains longs | Langkorn | largo | a chiccho lungo   
+ 1.10 M kernel | le grain | der Kent | el grano | il seme   
+ 1.11 M cereal | la céréale | die Getreidefìoc~ | los cereales | il cereale   
+ 1.12 ⚠ dry | SCC | trocken | seco | secco   fr
+ 1.13 ⚠ soak V | laisser tremper | einweichen | poner a remojo | mettere a bagno   en
+ 1.14 M short-grain | à grains ronds | Rundkorn | corto | a chiccho corto   
+ 1.15 M millet | le millet | die Hirse | el mijo | il miglio   
+ 1.16 M corn | le maïs | der Mais | el maíz | il mais   
+ 1.17 M qumoa | le quinoa | die Reismelde | la quinoa | la quinoa   
+ 1.18 ⚠ processed grains | les céréales tra~ | ? | ? | i cereali tratta~   missing
+-- G2 subcat: rice • le riz • der Reis • el arroz • il riso
+   parts: rice • le riz • der reis • el arroz • il riso
+-- G3 subcat: • die verarbeiteten Getreidearten • los granos
+   parts: die verarbeiteten getreidearten • los granos
+ 3.0  M white rice | le riz blanc | der weiße Reis | el arroz largo | il riso bianco   
+ 3.1  M brown rice | le riz complet | der Naturreis | el arroz integral | il riso integrale   
+ 3.2  M couscous | le couscous | der Kuskus | el cu sáis | ii cuscos   
+ 3.3  M cracked wheat | le blé écrasé | der Weizenschrot | el trigo partido | il grano spezzato   
+ 3.4  M wild rice | le riz sauvage | der Wasserreis | el arroz salvaje | il riso selvatico   
+ 3.5  M dessert rice | le riz rond | der Milchreis | el arroz bomba | il riso da budino   
+ 3.6  M semolina | la semoule | der Grieß | la sémola | la semola   
+ 3.7  M bran | le son | die Kleie | el salvado | la crusca   
+ 3.8  ⚠ I | ? | ? | ? | ?   en missing
+   LEFT '1/ 1*»' @[192, 693] (riga singola isolata)
+   LEFT 'K' @[168, 693] (riga singola isolata)
+====================================================================================================
+== p123 [cibo] 21 voci, 21 flag, 2 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • l.OS AUMENTOS •~
+-- G0 subcat: beans and peas • les haricots et les pois • die Bohnen und die Erbsen • los fri~
+   parts: beans and peas • les haricots et les pois • die bohnen und die erbsen • los frijoles y los ~
+ 0.0  ⚠ ? | ? | ? | ? | i fagioli e i pi~   missing
+ 0.1  M fava beans | les fèves | die Saubohnen | las habas | le fave   
+ 0.2  ⚠ aduki beans | les ad zu k is | dieAdzuki bohnen | el frijol morado | i fagioli aduki   fr
+ 0.3  M kidney beans | les haricots ron~ | die roten Bohnen | el frijol rojo | i fagioli di Spa~   
+ 0.4  M navy beans | les haricots bla~ | die weißen Bohnen | el frijol blanco~ | i fagioli bianchi   
+ 0.5  M lima beans | les gros haricût~ | die Mondbohnen | el frijol blanco | i fagioli cannel~   
+ 0.6  M flageolet beans | les flageolets | die französische~ | el frijol flageo~ | i fagioli nani   
+ 0.7  ⚠ mung beans | les haricots mung | die Mungbohnen | el frijol m ung | i fagioli mung   es
+ 0.8  M pinto beans | les haricots pin~ | die Pintobohnen | el frijol pinto | i fagioli borlot~   
+ 0.9  M black eyed peas | les haricots à œ~ | die Teparybohnen | el frijol do ojo~ | i fagioli dall'o~   
+ 0.10 ⚠ soybeans | les graines de s~ | die Sojabohnen | la semilla de so~ | i semi di soia   fr
+ 0.11 M chick peas | les pois chiches | die Kichererbsen | los garbanzos | i ceci   
+ 0.12 ⚠ split peas | les pois cassés | die getrockneten~ | ? | i piselli spacca~   missing
+ 0.13 M peas | les petits pois | die grünen Erbsen | los chícharos | i piselli   
+ 0.14 M red lentils | les lentilles ro~ | die roten Linsen | la lenteja roja | le lenticchie ro~   
+ 0.15 M brown lentils | les lentilles | die braunen Unsen | la lenteja caste~ | le lenticchie ma~   
+-- G1 subcat: seeds • les graines • die Körner • las sem illas • i semi
+   parts: seeds • les graines • die körner • las sem illas • i semi
+ 1.0  M sesame seed | la graine de sés~ | das Sesamkorn | la semilla de sé~ | il seme di sesamo   
+ 1.1  M caraway | la graine de car~ | der Kümmel | el carvi | il seme di carvi   
+ 1.2  M mustard seed | le grain tie mou~ | das Senfkorn | la semilla de mo~ | il seme di mosta~   
+ 1.3  M pumpkin seed | la graine de pot~ | der Kurbiskern | la pepita de cal~ | il seme di zucca   
+ 1.4  M sunflower seed | la grame de tour~ | der Sonnenblumen~ | la semilla de gi~ | il seme di giras~   
+====================================================================================================
+== p124 [cibo] 19 voci, 16 flag, 0 mancanti, 0 leftover, header=FOOD • I . A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS~
+-- G0 subcat: herbs and spices • les herbes et les épices • die Kräuter und Gewürze • las hie~
+   parts: herbs and spices • les herbes et les épices • die kräuter und gewürze • las hierbas y las e~
+-- G1 subcat: spices • les épices • die Gewürze • las especias • le spezie
+   parts: spices • les épices • die gewürze • las especias • le spezie
+ 1.0  M vanilla | la vanille | die Vanille | la vainilla | la vaniglia   
+ 1.1  M nutmeg | la noix de musca~ | die Muskatnuss | la nuez moscada | la noce moscata   
+ 1.2  ⚠ mace | le macis | die Muskatblüte | la macis | I macis   it
+ 1.3  M turmeric | le curcuma | die Kurkuma | la cùrcum a | la curcuma   
+ 1.4  M cumin | le cumin | der Kreuzkummel | el comino | il cumino   
+-- G2 subcat: K J
+   parts: k j
+ 2.0  M bouquet gami | le bouquet gam i | die Kräutermisch~ | el ramillete aro~ | il mazzetto odor~   
+ 2.1  M allspice | le poivre de la ~ | der Piment | la pimienta de J~ | il pepe della Gi~   
+ 2.2  M peppercorn | le grain de poiv~ | das Pfeffer korn | la pimienta en g~ | il grano di pepe   
+ 2.3  M fenugreek | le fenugrec | der Bockshomklee | el heno gnego | il fieno greco   
+ 2.4  M chili | le piment | der Chili | el chile piquín | il peperoncino r~   
+ 2.5  M whole | en morceaux | ganz | entero | intero   
+ 2.6    crushed | écrasé | zerstoßen | machacado | tritato   
+ 2.7  M saffron | le safran | der Safran | el azafrán | lo zafferano   
+ 2.8  ⚠ cardamom | la cardam om e | der Kardamom | el carda mono | I cardamomo   it
+ 2.9  M curry powder | la poudre de cur~ | das Currypulver | el curry en polvo | la polvere di cu~   
+ 2.10 M ground | en poudre | gemahlen | molido | macinato   
+ 2.11 M paprika | le paprika | der Paprika | el pimentón | la paprica   
+ 2.12 M flakes | en flocons | geraspelt | a hojuelas | a scaglie   
+ 2.13 ⚠ garlic | Tail | der Knoblauch | el ajo | l'aglio   fr
+====================================================================================================
+== p125 [cibo] 20 voci, 20 flag, 4 mancanti, 0 leftover, header=F O O D • L A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENT~
+-- G0 subcat: herbs • les herbes • die Kräuter • las hierbas
+   parts: herbs • les herbes • die kräuter • las hierbas
+ 0.0  ⚠ fennel seeds | les graines de f~ | die Fenchelsamen | las sem illas dt~ | i semi di finocc~   es
+ 0.1  M cinnamon | la cannelle | der Zimt | la canela | la cannella   
+ 0.2  M parsley | le persil | die Petersilie | el perejil | il prezzemolo   
+ 0.3  M bay leaf | la feuille de la~ | das Lorbeerblatt | el laurel | l'alloro   
+ 0.4  M fennel | le fenouil | der Fenchel | el hinojo | il finocchio   
+ 0.5  M lemon grass | la citronnelle | das Zitronengras | la dtronela | la ci trancila   
+ 0.6  M sage | la sauge | der Salbei | la salvia | la salvia   
+ 0.7  M thyme | le thym | der Thymian | el tomillo | il timo   
+ 0.8  M mint | la menthe | die Minze | la menta | la menta   
+ 0.9  M chives | la ciboulette | der Schnittlauch | los cebollinos | l'erba   
+ 0.10 ⚠ girofle | ? | die Gewürznelke | los davos | i chiodi di garo~   missing
+ 0.11 M marjoram | la marjolaine | der Majoran | la mejorana | la maggiorana   
+ 0.12 M tarragon | l'estragon | der Estragon | el estragón | il dragoncello   
+ 0.13 M star anise | l'anis étoilé | der Sternarnis | el anís estrella~ | l'anice stellato   
+ 0.14 ⚠ Basilikum | la albahaca | ? | ? | il basilico   en missing
+ 0.15 ⚠ rosemary | le rom .inn | der Rosmarin | el romero | I rosmarino   fr it
+ 0.16 ⚠ coriander | la coriandre | der Koriander « ~ | ? | il coriandolo   de missing
+ 0.17 M oregano | l'origan | der Oregano | el orégano | l'origano   
+ 0.18 M rnger | le gingembre | der Ingwer | el 'engibre | lo zenzero   
+ 0.19 ⚠ ? | ? | ? | el eneldo | l'aneto   missing
+====================================================================================================
+== p126 [cibo] 19 voci, 19 flag, 2 mancanti, 2 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS •~
+-- G0 subcat: bottled foods • les aliments en bouteilles • die Nahrungsmittel in Flaschen • l~
+   parts: bottled foods • les aliments en bouteilles • die nahrungsmittel in flaschen • los alimentos
+ 0.0  ⚠ cork | le bouchon | der Korken | el corcho | I tannn   it
+ 0.1  M sunflower oil | l'huile de tourn~ | das Sonnenblumen~ | el aceite de gir~ | folio di semi di~   
+-- G1 subcat: embotellados • i cibi im bottigliati
+   parts: embotellados • i cibi im bottigliati
+ 1.0  M walnut oil | l'huile de noix | das Walnussöl | el aceite de nue~ | l'olio di noce   
+ 1.1  M grapeseed oil | l'huile de pépin~ | das Traubenkernöl | el aceite dese m~ | l'olio di semi d~   
+ 1.2  M almond oil | l'huile d'amande | das Mandelöl | el aceite de alm~ | l'olio di mandor~   
+ 1.3  ⚠ ? | ? | ? | ? | ?   missing
+ 1.4  M sesame seed oil | l'huile de sésame | das Sesamöl | el aceite de sés~ | l'olio di sesamo   
+ 1.5  M hazelnut oil | l'huile de noise~ | das Haselnussöl | el aceite de ave~ | l'olio di noccio~   
+ 1.6  M olive oil | l'huile d' olive | das Olivenöl | el aceite de oli~ | l'olio d'oliva   
+ 1.7  M herbs | les herbes | die Krauter | las hierbas | le erbe aromatic~   
+ 1.8  M flavored oil | l'huile parfumée | das aromatischeÖl | el aceite aromat~ | l'olio aromatizz~   
+-- G2 subcat: oils • les huiles • die Öle • los aceites • gli oli
+   parts: oils • les huiles • die öle • los aceites • gli oli
+-- G3 subcat: sweet spreads • Ics produits à tartiner • der süße Aufstrich • las conservas du~
+   parts: sweet spreads • ics produits à tartiner • der süße aufstrich • las conservas dulces • le co~
+ 3.0  M honeycomb | le gâteau de miel | die Honigwabe | el panal | il favo   
+ 3.1  M set honey | le miei solide | der feste Honig | la miel cristal ~ | il miele condens~   
+ 3.2  ⚠ lar | le pot | das Glas el tarro | ? | il barattolo   missing
+ 3.3  M lemon curd | la pâle à rartin~ | der Zitronenaufs~ | la crema de limón | la crema al limo~   
+ 3.4  M raspberry jam | la confiture de ~ | die Himbeerkonfi~ | la mermelada de ~ | la marmellata di~   
+ 3.5  M marmalade | la confiture d'o~ | die Orangenmarme~ | la mermelada de ~ | la marmellata di~   
+ 3.6  M clear honey | le ici liquide | der flüssige Hon~ | la mi e ilíquida | il miele sciolto   
+ 3.7  ⚠ maple syrup | le sirop d | der Ahornsi | la m iei dt | lo sciroppi   es
+   LEFT '(T5' @[710, 356] (riga singola isolata)
+   LEFT "'^UKTrCCkirv o" @[682, 377] (riga singola isolata)
+====================================================================================================
+== p127 [cibo] 22 voci, 18 flag, 3 mancanti, 2 leftover, header=F O O D • I .A N O U R R IT U R E • DIE NAHRUNGSMITTEL • L ~
+-- G0 subcat: (nessuna)
+ 0.0  M bottle | la bouteille | die Flasche | la botella | la bottiglia   
+ 0.1  ⚠ condiment sand s~ | les condiments | die Würzen | io s c o n d im ~ | condimenti e cib~   es
+ 0.2  ⚠ balsamic vinegar | le vinaigre bals~ | der Gewurzessig | el vinagre balsá~ | ?   missing
+ 0.3  M cider vinegar | le vinaigre de c~ | der Apfelweiness~ | el vinagre de si~ | l'aceto di sidro   
+ 0.4  ⚠ English mustard | la moutarde angl~ | der englische Se~ | la mostaza ingle~ | la senape   en
+ 0.5  M ketchup | le ketchup | der Ketchup | la catsup | il ketchup   
+ 0.6  M mayonnaise | la mayonnaise | die Majonäse | la mayonesa | la maionese   
+ 0.7  ⚠ French mustard | ln m outarde fra~ | der französische~ | la mostaza franc~ | la mostarda   en fr
+ 0.8  M wholegrain musta~ | la moutarde en g~ | der grobe Senf | la mostaza en gr~ | la mostarda con ~   
+ 0.9  ⚠ ? | le vinaigre de v~ | der Weinessig | el vinagre de vi~ | l'aceto di vino   missing
+ 0.10 M sauce | la sauce | die Soße | la salsa | la salsa   
+ 0.11 ⚠ ? | le vinaigre tic ~ | der Malzessig | el vinagre de ma~ | l'aceto di malto   missing
+ 0.12 M chutney | le chutney | das Chutney | el chutney | il chutney   
+ 0.13 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['vinegar', 'le vinaigre', 'der Essig', 'el vinagre', "l'aceto sealed jar", 'le bocal scellé', 'das Einmachglas', 'el tarro herm ético', 'il barattolo a chiusura ermetica']
+ 0.14 M vegetable oil | l'huile végétale | das Pflanzenöl | el aceite vegetal | l'olio vegetale   
+ 0.15 M cañóla oil | l'huile de colza | das Rapsöl | el aceite de col~ | l'olio di colza   
+ 0.16 M corn oil | l'huile de mais | das Maiskeimol | el aceite de maíz | l'olio di mais   
+ 0.17 ⚠ coid-pressed oil | l'huile pressée ~ | das kaltgepresst~ | el aceite de pre~ | en frió l'olio s~   wrap wrap-ambig
+        ALTS: [{'en': 'coid-pressed oil', 'fr': "l'huile pressée à froid", 'de': 'das kaltgepresste Öl', 'es': 'el aceite de presión en frió', 'it': "l'olio spremuto a freddo"}]
+ 0.18 ⚠ peanut oil | l'huile d'arachi~ | das Erdnussöl | el aceite ele | cacahuete l'olio~   wrap wrap-ambig
+        ALTS: [{'en': 'peanut oil', 'fr': "l'huile d'arachide", 'de': 'das Erdnussöl', 'es': 'el aceite ele cacahuete', 'it': "l'olio di arachide"}]
+ 0.19 ⚠ preserved fruit | les fruits en bo~ | das eingemachte ~ | la Fruta en cons~ | la conserva di f~   es
+ 0.20 M chocolate spread | la pâte à tartin~ | der Schokoladena~ | el chocolate par~ | la cioccolata sp~   
+ 0.21 M peanut butter | le beurre de cac~ | die Erdnussbutter | la crema de caca~ | il burro di arac~   
+   LEFT 'balsamico' @[398, 213] (riga singola isolata)
+   LEFT 'vinegar' @[416, 591] (riga singola isolata)
+====================================================================================================
+== p128 [cibo] 19 voci, 11 flag, 0 mancanti, 0 leftover, header=F O O D ♦ L A N O U R R IT U R E * DIE NAHRUNGSMITTEL • L O~
+-- G0 subcat: dairy products • les produits laitiers • die Milchprodukte • los productos láct~
+   parts: dairy products • les produits laitiers • die milchprodukte • los productos lácteos • i latt~
+ 0.0  M cheese | le fromage | der Käse | el queso | il formaggio   
+ 0.1  M grated cheese | le fromage râpé | der geriebene Kä~ | el queso rallado | il formaggio gra~   
+ 0.2  M rind | la croûte | die Rinde | la corteza | la crosta   
+ 0.3  M semihard cheese | le fromage à pât~ | der mittelharte ~ | el queso semicur~ | il formaggio sem~   
+ 0.4  M hard cheese | le fromage à pât~ | der Hartkäse | el queso curado | il formaggio duro   
+ 0.5  M cream cheese | le fromage à la ~ | der Rahmkäse | el queso cremoso | il formaggio cre~   
+ 0.6  M cottage cheese | le cottage | der Hütten käse | el requesón | il formaggio mol~   
+ 0.7  M cheese | le fromage à pât~ | der halbfeste Kä~ | el queso cremoso~ | formaggio semimo~   
+ 0.8  M blue cheese | le bleu | der Blauschimmel~ | el queso azul | il formaggio tip~   
+ 0.9  M soft cheese | le fromage à pât~ | der Weichkäse | el queso cremoso | il formaggio mor~   
+ 0.10 M fresh cheese | le fromage frais | der Frischkäse | el queso fresco | il formaggio fre~   
+ 0.11 M milk | le lait | die Milch | la leche | il latte   
+ 0.12 M whole milk | le lait entier | die Vollmilch | la leche entera | il latte intero   
+ 0.13 M reduced-fat milk | le lait demi-écr~ | die Halbfettmilch | la leche semides~ | il latte parzial~   
+ 0.14 M fat-free milk | le lait écrémé | die Magermilch | la leche descrem~ | il latte scremato   
+ 0.15 M milk carton | le carton de lait | die Milchtüte | el cartón de lec~ | il cartone di la~   
+ 0.16 ⚠ goat's milk | 1c lait de chèvre | die Ziegenmilch | la lecite de cab~ | il latte di capra   fr
+ 0.17 M condensed milk | le lait condensé | die Kondensmilch | la leche condens~ | il latte condens~   
+ 0.18 M cows milk | le lait de vache | die Kuhmilch | la leche de vaca | il latte di mucca   
+====================================================================================================
+== p129 [cibo] 30 voci, 15 flag, 0 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • ~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M half-and-half cr~ | la crème allégée | die fettarme Sah~ | la crema líquida | la panna liquida   
+ 0.1  M cream | la crème | die Sahne | la crema | la panna   
+ 0.2  M margarine | la margarine | die Margarine | la margarina | la margarina   
+ 0.3  M butter | le beurre | die Butter | la mantequilla | il burro   
+ 0.4  M ice cream | la glace | das Eis | el helado | il gelato   
+ 0.5  M yogurt | le yaourt | der Joghurt | el yogurt | lo yogurt   
+ 0.6  M sour cream | la crème fraîche | die saure Sahne | la crema ácida | la panna acida   
+ 0.7  M whipped cream | la crème fouettée | die Schlagsahne | la crema batida | la panna montata   
+ 0.8  M whipping cream | la crème épaisse | die Schlagsahne | la crema par aba~ | la panna densa   
+-- G1 subcat: eggs • les œufs • die Eier • los huevos • le uova
+   parts: eggs • les œufs • die eier • los huevos • le uova
+ 1.0  M shell | la coquille | die Eierschale | la cáscara | il guscio   
+ 1.1  M egg white | le blanc d'eeuf | das Eiweiß | la clara | la chiara   
+ 1.2  M yolk | le jaune d 'œuf | das Eigelb | la yema | il tuorlo   
+ 1.3  M duck egg | l'œuf de cane | das Entenei | el huevo de pato | l'uovo di anatra   
+ 1.4  M hen's egg | l'œuf de poule | das Hühnerei | el huevo de gall~ | uovo di gallina   
+-- G2 subcat: • r
+   parts: r
+ 2.0  M eggeup | le coquetier | der Eierbecher | la huevera | il porta uovo   
+-- G3 subcat: JU
+   parts: ju
+ 3.0  M quail egg | l'œuf de caille | das Wachtelei | el huevo de codo~ | l'uovo di quaglia   
+ 3.1  M goose egg | l'œuf d 'oie | das Gánseei | el huevo de ganso | l'uovo d'oca   
+ 3.2  M soft-boiled egg | l'œuf à la coque | das gekochteEi | el huevo tibio | l'uovo alla coque   
+ 3.3  ⚠ miikshake | le m ilk-shake | der Milchshake | la m alteada | il frullato   es fr
+ 3.4  M lactose | le lactose | die Laktose | la lactosa | il lattosio   
+ 3.5  M sheep's milk | le lait de brebis | die Schafmilch | la leche de oveja | il latte di peco~   
+ 3.6  M fat-free | sans matières gr~ | fettfrei | sin grasa | senza grassi   
+ 3.7    salted | salé | gesalzen | salado | salato   
+ 3.8    pasteurized | pasteurisé | pasteurisiert | pasteurizado | pastorizzato   
+ 3.9  M frozen yogurt | le yaourt surgelé | der gefrorene Jo~ | el yogurt helado | lo yog uri gelato   
+ 3.10 M homogenized | homogénéisé | homogenisiert | homogen eizado | omogeneizzato   
+ 3.11 M buttermilk | le babeurre | die Buttermilch | el suero de la l~ | il siero di latte   
+ 3.12 M powdered milk | le lait en poudre | das Milchpulver | la leche en polvo | il latte in polv~   
+ 3.13 M unsalted | non salé | ungesalzen | sin sal | senza sale   
+ 3.14 M unpasteurized | non pasteurisé | unpasteurisiert | sin pasteurizar | non pastorizzato   
+====================================================================================================
+== p130 [cibo] 14 voci, 11 flag, 0 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS •~
+-- G0 subcat: breads and flours • les pains et la farine • das Brot und das Mehl • el pan y l~
+   parts: breads and flours • les pains et la farine • das brot und das mehl • el pan y las harinas •~
+ 0.0  M sliced bread | le pain tranché | das Scheibenbrot | el pan de caja | il oane affettato   
+ 0.1  M poppy seeds | les graines de p~ | der Mohn | las sem illas de~ | i semi di papave~   
+ 0.2  ⚠ French bread | la baguette | das Baguette | la baguette | il filone   en
+ 0.3  ⚠ r | pain de seigle | das Roggenbrot | el pan de centeno | il pane di segale   en
+ 0.4  M bakery | la boulangerie | die Bäckerei | la panadería | il panificio   
+-- G1 subcat: making bread • faire du pain • Brot backen • haciendo pan • fare il pane
+   parts: making bread • faire du pain • brot backen • haciendo pan • fare il pane
+ 1.0  M white flour | la farine blanche | das Weizenmehl | la harina blanca | la farina bianca   
+ 1.1  M whole-wheat flour | la farine complè~ | das Roggenmehl | la harina morena | la farina integr~   
+ 1.2  M stone-ground flo~ | la farine brute | das Vollkornmehl | la harina integr~ | la farina integr~   
+ 1.3  M yeast | la levure | die Hefe | la levadura | illi evito   
+ 1.4  M dough | la paré | der Teig | la masa | la pasta   
+ 1.5    sift (v) | tamiser | sieben | cernir | setacciare   
+ 1.6    mix (v) | mélanger | verrühren | mezclar | mescolare   
+ 1.7    knead (v) | pétrir | kneten | amasar | impastare   
+ 1.8  M bake (v) | faire cuir au fo~ | backen | hornear | cuocere al forno   
+====================================================================================================
+== p131 [cibo] 28 voci, 21 flag, 1 mancanti, 0 leftover, header=FOOD • LA \ OU R R IT U R 1 • DIE NAHRUNGSMITTEL • LOS ALIM~
+-- G0 subcat: (nessuna)
+ 0.0  M slice | la tranche | die Scheibe | la rebanada | la fetta   
+ 0.1  M loaf | le pain | der Laib | la hogaza | il filone   
+ 0.2  M crust | la croûte | die Kruste | la corteza | la crosta   
+ 0.3  M multigrain bread | le pain complet | das Mehrkornbrot | el pan con grano | il pane di grana~   
+ 0.4  M whole-wheat bread | le pain de son | das Vollkornbrot | el pan integral | il pane integrale   
+ 0.5  M brown bread | le pain bis | das Graubrot | el pan negro | il pane nero   
+ 0.6  M fìat bread | le pain plat | das Fladenbrot | el pan sin levad~ | la schiacciata   
+ 0.7  M sourdough bread | le pain au levain | das Sauerteigbrot | el pan fermentado | il pane aspro   
+ 0.8  M soda bread | le pam à la bica~ | das Sodabrot | el pan al bicarb~ | il pane lievitat~   
+ 0.9  M com bread | le pain de mais | das Maisbrot | el pan de maíz | il pane di mais   
+ 0.10 M fruit bread | le pain aux rais~ | das Rosinenbrot | el pan de frutas | il pane alla fru~   
+ 0.11 M roll | le petit pain | das Brötchen | el panecillo | il filoncino   
+ 0.12 ⚠ bun | le périr pain ro~ | das weiche Brötc~ | el bollo | ?   missing
+ 0.13 M bagel | le petit pain am~ | das Hefebrotchen | la dona | la ciambella   
+ 0.14 M enspbread | le biscuit scand~ | das Knäckebrot | el pan danés | i crackers   
+ 0.15 M pita bread | le pita | das Pitabrot | la pita | la pita   
+ 0.16 M naan bread | le naan | der Naan | el naan | il naan   
+ 0.17 M eeded bread | le pam aux grain~ | das Kömerbrot | el pan con semil~ | il pane con semi   
+ 0.18 M slicer | la machine à cou~ | der Brotschneider | el reban ador | l'affettatrice   
+ 0.19 M breadcrumbs | la chapelure | das Paniermehl | el pan molido | le briciole   
+ 0.20 M prove (v) | lever | gehen lassen | levar | lievitare   
+ 0.21 ⚠ all-purpose flour | la farine sans l~ | das Mehl ohne Ba~ | I a harina blanca | la farina sempli~   es
+ 0.22 M self-rising flour | la farine avec l~ | das Mehl mit Bac~ | la harina con le~ | la farina autoli~   
+ 0.23 M baker | le boulanger | der Bäcker | el panadero | il panettiere   
+ 0.24   glaze (v) | glacer | glasieren | glasear | glassare   
+ 0.25 ⚠ flute | la Hüte | die Flöte | la barra | il filoncino   fr
+ 0.26 M nse (v) | sc lever | aufgehen | subir | crescere   
+ 0.27 M bread flour | la farine traitée | das anqereichert~ | la harina para p~ | la farina per il~   
+====================================================================================================
+== p132 [cibo] 22 voci, 3 flag, 0 mancanti, 0 leftover, header=FOOD . L A NOURRITURE ♦ DIE NAHRUNGSMITTEL • LOS ALIMENTOS ~
+-- G0 subcat: cakes and desserts • les g âteau x et les desserts • Kuchen und Nachspeisen • l~
+   parts: cakes and desserts • les gâteaux et les desserts • kuchen und nachspeisen • la repostería •~
+ 0.0  M éclair | l'éclair | das Eclair | el profiterai | il bignè   
+ 0.1  M profiterole past~ | la pâte à choux | der Brandteig | la masa de profi~ | il bignè   
+ 0.2  M puff pastry | la pâte feuillet~ | der Blätterteig | el hojaldre | la pasta sfoglia   
+ 0.3  M cream | la crème | die Sahne | la crema | la panna   
+ 0.4  M filo dough | la pâte de filo | der Blätterteig | la masa brisa | la pasta filo   
+ 0.5  M filling | la garniture | die Füllung | el relleno | il ripieno   
+ 0.6  M fruit cake | le cake | der englische Ku~ | el plum -cake | il dolce alla fr~   
+ 0.7  M chocolate coated | enrobé de chocol~ | mit Schokolade ü~ | cubierto de choc~ | ricoperto di cio~   
+ 0.8  M fruit pie | la tarte aux fru~ | das Obsttortelett | la tartaleta de ~ | la crostatine   
+ 0.9  ⚠ muffin | le m uffin | der Muffin | el m uffin | il muffin   es fr
+ 0.10 M meringue | lame ri ligue | das Baiser | el merengue | la meringa   
+ 0.11 M sponge cake | la madeleine | das Biskuittörtc~ | la magdalena | il pan di Spagna   
+ 0.12 M cakes | les gâteaux | das Gebäck | los pasteles | i dolci   
+ 0.13 M pastry cream | la crème pâtissi~ | die Konditorcreme | la crema pastele~ | la crema pasticc~   
+ 0.14 M bun | le petit gâteau | das Teilchen | el hollo | la focaccina   
+ 0.15 M pastry | la paré | der Teig | la masa | la pasta   
+ 0.16 M rice pudding | le riz au lait | der Milchreis | el arroz con lec~ | il budino di riso   
+ 0.17 ⚠ May 1 have a sli~ | Kst-ce que je pe~ | Tranche s'il vou~ | Könnte ich bitte~ | Puedo tom ar una~   de en es fr it wrap
+        ALTS: [{'en': 'May 1 have a slice please?', 'fr': 'Kst-ce que je peux avo ir une', 'de': "Tranche s'il vous plaît?", 'es': 'Könnte ich bitte ein Stück haben? ¿Puedo tom ar una rebanada7', 'it': 'Posso avere una fetta?'}, {'en': 'May 1 have a slice please?', 'fr': 'Kst-ce que je peux avo ir une', 'de': "Tranche s'il vous plaît? Könnte ich bitte ein Stück haben?", 'es': '¿Puedo tom ar una rebanada7', 'it': 'Posso avere una fetta?'}]
+ 0.18 M chocolate cake | le gâteau au cho~ | die Schokoladent~ | el pastel de cho~ | la torta al cioc~   
+ 0.19 M custard | la crème anglaise | der Vanillepuddi~ | las natillas | la cremo   
+ 0.20 M slice | la tranche | das Stück | la rebanada | la fetta   
+ 0.21 M celebration | la fête | die Feier | la celebración | la festa   
+====================================================================================================
+== p133 [cibo] 20 voci, 14 flag, 2 mancanti, 0 leftover, header=FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS •~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M lady fingers | les boudoirs | die Löffelbiskui~ | las soletillas | i savoiardi   
+ 0.1  ⚠ chocolate chip | les pépites Àt c~ | das Schokoladens~ | los chips de cho~ | I biscotto con s~   it
+ 0.2  M florentine | le florentine | der Florentiner | la florentina | il biscotto alle~   
+ 0.3  ⚠ trifle | le diplomate | das Trifle | el postre de sol~ | la zuppa inglese   es
+ 0.4  M cookies | les biscuits | die Kekse | las galletas | i biscotti   
+ 0.5  M sorbet | le sorbet | das Sorbett | el sorbete | il sorbetto   
+ 0.6  M crème caramel | la crème caramel | der Karamellpudd~ | el flan | il crème caramel   
+ 0.7  M custard pie | la tarte à la cr~ | die Sahnetorte | el pastel de cre~ | la torta alla cr~   
+ 0.8  ⚠ Trousse | la mousse | die Mousse | el mousse | il mousse   en
+-- G1 subcat: special occasion cakes • les gâteaux de fête • die festlichen Kuchen • los past~
+   parts: special occasion cakes • les gâteaux de fête • die festlichen kuchen • los pasteles para ce~
+ 1.0  ⚠ ? | le torte per cel~ | ? | ? | ?   missing
+ 1.1  M ribbon | le ruban | das Band | el listón | il nastro   
+ 1.2  M decoration | la décoration | die Dekoration | la decoración | la decorazione   
+ 1.3  ⚠ blowout v j | souffler | ausblasen | apagar | soffiare   en
+ 1.4  M birthday candles | les bougies d'an~ | die Geburtstagsk~ | las velas de cum~ | le candeline   
+ 1.5  M top tier | l'étage supérieur | der obere Kuchen~ | el ùltim o piso | il piano superio~   
+ 1.6  ⚠ bottom tier | Pérage inférieur | der untere Kuche~ | el primer piso | I piano   fr it
+ 1.7  ⚠ icing | le glaçage | der Zuckerguss | la alcorza | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 1.8  M marzipan | la pâte d'amandes | das Marzipan | mazapán | il marzapane   
+ 1.9  M birthday cake | le gâteau d' ann~ | der Geburtstagsk~ | el pastel de cum~ | la torta di comp~   
+ 1.10 M wedding cake | le gâteau de man~ | die Hochzeitstor~ | el pastel de bod~ | la torta nuziale   
+====================================================================================================
+== p134 [cibo] 18 voci, 15 flag, 1 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS •~
+-- G0 subcat: delicatessen • la charcuterie • die Feinkost • la charcutería • la salumeria
+   parts: delicatessen • la charcuterie • die feinkost • la charcutería • la salumeria
+ 0.0  M quiche | la quiche | die Quiche | la quiché | lo sformato   
+ 0.1  M spicy sausage | le saucisson piq~ | die pikante Wurst | el fiambre | la salsiccia pic~   
+ 0.2  M vinegar | le vinaigre | der Essig | el vinagre | l'aceto   
+ 0.3  M uncooked meat | la viande non cu~ | das frische Flei~ | la carne fresca | la carne cruda   
+ 0.4  ⚠ oil | Lhuilc | das ÜI | el aceite | l'olio   fr
+ 0.5  M counter | le comptoir | die Theke | el mostrador | il banco   
+ 0.6  ⚠ salami | le salami | die Salami | el sal ami | I salame   it
+ 0.7  M pepperoni | le peppcroni | die Pepperoniwur~ | el salchichón | il salame piccan~   
+ 0.8  M pâté | le pâté | die Pastete | el pate | il pété   
+ 0.9  ⚠ mozzarella | la m ozzarella | der Mozzarella | la m ozzarella | la mozzarella   es fr
+ 0.10 ⚠ Brie | le brie | der Brie | el brie | il brie   en
+ 0.11 ⚠ Cheddar | le cheddar | der Cheddar | el chcddar | il cheddar   en
+ 0.12 M goat's cheese | le fromage de ch~ | der Ziegenkäse | el queso de cabra | il formaggio   
+ 0.13 M rind | la croûte | die Rinde | la corteza | la scorza   
+ 0.14 ⚠ Parmesan | le parmesan | der Parmesan | el parmesano | il parmigiano   en
+ 0.15 ⚠ Camembert | le cam em bert d~ | ? | el cam em bert | il camembert   en missing
+ 0.16 ⚠ Edam | l'edam | der Edamer | el queso de bola | l'edam   en
+ 0.17 ⚠ Manchego | 1c nianchego | der Manchego | el manchego | I manchego   en fr it
+====================================================================================================
+== p135 [cibo] 20 voci, 17 flag, 2 mancanti, 0 leftover, header=FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS ~
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ black olive | Poliye noire | die schwarze Oli~ | la aceituna negra | l'oliva nera   fr
+ 0.1  ⚠ chili | le pimenr | die Peperoni | el chile piquín | ?   missing
+ 0.2  M sauce | la sauce | die Soße | la salsa | la salsa   
+ 0.3  ⚠ meat pies | les pâtés en cro~ | die Pasteten » l~ | ? | i pasticci di ca~   de missing
+ 0.4  M roll | le petit pain | das Brötchen | el panecillo | il panino   
+ 0.5  M cooked meat | la viande cuite | das gekochte Fle~ | el fiambre | la carne cotta   
+ 0.6  ⚠ green olive | Polivo verte | die grüne Olive | la aceituna verde | l'oliva verde   fr
+ 0.7  M sandwich counter | le comptoir sand~ | die Sandwichtheke | el mostrador de ~ | la paninoteca   
+ 0.8  M ham | le jambon | der Schinken | el jamón | il prosciutto   
+ 0.9  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['in oil', "à l'huile", 'in Öl', 'en aceite', "sott'olio in brine", 'en saum ure', 'in Lake', 'en salm uera', 'in salamoia']
+ 0.10 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['marinated', 'm ariné', 'mariniert', 'm arinado', 'marinato salted', 'Siile', 'gepökelt', 'salado', 'salato']
+ 0.11 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['smoked', 'fumé', 'geräuchert', 'ahum ado', 'affumicato cured', 'séché', 'getrocknet', 'curado', 'trattato']
+ 0.12 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['r-o ked fish', 'le poisson', 'une', 'der Räucherfisch', 'el pescado ahumado', 'il pesce affumicato']
+ 0.13 M capers | les câpres | die Kapern | las alcaparras | i capperi   
+ 0.14 ⚠ Take a number, p~ | Prenez un num ér~ | Nehmen Sie bitte~ | Tome un núm ero,~ | Prenda un numero~   en es fr it
+ 0.15 M chorizo | le chorizo | die Chonzo | el chorizo | il chorizo   
+ 0.16 ⚠ Can I try some o~ | Est-ce que je pe~ | Kann ich bitte e~ | Puedo probar un ~ | Posso assaggiare~   de en es fr it
+ 0.17 ⚠ May I have six s~ | Je voudrais six ~ | Ich hätte gerne ~ | M e pone seis re~ | Mi dà sei fette ~   de en es fr it
+ 0.18 M stuffed olive | l'olive fourrée | die gefüllte Oli~ | la aceituna rell~ | le olive ripiene   
+ 0.19 M ceosciutto | le prosciutto | der Prosciutto | el jamón serrano | il prosciutto cr~   
+====================================================================================================
+== p136 [cibo] 21 voci, 18 flag, 3 mancanti, 0 leftover, header=FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS •~
+-- G0 subcat: drinks • les boissons • die Getränke • las bebidas • le bevande water • P eau •~
+   parts: drinks • les boissons • die getränke • las bebidas • le bevande water • p eau • das wasser ~
+-- G1 subcat: hot drinks • les boissons chaudes • die
+   parts: hot drinks • les boissons chaudes • die
+ 1.0  ⚠ heißen Getränke | ? | ? | las bebidas cali~ | le bevande calde   missing
+ 1.1  M bottled water | l'eau en bouteil~ | das Flaschenwass~ | el agua embotell~ | l'acqua in botti~   
+ 1.2  M sparkling | gazeux | mit Kohlensäure | con gas | frizzante   
+ 1.3  M teabag | le sachet de thé | der Teebeutel | la bolsita de té | la bustina di tè   
+ 1.4  ⚠ loose leaf tea | les feuilles de ~ | die Teeblätter e~ | ? | ?   missing
+ 1.5  M tap water | l'eau du robinet | das Leitungswass~ | el agua de la ll~ | l'acqua dal rubi~   
+ 1.6  M noncarbonated | non gazeux | ohne Kohlensäure | sin gas | liscia   
+ 1.7  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['tea', 'le thè', 'der Tee', 'el té', 'il tè beans', 'les grains', 'die Bohnen', 'los granos', 'i chicchi']
+ 1.8  M ground coffee | le café moulu | der gemahlene Ka~ | el café molido | il caffè macinato   
+ 1.9  ⚠ tonic water | le tonic | das Toniewater l~ | ? | l'acqua tonica   missing
+ 1.10 M coffee | le café | der Kaffee | el café | il cafté   
+ 1.11 M hot chocolate | le chocolat chaud | die heiße Schoko~ | el chocolate cal~ | il cioccolato ca~   
+ 1.12 ⚠ malted drink | la boisson maltée | das Malzgetränk | la bebida m aìte~ | la bevanda   es
+ 1.13 M soda water | le soda | das Sodawasser | la soda | la soda   
+ 1.14 M mineral water | l'eau minérale | das Mineralwasser | el agua mineral | l'acqua minerale   
+-- G2 subcat: soft drinks • les boissons non alcoolisées • die alkoholfreien Getränke • los r~
+   parts: soft drinks • les boissons non alcoolisées • die alkoholfreien getränke • los refrescos • le
+ 2.0  M straw | la paille | der Strohhalm | el popote | la cannuccia   
+-- G3 subcat: I
+   parts: i
+ 3.0  M tornato juice | le jus de tornare | der Tomatensaft | el jugo de tomate | il succo di pomo~   
+ 3.1  M grape juice | le jus de raisin | der Traubensaft | el jugo de uva | il succo d'uva   
+ 3.2  M lemonade | la limonade | die Limonade | la limonada | la limonata   
+ 3.3  M orangeade | l'orangeade | die Orangeade | la naranjada | la spremuta d'ar~   
+ 3.4  M cola | le coca | die Cola | la cola | lac oca   
+====================================================================================================
+== p137 [cibo] 21 voci, 19 flag, 7 mancanti, 4 leftover, header=FO O D • I.A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS~
+-- G0 subcat: alcoholic drinks • les boissons alcoolisées • die alkoholischen Getränke • las ~
+   parts: alcoholic drinks • les boissons alcoolisées • die alkoholischen getränke • las bebidas alco~
+ 0.0  M can | la boîte | die Dose | la lata | la lattina   
+ 0.1  M hard cider | le cidre | der Apfelwein | la sidra | il sidro   
+ 0.2  M bitter | la bière anglaise | das halbdunkle B~ | la cerveza amarga | la birra amara   
+ 0.3  M stout | la bière brune | der Stout | la cerveza negra | la birra scura   
+ 0.4  ⚠ Bier | la cerveza | ? | la birra | ?   en missing
+ 0.5  ⚠ gin | le gin | der Gin | ? | ?   missing
+ 0.6  ⚠ whiskey | le whisky | der Whisky | el w hisky | il whisky   es
+ 0.7  M vodka | la vodka | der Wodka | el vodka | la vodka   
+ 0.8  ⚠ rum | ? | der Rum | el ron | il rum   missing
+ 0.9  M brandy | le brandy | derWeinbrand | el brandy | il brandy   
+-- G1 subcat: • la ginebra • il gin
+   parts: la ginebra • il gin
+ 1.0    rose | rosé | rosé | rosado | rosé   
+ 1.1  ⚠ white | blanc | weiß | blanco | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 1.2  ⚠ red | rouge | rot | tinto | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 1.3  M sherry | le sherry | der Sherry | el vino de jerez | lo sherry   
+ 1.4  ⚠ port | le porto | der Portwein | el oporto | I porto   it
+ 1.5  ⚠ campan | le camp an | der Campari | el campaci | il camp3ri   it
+ 1.6  M liqueur | la liqueur | der Likör | el licor | il liquore   
+ 1.7  M champagne | le champagne | der Champagner | el champán | lo champagne   
+ 1.8  M wine | le vin | der Wein | el vino | il vino   
+ 1.9  ⚠ ? | ? | der Tequila | el tequila | la tequila   missing
+ 1.10 ⚠ UU'IPi f l $ S A~ | ? | ? | ? | ?   en missing
+-- G2 subcat: M
+   parts: m
+   LEFT 'alcoliche' @[22, 99] (riga singola isolata)
+   LEFT 'tequila' @[264, 1011] (riga singola isolata)
+   LEFT 'm' @[728, 1041] (riga singola isolata)
+   LEFT 's' @[876, 1065] (riga singola isolata)
+====================================================================================================
+== p138 [cibo] PAGINA DIVISORIA / SENZA VOCI

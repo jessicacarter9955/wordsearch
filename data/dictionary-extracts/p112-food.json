@@ -1,0 +1,527 @@
+{
+ "page": 112,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "pesce",
+   "names": {
+    "en": "fish",
+    "fr": "le poisson",
+    "de": "der fisch",
+    "es": "el pescado",
+    "it": "i pesce"
+   },
+   "entries": [
+    {
+     "en": "peeled shnmp",
+     "fr": "crevettes décortiquées",
+     "de": "geschälten Garnelen",
+     "es": "camarones pelados",
+     "it": "gamberi sgusciati",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 21,
+      "de": 18,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "rainbow trout",
+     "fr": "rruite arc-en-ciel",
+     "de": "Regenbogenforelle",
+     "es": "trucha arco ins",
+     "it": "trota",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 17,
+      "es": 13,
+      "it": 5
+     }
+    },
+    {
+     "en": "red mullet",
+     "fr": "rouget barbet",
+     "de": "rote Meeräsche",
+     "es": "salmonete",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 13,
+      "es": 9
+     }
+    },
+    {
+     "en": "halibut fillets",
+     "fr": "filets de flétan",
+     "de": "Heilbuttfilets",
+     "es": "filotes de mero",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 14,
+      "es": 13
+     }
+    },
+    {
+     "en": "ice",
+     "fr": "glace",
+     "de": "Eís",
+     "es": "hielo",
+     "it": "ghiaccio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 3,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "skate wings",
+     "fr": "ailes de raie",
+     "de": "Rochenflügel",
+     "es": "aletas de raya",
+     "it": "pinne di razza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 12,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "fish seller",
+     "fr": "poissonnerie",
+     "de": "Fischgeschäft",
+     "es": "pescadería",
+     "it": "pescheria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 13,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "monkfish",
+     "fr": "lotte",
+     "de": "Quappe",
+     "es": "rape",
+     "it": "rana pcscatricc",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 6,
+      "es": 4,
+      "it": 14
+     }
+    },
+    {
+     "en": "mackerel",
+     "fr": "maquereau",
+     "it": "sgombro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "swordfish",
+     "fr": "espadon",
+     "de": "Schwertfisch",
+     "es": "pez espada",
+     "it": "pesce spada",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "trout",
+     "fr": "rruite",
+     "de": "Forelle",
+     "es": "trucha la trota",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 13
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "Dover sole",
+     "fr": "sole",
+     "de": "Seezunge",
+     "es": "lenguado",
+     "it": "sogliola",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "lemon sole",
+     "fr": "limande sole",
+     "de": "Rotzunge",
+     "es": "platija",
+     "it": "sogliola limanria",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 8,
+      "es": 7,
+      "it": 16
+     }
+    },
+    {
+     "en": "haddock",
+     "fr": "aiglefin",
+     "de": "Schellfisch",
+     "es": "abadejo",
+     "it": "eglefino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "skate",
+     "fr": "raie",
+     "de": "Rochen",
+     "es": "raya",
+     "it": "razza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "sardine",
+     "fr": "sardine",
+     "de": "Sardine",
+     "es": "sardina",
+     "it": "sardina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "silver hake",
+     "fr": "merlan",
+     "de": "Weißfisch",
+     "es": "pescadilla",
+     "it": "merlango",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 10,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "sea bass",
+     "fr": "bar",
+     "de": "Seebarsch",
+     "es": "lubina",
+     "it": "spigola",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 3,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "salmon",
+     "fr": "saumon",
+     "de": "Lachs",
+     "es": "salmón",
+     "it": "salmone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "sea bream",
+     "fr": "daurade",
+     "de": "Seebrassen",
+     "es": "besugo",
+     "it": "abramidc",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 10,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "tuna",
+     "fr": "thon",
+     "de": "Tunfisch",
+     "es": "atún",
+     "it": "tonno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 8,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "cod",
+     "fr": "morue",
+     "de": "Kabelau",
+     "es": "bacalao",
+     "it": "merluzzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

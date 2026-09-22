@@ -1,0 +1,283 @@
+{
+ "page": 31,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "women's clothing • les vêtements pour femmes • die Damenkleidung • la ropa de dama • l'abbigliamento da donna",
+   "parts": [
+    "women's clothing",
+    "les vêtements pour femmes",
+    "die damenkleidung",
+    "la ropa de dama",
+    "l'abbigliamento da donna"
+   ],
+   "entries": [
+    {
+     "en": "strapless",
+     "fr": "sans bretelles",
+     "de": "trägerlos",
+     "es": "sin tirantes",
+     "_pos": [
+      624,
+      169
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "neckline",
+     "fr": "l'encolure",
+     "de": "der Ausschnitt",
+     "es": "el escote",
+     "it": "la scollatura",
+     "_pos": [
+      329,
+      170
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jacket",
+     "fr": "la veste",
+     "de": "die Jacke",
+     "es": "el saco",
+     "it": "la giacca",
+     "_pos": [
+      59,
+      221
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sleeveless",
+     "fr": "sans manches",
+     "de": "ärmellos",
+     "es": "sin mangas",
+     "it": "senza maniche",
+     "_pos": [
+      637,
+      315
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seam",
+     "fr": "la couture",
+     "de": "die Naht",
+     "es": "la costura",
+     "it": "la cucitura",
+     "_pos": [
+      400,
+      316
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ankle length",
+     "fr": "long",
+     "de": "knöchellang",
+     "es": "largo",
+     "it": "alla",
+     "_pos": [
+      402,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sleeve",
+     "fr": "la manche",
+     "de": "der Ärmel",
+     "es": "la manga",
+     "it": "la manica",
+     "_pos": [
+      62,
+      499
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dress",
+     "fr": "la robe",
+     "de": "das Kleid",
+     "es": "el vestido",
+     "it": "il vestito",
+     "_pos": [
+      698,
+      609
+     ],
+     "_flags": []
+    },
+    {
+     "en": "evening dress",
+     "fr": "la robe du soir",
+     "de": "das Abendkleid",
+     "es": "traje de noche",
+     "it": "l'abito da sera",
+     "_pos": [
+      486,
+      611
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skirt",
+     "fr": "la jupe",
+     "de": "der Rock",
+     "es": "la falda",
+     "it": "la gonna",
+     "_pos": [
+      372,
+      660
+     ],
+     "_flags": []
+    },
+    {
+     "en": "biouse",
+     "fr": "le chemisier",
+     "de": "die Bluse",
+     "es": "la blusa",
+     "it": "la",
+     "_pos": [
+      596,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knee-length",
+     "fr": "à genou",
+     "de": "knielang",
+     "es": "hasta la rodilla",
+     "it": "al ginocchio",
+     "_pos": [
+      358,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hem",
+     "fr": "l'ourlet",
+     "de": "der Saum",
+     "es": "el dobladillo",
+     "it": "l'orlo",
+     "_pos": [
+      82,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pants",
+     "fr": "le pantalon",
+     "de": "die Hose",
+     "es": "los pantalones",
+     "it": "i pantaloni",
+     "_pos": [
+      498,
+      823
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Ics collants",
+     "de": "die Strumpfhose",
+     "es": "las pantim edias",
+     "it": "I collant",
+     "_pos": [
+      332,
+      923
+     ],
+     "_flags": [
+      "missing:fr",
+      "slot-ambig",
+      "en:case",
+      "it:case"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "shoes",
+     "fr": "les chaussures",
+     "de": "die Schuhe",
+     "es": "los zapatos",
+     "it": "le scarpe",
+     "_pos": [
+      66,
+      958
+     ],
+     "_flags": []
+    },
+    {
+     "en": "casual",
+     "fr": "décontracté",
+     "de": "leger",
+     "es": "casual",
+     "it": "casual",
+     "_pos": [
+      468,
+      1053
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "spalline",
+   "pos": [
+    658,
+    234
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 10,
+  "flagged": 7,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,252 @@
+====================================================================================================
+== p088 [servizi] 26 voci, 10 flag, 2 mancanti, 0 leftover, header=S ER V IC ES • I F S S E R V IC E S • DIE DIENSTLEISTUNGEN ~
+-- G0 subcat: em ergency services • les services d'urgence • die Notdienste • los servicios d~
+   parts: emergency services • les services d'urgence • die notdienste • los servicios de emergencia ~
+-- G1 subcat: ambulance • l'ambulance • der Krankenwagen • la am bulancia • l'ambulanza
+   parts: ambulance • l'ambulance • der krankenwagen • la ambulancia • l'ambulanza
+ 1.0  ⚠ stretcher | Ic brancard | die Tragbahre | la camilla | la barella   fr
+ 1.1  M ambulance | l'ambulance | der Krankenwagen | la ambulancia | l'ambulanza   
+ 1.2  ⚠ paramedic | l'infirmier du S~ | der Rettungssani~ | el param èdico | il paramedico   fr
+-- G2 subcat: police • la police • die Polizei • la policía • la polizia
+   parts: police • la police • die polizei • la policía • la polizia
+ 2.0  M lights | les feux | das Licht | las luces | le luci   
+ 2.1  M badge | le badge | die Kennmarke | la placa | il   
+ 2.2  M uniform | l'uniforme | die Uniform | el uniforme | l'uniforme   
+ 2.3  M siren | la sirène | die Sirene | la sirena | la sirena   
+ 2.4  M police station | le poste de poli~ | die Polizeiwache | la estación de p~ | la stazione di p~   
+ 2.5  M police car | la voiture de po~ | das Polizeiauto | la patrulla | l'auto della pol~   
+ 2.6  M nightstick | la matraque | der Gummiknüppel | la macana | il manganello   
+ 2.7  M captain | l'inspecteur | der Inspektor | el inspector | il commissario   
+ 2.8  M burglary | le cambriolage | der Einbruchdieb~ | el robo | il furto   
+ 2.9  M complaint | la piaim e | die Beschwerde | la denuncia | la denuncia   
+ 2.10 M arrest | l'arrestation | die Festnahme | el arresto | l'arresto   
+ 2.11 M gun | le pistolet | die Pistole | la pistola | la pistola   
+ 2.12 M detective | l'officier de po~ | der Kriminalbeam~ | el detective | l'investigatore   
+ 2.13 M assault | l'agression | die Körperverlet~ | la agresión | l'aggressione   
+ 2.14 M investigation | l'enquête | die Ermittlung | la investigación | l'indagine   
+ 2.15 M lockup | la cellule | die Polizeizelie | la celda | la cella   
+ 2.16 M handcuffs | les menottes | die Handschellen | las esposas | le manette   
+ 2.17 M crime | le crime | das Verbrechen | el crimen | l reato   
+ 2.18 M fingerprint | les empreintes | der Fingerabdruck | la huella digital | l'impronta digit~   
+ 2.19 M suspect | le suspect | der Verdächtige | el sospechoso | il sospetto   
+ 2.20 M charge | l'accusation | die Anklage | el cargo | l'accusa   
+ 2.21 ⚠ police officer | le policier | ? | ? | l'agente   missing
+ 2.22 ⚠ ? | ? | der Polizist | el policía | ?   missing
+====================================================================================================
+== p089 [servizi] 22 voci, 16 flag, 1 mancanti, 1 leftover, header=S ER V IC ES • I HS SERVICES • DIE DIENSTLEISTUNGEN • LOS S~
+-- G0 subcat: fire department • les pompiers • die Feuerwehr • los bomberos • i vigili del fu~
+   parts: fire department • les pompiers • die feuerwehr • los bomberos • i vigili del fuoco
+ 0.0  M helmet | la casque | der Schutzhelm | el casco | il casco   
+ 0.1  M smoke | la fumée | der Rauch | el hum o | il fumo   
+ 0.2  M hose | le túyau | der Schlauch | la manguera | l'idrante   
+ 0.3  M cherry picker | la nacelle | der Auslegerkorb | la cesta | la gabbia   
+ 0.4  M water jet | le jet d' eau | der Wasserstrahl | el chorro de agua | il getto d'acqua   
+ 0.5  M firefighters | les sapeurs-pomp~ | die Feuerwehrleu~ | los bomberos | i vigili del fuo~   
+ 0.6  M boom | la fiòche | der Ausleger | el brazo | il braccio   
+ 0.7  M ladder | l'échelle | die Leiter | la escalera | la scala   
+ 0.8  ⚠ cab | la cabine | die Fahrerkabine | laca bina | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.9  M fire | l'incendie | der Brand | el incendio | l'incendio   
+ 0.10 M fire escape | l'escalier de se~ | die Feuertreppe | la escalera de i~ | la scala di sicu~   
+ 0.11 M fire engine | la voiture de po~ | das Löschfahrzeug | el carro de bom ~ | l'autopompa   
+ 0.12 M fire station | le poste d'incen~ | die Feuerwache | la estación de b~ | la caserma dei v~   
+ 0.13 M fire extinguisher | l'extincteur | der Feuerlöscher | el extintor | l'estintore   
+ 0.14 M fire alarm | l'avertisseur d'~ | der Feuermelder | la alarm a contr~ | l'allarme antinc~   
+ 0.15 M ax | la hache | das Beil | el hacha | l'ascia   
+ 0.16 M hydrant | la borne d'incen~ | der Hydrant | la bomba de agua | l'idrante   
+ 0.17 M smoke alarm | le détecteur de ~ | der Rauchmelder | ei detector de h~ | l'allarme antifu~   
+ 0.18 ⚠ There's been an ~ | 1! y a eu un acc~ | Es i stein Unfal~ | H a habido un ac~ | Cè stato un inci~   en es fr it
+ 0.19 ⚠ Call the police! | Appelez la polic~ | Rufen Sie die Po~ | Llam e a la poli~ | Chiamate la poli~   de en es fr it
+ 0.20 ⚠ There's a fire at | U y a un incendi~ | Esbrennt in | Ha y un incendio~ | Cè un incendio a   en es fr it
+ 0.21 ⚠ I need the polic~ | 1.a policc/ks po~ | Die Polizei/die ~ | Necesito la poli~ | Ho bisogno della~   de en es fr it
+   LEFT 'F I R E' @[244, 788] (riga singola isolata)
+====================================================================================================
+== p090 [servizi] 30 voci, 7 flag, 0 mancanti, 0 leftover, header=S ER V IC ES • LES SERVICES ♦ DIE DIENSTLEISTUNGEN • LOS SE~
+-- G0 subcat: bank • la banque • die Bank • el banco • la banca
+   parts: bank • la banque • die bank • el banco • la banca
+ 0.0  M brochures | les dépliants | die Broschüren | los folletos | i dépliants   
+ 0.1  M customer | le client | der Kunde | el cliente | il cliente   
+ 0.2  M counter | le comptoir | der Schalter | el mostrador | il banco   
+ 0.3  M window | le guichet | der Schalter | la ventanilla | lo sportello   
+ 0.4  M deposit slips | les fiches de ve~ | die Einzahlungss~ | las fichas de de~ | i moduli di vers~   
+ 0.5  M teller | le caissier | der Kassierer | el cajero | il cassiere   
+ 0.6  M amount | le montant | der Betrag | la cantidad | l'importo   
+ 0.7  M signature | la signature | die Unterschrift | la firma | la firma   
+ 0.8  M account number | le numéro de com~ | die Kontonummer | el número de cue~ | il numero di con~   
+ 0.9  M stub | le talon | der Abschnitt | la matriz | la matrice   
+ 0.10 M debit card | la carte bancaire | die EC-Karte | la tarjeta de dé~ | la carta di debi~   
+ 0.11 M check | le chèque | der Scheck | el cheque | l'assegno   
+ 0.12 M checkbook | le carnet de chè~ | das Scheckheft | el talonario de ~ | il libretto degl~   
+ 0.13 M branch manager | le directeur d'a~ | der Filialleiter | el gerente del b~ | il direttore   
+ 0.14 M credit card | la carte de créd~ | die Kreditkarte | la tarjeta de cr~ | la carta di cred~   
+ 0.15 M checking account | le compte courant | das Girokonto | la cuenta corrie~ | il conto corrente   
+ 0.16   deposit (v) | verser | einzahlen | depositar | versare   
+ 0.17 M savings | l'épargne | die Spareinlagen | los ahorros | i risparmi   
+ 0.18 M mortgage | l'hypothèque | die Hypothek | la hipoteca | l'ipoteca   
+ 0.19 M payment | le paiement | die Zahlung | el pago | il pagamento   
+ 0.20 M savings account | le compte d' épa~ | das Sparkonto | la cuenta de aho~ | il conto di risp~   
+ 0.21 M tax | l'impôt | die Steuer | los impuestos | l'imposta   
+ 0.22 M direct deposit | le virement banc~ | die Banküberweis~ | la transferencia~ | il bonifico banc~   
+ 0.23 M line of credit | le découvert | die Kontoüberzie~ | el sobregiro | lo scoperto   
+ 0.24 M automatic bill p~ | le prélèvement | der Einzugsauftr~ | el débito directo | l'addebito diret~   
+ 0.25 M pin number | le code secret | der PIN-Kode | el pin | il pin   
+ 0.26 M loan | le prêt | das Darlehen | el préstamo | il prestito   
+ 0.27 ⚠ service charge | les frais bancai~ | die Bankgebühr | I3 com isión del~ | la commissione b~   es
+ 0.28 M interest rate | le taux d' intér~ | der Zinssatz | la tasa de inter~ | il tasso d'inter~   
+ 0.29 M withdrawal slip | la fiche de retr~ | das Abhebungsfor~ | la ficha de reti~ | il modulo di pre~   
+====================================================================================================
+== p091 [servizi] 29 voci, 17 flag, 3 mancanti, 0 leftover, header=S ER V IC ES • I ES SERVICES • DIE DIENSTLEISTUNGEN • EOS S~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M coin | la picce | die Münze | la moneda | la moneta   
+ 0.1  M screen | l'écran | der Bildschirm | la pantalla | lo schermo   
+ 0.2  M card reader | la fence | der Kartenschlitz | la ranura de la ~ | la fessura per l~   
+ 0.3  M bill | lo billet | der Schein | el billete | la banconota   
+ 0.4  M keypad | le clavier | das Tastenfeld | el teclado | la tastiera   
+ 0.5  ⚠ ATM | le distributeur | der Geldautomat | el cajero automá~ | la cassa automat~   en
+ 0.6  M money | l'argent | das Geld | el dinero | il denaro   
+-- G1 subcat: étrangères
+   parts: étrangères
+ 1.0  ⚠ foreign currency | les devises | ? | ? | ?   missing
+ 1.1  ⚠ ? | ? | die ausländische | ? | ?   missing
+ 1.2    cash (v) | encaisser | einlösen | cobrar | incassare   
+ 1.3  M stocks | les actions | die Aktien | las acciones | le azioni   
+-- G2 subcat: Währung • las divisas • la valuta estera
+   parts: währung • las divisas • la valuta estera
+ 2.0  M denomination | la valeur | der Nennwert | la denominación | la denominazione   
+ 2.1  M dividends | les dividendes | die Gewinnanteile | los dividendos | i dividendi   
+ 2.2  M traveler's check | le traveller | der Reisescheck | el cheque de via~ | il travel cheque   
+ 2.3  M commission | la commission | die Provision | la comisión | la commissione   
+ 2.4  M accountant | le comprable | der Wirtschaftsp~ | el contador | il contabile   
+ 2.5  M investment | l'investissement | die Kapitalanlage | la inversión | l'investimento   
+ 2.6  M portfolio | le portefeuille | das Portefeuille | la cartera | il portafoglio   
+ 2.7  M exchange rate | le taux de change | der Wechselkurs | el tipo ile cam ~ | il tasso di camb~   
+ 2.8  M currency exchange | le bureau de cha~ | die Wechselstube | la oficina de ca~ | l'ufficio di cam~   
+ 2.9  M securities | les titres | die Wertpapiere | las acetones | i titoli   
+ 2.10 M equity | l'action | die Stammaktie | el patrimonio ne~ | il capitale netto   
+-- G3 subcat: finance • la finance • die Geldwirtschaft • las finanzas
+   parts: finance • la finance • die geldwirtschaft • las finanzas
+ 3.0  ⚠ ? | la finanza | ? | ? | ?   missing
+ 3.1  M stockbroker | l'agent de la bo~ | der Börsenmakler | el agente de bol~ | il broker   
+ 3.2  M stock price | le prix des acti~ | der Aktienpreis | el valor de las ~ | il corso per azi~   
+ 3.3  ⚠ Can 1 change thi~ | Est-ce que je pe~ | Konnte ich das b~ | Podría cam biar ~ | Posso cambiare q~   de en es fr it
+ 3.4  ⚠ W hat's today's ~ | Quel est le taux~ | Wie ist der heut~ | Cóm o está el ti~ | Qual è il tasso ~   de en es fr it
+ 3.5  M financial advisor | la conseillère f~ | die Finanzberate~ | la asesora finan~ | la consulente fi~   
+ 3.6  M stock exchange | la bourse | die Börse | la bolsa de valo~ | la borsa valori   
+====================================================================================================
+== p092 [servizi] 28 voci, 13 flag, 5 mancanti, 4 leftover, header=S ER V IC ES • I I s S E R V IC E S • DIE DIENSTLEISTUNGEN ~
+-- G0 subcat: communications • les communications • die Kommunikation • las comunicaciones • ~
+   parts: communications • les communications • die kommunikation • las comunicaciones • le comunicaz~
+ 0.0  M postal worker | le postier | der Postbeamte | el empleado de c~ | l'impiegato dell~   
+ 0.1  M window | le guichet | der Schalter | la ventanilla | lo sportello   
+ 0.2  M scale | la balance | die Waage | la báscula | la bilancia   
+ 0.3  M counter | le guichet | der Schalter | el mostrador | il banco   
+ 0.4  M post office | la poste | die Post | la oficina de co~ | l'ufficio postale   
+ 0.5  M postmark | le tampon de la ~ | der Poststempel | el matasellos | il timbro postale   
+ 0.6  M stamp | le timbre | die Briefmarke | el timbre | il francobollo   
+ 0.7  M address | l'adresse | die Adresse | la dirección | l'indirizzo   
+ 0.8  ⚠ zip code | le code postal | die Postleitzahl | el código postal | I codice di avvi~   it
+ 0.9  M mail carrier | le facteur | der Briefträger | cartero | il postino   
+ 0.10 ⚠ envelope | l'enveloppe | der Umschlag | el sobre | ?   missing
+ 0.11 ⚠ lener | a i | ? | ? | ?   missing slot-ambig
+        ALTS: [['en', 'de'], ['en', 'es'], ['en', 'it']]
+ 0.12 M return address | l'expéditeur | der Absender | el remitente | il mittente   
+ 0.13 M delivery | la distribution | die Zustellung | el reparto | la consegna   
+ 0.14   fragile | fragile | zerbrechlich | frágil | fragile   
+ 0.15 M do not bend (v) | ne pas plier | nicht falten | no doblar | non piegare   
+ 0.16 ⚠ ? | la lettre | der Brief | ? | ?   missing slot-ambig
+        ALTS: [['fr', 'de', 'it']]
+ 0.17 ⚠ ? | la carta | ? | la lettera | ?   missing slot-ambig
+        ALTS: [['fr', 'it'], ['es', 'it']]
+ 0.18 M by airmail | par avion | per Luftpost | por avión | posta aerea   
+ 0.19 M signature | la signature | die Unterschrift | la firma | la firma   
+ 0.20 M postage | le tarif d'affra~ | die Postgebühr | el franqueo | l'affrancatura   
+ 0.21 M mailbag | le sac postal | der Postsack | la bolsa de corr~ | il sacco postale   
+ 0.22 M this way up | dessus | oben | hacia arriba | alto   
+ 0.23 M pickup | la levée | die Leerung | la recogida | la raccolta   
+ 0.24 M postai order | le mandat postal | die Postanweisung | el giro postal | il vaglia postale   
+ 0.25 ⚠ telegram | le Télégramme | das Telegramm | el telegrama | il telegramma   fr
+ 0.26 M fax | le fax | das Fax | el fax | il fax   
+ 0.27 ⚠ ? | ? | ? | el correo certif~ | la posta raccoma~   missing
+   LEFT 'la busta' @[454, 750] (riga singola isolata)
+   LEFT 'registered mail | i envoi en recommande | das Einschreiben | f' @[56, 993] (blocco 4 righe non risolvibile)
+   LEFT ', A' @[143, 1036] (riga singola isolata)
+   LEFT 'i' @[173, 1036] (riga singola isolata)
+====================================================================================================
+== p093 [servizi] 25 voci, 18 flag, 0 mancanti, 0 leftover, header=S ER V IC ES ♦ LES SERVICES • DIE DIENSTLEISTUNGEN • LOS SE~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M courier | le service de me~ | der Kurierdienst | la mensajería | il corriere   
+ 0.1  M letter slot | la boîte aux let~ | der Hausbriefkas~ | el buzón | la cassetta dell~   
+ 0.2  M mailbox | la boire aux let~ | der Briefkasten | el buzón | la buca delle le~   
+ 0.3  M parcel | le colis | das Paket | el paquete | il pacco   
+-- G1 subcat: telephone • le téléphone • das Telefon • el teléfono • il telefono
+   parts: telephone • le téléphone • das telefon • el teléfono • il telefono
+ 1.0  ⚠ handset le com b~ | le téléphone san~ | das schnurlose T~ | el teléfono inal~ | I telefono senza~   it
+ 1.1  ⚠ answering machine | le répondeur | der Anrufbeantwo~ | la contestador j | la segreteria te~   es
+ 1.2  M phone booth | la cabine téléph~ | die Telefonzelle | laca bina telefó~ | la cabina telefo~   
+ 1.3  M video phone | le visiophone | das Fernsehtelef~ | el videoteléfono | il videoteléfono   
+ 1.4  M receiver | le combiné | der Hörer | el auricular | il ricevitore   
+ 1.5  M keypad | le clavier | das Tastenfeld | el teclado | la tastiera   
+ 1.6  M coin return | le rendu de monn~ | die Münzruckgabe | las monedas devu~ | le monete non ut~   
+ 1.7  M card phone | le téléphone à c~ | das Kartentelefon | el teléfono de t~ | il telefono a sc~   
+ 1.8  M pay phone | le téléphone à p~ | der Münzfernspre~ | el teléfono de m~ | il telefono a mo~   
+ 1.9  M cellular phone | le porra blé | das Handy | el celular | il telefonino   
+ 1.10 ⚠ Can you give me ~ | Pouvez-vous me d~ | num éro p o u r.~ | Können Sie mir d~ | für...geben? M e~   de en es fr it wrap
+        ALTS: [{'en': 'Can you give me the number for...?', 'fr': 'Pouvez-vous me donner le', 'de': 'num éro p o u r...?', 'es': 'Können Sie mir die Nummer für...geben?', 'it': '¿M e podría dar el núm ero d e ...? Può darmi il numero per...?'}, {'en': 'Can you give me the number for...?', 'fr': 'Pouvez-vous me donner le', 'de': 'num éro p o u r...?', 'es': 'Können Sie mir die Nummer für...geben? ¿M e podría dar el núm ero d e ...?', 'it': 'Può darmi il numero per...?'}]
+ 1.11 M operator | le téléphoniste | die Vermittlung | el operador | l'operatore   
+ 1.12   answer (v) | répondre | abheben | contestar | rispondere   
+ 1.13 M directory assist~ | les renseignemen~ | die Auskunft | la información t~ | le informazioni ~   
+ 1.14   busy | occupé | besetzt | ocupado | occupato   
+ 1.15 M text message | le texto | die sMS | el mensaje de te~ | il messaggio di ~   
+ 1.16 ⚠ collect call | le R C V | das R-Gespräch | la llamada a por~ | la chiamata a ca~   fr
+ 1.17 ⚠ W hat is the are~ | Quel est V indic~ | Was ist die Vorw~ | Cual e sel prefi~ | distancia para l~   de en es fr it wrap
+        ALTS: [{'en': 'W hat is the area code fon..?', 'fr': 'Quel est V indicatif pour...?', 'de': 'Was ist die Vorwahl für...?', 'es': '¿C ual es el prefijo de larga distancia para llam ar a ...?', 'it': 'Qual è il prefisso per...?'}, {'en': 'W hat is the area code fon..?', 'fr': 'Quel est V indicatif pour...?', 'de': 'Was ist die Vorwahl für...? ¿C ual es el prefijo de larga', 'es': 'distancia para llam ar a ...?', 'it': 'Qual è il prefisso per...?'}]
+ 1.18   disconnected | coupé | unterbrochen | desconectado | staccato   
+ 1.19 M voice message | le message vocal | die Sprachmittei~ | el mensaje de voz | il messaggio voc~   
+ 1.20   dial (v) | composer | wählen | marcar | comporre   
+====================================================================================================
+== p094 [servizi] 17 voci, 10 flag, 1 mancanti, 0 leftover, header=S ER V IC ES • 1 R S S E R V I C E S • DIE DIENSTLEISTUNGEN~
+-- G0 subcat: hotel • l'hôtel • das Hotel • el hotel • l'albergo lobby • le hall • die Empfan~
+   parts: hotel • l'hôtel • das hotel • el hotel • l'albergo lobby • le hall • die empfangshalle • el~
+ 0.0  M guest | le client | der Gast | el huésped | l'ospite   
+ 0.1  M room key | la clef de la ch~ | der Zimmerschlüs~ | la llave de la h~ | la chiave della ~   
+ 0.2  M pigeonhole | le casier | das Fach | la casilla | la casella   
+ 0.3  M messages | les messages | die Nachrichten | los mensajes | i messaggi   
+ 0.4  ⚠ receptionist | la réceptionniste | die Empfangsdame | la recepcionista | "addetta alla ri~   it
+ 0.5  M register | le registre | das Gästebuch | el registro | il registro   
+ 0.6  ⚠ counter | U com ptoir | der Schalter | el mostrador | il banco   fr
+ 0.7  ⚠ reception | la réception | der Empfang | la recepción- la~ | ?   missing
+ 0.8  M luggage | les bagages | das Gepäck | el equipaje | il bagaglio   
+ 0.9  M luggage rack | le diable | der Kofferkuli | el diablito | il carrello   
+ 0.10 M room number | le numéro de cha~ | die Zimmernummer | el número de la ~ | il numero della ~   
+ 0.11 M porter | le porteur | der Hoteldiener | el botones | il facchino   
+ 0.12 M escaltor | l'ascenseur | der Fahrstuhl | el elevador | l'ascensore   
+-- G1 subcat: rooms • les chambres • die Zimmer • los habitaciones • le camere
+   parts: rooms • les chambres • die zimmer • los habitaciones • le camere
+ 1.0  M single room | la chambre simple | das Einzelzimmer | la habitación se~ | la camera singola   
+ 1.1  M twin room | la chambre à deu~ | das Zweibettzimm~ | la habitación co~ | la camera a due ~   
+ 1.2  M private bathroom | la salle de bain~ | das Privatbadezi~ | el baño privado | il bagno privato   
+ 1.3  M double room | la chambre double | das Doppelzimmer | la habitación do~ | la camera doppia   
+====================================================================================================
+== p095 [servizi] 17 voci, 15 flag, 1 mancanti, 0 leftover, header=S ER V IC ES • LES SERVICES • DIE DIENSTLEISTUNGEN • LOS SE~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ breakfast tray | le plateau a pér~ | das Frühstucksta~ | la charola del d~ | ?   missing
+-- G1 subcat: services • les services • die Dienstleistungen • los servicios • i S ervizi
+   parts: services • les services • die dienstleistungen • los servicios • i servizi
+ 1.0  M laundry service | le service de bl~ | der Wäschedienst | el servicio de l~ | il servizio di l~   
+ 1.1  M maid service | le service de mé~ | die Zimmerreinig~ | el servicio de l~ | il servizio di p~   
+ 1.2  M room service | le service d'éta~ | der Zimmerservice | el servicio de h~ | il servizio in c~   
+ 1.3  M gym | la salle de sporr | der Fitnessraum | el gimnasio | la palestra   
+ 1.4  M swimming pool | la piscine | das Schwimmbad | la piscina | la piscina   
+ 1.5  M restaurant | le restaurant | das Restaurant | el restaurante | il ristorante   
+ 1.6  ⚠ minibar | le m inibar | die Minibar | el m inlbar | il minibar   es fr
+ 1.7  ⚠ I'd like a room ~ | Je voudrais une ~ | Ich möchte ein Z~ | Q uiero una habi~ | Vorrei una camer~   en es fr it
+ 1.8  ⚠ Do you have any ~ | Avez-vous une ch~ | Haben Sie ein Zi~ | Tiene alguna hab~ | Avete una camera~   de en es fr it
+ 1.9  M full board | la pension compl~ | die Vollpension | la pensión compl~ | la pensione comp~   
+ 1.10 ⚠ W hat is the cha~ | Test combien par~ | Was kostet das Z~ | Cuánto cuesta la~ | Quanto costa la ~   de en es fr it
+ 1.11 ⚠ 1 have a reserva~ | J' ai une réserv~ | Ich habe ein Zim~ | Tengo una reserv~ | Ho una prenotazi~   en es fr it
+ 1.12 M half board | la demi-pension | die Halbpension | la media pensión | la mezza pensione   
+ 1.13 ⚠ When do 1 have t~ | Q uand est-ce qu~ | Wann muss ich da~ | Cuándo tengo que~ | Quando devo lasc~   de en es fr it
+ 1.14 ⚠ I'd like a singl~ | Je voudrais une ~ | Ich mochte ein E~ | Qui ero una habi~ | Vorrei una camer~   en es fr it
+ 1.15 M bed and breakfast | la chambre avec ~ | die Übernachtung~ | la habitación co~ | la pensione con ~   
+====================================================================================================
+== p096 [servizi] PAGINA DIVISORIA / SENZA VOCI

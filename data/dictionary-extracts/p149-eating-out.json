@@ -1,0 +1,415 @@
+{
+ "page": 149,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "cena",
+   "names": {
+    "en": "dinner",
+    "fr": "le repas",
+    "de": "die hauptmahlzeit",
+    "es": "la comida principal",
+    "it": "la cena"
+   },
+   "entries": [
+    {
+     "en": "soup",
+     "fr": "potage",
+     "de": "Suppe",
+     "es": "sopa",
+     "it": "minestra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "broth",
+     "fr": "bouillon",
+     "de": "Brühe",
+     "es": "caldo",
+     "it": "zuppa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "stew",
+     "fr": "ragoût",
+     "de": "Eintopf",
+     "es": "guiso",
+     "it": "stufato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "curried lamb",
+     "fr": "cu rrv",
+     "de": "Curry",
+     "es": "curry",
+     "it": "curry",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "roast",
+     "fr": "rôti",
+     "de": "Braten",
+     "es": "asado",
+     "it": "arrosto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "pie",
+     "fr": "tourte",
+     "de": "Pastete",
+     "es": "empanada",
+     "it": "pasticcio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "soufflé",
+     "fr": "soufflé",
+     "de": "Soufflé",
+     "es": "soufflé",
+     "it": "soufflé",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "kabob",
+     "fr": "chiche-kébah",
+     "de": "Schaschlik",
+     "es": "brocheta",
+     "it": "spiedino",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "noodles",
+     "fr": "nouilles",
+     "de": "Nudeln",
+     "es": "fideos",
+     "it": "taglierini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "meatballs",
+     "fr": "bou lenes de viande",
+     "de": "Fleischklöße",
+     "es": "albóndigas",
+     "it": "polpette",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 13,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "omelette",
+     "fr": "omelette",
+     "de": "Omelett",
+     "es": "om elette",
+     "it": "frittata",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "stir fry",
+     "fr": "sauté",
+     "de": "Schnellbratgericht",
+     "es": "revuelto",
+     "it": "frittura",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 18,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "pasta",
+     "fr": "pâtes",
+     "de": "Nudeln",
+     "es": "pasta",
+     "it": "pasta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "rice",
+     "fr": "riz",
+     "de": "Reis",
+     "es": "arroz",
+     "it": "riso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 4,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "tossed salad",
+     "fr": "salade composée",
+     "de": "gemischte Salat",
+     "es": "ensalada mixta",
+     "it": "insalata mista",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 14,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "green salad",
+     "fr": "salade verte",
+     "de": "grüne Salat",
+     "es": "ensalada verde",
+     "it": "insalata verde",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "dressing",
+     "fr": "vinaigrette",
+     "de": "Salatsoße",
+     "es": "aderezo",
+     "it": "condimento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,277 @@
+{
+ "page": 77,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "decorating • la décoration • das Tapezieren • la decoración • la decorazione",
+   "parts": [
+    "decorating",
+    "la décoration",
+    "das tapezieren",
+    "la decoración",
+    "la decorazione"
+   ],
+   "entries": [
+    {
+     "en": "wallpaper brush",
+     "fr": "la brosse à tapisser",
+     "de": "die Tapezierbürste",
+     "es": "la brocha de tapicero",
+     "it": "la spazzola",
+     "_pos": [
+      765,
+      135
+     ],
+     "_flags": []
+    },
+    {
+     "en": "decorator",
+     "fr": "le Tapissier décorateur",
+     "de": "der Tapezierer",
+     "es": "el pintor",
+     "it": "il decoratore",
+     "_pos": [
+      281,
+      183
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "scissors",
+     "fr": "les ciseaux",
+     "de": "die Tapezierschere",
+     "es": "las tijeras",
+     "it": "le forbici",
+     "_pos": [
+      65,
+      231
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pasting table",
+     "fr": "la table à encoller",
+     "de": "der Tapeziertisch",
+     "es": "la mesa de encolar",
+     "it": "il tavolo da lavoro",
+     "_pos": [
+      764,
+      251
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wallpaper",
+     "fr": "le papier peint",
+     "de": "die Tapete",
+     "es": "el papel tapiz",
+     "it": "la carta da parati",
+     "_pos": [
+      281,
+      331
+     ],
+     "_flags": []
+    },
+    {
+     "en": "craft knife",
+     "fr": "le cutter",
+     "de": "das Tapeziermesser",
+     "es": "el cúter",
+     "it": "il coltello da pacchi",
+     "_pos": [
+      66,
+      347
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pasting bmsh",
+     "fr": "la brosse à encoller",
+     "de": "die Kleisterbürste",
+     "es": "la brocha de encolar",
+     "it": "il pennello da colla",
+     "_pos": [
+      764,
+      349
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wallpaper paste",
+     "fr": "la colle à tapisser",
+     "de": "der Tapetenkleister",
+     "es": "el pega mento para tapizar",
+     "it": "la colla da parati",
+     "_pos": [
+      765,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stepladder",
+     "fr": "Pesca beau",
+     "de": "die Trittleiter",
+     "es": "la escalera de mano",
+     "it": "la scala a pioli",
+     "_pos": [
+      280,
+      463
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "plumb line",
+     "fr": "le fil à plomb",
+     "de": "das Senkblei",
+     "es": "la plomada",
+     "it": "il filo a piombo",
+     "_pos": [
+      66,
+      479
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bucket",
+     "fr": "le scau",
+     "de": "der Eimer",
+     "es": "la cubeta",
+     "it": "il secchio",
+     "_pos": [
+      765,
+      549
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scraper",
+     "fr": "le grattoir",
+     "de": "der Spachtel",
+     "es": "la espátula",
+     "it": "il raschietto",
+     "_pos": [
+      65,
+      611
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wallpaper (v)",
+     "fr": "tapisser",
+     "de": "tapezieren",
+     "es": "tapizar",
+     "it": "tappezzare",
+     "_pos": [
+      432,
+      631
+     ],
+     "_flags": []
+    },
+    {
+     "en": "strip (v)",
+     "fr": "décoller",
+     "de": "abziehen",
+     "es": "despegar",
+     "it": "staccare",
+     "_pos": [
+      64,
+      843
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fill (v)",
+     "fr": "mastiquer",
+     "de": "spachteln",
+     "es": "rellenar",
+     "it": "otturare",
+     "_pos": [
+      350,
+      845
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sand (v)",
+     "fr": "poncer",
+     "de": "schmirgeln",
+     "es": "lijar",
+     "it": "scartavetrare",
+     "_pos": [
+      636,
+      846
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plaster (v)",
+     "fr": "plâtrer",
+     "de": "verputzen",
+     "es": "enyesar",
+     "it": "intonacare",
+     "_pos": [
+      64,
+      1059
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hang (v)",
+     "fr": "poser",
+     "de": "anbringen",
+     "es": "empapelar",
+     "it": "incollare",
+     "_pos": [
+      350,
+      1061
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tile (v)",
+     "fr": "carreler",
+     "de": "kacheln",
+     "es": "poner azulejos",
+     "it": "piastrellare",
+     "_pos": [
+      635,
+      1062
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "2 £ , ;,",
+   "pos": [
+    702,
+    582
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 4,
+  "flagged": 15,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

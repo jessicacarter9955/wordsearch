@@ -1,0 +1,380 @@
+{
+ "page": 31,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "abbigliamento-donna",
+   "names": {
+    "en": "women's clothing",
+    "fr": "les vêtements pour femmes",
+    "de": "die Damenkleidung",
+    "es": "la ropa de dama",
+    "it": "l'abbigliamento da donna"
+   },
+   "entries": [
+    {
+     "en": "strapless",
+     "fr": "sans bretelles",
+     "de": "trägerlos",
+     "es": "sin tirantes",
+     "it": "senza spalline",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 9,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "neckline",
+     "fr": "encolure",
+     "de": "Ausschnitt",
+     "es": "escote",
+     "it": "scollatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 10,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "jacket",
+     "fr": "veste",
+     "de": "Jacke",
+     "es": "saco",
+     "it": "giacca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "sleeveless",
+     "fr": "sans manches",
+     "de": "ärmellos",
+     "es": "sin mangas",
+     "it": "senza maniche",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 8,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "seam",
+     "fr": "couture",
+     "de": "Naht",
+     "es": "costura",
+     "it": "cucitura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "ankle length",
+     "fr": "long",
+     "de": "knöchellang",
+     "es": "largo",
+     "it": "alla caviglia",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 4,
+      "de": 11,
+      "es": 5,
+      "it": 12
+     }
+    },
+    {
+     "en": "sleeve",
+     "fr": "manche",
+     "de": "Ärmel",
+     "es": "manga",
+     "it": "manica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "dress",
+     "fr": "robe",
+     "de": "Kleid",
+     "es": "vestido",
+     "it": "vestito",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "evening dress",
+     "fr": "robe du soir",
+     "de": "Abendkleid",
+     "es": "traje de noche",
+     "it": "abito da sera",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 10,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "skirt",
+     "fr": "jupe",
+     "de": "Rock",
+     "es": "falda",
+     "it": "gonna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "blouse",
+     "fr": "chemisier",
+     "de": "Bluse",
+     "es": "blusa",
+     "it": "camicetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 5,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "knee-length",
+     "fr": "à genou",
+     "de": "knielang",
+     "es": "hasta la rodilla",
+     "it": "al ginocchio",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 8,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "hem",
+     "fr": "ourlet",
+     "de": "Saum",
+     "es": "dobladillo",
+     "it": "orlo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 4,
+      "es": 10,
+      "it": 4
+     }
+    },
+    {
+     "en": "pants",
+     "fr": "pantalon",
+     "de": "Hose",
+     "es": "pantalones",
+     "it": "pantaloni",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 4,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "panty hose",
+     "fr": "collants",
+     "de": "Strumpfhose",
+     "es": "pantim edias",
+     "it": "collant",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 11,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "shoes",
+     "fr": "chaussures",
+     "de": "Schuhe",
+     "es": "zapatos",
+     "it": "scarpe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "casual",
+     "fr": "décontracté",
+     "de": "leger",
+     "es": "casual",
+     "it": "casual",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "de 'leger' corretto (parola tedesca per casual). en di 0.14 ricostruito (riga persa nell'OCR)."
+}

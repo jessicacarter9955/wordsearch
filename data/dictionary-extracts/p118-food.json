@@ -1,0 +1,470 @@
+{
+ "page": 118,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "orange",
+     "fr": "orange",
+     "de": "Orange",
+     "es": "naranja",
+     "it": "arancio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "clementine",
+     "fr": "clémentine",
+     "de": "Klementine",
+     "es": "mandarina clementina",
+     "it": "clementina",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 19,
+      "it": 10
+     }
+    },
+    {
+     "en": "peach",
+     "fr": "pêche",
+     "de": "Pfirsich",
+     "es": "durazno",
+     "it": "pesca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "nectarine",
+     "fr": "nectarine",
+     "de": "Nektarine",
+     "es": "nectarina",
+     "it": "pesca noce",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "pulp",
+     "fr": "peau",
+     "de": "bianche die weiße",
+     "es": "Haut",
+     "it": "l api ella scorza interna",
+     "_multi": [
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 16,
+      "es": 4,
+      "it": 21
+     }
+    },
+    {
+     "en": "apricot",
+     "fr": "abricot",
+     "de": "Aprikose",
+     "es": "chabacano",
+     "it": "albicocca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "plum",
+     "fr": "prune",
+     "de": "Pflaume",
+     "es": "ciruela",
+     "it": "prugna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "cherry",
+     "fr": "cerise",
+     "de": "Kirsche",
+     "es": "cereza",
+     "it": "ciliegia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "tángelo",
+     "fr": "tángelo",
+     "de": "Tángelo",
+     "es": "ugli",
+     "it": "mapo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "grapefruit",
+     "fr": "pamplemousse",
+     "de": "Grapefruit",
+     "es": "toronja",
+     "it": "pompeimo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "apple",
+     "fr": "pomme",
+     "de": "Apfel",
+     "es": "manzana",
+     "it": "mela",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "fr": "quartier",
+     "de": "Rippe",
+     "es": "gajo",
+     "it": "spicchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "fr": 8,
+      "de": 5,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "pear",
+     "fr": "poire",
+     "de": "Birne",
+     "es": "pera",
+     "it": "pera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "satsurria",
+     "fr": "satsuma",
+     "de": "Satsuma",
+     "es": "m andarina satsum a",
+     "it": "satsuma",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 7,
+      "es": 16,
+      "it": 7
+     }
+    },
+    {
+     "en": "tangerine",
+     "fr": "mandarine",
+     "de": "Mandarine",
+     "es": "m andarina il mandarino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 20
+     }
+    },
+    {
+     "en": "zest",
+     "fr": "zeste",
+     "de": "Schale",
+     "es": "cáscara",
+     "it": "buccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "lime",
+     "fr": "cirròn vert",
+     "de": "Limone",
+     "es": "lima",
+     "it": "limetta",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 6,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "lemon",
+     "fr": "citron",
+     "de": "Zitrone",
+     "es": "limón",
+     "it": "limone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "kumquat",
+     "fr": "kum quat",
+     "de": "Kumquat",
+     "es": "naranja vhina",
+     "it": "arancino cinese",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "basket of fruit",
+     "fr": "corbeille de fruits",
+     "de": "Obstkorb",
+     "es": "frutero",
+     "it": "cestino rii frutta",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 8,
+      "es": 7,
+      "it": 16
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

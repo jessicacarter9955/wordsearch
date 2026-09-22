@@ -1,0 +1,192 @@
+{
+ "page": 248,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • Lfc T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "outdoor activities • les activités de plein air • die Aktivitäten im Freien • las actividades al aire libre • le attività all'aria aperta",
+   "parts": [
+    "outdoor activities",
+    "les activités de plein air",
+    "die aktivitäten im freien",
+    "las actividades al aire libre",
+    "le attività all'aria aperta"
+   ],
+   "entries": [
+    {
+     "en": "sundial",
+     "fr": "le cadran solaire",
+     "de": "die Sonnenuhr",
+     "es": "el reloj de sol",
+     "it": "la meridiana",
+     "_pos": [
+      251,
+      147
+     ],
+     "_flags": []
+    },
+    {
+     "en": "footpath",
+     "fr": "le sentier",
+     "de": "der Fußweg",
+     "es": "el sendero",
+     "it": "il sentiero",
+     "_pos": [
+      56,
+      158
+     ],
+     "_flags": []
+    },
+    {
+     "en": "café",
+     "fr": "le café",
+     "de": "das Café",
+     "_pos": [
+      578,
+      162
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "park",
+     "fr": "le parc",
+     "de": "der Park",
+     "es": "el parque",
+     "it": "il parco",
+     "_pos": [
+      53,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "formai gardens",
+     "fr": "les jardins à la française",
+     "de": "die Gartenanlagen",
+     "es": "los jardines clásicos",
+     "it": "il giardino all'italiana",
+     "_pos": [
+      718,
+      703
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le banc",
+     "de": "die Bank",
+     "es": "la banca",
+     "it": "la panchina",
+     "_pos": [
+      622,
+      719
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "de": "das Gras",
+     "es": "el pasto",
+     "it": "il prato",
+     "_pos": [
+      516,
+      735
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "roller coaster",
+     "fr": "les montagnes russes",
+     "de": "die Berg-und-Talbahn",
+     "es": "la montaña rusa",
+     "it": "le montagne russe",
+     "_pos": [
+      82,
+      748
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fair",
+     "fr": "la foire",
+     "de": "der Jahrmarkt",
+     "es": "la feria",
+     "it": "il luna park",
+     "_pos": [
+      52,
+      1010
+     ],
+     "_flags": []
+    },
+    {
+     "en": "amusement park",
+     "fr": "le parc d'attractions",
+     "de": "der Vergnügungspark",
+     "es": "el parque de diversiones",
+     "it": "il parco a tema",
+     "_pos": [
+      264,
+      1012
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wildlife park",
+     "fr": "la réserve",
+     "de": "der Safaripark",
+     "es": "el safari park",
+     "it": "lo zoosafari",
+     "_pos": [
+      477,
+      1013
+     ],
+     "_flags": []
+    },
+    {
+     "en": "zoo",
+     "fr": "le zoo",
+     "de": "der Zoo",
+     "es": "el zoológico",
+     "it": "lo zoo",
+     "_pos": [
+      690,
+      1014
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "louse",
+   "pos": [
+    548,
+    719
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 12,
+  "complete_clean": 3,
+  "flagged": 9,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

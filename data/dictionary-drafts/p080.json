@@ -1,0 +1,316 @@
+{
+ "page": 80,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "soil • le sol • der",
+   "parts": [
+    "soil",
+    "le sol",
+    "der"
+   ],
+   "entries": [
+    {
+     "en": "path",
+     "fr": "l'allée",
+     "de": "der Weg",
+     "es": "el camino",
+     "_pos": [
+      412,
+      86
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "compost heap",
+     "fr": "le ras de compost",
+     "de": "der Komposthaufen",
+     "es": "la composta",
+     "_pos": [
+      506,
+      86
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "patio",
+     "fr": "le pavé",
+     "de": "die Platten",
+     "es": "la terraza",
+     "it": "la pavimentazione",
+     "_pos": [
+      144,
+      88
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Boden",
+     "fr": "la tierra",
+     "it": "il terreno",
+     "_pos": [
+      720,
+      105
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "en:case"
+     ]
+    },
+    {
+     "en": "gate",
+     "fr": "le portail",
+     "de": "das Tor",
+     "es": "el portón",
+     "it": "il cancello",
+     "_pos": [
+      629,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flowerbed",
+     "fr": "le parterre",
+     "de": "das Blumenbeet",
+     "es": "el parterre",
+     "it": "l'aivola",
+     "_pos": [
+      46,
+      183
+     ],
+     "_flags": []
+    },
+    {
+     "en": "topsoil",
+     "fr": "la terre",
+     "de": "die Erde",
+     "es": "la capa superior de la tierra",
+     "it": "lo strato superficiale",
+     "_pos": [
+      720,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shed",
+     "fr": "la cabane",
+     "de": "der Schuppen",
+     "es": "el cobertizo",
+     "it": "il capanno",
+     "_pos": [
+      618,
+      449
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sand",
+     "fr": "le sable",
+     "de": "der Sand",
+     "es": "la arena",
+     "it": "la sabbia",
+     "_pos": [
+      722,
+      449
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lawn",
+     "fr": "l.i pelouse",
+     "de": "der Rasen",
+     "es": "el césped",
+     "it": "il prato",
+     "_pos": [
+      50,
+      520
+     ],
+     "_flags": [
+      "fr:weird:l.i"
+     ]
+    },
+    {
+     "en": "greenhouse",
+     "fr": "la serre",
+     "de": "das Gewächshaus",
+     "es": "el invernadero",
+     "it": "la ghiaia",
+     "_pos": [
+      588,
+      565
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fence",
+     "fr": "la clôture",
+     "de": "der Zaun",
+     "es": "la valla",
+     "it": "il recinto",
+     "_pos": [
+      510,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pond",
+     "fr": "le bassin",
+     "de": "der Teich",
+     "es": "el estanque",
+     "it": "lo stagno",
+     "_pos": [
+      89,
+      619
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chalk",
+     "fr": "la chaux",
+     "de": "der Kalk",
+     "es": "la creta",
+     "it": "il gesso",
+     "_pos": [
+      724,
+      647
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hedge",
+     "fr": "la haie",
+     "de": "die Hecke",
+     "es": "el seto",
+     "it": "la siepe",
+     "_pos": [
+      184,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herbaceous border",
+     "fr": "la bordure de plantes herbacées",
+     "de": "die Staudenrabatte",
+     "es": "el arriate de plantas herbáceas",
+     "it": "il bordo erbaceo",
+     "_pos": [
+      501,
+      714
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arch",
+     "fr": "arceau",
+     "de": "der Bogen",
+     "es": "el arco",
+     "it": "l'arco",
+     "_pos": [
+      263,
+      716
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le p o rg e r",
+     "de": "der Gemüsegarten",
+     "es": "el huerto",
+     "it": "l'orto",
+     "_pos": [
+      369,
+      732
+     ],
+     "_flags": [
+      "missing:en",
+      "fr:short:p",
+      "fr:short:r"
+     ]
+    },
+    {
+     "en": "silt",
+     "fr": "le vase",
+     "de": "der Schlick",
+     "es": "el cieno",
+     "it": "il limo",
+     "_pos": [
+      725,
+      837
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clay",
+     "fr": "l'argile",
+     "de": "der Lehm",
+     "es": "la arcilla",
+     "it": "l'argilla",
+     "_pos": [
+      728,
+      1044
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deck",
+     "fr": "les planches",
+     "de": "die Banken",
+     "es": "el entarimado",
+     "it": "ti patio in legno",
+     "_pos": [
+      54,
+      1049
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fountain",
+     "fr": "la fontaine",
+     "de": "der Springbrunnen",
+     "es": "la fuente",
+     "it": "la fontana",
+     "_pos": [
+      268,
+      1080
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 9,
+  "flagged": 13,
+  "missing_lang": 4,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

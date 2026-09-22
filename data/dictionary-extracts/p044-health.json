@@ -1,0 +1,584 @@
+{
+ "page": 44,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "ospedale",
+   "names": {
+    "en": "hospital",
+    "fr": "l'hôpital",
+    "de": "das Krankenhaus",
+    "es": "el hospital",
+    "it": "l'ospedale"
+   },
+   "entries": [
+    {
+     "en": "surgeon",
+     "fr": "chirurgien",
+     "de": "Chirurg",
+     "es": "cirujano",
+     "it": "chirurgo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "chart",
+     "fr": "courbe",
+     "de": "Patiententabelle",
+     "es": "gráfica del paciente",
+     "it": "scheda del paziente",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 16,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "blood test",
+     "fr": "analyse de sang",
+     "de": "Blutuntersuchung",
+     "es": "análisis de sangre",
+     "it": "analisi del sangue",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 16,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "nurse",
+     "fr": "infirmier",
+     "de": "Krankenschwester",
+     "es": "enfermera",
+     "it": "infermiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 16,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "anesthetist",
+     "fr": "anesthésiste",
+     "de": "Anästhesist",
+     "es": "anestesista",
+     "it": "anestetista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "injection",
+     "fr": "injection",
+     "de": "Spritze",
+     "es": "inyección",
+     "it": "iniezione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "call button",
+     "fr": "bouton d' appel",
+     "de": "Rufknopf",
+     "es": "timbre",
+     "it": "pulsante di chiamata",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 8,
+      "es": 6,
+      "it": 18
+     }
+    },
+    {
+     "en": "x-ray",
+     "fr": "radio",
+     "de": "Röntgenaufnahme",
+     "es": "radiografía",
+     "it": "radiografia",
+     "_multi": [],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 15,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "emergency room",
+     "fr": "salle des urgences",
+     "de": "Notaufnahme",
+     "es": "sala de urgencias",
+     "it": "sala emergenze",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 11,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "ward",
+     "fr": "salle",
+     "de": "Krankenhausstation",
+     "es": "planta",
+     "it": "reparto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 18,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "wheelchair",
+     "fr": "chaise roulante",
+     "de": "Rollstuhl",
+     "es": "silla de ruedas",
+     "it": "sedia a rotelle",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 9,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "scan",
+     "fr": "scanographie",
+     "de": "CT-Scan",
+     "es": "ultrasonido",
+     "it": "ecografia",
+     "_multi": [],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 12,
+      "de": 6,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "operation",
+     "fr": "operation",
+     "de": "Operation",
+     "es": "operación",
+     "it": "operazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "discharged",
+     "fr": "renvoyé",
+     "de": "entlassen",
+     "es": "dado de alta",
+     "it": "dimesso",
+     "_multi": [
+      "es"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 9,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "visiting hours",
+     "fr": "heures de visite",
+     "de": "Besuchszeiten",
+     "es": "horas de visita",
+     "it": "orario delle visite",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 13,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "maternity ward",
+     "fr": "maternité",
+     "de": "Entbindungsstation",
+     "es": "sala de maternidad",
+     "it": "reparto maternità",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 18,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "intensive care unit",
+     "fr": "service de soins intensifs",
+     "de": "Intensivstation",
+     "es": "unidad de cuidados intensivos",
+     "it": "reparto di cura intensiva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 23,
+      "de": 15,
+      "es": 26,
+      "it": 22
+     }
+    },
+    {
+     "en": "admitted",
+     "fr": "admis",
+     "de": "aufgenommen",
+     "es": "internado",
+     "it": "ricoverato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 11,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "clinic",
+     "fr": "clinique",
+     "de": "Klinik",
+     "es": "clin ica",
+     "it": "clinica",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "children's ward",
+     "fr": "pédiatrie",
+     "de": "Kinderstation",
+     "es": "sala de pediatría",
+     "it": "reparto pediatrico",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 13,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "private room",
+     "fr": "chambre privée",
+     "de": "Privatzimmer",
+     "es": "habitación privada",
+     "it": "camera privata",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 12,
+      "es": 17,
+      "it": 13
+     }
+    },
+    {
+     "en": "outpatient",
+     "fr": "malade en consultation externe",
+     "de": "ambulante Patient",
+     "es": "paciente extem o",
+     "it": "paziente esterno",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 27,
+      "de": 16,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "operating room",
+     "fr": "salle d'opération",
+     "de": "Operationssaal",
+     "es": "quirófano",
+     "it": "sala operatoria",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 14,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "gurney",
+     "fr": "chariot",
+     "de": "fahrbare Liege",
+     "es": "camilla",
+     "it": "lettiga",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 13,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ]
+}

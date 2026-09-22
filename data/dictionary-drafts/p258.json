@@ -1,0 +1,304 @@
+{
+ "page": 258,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIB R E • D IE F R E IZ E IT • EL O C IO • IL TEM P O LIBER O",
+ "groups": [
+  {
+   "names_raw": "games • les jeux • die Spiele • los juegos • i giochi",
+   "parts": [
+    "games",
+    "les jeux",
+    "die spiele",
+    "los juegos",
+    "i giochi"
+   ],
+   "entries": [
+    {
+     "en": "white",
+     "fr": "blanc",
+     "de": "weiß",
+     "es": "blanco",
+     "_pos": [
+      402,
+      134
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "queen",
+     "fr": "la dame",
+     "de": "die Dame",
+     "es": "la reina",
+     "_pos": [
+      599,
+      134
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "king",
+     "fr": "le roi",
+     "de": "der König",
+     "es": "el rey",
+     "it": "il re",
+     "_pos": [
+      728,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "black",
+     "fr": "noir",
+     "de": "schwarz",
+     "es": "negro",
+     "it": "nero",
+     "_pos": [
+      296,
+      135
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chessboard",
+     "fr": "i'cchiq uicr",
+     "de": "das Schachbrett",
+     "es": "el tablero de ajedrez",
+     "it": "la scacchiera",
+     "_pos": [
+      118,
+      184
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bishop",
+     "fr": "le fou",
+     "de": "der Läufer",
+     "es": "el alfil",
+     "it": "l'alfiere",
+     "_pos": [
+      766,
+      281
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pawn",
+     "fr": "le pion",
+     "de": "der Bauer",
+     "es": "el peón",
+     "it": "il pendone",
+     "_pos": [
+      106,
+      348
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rook",
+     "fr": "la tour",
+     "de": "der Turm",
+     "es": "la torre",
+     "it": "la torre",
+     "_pos": [
+      749,
+      412
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knight",
+     "fr": "le cavalier",
+     "de": "der Springer",
+     "es": "el caballo",
+     "it": "il cavallo",
+     "_pos": [
+      192,
+      447
+     ],
+     "_flags": []
+    },
+    {
+     "en": "square",
+     "fr": "la case",
+     "de": "das Feld",
+     "es": "la casilla",
+     "it": "la",
+     "_pos": [
+      60,
+      513
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tile",
+     "fr": "la pièce",
+     "de": "der Stein",
+     "es": "la ficha",
+     "it": "la pedina",
+     "_pos": [
+      756,
+      528
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chess",
+     "fr": "les échecs",
+     "de": "das Schach",
+     "es": "el ajedrez",
+     "it": "gli scacchi",
+     "_pos": [
+      274,
+      545
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scrabble",
+     "fr": "le scrabble",
+     "de": "das Scrabble",
+     "es": "el scrabble",
+     "it": "Io scrabble",
+     "_pos": [
+      485,
+      758
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "checkers",
+     "fr": "les dames",
+     "de": "das Damespiel",
+     "es": "las damas",
+     "it": "la dama",
+     "_pos": [
+      60,
+      759
+     ],
+     "_flags": []
+    },
+    {
+     "en": "counter",
+     "fr": "le jeton",
+     "de": "die Spielmarke",
+     "es": "la ficha",
+     "it": "la pedina",
+     "_pos": [
+      584,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "monopoly",
+     "fr": "le m onopoly",
+     "de": "das Monopoly",
+     "es": "el monopolio",
+     "it": "I monopoly",
+     "_pos": [
+      786,
+      814
+     ],
+     "_flags": [
+      "fr:short:m",
+      "it:case"
+     ]
+    },
+    {
+     "fr": "le dé",
+     "de": "der Würfel",
+     "es": "el dado",
+     "it": "il dado",
+     "_pos": [
+      442,
+      864
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "backgammon",
+     "fr": "le trictrac",
+     "de": "das Backgammon",
+     "es": "el backgam m on",
+     "it": "il trie trac la tavola reale",
+     "_pos": [
+      62,
+      1053
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "board games",
+     "fr": "les jeux de société",
+     "de": "die Brettspiele",
+     "es": "los juegos de mesa",
+     "it": "i giochi da tavolo",
+     "_pos": [
+      486,
+      1053
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 7,
+  "flagged": 12,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "page": 181,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "transportation le transport",
+   "parts": [
+    "transportation le transport"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "der Verkehr el transporte",
+   "parts": [
+    "der verkehr el transporte"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "i trasporti",
+   "parts": [
+    "i trasporti"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

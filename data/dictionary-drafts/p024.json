@@ -1,0 +1,338 @@
+{
+ "page": 24,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • ! ES GENS • DIE MENSCHEN • LA GENTE ♦ LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "life events • les événements de la vie • die Ereignisse des Lebens • los acontecimientos de una vida • gli avvenim enti della vita",
+   "parts": [
+    "life events",
+    "les événements de la vie",
+    "die ereignisse des lebens",
+    "los acontecimientos de una vida",
+    "gli avvenimenti della vita"
+   ],
+   "entries": [
+    {
+     "en": "be born (v)",
+     "fr": "naître",
+     "de": "geboren werden",
+     "es": "nacer",
+     "it": "nascere",
+     "_pos": [
+      53,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "start school (v)",
+     "fr": "commencer à l'école",
+     "de": "zur Schule kommen",
+     "es": "empezar el colegio",
+     "it": "iniziare la scuola",
+     "_pos": [
+      264,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "make fnends (v)",
+     "fr": "faire des amis",
+     "de": "sich befreunden",
+     "es": "hacer amigos",
+     "it": "fare amicizia",
+     "_pos": [
+      476,
+      298
+     ],
+     "_flags": []
+    },
+    {
+     "en": "graduate (v)",
+     "fr": "obtenir sa licence",
+     "de": "graduieren",
+     "es": "graduarse",
+     "it": "laurearsi",
+     "_pos": [
+      688,
+      299
+     ],
+     "_flags": []
+    },
+    {
+     "en": "get a job (v)",
+     "fr": "trouver un emploi",
+     "de": "eine Stelle bekommen",
+     "es": "conseguir un trabajo",
+     "it": "trovare un lavoro",
+     "_pos": [
+      52,
+      510
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fall in love (v)",
+     "fr": "tomber amoureux",
+     "de": "sich verlieben",
+     "es": "enamorar se",
+     "it": "innamorarsi",
+     "_pos": [
+      264,
+      511
+     ],
+     "_flags": []
+    },
+    {
+     "en": "get married (v)",
+     "fr": "se marier",
+     "de": "heiraten",
+     "es": "casarse",
+     "it": "sposarsi",
+     "_pos": [
+      476,
+      511
+     ],
+     "_flags": []
+    },
+    {
+     "en": "have a baby <v",
+     "fr": "avoir un bébé",
+     "de": "ein Baby bekommen",
+     "es": "tener un hijo",
+     "it": "avere un bambino",
+     "_pos": [
+      688,
+      511
+     ],
+     "_flags": [
+      "en:weird:<v"
+     ]
+    },
+    {
+     "en": "christening",
+     "fr": "le baptême",
+     "de": "die Taufe",
+     "es": "el bautizo",
+     "it": "il battesimo",
+     "_pos": [
+      491,
+      592
+     ],
+     "_flags": []
+    },
+    {
+     "en": "die (v)",
+     "fr": "mourir",
+     "de": "sterben",
+     "es": "morir",
+     "it": "morire",
+     "_pos": [
+      688,
+      594
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bar mitzvah",
+     "fr": "la bar-m itsvah",
+     "de": "die Bar Mizwa",
+     "es": "el bar m itzvah",
+     "it": "il bar mitzvah",
+     "_pos": [
+      493,
+      690
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "make a will (v)",
+     "fr": "faire son testament",
+     "de": "sein Testament machen",
+     "es": "hacer testamento",
+     "it": "fare testamento",
+     "_pos": [
+      691,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fëv",
+     "_pos": [
+      118,
+      748
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "'",
+     "fr": "l",
+     "_pos": [
+      213,
+      778
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:short:'"
+     ]
+    },
+    {
+     "en": "anniversary",
+     "fr": "l'anniversaire de ma nage",
+     "de": "der Hochzeitstag",
+     "es": "el aniversario",
+     "it": "rannivera rio",
+     "_pos": [
+      494,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "birth certificate",
+     "fr": "l'acte de naissance",
+     "de": "die Geburtsurkunde",
+     "es": "el acta de nacimiento",
+     "it": "il certificato di nascita",
+     "_pos": [
+      691,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wedding",
+     "fr": "le ma nage",
+     "de": "die Hochzeit",
+     "es": "la boda",
+     "it": "il matrimonio",
+     "_pos": [
+      58,
+      828
+     ],
+     "_flags": []
+    },
+    {
+     "en": "emigrate (v)",
+     "fr": "émigrer",
+     "de": "emigrieren",
+     "es": "emigrar",
+     "it": "emigrare",
+     "_pos": [
+      496,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wedding reception",
+     "fr": "le repas de noces",
+     "de": "die Hochzeitsfeier",
+     "es": "el banquete de boda",
+     "it": "il ricevimento nuziale",
+     "_pos": [
+      692,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "retire (v)",
+     "fr": "prendre sa retraite",
+     "de": "in den Ruhestand treten",
+     "es": "retirarse",
+     "it": "andare in pensione",
+     "_pos": [
+      496,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "honeymoon",
+     "fr": "le voyage de noces",
+     "de": "die Hochzeitsreise",
+     "es": "la luna de m iei",
+     "it": "il viaggio di nozze",
+     "_pos": [
+      692,
+      985
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "divorce",
+     "fr": "le divorce",
+     "de": "die Scheidung",
+     "es": "el divorcio",
+     "it": "il divorzio",
+     "_pos": [
+      56,
+      1032
+     ],
+     "_flags": []
+    },
+    {
+     "en": "funeral",
+     "fr": "l'enterrement",
+     "de": "das Begräbnis",
+     "es": "el funeral",
+     "it": "il funerale",
+     "_pos": [
+      268,
+      1034
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "I B I | IH 1",
+   "pos": [
+    220,
+    733
+   ],
+   "why": "blocco 2 righe non risolvibile"
+  },
+  {
+   "text": "m | i l | i",
+   "pos": [
+    160,
+    748
+   ],
+   "why": "blocco 3 righe non risolvibile"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 3,
+  "flagged": 20,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

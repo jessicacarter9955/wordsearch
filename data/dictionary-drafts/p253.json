@@ -1,0 +1,237 @@
+{
+ "page": 253,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIBR E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "ground cloth",
+     "fr": "le tapis de sol",
+     "de": "der Zeltboden",
+     "es": "el suelo aislante",
+     "it": "il telo isolante",
+     "_pos": [
+      561,
+      72
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frame",
+     "fr": "le cadre",
+     "de": "das Gestänge",
+     "es": "la estructura",
+     "it": "la struttura",
+     "_pos": [
+      148,
+      90
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thermos",
+     "fr": "le Thermos",
+     "de": "die Thermosflasche",
+     "es": "el termo",
+     "it": "il thermos",
+     "_pos": [
+      740,
+      202
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "backpack",
+     "fr": "le sac à dos",
+     "de": "der Rucksack",
+     "es": "la mochila",
+     "it": "lo zaino",
+     "_pos": [
+      123,
+      206
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water bottle",
+     "fr": "la bouteille d'eau",
+     "de": "die Wasserflasche",
+     "es": "la cantimplora",
+     "it": "la borraccia",
+     "_pos": [
+      82,
+      321
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tent",
+     "fr": "la tente",
+     "de": "das Zelt",
+     "es": "la tienda de campaña",
+     "it": "la tenda",
+     "_pos": [
+      235,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "de": "das Moskitonetz",
+     "es": "el mosquitero",
+     "it": "la zanzariera",
+     "_pos": [
+      616,
+      497
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "thermal underwear",
+     "fr": "les sous-vêtements thermiques",
+     "de": "die Thermowäsche",
+     "es": "la ropa térmica",
+     "it": "gli indumenti termici",
+     "_pos": [
+      482,
+      551
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flashlight",
+     "fr": "la lampe torche",
+     "de": "die Taschenlampe",
+     "es": "la linterna",
+     "it": "la torcia",
+     "_pos": [
+      288,
+      565
+     ],
+     "_flags": []
+    },
+    {
+     "en": "insect repellent",
+     "fr": "le spray contre les insectes",
+     "de": "der Insektenspray",
+     "es": "el repelente de insectos",
+     "it": "il repellente per insetti",
+     "_pos": [
+      24,
+      566
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sleeping bag",
+     "fr": "le sac de couchage",
+     "de": "der Schlafsack",
+     "es": "el saco de dormir",
+     "it": "il sacco a pelo",
+     "_pos": [
+      451,
+      776
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rain clothes",
+     "fr": "l'imperméable",
+     "de": "die Regenhaut",
+     "es": "la manga",
+     "it": "gli indumenti impermeabili",
+     "_pos": [
+      238,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hiking boots",
+     "fr": "les chaussures de marche",
+     "de": "die Wanderschuhe",
+     "es": "las butas de trekking",
+     "it": "le scarpe da escursionismo",
+     "_pos": [
+      25,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sleeping mat",
+     "fr": "le tapis de so",
+     "de": "die Schlafmatte",
+     "es": "la esterilla",
+     "it": "il materassino",
+     "_pos": [
+      706,
+      841
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grill",
+     "fr": "le barbecue",
+     "de": "der Grill",
+     "es": "la parrilla",
+     "it": "la griglia per barbecue",
+     "_pos": [
+      240,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camp stove",
+     "fr": "le réchaud",
+     "de": "der Gasbrenner",
+     "es": "la estufilla",
+     "it": "il fornellcTto da campeggio",
+     "_pos": [
+      28,
+      1026
+     ],
+     "_flags": []
+    },
+    {
+     "en": "air mattress",
+     "fr": "le ma tel at pneum arique",
+     "de": "die Luftmatratze",
+     "es": "la colchoneta",
+     "it": "il materassino ad aria",
+     "_pos": [
+      454,
+      1040
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 4,
+  "flagged": 13,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

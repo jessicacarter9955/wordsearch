@@ -1,0 +1,681 @@
+{
+ "page": 210,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "goal line",
+     "fr": "ligne de but",
+     "de": "Torlinie",
+     "es": "línea de meta",
+     "it": "linea di fondo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "penalty area",
+     "fr": "surface tic réparation",
+     "de": "Strafraum",
+     "es": "área de penalty",
+     "it": "area di rigore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 20,
+      "de": 9,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "goal area",
+     "fr": "surface de but",
+     "de": "Tonaum",
+     "es": "área de meta",
+     "it": "'area di porta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 6,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "kick (v)",
+     "fr": "hotter",
+     "de": "kicken",
+     "es": "patear",
+     "it": "calciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "throw-in",
+     "fr": "rentrée en touche",
+     "de": "Einwurf",
+     "es": "saque de banda",
+     "it": "rimessa in gioco",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 7,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "cleat",
+     "fr": "botte",
+     "de": "FuBballschuh",
+     "es": "tacos",
+     "it": "scarpino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "los",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 12,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "— goal",
+     "fr": "but",
+     "de": "Tor",
+     "es": "portería",
+     "it": "porta",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 3,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "defender",
+     "fr": "défenseur",
+     "de": "Verteidiger",
+     "es": "defensa",
+     "it": "difensore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "shoot (v)",
+     "fr": "shooter",
+     "de": "schießen",
+     "es": "tirar",
+     "it": "tirare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "pass (v)",
+     "fr": "faire une passe",
+     "de": "Ball abgeben",
+     "es": "mandar un pase",
+     "it": "passare",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 13,
+      "de": 11,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "corner flag",
+     "fr": "drapeau de coin",
+     "de": "Eckfahne",
+     "es": "bandera de esquina",
+     "it": "bandierina",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 8,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "1 linesman",
+     "fr": "juge de ligne",
+     "de": "Linienrichter",
+     "es": "juez del inca",
+     "it": "guardalinee",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 13,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "tackle (v)",
+     "fr": "tacier",
+     "de": "angreifen",
+     "es": "hacer una entrada",
+     "it": "contrastare",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 9,
+      "es": 15,
+      "it": 11
+     }
+    },
+    {
+     "en": "save (v)",
+     "fr": "sauver",
+     "de": "halten",
+     "es": "parar",
+     "it": "parare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "extra time",
+     "fr": "prolongation",
+     "de": "Verlängerung",
+     "es": "tiempo extra",
+     "it": "tempo supplementare",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 12,
+      "es": 11,
+      "it": 18
+     }
+    },
+    {
+     "en": "league",
+     "fr": "championnat",
+     "de": "Liga",
+     "es": "liga",
+     "it": "campionato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 4,
+      "es": 4,
+      "it": 10
+     }
+    },
+    {
+     "en": "yellow card",
+     "fr": "canon jaune",
+     "de": "gelbe Karte",
+     "es": "tarjeta amarilla",
+     "it": "cartellino giallo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "foul",
+     "fr": "faute",
+     "de": "Foul",
+     "es": "falta",
+     "it": "fallo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "stadium",
+     "fr": "stade",
+     "de": "Stadion",
+     "es": "estadio",
+     "it": "stadio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "substitute",
+     "fr": "remplaçant",
+     "de": "Ersatzspieler",
+     "es": "reserva",
+     "it": "sostituto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 13,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "draw",
+     "fr": "l égalité",
+     "de": "Unentschieden",
+     "es": "empate",
+     "it": "pareggio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 13,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "offside",
+     "fr": "hors-jeu",
+     "de": "Abseits",
+     "es": "fuera de juego",
+     "it": "fuorigioco",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "corner",
+     "fr": "corner",
+     "de": "Eckball",
+     "es": "tiro de esquina",
+     "it": "calci od'angolo",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "score a goal (v)",
+     "fr": "marquer un but",
+     "de": "Tor schießen",
+     "es": "marcar un gol",
+     "it": "segnare",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "ein"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "substitution",
+     "fr": "remplacement",
+     "de": "Auswechslung",
+     "es": "cambio",
+     "it": "sostituzione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 12,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "halftime",
+     "fr": "mi-temps",
+     "de": "Halbzeit",
+     "es": "descanso",
+     "it": "intervallo",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "send off",
+     "fr": "expulsion",
+     "de": "Platzverweis",
+     "es": "expulsión",
+     "it": "espulsione",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 12,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "red card",
+     "fr": "canon rouge",
+     "de": "rote Karte",
+     "es": "tarjeta roja",
+     "it": "cartellino rosso",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 9,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "penalty",
+     "fr": "penalty",
+     "de": "Elfmeter",
+     "es": "penalty",
+     "it": "rigore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,514 @@
+{
+ "page": 35,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "parrucchiere",
+   "names": {
+    "en": "hairdresser's",
+    "fr": "le salon de coiffure",
+    "de": "der Friseursalon",
+    "es": "la peluquería",
+    "it": "il parrucchiere"
+   },
+   "entries": [
+    {
+     "en": "comb",
+     "fr": "peigne",
+     "de": "Kamm",
+     "es": "peine",
+     "it": "pettine",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "hairdresser",
+     "fr": "coiffeuse",
+     "de": "Friseurin",
+     "es": "estilista",
+     "it": "parrucchiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "comb (v)",
+     "fr": "peigner",
+     "de": "kämmen",
+     "es": "peinar",
+     "it": "pettinare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "sink",
+     "fr": "lavabo",
+     "de": "Waschbecken",
+     "es": "lavabo",
+     "it": "lavandino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "brush",
+     "fr": "brosse",
+     "de": "Haarbürste",
+     "es": "cepillo",
+     "it": "spazzola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "client",
+     "fr": "cliente",
+     "de": "Kundin",
+     "es": "cliente",
+     "it": "cliente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "brush (v)",
+     "fr": "brosser",
+     "de": "bürsten",
+     "es": "cepillar",
+     "it": "spazzolare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "wash (v)",
+     "fr": "laver",
+     "de": "waschen",
+     "es": "lavar",
+     "it": "lavare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "robe",
+     "fr": "peignoir",
+     "de": "Frisierumhang",
+     "es": "bata",
+     "it": "grembiule",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 13,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "set (v)",
+     "fr": "faire une mise en plis",
+     "de": "legen",
+     "es": "marcar",
+     "it": "mettere in piega",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 18,
+      "de": 5,
+      "es": 6,
+      "it": 14
+     }
+    },
+    {
+     "en": "rinse (v)",
+     "fr": "rincer",
+     "de": "ausspülen",
+     "es": "enjuagar",
+     "it": "sciacquare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "cut (v)",
+     "fr": "couper",
+     "de": "schneiden",
+     "es": "cortar",
+     "it": "tagliare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "blowdry (v)",
+     "fr": "sécher",
+     "de": "föhnen",
+     "es": "secar con la secadora",
+     "it": "asciugare con il phon",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 6,
+      "es": 18,
+      "it": 18
+     }
+    }
+   ]
+  },
+  {
+   "slug": "accessori-capelli",
+   "names": {
+    "en": "accessories",
+    "fr": "les accessoires",
+    "de": "die Frisierartikel",
+    "es": "los accesorios",
+    "it": "gli accessori"
+   },
+   "entries": [
+    {
+     "en": "blow-dryer",
+     "fr": "sèche-cheveux",
+     "de": "Föhn",
+     "es": "secador de pelo",
+     "it": "asciugacapelli",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 4,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "hairspray",
+     "fr": "laque",
+     "de": "Haarspray",
+     "es": "laca",
+     "it": "lacca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 9,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "gel",
+     "fr": "gel",
+     "de": "Haargel",
+     "es": "gel",
+     "it": "gel",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 7,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "shampoo",
+     "fr": "shampooing",
+     "de": "Shampoo",
+     "es": "champú",
+     "it": "shampoo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "conditioner",
+     "fr": "conditionneur",
+     "de": "Haarspülung",
+     "es": "acondicionador",
+     "it": "balsamo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "en": "curling iron",
+     "fr": "fer à friser",
+     "de": "Lockenstab",
+     "es": "tenazas",
+     "it": "arricciacapelli",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "las",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 10,
+      "es": 7,
+      "it": 15
+     }
+    },
+    {
+     "en": "bobby pin",
+     "fr": "pince à cheveux",
+     "de": "Haarklammer",
+     "es": "pasador",
+     "it": "molletta",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "headband",
+     "fr": "serre-tête",
+     "de": "Haarreif",
+     "es": "diadema",
+     "it": "cerchietto",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "curler",
+     "fr": "bigoudi",
+     "de": "Lockenwickler",
+     "es": "rulo",
+     "it": "bigodini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 13,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "scissors",
+     "fr": "ciseaux",
+     "de": "Schere",
+     "es": "tijeras",
+     "it": "forbici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "1.5 e 1.7 erano lo stesso concetto (curling iron) spezzato in due blocchi. G0 nominata dal contenuto (titolo pagina = dal parrucchiere)."
+}

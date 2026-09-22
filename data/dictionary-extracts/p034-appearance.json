@@ -1,0 +1,635 @@
+{
+ "page": 34,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "accessori",
+   "names": {
+    "en": "accessories",
+    "fr": "les accessoires",
+    "de": "die Accessoires",
+    "es": "los accesorios",
+    "it": "gli accessori"
+   },
+   "entries": [
+    {
+     "en": "shoulder strap",
+     "fr": "bretelle",
+     "de": "Schulterriemen",
+     "es": "correa",
+     "it": "bretella",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 14,
+      "es": 6,
+      "it": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": "borse",
+   "names": {
+    "en": "bags",
+    "fr": "les sacs",
+    "de": "die Taschen",
+    "es": "las bolsas",
+    "it": "le borse"
+   },
+   "entries": [
+    {
+     "en": "clasp",
+     "fr": "fermoir",
+     "de": "Verschluss",
+     "es": "cierre",
+     "it": "cinghia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "handles",
+     "fr": "poignées",
+     "de": "Griffe",
+     "es": "asas",
+     "it": "maniglie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "shoulder bag",
+     "fr": "sac à bandoulière",
+     "de": "Umhängetasche",
+     "es": "bolsa",
+     "it": "borsa a tracolla",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 13,
+      "es": 5,
+      "it": 14
+     }
+    },
+    {
+     "en": "change purse",
+     "fr": "porte-monnaie",
+     "de": "Portemonnaie",
+     "es": "monedero",
+     "it": "portamonete",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "wallet",
+     "fr": "portefeuille",
+     "de": "Brieftasche",
+     "es": "cartera",
+     "it": "portafoglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 11,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "handbag",
+     "fr": "sac à main",
+     "de": "Handtasche",
+     "es": "bolsa de mano",
+     "it": "borsetta",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 10,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "backpack",
+     "fr": "sac à dos",
+     "de": "Rucksack",
+     "es": "mochila",
+     "it": "zainetto",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "briefcase",
+     "fr": "serviette",
+     "de": "Aktentasche",
+     "es": "maletín",
+     "it": "valigetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 11,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "duffle bag",
+     "fr": "fourre-tout",
+     "de": "Reisetasche",
+     "es": "bolsa de viaje",
+     "it": "sacca da viaggio",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 11,
+      "es": 12,
+      "it": 14
+     }
+    }
+   ]
+  },
+  {
+   "slug": "scarpe",
+   "names": {
+    "en": "shoes",
+    "fr": "les chaussures",
+    "de": "die Schuhe",
+    "es": "los zapatos",
+    "it": "le scarpe"
+   },
+   "entries": [
+    {
+     "en": "tongue",
+     "fr": "languette",
+     "de": "Zunge",
+     "es": "lengüeta",
+     "it": "lingua",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 5,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "lace",
+     "fr": "lacet",
+     "de": "Schnürsenkel",
+     "es": "agujeta",
+     "it": "laccio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 12,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "eyelet",
+     "fr": "œillet",
+     "de": "Öse",
+     "es": "ojal",
+     "it": "occhiello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 3,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "walking boot",
+     "fr": "pataugas",
+     "de": "Wanderschuh",
+     "es": "bota de trekking",
+     "it": "scarpa da trekking",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 11,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "sneaker",
+     "fr": "basket",
+     "de": "Sportschuh",
+     "es": "tenis",
+     "it": "scarpa da ginnastica",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 18
+     }
+    },
+    {
+     "en": "heel",
+     "fr": "talon",
+     "de": "Absatz",
+     "es": "tacón",
+     "it": "tacco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "sole",
+     "fr": "semelle",
+     "de": "Sohle",
+     "es": "ia suela",
+     "it": "suola",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "flip-flop",
+     "fr": "tong",
+     "de": "Strandsandale",
+     "es": "chancla",
+     "it": "ciabatta",
+     "_multi": [],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 4,
+      "de": 13,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "leather shoe",
+     "fr": "chaussure de cuir",
+     "de": "Lederschuh",
+     "es": "zapato de piel",
+     "it": "scarpa di cuoio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "lace-up",
+     "fr": "chaussure lacée",
+     "de": "Schnürschuh",
+     "es": "zapato de agujetas",
+     "it": "scarpa con i lacci",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 11,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "slip-on",
+     "fr": "mocassin",
+     "de": "Slipper",
+     "es": "mocasín",
+     "it": "mocassino",
+     "_multi": [],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "brogue",
+     "fr": "richelieu",
+     "es": "zapato de caballero",
+     "it": "scarpa da uomo",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "es": 17,
+      "it": 12
+     }
+    },
+    {
+     "en": "sandal",
+     "fr": "sandale",
+     "de": "Sandale",
+     "es": "sandalia",
+     "it": "sandalo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "platform shoe",
+     "fr": "chaussure à semelle compensée",
+     "de": "Plateauschuh",
+     "es": "zapato de plataforma",
+     "it": "zatterone",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 26,
+      "de": 12,
+      "es": 18,
+      "it": 9
+     }
+    },
+    {
+     "en": "high heel shoe",
+     "fr": "chaussure à talon",
+     "de": "Schuh mit hohem Absatz",
+     "es": "zapato de tacón",
+     "it": "scarpa con il tacco alto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 19,
+      "es": 13,
+      "it": 20
+     }
+    }
+   ]
+  }
+ ],
+ "note": "2.10-2.12 ricostruite dai blocchi orizzontali a 3 colonne (slip-on/brogue/sandal su righe adiacenti). de di brogue perso nell'OCR."
+}

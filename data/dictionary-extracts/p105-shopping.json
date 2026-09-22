@@ -1,0 +1,371 @@
+{
+ "page": 105,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "edicola",
+   "names": {
+    "en": "newsstand",
+    "fr": "le marchand de journaux",
+    "de": "der zeitungshändler",
+    "es": "los tabacos y las revistas",
+    "it": "l'edicola"
+   },
+   "entries": [
+    {
+     "en": "cigarettes",
+     "fr": "cigarettes",
+     "de": "Zigaretten",
+     "es": "cigarros",
+     "it": "sigarette",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "pack of cigarettes",
+     "fr": "paquet de cigarettes",
+     "de": "Päckchen Zigaretten",
+     "es": "cajetilla de cigarros",
+     "it": "pacchetto di sigarette",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 18,
+      "de": 18,
+      "es": 19,
+      "it": 20
+     }
+    },
+    {
+     "en": "matches",
+     "fr": "allumettes",
+     "de": "Streichhölzer",
+     "es": "cerillos",
+     "it": "fiammiferi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 13,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "lottery tickets",
+     "fr": "billets de loterie",
+     "de": "Lottoscheine",
+     "es": "billetes de lotería",
+     "it": "biglietti della lotteria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 12,
+      "es": 17,
+      "it": 22
+     }
+    },
+    {
+     "en": "stamps",
+     "fr": "timbres",
+     "de": "Briefmarken",
+     "es": "tim bres",
+     "it": "francobolli",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "postcard",
+     "fr": "carte postale",
+     "de": "Postkarte",
+     "es": "tarjeta postai",
+     "it": "cartolina",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 9,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "comic",
+     "fr": "bande dessinée",
+     "de": "Comicheft",
+     "es": "historieta il giornalino a fumetti",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 13,
+      "de": 9,
+      "es": 30
+     }
+    },
+    {
+     "en": "magazine",
+     "fr": "magazine",
+     "de": "Zeitschrift",
+     "es": "revista",
+     "it": "rivista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "newspaper",
+     "fr": "journal",
+     "de": "Zeitung",
+     "es": "periódico",
+     "it": "giornale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fumare",
+   "names": {
+    "en": "smoking",
+    "fr": "fumer",
+    "de": "das rauchen",
+    "es": "fumar",
+    "it": "fumare"
+   },
+   "entries": [
+    {
+     "en": "stem",
+     "fr": "tuyau",
+     "de": "Stiel",
+     "es": "tubo",
+     "it": "cannuccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "bowl",
+     "fr": "fourneau",
+     "de": "Kopf",
+     "es": "cazoleta",
+     "it": "fornello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 4,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "tobacco",
+     "fr": "tabac",
+     "de": "Tabak",
+     "es": "tabaco",
+     "it": "tabacco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "lighter",
+     "fr": "briquet",
+     "de": "Feuerzeug",
+     "es": "encendedor",
+     "it": "accendino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 9,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "pipe",
+     "fr": "pipe",
+     "de": "Pfeife",
+     "es": "pipa",
+     "it": "pipa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "cigar",
+     "fr": "cigare",
+     "de": "Zigarre",
+     "es": "puro",
+     "it": "sigaro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 4,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

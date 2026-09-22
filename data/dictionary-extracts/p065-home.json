@@ -1,0 +1,345 @@
+{
+ "page": 65,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "camera-da-letto",
+   "names": {
+    "en": "bedroom",
+    "fr": "la chambre",
+    "de": "das schlafzimmer",
+    "es": "la recámara",
+    "it": "la camera da letto"
+   },
+   "entries": [
+    {
+     "en": "wardrobe",
+     "fr": "armoire",
+     "de": "Kleiderschrank",
+     "es": "armario",
+     "it": "armadio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "bedside lamp",
+     "fr": "lampe de chevet",
+     "de": "Nachttischlampe",
+     "es": "lam para del buró",
+     "it": "lampadina",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 15,
+      "es": 14,
+      "it": 9
+     }
+    },
+    {
+     "en": "headboard",
+     "fr": "tête de lit",
+     "de": "Kopfende",
+     "es": "cabecera",
+     "it": "testata",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "nightstand",
+     "fr": "table de nuit",
+     "de": "Nachttisch",
+     "es": "buró",
+     "it": "comodino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "chest of drawers",
+     "fr": "commode",
+     "de": "Kommode",
+     "es": "cómoda",
+     "it": "cassettone",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "fr": "tiroir",
+     "de": "Schublade",
+     "es": "cajón",
+     "it": "cassetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "fr": "lit",
+     "de": "Bett",
+     "es": "Id cama",
+     "it": "letto",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 3,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "fr": "matelas",
+     "de": "Matratze",
+     "es": "colchón",
+     "it": "materasso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "fr": "couvre-lit",
+     "de": "Tagesdecke",
+     "es": "colcha",
+     "it": "ii copriletto",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "fr": 9,
+      "de": 10,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "l‘oreiller",
+     "de": "Kopfkissen",
+     "es": "almohada",
+     "it": "guanciale",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "hot-water bottle",
+     "fr": "bouillotte",
+     "de": "Wärmflasche",
+     "es": "bolsa de agua caliente",
+     "it": "borsa calda",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 10,
+      "de": 11,
+      "es": 19,
+      "it": 10
+     }
+    },
+    {
+     "en": "clock radio",
+     "fr": "radio réveil",
+     "de": "Radiowecker",
+     "es": "radio despertador",
+     "it": "radiosveglia",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 16,
+      "it": 12
+     }
+    },
+    {
+     "en": "alarm dock",
+     "fr": "réveil",
+     "de": "Wecker",
+     "es": "reloj despertador",
+     "it": "sveglia",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 6,
+      "es": 16,
+      "it": 7
+     }
+    },
+    {
+     "en": "box of tissues",
+     "fr": "boîte de kleenex",
+     "de": "Papiertaschentuchschachtel",
+     "es": "caja de pañuelos desee h a bles",
+     "it": "scatola di fazzoletti™",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 26,
+      "es": 25,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

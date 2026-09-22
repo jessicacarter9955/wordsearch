@@ -1,0 +1,606 @@
+{
+ "page": 113,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "frutti-di-mare",
+   "names": {
+    "en": "i seafood",
+    "fr": "les fruits de mer",
+    "de": "die meeresfrüchte",
+    "es": "el marisco",
+    "it": "i frutti di mare"
+   },
+   "entries": [
+    {
+     "en": "lobster",
+     "fr": "homard",
+     "de": "Hummer",
+     "es": "langosta",
+     "it": "aragosta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "scafiop",
+     "fr": "j coquille Saint-Jacques",
+     "de": "aie Jakobsmuschel",
+     "es": "vieira",
+     "it": "Dettine",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 21,
+      "de": 16,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "prawn",
+     "fr": "crevette",
+     "de": "Garnele",
+     "es": "camarón",
+     "it": "jambero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "crab",
+     "fr": "ie crabe",
+     "de": "e Krabbe",
+     "es": "cangrejo",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 8
+     }
+    },
+    {
+     "en": "mussel",
+     "fr": "moule",
+     "de": "Miesmuschel",
+     "es": "mejillón",
+     "it": "cozza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 11,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "razor shell",
+     "fr": "couteau",
+     "de": "Scheidenmuschel",
+     "es": "navaja",
+     "it": "cannulicehio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 15,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "n y fish",
+     "fr": "écrev isso",
+     "de": "Krebs",
+     "es": "cangrejo de río",
+     "it": ";ambero d'acqua dolce",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 5,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "fr": "huître",
+     "de": "Auster",
+     "es": "ostra",
+     "it": "ostrica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "clam",
+     "fr": "J a m",
+     "de": "Venusmuschel",
+     "es": "almeja",
+     "it": "vongola",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 12,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "cuttlefish",
+     "fr": "seiche",
+     "de": "Sepie",
+     "es": "sepia",
+     "it": "seppia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "squid",
+     "fr": "calamar",
+     "de": "Tintenfisch",
+     "es": "calamar",
+     "it": "calamaro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "octopus",
+     "fr": "pieuvre",
+     "de": "Seepolyp",
+     "es": "pulpo",
+     "it": "polpo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "cockle",
+     "fr": "coque",
+     "de": "Herzmuschel",
+     "es": "berberecho",
+     "it": "cardio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 11,
+      "es": 10,
+      "it": 6
+     }
+    },
+    {
+     "en": "scale",
+     "fr": "oca ille",
+     "de": "Schuppe",
+     "es": "escama",
+     "it": "squama",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "bone",
+     "fr": "arête",
+     "de": "Grate",
+     "es": "espma",
+     "it": "spina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "steak",
+     "fr": "tranche",
+     "de": "Schnitte",
+     "es": "rodaja",
+     "it": "trancia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "tall",
+     "fr": "queue",
+     "de": "Schwanz",
+     "es": "cola",
+     "it": "coda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "filleted",
+     "fr": "cn filets",
+     "de": "filetiert",
+     "es": "cn filetes",
+     "it": "a filetti",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "descaled",
+     "fr": "écaille",
+     "de": "entschuppt",
+     "es": "sin escamas",
+     "it": "desquamato",
+     "_multi": [
+      "es"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "smoked",
+     "fr": "fumé",
+     "de": "geräuchert",
+     "es": "ahumado",
+     "it": "affumicato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "cleaned",
+     "fr": "préparé",
+     "de": "zubereitet",
+     "es": "limpio",
+     "it": "pulito",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 10,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "frozen",
+     "fr": "surgelé",
+     "de": "tiefgefroren",
+     "es": "congelado",
+     "it": "congelato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "Can you clean it for me?",
+     "fr": "Pouvez-vous le préparer pour moi?",
+     "de": "Können Sie ihn mir fertig zubereiten?",
+     "es": "M e lo puede lim piar!'",
+     "it": "Me lo pulisce?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 18,
+      "fr": 27,
+      "de": 31,
+      "es": 16,
+      "it": 11
+     }
+    },
+    {
+     "en": "loin",
+     "fr": "longe",
+     "de": "Lende",
+     "es": "lomo",
+     "it": "lombo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "fillet",
+     "fr": "lc filer",
+     "de": "filet",
+     "es": "filete",
+     "it": "filetto",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "boned",
+     "fr": "sans arêtes",
+     "de": "entgrätet",
+     "es": "sin espinas",
+     "it": "spinato",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 9,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "skinned",
+     "fr": "sans peau",
+     "de": "enthäutet",
+     "es": "sm piel",
+     "it": "spellato",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "salted",
+     "fr": "salé",
+     "de": "gesalzen",
+     "es": "salado",
+     "it": "salato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "fresh",
+     "fr": "frais",
+     "de": "frisch",
+     "es": "fresco",
+     "it": "fresco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

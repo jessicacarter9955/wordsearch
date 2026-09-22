@@ -1,0 +1,247 @@
+{
+ "page": 177,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K ♦ LI-: T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "occupations I • les professions 1 • die Berufe 1 • los profesiones 1 • i mestieri 1",
+   "parts": [
+    "occupation si",
+    "les professions",
+    "die berufe",
+    "los profesiones",
+    "i mestieri"
+   ],
+   "entries": [
+    {
+     "en": "construction worker",
+     "fr": "le maçon",
+     "de": "der Bauhandvverker",
+     "es": "el albañil",
+     "it": "il muratore",
+     "_pos": [
+      696,
+      332
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carpenter",
+     "fr": "le menuisier",
+     "de": "der Schreiner",
+     "es": "el carpintero",
+     "it": "il falegname",
+     "_pos": [
+      48,
+      333
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electrician",
+     "fr": "Lélectricien",
+     "de": "der Elektriker",
+     "es": "el electricista",
+     "it": "l'elettricista",
+     "_pos": [
+      264,
+      333
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "plumber",
+     "fr": "le plombier",
+     "de": "der Klempner",
+     "es": "el plomero",
+     "it": "l'idraulico",
+     "_pos": [
+      480,
+      333
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vacuum cleaner",
+     "fr": "Laspi raten r",
+     "de": "der Staubsauger",
+     "es": "la aspiradora",
+     "it": "l'aspirapolvere",
+     "_pos": [
+      264,
+      399
+     ],
+     "_flags": [
+      "fr:short:r",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "butcher",
+     "fr": "le boucher",
+     "de": "der Metzger",
+     "es": "el carnicero",
+     "it": "il macellaio",
+     "_pos": [
+      698,
+      566
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gardener",
+     "fr": "le jardinier",
+     "de": "der Gärtner",
+     "es": "el jardinero",
+     "it": "il giardiniere",
+     "_pos": [
+      48,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cleaner",
+     "fr": "le nettoyeur",
+     "de": "der Gebäudereiniger",
+     "es": "el empicado de la limpieza",
+     "it": "l'addetto alle",
+     "_pos": [
+      265,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mechanic",
+     "fr": "le mécanicien",
+     "de": "der Mechaniker",
+     "es": "el mecánico",
+     "it": "il meccanico",
+     "_pos": [
+      482,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scissors",
+     "fr": "les ciseaux",
+     "de": "die Schere",
+     "es": "las tijeras",
+     "it": "le forbici",
+     "_pos": [
+      48,
+      635
+     ],
+     "_flags": []
+    },
+    {
+     "en": "greengrocer",
+     "fr": "le marchand de légumes",
+     "de": "der Gemüsehändler",
+     "es": "el frutero",
+     "it": "il fruttivendolo",
+     "_pos": [
+      482,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "florist",
+     "fr": "la fleuriste",
+     "de": "die Floristin",
+     "es": "la florista",
+     "it": "la fioraia",
+     "_pos": [
+      698,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fishmonger",
+     "fr": "la marchande de poissons",
+     "de": "die Fischhändleri",
+     "es": "la pescadera",
+     "it": "la pescivcndola",
+     "_pos": [
+      266,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hairdresser",
+     "fr": "le coiffeur",
+     "de": "der Friseur » el estilista",
+     "it": "il parrucchiere",
+     "_pos": [
+      52,
+      1051
+     ],
+     "_flags": [
+      "missing:es",
+      "de:weird:»"
+     ]
+    },
+    {
+     "en": "jeweler",
+     "fr": "le bijoutier",
+     "de": "der Juwelier",
+     "es": "el joyero",
+     "it": "il gioielliere",
+     "_pos": [
+      483,
+      1051
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sales assistant",
+     "fr": "l'employée de magasin",
+     "de": "die Verkäuferin",
+     "es": "la vendedora",
+     "it": "la commessa",
+     "_pos": [
+      701,
+      1051
+     ],
+     "_flags": []
+    },
+    {
+     "en": "barber",
+     "fr": "le coiffeur",
+     "de": "der Friseur",
+     "es": "el peluquero",
+     "it": "il barbiere",
+     "_pos": [
+      267,
+      1052
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 1,
+  "flagged": 16,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

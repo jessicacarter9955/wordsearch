@@ -1,0 +1,590 @@
+{
+ "page": 84,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "gardening gloves",
+     "fr": "gants de jardinage",
+     "de": "Gartenhandschuhe",
+     "es": "guantes de jardín",
+     "it": "guanti da giardinaggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 16,
+      "de": 16,
+      "es": 15,
+      "it": 20
+     }
+    },
+    {
+     "en": "hand fork",
+     "fr": "perire fourche",
+     "de": "Handgabel",
+     "es": "trinche",
+     "it": "forcone",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "pruning shears",
+     "fr": "sécateur",
+     "de": "Rosenschere",
+     "es": "podaderas",
+     "it": "cesoia",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 11,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "twine",
+     "fr": "lied le",
+     "de": "Zwirn",
+     "es": "hilo de bramante",
+     "it": "fil di ferro",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "labels",
+     "fr": "criquet res",
+     "de": "Pflanzenschildchen",
+     "es": "etiquetas",
+     "it": "etichette",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 18,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "irowel",
+     "fr": "déplantoir",
+     "de": "Pflanzschaufel",
+     "es": "pala pequeña",
+     "it": "paletta",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 14,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "twist ties",
+     "fr": "attaches",
+     "de": "Befestigungen",
+     "es": "alambre",
+     "it": "fettucce",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 13,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "biade",
+     "fr": "lame",
+     "de": "Messer",
+     "es": "hoja",
+     "it": "lama",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "seed tray",
+     "fr": "germ oir",
+     "de": "Setzkasten",
+     "es": "semillero",
+     "it": "semenzaio",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "ring ties",
+     "fr": "anneaux",
+     "de": "Ringbefestigungen",
+     "es": "anillas",
+     "it": "anelli",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 17,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "canes",
+     "fr": "cannes",
+     "de": "Gartenslòcke",
+     "es": "cañas",
+     "it": "canne",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "'m",
+     "_multi": [],
+     "_grid_len": {
+      "en": 1
+     }
+    },
+    {
+     "en": "sieve",
+     "fr": "tamis",
+     "de": "Sieb",
+     "es": "criba",
+     "it": "setaccio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "shears",
+     "fr": "cisaille",
+     "de": "Heckenschere",
+     "es": "tijeras",
+     "it": "forbici da giardino",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 12,
+      "es": 7,
+      "it": 17
+     }
+    },
+    {
+     "en": "plant pot",
+     "fr": "por à fleurs",
+     "de": "Blumentopf",
+     "es": "maceta",
+     "it": "vaso da fiori",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "pesticide",
+     "fr": "pesticide",
+     "de": "Pestizid",
+     "es": "pesticida",
+     "it": "pesticida",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "rubber boots",
+     "fr": "hottes",
+     "de": "Gummistiefel",
+     "es": "botas de goma",
+     "it": "galosce",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 12,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "hand saw",
+     "fr": "scie à main",
+     "de": "Handsäge",
+     "es": "sierra de mano",
+     "it": "sega",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 12,
+      "it": 4
+     }
+    }
+   ]
+  },
+  {
+   "slug": "annaffiatura",
+   "names": {
+    "en": "watering",
+    "fr": "l'arrosage",
+    "de": "das gießen",
+    "es": "el riego",
+    "it": "l'annaffiatura"
+   },
+   "entries": [
+    {
+     "en": "nozzle",
+     "fr": "jet",
+     "de": "Düse",
+     "es": "boquilla",
+     "it": "becco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 4,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "sprinkler",
+     "fr": "arroseur",
+     "de": "Rasensprenger",
+     "es": "aspersor",
+     "it": "irrigatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 13,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "spray gun",
+     "fr": "vaporisateur",
+     "de": "Gartenspritze",
+     "es": "pulverizador",
+     "it": "diffusore",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 13,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "watering can",
+     "fr": "nrrosoir",
+     "de": "Gießkanne",
+     "es": "regadera",
+     "it": "annaffiatoio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "hose",
+     "fr": "tuyau d'arrosage",
+     "de": "Gartenschlauch",
+     "es": "manguera",
+     "it": "Ja pompa da giardino",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 14,
+      "de": 14,
+      "es": 8,
+      "it": 17
+     }
+    },
+    {
+     "en": "rose",
+     "fr": "pomme",
+     "de": "Brause",
+     "es": "pina",
+     "it": "rosa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "hose reel",
+     "fr": "dévidoir de tuyau",
+     "de": "Schlauchwagen » el enrollador de manguera",
+     "it": "awolgitubo",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 35,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

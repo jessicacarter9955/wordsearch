@@ -1,0 +1,224 @@
+{
+ "page": 270,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "ambiente",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "header_raw": "E N V IR O N M E N T • L'EN V IRO N N EM EN T • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "wood",
+     "fr": "le hois",
+     "de": "der Wald",
+     "es": "el bosque",
+     "it": "I bosco",
+     "_pos": [
+      674,
+      268
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "desert",
+     "fr": "le désert",
+     "de": "die Wüste",
+     "es": "el desierto",
+     "it": "il deserto",
+     "_pos": [
+      248,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "forest",
+     "fr": "la forêt",
+     "de": "der Wald",
+     "es": "el bosque",
+     "it": "la foresta",
+     "_pos": [
+      461,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plain",
+     "fr": "la plaine",
+     "de": "die Ebene",
+     "es": "la llanura",
+     "it": "la pianura",
+     "_pos": [
+      36,
+      272
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grassland",
+     "fr": "la prairie",
+     "de": "das Grasland",
+     "es": "la pradera",
+     "it": "la prateria",
+     "_pos": [
+      675,
+      498
+     ],
+     "_flags": []
+    },
+    {
+     "en": "meadow",
+     "fr": "le pré",
+     "de": "die Wieselabel",
+     "es": "el prado",
+     "it": "il pascolo",
+     "_pos": [
+      462,
+      499
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swamp",
+     "fr": "le marais",
+     "de": "der Sumpf",
+     "es": "el pantano",
+     "it": "la palude",
+     "_pos": [
+      250,
+      499
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rain forest",
+     "fr": "la foret tropicale",
+     "de": "der Regenwald",
+     "es": "la selva tropical",
+     "it": "la foresta pluviale",
+     "_pos": [
+      38,
+      501
+     ],
+     "_flags": []
+    },
+    {
+     "en": "geyser",
+     "fr": "le geyser",
+     "de": "der Geysir",
+     "es": "el geiser",
+     "it": "il geyser",
+     "_pos": [
+      677,
+      761
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lake",
+     "fr": "le lac",
+     "de": "der See",
+     "es": "el lago",
+     "it": "il lago",
+     "_pos": [
+      464,
+      762
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stream",
+     "fr": "le ruisseau",
+     "de": "der Bach",
+     "es": "el arroyo",
+     "it": "il torrente",
+     "_pos": [
+      252,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waterfall",
+     "fr": "la cascade",
+     "de": "der Wasserfall",
+     "es": "la cascada",
+     "it": "la cascata",
+     "_pos": [
+      40,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "estuary",
+     "fr": "l'estuaire",
+     "de": "die Flussmündung",
+     "es": "el estuario",
+     "it": "l'estuario",
+     "_pos": [
+      680,
+      1023
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coral reef",
+     "fr": "le récif de corail",
+     "de": "das Korallenriff",
+     "es": "el arrecife de coral",
+     "it": "la barriera corallina",
+     "_pos": [
+      468,
+      1024
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cliff",
+     "fr": "la falaise",
+     "de": "die Klippe",
+     "es": "el acantilado",
+     "it": "la scogliera",
+     "_pos": [
+      254,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coast",
+     "fr": "la côte",
+     "de": "die Küste",
+     "es": "la costa",
+     "it": "la costa",
+     "_pos": [
+      42,
+      1027
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 0,
+  "flagged": 16,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

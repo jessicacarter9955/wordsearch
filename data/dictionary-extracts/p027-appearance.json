@@ -1,0 +1,462 @@
+{
+ "page": 27,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "neonato",
+   "names": {
+    "en": "baby",
+    "fr": "le bébé",
+    "de": "das Baby",
+    "es": "el bebé",
+    "it": "il bimbo"
+   },
+   "entries": [
+    {
+     "en": "snowsuit",
+     "fr": "combinaison de neige",
+     "de": "Schneeanzug",
+     "es": "traje de invierno",
+     "it": "tutina da neve",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 11,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "undershirt",
+     "fr": "tricot de corps",
+     "de": "Hemdchen",
+     "es": "camiseta",
+     "it": "canottiera",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "snap",
+     "fr": "bouton-pression",
+     "de": "Druckknopf",
+     "es": "botón",
+     "it": "bottone automatico",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 14,
+      "de": 10,
+      "es": 5,
+      "it": 17
+     }
+    },
+    {
+     "en": "onesie",
+     "fr": "grenouillère",
+     "de": "Strampelanzug",
+     "es": "mameluco",
+     "it": "tutina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 13,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "sleeper",
+     "fr": "pyjama",
+     "de": "Schlafanzug",
+     "es": "mameluco",
+     "it": "pigiama",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 11,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "romper suit",
+     "fr": "combinaison-short",
+     "de": "Spielanzug",
+     "es": "mameluco sin pies",
+     "it": "tutina senza maniche",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 10,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "bib",
+     "fr": "bavoir",
+     "de": "Lätzchen",
+     "es": "babero",
+     "it": "bavaglino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "mittens",
+     "fr": "moufles",
+     "de": "Babyhandschuhe",
+     "es": "guantes",
+     "it": "guanti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "booties",
+     "fr": "chaussons",
+     "de": "Babyschuhe",
+     "es": "botas",
+     "it": "scarpette",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "cloth diaper",
+     "fr": "couche éponge",
+     "de": "Stoffwindel",
+     "es": "pañal de felpa",
+     "it": "pannolino di spugna",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 11,
+      "es": 12,
+      "it": 17
+     }
+    },
+    {
+     "en": "disposable diaper",
+     "fr": "couche jetable",
+     "de": "Wegwerfwindel",
+     "es": "pañal desechable",
+     "it": "pannolino usa e getta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 13,
+      "de": 13,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "plastic underpants",
+     "fr": "culotte en plastique",
+     "de": "Gummihöschen",
+     "es": "calzón de plástico",
+     "it": "mutande di plastica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 18,
+      "de": 12,
+      "es": 16,
+      "it": 17
+     }
+    }
+   ]
+  },
+  {
+   "slug": "bambino-piccolo",
+   "names": {
+    "en": "toddler",
+    "fr": "le petit enfant",
+    "de": "das Kleinkind",
+    "es": "el niño pequeño",
+    "it": "il bambino piccolo"
+   },
+   "entries": [
+    {
+     "en": "shirt",
+     "fr": "t-shirt",
+     "de": "T-Shirt",
+     "es": "playera",
+     "it": "maglietta",
+     "_multi": [],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "overalls",
+     "fr": "salopette",
+     "de": "Latzhose",
+     "es": "pantalones con peto",
+     "it": "salopetta",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 17,
+      "it": 9
+     }
+    },
+    {
+     "en": "sun bonnet",
+     "fr": "chapeau de soleil",
+     "de": "Sonnenhut",
+     "es": "gorro para el sol",
+     "it": "cappello per il sole",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 9,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "skirt",
+     "fr": "jupe",
+     "de": "Rock",
+     "es": "falda",
+     "it": "gonna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "shorts",
+     "fr": "bermuda",
+     "de": "Shorts",
+     "es": "shorts",
+     "it": "pantaloncini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "apron",
+     "fr": "tablier",
+     "de": "Schürze",
+     "es": "delantal",
+     "it": "grembiulino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "G0 'children's clothing' era solo titolo pagina (senza voci)."
+}

@@ -1,0 +1,354 @@
+{
+ "page": 35,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • I APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "hair • les cheveux • das Haar • el cabello • ¡ capelli",
+   "parts": [
+    "hair",
+    "les cheveux",
+    "das haar",
+    "el cabello",
+    "capelli"
+   ],
+   "entries": [
+    {
+     "en": "comb",
+     "fr": "le peigne",
+     "de": "der Kamm",
+     "es": "el peine",
+     "it": "il pettine",
+     "_pos": [
+      67,
+      136
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hairdresser",
+     "fr": "la coiffeuse",
+     "de": "die Friseurin",
+     "es": "la estilista",
+     "it": "la parrucchiera",
+     "_pos": [
+      770,
+      183
+     ],
+     "_flags": []
+    },
+    {
+     "en": "comb (v)",
+     "fr": "peigner",
+     "de": "kämmen",
+     "es": "peinar",
+     "it": "pettinare",
+     "_pos": [
+      67,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sink",
+     "fr": "le lavabo",
+     "de": "das Waschbecken",
+     "es": "el lavabo",
+     "it": "il lavandino",
+     "_pos": [
+      770,
+      314
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brush",
+     "fr": "la brosse",
+     "de": "die Haarbürste",
+     "es": "el cepillo",
+     "it": "la spazzola",
+     "_pos": [
+      68,
+      315
+     ],
+     "_flags": []
+    },
+    {
+     "en": "client",
+     "fr": "la cliente",
+     "de": "die Kundin",
+     "es": "la cliente",
+     "it": "la cliente",
+     "_pos": [
+      770,
+      444
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brush (v)",
+     "fr": "brosser",
+     "de": "bürsten",
+     "es": "cepillar",
+     "it": "spazzolare",
+     "_pos": [
+      68,
+      446
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wash (v)",
+     "fr": "laver",
+     "de": "waschen",
+     "es": "lavar",
+     "it": "lavare",
+     "_pos": [
+      280,
+      528
+     ],
+     "_flags": []
+    },
+    {
+     "en": "robe",
+     "fr": "le peignoir",
+     "de": "der Frisierumhang",
+     "es": "la bata",
+     "it": "il grembiule",
+     "_pos": [
+      416,
+      561
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set (v)",
+     "fr": "faire une mise en plis",
+     "de": "legen",
+     "es": "marcar",
+     "it": "mettere in piega",
+     "_pos": [
+      722,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nnse (v)",
+     "fr": "rincer",
+     "de": "ausspülen",
+     "es": "enjuagar",
+     "it": "sciacquare",
+     "_pos": [
+      69,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cut (v)",
+     "fr": "couper",
+     "de": "schneiden",
+     "es": "cortar",
+     "it": "tagliare",
+     "_pos": [
+      281,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blowdry (v)",
+     "fr": "sécher",
+     "de": "föhnen",
+     "es": "secar con la secadora",
+     "it": "asciugare con il phon",
+     "_pos": [
+      494,
+      691
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "accessories • les accessoires • die Frisierartikel • los accesorios • gli accesori",
+   "parts": [
+    "accessories",
+    "les accessoires",
+    "die frisierartikel",
+    "los accesorios",
+    "gli accesori"
+   ],
+   "entries": [
+    {
+     "en": "blow-dryer",
+     "fr": "le sèche-cheveux",
+     "de": "der Föhn",
+     "_pos": [
+      70,
+      854
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "hairspray",
+     "fr": "la laque",
+     "de": "das Haarspray",
+     "es": "la laca",
+     "it": "la lacca",
+     "_pos": [
+      722,
+      903
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gel",
+     "fr": "le gel",
+     "de": "das Haargel",
+     "es": "el gel",
+     "it": "il gel",
+     "_pos": [
+      592,
+      904
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shampoo",
+     "fr": "le sham poing",
+     "de": "das Shampoo",
+     "es": "el champú",
+     "it": "lo shampoo",
+     "_pos": [
+      220,
+      904
+     ],
+     "_flags": []
+    },
+    {
+     "en": "conditioner",
+     "fr": "le conditionneur",
+     "de": "die Haarspülung",
+     "es": "el acondicionador",
+     "it": "il balsama",
+     "_pos": [
+      389,
+      904
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ron",
+     "fr": "à friser",
+     "_pos": [
+      170,
+      1002
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "de"
+      ],
+      [
+       "en",
+       "es"
+      ],
+      [
+       "en",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "bobby pin",
+     "fr": "la pince à cheveux",
+     "de": "die Haarklammer",
+     "es": "el pasador",
+     "it": "la molletta",
+     "_pos": [
+      722,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "de": "der Lockenstab",
+     "es": "las tenazas",
+     "it": "l'arricciacapelli",
+     "_pos": [
+      125,
+      1034
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "headband",
+     "fr": "le serre-tête",
+     "de": "der Haarreif",
+     "es": "la diadema",
+     "it": "il cerchietto",
+     "_pos": [
+      390,
+      1035
+     ],
+     "_flags": []
+    },
+    {
+     "en": "curler",
+     "fr": "le bigoudi",
+     "de": "der Lockenwickler",
+     "es": "el rulo",
+     "it": "i bigodini",
+     "_pos": [
+      581,
+      1035
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scissors",
+     "fr": "les ciseaux",
+     "de": "die Schere",
+     "es": "las tijeras",
+     "it": "le forbici",
+     "_pos": [
+      239,
+      1035
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 6,
+  "flagged": 18,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

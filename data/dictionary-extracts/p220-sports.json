@@ -1,0 +1,718 @@
+{
+ "page": 220,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "golf clubs",
+     "fr": "clubs de golf",
+     "de": "Golf schläger",
+     "es": "palos de golf",
+     "it": "mazze da golf",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 12,
+      "es": 11,
+      "it": 11
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "umbrella",
+     "fr": "parapluie",
+     "de": "Schirm",
+     "es": "paraguas",
+     "it": "ombrello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "fr": "attrezzature",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "fr": 12
+     }
+    },
+    {
+     "en": "golf ball",
+     "fr": "Li balle de golf",
+     "de": "Golfball",
+     "es": "boia de golf",
+     "it": "pallina da golf",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 8,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "golf bag",
+     "fr": "sac de golf",
+     "de": "Golftasche",
+     "es": "bolsa de goll",
+     "it": "sacca da golf",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "spikes",
+     "fr": "pointes",
+     "de": "Spikes",
+     "es": "spikes",
+     "it": "chiodi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "wood",
+     "fr": "bois",
+     "de": "Holz",
+     "es": "madera",
+     "it": "mazza di legno",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "tee",
+     "fr": "tee",
+     "de": "Aufsatz",
+     "es": "tee",
+     "it": "tee",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 7,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "golf shoe",
+     "fr": "chaussure de golf",
+     "de": "Golfschuh",
+     "es": "zapato de golf",
+     "it": "scarpa da golf",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "glove",
+     "fr": "gant",
+     "de": "Handschuh",
+     "es": "guante",
+     "it": "guanto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "bag cart",
+     "fr": "caddie",
+     "de": "Caddie",
+     "es": "carrito de golf",
+     "it": "carrellino",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "putter",
+     "fr": "putrer",
+     "de": "Putter",
+     "es": "p u tier",
+     "it": "putter",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": "azioni",
+   "names": {
+    "en": "actions",
+    "fr": "ics actions",
+    "de": "die aktionen",
+    "es": "las acciones",
+    "it": "le azioni"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "iron",
+     "fr": "fer",
+     "de": "Eisen",
+     "es": "fierro",
+     "it": "mazza di",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "putt (v)",
+     "fr": "putier",
+     "de": "einlochen",
+     "es": "tirar al hoyo con un putter",
+     "it": "colpire leggermente",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 22,
+      "it": 18
+     }
+    },
+    {
+     "en": "chip (v)",
+     "fr": "cocher",
+     "de": "chippen",
+     "es": "hacer un chip",
+     "it": "colpire da vicino",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "tee off (v)",
+     "fr": "partir du tec",
+     "de": "vom Abschlag spielen",
+     "es": "salir",
+     "it": "cominciare la partita",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 18,
+      "es": 5,
+      "it": 19
+     }
+    },
+    {
+     "en": "drive (v)",
+     "fr": "driver",
+     "de": "driven",
+     "es": "hacer un drive",
+     "it": "colpire a distanza",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 12,
+      "it": 16
+     }
+    },
+    {
+     "en": "wedge",
+     "fr": "cale",
+     "de": "Wedge",
+     "es": "wedge",
+     "it": "mazza ricurva",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 12
+     }
+    },
+    {
+     "en": "backswing",
+     "fr": "swing en arrière",
+     "de": "Durchschwung",
+     "es": "backswing",
+     "it": "back-swing",
+     "_multi": [
+      "fr"
+     ],
+     "_hyphen": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 12,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "caddy",
+     "fr": "caddie",
+     "de": "Caddie",
+     "es": "caddy",
+     "it": "caddy",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "stroke",
+     "fr": "coup",
+     "de": "Schlag",
+     "es": "golpe",
+     "it": "colpo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "over par",
+     "fr": "over par",
+     "de": "Überpar",
+     "es": "sobre par",
+     "it": "overpar",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "handicap",
+     "fr": "handicap",
+     "de": "Golfhandicap",
+     "es": "handicap",
+     "it": "handicap",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 12,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "par",
+     "fr": "par",
+     "de": "Par",
+     "es": "par",
+     "it": "par",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "spectators",
+     "fr": "spectateurs",
+     "de": "Zuschauer",
+     "es": "espectadores",
+     "it": "spettatori",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 9,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "practice swing",
+     "fr": "swing d' essai",
+     "de": "Übungsschwung",
+     "es": "sw ing de práctica",
+     "it": "swing di pratica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 13,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "line of play",
+     "fr": "ligne de jeu",
+     "de": "Spielbahn",
+     "es": "línea de juego",
+     "it": "linea di gioco",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "tournament",
+     "fr": "tournoi",
+     "de": "Golfturnier",
+     "es": "torneo",
+     "it": "torneo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "hole in one",
+     "fr": "trou en un",
+     "de": "Hoie-in-One",
+     "es": "hoyo en uno",
+     "it": "buca in uno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "under par",
+     "fr": "under par",
+     "de": "Unterpar",
+     "es": "bajo par",
+     "it": "undcrpar",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,305 @@
+{
+ "page": 133,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "lady fingers",
+     "fr": "les boudoirs",
+     "de": "die Löffelbiskuits",
+     "es": "las soletillas",
+     "it": "i savoiardi",
+     "_pos": [
+      568,
+      84
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chocolate chip",
+     "fr": "les pépites Àt chocolat",
+     "de": "das Schokoladenstückchen",
+     "es": "los chips de chocolate",
+     "it": "I biscotto con scaglie di cioccolato",
+     "_pos": [
+      25,
+      84
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "florentine",
+     "fr": "le florentine",
+     "de": "der Florentiner",
+     "es": "la florentina",
+     "it": "il biscotto alle noci",
+     "_pos": [
+      556,
+      281
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trifle",
+     "fr": "le diplomate",
+     "de": "das Trifle",
+     "es": "el postre de soletillas, gelatina de frutas y crem a",
+     "it": "la zuppa inglese",
+     "_pos": [
+      676,
+      281
+     ],
+     "_flags": [
+      "es:weird:soletillas,"
+     ]
+    },
+    {
+     "en": "cookies",
+     "fr": "les biscuits",
+     "de": "die Kekse",
+     "es": "las galletas",
+     "it": "i biscotti",
+     "_pos": [
+      160,
+      396
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sorbet",
+     "fr": "le sorbet",
+     "de": "das Sorbett",
+     "es": "el sorbete",
+     "it": "il sorbetto",
+     "_pos": [
+      240,
+      560
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crème caramel",
+     "fr": "la crème caramel",
+     "de": "der Karamellpudding",
+     "es": "el flan",
+     "it": "il crème caramel",
+     "_pos": [
+      668,
+      560
+     ],
+     "_flags": []
+    },
+    {
+     "en": "custard pie",
+     "fr": "la tarte à la crème",
+     "de": "die Sahnetorte",
+     "es": "el pastel de crema",
+     "it": "la torta alla crema",
+     "_pos": [
+      452,
+      561
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Trousse",
+     "fr": "la mousse",
+     "de": "die Mousse",
+     "es": "el mousse",
+     "it": "il mousse",
+     "_pos": [
+      28,
+      562
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "special occasion cakes • les gâteaux de fête • die festlichen Kuchen • los pasteles para celebraciones",
+   "parts": [
+    "special occasion cakes",
+    "les gâteaux de fête",
+    "die festlichen kuchen",
+    "los pasteles para celebraciones"
+   ],
+   "entries": [
+    {
+     "fr": "le torte per celebrazioni",
+     "_pos": [
+      28,
+      654
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "ribbon",
+     "fr": "le ruban",
+     "de": "das Band",
+     "es": "el listón",
+     "it": "il nastro",
+     "_pos": [
+      322,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "decoration",
+     "fr": "la décoration",
+     "de": "die Dekoration",
+     "es": "la decoración",
+     "it": "la decorazione",
+     "_pos": [
+      453,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blowout v j",
+     "fr": "souffler",
+     "de": "ausblasen",
+     "es": "apagar",
+     "it": "soffiare",
+     "_pos": [
+      757,
+      692
+     ],
+     "_flags": [
+      "en:short:v",
+      "en:short:j"
+     ]
+    },
+    {
+     "en": "birthday candles",
+     "fr": "les bougies d'anniversaire",
+     "de": "die Geburtstagskerzen",
+     "es": "las velas de cumpleaños",
+     "it": "le candeline",
+     "_pos": [
+      582,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "top tier",
+     "fr": "l'étage supérieur",
+     "de": "der obere Kuchenteil",
+     "es": "el ùltim o piso",
+     "it": "il piano superiore",
+     "_pos": [
+      52,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bottom tier",
+     "fr": "Pérage inférieur",
+     "de": "der untere Kuchenteil",
+     "es": "el primer piso",
+     "it": "I piano",
+     "_pos": [
+      28,
+      792
+     ],
+     "_flags": [
+      "fr:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "icing",
+     "fr": "le glaçage",
+     "de": "der Zuckerguss",
+     "es": "la alcorza",
+     "_pos": [
+      338,
+      808
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "marzipan",
+     "fr": "la pâte d'amandes",
+     "de": "das Marzipan",
+     "es": "mazapán",
+     "it": "il marzapane",
+     "_pos": [
+      28,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "birthday cake",
+     "fr": "le gâteau d' anniversaire",
+     "de": "der Geburtstagskuchen",
+     "es": "el pastel de cumpleaños",
+     "it": "la torta di compleanno",
+     "_pos": [
+      454,
+      1054
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wedding cake",
+     "fr": "le gâteau de manage",
+     "de": "die Hochzeitstorte",
+     "es": "el pastel de bodas",
+     "it": "la torta nuziale",
+     "_pos": [
+      30,
+      1055
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 6,
+  "flagged": 14,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

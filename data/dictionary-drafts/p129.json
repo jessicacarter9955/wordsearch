@@ -1,0 +1,422 @@
+{
+ "page": 129,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "half-and-half cream",
+     "fr": "la crème allégée",
+     "de": "die fettarme Sahne",
+     "es": "la crema líquida",
+     "it": "la panna liquida",
+     "_pos": [
+      660,
+      225
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cream",
+     "fr": "la crème",
+     "de": "die Sahne",
+     "es": "la crema",
+     "it": "la panna",
+     "_pos": [
+      454,
+      227
+     ],
+     "_flags": []
+    },
+    {
+     "en": "margarine",
+     "fr": "la margarine",
+     "de": "die Margarine",
+     "es": "la margarina",
+     "it": "la margarina",
+     "_pos": [
+      241,
+      228
+     ],
+     "_flags": []
+    },
+    {
+     "en": "butter",
+     "fr": "le beurre",
+     "de": "die Butter",
+     "es": "la mantequilla",
+     "it": "il burro",
+     "_pos": [
+      28,
+      229
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ice cream",
+     "fr": "la glace",
+     "de": "das Eis",
+     "es": "el helado",
+     "it": "il gelato",
+     "_pos": [
+      712,
+      439
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yogurt",
+     "fr": "le yaourt",
+     "de": "der Joghurt",
+     "es": "el yogurt",
+     "it": "lo yogurt",
+     "_pos": [
+      541,
+      440
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sour cream",
+     "fr": "la crème fraîche",
+     "de": "die saure Sahne",
+     "es": "la crema ácida",
+     "it": "la panna acida",
+     "_pos": [
+      370,
+      440
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whipped cream",
+     "fr": "la crème fouettée",
+     "de": "die Schlagsahne",
+     "es": "la crema batida",
+     "it": "la panna montata",
+     "_pos": [
+      200,
+      441
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whipping cream",
+     "fr": "la crème épaisse",
+     "de": "die Schlagsahne",
+     "es": "la crema par abatir",
+     "it": "la panna densa",
+     "_pos": [
+      30,
+      442
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "eggs • les œufs • die Eier • los huevos • le uova",
+   "parts": [
+    "eggs",
+    "les œufs",
+    "die eier",
+    "los huevos",
+    "le uova"
+   ],
+   "entries": [
+    {
+     "en": "shell",
+     "fr": "la coquille",
+     "de": "die Eierschale",
+     "es": "la cáscara",
+     "it": "il guscio",
+     "_pos": [
+      372,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "egg white",
+     "fr": "le blanc d'eeuf",
+     "de": "das Eiweiß",
+     "es": "la clara",
+     "it": "la chiara",
+     "_pos": [
+      229,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yolk",
+     "fr": "le jaune d 'œuf",
+     "de": "das Eigelb",
+     "es": "la yema",
+     "it": "il tuorlo",
+     "_pos": [
+      32,
+      591
+     ],
+     "_flags": []
+    },
+    {
+     "en": "duck egg",
+     "fr": "l'œuf de cane",
+     "de": "das Entenei",
+     "es": "el huevo de pato",
+     "it": "l'uovo di anatra",
+     "_pos": [
+      697,
+      652
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hen's egg",
+     "fr": "l'œuf de poule",
+     "de": "das Hühnerei",
+     "es": "el huevo de gallina",
+     "it": "uovo di gallina",
+     "_pos": [
+      538,
+      653
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• r",
+   "parts": [
+    "r"
+   ],
+   "entries": [
+    {
+     "en": "eggeup",
+     "fr": "le coquetier",
+     "de": "der Eierbecher",
+     "es": "la huevera",
+     "it": "il porta uovo",
+     "_pos": [
+      33,
+      706
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "JU",
+   "parts": [
+    "ju"
+   ],
+   "entries": [
+    {
+     "en": "quail egg",
+     "fr": "l'œuf de caille",
+     "de": "das Wachtelei",
+     "es": "el huevo de codorniz",
+     "it": "l'uovo di quaglia",
+     "_pos": [
+      584,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goose egg",
+     "fr": "l'œuf d 'oie",
+     "de": "das Gánseei",
+     "es": "el huevo de ganso",
+     "it": "l'uovo d'oca",
+     "_pos": [
+      412,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soft-boiled egg",
+     "fr": "l'œuf à la coque",
+     "de": "das gekochteEi",
+     "es": "el huevo tibio",
+     "it": "l'uovo alla coque",
+     "_pos": [
+      35,
+      821
+     ],
+     "_flags": []
+    },
+    {
+     "en": "miikshake",
+     "fr": "le m ilk-shake",
+     "de": "der Milchshake",
+     "es": "la m alteada",
+     "it": "il frullato",
+     "_pos": [
+      724,
+      875
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "lactose",
+     "fr": "le lactose",
+     "de": "die Laktose",
+     "es": "la lactosa",
+     "it": "il lattosio",
+     "_pos": [
+      600,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sheep's milk",
+     "fr": "le lait de brebis",
+     "de": "die Schafmilch",
+     "es": "la leche de oveja",
+     "it": "il latte di pecora",
+     "_pos": [
+      446,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fat-free",
+     "fr": "sans matières grasses",
+     "de": "fettfrei",
+     "es": "sin grasa",
+     "it": "senza grassi",
+     "_pos": [
+      188,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salted",
+     "fr": "salé",
+     "de": "gesalzen",
+     "es": "salado",
+     "it": "salato",
+     "_pos": [
+      350,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pasteurized",
+     "fr": "pasteurisé",
+     "de": "pasteurisiert",
+     "es": "pasteurizado",
+     "it": "pastorizzato",
+     "_pos": [
+      51,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frozen yogurt",
+     "fr": "le yaourt surgelé",
+     "de": "der gefrorene Joghurt",
+     "es": "el yogurt helado",
+     "it": "lo yog uri gelato",
+     "_pos": [
+      724,
+      973
+     ],
+     "_flags": []
+    },
+    {
+     "en": "homogenized",
+     "fr": "homogénéisé",
+     "de": "homogenisiert",
+     "es": "homogen eizado",
+     "it": "omogeneizzato",
+     "_pos": [
+      601,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "buttermilk",
+     "fr": "le babeurre",
+     "de": "die Buttermilch",
+     "es": "el suero de la leche",
+     "it": "il siero di latte",
+     "_pos": [
+      448,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "powdered milk",
+     "fr": "le lait en poudre",
+     "de": "das Milchpulver",
+     "es": "la leche en polvo",
+     "it": "il latte in polvere",
+     "_pos": [
+      190,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "unsalted",
+     "fr": "non salé",
+     "de": "ungesalzen",
+     "es": "sin sal",
+     "it": "senza sale",
+     "_pos": [
+      351,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "unpasteurized",
+     "fr": "non pasteurisé",
+     "de": "unpasteurisiert",
+     "es": "sin pasteurizar",
+     "it": "non pastorizzato",
+     "_pos": [
+      52,
+      979
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 30,
+  "complete_clean": 15,
+  "flagged": 15,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

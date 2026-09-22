@@ -1,0 +1,606 @@
+{
+ "page": 93,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "courier",
+     "fr": "service de messagerie",
+     "de": "Kurierdienst",
+     "es": "mensajería",
+     "it": "corriere",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 19,
+      "de": 12,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "letter slot",
+     "fr": "boîte aux lettres",
+     "de": "Hausbriefkasten",
+     "es": "buzón",
+     "it": "cassetta delle lettere",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 15,
+      "es": 5,
+      "it": 20
+     }
+    },
+    {
+     "en": "mailbox",
+     "fr": "boire aux lettres",
+     "de": "Briefkasten",
+     "es": "buzón",
+     "it": "buca delle lettere",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 11,
+      "es": 5,
+      "it": 16
+     }
+    },
+    {
+     "en": "parcel",
+     "fr": "colis",
+     "de": "Paket",
+     "es": "paquete",
+     "it": "pacco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": "telefono",
+   "names": {
+    "en": "telephone",
+    "fr": "le téléphone",
+    "de": "das telefon",
+    "es": "el teléfono",
+    "it": "il telefono"
+   },
+   "entries": [
+    {
+     "en": "handset le com binéderApparatel auricular il base station la base die Feststationla base la base cordless phone",
+     "fr": "téléphone sans til",
+     "de": "schnurlose Telefon",
+     "es": "teléfono inalámbrico",
+     "it": "telefono senza fili",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 95,
+      "fr": 16,
+      "de": 17,
+      "es": 19,
+      "it": 17
+     }
+    },
+    {
+     "en": "answering machine",
+     "fr": "répondeur",
+     "de": "Anrufbeantworter",
+     "es": "contestador j",
+     "it": "segreteria telefonica",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 9,
+      "de": 16,
+      "es": 12,
+      "it": 20
+     }
+    },
+    {
+     "en": "phone booth",
+     "fr": "cabine téléphonique",
+     "de": "Telefonzelle",
+     "es": "laca bina telefónica",
+     "it": "cabina telefonica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 12,
+      "es": 18,
+      "it": 16
+     }
+    },
+    {
+     "en": "video phone",
+     "fr": "visiophone",
+     "de": "Fernsehtelefon",
+     "es": "videoteléfono",
+     "it": "videoteléfono",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 14,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "receiver",
+     "fr": "combiné",
+     "de": "Hörer",
+     "es": "auricular",
+     "it": "ricevitore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 5,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "keypad",
+     "fr": "clavier",
+     "de": "Tastenfeld",
+     "es": "teclado",
+     "it": "tastiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "coin return",
+     "fr": "rendu de monnaie",
+     "de": "Münzruckgabe",
+     "es": "monedas devueltas",
+     "it": "monete non utilizzate",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 12,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "card phone",
+     "fr": "téléphone à carte",
+     "de": "Kartentelefon",
+     "es": "teléfono de tarjeta",
+     "it": "telefono a scheda",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 13,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "pay phone",
+     "fr": "téléphone à pièces",
+     "de": "Münzfernsprecher",
+     "es": "teléfono de monedas",
+     "it": "telefono a monete",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 16,
+      "de": 16,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "cellular phone",
+     "fr": "porra blé",
+     "de": "Handy",
+     "es": "celular",
+     "it": "telefonino",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "Can you give me the number for...?",
+     "fr": "Pouvez-vous me donner le",
+     "de": "num éro p o u r...?",
+     "es": "Können Sie mir die Nummer",
+     "it": "für...geben? M e podría dar el núm ero d e ...? Può darmi il numero per...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 24,
+      "fr": 20,
+      "de": 10,
+      "es": 21,
+      "it": 48
+     }
+    },
+    {
+     "en": "operator",
+     "fr": "téléphoniste",
+     "de": "Vermittlung",
+     "es": "operador",
+     "it": "operatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 11,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "answer (v)",
+     "fr": "répondre",
+     "de": "abheben",
+     "es": "contestar",
+     "it": "rispondere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "directory assistance",
+     "fr": "renseignements",
+     "de": "Auskunft",
+     "es": "información telefónica",
+     "it": "informazioni telefoniche",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 14,
+      "de": 8,
+      "es": 21,
+      "it": 23
+     }
+    },
+    {
+     "en": "busy",
+     "fr": "occupé",
+     "de": "besetzt",
+     "es": "ocupado",
+     "it": "occupato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "text message",
+     "fr": "texto",
+     "de": "sMS",
+     "es": "mensaje de texto",
+     "it": "messaggio di testo",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 3,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "collect call",
+     "fr": "R C V",
+     "de": "R-Gespräch",
+     "es": "llamada a por cobrar",
+     "it": "chiamata a carico del destinatario",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 3,
+      "de": 9,
+      "es": 17,
+      "it": 30
+     }
+    },
+    {
+     "en": "W hat is the area code fon..?",
+     "fr": "Quel est V indicatif pour...?",
+     "de": "Was ist die Vorwahl für...?",
+     "es": "Cual e sel prefijo de larga",
+     "it": "distancia para llam ar a ...? Qual è il prefisso per...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 21,
+      "de": 19,
+      "es": 22,
+      "it": 38
+     }
+    },
+    {
+     "en": "disconnected",
+     "fr": "coupé",
+     "de": "unterbrochen",
+     "es": "desconectado",
+     "it": "staccato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 12,
+      "fr": 5,
+      "de": 12,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "voice message",
+     "fr": "message vocal",
+     "de": "Sprachmitteilung",
+     "es": "mensaje de voz",
+     "it": "messaggio vocale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 16,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "dial (v)",
+     "fr": "composer",
+     "de": "wählen",
+     "es": "marcar",
+     "it": "comporre",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,862 @@
+====================================================================================================
+== p207 [sport] 25 voci, 15 flag, 3 mancanti, 1 leftover, header=SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: football • le football américain • der Football • el fútbol americano • il foot~
+   parts: football • le football américain • der football • el fútbol americano • il football america~
+ 0.0  M sideline | la ligne de touc~ | die Seitenlinie | la línea de banda | la linea laterale   
+ 0.1  M referee | le juge de ligne | der Linienrichter | el juez de línea | il giudice di li~   
+ 0.2  M goa lIme | la ligne de bur | die Torlinie | la línea de gol | la linea del gol   
+ 0.3  ⚠ ? | le poteau | der Torpfosten | el poste del apo~ | '   it missing
+ 0.4  ⚠ football field | ? | ? | el campo | ?   missing
+ 0.5  ⚠ If terrain | ? | das Spielfeld I ~ | ? | ?   en missing
+ 0.6  M end zone | la zone de fond | die Endzone | la zona final | il fondo campo   
+ 0.7  M football | le ballon | der Football | el balón | il pallone   
+ 0.8  M pads | les protections | das Polster | las rodilleras | le ginocchiere   
+ 0.9  M helmet | le casque | der Helm | el casco | il casco   
+ 0.10 M cleat | la botte | der Stiefel | los tenis | lo scarpino   
+ 0.11 M football player | le joueur de foo~ | der Footballspie~ | el jugador | il giocatore   
+ 0.12   tackle (v) | tacler | angreifen | taclear | placcare   
+ 0.13 M pass (v) | faire une passe | den Ball abgeben | pasar | passare   
+ 0.14   catch (v) | attraper | fangen | atrapar | prendere   
+ 0.15 M time out | le temps mort | die Auszeit | el tiempo fuera | il time-out   
+ 0.16 M team | l'équipe | die Mannschaft | el equipo | la squadra   
+ 0.17 M defense | la défense | die Verteidigung | la defensa | la difesa   
+ 0.18 M cheerleader | la majorette | der Cheerleader | lapo dis ta | la cheerleader   
+ 0.19 ⚠ W hat is the sco~ | Où en est le m a~ | Wie ist der Stan~ | Cóm o van? | A quanto stanno?   de en es fr it
+ 0.20 M fumble | la prise de ball~ | das unsichere Fa~ | el balón perdido | il fumble   
+ 0.21 M attack | l'attaque | der Angriff | el ataque | l'attacco   
+ 0.22 M score | le score | der Spielstand | la puntuación | il punteggio   
+ 0.23 M touchdown | le but | der Touchdown | el intento | il touch-down   
+ 0.24 ⚠ W ho is winning? | Q ui cst-ce qui ~ | Wer gewinnt? | Q uién va ganand~ | Chi vince?   de en es fr it
+   LEFT 'il palo della porta' @[93, 208] (riga singola isolata)
+====================================================================================================
+== p208 [sport] 16 voci, 13 flag, 2 mancanti, 0 leftover, header=SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: rugby • le rugby • das Rugby • el rugby • ¡I rugby
+   parts: rugby • le rugby • das rugby • el rugby • i rugby
+ 0.0  M flag | le drapeau | die Fahne | la bandera | la bandierina   
+ 0.1  M dead ball line | la ligne de ball~ | die Feldauslinie | la línea de fondo | la linea di pall~   
+ 0.2  M in-goal area | la surface de but | der Torraum | la zona de marca | l'area della por~   
+ 0.3  ⚠ touch line | la ligne de touc~ | die Seitenlinie | ? | ?   missing
+ 0.4  M goal | le but | das Tor | la portería | la porla   
+ 0.5  M rugby field | le terrain de ru~ | das Spielfeld | el campo de rugby | il campo   
+ 0.6  ⚠ ? | le ballon | der Rugbyball | el balón | il pallone   missing
+ 0.7  ⚠ throw V | lancer | werfen | lanzar | tirare   en
+ 0.8  ⚠ rugby uniform | le maillot de ru~ | das Rugbytrikot | el uniforme de m~ | la camicetta da ~   es
+ 0.9  ⚠ try | Tessa i | der Versùch | el intento | la meta   fr
+ 0.10   tackle (v) | rader | angreifen | taclear | placcare   
+ 0.11 M pass (v) | faire une passe | den Ball abgeben | pasar | passare   
+ 0.12   kick (v) | botter | kicken | patear | calciare   
+ 0.13 M player | le joueur | der Rugbyspieler | el jugador | il giocatore   
+ 0.14 M scrum | la mêlée | das Gedränge | la cerrada | la mischia   
+ 0.15 M ruck | la inéléc ouverte | das offene Gedrä~ | la abierta | il ruck   
+====================================================================================================
+== p209 [sport] 15 voci, 10 flag, 2 mancanti, 1 leftover, header=SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: soccer • le football • der Fußball • el fútbol • il calcio
+   parts: soccer • le football • der fußball • el fútbol • il calcio
+ 0.0  M soccer ball | le ballon | der Fußball | el balón | il pallone   
+ 0.1  M forward | l'avant | der Mittelstürmer | el delantero | l'attaccante   
+ 0.2  M referee | l'arbitre | der Schiedsricht~ | el árbitro | l'arbitro   
+ 0.3  ⚠ center circle | le cercle central | der M inelkreis | el círculo centr~ | il centro campo   de
+ 0.4  M goalkeeper | le gardien de but | der Torwart | el portero | il portiere   
+ 0.5  M soccer uniform | la tenue | der Dress | ei uniform e | la divisa   
+ 0.6  M soccer player | le joueur de foot | der Fußballspiel~ | el futbolista | il calciatore   
+ 0.7  M soccer field | le terrain | das Fußballfeld | el campo de fútb~ | il campo di calc~   
+ 0.8  M goalpost | le poteau | der Torpfosten | el poste | il nnln   
+ 0.9  ⚠ net | le filet | das Tomet2 | la red | ?   de missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.10 ⚠ crossbar | la barre transve~ | die Querlatte | el larguero | I O I r'UiíMTO   it
+ 0.11   dribble (v) | dribbler | dribbeln | regatear | palleggiare   
+ 0.12 ⚠ head (v) | faire une tête | köpfen | cabecear | ?   missing
+ 0.13 M goal | le but | das Tor | el gol | il gol   
+ 0.14 M free kick | le coup franc | der Freistoß | tiro libre | il calcio di pun~   
+   LEFT ';' @[758, 567] (riga singola isolata)
+====================================================================================================
+== p210 [sport] 29 voci, 14 flag, 0 mancanti, 0 leftover, header=SP O R TS • I I S S P O R T S • DER SPORT • LOS DEPORTES • ~
+-- G0 subcat: (nessuna)
+ 0.0  M goal line | la ligne de but | die Torlinie | la línea de meta | la linea di fondo   
+ 0.1  M penalty area | la surface tic r~ | der Strafraum | el área de penal~ | l'area di rigore   
+ 0.2  M goal area | la surface de but | der Tonaum | el área de meta | 'area di porta   
+ 0.3    kick (v) | hotter | kicken | patear | calciare   
+ 0.4  M throw-in | la rentrée en to~ | der Einwurf | el saque de banda | la rimessa in gi~   
+ 0.5  M cleat | la botte | der FuBballschuh | los tacos | lo scarpino   
+ 0.6  ⚠ — goal | le but | das Tor | la portería | la porta   en
+ 0.7  M defender | le défenseur | der Verteidiger | el defensa | il difensore   
+ 0.8    shoot (v) | shooter | schießen | tirar | tirare   
+ 0.9  M pass (v) | faire une passe | den Ball abgeben | mandar un pase | passare   
+ 0.10 M corner flag | le drapeau de co~ | die Eckfahne | la bandera de es~ | la bandierina   
+ 0.11 ⚠ 1 linesman | le juge de ligne | der Linienrichter | el juez del inca | il guardalinee   en
+ 0.12 M tackle (v) | tacier | angreifen | hacer una entrada | contrastare   
+ 0.13   save (v) | sauver | halten | parar | parare   
+ 0.14 M extra time | la prolongation | die Verlängerung | el tiempo extra | il tempo supplem~   
+ 0.15 M league | le championnat | die Liga | la liga | il campionato   
+ 0.16 M yellow card | le canon jaune | die gelbe Karte | la tarjeta amari~ | il cartellino gi~   
+ 0.17 M foul | la faute | das Foul | la falta | il fallo   
+ 0.18 M stadium | le stade | das Stadion | el estadio | lo stadio   
+ 0.19 M substitute | le remplaçant | der Ersatzspieler | el reserva | il sostituto   
+ 0.20 M draw | l égalité | das Unentschieden | el empate | il pareggio   
+ 0.21 M offside | l'hors-jeu | das Abseits | el fuera de juego | il fuorigioco   
+ 0.22 M corner | le corner | der Eckball | el tiro de esqui~ | il calci od'ango~   
+ 0.23 M score a goal (v) | marquer un but | ein Tor schießen | marcar un gol | segnare   
+ 0.24 M substitution | le remplacement | die Auswechslung | el cambio | la sostituzione   
+ 0.25 M halftime | la mi-temps | die Halbzeit | el descanso | l'intervallo   
+ 0.26 M send off | l'expulsion | der Platzverweis | la expulsión | l'espulsione   
+ 0.27 M red card | le canon rouge | die rote Karte | la tarjeta roja | il cartellino ro~   
+ 0.28 M penalty | le penalty | der Elfmeter | el penalty | il rigore   
+====================================================================================================
+== p211 [sport] 19 voci, 9 flag, 3 mancanti, 0 leftover, header=SPO R TS • LES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT
+-- G0 subcat: hockey • le hockey • das Hockey • el hockey • l'hoekey ¡ce hockey • le hockey s~
+   parts: hockey • le hockey • das hockey • el hockey • l'hoekey ¡ce hockey • le hockey sur glace • d~
+ 0.0  ⚠ goal line | la ligne de but | die Torlinie | la línea de meta | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.1  M attack zone | la zone d'attaque | die Angriffszone | la zona de ataque | l'area di attacco   
+ 0.2  ⚠ neutral zone | la zone neutre | die neutrale Zone | la zona neutra! | l'area neutrale   es
+ 0.3  M defending zone | la zone de défen~ | die Verteidigung~ | la zona de defen~ | l'area di difesa   
+ 0.4  M goal keeper | le gardien de but | der Torwart | el portero | il portiere   
+ 0.5  M face-off circle I | le cercle de mis~ | der Anspielkreis | el círculo de fa~ | il circolo di co~   
+ 0.6  M goal | le but | das Tor | la portería | la porta   
+ 0.7  ⚠ centre circle f | le cercle centrai | der Mittelkreis | el circu lo cent~ | il cerchio centr~   en
+ 0.8  ⚠ glove | le gam | der Handschuh | el guante | I guanto   it
+ 0.9  M pad | la protection | das Polster | la hombrera | il parastinchi   
+ 0.10 M stick | la crosse | der Schläger | el palo | la mazza   
+ 0.11 M ice skate | le patin à glace | der Schlittschuh | el patín de cuch~ | il pattino   
+ 0.12 ⚠ ice hockey rink | la patinoire | die Eisfläche so~ | la pista da hock~ | ?   missing
+-- G1 subcat: field hockey • le hockey • das Hockey • el hockey sobre pasto • l'hoekey sull'e~
+   parts: field hockey • le hockey • das hockey • el hockey sobre pasto • l'hoekey sull'erba
+ 1.0  ⚠ ? | le palet | der Puck | el disco | il dischetto   missing
+ 1.1  M hockey stick | la crosse de hoc~ | der Hockeyschläg~ | el palo de hockey | la mazza da hock~   
+ 1.2  M ice hockey player | le hockeyeur | der Eishockeyspi~ | el jugador de ho~ | il giocatore di ~   
+ 1.3  M ball | la halle | der Hockeyball | la pelota | la pallina   
+ 1.4  M skate (v) | patiner | Schlittschuh lau~ | patinar | pattinare   
+ 1.5    hit (v) | frapper | schlagen | golpear | colpire   
+====================================================================================================
+== p212 [sport] 18 voci, 14 flag, 0 mancanti, 0 leftover, header=SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: cricket • le cricket • das Kricket • el criquet • il cricket
+   parts: cricket • le cricket • das kricket • el criquet • il cricket
+ 0.0  M pitch | le terrain de cr~ | die Spielbahn | el campo de criq~ | il campo di cric~   
+ 0.1  ⚠ wicket | le guichet | das Krickettor | el rastrillo | il w icket   it
+ 0.2  M batsman | le batteur | der Schlagmann | el bateador | il battitore   
+ 0.3  M face mask | le masque protec~ | die Gesichtsschu~ | el protector de ~ | la maschera prot~   
+ 0.4  ⚠ aligned'envoi | die Wurflinie | la línea del | bateador | la linca   fr
+ 0.5  ⚠ boundary line | la limite du ter~ | die Spielfeldgre~ | la línea de tondo | I limite „   it
+ 0.6  M bowler | le lanceur | der Werfer | el lanzador | il lanciatore   
+ 0.7  M stump | le piquet | der Stab | el palo | l'asticella   
+ 0.8  M leg pad | la jambière | das Polster | el protector de ~ | il parastinchi   
+ 0.9  M bat | la barte | das Schlagholz | el bate | la mazza   
+ 0.10   bat (v) | trapper | schlagen | batear | colpire   
+ 0.11   bowl (v) | lancer | werfen | lanzar | lanciare   
+ 0.12 M cricket ball | la balle de criq~ | der Kricketball | pelota de criquet | la pallina da cr~   
+ 0.13 M cricket player | le jouer de cric~ | der Kricketspiel~ | jugador de criq ~ | il giocatore di ~   
+ 0.14 M umpire | l'arbitre | der Schiedsricht~ | el árbitro | l'arbitro   
+ 0.15 M scoreboard | le tableau de po~ | die Anzeigetafel | el marcador | il tabellone dei~   
+ 0.16 M wicket-keeper | le gardien de but | der Torwächter | el guardián del ~ | il ricevitore   
+ 0.17 M field (v) | atrraper | fangen | interceptar y de~ | difendere   
+====================================================================================================
+== p213 [sport] 21 voci, 9 flag, 1 mancanti, 0 leftover, header=SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: basketball • le basket • der Basketball • el baloncesto • la pallacanestro
+   parts: basketball • le basket • der basketball • el baloncesto • la pallacanestro
+ 0.0  M sideline | la ligne de touc~ | die Seitenlinie | la línea de banda | la linea laterale   
+ 0.1  ⚠ referee | Parbirrc | der Schiedsricht~ | el árbitro | l'arbitro   fr
+ 0.2  M center circle | le cercle central | der Mittelkreis | el circu lo cent~ | il dischetto   
+ 0.3  M free-throw Ime | la ligne de lanc~ | die Freiwurflinie | la línea de tiro~ | la linea di tiro~   
+ 0.4  M endline | la ligne de bout | die Endlinie | la línea de fondo | la linea di fondo   
+ 0.5  ⚠ Y i centerline | la ligne de cent~ | die Mittellinie | la línea central | la linea di cent~   en wrap
+ 0.6  M court | le terrain | das Spielfeld | la cancha | il campo   
+ 0.7  ⚠ i three point li~ | la ligne de troi~ | die D reip u n k~ | la línea de tres~ | la linea dei tre~   de
+ 0.8  M backboard | le panneau | das Korbbrett | el tablero | il tabellone   
+ 0.9  M number | le numéro | die Spielernummer | el número | il numero   
+ 0.10 M pass | la passe | der Pass | el pase | il passaggio   
+ 0.11 M throw in | la rentrée | der Einwurf | el saque de banda | la rimessa   
+ 0.12 M ball | le ballon | der Basketball | el balón | il pallone   
+ 0.13 M hoop | l'anneau | der Korbring | el aro | l'anello   
+ 0.14 M foul | la faute | das Foul | la falta | il fallo   
+ 0.15 M jump ball | l'entre-deux | der Schiedsnchte~ | el salto entre d~ | il tiro in sospe~   
+ 0.16 ⚠ ? | le hict | das Netz | la red | la rete   missing
+ 0.17 M rebound | le rebond | der Rebound | el rebote | il rimbalzo   
+ 0.18 M out of bounds | hors jeu | aus | fuera de banda | fuori campo   
+ 0.19 M basket | le panier | erKort | la canasta | il canestro   
+ 0.20 M basketball player | le joueur de bas~ | der Basketballsp~ | el jugador de ba~ | il giocatore di ~   
+====================================================================================================
+== p214 [sport] 14 voci, 12 flag, 1 mancanti, 0 leftover, header=SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: actions • Ies actions • die Aktionen • las acciones • le azioni
+   parts: actions • ies actions • die aktionen • las acciones • le azioni
+ 0.0    jump (v) | saurer | springen | saltar | saltare   
+ 0.1    shoot (v) | tirer | schießen | tirar | tirare   
+ 0.2    throw (v) | lancer | werfen | lanzar | tirare   
+ 0.3  ⚠ catch (v) | arrraper | fangen | cachar | acchiappare   fr
+ 0.4  M dunk (v) | faire un dunk | einen Dunk spiel~ | marcar | segnare   
+ 0.5  M dribble (v) | faire rebondir | springen lassen | botar | rimbalzare   
+ 0.6  ⚠ block / | bloquer | blocken | bloquear | bloccare   en
+ 0.7    cover (v) | marquer | decken | marcar | marcare   
+-- G1 subcat: volleyball • le volley • der Volleyball • cl vóleibol • la pallavolo
+   parts: volleyball • le volley • der volleyball • el vóleibol • la pallavolo
+ 1.0  ⚠ block v | bloquer | blocken | bloquear | contrastare   en
+ 1.1  M referee | l'arbitre | der Schiedsricht~ | el árbitro | l'arbitro   
+ 1.2  M net | le filet | das Netz | la red | la rete   
+ 1.3  M knee support | la genouillère | der Knieschützer | la rodillera | la ginocchiera   
+ 1.4  ⚠ m anchette | baggern | recib ir | difendere | ?   en missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 1.5  M court | le terrain | das Spielfeld | la cancha | il campo   
+====================================================================================================
+== p215 [sport] 18 voci, 13 flag, 3 mancanti, 2 leftover, header=SPORTS • LLS SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT
+-- G0 subcat: baseball • le baseball • der Baseball • el béisbol ¡I baseball
+   parts: baseball • le baseball • der baseball • el béisbol ¡i baseball
+ 0.0  ⚠ field | le terrain | ? | ? | ?   missing
+ 0.1  ⚠ campo | ? | ? | ? | ?   missing
+ 0.2  M left field | le champ gauche | das linke Feld | el exterior izqu~ | il campo sinistro   
+ 0.3  M infield | le champ intérie~ | das Innenfeld | el interior | il campo interno   
+ 0.4  M center field | le champ central | das Mittelfeld | el centro del ca~ | il centrocampo   
+ 0.5  ⚠ ? | ? | ? | el bate | la mazza   missing
+ 0.6  M helmet | le casque | der Helm | el casco | il casco   
+ 0.7  M baseman | l'homme de hase | der Maispieler | base | il giocatore di ~   
+ 0.8  ⚠ pitcher's mound | le mont du lance~ | die Werferplatte | el montículo del~ | la pedana di lan~   es
+ 0.9  ⚠ home piate _ ---~ | la base du batte~ | das Schlagmal | el home | la base di battu~   en
+ 0.10 M batter | le batteur | der Schlagmann | el bateador | il battitore   
+ 0.11 M inning | le tour de batte | das Inning | turno | il turno di batt~   
+ 0.12 M safe | sauf | in Sicherheit | safe | salvo   
+ 0.13 M sinke | le coup manque | der Schlagfehler | d strike | lo strike   
+ 0.14 M ball | la balle | der Baseball | la boia | la palla   
+ 0.15 M foul ball | la fausse balle | der ungültige Sc~ | el foul | il fallo   
+ 0.16 M glove | le gant | der Handschuh | la manopla | il guantone   
+ 0.17 M mask | le masque | die Schutzmaske | la careta | la maschera   
+   LEFT 'das Spielfeld' @[198, 115] (riga singola isolata)
+   LEFT 'campo' @[410, 116] (riga singola isolata)
+====================================================================================================
+== p216 [sport] 18 voci, 15 flag, 3 mancanti, 1 leftover, header=SP O R TS ♦ LES S P O R T S • DER SPORT • L O S D E P O R T~
+-- G0 subcat: actions • les actions • die Aktionen • las acciones
+   parts: actions • les actions • die aktionen • las acciones
+ 0.0  ⚠ ? | le azioni | ? | ? | ?   missing
+ 0.1  ⚠ foul line | la ligne de péna~ | die Foullinie | la línea de falta | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.2  ⚠ right field | le cham p droir | das rechte Feld | el exterior dere~ | il campo destro   fr
+ 0.3  M outfield | le champ extérie~ | das Außenfeld | el exterior | il campo esterno   
+ 0.4  ⚠ catch z | attraper | fangen | atrapar | acchiappare   en
+ 0.5    throw (v) | lancer | werfen | lanzar | lanciare   
+ 0.6  M team | l'équipe | das Team | el equipo | la squadra   
+ 0.7  M field (v) | être en défense | als Fänger spiel~ | defender | difendere   
+ 0.8    run (v) | courir | rennen | correr | correre   
+ 0.9    slide (v) | glisser | rutschen | barrer | scivolare   
+ 0.10 M dugout | le banc de rauche | die Spielerbank | la banca | la fossa   
+ 0.11   tag (v) | courser | hinterherlaufen | perseguir | inseguire   
+ 0.12 M umpire | l'arbitre | der Schiedsricht~ | el um pire | l'arbitro   
+ 0.13 ⚠ bat (v) | harter | schlagen | hatear | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 0.14 ⚠ pitch (v) | lancer | werfen | lan/.ar | servire   es
+ 0.15 ⚠ catcher | le receveur | der Fänger | el catcher | I ricevitore   it
+ 0.16 M pitcher | le lanceur | der Werfer | el pitcher | il pitcher   
+ 0.17   play (v) | jouer | spielen | jugar | giocare   
+   LEFT '229' @[836, 1085] (riga singola isolata)
+====================================================================================================
+== p217 [sport] 29 voci, 6 flag, 0 mancanti, 0 leftover, header=S P O R T S • LES S P O R T S • DER SPORT • L O S DEPORTES ~
+-- G0 subcat: tennis • le tennis • das Tennis • el tenis • il tennis
+   parts: tennis • le tennis • das tennis • el tenis • il tennis
+ 0.0  M handle | le manche | der Griff | el mango | l'impugnatura   
+ 0.1  M head | la tête | der Kopf | la cabeza | la testa   
+ 0.2  M string | la corde | die Saite | la cuerda | la corda   
+ 0.3  M umpire | l'arbitre | der Schiedsricht~ | el juez de silla | l'arbitro   
+ 0.4  M baseline | la ligne de fond | die Grundlinie | la línea de fondo | la linea di fondo   
+ 0.5  M racquet | la raquette | der Tennisschläg~ | la raqueta | la racchetta   
+ 0.6  M service line | la ligne de serv~ | die Aufschlaglin~ | la línea de serv~ | la linea di serv~   
+ 0.7  M sideline | la ligne de côté | die Seitenlinie | la línea de banda | la linea laterale   
+ 0.8  M ball | la balle | der Tennisball | la bola | la palla   
+ 0.9  M wristband | le poignet | das Schweißband | la muñequera | il polsino   
+ 0.10 M tennis court | le court de tenn~ | der Tennisplatz | la pista de tenis | il campo   
+ 0.11 M singles | le simple | das Einzel | el singles | il singolare   
+ 0.12 M set | le set | der Satz | el set | il set   
+ 0.13 M deuce | l 'égalité | der Einstand | cuarenta iguales | il deuce   
+ 0.14 M fault | la faute | der Fehler | la falta | il fallo   
+ 0.15 M slice | les lice | der Slice | el tiro con efec~ | il taglio   
+ 0.16 M spin | l'effet | der Spin | el efecto | l'avvitamento   
+ 0.17 M doubles | le double | das Doppel | los dobles | il doppio   
+ 0.18 M match | le match | das Match | el partido | la partita   
+ 0.19 M advantage | l'avantage | der Vorteil | la ventaja | il vantaggio   
+ 0.20 M ace | l'as | das Ass | e las | l'asso   
+ 0.21 M rally | l'échange | der Ballwechsel | el peloteo | il palleggio   
+ 0.22 M linesman | le juge de ligne | der Linienrichter | el juez de línea | il giudice di li~   
+ 0.23 M game | le jeu | das Spiel | el juego | il gioco   
+ 0.24 M tiebreaker | le riebreak | der Tiebreak | el tiebreak | il tiebreak   
+ 0.25 M love | zéro | null | nada | a zero   
+ 0.26 M dropshot | l'amorti | der Stoppball | la dejada | la smorzata   
+ 0.27 ⚠ let! | net! | Netz! | red! | colpo nullo!   de en es fr it
+ 0.28 M championship | le championnat | die Meisterschaft | el campeonato | il campionato   
+====================================================================================================
+== p218 [sport] 16 voci, 14 flag, 2 mancanti, 2 leftover, header=SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: strokes • les coups »die Schläge • los golpes • i colpi
+   parts: strokes • les coups »die schläge • los golpes • i colpi
+ 0.0  M ballboy | le ram asscur de~ | der Balljunge | el recogebolas | il raccattapalle   
+ 0.1  M serve | le service | der Aufschlag | el servicio | il servizio   
+ 0.2  M volley | la voilée | der Volley | la volea | il palleggio   
+ 0.3  M serve (v) | servir | aufschlagen | sacar | battere il servi~   
+ 0.4  M lob | le lob | der Lob | el globo | la schiacciata   
+ 0.5  M return | le retour | der Return | el resto | il ritorno   
+ 0.6  M tennis shoes | les tennis | die Tennisschuh | los tenis | le scarpe da ten~   
+ 0.7  M backhand | le revers | die Rückhand | el revés | il rovescio   
+ 0.8  M forehand | le coup droit | die Vorhand | el derecho | il dritto   
+ 0.9  M player | le joueur | der Tennisspieler | el jugador | il giocatore   
+-- G1 subcat: racquet games • les jeux Je raquette • die Schlägerspiele • los juegos de raque~
+   parts: racquet games • les jeux je raquette • die schlägerspiele • los juegos de raqueta • i gioch~
+ 1.0  M shuttlecock | le volant | der Federball | el gallo | il volano   
+ 1.1  ⚠ bat | la raquette | der Tischtenniss~ | la raqueta la ra~ | ?   missing
+ 1.2  M racquetball | le racquetball | der Racquetball | el racketbaJI | il racquetball   
+ 1.3  ⚠ squash ® le squa~ | ? | das Squash | el squash | lo squash   en missing
+ 1.4  M table tennis | le tennis de tab~ | das Tischtennis | el ping-pong | il ping pong   
+ 1.5  M badminton | le badminton | das Badminton | el bádm inton | il badminton   
+   LEFT 'la schiacciata' @[262, 154] (riga singola isolata)
+   LEFT 'S i' @[111, 672] (riga singola isolata)
+====================================================================================================
+== p219 [sport] 12 voci, 7 flag, 1 mancanti, 0 leftover, header=SPORTS • I FS SPORTS • DER SPORT • T O S DEPORTES • GLI SPO~
+-- G0 subcat: golf • le golf • das Golf • el golf • ¡I golf
+   parts: golf • le golf • das golf • el golf • i golf
+ 0.0  ⚠ bunker | le bunker | der Bunker | la trampa de | I   it
+ 0.1  M flag | le drapeau | die Flagge | la banderola | la bandierina   
+ 0.2  M green | le green | das Grün | el green | il green   
+ 0.3  M teeing ground | le départ | der Abschlag | la salida | il teeing-ground   
+ 0.4  M hole | le trou | das Loch | el hoyo | la buca   
+ 0.5  M swing (v) | exécuter un swing | schwingen | hacer un swing | fare lo swing   
+ 0.6  ⚠ water hazard | P obstacle d 'eau | das Wasserhinder~ | el estanque | lo stagno   fr
+ 0.7  ⚠ golf course | le parcours de g~ | der Golfplatz | el campo de golf | I campo di golf   it
+ 0.8  M buggy | le buggy | der Buggy | el carrito | il buggy   
+ 0.9  ⚠ ? | la position | die Haltung | la postura | la posizione   missing
+ 0.10 M golfer | le joueur de golf | der Golfspieler | el golfista | il golfista   
+ 0.11 ⚠ clubhouse | le pavillon | das Klubhaus | la casa d u b | la sede del circ~   es
+====================================================================================================
+== p220 [sport] 30 voci, 15 flag, 1 mancanti, 0 leftover, header=SP O R TS • L K S S P O R T S • DER SPORT • L O S D E P O R~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M golf clubs | les clubs de golf | die Golf schläger | los palos de golf | le mazze da golf   
+-- G1 subcat: equipment • l'équipement • die Ausrüstung • el equipo
+   parts: equipment • l'équipement • die ausrüstung • el equipo
+ 1.0  M umbrella | le parapluie | der Schirm | el paraguas | l'ombrello   
+ 1.1  ⚠ ? | le attrezzature | ? | ? | ?   missing
+ 1.2  ⚠ golf ball | Li balle de golf | der Golfball | la boia de golf | la pallina da go~   fr
+ 1.3  M golf bag | le sac de golf | die Golftasche | la bolsa de goll | la sacca da golf   
+ 1.4  M spikes | les pointes | die Spikes | los spikes | i chiodi   
+ 1.5  M wood | le bois | das Holz | la madera | la mazza di legno   
+ 1.6  M tee | le tee | der Aufsatz | el tee | il tee   
+ 1.7  M golf shoe | la chaussure de ~ | der Golfschuh | el zapato de golf | la scarpa da golf   
+ 1.8  M glove | le gant | der Handschuh | el guante | il guanto   
+ 1.9  M bag cart | le caddie | der Caddie | el carrito de go~ | il carrellino   
+ 1.10 ⚠ putter | le putrer | der Putter | el p u tier | il putter   es
+-- G2 subcat: actions • Ics actions • die Aktionen • las acciones • le azioni
+   parts: actions • ics actions • die aktionen • las acciones • le azioni
+-- G3 subcat: 4
+ 3.0  M iron | le fer | das Eisen | el fierro | la mazza di   
+ 3.1  M putt (v) | putier | einlochen | tirar al hoyo co~ | colpire leggerme~   
+ 3.2  M chip (v) | cocher | chippen | hacer un chip | colpire da vicino   
+ 3.3  M tee off (v) | partir du tec | vom Abschlag spi~ | salir | cominciare la pa~   
+ 3.4  M drive (v) | driver | driven | hacer un drive | colpire a distan~   
+ 3.5  M wedge | la cale | das Wedge | el wedge | la mazza ricurva   
+ 3.6  M backswing | le swing en arri~ | der Durchschwung | el backswing | il back-swing   
+ 3.7  M caddy | le caddie | der Caddie | el caddy | il caddy   
+ 3.8  M stroke | le coup | der Schlag | el golpe | il colpo   
+ 3.9  M over par | le over par | das Überpar | sobre par | l'overpar   
+ 3.10 M handicap | le handicap | das Golfhandicap | el handicap | l'handicap   
+ 3.11 M par | le par | das Par | el par | il par   
+ 3.12 M spectators | les spectateurs | die Zuschauer | los espectadores | gli spettatori   
+ 3.13 M practice swing | le swing d' essai | der Übungsschwung | el sw ing de prá~ | lo swing di prat~   
+ 3.14 M line of play | la ligne de jeu | die Spielbahn | la línea de juego | la linea di gioco   
+ 3.15 M tournament | le tournoi | das Golfturnier | el torneo | il torneo   
+ 3.16 M hole in one | le trou en un | das Hoie-in-One | el hoyo en uno | la buca in uno   
+ 3.17 M under par | le under par | das Unterpar | el bajo par | l'undcrpar   
+====================================================================================================
+== p221 [sport] 20 voci, 12 flag, 0 mancanti, 2 leftover, header=SP O R TS ■ L E S S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: track and field • l'athlétisme • die Leichtathletik • el atletismo • l'atletica
+   parts: track and field • l'athlétisme • die leichtathletik • el atletismo • l'atletica
+ 0.0  ⚠ lane | It coulo ir | die Bahn | el carril | la corsia   fr
+ 0.1  M track | la piste | die Rennbahn | la pista | la pista   
+ 0.2  M finish line | lu ligne d'arriv~ | die Ziellinie | la línea de meta | il traguardo   
+ 0.3  M starting line | la ligne de dépa~ | die Startlinie | la línea de sali~ | la linea di part~   
+ 0.4  M field | le terrain | das Feld | el campo | il campo   
+ 0.5  M athlete | l'athlète | die Leichtathlet~ | la atleta | l'atleta   
+ 0.6  ⚠ starting blocks! | Ic bloc de départ | der Startblock | el cajón de sali~ | la pedana di par~   en fr
+ 0.7  M sprinter | le sprinter | der Sprinter | e les primer | il velocista   
+ 0.8  M discus | le disque | das Diskuswerfen | el lanzamiento d~ | il lancio del di~   
+ 0.9  M shotput | le lancement du ~ | das Kugelstoßen | el lanzamiento d~ | il lancio del pe~   
+ 0.10 ⚠ javelin | le javelot | das Speerwerfen | el lanzamiento d~ | I laricio del gi~   it
+ 0.11 M race | la course | das Rennen | la carrera | la gara   
+ 0.12 M record | le record | der Rekord | el récord | il primato   
+ 0.13 M photo finish | le photo-finish | das Fotofinish | la foto final | il fotofinish   
+ 0.14 M pole vault | le saut à la per~ | der Stabhochspru~ | el salto con pér~ | il salto con l'a~   
+ 0.15 M time | le temps | die Zeit | el tiempo | il tempo   
+ 0.16 M break a record (~ | battre un record | einen Rekord bre~ | batir un récord | battere un prima~   
+ 0.17 M marathon | le marathon | der Marathon | lama ratón | la maratona   
+ 0.18 M personal best | le record person~ | die persönliche ~ | la marca personal | il primato perso~   
+ 0.19 M stopwatch | le chronomètre | die Stoppuhr | el cronòm etro | il cronometro   
+   LEFT 'J ,' @[314, 741] (riga singola isolata)
+   LEFT 'fi' @[390, 744] (riga singola isolata)
+====================================================================================================
+== p222 [sport] 27 voci, 16 flag, 3 mancanti, 0 leftover, header=S P O R T S • I ES S P O R T S • DER SPORT • L O S D E P O ~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M bar | la barre | die Latte | la barra | la sbarra   
+ 0.1  ⚠ bacon | le bâton | der Stab | el relevo | I testimone   it
+ 0.2  M hurdles | les haies | der Hürdenlauf | la carrera de va~ | la corsa a ostac~   
+ 0.3  ⚠ high jump | le saur en haute~ | der Hochsprung | el salto de altu~ | I salto in alto   it
+ 0.4  M long jump | le saut en longu~ | der Weitsprung | el salto de long~ | il salto in lungo   
+ 0.5  M relay race | le relais | der Staffellauf | la carrera de re~ | la staffetta   
+-- G1 subcat: gymnastics • la gymnastique • das Turnen • la gimnasia • la ginnastica
+   parts: gymnastics • la gymnastique • das turnen • la gimnasia • la ginnastica
+ 1.0  M gymnast | la gymnaste | die Turnerin | la gimnasta | la ginnasta   
+ 1.1  M springboard | le tremplin | das Sprungbrett | el trampolín | la pedana elasti~   
+ 1.2  M borse | le cheval | das Pferd | el caballo | il cavallo   
+ 1.3  M beam | la poutre | der Schwebebalken | la viga de equil~ | la trave   
+ 1.4  ⚠ somersault | les alto | der Salto | el salto m ortai | la capriola   es
+ 1.5  M ribbon | le drapeau | das Gymnastikband | el listón | il nastro   
+ 1.6  ⚠ y | ? | ? | ? | I   it missing slot-ambig
+        ALTS: [['fr', 'it'], ['de', 'it'], ['es', 'it']]
+ 1.7  M rhythmic gymnast~ | la gymnastique r~ | die rhythmische ~ | la gimnasia ritm~ | la ginnastica ri~   
+ 1.8  ⚠ cartwheel | la cabriole | die Bodenakrobat~ | la voltereta la ~ | ?   missing
+ 1.9  ⚠ floor exercises | les exercises au~ | das Bodenturnen ~ | ? | ?   missing
+ 1.10 M vault | le saur | der Sprung | el salto | il salto   
+ 1.11 M silver | l'argent | das Silber | la plata | l'argento   
+ 1.12 ⚠ medals | les médailles | die Medaillen | las m edallas | le medaglie   es
+ 1.13 M rings | les anneaux | die Ringe | las argollas | gli anelli   
+ 1.14 M asymmetric bars | les barres asymé~ | der Stufenbarren | las barras asim ~ | le sbarre asimme~   
+ 1.15 M horizontal bar | la barre fixe | das Reck | la barra fija | la sbarra   
+ 1.16 M bronze | le bronze | die Bronze | el bronce | il bronzo   
+ 1.17 M podium | le podium | das Siegerpodium | el podio | il podio   
+ 1.18 M gold | l'or | das Gold | el oro | l'oro   
+ 1.19 M pommel horse | le cheval d'arço~ | das Seitpferd | el caballo con a~ | il cavallo   
+ 1.20 ⚠ parallel bars | Ies barres paral~ | der Barren | las barras paral~ | le parallele   fr
+====================================================================================================
+== p223 [sport] 13 voci, 8 flag, 0 mancanti, 0 leftover, header=SP O R TS • I ES SPORTS • DER SPORT • LOS DEPORTES • GLI SP~
+-- G0 subcat: combat sports • les sports de combat • der Kampfsport • los deportes de combate~
+   parts: combat sports • les sports de combat • der kampfsport • los deportes de combate • gli sport~
+ 0.0  M opponent | l'adversaire | der Gegner | el adversario | l'avversario   
+ 0.1  M guard | le protège-téte | der Kopfschutz | el protector | il casco   
+ 0.2  M karate | le karaté | das Karate | el karate | il karate   
+ 0.3  M glove | le gam | der Handschuh | el guante | il guanto   
+ 0.4  M belt | la ceinture | der Gürtel | el cinturón | la cintura   
+ 0.5  M tae kwon do | le taekw ondo | das Taekwondo | el taekw ondo | il tae kwondo   
+ 0.6  M mask | le masque | die Maske | la careta | la maschera   
+ 0.7  M ludo | le judo | das Judo | el judo | il judo   
+-- G1 subcat: As
+   parts: as
+ 1.0  ⚠ aikido | I aikid o | das Aikido | el aikido | l'aikido   fr
+-- G2 subcat: kendo • le kendo • das Kendo • el kendo • il kendo
+   parts: kendo • le kendo • das kendo • el kendo • il kendo
+ 2.0  M kung fu | le kung-fu | das Kung-Fu | el kung fu | il kung fu   
+ 2.1  M kickboxing | la hove thaïland~ | das Kickboxen | el fu ll contact | il kickboxing   
+ 2.2  ⚠ wrestling | la Iurte | das Ringen | la lucha libre | la lotta greco-r~   fr
+ 2.3  M boxing | la boxe | das Boxen | el boxeo | il pugilato   
+====================================================================================================
+== p224 [sport] 25 voci, 14 flag, 0 mancanti, 3 leftover, header=SPO R TS • L E S S P O R T S • DER SPORT • L O S D E P O R ~
+-- G0 subcat: actions • les actions • die Techniken • los m ovim ientos • le mosse
+   parts: actions • les actions • die techniken • los m ovim ientos • le mosse
+-- G1 subcat: t
+   parts: t
+-- G2 subcat: X -K. J0
+   parts: x -k. j
+ 2.0  ⚠ pin | Pim m obilisation | das Fesseln | la inmovilización | la caduta   fr
+ 2.1  M throw | la projection | der Wurf | el derribo | la proiezione   
+ 2.2  M hold | la prise | der Griff | el agarre | la presa   
+ 2.3  M fall | la chute | das Fallen | la caída | la scivolata   
+-- G3 subcat: J
+   parts: j
+ 3.0  M strike | le coup | der Angriff | el golpe | il colpo   
+ 3.1  M punch | le coup de poing | der Stoß | el puñetazo | il pugno   
+ 3.2  M kick | le coup de pied | der Seitfußstoß | la patada | il calcio   
+ 3.3  M block | le blocage | der Block | el bloqueo | la parata   
+ 3.4  M chop | le coup | der Hieb | el golpe | il colpo di tagl~   
+ 3.5  M jump | le saut | der Sprung | el salto | il salto   
+ 3.6  M black belt | la ceinture noire | der schwarze Gür~ | el cinturón negro | la cintura nera   
+ 3.7  M capoeira | la capoeira | das Capoeira | la capoeira | la capoeira   
+ 3.8  M fist | le poing | die Faust | el puño | il pugno   
+ 3.9  M boxing ring | le ring | der Boxring | el ring | il ring   
+ 3.10 M round | le round | die Runde | el round | il round   
+ 3.11 M sumo wrestling | le sumo | das Sumo | el sumo | il sumo   
+ 3.12 M self-defense | l'autodéfense | die Selbstvertei~ | la defensa perso~ | l'autodifesa   
+ 3.13 ⚠ knockout | le knock-out | der Knockout | el K .O | il k.o   es it
+ 3.14 M boxing gloves | les gants de boxe | die Boxhandschuhe | los guantes de b~ | i guanti   
+ 3.15 M bout | le combat | der Kampf | el combate | l'incontro   
+ 3.16 M punching bag | le punching-bag | der Sandsack | el saco de arena | il sacco   
+ 3.17 ⚠ martial arts | les arts martiaux | die Kampfsportar~ | las artes m arci~ | le arti marziali   es
+ 3.18 M tal-chi | le tai chi | das Tai Chi | el tai-chi | il tai-chi   
+ 3.19 M mouth guard | le protège-dents | der Mundschutz | el protegedientes | l paradenti   
+ 3.20 ⚠ Sparring | l'entraînement | das Sparren | el entrenamiento | l'alicnamento   en
+   LEFT '4L' @[319, 259] (riga singola isolata)
+   LEFT 'V' @[380, 484] (riga singola isolata)
+   LEFT 'V' @[259, 734] (riga singola isolata)
+====================================================================================================
+== p225 [sport] 17 voci, 13 flag, 0 mancanti, 0 leftover, header=SP O R TS • I FS S P O R T S • DER SPORT • L O S D E P O R ~
+-- G0 subcat: swimming • la natation • der Schwimmsport • la natación • il nuoto e q u ip m e~
+   parts: swimming • la natation • der schwimmsport • la natación • il nuoto e q u ip m e n t • l'équ~
+ 0.0  M nose clip | la pince pour Ic~ | die Nasenklemme | la pinza para la~ | la molletta per ~   
+ 0.1  M swim band | la brassière | der Schwimmflügel | el flotador de b~ | il bracciolo   
+ 0.2  M goggles | les lunettes pro~ | die Schwimmbrille | los goggles | gli occhialetti   
+ 0.3  M kickboard | la planche | das Schwimmfloß | la tabla | la tavoletta   
+ 0.4  M swimsuit | le maillot de ba~ | der Badeanzug | el traje de baño | il costume da ba~   
+ 0.5  M swimming cap | le bonnet de nat~ | die Badekappe | la gorra | la cuffia   
+ 0.6  M lane | le couloir | die Bahn | el carril | la corsia   
+ 0.7  ⚠ water | I'cau | das Wasser | el agua | l'acqua   fr
+ 0.8  ⚠ trunks | Ic slip de bain | die Badehose | el traje de bañd | il costume da ba~   fr wrap
+ 0.9  M starting block | le plot de départ | der Startblock | el cajón de sali~ | il podio di part~   
+ 0.10 M swimming pool | la piscine | das Schwimmbecken | la alberca | la piscina   
+ 0.11 M diver | le plongeur | der Springer | el clavadista | il tuffatore   
+ 0.12 ⚠ diving board | le tremplin | das Sprungbrett | el trampolín | I trampolino   it
+ 0.13 M swimmer | le nageur | der Schwimmer | el nadador | il nuotatore   
+ 0.14 M dive (v) | plonger | springen | tirarse un clava~ | tuffarsi   
+ 0.15   swim (v) | nager | schwimmen | nadar | nuotare   
+ 0.16 M tum | le tour | die Kehre | el giro | la giravolta   
+====================================================================================================
+== p226 [sport] 27 voci, 15 flag, 6 mancanti, 1 leftover, header=SP O R TS • I .ES S P O R T S • DER SPORT • L O S D E P O R~
+-- G0 subcat: les styles
+   parts: les styles
+-- G1 subcat: los estilos stili
+   parts: los estilos stili
+-- G2 subcat: • die Schwimmstile •
+   parts: die schwimmstile
+ 2.0  ⚠ styles | ? | ? | ? | ?   missing
+ 2.1  ⚠ ? | ? | ? | ? | gli   missing
+ 2.2  M breaststroke | la brasse | das Brustschwimm~ | el pecho | la rana   
+ 2.3  M ont crawl | le crawl | das Kraulen | el crol | lu stile libero   
+ 2.4  M stroke | la nage | der Zug | la brazada | la bracciata   
+ 2.5  ⚠ kick | le coup de pied | der Stoß | la patada | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 2.6  M butterfly | le papillon | der Butterfly | la mariposa | la farfalla   
+ 2.7  M backstroke | la nage sur le c~ | das Rückenschwim~ | el dorso | il dorso scuba d~   
+-- G3 subcat: la plongée • das Tauchen • el buceo • ¡I nuoto subacqueo
+   parts: la plongée • das tauchen • el buceo • ¡i nuoto subacqueo
+ 3.0  M air cylinder | la bouteille d'a~ | die Druckluftfla~ | el tanque | la bombola   
+ 3.1  M wetsuit | la combinaison d~ | der Taucheranzug | el traje de buzo | la tuta subacquea   
+ 3.2  M snorkel | le tuba | der Schnorchel | el tubo | il boccaglio   
+ 3.3  ⚠ mask | le masque | die Tauchermaske | ? | ?   missing
+ 3.4  ⚠ I regulator | le régulateur | der Lungenautoma~ | el regulador | il regolatore   en
+ 3.5  ⚠ ? | la ceinture de p~ | der Bleigürtel | el cinturón ile ~ | la cintura do pe~   missing
+ 3.6  ⚠ ? | la palme | die Schwimmflosse | la aleta | la pinna   missing
+ 3.7  M shallow end | le petit bassin | das flache Ende | la zona poco pro~ | la parte bassa   
+ 3.8  M water polo | le water-polo | der Wasserball | el vvaterpolo | la pallanuoto   
+ 3.9  M cramp | la crampe | der Krampf | el calambre | il crampo   
+ 3.10 M racing dive | le départ plongé | der Startsprung | el clavado de sa~ | il tuffo di rinc~   
+ 3.11 M lockers | les casiers | die Schließfächer | las taquillas | gli armadietti   
+ 3.12 M dive | le plongeon | der Sprung | el clavado | il tuffo   
+ 3.13 M drown (v) | sc noyer | ertrinken | ahogarse | annegare   
+ 3.14 M lifeguard | le maître nageur | der Bademeister | el salvavidas | il bagnino   
+ 3.15 M deep end | le grand bassin | das tiefe Ende | la zona profunda | la parte profonda   
+ 3.16 M synchronized swi~ | la nage synchron~ | das Synchronschw~ | el nado sincroni~ | il nuoto sincron~   
+ 3.17 M tread water (v) | nager sur place | Wasser treten | hacer agua | tenersi a galla   
+ 3.18 M high dive | le plongeon de h~ | der Turmsprung | el clavado | il tuffo alto   
+   LEFT 'la maschera' @[758, 815] (riga singola isolata)
+====================================================================================================
+== p227 [sport] 17 voci, 10 flag, 0 mancanti, 2 leftover, header=SPO R TS • L E S S P O R T S • DER SPORT • LOS DEPORTES • G~
+-- G0 subcat: sailing • la voile • der Segelsport • la vela • la vela
+   parts: sailing • la voile • der segelsport • la vela • la vela
+ 0.0  M mast | le mât | der Mast | el mástil | l'albero   
+ 0.1  M ngging | le gréement | die Takelung | las jarcias | il sartiame   
+ 0.2  M mainsail | la grand-voile | das Großsegel | la vela ma vor | la vela di maest~   
+ 0.3  ⚠ compass | le compas | der Kompass | la b ruitila | la bussola   es
+ 0.4  M anchor | l'ancre | der Anker | el ancla | l'ancora   
+ 0.5  M headsail | la voile d'avant | die Fock | ello que | la vela di prua   
+ 0.6  M cleat | le raquee | die Klampe | la escotera | la galloccia   
+ 0.7  M sidedeck | le pont de côté | das Seitendeck | la cubierta | il ponte laterale   
+ 0.8  M boom | la bóme | der Baum | la botavara | il boma   
+ 0.9  M bow | l'avant | der Bug | la proa | la prua   
+ 0.10 M stern | l'arrière | das Heck | la popa | la poppa   
+ 0.11   navigate (v) | naviguer | navigieren | navegar | navigare   
+ 0.12 M yacht | le yacht | die Segeljacht | el yate | lo yacht   
+-- G1 subcat: safety • la sécurité • die Sicherheit • la seguridad • la sicurezza
+   parts: safety • la sécurité • die sicherheit • la seguridad • la sicurezza
+ 1.0  ⚠ flare | la fusée éclaira~ | die Leuchtrakete | la bengala | I razzo illumina~   it
+ 1.1  M life preserver | la bouée de sauv~ | der Rettungsring | el salvavidas | il salvagente   
+ 1.2  M life jacket | le gilet de sauv~ | die Schwimmweste | el chaleco salva~ | il giubbotto di ~   
+ 1.3  M life raft | le radeau de sau~ | das Rettungsboot | la balsa salvavi~ | la zattera di sa~   
+   LEFT 'r i' @[364, 140] (riga singola isolata)
+   LEFT 'la barre | die Pinne | la caña del | tim ón | la barra | hull | la coque | der Rumpf | el casco | lo scafo' @[358, 622] (blocco 10 righe non partizionabile)
+====================================================================================================
+== p228 [sport] 29 voci, 16 flag, 2 mancanti, 0 leftover, header=SP O R TS • LES S P O R T S • DER SPORT • L O S D E P O R T~
+-- G0 subcat: watersports • les sports aquatiques • der Wassersport • los deportes acuáticos ~
+   parts: watersports • les sports aquatiques • der wassersport • los deportes acuáticos • gli sport ~
+ 0.0  M oar | la rame | das Ruder | el remo | il remo   
+ 0.1  M rower | le rameur | der Ruderer | el remero | il rematore   
+ 0.2  ⚠ kayak | le kayak | das Kajak | fI I r it V íiíf | ?   es missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.3  M paddle | la pagaie | das Paddel | el remo | la pagaia   
+ 0.4  M row (v) | ramer | rudern | rem ai | remare   
+ 0.5  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['kayaking', 'le canoe', 'der Kanusport', 'el canotaje', 'il canottaggio waterski', 'le ski', 'der Wasserski', 'el esquí', 'lo so']
+ 0.6  ⚠ surfboard | la planche | das Surfbrett | la tabla de su rf | ?   missing
+ 0.7  M sail | la voile | das Segei | la vela | la vela   
+ 0.8  ⚠ windsurfer | le planchiste | der Windsurfer | el w indsurfista | il windsurf   es
+ 0.9  M surfing | le surf | das Wellenreiten | el surfing | il surfing   
+ 0.10 M waterskiing | le ski nautique | das Wasserski | el esquí acuático | lo sci d'acqua   
+ 0.11 M speedboating | le moto nautisme | der Schnellboots~ | la carrera de la~ | la corsa in moto~   
+ 0.12 M footstrap | la bride | die Fußschlaufe | la an tapara el ~ | la presa per il ~   
+ 0.13 ⚠ board | la planche | das Surfbrett | la tabi.i | la tavola   es
+ 0.14 M rafting | le rafting | das Rafting | el ratting | rafting   
+ 0.15 M jet-skiing | le jet-ski | der Wassermotona~ | la moto acuática | l'acquascooter   
+ 0.16 ⚠ windsurfing | la planche à voi~ | das Windsurfing | el w indsurf | il windsurfing   es
+ 0.17 M crew | l'équipage | die Crew | la tripulación | l'equipaggio   
+ 0.18 ⚠ wind | le vent | der Wind | el viento | I vento   it
+ 0.19 M surf | l'écume | die Brandung | la rompiente | la cresta dell'o~   
+ 0.20 M sheet | l'écoute | die Schot | la escota | la scotta   
+ 0.21 M centerboard | la dérive | das Schwert | la orza | il centro della ~   
+ 0.22 M waterskier | le skieur nautiq~ | der Wasserskifah~ | el esquiador acu~ | lo sciatore d'ac~   
+ 0.23 M surfer | le surfeur | der Surfer | el surfista | il surfista   
+ 0.24 M wave | la vague | die Welle | la ola | l'onda   
+ 0.25 M rudder | le gouvernail | das Ruder | el timón | il timone   
+ 0.26   tack (v) | louvoyer | aufkreuzen | virar | bordeggiare   
+ 0.27 M rapids | les rapides | das Wildwasser | los rápidos | le rapide   
+ 0.28   capsize (v) | chavirer | kentern | volcar | capovolgersi   
+====================================================================================================
+== p229 [sport] 21 voci, 10 flag, 1 mancanti, 0 leftover, header=SP O R TS • I KS SPORTS • DER SPORT • LOS DEPORTES • GLI SP~
+-- G0 subcat: horseback riding l'équitation • der Reitsport • la equitación l'equitazione
+   parts: horseback riding l'équitation • der reitsport • la equitación l'equitazione
+ 0.0  ⚠ nding cap | la bombe | der Reithelm | la gorra de mont~ | il cappello da e~   wrap
+ 0.1  M mane | la crinière | die Mähne | la crin | la criniera   
+ 0.2  M rider | le cavalier | der Reiter | el jinete | il fantino   
+ 0.3  M reins | les rênes | die Zügel | las riendas | le redini   
+ 0.4  M saddle | la selle | der Sattel | la siila de mont~ | la sella   
+ 0.5  M horse | le cheval | das Pferd | el caballo | il cavallo   
+ 0.6  M jodhpurs | le jodhpur | die Reithose | el pantalón de m~ | i pantaloni da e~   
+ 0.7  M tail | la queue | der Schweif | la cola | la coda   
+ 0.8  M cinch | la sangle | der Sattelgurt | la cincha | la cinghia   
+ 0.9  ⚠ riding boot -- ' | la botte | der Reitstiefel | la bota de montar | lo stivale da eq~   en wrap
+ 0.10 M stirrup | l'étrier | der Steigbügel | el estribo | la staffa   
+ 0.11 M hoof | le sabor | der Huf | casco | lo zoccolo   
+ 0.12 M pommel | le pommeau | der Vorderzwiesel | el borrén | il nomo   
+ 0.13 ⚠ browband | le fron rail | der Stirnriemen | la frontalera | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.14 ⚠ noseband | la m userolle | der Nasenriemen | la muserola | la cinghia nasale   fr
+ 0.15 M bu | le mors | die Kandare | freno | il morso   
+ 0.16 M seat | le siège | der Sitz | la silla | il sedile   
+ 0.17 M bndle | la bride | das Zaumzeug | la brida | la briglia   
+ 0.18 M horseshoe | le ter à cheval | das Hufeisen | la herradura | il ferro da cava~   
+ 0.19 M sidesaddle | la selle de femme | der Damensattel | la silla de mont~ | la sella da sign~   
+ 0.20 ⚠ riding crop | la cravache | die Reitgerte | I3 fusta | il frustino   es
+====================================================================================================
+== p230 [sport] 23 voci, 15 flag, 1 mancanti, 2 leftover, header=SPO R TS • L E S SPORTS • DER SPORT • LOS DEPORTES • GLI SP~
+-- G0 subcat: Ics courses
+   parts: ics courses
+-- G1 subcat: las modalidades • le
+   parts: las modalidades • le
+ 1.0  ⚠ events | ? | ? | ? | ?   missing
+-- G2 subcat: • die Veranstaltungen •
+   parts: die veranstaltungen
+ 2.0  M fence | l'obstacle | das Hindernis | la valla | l'ostacolo   
+ 2.1  M racehorse | le cheval de cou~ | das Rennpferd | el caballo de ca~ | il cavallo da co~   
+ 2.2  M harness race | la course de trot | das Trabrennen | la carrera al tr~ | la corsa di cale~   
+ 2.3  M steeplechase | le steeple | das Jagdrennen | la carrera de ob~ | la corsa a ostac~   
+ 2.4  M norse race | la course de che~ | das Pferderennen | la carrera de ca~ | la corsa di cava~   
+ 2.5  M carnage race | la course attelée | das Zweispännerr~ | la carrera de ca~ | la corsa di carr~   
+ 2.6  M show jumping | le jumping | das Springreiten | el concurso de s~ | il concorso di s~   
+ 2.7  M rodeo | le rodéo | das Rodeo | el rodeo | il rodeo   
+ 2.8  M dressage | le dressage | das Dressurreiten | la dom a y monta | il dressage   
+ 2.9  M trekking | la randonnée | das Trekking | el paseo | l'escursione a c~   
+ 2.10 M flat race | la course de plat | das Flachrennen | la carrera sin o~ | la corsa in piano   
+ 2.11 M paddock | l'endos | die Koppel | el cercado | il recinto   
+ 2.12 M halter | le licou | das Halfter | el cabestro | la cavezza   
+ 2.13 ⚠ jump | le saut | der Sprung | e.l salto | il salto   es
+ 2.14 M canter | le petit galop | der Kanter | el medio galope | il piccolo galop~   
+ 2.15 M walk | le pas | der Schritt | el paso | il passo   
+ 2.16 M racecourse | le champs de cou~ | die Rennbahn | el hipódromo | l'ippodromo   
+ 2.17 M arena | l'arène | der Turnierplatz | el ruedo | l'arena   
+ 2.18 M stable | l'écurie | der Pferdestall | la cuadra | la stalla   
+ 2.19 M groom | le valet d'écurie | der Stallbursche | el mozo de cuadra | il palafreniere   
+ 2.20 M gallop | le galop | der Galopp | el galope | il galoppo   
+ 2.21 M trot | le trot | der Trab | el trote | il trotto   
+   LEFT 'corse' @[514, 71] (riga singola isolata)
+   LEFT '243' @[844, 1086] (riga singola isolata)
+====================================================================================================
+== p231 [sport] 16 voci, 13 flag, 0 mancanti, 0 leftover, header=SPO R TS • L h S S P O R T S - DER SPORT • L O S DEPORTES •~
+-- G0 subcat: fishing • la peche • der Angelsport • la pesca • la pesca
+   parts: fishing • la pêche • der angelsport • la pesca • la pesca
+ 0.0  M barb | le barbillon | der Widerhaken | la punta | l'uncino   
+ 0.1  M eye | l'œ illet | das Öhr | el ojo | l'occhiello   
+-- G1 subcat: U
+   parts: u
+ 1.0  M sinker | le plomb | das Gewicht | el plomo | l peso   
+ 1.1  M fishhook | l'hameçon | der Angelhaken | el anzuelo | l'amo   
+ 1.2  M bait | l'amorce | der Köder | el cebo | l'esca   
+ 1.3  ⚠ oat | le flotteur | die Pose | I flotador | il galleggiante   es
+ 1.4  ⚠ landing net | Pépuiseue | der Kescher | la red para reco~ | la retina   fr
+ 1.5  M fly | la mouche | die Fliege | la mosca | la mosca   
+ 1.6  ⚠ IÀJ Iure | Pappar | der Köderhaken | el señuelo | l'esca   en fr
+ 1.7  M keep net | la bourriche | der Setzkescher | la red para las ~ | la rete da pesca   
+ 1.8  M line | la ligne | die Schnur | el sedal | la lenza   
+ 1.9  M tackle box | la boite d' équi~ | der Spinnericast~ | la caia de apare~ | la scatola degli~   
+ 1.10 ⚠ fishing rod | la canne à pêche | die Angelrute | la caña de pescar | I3 canna da pesca   it
+ 1.11 M reel | le moulinet | die Rolle | el carrete | il mulinello   
+ 1.12 M waders | les bottes de pê~ | die Watstiefel | las botas altas ~ | gli stivaloni di~   
+ 1.13 M fisherman | le pêcheur | der Angler | el pescador de c~ | il pescatore   
+====================================================================================================
+== p232 [sport] 20 voci, 14 flag, 0 mancanti, 2 leftover, header=SP O R TS ♦ I HS SPORTS • DER SPORT • L O S DEPORTES • GU S~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M freshwater fishi~ | la pêche en eau ~ | das Süßwasserang~ | la pesca en agua~ | la pesca in acqu~   
+ 0.1  M fly fishing | la pêche à la mo~ | das Fliegenangeln | la pesca con mos~ | la pesca con la ~   
+ 0.2  M deep sea fishing | la pêche hauturi~ | die Hochseefisch~ | la pesca de altu~ | la pesca I alto ~   
+ 0.3  M sport fishing | la pêche sportive | das Sportangeln | la pesca deporti~ | la pesca sportiva   
+ 0.4  ⚠ surfeastmg | la pêche au lanc~ | das Brandungsang~ | la pesca en la o~ | la pesca dalla r~   es
+-- G1 subcat: acciones
+   parts: acciones
+-- G2 subcat: activities • les activités • die Aktivitäten • las
+   parts: activities • les activités • die aktivitäten • las
+ 2.0    catch (v) | attraper | fangen | atrapar | prendere   
+ 2.1  M reel in (v) | ramener | einholen | recoger | tirare con il mu~   
+ 2.2  M net (v) | prendre au filet | mit dem Netz fan~ | atrapar con la r~ | pescare con la r~   
+ 2.3    release (v) | lâcher | loslassen | soltar | rilasciare   
+ 2.4    cast (v) | lancer | auswerfen | lanzar | lanciare   
+ 2.5  M creel | le panier de pêc~ | der Fischkorb | la nasa | la nassa   
+ 2.6  M rain clothes | l'imperméable | die Regenhaut | la ropa impermea~ | l'impermeabile   
+ 2.7  ⚠ tackle | le matériel de p~ | die Angelgeräte | los aparejos | 1‘attrezzatura   it
+ 2.8  M fishing license | le permis de pêc~ | der Angelschein | la licencia de p~ | la licenza di pe~   
+ 2.9  M bait (v) | amorcer | ködern | cebar | fornire di esca   
+ 2.10 M spearfishing | la poche sous-ma~ | das Speerfischen | la pesca con arp~ | la pesca con la ~   
+ 2.11 M spool | le tambour | die Rolle | el carrete | la bobina   
+ 2.12 M pole | la perche | die Stake | la pértiga | il paio   
+ 2.13 M marine fishing | la pêche maritime | die Seefischerei | la pesca en alta~ | la pesca in mare   
+ 2.14   bite (v) | mordre | anbeißen | picar | abboccare   
+   LEFT 'typ e s o f fishing' @[40, 75] (riga singola isolata)
+   LEFT 'le attività' @[462, 574] (riga singola isolata)
+====================================================================================================
+== p233 [sport] 13 voci, 7 flag, 1 mancanti, 2 leftover, header=SP O R TS • LES S P O R T S • DER SPORT • LOS DEPORTES • GL~
+-- G0 subcat: skiing • le sk i • der Skisport • el esquí • lo sci
+   parts: skiing • le ski • der skisport • el esquí • lo sci
+ 0.0  M ski slope | la pente de ski | der Skihang | la pista | la pista da sci   
+ 0.1  M chairlift | le télésiège | der Sessellift | la telesilla | la seggiovia   
+ 0.2  M cable car | la télécabine | der Kabinenlift | la góndola | la funivia   
+ 0.3  M ski suit | la combinaison d~ | der Skianzug | el traje de es q~ | la tuta da sci   
+ 0.4  M ski pole | le bâton de ski | der Skistock | el bastón | il bastone da sci   
+ 0.5  M ski run | la piste de ski | die Skipiste | la pista de esquí | la pista da sci   
+ 0.6  ⚠ ? | ? | der Handschuh | el guante | il guanto   missing
+ 0.7  M ski boot | la chaussure de ~ | der Skistiefel | la bota de esquí | lo scarpone da s~   
+ 0.8  M safety barrier | la barrière de s~ | die Sicherheitss~ | la barrera de se~ | la transenna di ~   
+ 0.9  M ski | le ski | der Ski | el esquí | lo sci   
+ 0.10 M edge | la carre | die Kante | el canto | la lama   
+ 0.11 M skier | la skieuse | die Skiläuferin | la esquiadora | la sciatrice   
+ 0.12 M tip | la pointe | die Spitze | la punta | la punta   
+   LEFT '¡' @[813, 771] (riga singola isolata)
+   LEFT 'i' @[798, 856] (riga singola isolata)
+====================================================================================================
+== p234 [sport] 23 voci, 15 flag, 3 mancanti, 1 leftover, header=SP O R TS • I BS S P O R T S • DER SPORT • LOS DEPORTES » G~
+-- G0 subcat: events • les épreuves ■ die Disziplinen • las modalidades • le gaie
+   parts: events • les épreuves • die disziplinen • las modalidades • le gaie
+ 0.0  ⚠ „-gate | la porte | das Tor | el poste | la porta   en
+ 0.1  M cross country sk~ | le ski de randon~ | der Langlauf | el esquí de fondo | lo sci di fondo   
+ 0.2  ⚠ ski jump | le saut | der Skisprung | el salto | ?   missing
+ 0.3  ⚠ slalom | le slalom | ? | ? | lo slalom   missing
+ 0.4  M downhill skiing | la descente | der Abfahrtslauf | el descenso | la discesa   
+-- G1 subcat: • der Slalom • el slàlom
+   parts: der slalom • el slàlom
+ 1.0  M goggles | les lunettes de ~ | die Skibnile | los goggles | gli occhiali   
+-- G2 subcat: winter sports ♦ les sports d'hiver • der Wintersport • los deportes de invierno~
+   parts: winter sports • les sports d'hiver • der wintersport • los deportes de invierno • gli sport~
+ 2.0  M skate | le patin à glace | der Schlittschuh | patín | il pattino   
+-- G3 subcat: IL
+   parts: il
+ 3.0  M snowboarding | le surf des neig~ | das Snowboarding | el snowboarding | lo snowboard   
+ 3.1  M figure skating | le patinage arti~ | der Eiskunstlauf | el patinaje artí~ | il pattinaggio a~   
+ 3.2  ⚠ ice skating | le patinage . da~ | ? | el patinaje sobr~ | il pattinaggio s~   fr missing
+ 3.3  M ice climbing | l'escalade en gl~ | das Eisklettern | la escalada en h~ | l'arrampicata su~   
+ 3.4  M dogsledding | le traîneau à ch~ | das Hundeschlitt~ | el trineo con pe~ | la corsa su slit~   
+ 3.5  M alpine skiing | le ski alpin | die alpine Kombi~ | el esquí alpino | lo sci alpino   
+ 3.6  ⚠ speed skating | le pannage de vi~ | das Eisschnellla~ | el patinaje de v~ | il pattinaggio d~   de
+ 3.7  M giant slalom | le slalom géant | der Riesenslalom | el slàlom gigante | lo slalom gigante   
+ 3.8  M luge | la luge | das Rennrodeln | el luge | lo slittino   
+ 3.9  M bobsled | le bobsleigh | der Bobsport | el bobsleigh | il bob   
+ 3.10 M biathlon | le biathlon | das Biathlon | el biatlon | il biathlon   
+ 3.11 M off-piste | hors piste | abseits der Piste | fuera de pista | fuoripista   
+ 3.12 M avalanche | l'avalanche | die Lawine | la avalancha | la valanga   
+ 3.13 M curling | le curling | das Curling | el curling | il curling   
+ 3.14 M sledding | la luge | das Schlittenfah~ | tirarse en trineo | la corsa su slit~   
+ 3.15 M snowmobile | l'autoneigc | das Schneemobil | la moto de nieve | la motoslitta   
+   LEFT '2 4 7' @[837, 1084] (riga singola isolata)
+====================================================================================================
+== p235 [sport] 10 voci, 8 flag, 0 mancanti, 0 leftover, header=SPORTS • I ES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT
+-- G0 subcat: other sports • les antres sports • die anderen Sportarten • los otros deportes ~
+   parts: other sports • les antres sports • die anderen sportarten • los otros deportes • gli altri ~
+ 0.0  M hang-glider | le deltaplane | der Drachen | el ala delta | il deltaplane   
+ 0.1  M parachute | le parachute | der Fallschirm | el paracaídas | il paracadute   
+ 0.2  ⚠ Fading | le vol plané | das Segelfliegen | el vuelo sin mot~ | il volo senza mo~   en
+ 0.3  M hang-gliding | le deltaplane | das Drachenflieg~ | el vuelo con ala~ | il volo in delta~   
+ 0.4  ⚠ rock climbing | IVsealade | das Klettern | la escalada | l'alpinismo in p~   fr
+ 0.5  M parachuting | le parachutisme | das Fallschirmsp~ | el paracaidism o | il paracadutismo   
+ 0.6  M parasailing | le parapente | das Gleitschirmf~ | el parapente | il parapendio   
+ 0.7  M skydiving | le saut en chute~ | das Fallschirmsp~ | el paracaidism o~ | il paracadutismo~   
+ 0.8  M rappeling | le rappel | das Abseilen | el rappel | la cordata   
+ 0.9  M bungee lumping | le saut à Eclasr~ | das Bungeejumping | el salto bungee | il bungee jumping   
+====================================================================================================
+== p236 [sport] 24 voci, 18 flag, 2 mancanti, 1 leftover, header=SPO R TS • LES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ race-ear driver | le coureur autom~ | der Rennfahrer | ul piloto ele ca~ | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.1  ⚠ motorbike racing | la course de m o~ | das Motorradrenn~ | el moto ciclismo | il motociclismo   fr
+ 0.2  ⚠ motocross | le motocross | das Motocross | el m otocross | il motocross   es
+ 0.3  M auto racing | la course automo~ | det Rennsport | el automovilismo | l'automobilismo   
+ 0.4  ⚠ rally driving | le rallye | das Rallyefahren | el rally | I rally   it
+ 0.5  ⚠ Stick | la crosse | der Lacrosseschl~ | el palo | la mazza   en
+ 0.6  M foil | le fleurer | das Florett | el florete | il fioretto   
+ 0.7  M mask | le masque | die Maske | la máscara | la maschera   
+ 0.8  M skateboard | la planche à rou~ | das Skateboard | lapa tineta | la tavola da ska~   
+ 0.9  M rollerskate | le patin à roule~ | der Rollschuh | el patín de rued~ | il pattino a rot~   
+-- G1 subcat: ..à
+   parts: ..à
+-- G2 subcat: P
+   parts: p
+ 2.0  ⚠ fencing | Pósenme | das Fechten | la esgrima | la scherma   fr
+ 2.1  M lacrosse | le lacrosse | das Lacrosse | el lacrosse | il lacrosse   
+ 2.2  M roller-skating | le patinage à ro~ | das Rollschuhfah~ | el patinaje | il pattinaggio a~   
+ 2.3  M skateboarding | la planche à rou~ | das Skateboard f~ | andar en patineta | lo skate board   
+ 2.4  ⚠ target | la cible | die Zielscheibe | la diana | ?   missing
+ 2.5  M bow | l'arc | der Bogen | el arco | l'arco   
+ 2.6  M arrow | la flèche | der Pfeil | la flecha | la freccia   
+ 2.7  M quiver | le carquois | der Kocher | el carcaj | la faretra   
+ 2.8  M target shooting | le tir à cible | das Scheibenschi~ | el uro | il tiro ni bersa~   
+ 2.9  ⚠ archery | le n r à Parc | das Bogenschießen | el tiro con arco | il tiro con l'ar~   fr
+ 2.10 ⚠ bowling ball | la houle de | how ling die Bow~ | la hola de bolic~ | palla da bowling   wrap wrap-ambig
+        ALTS: [{'en': 'bowling ball', 'fr': 'la houle de how ling', 'de': 'die Bowlingkugel', 'es': 'la hola de boliche', 'it': 'palla da bowling'}]
+ 2.11 M snooker | le billard | das Snooker | el billar | lo snooker   
+ 2.12 M pool | le billard améri~ | das Poolbillard | el pool | il biliardo   
+ 2.13 M bowling | le bowling | das Bowling | el boliche | il bowling   
+   LEFT 'M' @[736, 484] (riga singola isolata)
+====================================================================================================
+== p237 [sport] 13 voci, 13 flag, 0 mancanti, 2 leftover, header=SPO R TS • L E S S P O R T S • DER SPORT • L O S D E P O R ~
+-- G0 subcat: fitness • le conditionnement physique • die Fitness • la forma fisica ¡I fitness
+   parts: fitness • le conditionnement physique • die fitness • la forma fisica ¡i fitness
+ 0.0  ⚠ gym machine | Tappareil de gym | das Fitnessgerät | la máquina de ej~ | la macchina per ~   fr
+ 0.1  M bench | le banc | die Bank | el banco | la panca   
+ 0.2  M exercise bike | le vélo d' entra~ | das Trainingsrad | la bicicleta | la cyclette   
+-- G1 subcat: SP !
+   parts: sp !
+-- G2 subcat: 1 i
+   parts: 1 i
+ 2.0  M free weights | les poids | die Gewichte | las posas | i manubri   
+ 2.1  M bar | la barre | die Stange | la barra | la sbarra   
+ 2.2  M gym | le gymnase | das Fitnesscenter | el gim asio | la palestra   
+ 2.3  M rowing machine | la machine à ram~ | die Rudermaschine | la máquina de re~ | il vogatore   
+ 2.4  M treadmill | la tapis roulant | das Laufband | la banda caminad~ | il treadmill   
+ 2.5  M elliptical train~ | la machine de ra~ | die Langlauf mas~ | la máquina de cr~ | il cross trainer   
+ 2.6  ⚠ personal trainer | Tcntraineusc ind~ | die private Fitn~ | la entrenadora p~ | l'istruttore ind~   fr
+ 2.7  ⚠ step machine | Pcscalier d'entr~ | die Tretmaschine | la máquina de st~ | la macchina per ~   fr
+ 2.8  M swimming pool | la piscine | das Schwimmbecken | la alberca | la piscina   
+ 2.9  M sauna | le sauna | die Sauna | el sauna | la sauna   
+   LEFT '4 | i f | iS' @[172, 234] (blocco 3 righe non risolvibile)
+   LEFT 'u t' @[328, 237] (riga singola isolata)
+====================================================================================================
+== p238 [sport] 26 voci, 23 flag, 0 mancanti, 1 leftover, header=SPO R TS ♦ LU S S P O R T S • DER SPORT • L O S D E P O R T~
+-- G0 subcat: exercises • les exercices • die Übungen • los ejercicios
+   parts: exercises • les exercices • die übungen • los ejercicios
+ 0.0  M tights | le collant | die Strumpfhose | los leotardos | il collant   
+ 0.1  M push-up | la traction | der Liegestütz | la flexión | le flessioni   
+ 0.2  M lunge | la fente en avant | der Ausfall | la flexión con e~ | lo stiramento   
+ 0.3  M stretch | l'étirement | das Strecken | el estiramiento | lo stretching   
+ 0.4  M dumbbell | l'haltère | die Hantel | la pesa | il manubrio   
+ 0.5  M leg press | la fraction pour~ | der Beinstütz | los ejercicios d~ | la pressa per le~   
+ 0.6  M bicep curl | l'exercise pour ~ | die Bizepsübung | el ejercicio de ~ | le aizate con il~   
+ 0.7  M sit-up | le redressement ~ | das Rumpfheben | el abdominal | gli addominali   
+ 0.8  M squat | la flexion de ja~ | die Kniebeuge | ponerse en cucli~ | lo squat   
+ 0.9  ⚠ weight bar | la barre à poids | die Gewichthantel | la barra de pesas | I bilanciere   it
+ 0.10 M running shoes | les baskets | die Trainings sc~ | las zapatillas | gli scarponcini   
+ 0.11 M vest | le maillot | das Hemd | la camiseta | la maglietta   
+ 0.12 M aerobics | l'acrobic | das Aerobic | los aerobics | la ginnastica ae~   
+ 0.13 M jogging | le logging | das Jogging | el jogging | il footing   
+ 0.14 ⚠ weight training | Pentraînemenr po~ | das Kraft traini~ | el levantamiento~ | l'addestramento ~   fr
+ 0.15 ⚠ chest press | Pexcrcice pour l~ | die Brustübung | los ejercid o s ~ | la pressa per pe~   es fr
+ 0.16 M circuit training | l'entrainem ent ~ | das Zirkeltraini~ | la labia de gimn~ | l'allemamento in~   
+ 0.17 ⚠ Pilâtes | les exercices Pi~ | die Pilâtes-Übun~ | el pilâtes | il pilâtes   en
+ 0.18   extend (v) | étendre | ausstrecken | estirar | stendere   
+ 0.19 M jog in place (v) | jogger sur place | auf der Stelle j~ | correr en parada | correre sul posto   
+ 0.20   tram (v) | s'entraîner | trainieren | entrenar | allenarsi   
+ 0.21 M jumping rope | le saut à la cor~ | das Seilspringen | saltar a la comba | saltare con la c~   
+ 0.22 ⚠ boxerase | l'aérohoxe | die Boxgymnastik | la gim nasia pre~ | la ginnastica pr~   es it
+ 0.23   pull up (v) | tirer | hochziehen | levantar | sollevare   
+ 0.24 ⚠ flex (v) | fléchir | beugen | flexio n ar | flettere   es
+ 0.25 M warm up (v) | s'échauffer | sich aufwärmen | calentar | riscaldarsi   
+   LEFT 'gli esercizi' @[436, 61] (riga singola isolata)
+====================================================================================================
+== p239 [sport] PAGINA DIVISORIA / SENZA VOCI

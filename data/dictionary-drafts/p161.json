@@ -1,0 +1,416 @@
+{
+ "page": 161,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • l.E T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "office I • le bureau I • das Büro 1 • la oficina 1 • l'ufficio 1",
+   "parts": [
+    "office i",
+    "le bureau i",
+    "das büro",
+    "la oficina",
+    "l'ufficio"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "bureau",
+   "parts": [
+    "bureau"
+   ],
+   "entries": [
+    {
+     "en": "office",
+     "fr": "le",
+     "_pos": [
+      46,
+      116
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "• das Büro • la oficina • l'ufficio",
+   "parts": [
+    "das büro",
+    "la oficina",
+    "l'ufficio"
+   ],
+   "entries": [
+    {
+     "en": "out-tray",
+     "fr": "la corbeille départ",
+     "de": "die Ablage für Ausgänge",
+     "es": "la bandeja de salida",
+     "it": "il vassoio m partenza",
+     "_pos": [
+      746,
+      148
+     ],
+     "_flags": [
+      "it:short:m"
+     ]
+    },
+    {
+     "en": "file",
+     "fr": "le classeur",
+     "de": "der Ordner",
+     "es": "la carpeta",
+     "it": "la cartellina",
+     "_pos": [
+      474,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "in-tray",
+     "fr": "la corbeille arrivée",
+     "de": "die Ablage für Eingänge",
+     "es": "la bandeja de entrada",
+     "it": "il vassoio in arrivo",
+     "_pos": [
+      578,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "desktop organizer",
+     "fr": "le porte-crayons",
+     "de": "der Stifthalter",
+     "es": "el portaplumas",
+     "it": "il portapenne",
+     "_pos": [
+      319,
+      150
+     ],
+     "_flags": []
+    },
+    {
+     "en": "monitor",
+     "fr": "le moniteur",
+     "de": "der Bildschirm",
+     "es": "la pantalla",
+     "it": "il monitor",
+     "_pos": [
+      184,
+      151
+     ],
+     "_flags": []
+    },
+    {
+     "en": "computer",
+     "fr": "l'ordinateur",
+     "de": "der Computer",
+     "es": "la com putadora",
+     "it": "il computer",
+     "_pos": [
+      46,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "keyboard",
+     "fr": "le clavier",
+     "de": "die Tastatur",
+     "es": "el teclado",
+     "it": "la tastiera",
+     "_pos": [
+      46,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "notebook",
+     "fr": "le carnet",
+     "de": "das Notizbuch",
+     "es": "el cuaderno",
+     "it": "il blocco",
+     "_pos": [
+      795,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "telephone",
+     "fr": "le téléphone",
+     "de": "das Telefon",
+     "es": "el teléfono",
+     "it": "il telefono",
+     "_pos": [
+      48,
+      383
+     ],
+     "_flags": []
+    },
+    {
+     "en": "label",
+     "fr": "l'ctiqucttc",
+     "de": "das Schild",
+     "es": "la etiqueta",
+     "it": "l'etichetta",
+     "_pos": [
+      796,
+      436
+     ],
+     "_flags": []
+    },
+    {
+     "en": "desk",
+     "fr": "le bureau",
+     "de": "der Schreibtisch",
+     "es": "el escritorio",
+     "it": "la scrivania",
+     "_pos": [
+      48,
+      500
+     ],
+     "_flags": []
+    },
+    {
+     "en": "I drawer",
+     "fr": "le tiroir",
+     "de": "die Schublade",
+     "es": "el cajón",
+     "it": "il cassetto",
+     "_pos": [
+      632,
+      648
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "filing cabinet",
+     "fr": "le meuble-classeur",
+     "de": "der Aktenschrank",
+     "es": "el archivero",
+     "it": "lo schedario",
+     "_pos": [
+      756,
+      648
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wastebasket",
+     "fr": "la corbeille à papier",
+     "de": "der Papierkorb",
+     "es": "el bote de basura",
+     "it": "il cestino",
+     "_pos": [
+      48,
+      667
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drawer unit",
+     "fr": "le meuble à tiroirs",
+     "de": "das Schreibtischschränkchen",
+     "es": "la cajonera",
+     "it": "la cassettiera",
+     "_pos": [
+      450,
+      682
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swivel chair'",
+     "fr": "le chaise tournante",
+     "de": "der Drehstuhl",
+     "es": "la silla giratoria",
+     "it": "la sedia girevole",
+     "_pos": [
+      293,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "enlarge (v)",
+     "fr": "agrandir",
+     "de": "vergrößern",
+     "es": "ampliar",
+     "it": "ingrandire",
+     "_pos": [
+      755,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "print (v)",
+     "fr": "imprimer",
+     "de": "drucken",
+     "es": "imprimir",
+     "it": "stampare",
+     "_pos": [
+      582,
+      792
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "office equipment • l'équipement de bureau • die Büroausstattung • el equipo de oficina • l'apparecchiature da ufficio",
+   "parts": [
+    "office equipment",
+    "l'équipement de bureau",
+    "die büroausstattung",
+    "el equipo de oficina",
+    "l'apparecchiature da ufficio"
+   ],
+   "entries": [
+    {
+     "en": "fax",
+     "fr": "le fax",
+     "de": "das Fax",
+     "es": "el fax",
+     "it": "il fax",
+     "_pos": [
+      432,
+      837
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paper tray",
+     "fr": "le magasin à papier",
+     "de": "der Papierbehälter",
+     "es": "la bandeja para el papel",
+     "it": "la contenitore per la carta",
+     "_pos": [
+      50,
+      838
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paper guide",
+     "fr": "le guide",
+     "de": "die Papierführung",
+     "es": "la guía",
+     "it": "la guida",
+     "_pos": [
+      270,
+      838
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reduce (v)",
+     "fr": "réduire",
+     "de": "verkleinern",
+     "es": "reducir",
+     "it": "ridurre",
+     "_pos": [
+      756,
+      891
+     ],
+     "_flags": []
+    },
+    {
+     "en": "copy (v)",
+     "fr": "photocopier",
+     "de": "kopieren",
+     "es": "fotocopiar",
+     "it": "copiare",
+     "_pos": [
+      582,
+      892
+     ],
+     "_flags": []
+    },
+    {
+     "en": "1 need to make some copies",
+     "fr": "l 'ai besoin de faire des photocopies",
+     "de": "Ich möchte fotokopieren",
+     "es": "N ecesito sacar unas copias",
+     "it": "Devo fare delle copie",
+     "_pos": [
+      584,
+      998
+     ],
+     "_flags": [
+      "en:num:1",
+      "es:short:N",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "printer",
+     "fr": "l'imprimante",
+     "de": "der Drucker",
+     "es": "la impresora",
+     "it": "la stampante",
+     "_pos": [
+      52,
+      1066
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fax machine",
+     "fr": "le fax",
+     "de": "das Faxgerät",
+     "es": "el fax",
+     "it": "il fax",
+     "_pos": [
+      303,
+      1066
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "'",
+   "pos": [
+    98,
+    500
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "1",
+   "pos": [
+    879,
+    858
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 14,
+  "flagged": 13,
+  "missing_lang": 1,
+  "leftovers": 2,
+  "subcats": 4
+ }
+}

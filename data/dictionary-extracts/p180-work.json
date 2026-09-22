@@ -1,0 +1,377 @@
+{
+ "page": 180,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "actor",
+     "fr": "comédien",
+     "de": "Schauspieler",
+     "es": "actor",
+     "it": "attore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 12,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "singer",
+     "fr": "chanteuse",
+     "de": "Sängerin",
+     "es": "cantante",
+     "it": "cantante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "dancer",
+     "fr": "danseuse",
+     "de": "Tänzerin",
+     "es": "bailarina",
+     "it": "lu ballerina",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "musician",
+     "fr": "musicien",
+     "de": "Musiker",
+     "es": "músico",
+     "it": "musicista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "sportsman",
+     "fr": "sportif",
+     "de": "Sportler",
+     "es": "deportista",
+     "it": "atleta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 10,
+      "it": 6
+     }
+    },
+    {
+     "en": "sculptor",
+     "fr": "sculpteur",
+     "de": "Bildhauer",
+     "es": "escultor",
+     "it": "scultore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "barman",
+     "fr": "barman",
+     "de": "Barkeeper",
+     "es": "bar man",
+     "it": "barista",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "waitress",
+     "fr": "serveuse",
+     "de": "Kellnerin",
+     "es": "mesera",
+     "it": "a cameriera",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "notes",
+     "fr": "notes",
+     "de": "Notizen",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7
+     }
+    },
+    {
+     "en": "photographer",
+     "fr": "photographe",
+     "de": "Fotograf",
+     "es": "fotógrafo",
+     "it": "fotografo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "journalist",
+     "fr": "journaliste",
+     "de": "Journalist",
+     "es": "periodista",
+     "it": "giornalista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "anchor",
+     "fr": "présentateur",
+     "de": "Nachrichtensprecher",
+     "es": "presentador",
+     "it": "annunciatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 19,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "painter",
+     "fr": "peintre",
+     "de": "Malerin",
+     "es": "pintora",
+     "it": "pittrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "tailor",
+     "fr": "couturier",
+     "de": "Schneider",
+     "es": "sastre",
+     "it": "sarto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "seamstress",
+     "fr": "couturière",
+     "de": "Damenschneiderin",
+     "es": "modista",
+     "it": "costumista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 16,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "designer",
+     "fr": "dessinatrice",
+     "de": "Designerà",
+     "es": "diseñadora",
+     "it": "disegnatrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 9,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "editor",
+     "fr": "rédactrice",
+     "de": "Redakteurin",
+     "es": "redactora",
+     "it": "redattrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 11,
+      "es": 9,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

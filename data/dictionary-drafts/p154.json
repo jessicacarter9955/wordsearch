@@ -1,0 +1,408 @@
+{
+ "page": 154,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "STUDY • L'ÉTUDE • DAS LERNEN • EI. ESTUDIO • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": "math • les mathématiques • die Mathematik • las matemáticas • la m atem atica",
+   "parts": [
+    "math",
+    "les mathématiques",
+    "die mathematik",
+    "las matemáticas",
+    "la matematica"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "shapes • les formes • die Formen • las formas • le forme",
+   "parts": [
+    "shapes",
+    "les formes",
+    "die formen",
+    "las formas",
+    "le forme"
+   ],
+   "entries": [
+    {
+     "en": "arc",
+     "fr": "l 'arc",
+     "de": "der Bogen",
+     "es": "el arco",
+     "it": "l'arco",
+     "_pos": [
+      186,
+      192
+     ],
+     "_flags": []
+    },
+    {
+     "en": "circumference",
+     "fr": "la circonférence",
+     "de": "der Umfang",
+     "es": "la circunferencia",
+     "it": "circonferenza",
+     "_pos": [
+      310,
+      211
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la",
+     "de": "die Diagonale",
+     "es": "la diagonal",
+     "it": "la diagonale",
+     "_pos": [
+      468,
+      228
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "center",
+     "fr": "le centre",
+     "de": "der Mittelpunkt",
+     "es": "el centro",
+     "it": "il centro",
+     "_pos": [
+      48,
+      257
+     ],
+     "_flags": []
+    },
+    {
+     "en": "square",
+     "fr": "le carré",
+     "de": "das Quadrat",
+     "es": "el cuadrado",
+     "it": "il quadrato",
+     "_pos": [
+      566,
+      263
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rectangle",
+     "fr": "le rectangle",
+     "de": "das Rechteck",
+     "es": "el rectángulo",
+     "it": "il rettangolo",
+     "_pos": [
+      740,
+      264
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diameter",
+     "fr": "le diamètre",
+     "de": "der Durchmesser",
+     "es": "el diámetro",
+     "it": "il diametro",
+     "_pos": [
+      360,
+      310
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hypotenuse",
+     "fr": "l'hypoténuse",
+     "de": "die Hypotenuse",
+     "es": "la hipotenusa",
+     "it": "hipotenusa",
+     "_pos": [
+      638,
+      363
+     ],
+     "_flags": []
+    },
+    {
+     "en": "angle",
+     "fr": "l'angle",
+     "de": "der Winkel",
+     "es": "el ángulo",
+     "_pos": [
+      496,
+      394
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "radius",
+     "fr": "le rayon",
+     "de": "der Radius",
+     "es": "el radio",
+     "it": "il raggio",
+     "_pos": [
+      47,
+      408
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oval",
+     "fr": "l'ovale",
+     "de": "das Oval",
+     "es": "el óvalo",
+     "it": "l'ovale",
+     "_pos": [
+      344,
+      512
+     ],
+     "_flags": []
+    },
+    {
+     "en": "triangle",
+     "fr": "le triangle",
+     "de": "das Dreieck",
+     "es": "el triángulo",
+     "it": "il triangolo",
+     "_pos": [
+      566,
+      513
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parallelogram",
+     "fr": "le parallélogramme",
+     "de": "das Parallelogramm el paralelogramo",
+     "it": "il parallelogramma",
+     "_pos": [
+      736,
+      514
+     ],
+     "_flags": [
+      "missing:es"
+     ]
+    },
+    {
+     "en": "circle",
+     "fr": "le cercle",
+     "de": "der Kreis",
+     "es": "el círculo",
+     "it": "il cerchio",
+     "_pos": [
+      48,
+      542
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rhombus",
+     "fr": "le rhum he",
+     "de": "der Rhombus",
+     "es": "el rombo",
+     "it": "il rombo",
+     "_pos": [
+      47,
+      742
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trapezium",
+     "fr": "le trapèze",
+     "de": "das Trapez",
+     "es": "el trapecio",
+     "it": "il trapezio",
+     "_pos": [
+      220,
+      743
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pentagon",
+     "fr": "le pentagone",
+     "de": "das Fünfeck",
+     "es": "el pentágono",
+     "it": "il pentagono",
+     "_pos": [
+      392,
+      744
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hexagon",
+     "fr": "l'hexagone",
+     "de": "das Sechseck",
+     "es": "el hexágono",
+     "it": "l'esagono",
+     "_pos": [
+      564,
+      746
+     ],
+     "_flags": []
+    },
+    {
+     "en": "octagon",
+     "fr": "l'octogone",
+     "de": "das Achteck",
+     "es": "el octágono",
+     "it": "l'ottagono",
+     "_pos": [
+      736,
+      748
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "solids • les solides • die Körper • los cuerpos geométricos • i solidi",
+   "parts": [
+    "solids",
+    "les solides",
+    "die körper",
+    "los cuerpos geométricos",
+    "i solidi"
+   ],
+   "entries": [
+    {
+     "en": "side",
+     "fr": "le côté",
+     "de": "die Seite",
+     "es": "el lado",
+     "it": "il lato",
+     "_pos": [
+      522,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apex",
+     "fr": "le sommer",
+     "de": "die Spitze",
+     "es": "el ápice",
+     "it": "lapice",
+     "_pos": [
+      675,
+      880
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "i",
+   "parts": [
+    "i"
+   ],
+   "entries": [
+    {
+     "en": "base",
+     "fr": "la base",
+     "de": "die Grundfläche",
+     "es": "la base",
+     "it": "la base i",
+     "_pos": [
+      140,
+      908
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "base",
+       "fr": "la base",
+       "de": "die Grundfläche",
+       "es": "la base la base",
+       "it": "i"
+      }
+     ]
+    },
+    {
+     "en": "cone",
+     "fr": "le cône",
+     "de": "der Kegel",
+     "es": "el cono",
+     "it": "il cono",
+     "_pos": [
+      45,
+      1041
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cylinder",
+     "fr": "le cylindre",
+     "de": "der Zylinder",
+     "es": "el cilindro",
+     "it": "I cilindro",
+     "_pos": [
+      217,
+      1043
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "cube",
+     "fr": "le cube",
+     "de": "der Würfel",
+     "es": "el cubo",
+     "it": "il cubo",
+     "_pos": [
+      390,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pyramid",
+     "fr": "la pyramide",
+     "de": "die Pyramide",
+     "es": "la piràm ide",
+     "it": "la piramide",
+     "_pos": [
+      563,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sphere",
+     "fr": "la sphère",
+     "de": "die Kugel",
+     "es": "la esferc",
+     "it": "la sfera",
+     "_pos": [
+      735,
+      1047
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 8,
+  "flagged": 19,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

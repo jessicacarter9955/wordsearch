@@ -1,0 +1,257 @@
+{
+ "page": 149,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "E A T IN G O U T • S O R T IR M A N G E R • AUSWÄRTS ESSEN • C O M E R F U E R A • M ANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "dinner • le repas • die Hauptmahlzeit • la co m id a p rin c ip a l • la cena",
+   "parts": [
+    "dinner",
+    "le repas",
+    "die hauptmahlzeit",
+    "la comida principal",
+    "la cena"
+   ],
+   "entries": [
+    {
+     "en": "soup",
+     "fr": "le potage",
+     "de": "die Suppe",
+     "es": "la sopa",
+     "it": "la minestra",
+     "_pos": [
+      48,
+      314
+     ],
+     "_flags": []
+    },
+    {
+     "en": "broth",
+     "fr": "le bouillon",
+     "de": "die Brühe",
+     "es": "el caldo",
+     "it": "lo zuppa",
+     "_pos": [
+      264,
+      315
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stew",
+     "fr": "le ragoût",
+     "de": "der Eintopf",
+     "es": "el guiso",
+     "it": "lo stufato",
+     "_pos": [
+      480,
+      317
+     ],
+     "_flags": []
+    },
+    {
+     "en": "curried lamb",
+     "fr": "le cu rrv",
+     "de": "das Curry",
+     "es": "el curry",
+     "it": "il curry",
+     "_pos": [
+      696,
+      318
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roast",
+     "fr": "le rôti",
+     "de": "der Braten",
+     "es": "el asado",
+     "it": "l'arrosto",
+     "_pos": [
+      48,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pie",
+     "fr": "la tourte",
+     "de": "die Pastete",
+     "es": "la empanada",
+     "it": "il pasticcio",
+     "_pos": [
+      264,
+      549
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soufflé",
+     "fr": "le soufflé",
+     "de": "das Soufflé",
+     "es": "el soufflé",
+     "it": "il soufflé",
+     "_pos": [
+      479,
+      551
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kabob",
+     "fr": "le chiche-kébah",
+     "de": "der Schaschlik",
+     "es": "la brocheta",
+     "it": "lo spiedino",
+     "_pos": [
+      696,
+      551
+     ],
+     "_flags": []
+    },
+    {
+     "en": "noodles",
+     "fr": "les nouilles",
+     "de": "die Nudeln",
+     "es": "los fideos",
+     "it": "i taglierini",
+     "_pos": [
+      716,
+      618
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "J IJM 'I",
+   "parts": [
+    "j ijm 'i"
+   ],
+   "entries": [
+    {
+     "en": "meatballs",
+     "fr": "les bou lenes de viande",
+     "de": "die Fleischklöße",
+     "es": "las albóndigas",
+     "it": "le polpette",
+     "_pos": [
+      46,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "omelette",
+     "fr": "l'omelette",
+     "de": "das Omelett",
+     "es": "la om elette",
+     "it": "la frittata",
+     "_pos": [
+      262,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stir fry",
+     "fr": "le sauté",
+     "de": "das Schnellbratgericht",
+     "es": "el revuelto",
+     "it": "la frittura",
+     "_pos": [
+      478,
+      799
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pasta",
+     "fr": "les pâtes",
+     "de": "die Nudeln",
+     "es": "la pasta",
+     "it": "la pasta",
+     "_pos": [
+      704,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rice",
+     "fr": "le riz",
+     "de": "der Reis",
+     "es": "el arroz",
+     "it": "il riso",
+     "_pos": [
+      46,
+      1047
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tossed salad",
+     "fr": "la salade composée",
+     "de": "der gemischte Salat",
+     "es": "la ensalada mixta",
+     "it": "l'insalata mista",
+     "_pos": [
+      226,
+      1047
+     ],
+     "_flags": []
+    },
+    {
+     "en": "green salad",
+     "fr": "la salade verte",
+     "de": "der grüne Salat",
+     "es": "la ensalada verde",
+     "it": "l'insalata verde",
+     "_pos": [
+      474,
+      1047
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dressing",
+     "fr": "la vinaigrette",
+     "de": "die Salatsoße",
+     "es": "el aderezo",
+     "it": "il condimento",
+     "_pos": [
+      694,
+      1050
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "4",
+   "pos": [
+    830,
+    323
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 0,
+  "flagged": 17,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

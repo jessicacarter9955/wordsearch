@@ -1,0 +1,409 @@
+{
+ "page": 59,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • I .A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "dining room • la salle à manger • das Esszimmer el comedor • la sala da pranzo",
+   "parts": [
+    "dining room",
+    "la salle à manger",
+    "das esszimmer el comedor",
+    "la sala da pranzo"
+   ],
+   "entries": [
+    {
+     "en": "pepper",
+     "fr": "le poivre",
+     "de": "der Pfeffer",
+     "es": "la nim irntn",
+     "_pos": [
+      420,
+      132
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "table",
+     "fr": "la table",
+     "de": "der Tisch",
+     "es": "la mesa",
+     "_pos": [
+      174,
+      199
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "crockery",
+     "fr": "la vaisselle",
+     "de": "das Geschirr",
+     "es": "la vajilla",
+     "it": "i piatti",
+     "_pos": [
+      58,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chair",
+     "fr": "la chaise",
+     "de": "der Stuhl",
+     "es": "la silla",
+     "it": "la sedia",
+     "_pos": [
+      808,
+      353
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cutlery",
+     "fr": "les couverts",
+     "de": "das Besteck",
+     "es": "los cubiertos",
+     "it": "le posate",
+     "_pos": [
+      58,
+      447
+     ],
+     "_flags": []
+    },
+    {
+     "en": "back",
+     "fr": "le dossier",
+     "de": "die Lehne",
+     "es": "el respaldo",
+     "it": "lo schienale",
+     "_pos": [
+      800,
+      452
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat",
+     "fr": "siège",
+     "de": "die Srtzfläche",
+     "es": "el asiento",
+     "it": "il sedile",
+     "_pos": [
+      792,
+      552
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leg",
+     "fr": "le pied",
+     "de": "das Bein",
+     "es": "la pata",
+     "it": "la gamba",
+     "_pos": [
+      784,
+      651
+     ],
+     "_flags": []
+    },
+    {
+     "en": "May 1 have some m ore, please?",
+     "fr": "Enco re un peu, s'il vous plait?",
+     "de": "Konnte ich bitte noch ein bisschen haben?",
+     "es": "Puedo com er otro poco?",
+     "it": "Posso averne ancora, per favore?",
+     "_pos": [
+      650,
+      799
+     ],
+     "_flags": [
+      "en:num:1",
+      "en:short:m",
+      "en:weird:ore,",
+      "en:weird:please?",
+      "en:case",
+      "fr:weird:peu,",
+      "fr:weird:plait?",
+      "fr:case",
+      "de:weird:haben?",
+      "es:weird:poco?",
+      "es:case",
+      "it:weird:ancora,",
+      "it:weird:favore?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "set the tab ley",
+     "fr": "mettre la table",
+     "de": "den Tisch decken",
+     "es": "poner la mesa",
+     "it": "apparecchiare",
+     "_pos": [
+      75,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lunch",
+     "fr": "le déjeuner",
+     "de": "das Mittagessen",
+     "es": "la com ida",
+     "it": "il pranzo",
+     "_pos": [
+      322,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "place mat",
+     "fr": "le napperon",
+     "de": "das Set",
+     "es": "el mantel individual",
+     "it": "la tovaglia individuale",
+     "_pos": [
+      179,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "full",
+     "fr": "rassasié",
+     "de": "satt",
+     "es": "lleno",
+     "it": "sazio",
+     "_pos": [
+      428,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "host",
+     "fr": "Lhóre",
+     "de": "der Gastgeber",
+     "es": "el anfitrión",
+     "it": "il padrone di casa",
+     "_pos": [
+      514,
+      800
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "I've had enough, thank you",
+     "fr": "N on m erci, j'en ai eu asse",
+     "de": "Ich bin satt, danke",
+     "es": "Estoy lleno, gracias",
+     "it": "Ne ho avuto abbastanza, grazie",
+     "_pos": [
+      650,
+      898
+     ],
+     "_flags": [
+      "en:weird:enough,",
+      "en:case",
+      "fr:short:N",
+      "fr:short:m",
+      "fr:weird:erci,",
+      "fr:case",
+      "de:weird:satt,",
+      "es:weird:lleno,",
+      "es:case",
+      "it:weird:abbastanza,",
+      "it:case"
+     ]
+    },
+    {
+     "en": "serve y",
+     "fr": "servir",
+     "de": "servieren",
+     "es": "servir",
+     "it": "servire",
+     "_pos": [
+      76,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tablecloth",
+     "fr": "la nappe",
+     "de": "die Tischdecke",
+     "es": "el mantel",
+     "it": "la tovaglia",
+     "_pos": [
+      179,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dinner",
+     "fr": "le dîner",
+     "de": "das Abendessen",
+     "es": "la cena",
+     "it": "la cena",
+     "_pos": [
+      322,
+      900
+     ],
+     "_flags": []
+    },
+    {
+     "en": "portion",
+     "fr": "la portion",
+     "de": "die Portion",
+     "es": "la ración",
+     "it": "la porzione",
+     "_pos": [
+      428,
+      900
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hostess",
+     "fr": "hôtesse",
+     "de": "die Gastgeberin",
+     "es": "la anfitrión a",
+     "it": "la padrona di casa",
+     "_pos": [
+      515,
+      900
+     ],
+     "_flags": []
+    },
+    {
+     "en": "That was delicious",
+     "fr": "'était délicieux",
+     "de": "Das war lecker",
+     "es": "Estaba riquísim o",
+     "it": "Era squisito",
+     "_pos": [
+      650,
+      998
+     ],
+     "_flags": [
+      "en:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "eat (v)",
+     "fr": "manger",
+     "de": "essen",
+     "es": "comer",
+     "it": "mangiare",
+     "_pos": [
+      76,
+      998
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hungry",
+     "fr": "avoir faim",
+     "de": "hungrig",
+     "es": "hambriento",
+     "it": "affamato",
+     "_pos": [
+      322,
+      998
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breakfast",
+     "fr": "le petit déjeuner",
+     "de": "das Frühstück",
+     "es": "el desayuno",
+     "it": "la colazione",
+     "_pos": [
+      180,
+      999
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guest",
+     "fr": "l'invité",
+     "de": "der Gast",
+     "es": "el invitado",
+     "it": "l'ospite",
+     "_pos": [
+      516,
+      999
+     ],
+     "_flags": []
+    },
+    {
+     "en": "meal",
+     "fr": "le repas",
+     "de": "das Essen",
+     "es": "la com ida",
+     "it": "il pasto",
+     "_pos": [
+      429,
+      999
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "\"",
+   "pos": [
+    137,
+    447
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 12,
+  "flagged": 14,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

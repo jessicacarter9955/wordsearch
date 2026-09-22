@@ -1,0 +1,767 @@
+{
+ "page": 255,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "screen",
+     "fr": "écran",
+     "de": "Bildschirm",
+     "es": "pantalla",
+     "it": "schermo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "eyecup",
+     "fr": "œ illeton",
+     "de": "Okularmuschel",
+     "es": "borde del ocular",
+     "it": "oculare",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 13,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "en": "videoupe",
+     "fr": "vidéocassette",
+     "de": "Videokassette",
+     "es": "videocasete",
+     "it": "videocassetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 13,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "satellite dish",
+     "fr": "antenne parabolique",
+     "de": "Satellitenschüssel",
+     "es": "antena parabólica",
+     "it": "antenna parabolica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 18,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "camcorder",
+     "fr": "caméscope",
+     "de": "Camcorder",
+     "es": "cámara de video",
+     "it": "videocamera",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "VCR",
+     "fr": "magnétoscope",
+     "de": "Videorekorder",
+     "es": "videocasetera",
+     "it": "videoregistratore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 12,
+      "de": 13,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "pause",
+     "fr": "pause",
+     "de": "Pause",
+     "es": "pausa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5
+     }
+    },
+    {
+     "en": "fast forward",
+     "fr": "avance rapide",
+     "de": "Vorlauf",
+     "es": "avance rápido",
+     "it": "avanzamento veloce",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 7,
+      "es": 12,
+      "it": 17
+     }
+    },
+    {
+     "en": "record",
+     "fr": "enregistrement",
+     "de": "Aufnahme",
+     "es": "botón para grabar",
+     "it": "registrazione",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 8,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "console",
+     "fr": "console",
+     "de": "Pult",
+     "es": "consola",
+     "it": "console",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "widescreen television",
+     "fr": "télévision 16/9ème",
+     "de": "Breitbildfernseher",
+     "es": "televisión de pantalla panoràm ica",
+     "it": "televisore a schermo largo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 16,
+      "de": 18,
+      "es": 30,
+      "it": 23
+     }
+    },
+    {
+     "en": "volume",
+     "fr": "volume",
+     "de": "Lautstärke",
+     "es": "volumen",
+     "it": "volume",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "stop",
+     "fr": "Parrei",
+     "de": "Stop",
+     "es": "stop",
+     "it": "stop",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "rewind",
+     "fr": "retour rapide",
+     "de": "Rücklauf",
+     "es": "botón para rebobinar",
+     "it": "riawolgim crito",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 8,
+      "es": 18,
+      "it": 14
+     }
+    },
+    {
+     "en": "controller",
+     "fr": "commande",
+     "de": "Steuerhebel",
+     "es": "controles",
+     "it": "comando",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 11,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "de": "Abspielen",
+     "es": "play",
+     "it": "play",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 9,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "remote control",
+     "fr": "télécommande",
+     "de": "Fernbedienung",
+     "es": "control rem oto",
+     "it": "telecomando",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 13,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "video game",
+     "fr": "jeu vidéo",
+     "de": "Videospiel",
+     "es": "video juego",
+     "it": "videogioco",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "tum off the television (v)",
+     "fr": "éteindre ta télévision",
+     "de": "Fernseher abschalten",
+     "es": "apagar la televisión",
+     "it": "spegnere la televisione",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 20,
+      "de": 19,
+      "es": 18,
+      "it": 21
+     }
+    },
+    {
+     "en": "pay-per-view channel",
+     "fr": "chaîne à péage",
+     "de": "Pay-Kanal",
+     "es": "canal de pago por evento",
+     "it": "canale a pagamento",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 12,
+      "de": 8,
+      "es": 20,
+      "it": 16
+     }
+    },
+    {
+     "en": "cable television",
+     "fr": "télévision par câble",
+     "de": "Kabelfernsehen",
+     "es": "televisión por cable",
+     "it": "televisione via cavo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 18,
+      "de": 14,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "feature film",
+     "fr": "film",
+     "de": "Spielfilm",
+     "es": "película",
+     "it": "lungometraggio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 4,
+      "de": 9,
+      "es": 8,
+      "it": 14
+     }
+    },
+    {
+     "en": "C D",
+     "fr": "C D",
+     "de": "CD-Platte",
+     "es": "disco com pacto",
+     "it": "compact dise",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 2,
+      "fr": 2,
+      "de": 8,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "turn on the television (v)",
+     "fr": "allumer la télévision",
+     "de": "Fernseher einschalten",
+     "es": "encender la televisión",
+     "it": "accendere la televisione",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 19,
+      "de": 20,
+      "es": 20,
+      "it": 22
+     }
+    },
+    {
+     "en": "tune the radio (v)",
+     "fr": "régler la radio",
+     "de": "Radio einstellen",
+     "es": "sintonizar la radio",
+     "it": "sintonizzare la radio",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 15,
+      "es": 17,
+      "it": 19
+     }
+    },
+    {
+     "en": "programme",
+     "fr": "programme",
+     "de": "Programm",
+     "es": "programa",
+     "it": "programma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "advertisement",
+     "fr": "publicité",
+     "de": "Werbung",
+     "es": "anuncio",
+     "it": "pubblicità",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "cassette tape",
+     "fr": "cassette",
+     "de": "Kassette",
+     "es": "casete",
+     "it": "audiocassetta",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 8,
+      "de": 8,
+      "es": 6,
+      "it": 13
+     }
+    },
+    {
+     "en": "watch television (v)",
+     "fr": "regarder ta télévision",
+     "de": "femsehen",
+     "es": "ver la televisión",
+     "it": "guardare la televisione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 16,
+      "fr": 20,
+      "de": 8,
+      "es": 15,
+      "it": 21
+     }
+    },
+    {
+     "en": "stereo",
+     "fr": "stéréo",
+     "de": "stereo",
+     "es": "estéreo",
+     "it": "stereo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "change channels (v)",
+     "fr": "changer de chaîne",
+     "de": "Kanal wechseln",
+     "es": "cambiar de canal",
+     "it": "cambiare canale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 15,
+      "de": 13,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "digital",
+     "fr": "numérique",
+     "de": "digital",
+     "es": "digital",
+     "it": "digitale",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "cassette player",
+     "fr": "lecteur cassettes",
+     "de": "Kassettenrekorder",
+     "es": "casetera",
+     "it": "mangianastri",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 17,
+      "es": 8,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

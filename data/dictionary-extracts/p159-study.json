@@ -1,0 +1,688 @@
+{
+ "page": 159,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "professor",
+     "fr": "assistant",
+     "de": "Dozent",
+     "es": "profesor",
+     "it": "docente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "undergraduate",
+     "fr": "étudiant",
+     "de": "Student",
+     "es": "estudiante",
+     "it": "studente universitario",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 7,
+      "es": 10,
+      "it": 21
+     }
+    },
+    {
+     "en": "graduate",
+     "fr": "licenciée",
+     "de": "dip Graríiiipftp",
+     "es": "la",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 15,
+      "es": 2
+     }
+    },
+    {
+     "en": "lecture hall",
+     "fr": "salle de cours",
+     "de": "Hörsaal",
+     "es": "auditorio",
+     "it": "aula",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 7,
+      "es": 9,
+      "it": 4
+     }
+    },
+    {
+     "en": "graduation ceremony",
+     "fr": "cérémonie de la remise des diplômes",
+     "de": "Graduierungsfeier",
+     "es": "ceremonia de graduación",
+     "it": "consegna delle lauree",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 30,
+      "de": 17,
+      "es": 21,
+      "it": 19
+     }
+    }
+   ]
+  },
+  {
+   "slug": "scuole",
+   "names": {
+    "en": "schools",
+    "fr": "les écoles",
+    "de": "die fachhochschulen",
+    "es": "las escuelas",
+    "it": "le scuole"
+   },
+   "entries": [
+    {
+     "en": "model",
+     "fr": "modèle",
+     "de": "Modell",
+     "es": "modelo",
+     "it": "modella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "art school",
+     "fr": "école des beaux ans",
+     "de": "Kunsthochschule",
+     "es": "escuela de Bellas A rtes",
+     "it": "scuola d'arte",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 15,
+      "es": 20,
+      "it": 11
+     }
+    },
+    {
+     "en": "music school",
+     "fr": "Conservatoire",
+     "de": "Musikhochschule",
+     "es": "conservatorio",
+     "it": "conservatorio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 15,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "dance school",
+     "fr": "école de danse",
+     "de": "Tanzakademie",
+     "es": "academia de danza",
+     "it": "accademia di danza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "scholarship",
+     "fr": "bourse",
+     "de": "Stipendium",
+     "es": "beca",
+     "it": "borsa di studio",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 10,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "en": "research",
+     "fr": "recherche",
+     "de": "Forschung",
+     "es": "investigación",
+     "it": "ricerca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "dissertation",
+     "fr": "dissertation",
+     "de": "Examensarbeit",
+     "es": "tesina",
+     "it": "dissertazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 13,
+      "es": 6,
+      "it": 13
+     }
+    },
+    {
+     "en": "medicine",
+     "fr": "médecine",
+     "de": "Medizin",
+     "es": "medicina",
+     "it": "medicina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "economics",
+     "fr": "sciences économiques",
+     "de": "Wirtschaftswissenschaft",
+     "es": "ciencias económ icas",
+     "it": "economia",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 19,
+      "de": 23,
+      "es": 18,
+      "it": 8
+     }
+    },
+    {
+     "en": "master's degree",
+     "fr": "maîtrise",
+     "de": "Magister",
+     "es": "mes tri a",
+     "it": "master",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "diploma",
+     "fr": "diplom e",
+     "de": "Diplom",
+     "es": "diploma",
+     "it": "diploma",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "department",
+     "fr": "rU .F .R",
+     "de": "Fachbereich",
+     "es": "departamento",
+     "it": "l dipartimento",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 4,
+      "de": 11,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "zoology",
+     "fr": "zoologie",
+     "de": "Zoologie",
+     "es": "zoología",
+     "it": "zoologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "political science",
+     "fr": "sciences politiques",
+     "de": "Politologie",
+     "es": "política",
+     "it": "politica",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 18,
+      "de": 11,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "doctorate",
+     "fr": "doctorar",
+     "de": "Promotion",
+     "es": "doctorado",
+     "it": "dottorato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "law",
+     "fr": "droit",
+     "de": "Rechtswissenschaft",
+     "es": "derecho",
+     "it": "diritto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 18,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "degree",
+     "fr": "licence",
+     "de": "akademische Grad",
+     "es": "carrera",
+     "it": "laurea",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 15,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "physics",
+     "fr": "physique",
+     "de": "Physik",
+     "es": "física",
+     "it": "fisica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "literature",
+     "fr": "littérature",
+     "de": "Literaiur",
+     "es": "literatura",
+     "it": "letteratura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 9,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "postgraduate",
+     "fr": "de troisième cycle",
+     "de": "postgradual",
+     "es": "posgrado",
+     "it": "di perfezionamento",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 11,
+      "es": 8,
+      "it": 17
+     }
+    },
+    {
+     "en": "thesis",
+     "fr": "thèse",
+     "de": "Dissertation",
+     "es": "tesis",
+     "it": "tesi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 12,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "engineering",
+     "fr": "études d'ingénieur",
+     "de": "Maschinenbau",
+     "es": "ingeniería",
+     "it": "ingegneria",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 12,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "philosophy",
+     "fr": "philosophic",
+     "de": "Philosophie",
+     "es": "filosofía",
+     "it": "filosofia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "art history",
+     "fr": "histoire d'art",
+     "de": "Kunstgeschichte",
+     "es": "historia del arte",
+     "it": "storia dell'arte",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 15,
+      "es": 15,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,216 @@
+{
+ "page": 223,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • I ES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "combat sports • les sports de combat • der Kampfsport • los deportes de combate • gli sport da com battim ento",
+   "parts": [
+    "combat sports",
+    "les sports de combat",
+    "der kampfsport",
+    "los deportes de combate",
+    "gli sport da combattimento"
+   ],
+   "entries": [
+    {
+     "en": "opponent",
+     "fr": "l'adversaire",
+     "de": "der Gegner",
+     "es": "el adversario",
+     "it": "l'avversario",
+     "_pos": [
+      92,
+      156
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guard",
+     "fr": "le protège-téte",
+     "de": "der Kopfschutz",
+     "es": "el protector",
+     "it": "il casco",
+     "_pos": [
+      523,
+      160
+     ],
+     "_flags": []
+    },
+    {
+     "en": "karate",
+     "fr": "le karaté",
+     "de": "das Karate",
+     "es": "el karate",
+     "it": "il karate",
+     "_pos": [
+      701,
+      293
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glove",
+     "fr": "le gam",
+     "de": "der Handschuh",
+     "es": "el guante",
+     "it": "il guanto",
+     "_pos": [
+      92,
+      304
+     ],
+     "_flags": []
+    },
+    {
+     "en": "belt",
+     "fr": "la ceinture",
+     "de": "der Gürtel",
+     "es": "el cinturón",
+     "it": "la cintura",
+     "_pos": [
+      522,
+      307
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tae kwon do",
+     "fr": "le taekw ondo",
+     "de": "das Taekwondo",
+     "es": "el taekw ondo",
+     "it": "il tae kwondo",
+     "_pos": [
+      62,
+      504
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mask",
+     "fr": "le masque",
+     "de": "die Maske",
+     "es": "la careta",
+     "it": "la maschera",
+     "_pos": [
+      592,
+      554
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ludo",
+     "fr": "le judo",
+     "de": "das Judo",
+     "es": "el judo",
+     "it": "il judo",
+     "_pos": [
+      700,
+      557
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "As",
+   "parts": [
+    "as"
+   ],
+   "entries": [
+    {
+     "en": "aikido",
+     "fr": "I aikid o",
+     "de": "das Aikido",
+     "es": "el aikido",
+     "it": "l'aikido",
+     "_pos": [
+      61,
+      765
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "kendo • le kendo • das Kendo • el kendo • il kendo",
+   "parts": [
+    "kendo",
+    "le kendo",
+    "das kendo",
+    "el kendo",
+    "il kendo"
+   ],
+   "entries": [
+    {
+     "en": "kung fu",
+     "fr": "le kung-fu",
+     "de": "das Kung-Fu",
+     "es": "el kung fu",
+     "it": "il kung fu",
+     "_pos": [
+      660,
+      770
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kickboxing",
+     "fr": "la hove thaïlandaise",
+     "de": "das Kickboxen",
+     "es": "el fu ll contact",
+     "it": "il kickboxing",
+     "_pos": [
+      59,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wrestling",
+     "fr": "la Iurte",
+     "de": "das Ringen",
+     "es": "la lucha libre",
+     "it": "la lotta greco-romana",
+     "_pos": [
+      302,
+      1028
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "boxing",
+     "fr": "la boxe",
+     "de": "das Boxen",
+     "es": "el boxeo",
+     "it": "il pugilato",
+     "_pos": [
+      608,
+      1030
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 13,
+  "complete_clean": 5,
+  "flagged": 8,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

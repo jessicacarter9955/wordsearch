@@ -1,0 +1,516 @@
+{
+ "page": 168,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "anchor",
+     "fr": "présentatrice",
+     "de": "Nachrichtensprecherin",
+     "es": "presentadora de las noticias",
+     "it": "presentatrice",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 21,
+      "es": 25,
+      "it": 13
+     }
+    },
+    {
+     "en": "teleprompter",
+     "fr": "télésouffleur",
+     "de": "Teleprompter",
+     "es": "teleprom pter",
+     "it": "gobbo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 12,
+      "es": 12,
+      "it": 5
+     }
+    },
+    {
+     "en": "reporter",
+     "fr": "reporter",
+     "de": "Reporterin",
+     "es": "reportera",
+     "it": "cronista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 10,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "nterviewer",
+     "fr": "interviewer",
+     "de": "Interviewer",
+     "es": "entrevistador",
+     "it": "intervistatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "film set",
+     "fr": "décor de cinéma",
+     "de": "Set",
+     "es": "plato de rodaje",
+     "it": "set",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 3,
+      "es": 13,
+      "it": 3
+     }
+    },
+    {
+     "en": "clapperboard",
+     "fr": "claquette die Klappe",
+     "es": "pizarra",
+     "it": "ciac",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "sound boom",
+     "fr": "perche",
+     "de": "Mikrophongalgen",
+     "es": "m icròfono de aire",
+     "it": "giraffa",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 15,
+      "es": 15,
+      "it": 7
+     }
+    },
+    {
+     "en": "actors »les acteurs",
+     "de": "Schauspieler",
+     "es": "actores",
+     "it": "attori",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 16,
+      "de": 12,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "short wave",
+     "fr": "ondes courtes",
+     "de": "Kurzwelle",
+     "es": "onda corta",
+     "it": "onda corta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "radio station",
+     "fr": "station de radio",
+     "de": "Rundfunkstation",
+     "es": "estación de radio",
+     "it": "canale radiofonico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 15,
+      "es": 15,
+      "it": 17
+     }
+    }
+   ]
+  },
+  {
+   "slug": "radio",
+   "names": {
+    "en": "radio",
+    "fr": "la radio",
+    "de": "das radio",
+    "es": "la radio",
+    "it": "la radio"
+   },
+   "entries": [
+    {
+     "en": "sound technician",
+     "fr": "ingénieur du son",
+     "de": "Tonmeister",
+     "es": "técnico de sonido",
+     "it": "tecnico del suono",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 14,
+      "de": 10,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "microphone",
+     "fr": "microphone",
+     "de": "Mikrophon",
+     "es": "micrófono",
+     "it": "microfono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "medium wave",
+     "fr": "ondes moyennes",
+     "de": "Mittelwelle",
+     "es": "onda media",
+     "it": "onda media",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 11,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "DJ",
+     "fr": "D .J",
+     "de": "DJ",
+     "es": "DI",
+     "it": "DJ",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 2,
+      "fr": 2,
+      "de": 2,
+      "es": 2,
+      "it": 2
+     }
+    },
+    {
+     "en": "frequency",
+     "fr": "fréquence",
+     "de": "Frequenz",
+     "es": "frecuencia",
+     "it": "frequenza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "broadcast",
+     "fr": "émission",
+     "de": "Sendung",
+     "es": "transmisión",
+     "it": "trasmissione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 7,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "wavelength",
+     "fr": "longueur d'ondes",
+     "de": "Wellenlänge",
+     "es": "longitud de onda",
+     "it": "lunghezza d'onda",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 11,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "volume",
+     "fr": "volume",
+     "de": "Lautstärke",
+     "es": "volumen",
+     "it": "volume",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "tune (v)",
+     "fr": "régler",
+     "de": "einstellen",
+     "es": "sintonizar",
+     "it": "sintonizzare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "long wave",
+     "fr": "grandes ondes",
+     "de": "Langwelle",
+     "es": "onda larga",
+     "it": "onda lunga",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "recording studio",
+     "fr": "studio d'enregistrement",
+     "de": "Tonstudio",
+     "es": "«.‘studio de grabación",
+     "it": "studio di registrazione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 21,
+      "de": 9,
+      "es": 17,
+      "it": 21
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

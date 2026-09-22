@@ -1,0 +1,273 @@
+{
+ "page": 83,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "gardening tools • les outils de jardin • die Gartengeräte • las herramientas de jardinería • gli attrezzi da giardino",
+   "parts": [
+    "gardening tools",
+    "les outils de jardin",
+    "die gartengeräte",
+    "las herramientas de jardinería",
+    "gli attrezzi da giardino"
+   ],
+   "entries": [
+    {
+     "en": "compost",
+     "fr": "le terreau",
+     "de": "die Komposterde",
+     "es": "la com posta",
+     "it": "il terriccio",
+     "_pos": [
+      734,
+      153
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "I",
+   "parts": [
+    "i"
+   ],
+   "entries": [
+    {
+     "en": "seeds",
+     "fr": "les graines",
+     "de": "die Samen",
+     "es": "las sem illas",
+     "it": "i semi",
+     "_pos": [
+      734,
+      327
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bone meal",
+     "fr": "la cendre d'os",
+     "de": "die Knochenasche",
+     "es": "la harina de huesos",
+     "it": "la farina di ossa",
+     "_pos": [
+      734,
+      483
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "û",
+   "parts": [
+    "û"
+   ],
+   "entries": [
+    {
+     "en": "shovel",
+     "fr": "la beehr",
+     "de": "der Spaten",
+     "es": "la pala",
+     "it": "la vanga",
+     "_pos": [
+      48,
+      579
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fork",
+     "fr": "la fourche",
+     "de": "die Gabel",
+     "es": "el trine he",
+     "it": "il forcone",
+     "_pos": [
+      164,
+      580
+     ],
+     "_flags": []
+    },
+    {
+     "en": "long-handled shears",
+     "fr": "la grande cisaille",
+     "de": "die Schere",
+     "es": "la podadora de mango largo",
+     "it": "le forbici tagliabordi",
+     "_pos": [
+      290,
+      581
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rake",
+     "fr": "le râteau",
+     "de": "der Rechen",
+     "es": "el rastrillo",
+     "it": "il rastrello",
+     "_pos": [
+      495,
+      581
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hoe",
+     "fr": "la houe",
+     "de": "die Hacke",
+     "es": "el azadón",
+     "it": "la zappa",
+     "_pos": [
+      625,
+      583
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gravel - le gravier",
+     "de": "der Kies",
+     "es": "la grava",
+     "it": "la ghiaia",
+     "_pos": [
+      732,
+      649
+     ],
+     "_flags": [
+      "missing:fr",
+      "en:short:-"
+     ]
+    },
+    {
+     "en": "grass bag",
+     "fr": "le sac à herbe",
+     "de": "der Grasfangsack",
+     "es": "la bolsa para la hierba",
+     "it": "il raccoglierba",
+     "_pos": [
+      188,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handle",
+     "fr": "le bras",
+     "de": "der Griff",
+     "es": "el asa",
+     "it": "il manico",
+     "_pos": [
+      474,
+      730
+     ],
+     "_flags": []
+    },
+    {
+     "en": "motor",
+     "fr": "le moteur",
+     "de": "der Motor",
+     "es": "el motor",
+     "it": "il motore",
+     "_pos": [
+      372,
+      746
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gardening basket",
+     "fr": "le panier de jardinier",
+     "de": "der Gartenkorb",
+     "es": "la cesta de jardinero",
+     "it": "il cestello",
+     "_pos": [
+      600,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shield",
+     "fr": "l'écran de protection",
+     "de": "der Schutz",
+     "es": "el protector",
+     "it": "la protezione",
+     "_pos": [
+      46,
+      942
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le support",
+     "de": "der Ständer",
+     "es": "el soporte",
+     "it": "il sostegno",
+     "_pos": [
+      580,
+      963
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "trimmer",
+     "fr": "la tondeuse",
+     "de": "der Schneider",
+     "es": "la cortadora",
+     "it": "il tagliabordi",
+     "_pos": [
+      46,
+      1042
+     ],
+     "_flags": []
+    },
+    {
+     "en": "I awn mower",
+     "fr": "la tondeuse à gazon",
+     "de": "der Rasenmäher",
+     "es": "la podadora",
+     "it": "il tosaerba",
+     "_pos": [
+      344,
+      1044
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "wheelbarrow",
+     "fr": "la brouette",
+     "de": "der Schubkarren",
+     "es": "la carretilla",
+     "it": "la carriola",
+     "_pos": [
+      689,
+      1046
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 3,
+  "flagged": 15,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

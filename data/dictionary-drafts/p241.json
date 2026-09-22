@@ -1,0 +1,383 @@
+{
+ "page": 241,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "costume",
+     "fr": "le costume",
+     "de": "das Theaterkostüm",
+     "es": "el vestuario",
+     "it": "il costume",
+     "_pos": [
+      548,
+      86
+     ],
+     "_flags": []
+    },
+    {
+     "en": "musical",
+     "fr": "la comédie musicale",
+     "de": "das Musical",
+     "es": "el musical",
+     "it": "il musical",
+     "_pos": [
+      290,
+      276
+     ],
+     "_flags": []
+    },
+    {
+     "en": "concert",
+     "fr": "le concert",
+     "de": "das Konzert",
+     "es": "el concierto",
+     "it": "il concerto",
+     "_pos": [
+      36,
+      276
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ballet « le ballet",
+     "de": "das Ballett",
+     "es": "el ballet",
+     "it": "il balletto",
+     "_pos": [
+      718,
+      323
+     ],
+     "_flags": [
+      "missing:fr",
+      "en:weird:«"
+     ]
+    },
+    {
+     "en": "soundtrack",
+     "fr": "la bande sonore",
+     "de": "die Tonspur",
+     "es": "la banda sonora",
+     "it": "la colonna sonora",
+     "_pos": [
+      232,
+      341
+     ],
+     "_flags": []
+    },
+    {
+     "en": "usher",
+     "fr": "le placeur",
+     "de": "der Platzanweiser",
+     "es": "el acomodador",
+     "it": "la maschera",
+     "_pos": [
+      50,
+      342
+     ],
+     "_flags": []
+    },
+    {
+     "en": "applaud (v)",
+     "fr": "applaudir",
+     "de": "applaudieren",
+     "es": "aplaudir",
+     "it": "applaudire",
+     "_pos": [
+      232,
+      440
+     ],
+     "_flags": []
+    },
+    {
+     "en": "classical music",
+     "fr": "la musique classique",
+     "de": "die klassische Musik",
+     "es": "la música clásica",
+     "it": "la musica classica",
+     "_pos": [
+      50,
+      441
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W hat time does it start?",
+     "fr": "Ç a com m ence à quelle heure?",
+     "de": "Um wie viel Uhr beginnt die Aufführung?",
+     "es": "A qué hora em pieza?",
+     "it": "A che ora inizia?",
+     "_pos": [
+      396,
+      488
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:start?",
+      "en:case",
+      "fr:short:Ç",
+      "fr:short:m",
+      "fr:weird:heure?",
+      "de:weird:Aufführung?",
+      "es:weird:pieza?",
+      "es:case",
+      "it:weird:inizia?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "encore",
+     "fr": "le bis",
+     "de": "die Zugabe",
+     "es": "el bis",
+     "it": "il bis",
+     "_pos": [
+      232,
+      538
+     ],
+     "_flags": []
+    },
+    {
+     "en": "musical score",
+     "fr": "la partition",
+     "de": "die Noten",
+     "es": "la partitura",
+     "it": "la partitura musicale",
+     "_pos": [
+      52,
+      539
+     ],
+     "_flags": []
+    },
+    {
+     "en": "opera",
+     "fr": "l'opéra die Oper",
+     "es": "la ópera",
+     "it": "l'opera",
+     "_pos": [
+      718,
+      586
+     ],
+     "_flags": [
+      "missing:de"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "movies • le cinema • das Kino • el cine • il cinema",
+   "parts": [
+    "movies",
+    "le cinéma",
+    "das kino",
+    "el cine",
+    "il cinema"
+   ],
+   "entries": [
+    {
+     "en": "comedy",
+     "fr": "la comédie",
+     "de": "die Komödie",
+     "es": "la comedia",
+     "it": "la commedia",
+     "_pos": [
+      477,
+      685
+     ],
+     "_flags": []
+    },
+    {
+     "en": "romance",
+     "fr": "la com edie rom antique",
+     "de": "der Liebesfilm",
+     "es": "la película romántica",
+     "it": "il film d'amore",
+     "_pos": [
+      646,
+      685
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lobby",
+     "fr": "le foyer",
+     "de": "das Foyer",
+     "es": "el vestíbulo",
+     "it": "l'atrio",
+     "_pos": [
+      346,
+      702
+     ],
+     "_flags": []
+    },
+    {
+     "en": "popcorn",
+     "fr": "le pop-corn",
+     "de": "das Popcorn",
+     "es": "las palom itas",
+     "it": "il popcorn",
+     "_pos": [
+      38,
+      703
+     ],
+     "_flags": []
+    },
+    {
+     "en": "box office",
+     "fr": "la caisse",
+     "de": "die Kasse",
+     "es": "la taquilla",
+     "it": "la biglietteria",
+     "_pos": [
+      221,
+      703
+     ],
+     "_flags": []
+    },
+    {
+     "en": "science fiction movie",
+     "fr": "le film de science-fiction",
+     "de": "der Science-fiction-Film",
+     "es": "la película de ciencia ficción",
+     "it": "il film di fantascienza",
+     "_pos": [
+      646,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thriller",
+     "fr": "le thriller",
+     "de": "der Thnller",
+     "es": "la película de suspenso",
+     "it": "il thriller",
+     "_pos": [
+      478,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "poster",
+     "fr": "l'affiche",
+     "de": "das Plakat",
+     "es": "el póster",
+     "it": "I",
+     "_pos": [
+      188,
+      802
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "adventure",
+     "fr": "le film d'aventures",
+     "de": "der Abenteuerfilm",
+     "es": "la película de aventuras",
+     "it": "il film di avventura",
+     "_pos": [
+      648,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horror movie",
+     "fr": "le film d 'h o rretir",
+     "de": "der Horrorfilm",
+     "es": "la película de miedo",
+     "it": "il film di orrore",
+     "_pos": [
+      479,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "animated movie",
+     "fr": "le film d' animation",
+     "de": "der Zeichentrickfilm",
+     "es": "la película de dibujos anim ados",
+     "it": "il film di animazione",
+     "_pos": [
+      648,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Western",
+     "fr": "le western",
+     "de": "der Western",
+     "es": "la película de vaqueros",
+     "it": "il western",
+     "_pos": [
+      480,
+      980
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "movie theater",
+     "fr": "la salle de cinem a",
+     "de": "der Kinosaal",
+     "es": "el cine",
+     "it": "il cinema",
+     "_pos": [
+      40,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "screen",
+     "fr": "l'écran",
+     "de": "die Leinwand",
+     "es": "la pantalla",
+     "it": "lo schermo",
+     "_pos": [
+      252,
+      1031
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "I'd like two tickets for tonight's performance | Je voudrais deux billets pour la | représentation de ce soir | Ich möchte zwei Karten für die Aufführung heute | Abend | Q uisiera dos entradas para la sesión de esta | noche | Vorrei due biglietti per lo spettacolo di stasera",
+   "pos": [
+    395,
+    340
+   ],
+   "why": "blocco 8 righe non partizionabile"
+  }
+ ],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 14,
+  "flagged": 12,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

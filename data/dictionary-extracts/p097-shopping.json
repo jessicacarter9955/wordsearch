@@ -1,0 +1,497 @@
+{
+ "page": 97,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "centro-commerciale",
+   "names": {
+    "en": "shopping mall",
+    "fr": "le centre commercial",
+    "de": "das einkaufszentrum",
+    "es": "el centro comercial",
+    "it": "il centro commerciale"
+   },
+   "entries": [
+    {
+     "en": "atrium",
+     "fr": "atrium",
+     "de": "Atrium",
+     "es": "atrio",
+     "it": "atrio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "third floor",
+     "fr": "deuxième étage",
+     "de": "zweite Etage",
+     "es": "segundo piso",
+     "it": "secondo piano",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 11,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "sign",
+     "fr": "Penseignc",
+     "de": "Schild",
+     "es": "letrero",
+     "it": "insegna",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "second floor",
+     "fr": "premier étage",
+     "de": "erste Etage",
+     "es": "primer piso",
+     "it": "primo piano",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "escalator",
+     "fr": "escalier mécanique",
+     "de": "Rolltreppe",
+     "es": "escalera eléctrica",
+     "it": "scala mobile",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 10,
+      "es": 17,
+      "it": 11
+     }
+    },
+    {
+     "en": "»",
+     "_multi": [],
+     "_grid_len": {
+      "en": 0
+     }
+    },
+    {
+     "en": "elevator",
+     "fr": "ascenseur",
+     "de": "Fahrstuhl",
+     "es": "elevador",
+     "it": "ascensore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "ground floor",
+     "fr": "rez-de-chaussée",
+     "de": "Erdgeschoss",
+     "es": "planta haja",
+     "it": "piano terra",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "customer",
+     "fr": "client",
+     "de": "Kunde",
+     "es": "diente",
+     "it": "diente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "childrens department",
+     "fr": "rayon enfants",
+     "de": "Kinderabteilung",
+     "es": "departamento de niños",
+     "it": "reparto bambini",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 12,
+      "de": 15,
+      "es": 19,
+      "it": 14
+     }
+    },
+    {
+     "en": "store directory",
+     "fr": "guide",
+     "de": "Anzeigetafel",
+     "es": "directorio",
+     "it": "guida al negozio",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 5,
+      "de": 12,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "fitting rooms",
+     "fr": "cabines d'essayage",
+     "de": "Anprobe",
+     "es": "probadores",
+     "it": "camerini",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 7,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "H ow much is this?",
+     "fr": "C 'est combien?",
+     "de": "Was kostet das?",
+     "es": "C uanto cuesta esto?",
+     "it": "Quanto costa questo?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 12,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "luggage department",
+     "fr": "rayon bagages",
+     "de": "Gepackabteilung",
+     "es": "departamento de equipajes",
+     "it": "reparto bagagli",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 12,
+      "de": 15,
+      "es": 23,
+      "it": 14
+     }
+    },
+    {
+     "en": "sales clerk",
+     "fr": "vendeur",
+     "de": "Verkäufer",
+     "es": "vendedor",
+     "it": "commesso",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "baby changing room",
+     "fr": "soins de bébés",
+     "de": "Wickelraum",
+     "es": "cuarto para cambiar a los bebés",
+     "it": "stanza di cambio pannolini",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 12,
+      "de": 10,
+      "es": 26,
+      "it": 23
+     }
+    },
+    {
+     "en": "May 1 exchange this?",
+     "fr": "list-ce que je peux changer ça?",
+     "de": "Kann ich das Umtauschen?",
+     "es": "Puedo cam biar esto?",
+     "it": "Posso cambiare questo?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 16,
+      "fr": 24,
+      "de": 20,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "shoe department",
+     "fr": "rayon chaussures",
+     "de": "Schuhabteilung",
+     "es": "departamento de zapatería",
+     "it": "reparto calzature",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 15,
+      "de": 14,
+      "es": 23,
+      "it": 16
+     }
+    },
+    {
+     "en": "rest room",
+     "fr": "toilettes",
+     "de": "Toiletten",
+     "es": "baños",
+     "it": "toilettes",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "customer services",
+     "fr": "service après-vente",
+     "de": "Kundendienst",
+     "es": "servicio al cliente",
+     "it": "assistenza ai clienti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 17,
+      "de": 12,
+      "es": 17,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

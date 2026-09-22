@@ -1,0 +1,269 @@
+{
+ "page": 247,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • T F. T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "attractions • les attractions • die Sehenswürdigkeiten • los lugares de interés • i luoghi d'interesse",
+   "parts": [
+    "attractions",
+    "les attractions",
+    "die sehenswürdigkeiten",
+    "los lugares de interés",
+    "i luoghi d'interesse"
+   ],
+   "entries": [
+    {
+     "en": "famous njin",
+     "fr": "la ruine célèbre",
+     "de": "die berühmte Ruine",
+     "es": "la ruina famosa",
+     "it": "la rovina famosa",
+     "_pos": [
+      650,
+      101
+     ],
+     "_flags": []
+    },
+    {
+     "en": "exhibition",
+     "fr": "l'exposition",
+     "de": "die Ausstellung",
+     "es": "la exposk ión",
+     "it": "l'esposizione",
+     "_pos": [
+      422,
+      103
+     ],
+     "_flags": []
+    },
+    {
+     "en": "painting",
+     "fr": "le tableau",
+     "de": "das Gemälde",
+     "es": "el cuadro",
+     "_pos": [
+      76,
+      107
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "exhibit",
+     "fr": "l'objet exposé",
+     "de": "das Ausstellungsstück",
+     "es": "la muestra",
+     "_pos": [
+      182,
+      107
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "historic building",
+     "fr": "le monument historique",
+     "de": "das historische Gebäude",
+     "es": "el édifie io histórico",
+     "it": "l'edificio storico",
+     "_pos": [
+      668,
+      379
+     ],
+     "_flags": []
+    },
+    {
+     "en": "museum",
+     "fr": "le musée",
+     "de": "das Museum",
+     "es": "el museo",
+     "it": "il museo",
+     "_pos": [
+      456,
+      382
+     ],
+     "_flags": []
+    },
+    {
+     "en": "monument",
+     "fr": "le monument",
+     "de": "das Monument",
+     "es": "el monumento",
+     "it": "il monumento",
+     "_pos": [
+      244,
+      384
+     ],
+     "_flags": []
+    },
+    {
+     "en": "art gallery",
+     "fr": "le musée d'art",
+     "de": "die Kunstgalerie",
+     "es": "la galería de arte",
+     "it": "la galleria d'arte",
+     "_pos": [
+      30,
+      387
+     ],
+     "_flags": []
+    },
+    {
+     "en": "national park",
+     "fr": "le parc national",
+     "de": "der Nationalpark",
+     "es": "el parque nacional",
+     "it": "il parco nazionale",
+     "_pos": [
+      460,
+      675
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garden",
+     "fr": "le pare",
+     "de": "der Park",
+     "es": "los jardines",
+     "it": "i giardini",
+     "_pos": [
+      248,
+      679
+     ],
+     "_flags": []
+    },
+    {
+     "en": "casino",
+     "fr": "le casino",
+     "de": "das Kasino",
+     "es": "el casino",
+     "it": "il casinò",
+     "_pos": [
+      36,
+      681
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• die Information • la inform ación • l'informazione",
+   "parts": [
+    "die information",
+    "la inform ación",
+    "l'informazione"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "l'information",
+   "parts": [
+    "l'information"
+   ],
+   "entries": [
+    {
+     "en": "information",
+     "_pos": [
+      36,
+      752
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "ornes",
+     "fr": "les heures",
+     "de": "die Zeiten",
+     "es": "las horas",
+     "it": "gli orari",
+     "_pos": [
+      401,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tourist information",
+     "fr": "l'information touristique",
+     "de": "die Touristeninformation",
+     "es": "la oficina de información",
+     "it": "l'ufficio informazioni turistiche",
+     "_pos": [
+      678,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "timetable",
+     "fr": "l'horaire",
+     "de": "der Fahrplan",
+     "es": "el horario",
+     "it": "l'orario",
+     "_pos": [
+      480,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "map",
+     "fr": "le plan",
+     "de": "der Stadtplan",
+     "es": "el mapa",
+     "it": "la mappa",
+     "_pos": [
+      265,
+      989
+     ],
+     "_flags": []
+    },
+    {
+     "en": "floor plan",
+     "fr": "le plan",
+     "de": "der Grundriss",
+     "es": "el plano de la planta",
+     "it": "la pianta del piano",
+     "_pos": [
+      40,
+      993
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 2,
+  "flagged": 15,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

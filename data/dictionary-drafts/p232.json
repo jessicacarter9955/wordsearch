@@ -1,0 +1,310 @@
+{
+ "page": 232,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS ♦ I HS SPORTS • DER SPORT • L O S DEPORTES • GU SPORT",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "freshwater fishing",
+     "fr": "la pêche en eau douce",
+     "de": "das Süßwasserangeln",
+     "es": "la pesca en agua dulce",
+     "it": "la pesca in acqua dolce",
+     "_pos": [
+      40,
+      272
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fly fishing",
+     "fr": "la pêche à la mouche",
+     "de": "das Fliegenangeln",
+     "es": "la pesca con mosca",
+     "it": "la pesca con la mosca",
+     "_pos": [
+      445,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deep sea fishing",
+     "fr": "la pêche hauturière",
+     "de": "die Hochseefischerei",
+     "es": "la pesca de altura",
+     "it": "la pesca I alto mare",
+     "_pos": [
+      274,
+      485
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sport fishing",
+     "fr": "la pêche sportive",
+     "de": "das Sportangeln",
+     "es": "la pesca deportiva",
+     "it": "la pesca sportiva",
+     "_pos": [
+      40,
+      486
+     ],
+     "_flags": []
+    },
+    {
+     "en": "surfeastmg",
+     "fr": "la pêche au lancer en mer",
+     "de": "das Brandungsangeln",
+     "es": "la pesca en la o n lla",
+     "it": "la pesca dalla riva",
+     "_pos": [
+      679,
+      486
+     ],
+     "_flags": [
+      "es:short:n"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "acciones",
+   "parts": [
+    "acciones"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "activities • les activités • die Aktivitäten • las",
+   "parts": [
+    "activities",
+    "les activités",
+    "die aktivitäten",
+    "las"
+   ],
+   "entries": [
+    {
+     "en": "catch (v)",
+     "fr": "attraper",
+     "de": "fangen",
+     "es": "atrapar",
+     "it": "prendere",
+     "_pos": [
+      210,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reel in (v)",
+     "fr": "ramener",
+     "de": "einholen",
+     "es": "recoger",
+     "it": "tirare con il mulinello",
+     "_pos": [
+      378,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "net (v)",
+     "fr": "prendre au filet",
+     "de": "mit dem Netz fangen",
+     "es": "atrapar con la red",
+     "it": "pescare con la rete",
+     "_pos": [
+      546,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "release (v)",
+     "fr": "lâcher",
+     "de": "loslassen",
+     "es": "soltar",
+     "it": "rilasciare",
+     "_pos": [
+      714,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cast (v)",
+     "fr": "lancer",
+     "de": "auswerfen",
+     "es": "lanzar",
+     "it": "lanciare",
+     "_pos": [
+      42,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "creel",
+     "fr": "le panier de pêche",
+     "de": "der Fischkorb",
+     "es": "la nasa",
+     "it": "la nassa",
+     "_pos": [
+      680,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rain clothes",
+     "fr": "l'imperméable",
+     "de": "die Regenhaut",
+     "es": "la ropa impermeable",
+     "it": "l'impermeabile",
+     "_pos": [
+      342,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tackle",
+     "fr": "le matériel de pêche",
+     "de": "die Angelgeräte",
+     "es": "los aparejos",
+     "it": "1‘attrezzatura",
+     "_pos": [
+      185,
+      879
+     ],
+     "_flags": [
+      "it:weird:1‘attrezzatura"
+     ]
+    },
+    {
+     "en": "fishing license",
+     "fr": "le permis de pêche",
+     "de": "der Angelschein",
+     "es": "la licencia de pesca",
+     "it": "la licenza di pesca",
+     "_pos": [
+      503,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bait (v)",
+     "fr": "amorcer",
+     "de": "ködern",
+     "es": "cebar",
+     "it": "fornire di esca",
+     "_pos": [
+      58,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spearfishing",
+     "fr": "la poche sous-marine",
+     "de": "das Speerfischen",
+     "es": "la pesca con arpón",
+     "it": "la pesca con la fiocina",
+     "_pos": [
+      681,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spool",
+     "fr": "le tambour",
+     "de": "die Rolle",
+     "es": "el carrete",
+     "it": "la bobina",
+     "_pos": [
+      185,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pole",
+     "fr": "la perche",
+     "de": "die Stake",
+     "es": "la pértiga",
+     "it": "il paio",
+     "_pos": [
+      343,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "marine fishing",
+     "fr": "la pêche maritime",
+     "de": "die Seefischerei",
+     "es": "la pesca en alta mar",
+     "it": "la pesca in mare",
+     "_pos": [
+      504,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bite (v)",
+     "fr": "mordre",
+     "de": "anbeißen",
+     "es": "picar",
+     "it": "abboccare",
+     "_pos": [
+      58,
+      978
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "typ e s o f fishing",
+   "pos": [
+    40,
+    75
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "le attività",
+   "pos": [
+    462,
+    574
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 6,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 2,
+  "subcats": 2
+ }
+}

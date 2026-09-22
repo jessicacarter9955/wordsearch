@@ -1,0 +1,468 @@
+{
+ "page": 56,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • L A MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "plumbing • la plomberie • die Installation • la fontanería 'im pianto idraulico",
+   "parts": [
+    "plumbing",
+    "la plomberie",
+    "die installation",
+    "la fontanería 'im pianto idraulico"
+   ],
+   "entries": [
+    {
+     "_pos": [
+      457,
+      115
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "sink",
+      "l 'é vie r",
+      "die Spüle",
+      "el fre g a d o r",
+      "l'acquaio faucet",
+      "le robinet",
+      "der Hahn",
+      "el grifo",
+      "¡I rubinetto"
+     ]
+    },
+    {
+     "en": "lever",
+     "fr": "la manette",
+     "de": "der Hebel",
+     "es": "la palanca",
+     "it": "la leva",
+     "_pos": [
+      695,
+      147
+     ],
+     "_flags": []
+    },
+    {
+     "en": "outlet",
+     "fr": "la sortie",
+     "de": "der Auslass",
+     "es": "la salida",
+     "it": "l'uscita",
+     "_pos": [
+      314,
+      148
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      34,
+      149
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "inlet",
+      "l'arrivée",
+      "die Zuleitung",
+      "la tom a",
+      "l'entrata pressure valve",
+      "la soupape de sûreté",
+      "das Sicherheitsventil",
+      "la válvula de la presión",
+      "la valvola ' della pressione !"
+     ]
+    },
+    {
+     "en": "gasket",
+     "fr": "le joint",
+     "de": "die Dichtung",
+     "es": "la junta",
+     "it": "la guarnizione",
+     "_pos": [
+      770,
+      197
+     ],
+     "_flags": []
+    },
+    {
+     "en": "insulation",
+     "fr": "l'isolation",
+     "de": "die Isolierung",
+     "es": "el aislamiento",
+     "it": "l'isolamento",
+     "_pos": [
+      342,
+      230
+     ],
+     "_flags": []
+    },
+    {
+     "en": "supply pipe",
+     "fr": "la conduite",
+     "de": "d'a menée die Zuleitung",
+     "es": "la toma del",
+     "it": "agua il tubo dell'acqua",
+     "_pos": [
+      458,
+      279
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "supply pipe",
+       "fr": "la conduite",
+       "de": "d'a menée die Zuleitung",
+       "es": "la tom a del agua",
+       "it": "il tubo dell'acqua"
+      },
+      {
+       "en": "supply pipe",
+       "fr": "la conduite d'a menée",
+       "de": "die Zuleitung",
+       "es": "la tom a del",
+       "it": "agua il tubo dell'acqua"
+      }
+     ]
+    },
+    {
+     "en": "shutoff valve",
+     "fr": "le robinet de sectionnement",
+     "de": "der Absperrhahn",
+     "es": "la llave de paso",
+     "it": "il rubinetto di arresto",
+     "_pos": [
+      745,
+      294
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tank",
+     "fr": "le réservoir",
+     "de": "der Kessel",
+     "es": "el tanque",
+     "it": "il serbatoio",
+     "_pos": [
+      344,
+      329
+     ],
+     "_flags": []
+    },
+    {
+     "en": "overflow pipe",
+     "fr": "le trop-plein",
+     "de": "der Überlauf",
+     "es": "el tubo de desagüe",
+     "it": "l tubo di troppopieno",
+     "_pos": [
+      34,
+      363
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waste disposal unit",
+     "fr": "le broyeur d'ordures",
+     "de": "der Müllschlucker",
+     "es": "el triturador de basuras",
+     "it": "il macinature di rifiuti",
+     "_pos": [
+      459,
+      410
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dram",
+     "fr": "le tuyau d‘écoulement",
+     "de": "der Abfluss",
+     "es": "el desagüe",
+     "it": "lo scolo",
+     "_pos": [
+      726,
+      426
+     ],
+     "_flags": [
+      "fr:weird:d‘écoulement"
+     ]
+    },
+    {
+     "en": "drain valve",
+     "fr": "le robinet de purge",
+     "de": "der Ablasshahn",
+     "es": "la llave del desagüe",
+     "it": "I rubinetto di scarico",
+     "_pos": [
+      345,
+      426
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "ater chamber",
+     "fr": "la chambre d'eau",
+     "de": "der rtasserraum",
+     "es": "el tanque del agua",
+     "it": "dell'acqua",
+     "_pos": [
+      36,
+      493
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      460,
+      514
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "toilet",
+      "Ics W .-C .",
+      "dasW C",
+      "el re tre te",
+      "il w ater float ball",
+      "le flotteur",
+      "der Schwimmer",
+      "el flotador",
+      "il galleggiante"
+     ]
+    },
+    {
+     "en": "tank",
+     "fr": "la chasse d' eau",
+     "de": "der Spülkasten",
+     "es": "el depósito",
+     "it": "la cassetta",
+     "_pos": [
+      772,
+      540
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thermostat",
+     "fr": "le thermostat",
+     "de": "Thermostat",
+     "es": "el termostato",
+     "it": "û termostato",
+     "_pos": [
+      36,
+      641
+     ],
+     "_flags": [
+      "it:short:û"
+     ]
+    },
+    {
+     "en": "bowl",
+     "fr": "la cuver te",
+     "de": "das Becken",
+     "es": "la taza",
+     "it": "la tazza",
+     "_pos": [
+      461,
+      688
+     ],
+     "_flags": []
+    },
+    {
+     "en": "heating element",
+     "fr": "la résistance",
+     "de": "das Heizelement",
+     "es": "la resistencia",
+     "it": "l'elemento riscaldante",
+     "_pos": [
+      294,
+      708
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le tuyau d' écoulement",
+     "de": "das Abflussrohr",
+     "es": "el desagüe",
+     "it": "il tubo di scolo",
+     "_pos": [
+      752,
+      736
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "Dumer",
+     "fr": "le brûleur à gaz",
+     "de": "der Gasbrenner",
+     "es": "el quemador",
+     "it": "il ruciatore a gas",
+     "_pos": [
+      37,
+      739
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "_pos": [
+      39,
+      804
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "boiler",
+      "la chaud ière",
+      "der Boiler",
+      "la caldera",
+      "lo scaldaacqua w aste disposal",
+      "l'e n lè vem e n t de d éch ets",
+      "die Abfallentsorgung",
+      "la e lim in a c ió n de d esech o s",
+      "lo sm altim ento dei rifiu ti"
+     ]
+    },
+    {
+     "en": "lid",
+     "fr": "le couvercle",
+     "de": "der Deckel",
+     "es": "la tapa",
+     "it": "il coperchio",
+     "_pos": [
+      391,
+      869
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bottle",
+     "fr": "la bouteille",
+     "de": "die Flasche",
+     "es": "la botella",
+     "it": "la bottiglia",
+     "_pos": [
+      154,
+      870
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pedal",
+     "fr": "la pédale",
+     "de": "der Trethebel",
+     "es": "el pedal",
+     "it": "il pedale",
+     "_pos": [
+      235,
+      919
+     ],
+     "_flags": []
+    },
+    {
+     "en": "organic waste",
+     "fr": "les déchets bios",
+     "de": "der Bio-Abfall",
+     "es": "los desperdicios orgánicos",
+     "it": "i rifiuti organici",
+     "_pos": [
+      677,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sorting unit",
+     "fr": "la boîte de rri",
+     "de": "die Abfallsortiereinheit",
+     "es": "el armario para clasificar la basura",
+     "it": "l'unità di smistamento",
+     "_pos": [
+      464,
+      1016
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trash can",
+     "fr": "la poubelle",
+     "de": "der Abfalleimer",
+     "es": "el cubo de la basura",
+     "it": "la pattumiera",
+     "_pos": [
+      252,
+      1017
+     ],
+     "_flags": []
+    },
+    {
+     "en": "recycling bin",
+     "fr": "la boîte à déchets reciclables",
+     "de": "der Recyclingbehälter",
+     "es": "el cubo para reciclar",
+     "it": "il secchio di riciclaggio",
+     "_pos": [
+      40,
+      1017
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "J j l",
+   "pos": [
+    111,
+    281
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "serbatoio",
+   "pos": [
+    58,
+    592
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "J L",
+   "pos": [
+    502,
+    978
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 7,
+  "flagged": 22,
+  "missing_lang": 1,
+  "leftovers": 3,
+  "subcats": 1
+ }
+}

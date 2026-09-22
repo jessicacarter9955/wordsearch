@@ -1,0 +1,357 @@
+{
+ "page": 209,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "calcio",
+   "names": {
+    "en": "soccer",
+    "fr": "le football",
+    "de": "der fußball",
+    "es": "el fútbol",
+    "it": "il calcio"
+   },
+   "entries": [
+    {
+     "en": "soccer ball",
+     "fr": "ballon",
+     "de": "Fußball",
+     "es": "balón",
+     "it": "pallone",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "forward",
+     "fr": "avant",
+     "de": "Mittelstürmer",
+     "es": "delantero",
+     "it": "attaccante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 13,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "referee",
+     "fr": "arbitre",
+     "de": "Schiedsrichter",
+     "es": "árbitro",
+     "it": "arbitro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "center circle",
+     "fr": "cercle central",
+     "de": "M inelkreis",
+     "es": "círculo central",
+     "it": "centro campo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 10,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "goalkeeper",
+     "fr": "gardien de but",
+     "de": "Torwart",
+     "es": "portero",
+     "it": "portiere",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "soccer uniform",
+     "fr": "tenue",
+     "de": "Dress",
+     "es": "ei uniform e",
+     "it": "divisa",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 5,
+      "de": 5,
+      "es": 10,
+      "it": 6
+     }
+    },
+    {
+     "en": "soccer player",
+     "fr": "joueur de foot",
+     "de": "Fußballspieler",
+     "es": "futbolista",
+     "it": "calciatore",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 15,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "soccer field",
+     "fr": "terrain",
+     "de": "Fußballfeld",
+     "es": "campo de fútbol",
+     "it": "campo di calcio",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 12,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "goalpost",
+     "fr": "poteau",
+     "de": "Torpfosten",
+     "es": "poste",
+     "it": "nnln",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "net",
+     "fr": "filet",
+     "de": "Tomet2",
+     "es": "red",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 6,
+      "es": 3
+     }
+    },
+    {
+     "en": "crossbar",
+     "fr": "barre transversale",
+     "de": "Querlatte",
+     "es": "larguero",
+     "it": "O I r'UiíMTO",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "dribble (v)",
+     "fr": "dribbler",
+     "de": "dribbeln",
+     "es": "regatear",
+     "it": "palleggiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "head (v)",
+     "fr": "faire une tête",
+     "de": "köpfen",
+     "es": "cabecear",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 12,
+      "de": 6,
+      "es": 8
+     }
+    },
+    {
+     "en": "goal",
+     "fr": "but",
+     "de": "Tor",
+     "es": "gol",
+     "it": "gol",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "free kick",
+     "fr": "coup franc",
+     "de": "Freistoß",
+     "es": "tiro libre",
+     "it": "calcio di punizione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 17
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

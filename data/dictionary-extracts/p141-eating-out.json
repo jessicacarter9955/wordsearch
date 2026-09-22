@@ -1,0 +1,462 @@
+{
+ "page": 141,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "bar",
+   "names": {
+    "en": "bar",
+    "fr": "le bar",
+    "de": "die bar",
+    "es": "el bar",
+    "it": "il bar"
+   },
+   "entries": [
+    {
+     "en": "glasses",
+     "fr": "verres",
+     "de": "Glaser",
+     "es": "copas",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 5
+     }
+    },
+    {
+     "en": "dispenser",
+     "fr": "mesure",
+     "de": "Maß",
+     "es": "medidor óptico",
+     "it": "misurino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 4,
+      "es": 13,
+      "it": 8
+     }
+    },
+    {
+     "en": "cash register",
+     "fr": "caisse",
+     "de": "Kasse",
+     "es": "lu caja",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 5,
+      "es": 6
+     }
+    },
+    {
+     "en": "bartender",
+     "fr": "barman",
+     "de": "Barkeeper",
+     "es": "barman",
+     "it": "barista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "beer tap",
+     "fr": "pompe à hiere",
+     "de": "Zapfhahn",
+     "es": "llave de cerveza",
+     "it": "spillatore di birra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 8,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "coffee machine",
+     "fr": "percolateur",
+     "de": "Kaffeemaschine",
+     "es": "cafetera",
+     "it": "macchina da caffè",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 14,
+      "es": 8,
+      "it": 15
+     }
+    },
+    {
+     "en": "1 M J hl",
+     "fr": "» > 7",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 1
+     }
+    },
+    {
+     "en": "J",
+     "fr": "tj",
+     "de": "í",
+     "_multi": [],
+     "_grid_len": {
+      "en": 1,
+      "fr": 2,
+      "de": 1
+     }
+    },
+    {
+     "it": "i",
+     "_multi": [],
+     "_grid_len": {
+      "it": 1
+     }
+    },
+    {
+     "en": "bar stool",
+     "fr": "rabouret de bar",
+     "de": "Barhocker",
+     "es": "silla",
+     "it": "sgabello",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "ashtray",
+     "fr": "cendrier",
+     "de": "Aschbecher",
+     "es": "cenicero",
+     "it": "posacenere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "coaster I",
+     "fr": "dessous de verre",
+     "de": "Untersetzer",
+     "es": "posavasos",
+     "it": "sottobicchiere",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 11,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "bar",
+     "fr": "comptoir",
+     "de": "Theke",
+     "es": "barra",
+     "it": "banco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "fr": "seau à glace",
+     "de": "Eiskübel",
+     "es": "cham panera",
+     "it": "portaghiaccio",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "fr": 10,
+      "de": 8,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "stirrer",
+     "fr": "agitateur",
+     "de": "Cocktailnihrer",
+     "es": "agitador",
+     "it": "miscelatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 14,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "bottle opener",
+     "fr": "ouv rc-bourcillc",
+     "de": "Flaschenöffner",
+     "es": "destapador",
+     "it": "apribottiglie",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 14,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "tongs",
+     "fr": "pinces",
+     "de": "Eiszange",
+     "es": "pinzas",
+     "it": "pinze",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "lever",
+     "fr": "levier",
+     "de": "Hebel",
+     "es": "palanca",
+     "it": "leva",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "measure",
+     "fr": "verre gradué",
+     "de": "Messbecher",
+     "es": "medidor",
+     "it": "misurino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "corkscrew",
+     "fr": "tire-bouchon",
+     "de": "Korkenzieher",
+     "es": "sacacorchos",
+     "it": "cavatappi",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 12,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "cocktail shaker",
+     "fr": "shaker à «cocktails",
+     "de": "Cocktailshaker",
+     "es": "coctelera",
+     "it": "shaker",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 14,
+      "es": 9,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

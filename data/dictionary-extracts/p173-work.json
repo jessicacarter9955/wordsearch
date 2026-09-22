@@ -1,0 +1,279 @@
+{
+ "page": 173,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "wheat",
+     "fr": "blé",
+     "de": "Weizen",
+     "es": "trigo",
+     "it": "grano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "sunflower",
+     "fr": "rournesnl",
+     "de": "Sonnenblume",
+     "es": "girasol",
+     "it": "girasole",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "hay",
+     "fr": "foin",
+     "de": "Heu",
+     "es": "heno",
+     "it": "fieno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 3,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "alfalfa",
+     "fr": "luzerne",
+     "de": "Luzerne",
+     "es": "b alfalfa - I'alfalfa",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 16
+     }
+    },
+    {
+     "en": "tobacco",
+     "fr": "rabac",
+     "de": "Tabak",
+     "es": "tabaco",
+     "it": "tabacco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "rice",
+     "fr": "riz",
+     "de": "Reis",
+     "es": "arroz",
+     "it": "riso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 4,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "tea",
+     "fr": "thé",
+     "de": "Tee",
+     "es": "té",
+     "it": "té",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 2,
+      "it": 2
+     }
+    },
+    {
+     "en": "coffee",
+     "fr": "café",
+     "de": "Kaffee",
+     "es": "café",
+     "it": "caffè",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "flax",
+     "fr": "lin",
+     "de": "Flachs",
+     "es": "lino",
+     "it": "lino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "sugarcane",
+     "fr": "canne à sucre",
+     "de": "Zuckerrohr",
+     "es": "caña de azúcar",
+     "it": "canna da zucchero",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 10,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "cotton",
+     "fr": "coton",
+     "de": "Baumwolle",
+     "es": "algodón",
+     "it": "cotone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 9,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "scarecrow",
+     "fr": "épouvantail",
+     "de": "Vogelscheuche",
+     "es": "espantapájaros",
+     "it": "lu spaventapasseri",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 13,
+      "es": 14,
+      "it": 17
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

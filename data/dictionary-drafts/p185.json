@@ -1,0 +1,265 @@
+{
+ "page": 185,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • I .E T R A N S P O R T • DER VERKEHR • F l.T R A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "stop button",
+     "fr": "le bouton d'arrêt",
+     "de": "der Halteknopf",
+     "es": "el botón de parada",
+     "it": "il pulsante di chiamata",
+     "_pos": [
+      298,
+      83
+     ],
+     "_flags": []
+    },
+    {
+     "en": "window",
+     "fr": "la fenêtre",
+     "de": "das Fenster",
+     "es": "la ventanilla",
+     "it": "il finestrino",
+     "_pos": [
+      166,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ear wheel",
+     "fr": "a roue arrière",
+     "de": "msHinterrad",
+     "es": "a rueda trasera",
+     "it": "Id ruota posteriore",
+     "_pos": [
+      36,
+      134
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "bell",
+     "fr": "la sonnette",
+     "de": "die Klingel",
+     "es": "el timbre",
+     "it": "il campanello",
+     "_pos": [
+      434,
+      263
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bus ticket",
+     "fr": "le ticket",
+     "de": "der Fahrschein",
+     "es": "el boleto de autobus",
+     "it": "il biglietto",
+     "_pos": [
+      262,
+      264
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bus station",
+     "fr": "la gare routière",
+     "de": "der Busbahnhof",
+     "es": "la estación de autobuses",
+     "it": "l'autostazione",
+     "_pos": [
+      589,
+      279
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wheelchair access",
+     "fr": "l'accès aux handicap es",
+     "de": "der Rollstuhlzugang",
+     "es": "la rampa para sillas de ruedas",
+     "it": "l'accesso per sedie a rotelle",
+     "_pos": [
+      632,
+      361
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fare",
+     "fr": "le prix du ticket",
+     "de": "der Fahrpreis",
+     "es": "la tarifa",
+     "it": "la tariffa",
+     "_pos": [
+      450,
+      362
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bus shelter",
+     "fr": "l'abribus",
+     "de": "das Wartehäuschen",
+     "es": "la marquesina",
+     "it": "la pensilina",
+     "_pos": [
+      632,
+      459
+     ],
+     "_flags": []
+    },
+    {
+     "en": "timetable",
+     "fr": "l'horaire",
+     "de": "der Fahrplan",
+     "es": "el horario",
+     "it": "l'orario",
+     "_pos": [
+      452,
+      460
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Which bus goes to ...?",
+     "fr": "'est quel bus pour aller à ...?",
+     "de": "Welcher Bus fährt nach...?",
+     "es": "t Q ué autobus va a ...?",
+     "it": "Qual è l'autobus per...?",
+     "_pos": [
+      632,
+      558
+     ],
+     "_flags": [
+      "en:weird:...?",
+      "en:case",
+      "fr:weird:...?",
+      "de:weird:nach...?",
+      "es:short:t",
+      "es:short:Q",
+      "es:weird:...?",
+      "es:case",
+      "it:short:è",
+      "it:weird:per...?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Do you stop at...?",
+     "fr": "Vous stoppez à ...?",
+     "de": "Halten Sie am.. ?",
+     "es": "Para usted e n .. 7",
+     "it": "Ferma a...?",
+     "_pos": [
+      452,
+      559
+     ],
+     "_flags": [
+      "en:weird:at...?",
+      "en:case",
+      "fr:weird:...?",
+      "fr:case",
+      "de:weird:am..",
+      "de:weird:?",
+      "es:short:n",
+      "es:weird:..",
+      "es:num:7",
+      "es:case",
+      "it:weird:a...?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "bus stop",
+     "fr": "l'arrêt de bus",
+     "de": "die Bushaltestelle",
+     "es": "la parada de autobus",
+     "it": "la fermata dell'autobus",
+     "_pos": [
+      264,
+      561
+     ],
+     "_flags": []
+    },
+    {
+     "en": "minibus",
+     "fr": "le minibus",
+     "de": "der Kleinbus",
+     "es": "el m icrobús",
+     "it": "il pulmino",
+     "_pos": [
+      266,
+      840
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "shuttle bus",
+     "fr": "la navette",
+     "de": "der Zubringer",
+     "es": "el autobus directo",
+     "it": "la navetta",
+     "_pos": [
+      566,
+      1052
+     ],
+     "_flags": []
+    },
+    {
+     "de": "der Touristenbus",
+     "es": "el autobus turístico",
+     "_pos": [
+      252,
+      1054
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "tourist bus",
+     "fr": "le bus de touristes",
+     "it": "il pullman",
+     "_pos": [
+      43,
+      1056
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 3,
+  "flagged": 14,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

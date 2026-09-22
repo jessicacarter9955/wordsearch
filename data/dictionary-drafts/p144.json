@@ -1,0 +1,371 @@
+{
+ "page": 144,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • C O M E R HUERA • M ANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "menu",
+     "fr": "la carie",
+     "de": "die Speisekarte",
+     "es": "la carta",
+     "it": "il menù",
+     "_pos": [
+      240,
+      83
+     ],
+     "_flags": []
+    },
+    {
+     "en": "child's meal",
+     "fr": "le menu cTenfant",
+     "de": "die Kinderportion",
+     "es": "el m enu para niños",
+     "it": "il menù per bambini",
+     "_pos": [
+      28,
+      317
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "pay (v)",
+     "fr": "payer",
+     "de": "bezahlen",
+     "es": "pagar",
+     "it": "pagare",
+     "_pos": [
+      546,
+      330
+     ],
+     "_flags": []
+    },
+    {
+     "en": "order (v)",
+     "fr": "commander",
+     "de": "bestellen",
+     "es": "ordenar",
+     "it": "ordinare",
+     "_pos": [
+      242,
+      331
+     ],
+     "_flags": []
+    },
+    {
+     "en": "A table for two. please",
+     "fr": "Une table pour deux, s'il vous plaît",
+     "de": "Einen Tisch für zwei Personen, bitte",
+     "es": "Una mesa para dos, por favor",
+     "it": "Un tavolo per due, per favore",
+     "_pos": [
+      561,
+      396
+     ],
+     "_flags": [
+      "en:weird:two.",
+      "en:case",
+      "fr:weird:deux,",
+      "fr:case",
+      "de:weird:Personen,",
+      "es:weird:dos,",
+      "es:case",
+      "it:weird:due,",
+      "it:case"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "c o u rs e s • le s p la t s • die Gänge • lo s p la to s • le p o rta te",
+   "parts": [
+    "courses",
+    "les plats",
+    "die gänge",
+    "lo s p la tos",
+    "le portate"
+   ],
+   "entries": [
+    {
+     "en": "Can I see the menu/wine list, please?",
+     "fr": "La carte/1.i carte des vins, s'il Vous plaît",
+     "de": "Die Speisekarte/Weinkarte, bitte",
+     "es": "cPodría ver la çàrta/lista de vinos, por favor?",
+     "it": "Posso vedere il menù\\la lista dei vini, per favore?",
+     "_pos": [
+      562,
+      495
+     ],
+     "_flags": [
+      "en:weird:menu/wine",
+      "en:weird:list,",
+      "en:weird:please?",
+      "en:case",
+      "fr:weird:carte/1.i",
+      "fr:weird:vins,",
+      "fr:case",
+      "de:weird:Speisekarte/Weinkarte,",
+      "es:weird:çàrta/lista",
+      "es:weird:vinos,",
+      "es:weird:favor?",
+      "it:weird:menù\\la",
+      "it:weird:vini,",
+      "it:weird:favore?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "soup",
+     "fr": "la soupe",
+     "de": "die Suppe",
+     "es": "la sopa",
+     "it": "la minestra",
+     "_pos": [
+      383,
+      571
+     ],
+     "_flags": []
+    },
+    {
+     "en": "appetizer",
+     "fr": "l'entrée",
+     "de": "die Vorspeise",
+     "es": "la entrada",
+     "it": "l'antipasto",
+     "_pos": [
+      207,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apéritif",
+     "fr": "Raperini",
+     "de": "der Aperitif",
+     "es": "el aperitivo",
+     "it": "l'aperitivo",
+     "_pos": [
+      31,
+      574
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "Is there a prix fixe menu?",
+     "fr": "Avez-vous un menu à prix fixe?",
+     "de": "Haben Sie ein Tagesmenü?",
+     "es": "H ay menú del dia?",
+     "it": "C'è un menù a prezzo fisso i",
+     "_pos": [
+      563,
+      595
+     ],
+     "_flags": [
+      "en:weird:menu?",
+      "en:case",
+      "fr:weird:fixe?",
+      "fr:case",
+      "de:weird:Tagesmenü?",
+      "es:short:H",
+      "es:weird:dia?",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Do you have any vegetarian dishes?",
+     "fr": "Avez vous des plats végétariens?",
+     "de": "Haben Sie vegetarische Gerichte?",
+     "es": "lle n e platos vegetarianos?",
+     "it": "Avete dei piatti vegetariani i",
+     "_pos": [
+      564,
+      695
+     ],
+     "_flags": [
+      "en:weird:dishes?",
+      "en:case",
+      "fr:weird:végétariens?",
+      "fr:case",
+      "de:weird:Gerichte?",
+      "es:short:n",
+      "es:weird:vegetarianos?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Could I have the check/a receipt please?",
+     "fr": "L 'addition/un reçu, s'il vous plaît",
+     "de": "Könnte ich bitte die Rechnung/eine Quittung haben?",
+     "es": "Me podría traer la cuenta/un recibo?",
+     "it": "Posso avere il contorna ricevuta per favore?",
+     "_pos": [
+      564,
+      795
+     ],
+     "_flags": [
+      "en:weird:check/a",
+      "en:weird:please?",
+      "en:case",
+      "fr:weird:'addition/un",
+      "fr:weird:reçu,",
+      "fr:case",
+      "de:weird:Rechnung/eine",
+      "de:weird:haben?",
+      "es:weird:cuenta/un",
+      "es:weird:recibo?",
+      "es:case",
+      "it:weird:favore?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "side order",
+     "fr": "l'accompagnement",
+     "de": "die Beilage",
+     "es": "el acompañamiento",
+     "it": "il contorno",
+     "_pos": [
+      304,
+      813
+     ],
+     "_flags": []
+    },
+    {
+     "en": "main course",
+     "fr": "le plat principal",
+     "de": "das Hauptgericht",
+     "es": "el plato principal",
+     "it": "il piatto principale",
+     "_pos": [
+      32,
+      815
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coffee spoon",
+     "fr": "la cuiller à café",
+     "de": "der Kaffeelöffel",
+     "es": "la cucharilla de café",
+     "it": "il cucchiaino da caffè",
+     "_pos": [
+      248,
+      874
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fork",
+     "fr": "la fourchette",
+     "de": "die Gabel",
+     "es": "el tenedor",
+     "it": "la forchetta",
+     "_pos": [
+      32,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can we pay separately?",
+     "fr": "Pouvons-nous payer chacun notre part?",
+     "de": "Können wir getrennt zahlen?",
+     "es": "Podemos pagar por separado?",
+     "it": "Possiamo pagare separatamente?",
+     "_pos": [
+      566,
+      895
+     ],
+     "_flags": [
+      "en:weird:separately?",
+      "en:case",
+      "fr:weird:part?",
+      "fr:case",
+      "de:weird:zahlen?",
+      "es:weird:separado?",
+      "es:case",
+      "it:weird:separatamente?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Where are the rest rooms, please?",
+     "fr": "O ù sont les toilettes, s'il vous plaît?",
+     "de": "Wosind die Toiletten, bitte?",
+     "es": "Dónde están los baños, por favor?",
+     "it": "Dove sono i bagni per favore?",
+     "_pos": [
+      566,
+      994
+     ],
+     "_flags": [
+      "en:weird:rooms,",
+      "en:weird:please?",
+      "en:case",
+      "fr:short:ù",
+      "fr:weird:toilettes,",
+      "fr:weird:plaît?",
+      "fr:case",
+      "de:weird:Toiletten,",
+      "de:weird:bitte?",
+      "es:weird:baños,",
+      "es:weird:favor?",
+      "es:case",
+      "it:weird:favore?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "coffee",
+     "fr": "le café",
+     "de": "der Kaffee",
+     "es": "el café",
+     "it": "il caffè",
+     "_pos": [
+      324,
+      1062
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dessert",
+     "fr": "le dessert",
+     "de": "der Nachtisch",
+     "es": "el postre",
+     "it": "il dessert",
+     "_pos": [
+      35,
+      1064
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 2,
+  "flagged": 18,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

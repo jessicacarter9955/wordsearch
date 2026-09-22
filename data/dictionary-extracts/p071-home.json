@@ -1,0 +1,501 @@
+{
+ "page": 71,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "lavanderia",
+   "names": {
+    "en": "utility room",
+    "fr": "la buanderie",
+    "de": "der allzweckraum",
+    "es": "la lavandería",
+    "it": "la lavanderia"
+   },
+   "entries": []
+  },
+  {
+   "slug": "bucato",
+   "names": {
+    "en": "laundry",
+    "fr": "le linge",
+    "de": "die wäsche",
+    "es": "la colada",
+    "it": "il bucato"
+   },
+   "entries": [
+    {
+     "en": "dirty laundry",
+     "fr": "linge sale",
+     "de": "schmutzige Wäsche",
+     "es": "ropa sucia",
+     "it": "panni sporchi",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 16,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "dean clothes",
+     "fr": "linge propre",
+     "de": "saubere Wäsche",
+     "es": "ropa limpia",
+     "it": "vestiti puliti",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 13,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "laundry basket",
+     "fr": "panier à linge",
+     "de": "Wäschekorb",
+     "es": "cesto cíe la ropa sucia",
+     "it": "cesto della biacheria da lavare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 10,
+      "es": 19,
+      "it": 27
+     }
+    },
+    {
+     "en": "washing machine",
+     "fr": "lave-linge",
+     "de": "Waschmaschine",
+     "es": "lavadora",
+     "it": "lavatrice",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 9,
+      "de": 13,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "washer-dryer",
+     "fr": "lave linge séchant",
+     "de": "Waschautomat mit Trockner",
+     "es": "lavadora secadora",
+     "it": "lavasciuga",
+     "_multi": [
+      "fr",
+      "de",
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 23,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "tumble dryer",
+     "fr": "sèche-linge",
+     "de": "Trockner",
+     "es": "secadora",
+     "it": "asciugabiancheria",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 8,
+      "es": 8,
+      "it": 17
+     }
+    },
+    {
+     "en": "linen basket",
+     "fr": "panier à linge",
+     "de": "Wäschekorb",
+     "es": "cesto de la ropa para planchar",
+     "it": "cesto della biancheria pulita",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 25,
+      "it": 26
+     }
+    },
+    {
+     "en": "clothesline",
+     "fr": "corde à linge",
+     "de": "Wäscheleine",
+     "es": "tendedero",
+     "it": "corda per bucato",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "clothespin",
+     "fr": "pince à linge",
+     "de": "Wäscheklammer",
+     "es": "pinza para la ropa",
+     "it": "molletta",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 13,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "ron",
+     "fr": "fer à repasser",
+     "de": "Bügeleisen",
+     "es": "plancha",
+     "it": "ferro da stiro",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 12,
+      "de": 10,
+      "es": 7,
+      "it": 12
+     }
+    },
+    {
+     "en": "dry (v)",
+     "fr": "sécher",
+     "de": "trocknen",
+     "es": "sot .ir",
+     "it": "asciugare",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "ironing board",
+     "fr": "planche à repasser",
+     "de": "Bügelbrett",
+     "es": "burro de la plancha",
+     "it": "asse da stiro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 10,
+      "es": 16,
+      "it": 11
+     }
+    },
+    {
+     "en": "load (v)",
+     "fr": "charger",
+     "de": "füllen",
+     "es": "cargar",
+     "it": "caricare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "spin (v)",
+     "fr": "essorer",
+     "de": "schleudern",
+     "es": "centrifugar",
+     "it": "centrifugare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 10,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "iron (v)",
+     "fr": "repasser",
+     "de": "bügeln",
+     "es": "planchar",
+     "it": "stirare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "How do I operate the washing machíne?",
+     "fr": "Comment fonctionne le lave-linge?",
+     "de": "Wie benutze ich die Waschmaschine?",
+     "es": "Cóm o funciona la lavadora?",
+     "it": "Come funziona la lavatrice?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 30,
+      "fr": 28,
+      "de": 29,
+      "es": 22,
+      "it": 23
+     }
+    },
+    {
+     "en": "rinse (v)",
+     "fr": "rincer",
+     "de": "spulen",
+     "es": "aclarar",
+     "it": "sciacquare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "spin dryer",
+     "fr": "essoreuse",
+     "de": "Wäscheschleuder",
+     "es": "centrífuga",
+     "it": "centrifuga",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 15,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "fabric conditioner",
+     "fr": "produit assouplissant",
+     "de": "Weichspuler",
+     "es": "suavizante",
+     "it": "ammorbidente",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 20,
+      "de": 11,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "W hat is the setting for colors/whites?",
+     "fr": "Quel est le programme pour les couleurs/le blanc?",
+     "de": "Welches Programm nehme ich für farbige/weiße Wäsche?",
+     "es": "Cuál es el programa para la ropa de color/blanca?",
+     "it": "Oual è il programma per i tessuti colorati/bianchi?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 31,
+      "fr": 40,
+      "de": 45,
+      "es": 39,
+      "it": 42
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

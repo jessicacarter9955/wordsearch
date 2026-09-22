@@ -1,0 +1,250 @@
+{
+ "page": 171,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "WORK • l,E TRAVAIL • DIE ARBEIT • EL TRABAIO • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "farm I • la ferme 1 • der Bauernhof 1 • la granja 1 • la fattoria 1",
+   "parts": [
+    "far mi",
+    "la ferme",
+    "der bauernhof",
+    "la granja",
+    "la fattoria"
+   ],
+   "entries": [
+    {
+     "en": "farmland",
+     "fr": "les terres cultivées",
+     "de": "das Ackerland",
+     "es": "las tierras J e labranza",
+     "it": "il terreno aarieolo",
+     "_pos": [
+      264,
+      127
+     ],
+     "_flags": [
+      "es:short:J"
+     ]
+    },
+    {
+     "en": "farmyard",
+     "fr": "la cour de terme",
+     "de": "der Hof",
+     "es": "el corral",
+     "it": "l'aia",
+     "_pos": [
+      424,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "outbuilding",
+     "fr": "la dependence",
+     "de": "das Nebengebäude",
+     "es": "el cobertizo",
+     "it": "il capanno",
+     "_pos": [
+      570,
+      130
+     ],
+     "_flags": []
+    },
+    {
+     "en": "farmhouse",
+     "fr": "la maison d' habitation",
+     "de": "das Bauernhaus",
+     "es": "la casa de labranza",
+     "it": "il casolare",
+     "_pos": [
+      730,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "field",
+     "fr": "le champ",
+     "de": "das Feld",
+     "es": "el campo",
+     "it": "il campo",
+     "_pos": [
+      794,
+      282
+     ],
+     "_flags": []
+    },
+    {
+     "en": "farmer",
+     "fr": "le fermier",
+     "de": "der Bauer",
+     "es": "el granjero",
+     "it": "l'agricoltore",
+     "_pos": [
+      48,
+      390
+     ],
+     "_flags": []
+    },
+    {
+     "en": "barn",
+     "fr": "la grange",
+     "de": "die Scheune",
+     "es": "el granero",
+     "it": "il granaio",
+     "_pos": [
+      794,
+      414
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vegetable garden",
+     "fr": "le potager",
+     "de": "der Gemüsegarten",
+     "es": "el huerto",
+     "it": "Corto",
+     "_pos": [
+      46,
+      524
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "hedge",
+     "fr": "la haie",
+     "de": "die Hecke",
+     "es": "el seto",
+     "it": "la siepe",
+     "_pos": [
+      158,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fence",
+     "fr": "la clôture",
+     "de": "der Zaun",
+     "es": "la cerca",
+     "it": "il recinto",
+     "_pos": [
+      445,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pasture",
+     "fr": "le prc",
+     "de": "die Weide",
+     "es": "el pasto",
+     "it": "il pascolo",
+     "_pos": [
+      585,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "livestock",
+     "fr": "les bestiaux",
+     "de": "das Vieh",
+     "es": "el ganado",
+     "it": "il bestiame",
+     "_pos": [
+      686,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "de": "das Tor",
+     "es": "la puerta",
+     "it": "il cancello",
+     "_pos": [
+      318,
+      727
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "cultivator",
+     "fr": "le cultivateur",
+     "de": "der Kultivator",
+     "es": "el cultivador",
+     "it": "l'aratro",
+     "_pos": [
+      506,
+      812
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tractor",
+     "fr": "le tracteur",
+     "de": "der Traktor",
+     "es": "et tractor",
+     "it": "il trattore",
+     "_pos": [
+      42,
+      1059
+     ],
+     "_flags": []
+    },
+    {
+     "en": "combine",
+     "fr": "la moissonneuse-batteuse",
+     "de": "der Mähdrescher",
+     "es": "la cosechadora",
+     "it": "la mietitrebbia",
+     "_pos": [
+      539,
+      1064
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "f",
+   "pos": [
+    722,
+    203
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "arrière",
+   "pos": [
+    344,
+    711
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 6,
+  "flagged": 10,
+  "missing_lang": 1,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

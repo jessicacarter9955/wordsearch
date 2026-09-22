@@ -1,0 +1,400 @@
+{
+ "page": 266,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "macro_slug": "ambiente",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "esplorazione-dello-spazio",
+   "names": {
+    "en": "space exploration",
+    "fr": "l'exploration spatiale",
+    "de": "die raumforschung",
+    "es": "la exploración espacial",
+    "it": "l'esplorazione dello spazio"
+   },
+   "entries": [
+    {
+     "en": "thruster",
+     "fr": "fasce d'orientation",
+     "de": "Steuerrakete",
+     "es": "propulsor",
+     "it": "reattore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "de": 12,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "space suit",
+     "fr": "scaphandre spatial",
+     "de": "Raumanzug",
+     "es": "traje espacial",
+     "it": "tuta spaziale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 9,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "space shuttle",
+     "fr": "navette spatiale",
+     "de": "Raumfähre",
+     "es": "transbordador espacial",
+     "it": "shuttle",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 9,
+      "es": 21,
+      "it": 7
+     }
+    },
+    {
+     "en": "crew hatch",
+     "fr": "sas d'équipage",
+     "de": "Besatzungs luke",
+     "es": "escotilla",
+     "it": "sportello dell'equipaggio",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 14,
+      "es": 9,
+      "it": 23
+     }
+    },
+    {
+     "en": "booster",
+     "fr": "accélérateur",
+     "de": "Booster",
+     "es": "lanzacohetes",
+     "it": "lanciarazzi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 7,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "lunar module",
+     "fr": "module lunaire",
+     "de": "Mondfähre",
+     "es": "módulo lunar",
+     "it": "modulo lunare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 9,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "astronaut",
+     "fr": "astronaute",
+     "de": "Astronaut",
+     "es": "astronauta",
+     "it": "astronauta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "launch pad",
+     "fr": "rampe de lancement",
+     "de": "Abschussrampe 1",
+     "es": "rampa de lanzamiento",
+     "it": "rampa dì lancio",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 14,
+      "es": 18,
+      "it": 13
+     }
+    },
+    {
+     "en": "V l",
+     "fr": "<r",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 2,
+      "fr": 1
+     }
+    },
+    {
+     "en": "satellite",
+     "fr": "satellite",
+     "de": "Satellit",
+     "es": "satélite",
+     "it": "satellite",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "space station",
+     "fr": "station spatiale",
+     "de": "Raumstation",
+     "es": "estación espacial",
+     "it": "stazione spaziale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 11,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "launch",
+     "fr": "lancement",
+     "de": "Abschuss",
+     "es": "lanzamiento",
+     "it": "lando",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 11,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": "astronomia",
+   "names": {
+    "en": "astronomy",
+    "fr": "l'astronomie",
+    "de": "die astronomie",
+    "es": "la astronomía",
+    "it": "l'astronomia"
+   },
+   "entries": [
+    {
+     "en": "telescope",
+     "fr": "télescope",
+     "de": "Teleskop",
+     "es": "telescopio",
+     "it": "telescopio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "tripod",
+     "fr": "trépied",
+     "de": "Stativ",
+     "es": "trípode",
+     "it": "treppiede",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "constellation",
+     "fr": "constellation",
+     "de": "Sternbild",
+     "es": "constelación",
+     "it": "costellazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 9,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "binoculars",
+     "fr": "jumelles",
+     "de": "Fernglas",
+     "es": "prism áticos",
+     "it": "binocolo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 8,
+      "es": 11,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

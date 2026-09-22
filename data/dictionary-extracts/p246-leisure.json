@@ -1,0 +1,497 @@
+{
+ "page": 246,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "turismo",
+   "names": {
+    "en": "sightseeing",
+    "fr": "le tourisme",
+    "de": "die besichtigungstour",
+    "es": "el turismo",
+    "it": "il turismo"
+   },
+   "entries": [
+    {
+     "en": "itinerary",
+     "fr": "itinéraire",
+     "de": "Route",
+     "es": "itinerario",
+     "it": "itinerario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 5,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "open top",
+     "fr": "à impériale",
+     "de": "mit offenem Oberdeck",
+     "es": "descubierto",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 18,
+      "es": 11
+     }
+    },
+    {
+     "en": "tour bus",
+     "fr": "bus touristique",
+     "de": "Stadtrundfahrtbus",
+     "es": "autobús turístico",
+     "it": "pullman turístico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 17,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "tour guide",
+     "fr": "guide",
+     "de": "Fremdenführerin",
+     "es": "guía turística",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 15,
+      "es": 13
+     }
+    },
+    {
+     "en": "figurine",
+     "fr": "statuette",
+     "de": "Figur",
+     "es": "estatuilla",
+     "it": "statuina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 5,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "guided tour",
+     "fr": "tour guidé",
+     "de": "Führung",
+     "es": "visita guiada",
+     "it": "visita guidata",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 7,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "souvenirs",
+     "fr": "souvenirs",
+     "de": "Andenken",
+     "es": "recuerdos",
+     "it": "ricordi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "tounst attraction",
+     "fr": "attraction touristique",
+     "de": "Touristenattraktion",
+     "es": "atracción turística",
+     "it": "luogo d'interesse turistico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 21,
+      "de": 19,
+      "es": 18,
+      "it": 24
+     }
+    },
+    {
+     "en": "open",
+     "fr": "ouvert",
+     "de": "geöffnet",
+     "es": "abierto",
+     "it": "aperto",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "guidebook",
+     "fr": "guide",
+     "de": "Reiseführer",
+     "es": "gufa del viajero",
+     "it": "guida",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 11,
+      "es": 14,
+      "it": 5
+     }
+    },
+    {
+     "en": "camcorder",
+     "fr": "caméscope",
+     "de": "Camcorder",
+     "es": "cámara de video",
+     "it": "videocamera",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "left",
+     "fr": "à gauche",
+     "de": "links",
+     "es": "izquierda",
+     "it": "a sinistra",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "W here is ...?",
+     "fr": "O ù e s t...?",
+     "de": "Wo ist... ?",
+     "es": "Dónde e stá ...? Estoy perdido",
+     "it": "Dovè...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 5,
+      "es": 21,
+      "it": 4
+     }
+    },
+    {
+     "en": "closed",
+     "fr": "fermé",
+     "de": "geschlossen",
+     "es": "cerrado",
+     "it": "chiuso",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 11,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "film",
+     "fr": "pellicule",
+     "de": "Elm",
+     "es": "película",
+     "it": "pellicola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 3,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "Can you tell me the way to ....?",
+     "fr": "Pour aller à ..., s'il vous plaît?",
+     "de": "Können Sie mir sagen, wie ich nach",
+     "es": "komme?",
+     "it": "Podría decirm e cóm o se va a ...? Mi può dire come si arriva a...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 22,
+      "de": 27,
+      "es": 5,
+      "it": 44
+     }
+    },
+    {
+     "en": "camera",
+     "fr": "appareil photo",
+     "de": "Kamera",
+     "es": "cámara fotográfica",
+     "it": "macchina fotografica",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 6,
+      "es": 17,
+      "it": 19
+     }
+    },
+    {
+     "en": "right",
+     "fr": "à droite",
+     "de": "rechts",
+     "es": "derecha",
+     "it": "a destra",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "admission charge",
+     "fr": "prix d' entrée",
+     "de": "Eintrittsgeld",
+     "es": "precio de entrada",
+     "it": "tariffa d'ingresso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 11,
+      "de": 13,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "batteries",
+     "fr": "piles",
+     "de": "Batterien",
+     "es": "pilas",
+     "it": "batterie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "directions",
+     "fr": "directions",
+     "de": "Richtungsangaben",
+     "es": "indicaciones",
+     "it": "indicazioni",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 16,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "straight ahead",
+     "fr": "tout droit",
+     "de": "geradeaus",
+     "es": "recto",
+     "it": "dritto",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

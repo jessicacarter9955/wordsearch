@@ -1,0 +1,521 @@
+{
+ "page": 110,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "carne",
+   "names": {
+    "en": "meat",
+    "fr": "la viande",
+    "de": "das fleisch",
+    "es": "la carne",
+    "it": "la carne"
+   },
+   "entries": [
+    {
+     "en": "butcher",
+     "fr": "boucher",
+     "de": "Metzger",
+     "es": "carnicero",
+     "it": "macellaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "meat hook",
+     "fr": "allonge",
+     "de": "Fleischerhaken",
+     "es": "gancho",
+     "it": "gancio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 14,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "lamb",
+     "fr": "agneau",
+     "de": "Lamm",
+     "es": "cordero",
+     "it": "agnello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "scales",
+     "fr": "balance",
+     "de": "Waage",
+     "es": "báscula",
+     "it": "bilancia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "knife sharpener",
+     "fr": "fusil",
+     "de": "Messerschärfer",
+     "es": "afilador",
+     "it": "raffilacoltelli",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 5,
+      "de": 14,
+      "es": 8,
+      "it": 15
+     }
+    },
+    {
+     "en": "liver",
+     "fr": "foie",
+     "de": "Leber",
+     "es": "hígado",
+     "it": "fegato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "bacon",
+     "fr": "bacon",
+     "de": "Speck",
+     "es": "tocino",
+     "it": "pancetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "sausages",
+     "fr": "saucisses",
+     "de": "Würstchen",
+     "es": "salchichas",
+     "it": "salsicce",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "venison",
+     "fr": "venaison",
+     "de": "Wild",
+     "es": "venado",
+     "it": "cervo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "offal",
+     "fr": "abats",
+     "de": "Innereien",
+     "es": "asaduras",
+     "it": "frattaglie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "red meat",
+     "fr": "viande rouge",
+     "de": "rote Fleisch",
+     "es": "carne roja",
+     "it": "carne rossa",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 11,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "pork",
+     "fr": "porc",
+     "de": "Schweinefleisch",
+     "es": "cerdo",
+     "it": "maiale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 15,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "free range",
+     "fr": "de ferme",
+     "de": "aus Freilandhaltung",
+     "es": "de granja",
+     "it": "ruspante",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 18,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "lean meat",
+     "fr": "viande maigre",
+     "de": "magere Fleisch",
+     "es": "laca me magra",
+     "it": "carne magra",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 13,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "cured",
+     "fr": "salé",
+     "de": "gepökelt",
+     "es": "curado",
+     "it": "trattato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "organic",
+     "fr": "naturel",
+     "de": "biologisch kontrolliert",
+     "es": "orgánico",
+     "it": "biologico",
+     "_multi": [
+      "de"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 22,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "rabbit",
+     "fr": "lapin",
+     "de": "Kaninchen",
+     "es": "conejo",
+     "it": "coniglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "beef",
+     "fr": "bœuf",
+     "de": "Rindfleisch",
+     "es": "vaca",
+     "it": "l manzo",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 11,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "cooked meat",
+     "fr": "viande cuite",
+     "de": "gekochte Fleisch",
+     "es": "fiambre",
+     "it": "carne cotta",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 15,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "tongue",
+     "fr": "Ja langue de bœuf",
+     "de": "Zunge",
+     "es": "lengua",
+     "it": "lingua",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 15,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "smoked",
+     "fr": "fumé",
+     "de": "geräuchert",
+     "es": "ahumado",
+     "it": "affumicato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "white meat",
+     "fr": "viande blanche",
+     "de": "weiße Fleisch",
+     "es": "carne blanca",
+     "it": "carne bianca",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 13,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "veal",
+     "fr": "veau",
+     "de": "Kalbfleisch",
+     "es": "temerà",
+     "it": "vitello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 11,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

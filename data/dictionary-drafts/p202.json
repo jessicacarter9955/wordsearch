@@ -1,0 +1,380 @@
+{
+ "page": 202,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "ship • le navire • das Schiff • el barco • la nave",
+   "parts": [
+    "ship",
+    "le navire",
+    "das schiff",
+    "el barco",
+    "la nave"
+   ],
+   "entries": [
+    {
+     "en": "radar",
+     "fr": "le radar",
+     "de": "der Radar",
+     "es": "el radar",
+     "it": "il radar",
+     "_pos": [
+      176,
+      109
+     ],
+     "_flags": []
+    },
+    {
+     "en": "funnel",
+     "fr": "la cheminée",
+     "de": "der Schornstein",
+     "es": "la chimenea",
+     "_pos": [
+      664,
+      109
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "quarterdeck",
+     "fr": "le pont arrière",
+     "de": "das Achterdeck",
+     "es": "el .de«izar",
+     "it": "il casseremo",
+     "_pos": [
+      772,
+      109
+     ],
+     "_flags": [
+      "es:weird:.de«izar"
+     ]
+    },
+    {
+     "en": "radio antenna",
+     "fr": "l'antenne radio",
+     "de": "die Funkantenne",
+     "es": "la antena de radio",
+     "it": "l'antenna della radin",
+     "_pos": [
+      346,
+      110
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deck",
+     "fr": "le pont",
+     "de": "das Deck",
+     "es": "la cubierta",
+     "it": "il ponte",
+     "_pos": [
+      502,
+      110
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prow",
+     "fr": "la proue",
+     "de": "der Bug",
+     "es": "la proa",
+     "it": "la prua",
+     "_pos": [
+      47,
+      184
+     ],
+     "_flags": []
+    },
+    {
+     "en": "propeller",
+     "fr": "l'hélice",
+     "de": "die Schiffsschraube",
+     "es": "la hélice",
+     "it": "l'elica",
+     "_pos": [
+      762,
+      439
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Plimsoll mar kI",
+     "fr": "la marque de flottaison",
+     "de": "die Hochstlademarke",
+     "es": "la línea de flotación",
+     "it": "la marca di bordo libero",
+     "_pos": [
+      84,
+      439
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "porthole",
+     "fr": "le bublot",
+     "de": "das Bullauge",
+     "es": "el ojo de buey",
+     "it": "l'oblò",
+     "_pos": [
+      276,
+      439
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hull",
+     "fr": "la coque",
+     "de": "der Rumpf",
+     "es": "el casco",
+     "it": "lo scafo",
+     "_pos": [
+      406,
+      439
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lifeboat i",
+     "fr": "le canot de sauvetage",
+     "de": "das Rettungsboot",
+     "es": "el bote salvavidas",
+     "it": "la lancia di salvataggio",
+     "_pos": [
+      506,
+      439
+     ],
+     "_flags": []
+    },
+    {
+     "en": "keel i",
+     "fr": "la quille",
+     "de": "der Kiel",
+     "es": "la quilla",
+     "it": "la chiglia",
+     "_pos": [
+      675,
+      439
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ocean liner",
+     "fr": "le paquebot",
+     "de": "der Ozeandampfer",
+     "es": "el transatlántico",
+     "it": "la nave da crociera",
+     "_pos": [
+      44,
+      538
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dock",
+     "fr": "le dock",
+     "de": "das Dock",
+     "es": "el muelle",
+     "it": "il bacino",
+     "_pos": [
+      485,
+      587
+     ],
+     "_flags": []
+    },
+    {
+     "en": "windlass",
+     "fr": "le guindeau",
+     "de": "die Ankerwinde",
+     "es": "el cabrestante",
+     "it": "il mulinello",
+     "_pos": [
+      696,
+      587
+     ],
+     "_flags": []
+    },
+    {
+     "en": "captain",
+     "fr": "le capitaine",
+     "de": "der Kapitän",
+     "es": "c-1 capitán",
+     "it": "il capitano",
+     "_pos": [
+      697,
+      686
+     ],
+     "_flags": [
+      "es:num:c-1"
+     ]
+    },
+    {
+     "en": "porr",
+     "fr": "le port",
+     "de": "der Hafen",
+     "es": "el puerto",
+     "it": "I porto",
+     "_pos": [
+      486,
+      686
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "bridge",
+     "fr": "la passerelle de commandement",
+     "de": "die Kommandobrücke",
+     "es": "el puente",
+     "it": "il ponte di comando",
+     "_pos": [
+      44,
+      769
+     ],
+     "_flags": []
+    },
+    {
+     "en": "engine room",
+     "fr": "la salle des moteurs",
+     "de": "der Maschinenraum",
+     "es": "la sala de m áquinas",
+     "it": "la sala macchine",
+     "_pos": [
+      258,
+      769
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "speedboat",
+     "fr": "le runabout",
+     "de": "das Rennboot",
+     "es": "la lancha de motor",
+     "it": "il motoscafo",
+     "_pos": [
+      697,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gangway",
+     "fr": "la passerelle",
+     "de": "die Landungsbrücke",
+     "es": "la pasarela",
+     "it": "la passerella",
+     "_pos": [
+      486,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "anchor",
+     "fr": "l'ancre",
+     "de": "der Anker",
+     "es": "el ancla",
+     "it": "l'ancora",
+     "_pos": [
+      486,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rowboat",
+     "fr": "la barque",
+     "de": "das Ruderboot",
+     "es": "la barca de remos",
+     "it": "labo rea a remi",
+     "_pos": [
+      698,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bollard",
+     "fr": "le bollard",
+     "de": "der Poller",
+     "es": "el noray",
+     "it": "la colonna d'ormeggio",
+     "_pos": [
+      486,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "canoe",
+     "fr": "le canoë",
+     "de": "das Kanu",
+     "es": "la piragua",
+     "it": "la canoa",
+     "_pos": [
+      698,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cabin",
+     "fr": "la cabine",
+     "de": "die Kabine",
+     "es": "el camarote",
+     "it": "la cabina",
+     "_pos": [
+      46,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "galley",
+     "fr": "la cuisine",
+     "de": "die Kombüse",
+     "es": "la cocina",
+     "it": "la cucina di bordo",
+     "_pos": [
+      258,
+      1032
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 14,
+  "flagged": 13,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

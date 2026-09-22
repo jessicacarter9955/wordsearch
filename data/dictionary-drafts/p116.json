@@ -1,0 +1,437 @@
+{
+ "page": 116,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • I A N OUR RITI IRK • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "vegetables 2 • les légumes 2 • das Gemüse 2 • las verduras 2 • le verdure 2",
+   "parts": [
+    "vegetables",
+    "les légumes",
+    "das gemüse",
+    "las verduras",
+    "le verdure"
+   ],
+   "entries": [
+    {
+     "en": "radish",
+     "fr": "le radis",
+     "de": "das Radieschen",
+     "es": "el rábano",
+     "it": "il ravanello",
+     "_pos": [
+      776,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "artichoke",
+     "fr": "l'artichaut",
+     "de": "die Artischocke",
+     "es": "la alcachofa",
+     "it": "il carciofo",
+     "_pos": [
+      196,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cauliflower",
+     "fr": "le chou-fleur",
+     "de": "der Blumenkohl",
+     "es": "la coliflor",
+     "it": "il cavolfiore",
+     "_pos": [
+      56,
+      216
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le navet",
+     "de": "die Rübe",
+     "es": "el nabo",
+     "it": "la rapa",
+     "_pos": [
+      775,
+      314
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "potato",
+     "fr": "la pomme",
+     "de": "de terre die Kartoffel",
+     "es": "la papa",
+     "it": "la patata",
+     "_pos": [
+      56,
+      347
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "potato",
+       "fr": "la pomme de terre",
+       "de": "die Kartoffel",
+       "es": "la papa",
+       "it": "la patata"
+      }
+     ]
+    },
+    {
+     "en": "onion",
+     "fr": "l'oignon",
+     "de": "die Zwiebel",
+     "es": "la cebolla",
+     "it": "la cipolla",
+     "_pos": [
+      57,
+      561
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pepper",
+     "fr": "le poivron",
+     "de": "die Paprika",
+     "es": "el pimiento",
+     "it": "il peperone",
+     "_pos": [
+      227,
+      576
+     ],
+     "_flags": []
+    },
+    {
+     "en": "squash",
+     "fr": "la courge",
+     "de": "der Gartenkürbis",
+     "es": "la calabacita gigante",
+     "it": "la zucca",
+     "_pos": [
+      760,
+      577
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chili",
+     "fr": "le piment",
+     "de": "die Peperoni",
+     "es": "la chilaca",
+     "it": "il peperoncino",
+     "_pos": [
+      520,
+      626
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cherry tomato",
+     "fr": "la tomate censé",
+     "de": "die Kifschtomale",
+     "es": "el jitom ate cherry",
+     "it": "il pomodorino",
+     "_pos": [
+      74,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frozen",
+     "fr": "surgelé",
+     "de": "tiefgefroren",
+     "es": "congelado",
+     "it": "congelato",
+     "_pos": [
+      440,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bitter",
+     "fr": "amer",
+     "de": "bitter",
+     "es": "amargo",
+     "it": "amaro",
+     "_pos": [
+      544,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "May 1 have one kilo of potatoes please?",
+     "fr": "Puis-je avo ir un kilo de pommes de",
+     "de": "terre s'il vous plait?",
+     "es": "Konnte ich bitte ein Kilo Kartoffeln",
+     "it": "haben? M e da un kilo de papas, por favor? Mi dà un chilo di patate per favore?",
+     "_pos": [
+      637,
+      692
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "en:num:1",
+      "en:weird:please?",
+      "en:case",
+      "fr:case",
+      "de:weird:plait?",
+      "es:case",
+      "it:weird:haben?",
+      "it:short:M",
+      "it:weird:papas,",
+      "it:weird:favor?",
+      "it:weird:favore?"
+     ],
+     "_alts": [
+      {
+       "en": "May 1 have one kilo of potatoes please?",
+       "fr": "Puis-je avo ir un kilo de pommes de",
+       "de": "terre s'il vous plait?",
+       "es": "Konnte ich bitte ein Kilo Kartoffeln haben?",
+       "it": "¿M e da un kilo de papas, por favor? Mi dà un chilo di patate per favore?"
+      },
+      {
+       "en": "May 1 have one kilo of potatoes please?",
+       "fr": "Puis-je avo ir un kilo de pommes de",
+       "de": "terre s'il vous plait?",
+       "es": "Konnte ich bitte ein Kilo Kartoffeln haben? ¿M e da un kilo de papas, por favor?",
+       "it": "Mi dà un chilo di patate per favore?"
+      }
+     ]
+    },
+    {
+     "en": "celehac",
+     "fr": "le célen",
+     "de": "der Sellerie",
+     "es": "el apio-nabo",
+     "it": "il sedano rapa",
+     "_pos": [
+      288,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "firm",
+     "fr": "ferme",
+     "de": "fest",
+     "es": "firme",
+     "it": "sodo",
+     "_pos": [
+      544,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "raw",
+     "fr": "cru",
+     "de": "roh",
+     "es": "crudo",
+     "it": "crudo",
+     "_pos": [
+      441,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carrot",
+     "fr": "la car<»ne",
+     "de": "die Karotte",
+     "es": "la zanahoria",
+     "it": "la carota",
+     "_pos": [
+      75,
+      791
+     ],
+     "_flags": [
+      "fr:weird:car<»ne"
+     ]
+    },
+    {
+     "en": "taro root",
+     "fr": "le taro",
+     "de": "die Tarowurzel",
+     "es": "la raíz delta ro",
+     "it": "la radice di taro",
+     "_pos": [
+      288,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "What's the price per kilo?",
+     "fr": "'est combien le kilo?",
+     "de": "Was kostet ein Kilo?",
+     "es": "Cuánto vale el kilo?",
+     "it": "Quanto costa al chilo?",
+     "_pos": [
+      637,
+      823
+     ],
+     "_flags": [
+      "en:weird:kilo?",
+      "en:case",
+      "fr:weird:kilo?",
+      "de:weird:Kilo?",
+      "es:weird:kilo?",
+      "es:case",
+      "it:weird:chilo?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "breadfruit",
+     "fr": "le fruit de l'arbre à pain",
+     "de": "die Brotfrucht",
+     "es": "el fruto del pan",
+     "it": "l frutto dell'albero del pane",
+     "_pos": [
+      76,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water chestnut",
+     "fr": "la châtaigne d'eau",
+     "de": "die Wasserkastanie",
+     "es": "la castaña de agua",
+     "it": "la castagna d'acqua",
+     "_pos": [
+      288,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hot spicy",
+     "fr": "cpicé",
+     "de": "scharf",
+     "es": "picante",
+     "it": "piccante",
+     "_pos": [
+      442,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pulp",
+     "fr": "la pulpe",
+     "de": "das Fleisch",
+     "es": "la pulpa",
+     "it": "la polpa",
+     "_pos": [
+      545,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W h.it are those called?",
+     "fr": "Ils s'appellent comment?",
+     "de": "Wie heißen diese?",
+     "es": "Cóm o sc llam an''",
+     "it": "Quelli come si chiamano?",
+     "_pos": [
+      638,
+      922
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:h.it",
+      "en:weird:called?",
+      "en:case",
+      "fr:weird:comment?",
+      "fr:case",
+      "de:weird:diese?",
+      "es:case",
+      "it:weird:chiamano?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "new potato",
+     "fr": "la pomme de terre nouvelle",
+     "de": "die neue Kartoffel",
+     "es": "la papa nueva",
+     "it": "la patata novella",
+     "_pos": [
+      76,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cassava",
+     "fr": "le manioc",
+     "de": "der Maniok",
+     "es": "la mandioca",
+     "it": "la cassava",
+     "_pos": [
+      288,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweet",
+     "fr": "sucré",
+     "de": "süß",
+     "es": "dulce",
+     "it": "dolce",
+     "_pos": [
+      442,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "root",
+     "fr": "la racine",
+     "de": "die Wurzel",
+     "es": "la raíz",
+     "it": "la radice",
+     "_pos": [
+      546,
+      987
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 18,
+  "flagged": 10,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

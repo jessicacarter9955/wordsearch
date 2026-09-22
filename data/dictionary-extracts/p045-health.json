@@ -1,0 +1,504 @@
+{
+ "page": 45,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "reparti",
+   "names": {
+    "en": "departments",
+    "fr": "les services",
+    "de": "die Abteilungen",
+    "es": "los servicios",
+    "it": "i reparti"
+   },
+   "entries": [
+    {
+     "en": "orthopedics",
+     "fr": "orthopédie",
+     "de": "Orthopädie",
+     "es": "ortopedia",
+     "it": "ortopedia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "gynecology",
+     "fr": "gynécologie",
+     "de": "Gynäkologie",
+     "es": "ginecología",
+     "it": "ginecologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "cardiology",
+     "fr": "cardiologie",
+     "de": "Kardiologie",
+     "es": "cardiología",
+     "it": "cardiologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "Ear, Nose, and Throat",
+     "fr": "O.R.L.",
+     "de": "HNO-Abteilung",
+     "es": "o torri non a ri neologia",
+     "it": "otorinolaringologia",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 3,
+      "de": 12,
+      "es": 20,
+      "it": 19
+     }
+    },
+    {
+     "en": "pediatrics",
+     "fr": "pédiatrie",
+     "de": "Pädiatrie",
+     "es": "pediatría",
+     "it": "pediatria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "radiology",
+     "fr": "radiologie",
+     "de": "Radiologie",
+     "es": "radiología",
+     "it": "radiologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "dermatology",
+     "fr": "dermatologie",
+     "de": "Dermatologie",
+     "es": "dermatología",
+     "it": "dermatologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "physiotherapy",
+     "fr": "kinésithérapie",
+     "de": "Physiotherapie",
+     "es": "fisioterapia",
+     "it": "fisioterapia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 14,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "ophthalmology",
+     "fr": "ophthalmologie",
+     "de": "Ophthalmologie",
+     "es": "oftalmología",
+     "it": "oftalmologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 14,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "psychiatry",
+     "fr": "psychiatrie",
+     "de": "Psychiatrie",
+     "es": "psiquiatría",
+     "it": "psichiatria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "surgery",
+     "fr": "chirurgie",
+     "de": "Chirurgie",
+     "es": "cirugía",
+     "it": "chirurgia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "maternity",
+     "fr": "maternité",
+     "de": "Entbindungsstation",
+     "es": "maternidad",
+     "it": "maternità",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 18,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "pathology",
+     "fr": "pathologie",
+     "de": "Pathologie",
+     "es": "patología",
+     "it": "patologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "result",
+     "fr": "résultat",
+     "de": "Ergebnis",
+     "es": "resultado",
+     "it": "risultato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "plastic surgery",
+     "fr": "chirurgie esthétique",
+     "de": "plastische Chirurgie",
+     "es": "cirugía plástica",
+     "it": "chirurgia plastica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 19,
+      "de": 19,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "neurology",
+     "fr": "neurologie",
+     "de": "Neurologie",
+     "es": "neurología",
+     "it": "neurologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "urology",
+     "fr": "urologie",
+     "de": "Urologie",
+     "es": "urología",
+     "it": "urologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "consultant",
+     "fr": "spécialiste",
+     "de": "Facharzt",
+     "es": "especialista",
+     "it": "specialista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 8,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "test",
+     "fr": "analyse",
+     "de": "Untersuchung",
+     "es": "análisis",
+     "it": "analisi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 12,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "referral",
+     "fr": "orientation d'un parient",
+     "de": "Überweisung",
+     "es": "referencia",
+     "it": "mandare da uno specialista",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 21,
+      "de": 11,
+      "es": 10,
+      "it": 23
+     }
+    },
+    {
+     "en": "endocrinology",
+     "fr": "endocrinologie",
+     "de": "Endokrinologie",
+     "es": "endocrinología",
+     "it": "endocrinologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 14,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "oncology",
+     "fr": "oncologie",
+     "de": "Onkologie",
+     "es": "oncología",
+     "it": "oncologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Titolo 'departments' spezzato su G0/G1/G2 + voci-titolo eliminate; de 'Ontologie'→'Onkologie' (OCR)."
+}

@@ -1,0 +1,547 @@
+{
+ "page": 230,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "events",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "fence",
+     "fr": "obstacle",
+     "de": "Hindernis",
+     "es": "valla",
+     "it": "ostacolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "racehorse",
+     "fr": "cheval de course",
+     "de": "Rennpferd",
+     "es": "caballo de carreras",
+     "it": "cavallo da corsa",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 9,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "harness race",
+     "fr": "course de trot",
+     "de": "Trabrennen",
+     "es": "carrera al trote",
+     "it": "corsa di calessi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "steeplechase",
+     "fr": "steeple",
+     "de": "Jagdrennen",
+     "es": "carrera de obstáculos",
+     "it": "corsa a ostacoli",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 10,
+      "es": 19,
+      "it": 14
+     }
+    },
+    {
+     "en": "norse race",
+     "fr": "course de chevaux",
+     "de": "Pferderennen",
+     "es": "carrera de caballos",
+     "it": "corsa di cavalli",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 12,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "carnage race",
+     "fr": "course attelée",
+     "de": "Zweispännerrennen",
+     "es": "carrera de carrozas",
+     "it": "corsa di carrozze",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 17,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "show jumping",
+     "fr": "jumping",
+     "de": "Springreiten",
+     "es": "concurso de saltos",
+     "it": "concorso di salto a ostacoli",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 12,
+      "es": 16,
+      "it": 24
+     }
+    },
+    {
+     "en": "rodeo",
+     "fr": "rodéo",
+     "de": "Rodeo",
+     "es": "rodeo",
+     "it": "rodeo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "dressage",
+     "fr": "dressage",
+     "de": "Dressurreiten",
+     "es": "dom a y monta",
+     "it": "dressage",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 13,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "trekking",
+     "fr": "randonnée",
+     "de": "Trekking",
+     "es": "paseo",
+     "it": "escursione a cavallo",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 5,
+      "it": 18
+     }
+    },
+    {
+     "en": "flat race",
+     "fr": "course de plat",
+     "de": "Flachrennen",
+     "es": "carrera sin obstáculos",
+     "it": "corsa in piano",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 11,
+      "es": 20,
+      "it": 12
+     }
+    },
+    {
+     "en": "paddock",
+     "fr": "endos",
+     "de": "Koppel",
+     "es": "cercado",
+     "it": "recinto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "halter",
+     "fr": "licou",
+     "de": "Halfter",
+     "es": "cabestro",
+     "it": "cavezza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "jump",
+     "fr": "saut",
+     "de": "Sprung",
+     "es": "e.l salto",
+     "it": "salto",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "canter",
+     "fr": "petit galop",
+     "de": "Kanter",
+     "es": "medio galope",
+     "it": "piccolo galoppo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 6,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "walk",
+     "fr": "pas",
+     "de": "Schritt",
+     "es": "paso",
+     "it": "passo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 7,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "racecourse",
+     "fr": "champs de courses",
+     "de": "Rennbahn",
+     "es": "hipódromo",
+     "it": "ippodromo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "arena",
+     "fr": "arène",
+     "de": "Turnierplatz",
+     "es": "ruedo",
+     "it": "arena",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "stable",
+     "fr": "écurie",
+     "de": "Pferdestall",
+     "es": "cuadra",
+     "it": "stalla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "groom",
+     "fr": "valet d'écurie",
+     "de": "Stallbursche",
+     "es": "mozo de cuadra",
+     "it": "palafreniere",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 12,
+      "de": 12,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "gallop",
+     "fr": "galop",
+     "de": "Galopp",
+     "es": "galope",
+     "it": "galoppo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "trot",
+     "fr": "trot",
+     "de": "Trab",
+     "es": "trote",
+     "it": "trotto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

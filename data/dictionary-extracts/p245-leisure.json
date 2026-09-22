@@ -1,0 +1,390 @@
+{
+ "page": 245,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "stili-musicali",
+   "names": {
+    "en": "musical styles",
+    "fr": "les styles de musique",
+    "de": "die musikstile",
+    "es": "los estilos musicales",
+    "it": "gli stili musicali"
+   },
+   "entries": [
+    {
+     "en": "punk",
+     "fr": "m usique punk",
+     "de": "Punkmusik",
+     "es": "punk",
+     "it": "punk",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 11,
+      "de": 9,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "blues",
+     "fr": "blues",
+     "de": "Blues",
+     "es": "blues",
+     "it": "blues",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "jazz",
+     "fr": "jazz",
+     "de": "Jazz",
+     "es": "ja zz",
+     "it": "jazz",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "dance",
+     "fr": "dance",
+     "de": "Tanzmusik",
+     "es": "música de baile",
+     "it": "musica da ballo",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 9,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "pop",
+     "fr": "pop",
+     "de": "Pop",
+     "es": "pop",
+     "it": "pop",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "folk music",
+     "fr": "m usique fo lk",
+     "de": "Folk",
+     "es": "música folklórica",
+     "it": "musica folk",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 4,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "classical music",
+     "fr": "musique classique",
+     "de": "klassische Musik",
+     "es": "m ùsica clásica",
+     "it": "musica classica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 15,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "heavy melai",
+     "fr": "heavy m ita i",
+     "de": "Heavymetal",
+     "es": "heavy m etal",
+     "it": "heavy metal",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "rap",
+     "fr": "rap",
+     "de": "Rap",
+     "es": "rap",
+     "it": "rap",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "spotlight",
+     "fr": "projecteur",
+     "de": "Scheinwerfer",
+     "es": "reflector",
+     "it": "proiettore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 12,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "country",
+     "fr": "country",
+     "de": "Countrymusic",
+     "es": "m ùsica countryw",
+     "it": "country",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "en": "reggae",
+     "fr": "reggae",
+     "de": "Reggae",
+     "es": "reggae",
+     "it": "reggae",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "beat",
+     "fr": "bear",
+     "de": "derBeat",
+     "es": "ritmo",
+     "it": "ritmo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "melody",
+     "fr": "mélodie",
+     "de": "Melodie",
+     "es": "m elodia",
+     "it": "melodia",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "lyrics",
+     "fr": "paroles",
+     "de": "Text",
+     "es": "letra",
+     "it": "testo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "song",
+     "fr": "chanson",
+     "de": "Lied",
+     "es": "canción",
+     "it": "canzone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

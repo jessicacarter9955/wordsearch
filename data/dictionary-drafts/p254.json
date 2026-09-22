@@ -1,0 +1,232 @@
+{
+ "page": 254,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • l.E TEMPS L IB R E • DIE FREIZEIT • E l. O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "home entertainm ent • les distractions à la maison • die Privatunter haltung • el entretenimiento en el hogar • gli intrattenim enti in casa",
+   "parts": [
+    "home entertainment",
+    "les distractions à la maison",
+    "die privatunter haltung",
+    "el entretenimiento en el hogar",
+    "gli intrattenimenti in casa"
+   ],
+   "entries": [
+    {
+     "en": "D VD",
+     "fr": "le D V D",
+     "de": "die DVD-Piatte",
+     "es": "el disco de D V D",
+     "it": "il disco DVD",
+     "_pos": [
+      697,
+      150
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:V",
+      "fr:case",
+      "es:short:V"
+     ]
+    },
+    {
+     "en": "personal CD player",
+     "fr": "le baladeur C D",
+     "de": "der Discman",
+     "es": "el discm an",
+     "it": "il lettore di CD portatile",
+     "_pos": [
+      62,
+      307
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:C"
+     ]
+    },
+    {
+     "en": "mini disc recorder",
+     "fr": "l'enregistreur m inidisk",
+     "de": "der Minidiskrekorder",
+     "es": "la grabadora de m inidisks",
+     "it": "il lettore di mini disk",
+     "_pos": [
+      262,
+      308
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "MP3 player",
+     "fr": "le baladeur M P3",
+     "de": "der MP3-Spieler",
+     "es": "el lector de M P3",
+     "it": "il lettore di MP3",
+     "_pos": [
+      452,
+      311
+     ],
+     "_flags": [
+      "en:num:MP3",
+      "en:case",
+      "fr:short:M",
+      "fr:num:P3",
+      "de:num:MP3-Spieler",
+      "es:short:M",
+      "es:num:P3",
+      "it:num:MP3"
+     ]
+    },
+    {
+     "en": "D VD player",
+     "fr": "le lecteur D V D",
+     "de": "der DVD-Spieler",
+     "es": "el reproductor de D V D",
+     "it": "il lettore di DVD",
+     "_pos": [
+      633,
+      311
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:V",
+      "es:short:V"
+     ]
+    },
+    {
+     "en": "record player",
+     "fr": "le tourne-disque",
+     "de": "der Plattenspieler",
+     "es": "el tocadiscos",
+     "it": "il giradischi",
+     "_pos": [
+      592,
+      393
+     ],
+     "_flags": []
+    },
+    {
+     "en": "player",
+     "fr": "le lecteur C D",
+     "de": "der CD-Spieler",
+     "es": "el lector de discos com pactos",
+     "it": "il lettore di CD",
+     "_pos": [
+      62,
+      504
+     ],
+     "_flags": [
+      "fr:short:C"
+     ]
+    },
+    {
+     "en": "speaker",
+     "fr": "le baffle",
+     "de": "die Box",
+     "es": "la bocina",
+     "it": "l'altoparlante",
+     "_pos": [
+      793,
+      509
+     ],
+     "_flags": []
+    },
+    {
+     "en": "radio",
+     "fr": "la radio",
+     "de": "das Radio",
+     "es": "la radio",
+     "it": "la radio",
+     "_pos": [
+      60,
+      618
+     ],
+     "_flags": []
+    },
+    {
+     "en": "amplifier",
+     "fr": "l'amplificateur",
+     "de": "der Verstärker",
+     "es": "el amplificador",
+     "it": "l'amplificatore",
+     "_pos": [
+      60,
+      732
+     ],
+     "_flags": []
+    },
+    {
+     "en": "speaker stand",
+     "fr": "le supporr",
+     "de": "der Ständer",
+     "es": "el pie de la bocina",
+     "it": "il supporto per l'altoparlante",
+     "_pos": [
+      730,
+      837
+     ],
+     "_flags": [
+      "wrap"
+     ]
+    },
+    {
+     "en": "headphones",
+     "fr": "les écouteurs",
+     "de": "die Kopfhörer",
+     "es": "los audífonos",
+     "it": "le cuffie",
+     "_pos": [
+      59,
+      864
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stereo rack",
+     "fr": "l'étagère",
+     "de": "das Rack",
+     "es": "el mueble",
+     "it": "il supporto",
+     "_pos": [
+      58,
+      962
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stereo system",
+     "fr": "la chaîne hi-fi",
+     "de": "die Hi-Fi-Anlage",
+     "es": "el equipo de alta fidelidad",
+     "it": "l'impianto stereo",
+     "_pos": [
+      263,
+      1046
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 14,
+  "complete_clean": 5,
+  "flagged": 9,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

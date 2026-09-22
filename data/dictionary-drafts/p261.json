@@ -1,0 +1,353 @@
+{
+ "page": 261,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIBR E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": "other crafts • les autres arts • andere Kunstfertigkeiten • las otras maniialidades • altri lavori artigianali",
+   "parts": [
+    "other crafts",
+    "les autres arts",
+    "andere kunstfertigkeiten",
+    "las otras maniialidades",
+    "altri lavori artigianali"
+   ],
+   "entries": [
+    {
+     "en": "ink",
+     "fr": "l'encre",
+     "de": "die Druckfarbe",
+     "es": "la tinta",
+     "it": "l'inchiostro",
+     "_pos": [
+      324,
+      106
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sketch",
+     "fr": "le croquis",
+     "de": "die Skizze",
+     "es": "el boceto",
+     "it": "lo schizzo",
+     "_pos": [
+      224,
+      107
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sketchbook",
+     "fr": "le carnet à croquis",
+     "de": "der Skizzenblock",
+     "es": "el bloc de dibujo",
+     "it": "il blocco per schizzi",
+     "_pos": [
+      22,
+      108
+     ],
+     "_flags": []
+    },
+    {
+     "en": "charcoal",
+     "fr": "le fusain",
+     "de": "der Kohlestift",
+     "es": "el carboncillo",
+     "it": "il carboncino",
+     "_pos": [
+      348,
+      236
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pencil",
+     "fr": "le crayon",
+     "de": "der Bleistift",
+     "es": "el lápiz",
+     "it": "la matita",
+     "_pos": [
+      24,
+      240
+     ],
+     "_flags": []
+    },
+    {
+     "en": "engraving",
+     "fr": "la gravure",
+     "de": "das Gravieren",
+     "es": "el grabado",
+     "it": "l'incisione",
+     "_pos": [
+      664,
+      331
+     ],
+     "_flags": []
+    },
+    {
+     "en": "printing",
+     "fr": "l'imprimerie",
+     "de": "das Drucken",
+     "es": "la impresión",
+     "it": "la stampa",
+     "_pos": [
+      451,
+      333
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drawing",
+     "fr": "le dessin",
+     "de": "das Zeichnen",
+     "es": "el dibujo",
+     "it": "il disegno",
+     "_pos": [
+      25,
+      338
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chisel",
+     "fr": "le burin",
+     "de": "der Meißel",
+     "es": "el cincel",
+     "it": "lo scalpello",
+     "_pos": [
+      284,
+      369
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mallet",
+     "fr": "le maillet",
+     "de": "der Schlegel",
+     "es": "el mazo",
+     "it": "il martello",
+     "_pos": [
+      164,
+      369
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stone",
+     "fr": "la pierre",
+     "de": "der Stein",
+     "es": "la piedra",
+     "it": "la pietra",
+     "_pos": [
+      26,
+      372
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wood",
+     "fr": "le bois",
+     "de": "das Holz",
+     "es": "la madera",
+     "it": "il legno",
+     "_pos": [
+      383,
+      383
+     ],
+     "_flags": []
+    },
+    {
+     "en": "modeling tool",
+     "fr": "la spatule",
+     "de": "das Modellierholz",
+     "es": "la herramienta para modelar",
+     "it": "l'attrezzo per modellare",
+     "_pos": [
+      690,
+      401
+     ],
+     "_flags": []
+    },
+    {
+     "en": "potter's wheel",
+     "fr": "le tour de potier",
+     "de": "die Drehscheibe",
+     "es": "el tomo de alfarero",
+     "it": "il tornio dava saio",
+     "_pos": [
+      728,
+      512
+     ],
+     "_flags": []
+    },
+    {
+     "en": "woodworking",
+     "fr": "la sculpture sur bols",
+     "de": "die Holzarbeit",
+     "es": "la talla en madera",
+     "it": "la falegnameria",
+     "_pos": [
+      242,
+      598
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sculpting",
+     "fr": "la sculpture",
+     "de": "die Bildhauerei",
+     "es": "la escultura",
+     "it": "la scultura",
+     "_pos": [
+      29,
+      600
+     ],
+     "_flags": []
+    },
+    {
+     "en": "day",
+     "fr": "l'argile",
+     "de": "der Ton",
+     "es": "la arcilla",
+     "it": "l'argilla",
+     "_pos": [
+      800,
+      627
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cardboard",
+     "fr": "Ir can o n",
+     "de": "die Pappe",
+     "es": "la cartulina",
+     "it": "il cartone",
+     "_pos": [
+      368,
+      663
+     ],
+     "_flags": [
+      "fr:short:n",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "glue",
+     "fr": "la colle",
+     "de": "der Klebstoff",
+     "es": "el pegamento",
+     "it": "la colla",
+     "_pos": [
+      30,
+      667
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pottery",
+     "fr": "la poterie",
+     "de": "die Töpferei",
+     "es": "la cerámica",
+     "it": "lacer amica",
+     "_pos": [
+      458,
+      808
+     ],
+     "_flags": []
+    },
+    {
+     "en": "collage",
+     "fr": "le collage",
+     "de": "die Collage",
+     "es": "el collage",
+     "it": "il collage",
+     "_pos": [
+      33,
+      814
+     ],
+     "_flags": []
+    },
+    {
+     "en": "model-making",
+     "fr": "le m odélism e",
+     "de": "der Modellbau",
+     "es": "el m odelism o",
+     "it": "il modellismo",
+     "_pos": [
+      674,
+      1020
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "origami",
+     "fr": "l'origam i",
+     "de": "das Origami",
+     "es": "la papiroflexia",
+     "it": "lungarni",
+     "_pos": [
+      470,
+      1023
+     ],
+     "_flags": []
+    },
+    {
+     "en": "papier-màché",
+     "fr": "le papier mâche",
+     "de": "das Papiermaché",
+     "es": "el papel m achó",
+     "it": "la cartapesta",
+     "_pos": [
+      262,
+      1025
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "lewelry making",
+     "fr": "la joaillerie",
+     "de": "die Juwelierarbeit",
+     "es": "la orfebrería",
+     "it": "l'oreficeria",
+     "_pos": [
+      36,
+      1028
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "^",
+   "pos": [
+    92,
+    667
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 12,
+  "flagged": 13,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

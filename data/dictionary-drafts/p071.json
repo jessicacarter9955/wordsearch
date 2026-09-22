@@ -1,0 +1,340 @@
+{
+ "page": 71,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E - I A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "utility room • la buanderie • der Allzweckraum • la lavandería • la lavanderia",
+   "parts": [
+    "utility room",
+    "la buanderie",
+    "der allzweckraum",
+    "la lavandería",
+    "la lavanderia"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "laundry • le linge • die Wäsche • la colada • il bucato",
+   "parts": [
+    "laundry",
+    "le linge",
+    "die wäsche",
+    "la colada",
+    "il bucato"
+   ],
+   "entries": [
+    {
+     "en": "dirty laundry",
+     "fr": "le linge sale",
+     "de": "die schmutzige Wäsche",
+     "es": "la ropa sucia",
+     "it": "i panni sporchi",
+     "_pos": [
+      48,
+      201
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dean clothes",
+     "fr": "le linge propre",
+     "de": "die saubere Wäsche",
+     "es": "la ropa limpia",
+     "it": "i vestiti puliti",
+     "_pos": [
+      753,
+      205
+     ],
+     "_flags": []
+    },
+    {
+     "en": "laundry basket",
+     "fr": "le panier à linge",
+     "de": "der Wäschekorb",
+     "es": "el cesto cíe la ropa sucia",
+     "it": "I cesto della biacheria da lavare",
+     "_pos": [
+      48,
+      432
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "washing machine",
+     "fr": "le lave-linge",
+     "de": "die Waschmaschine",
+     "es": "la lavadora",
+     "it": "la lavatrice",
+     "_pos": [
+      219,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "washer-dryer",
+     "fr": "le lave linge séchant",
+     "de": "der Waschautomat mit Trockner",
+     "es": "la lavadora secadora",
+     "it": "il lavasciuga",
+     "_pos": [
+      390,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tumble dryer",
+     "fr": "le sèche-linge",
+     "de": "der Trockner",
+     "es": "la secadora",
+     "it": "l'asciugabiancheria",
+     "_pos": [
+      558,
+      435
+     ],
+     "_flags": []
+    },
+    {
+     "en": "linen basket",
+     "fr": "le panier à linge",
+     "de": "der Wäschekorb",
+     "es": "el cesto de la ropa para planchar",
+     "it": "il cesto della biancheria pulita",
+     "_pos": [
+      724,
+      436
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clothesline",
+     "fr": "la corde à linge",
+     "de": "die Wäscheleine",
+     "es": "el tendedero",
+     "it": "la corda per bucato",
+     "_pos": [
+      365,
+      599
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clothespin",
+     "fr": "la pince à linge",
+     "de": "die Wäscheklammer",
+     "es": "la pinza para la ropa",
+     "it": "la molletta",
+     "_pos": [
+      47,
+      680
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ron",
+     "fr": "le fer à repasser",
+     "de": "das Bügeleisen",
+     "es": "la plancha",
+     "it": "il ferro da stiro",
+     "_pos": [
+      704,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dry (v)",
+     "fr": "sécher",
+     "de": "trocknen",
+     "es": "sot .ir",
+     "it": "asciugare",
+     "_pos": [
+      47,
+      796
+     ],
+     "_flags": [
+      "es:weird:.ir"
+     ]
+    },
+    {
+     "en": "ironing board",
+     "fr": "la planche à repasser",
+     "de": "das Bügelbrett",
+     "es": "el burro de la plancha",
+     "it": "l'asse da stiro",
+     "_pos": [
+      392,
+      832
+     ],
+     "_flags": []
+    },
+    {
+     "en": "load (v)",
+     "fr": "charger",
+     "de": "füllen",
+     "es": "cargar",
+     "it": "caricare",
+     "_pos": [
+      61,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spin (v)",
+     "fr": "essorer",
+     "de": "schleudern",
+     "es": "centrifugar",
+     "it": "centrifugare",
+     "_pos": [
+      171,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "iron (v)",
+     "fr": "repasser",
+     "de": "bügeln",
+     "es": "planchar",
+     "it": "stirare",
+     "_pos": [
+      317,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "How do I operate the washing machíne?",
+     "fr": "Comment fonctionne le lave-linge?",
+     "de": "Wie benutze ich die Waschmaschine?",
+     "es": "Cóm o funciona la lavadora?",
+     "it": "Come funziona la lavatrice?",
+     "_pos": [
+      493,
+      898
+     ],
+     "_flags": [
+      "en:weird:machíne?",
+      "en:case",
+      "fr:weird:lave-linge?",
+      "fr:case",
+      "de:weird:Waschmaschine?",
+      "es:weird:lavadora?",
+      "es:case",
+      "it:weird:lavatrice?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "rinse (v)",
+     "fr": "rincer",
+     "de": "spulen",
+     "es": "aclarar",
+     "it": "sciacquare",
+     "_pos": [
+      60,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spin dryer",
+     "fr": "l'essoreuse",
+     "de": "die Wäscheschleuder",
+     "es": "la centrífuga",
+     "it": "la centrifuga",
+     "_pos": [
+      171,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fabric conditioner",
+     "fr": "le produit assouplissant",
+     "de": "der Weichspuler",
+     "es": "el suavizante",
+     "it": "l'ammorbidente",
+     "_pos": [
+      316,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W hat is the setting for colors/whites?",
+     "fr": "Quel est le programme pour les couleurs/le blanc?",
+     "de": "Welches Programm nehme ich für farbige/weiße Wäsche?",
+     "es": "Cuál es el programa para la ropa de color/blanca?",
+     "it": "Oual è il programma per i tessuti colorati/bianchi?",
+     "_pos": [
+      492,
+      997
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:colors/whites?",
+      "en:case",
+      "fr:weird:couleurs/le",
+      "fr:weird:blanc?",
+      "fr:case",
+      "de:weird:farbige/weiße",
+      "de:weird:Wäsche?",
+      "es:weird:color/blanca?",
+      "es:case",
+      "it:short:è",
+      "it:weird:colorati/bianchi?",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "Sh",
+   "pos": [
+    88,
+    347
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "á 4 fv i",
+   "pos": [
+    124,
+    347
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "S",
+   "pos": [
+    839,
+    586
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 6,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 3,
+  "subcats": 2
+ }
+}

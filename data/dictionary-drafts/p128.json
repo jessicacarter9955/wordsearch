@@ -1,0 +1,266 @@
+{
+ "page": 128,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "F O O D ♦ L A N O U R R IT U R E * DIE NAHRUNGSMITTEL • L O S A L IM E N T O S • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "dairy products • les produits laitiers • die Milchprodukte • los productos lácteos • i latticini",
+   "parts": [
+    "dairy products",
+    "les produits laitiers",
+    "die milchprodukte",
+    "los productos lácteos",
+    "i latticini"
+   ],
+   "entries": [
+    {
+     "en": "cheese",
+     "fr": "le fromage",
+     "de": "der Käse",
+     "es": "el queso",
+     "it": "il formaggio",
+     "_pos": [
+      64,
+      148
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grated cheese",
+     "fr": "le fromage râpé",
+     "de": "der geriebene Käse",
+     "es": "el queso rallado",
+     "it": "il formaggio grattugiato",
+     "_pos": [
+      685,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rind",
+     "fr": "la croûte",
+     "de": "die Rinde",
+     "es": "la corteza",
+     "it": "la crosta",
+     "_pos": [
+      64,
+      195
+     ],
+     "_flags": []
+    },
+    {
+     "en": "semihard cheese",
+     "fr": "le fromage à pâte pressée non cuite",
+     "de": "der mittelharte Käse",
+     "es": "el queso semicurado",
+     "it": "il formaggio semiduro",
+     "_pos": [
+      440,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hard cheese",
+     "fr": "le fromage à pâte pressée cuite",
+     "de": "der Hartkäse",
+     "es": "el queso curado",
+     "it": "il formaggio duro",
+     "_pos": [
+      608,
+      349
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cream cheese",
+     "fr": "le fromage à la crème",
+     "de": "der Rahmkäse",
+     "es": "el queso cremoso",
+     "it": "il formaggio cremoso",
+     "_pos": [
+      609,
+      430
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cottage cheese",
+     "fr": "le cottage",
+     "de": "der Hütten käse",
+     "es": "el requesón",
+     "it": "il formaggio molle",
+     "_pos": [
+      762,
+      448
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cheese",
+     "fr": "le fromage à pâte semi molle",
+     "de": "der halbfeste Käse",
+     "es": "el queso cremoso semi curado",
+     "it": "formaggio semimorbido",
+     "_pos": [
+      480,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blue cheese",
+     "fr": "le bleu",
+     "de": "der Blauschimmelkäse",
+     "es": "el queso azul",
+     "it": "il formaggio tipo gorgonzola",
+     "_pos": [
+      62,
+      607
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soft cheese",
+     "fr": "le fromage à pâte molle",
+     "de": "der Weichkäse",
+     "es": "el queso cremoso",
+     "it": "il formaggio morbido",
+     "_pos": [
+      283,
+      674
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fresh cheese",
+     "fr": "le fromage frais",
+     "de": "der Frischkäse",
+     "es": "el queso fresco",
+     "it": "il formaggio fresco",
+     "_pos": [
+      569,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "milk",
+     "fr": "le lait",
+     "de": "die Milch",
+     "es": "la leche",
+     "it": "il latte",
+     "_pos": [
+      62,
+      748
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whole milk",
+     "fr": "le lait entier",
+     "de": "die Vollmilch",
+     "es": "la leche entera",
+     "it": "il latte intero",
+     "_pos": [
+      61,
+      787
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reduced-fat milk",
+     "fr": "le lait demi-écrémé",
+     "de": "die Halbfettmilch",
+     "es": "la leche semidescremada",
+     "it": "il latte parzialmente scremato",
+     "_pos": [
+      236,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fat-free milk",
+     "fr": "le lait écrémé",
+     "de": "die Magermilch",
+     "es": "la leche descremada",
+     "it": "il latte scremato",
+     "_pos": [
+      474,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "milk carton",
+     "fr": "le carton de lait",
+     "de": "die Milchtüte",
+     "es": "el cartón de leche",
+     "it": "il cartone di latte",
+     "_pos": [
+      496,
+      923
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goat's milk",
+     "fr": "1c lait de chèvre",
+     "de": "die Ziegenmilch",
+     "es": "la lecite de cabra",
+     "it": "il latte di capra",
+     "_pos": [
+      624,
+      1005
+     ],
+     "_flags": [
+      "fr:num:1c"
+     ]
+    },
+    {
+     "en": "condensed milk",
+     "fr": "le lait condensé",
+     "de": "die Kondensmilch",
+     "es": "la leche condensada",
+     "it": "il latte condensato",
+     "_pos": [
+      755,
+      1007
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cows milk",
+     "fr": "le lait de vache",
+     "de": "die Kuhmilch",
+     "es": "la leche de vaca",
+     "it": "il latte di mucca",
+     "_pos": [
+      60,
+      1068
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 8,
+  "flagged": 11,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,390 @@
+{
+ "page": 217,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "S P O R T S • LES S P O R T S • DER SPORT • L O S DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "tennis • le tennis • das Tennis • el tenis • il tennis",
+   "parts": [
+    "tennis",
+    "le tennis",
+    "das tennis",
+    "el tenis",
+    "il tennis"
+   ],
+   "entries": [
+    {
+     "en": "handle",
+     "fr": "le manche",
+     "de": "der Griff",
+     "es": "el mango",
+     "it": "l'impugnatura",
+     "_pos": [
+      60,
+      109
+     ],
+     "_flags": []
+    },
+    {
+     "en": "head",
+     "fr": "la tête",
+     "de": "der Kopf",
+     "es": "la cabeza",
+     "it": "la testa",
+     "_pos": [
+      182,
+      109
+     ],
+     "_flags": []
+    },
+    {
+     "en": "string",
+     "fr": "la corde",
+     "de": "die Saite",
+     "es": "la cuerda",
+     "it": "la corda",
+     "_pos": [
+      314,
+      110
+     ],
+     "_flags": []
+    },
+    {
+     "en": "umpire",
+     "fr": "l'arbitre",
+     "de": "der Schiedsrichter",
+     "es": "el juez de silla",
+     "it": "l'arbitro",
+     "_pos": [
+      400,
+      111
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baseline",
+     "fr": "la ligne de fond",
+     "de": "die Grundlinie",
+     "es": "la línea de fondo",
+     "it": "la linea di fondo",
+     "_pos": [
+      692,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "racquet",
+     "fr": "la raquette",
+     "de": "der Tennisschläger",
+     "es": "la raqueta",
+     "it": "la racchetta",
+     "_pos": [
+      54,
+      290
+     ],
+     "_flags": []
+    },
+    {
+     "en": "service line",
+     "fr": "la ligne de service",
+     "de": "die Aufschlaglinie",
+     "es": "la línea de servicio",
+     "it": "la linea di servizio",
+     "_pos": [
+      221,
+      372
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sideline",
+     "fr": "la ligne de côté",
+     "de": "die Seitenlinie",
+     "es": "la línea de banda",
+     "it": "la linea laterale",
+     "_pos": [
+      221,
+      471
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ball",
+     "fr": "la balle",
+     "de": "der Tennisball",
+     "es": "la bola",
+     "it": "la palla",
+     "_pos": [
+      53,
+      585
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wristband",
+     "fr": "le poignet",
+     "de": "das Schweißband",
+     "es": "la muñequera",
+     "it": "il polsino",
+     "_pos": [
+      53,
+      702
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tennis court",
+     "fr": "le court de tennis",
+     "de": "der Tennisplatz",
+     "es": "la pista de tenis",
+     "it": "il campo",
+     "_pos": [
+      328,
+      735
+     ],
+     "_flags": []
+    },
+    {
+     "en": "singles",
+     "fr": "le simple",
+     "de": "das Einzel",
+     "es": "el singles",
+     "it": "il singolare",
+     "_pos": [
+      68,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set",
+     "fr": "le set",
+     "de": "der Satz",
+     "es": "el set",
+     "it": "il set",
+     "_pos": [
+      198,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deuce",
+     "fr": "l 'égalité",
+     "de": "der Einstand",
+     "es": "cuarenta iguales",
+     "it": "il deuce",
+     "_pos": [
+      320,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fault",
+     "fr": "la faute",
+     "de": "der Fehler",
+     "es": "la falta",
+     "it": "il fallo",
+     "_pos": [
+      470,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slice",
+     "fr": "les lice",
+     "de": "der Slice",
+     "es": "el tiro con efecto",
+     "it": "il taglio",
+     "_pos": [
+      594,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spin",
+     "fr": "l'effet",
+     "de": "der Spin",
+     "es": "el efecto",
+     "it": "l'avvitamento",
+     "_pos": [
+      755,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "doubles",
+     "fr": "le double",
+     "de": "das Doppel",
+     "es": "los dobles",
+     "it": "il doppio",
+     "_pos": [
+      68,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "match",
+     "fr": "le match",
+     "de": "das Match",
+     "es": "el partido",
+     "it": "la partita",
+     "_pos": [
+      198,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "advantage",
+     "fr": "l'avantage",
+     "de": "der Vorteil",
+     "es": "la ventaja",
+     "it": "il vantaggio",
+     "_pos": [
+      320,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ace",
+     "fr": "l'as",
+     "de": "das Ass",
+     "es": "e las",
+     "it": "l'asso",
+     "_pos": [
+      470,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rally",
+     "fr": "l'échange",
+     "de": "der Ballwechsel",
+     "es": "el peloteo",
+     "it": "il palleggio",
+     "_pos": [
+      594,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "linesman",
+     "fr": "le juge de ligne",
+     "de": "der Linienrichter",
+     "es": "el juez de línea",
+     "it": "il giudice di linea",
+     "_pos": [
+      755,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "game",
+     "fr": "le jeu",
+     "de": "das Spiel",
+     "es": "el juego",
+     "it": "il gioco",
+     "_pos": [
+      68,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tiebreaker",
+     "fr": "le riebreak",
+     "de": "der Tiebreak",
+     "es": "el tiebreak",
+     "it": "il tiebreak",
+     "_pos": [
+      198,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "love",
+     "fr": "zéro",
+     "de": "null",
+     "es": "nada",
+     "it": "a zero",
+     "_pos": [
+      320,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dropshot",
+     "fr": "l'amorti",
+     "de": "der Stoppball",
+     "es": "la dejada",
+     "it": "la smorzata",
+     "_pos": [
+      470,
+      981
+     ],
+     "_flags": []
+    },
+    {
+     "en": "let!",
+     "fr": "net!",
+     "de": "Netz!",
+     "es": "red!",
+     "it": "colpo nullo!",
+     "_pos": [
+      594,
+      981
+     ],
+     "_flags": [
+      "en:weird:let!",
+      "fr:weird:net!",
+      "de:weird:Netz!",
+      "es:weird:red!",
+      "it:weird:nullo!"
+     ]
+    },
+    {
+     "en": "championship",
+     "fr": "le championnat",
+     "de": "die Meisterschaft",
+     "es": "el campeonato",
+     "it": "il campionato",
+     "_pos": [
+      754,
+      982
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 23,
+  "flagged": 6,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

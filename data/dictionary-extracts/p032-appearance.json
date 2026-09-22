@@ -1,0 +1,558 @@
+{
+ "page": 32,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "lingerie",
+   "names": {
+    "en": "lingerie",
+    "fr": "la lingerie",
+    "de": "die Unterwäsche",
+    "es": "la lencería",
+    "it": "la biancheria intima"
+   },
+   "entries": [
+    {
+     "en": "strap",
+     "fr": "bretelle",
+     "de": "Träger",
+     "es": "tirante",
+     "it": "spallina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "veil",
+     "fr": "voile",
+     "de": "Schleier",
+     "es": "velo",
+     "it": "velo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 8,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "lace",
+     "fr": "dentelle",
+     "de": "Spitze",
+     "es": "encaje",
+     "it": "pizzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "bouquet",
+     "fr": "bouquet",
+     "de": "Bukett",
+     "es": "ramo de flores",
+     "it": "bouquet",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "camisole",
+     "fr": "camisole",
+     "de": "Mieder",
+     "es": "camisola",
+     "it": "corpetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "slip",
+     "fr": "caraco",
+     "de": "Unterrock",
+     "es": "tondo",
+     "it": "sottoveste",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "négligée",
+     "fr": "négligé",
+     "de": "Negligé",
+     "es": "negligé",
+     "it": "négligé",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "train",
+     "fr": "traîne",
+     "de": "Schleppe",
+     "es": "cola",
+     "it": "strascico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 8,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "garters",
+     "fr": "jarretelle",
+     "de": "Strumpfhalter",
+     "es": "ligas",
+     "it": "reggicalze",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 13,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "wedding dress",
+     "fr": "robe de mariée",
+     "de": "Hochzeitskleid",
+     "es": "vestido de novia",
+     "it": "abito da sposa",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 14,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "tailored",
+     "fr": "ajusté",
+     "de": "gut geschnitten",
+     "es": "entallado",
+     "it": "attillato",
+     "_multi": [
+      "de"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 14,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "corset",
+     "fr": "corset",
+     "de": "Korsett",
+     "es": "corsé",
+     "it": "busto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "panty hose",
+     "fr": "collant",
+     "de": "Strumpfhose",
+     "es": "pantimedias",
+     "it": "collant",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 11,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "stockings",
+     "fr": "bas",
+     "de": "Strümpfe",
+     "es": "medias de liguero",
+     "it": "calze",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 3,
+      "de": 8,
+      "es": 15,
+      "it": 5
+     }
+    },
+    {
+     "en": "bustier",
+     "fr": "guêpière",
+     "de": "Bustier",
+     "es": "corsé con liguero",
+     "it": "guêpière",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "garter belt",
+     "fr": "jarretière",
+     "de": "Strumpfband",
+     "es": "liga",
+     "it": "giarrettiera",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 4,
+      "it": 12
+     }
+    },
+    {
+     "en": "halter neck",
+     "fr": "dos nu",
+     "de": "rückenfrei",
+     "es": "con los hombro sal aire",
+     "it": "allacciato dietro il collo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 10,
+      "es": 19,
+      "it": 23
+     }
+    },
+    {
+     "en": "sports bra",
+     "fr": "soutient-gorge sport",
+     "de": "Sport-BH",
+     "es": "brassiere deportivo",
+     "it": "reggiseno sportivo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 18,
+      "de": 7,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "shoulder pad",
+     "fr": "épaulette",
+     "de": "Schulterpolster",
+     "es": "hombrera",
+     "it": "spallina",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 15,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "underwire",
+     "fr": "à armature",
+     "de": "mit Formbügeln",
+     "es": "con varillas",
+     "it": "con armatura",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 13,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "waistband",
+     "fr": "ceinture",
+     "de": "Rockbund",
+     "es": "cinturilla",
+     "it": "girovita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 8,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "nightgown",
+     "fr": "chemise de nuit",
+     "de": "Nachthemd",
+     "es": "camisón",
+     "it": "camicia da notte",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 9,
+      "es": 7,
+      "it": 14
+     }
+    },
+    {
+     "en": "underpants",
+     "fr": "slip",
+     "de": "Slip",
+     "es": "pantaletas",
+     "it": "slip",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "las",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 4,
+      "de": 4,
+      "es": 10,
+      "it": 4
+     }
+    },
+    {
+     "en": "bra",
+     "fr": "soutien-gorge",
+     "de": "Büstenhalter",
+     "es": "brassiere",
+     "it": "reggiseno",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 12,
+      "de": 12,
+      "es": 9,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Titolo 'wedding • le mariage • die Hochzeit • la boda • il matrimonio' spezzato su 2 righe OCR (G0+G2); voce-titolo 'la biancheria intima' eliminata. Le voci matrimonio+lingeria convivono nel gruppo (layout OCR non separabile)."
+}

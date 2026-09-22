@@ -1,0 +1,358 @@
+{
+ "page": 234,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • I BS S P O R T S • DER SPORT • LOS DEPORTES » GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "events • les épreuves ■ die Disziplinen • las modalidades • le gaie",
+   "parts": [
+    "events",
+    "les épreuves",
+    "die disziplinen",
+    "las modalidades",
+    "le gaie"
+   ],
+   "entries": [
+    {
+     "en": "„-gate",
+     "fr": "la porte",
+     "de": "das Tor",
+     "es": "el poste",
+     "it": "la porta",
+     "_pos": [
+      262,
+      104
+     ],
+     "_flags": [
+      "en:weird:„-gate"
+     ]
+    },
+    {
+     "en": "cross country skiing",
+     "fr": "le ski de randonnée",
+     "de": "der Langlauf",
+     "es": "el esquí de fondo",
+     "it": "lo sci di fondo",
+     "_pos": [
+      660,
+      295
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ski jump",
+     "fr": "le saut",
+     "de": "der Skisprung",
+     "es": "el salto",
+     "_pos": [
+      452,
+      298
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "slalom",
+     "fr": "le slalom",
+     "it": "lo slalom",
+     "_pos": [
+      239,
+      301
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "downhill skiing",
+     "fr": "la descente",
+     "de": "der Abfahrtslauf",
+     "es": "el descenso",
+     "it": "la discesa",
+     "_pos": [
+      28,
+      304
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• der Slalom • el slàlom",
+   "parts": [
+    "der slalom",
+    "el slàlom"
+   ],
+   "entries": [
+    {
+     "en": "goggles",
+     "fr": "les lunettes de ski",
+     "de": "die Skibnile",
+     "es": "los goggles",
+     "it": "gli occhiali",
+     "_pos": [
+      616,
+      378
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "winter sports ♦ les sports d'hiver • der Wintersport • los deportes de invierno • gli sport invernali",
+   "parts": [
+    "winter sports",
+    "les sports d'hiver",
+    "der wintersport",
+    "los deportes de invierno",
+    "gli sport invernali"
+   ],
+   "entries": [
+    {
+     "en": "skate",
+     "fr": "le patin à glace",
+     "de": "der Schlittschuh",
+     "es": "patín",
+     "it": "il pattino",
+     "_pos": [
+      440,
+      466
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "IL",
+   "parts": [
+    "il"
+   ],
+   "entries": [
+    {
+     "en": "snowboarding",
+     "fr": "le surf des neiges",
+     "de": "das Snowboarding",
+     "es": "el snowboarding",
+     "it": "lo snowboard",
+     "_pos": [
+      668,
+      574
+     ],
+     "_flags": []
+    },
+    {
+     "en": "figure skating",
+     "fr": "le patinage artistique",
+     "de": "der Eiskunstlauf",
+     "es": "el patinaje artístico",
+     "it": "il pattinaggio artistico",
+     "_pos": [
+      456,
+      577
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ice skating",
+     "fr": "le patinage . das Eisläufen",
+     "es": "el patinaje sobre hielo",
+     "it": "il pattinaggio su ghiaccio",
+     "_pos": [
+      244,
+      580
+     ],
+     "_flags": [
+      "missing:de",
+      "fr:weird:."
+     ]
+    },
+    {
+     "en": "ice climbing",
+     "fr": "l'escalade en glace",
+     "de": "das Eisklettern",
+     "es": "la escalada en hielo",
+     "it": "l'arrampicata su ghiaccio",
+     "_pos": [
+      31,
+      584
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dogsledding",
+     "fr": "le traîneau à chiens",
+     "de": "das Hundeschlittenfahren",
+     "es": "el trineo con perros",
+     "it": "la corsa su slitta tramata da cam",
+     "_pos": [
+      641,
+      673
+     ],
+     "_flags": []
+    },
+    {
+     "en": "alpine skiing",
+     "fr": "le ski alpin",
+     "de": "die alpine Kombination",
+     "es": "el esquí alpino",
+     "it": "lo sci alpino",
+     "_pos": [
+      472,
+      675
+     ],
+     "_flags": []
+    },
+    {
+     "en": "speed skating",
+     "fr": "le pannage de vitesse",
+     "de": "das Eisschnelllauf",
+     "es": "el patinaje de velocidad",
+     "it": "il pattinaggio di velocità",
+     "_pos": [
+      643,
+      771
+     ],
+     "_flags": [
+      "de:rep:Eisschnelllauf"
+     ]
+    },
+    {
+     "en": "giant slalom",
+     "fr": "le slalom géant",
+     "de": "der Riesenslalom",
+     "es": "el slàlom gigante",
+     "it": "lo slalom gigante",
+     "_pos": [
+      474,
+      774
+     ],
+     "_flags": []
+    },
+    {
+     "en": "luge",
+     "fr": "la luge",
+     "de": "das Rennrodeln",
+     "es": "el luge",
+     "it": "lo slittino",
+     "_pos": [
+      248,
+      809
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bobsled",
+     "fr": "le bobsleigh",
+     "de": "der Bobsport",
+     "es": "el bobsleigh",
+     "it": "il bob",
+     "_pos": [
+      35,
+      813
+     ],
+     "_flags": []
+    },
+    {
+     "en": "biathlon",
+     "fr": "le biathlon",
+     "de": "das Biathlon",
+     "es": "el biatlon",
+     "it": "il biathlon",
+     "_pos": [
+      644,
+      870
+     ],
+     "_flags": []
+    },
+    {
+     "en": "off-piste",
+     "fr": "hors piste",
+     "de": "abseits der Piste",
+     "es": "fuera de pista",
+     "it": "fuoripista",
+     "_pos": [
+      476,
+      872
+     ],
+     "_flags": []
+    },
+    {
+     "en": "avalanche",
+     "fr": "l'avalanche",
+     "de": "die Lawine",
+     "es": "la avalancha",
+     "it": "la valanga",
+     "_pos": [
+      646,
+      968
+     ],
+     "_flags": []
+    },
+    {
+     "en": "curling",
+     "fr": "le curling",
+     "de": "das Curling",
+     "es": "el curling",
+     "it": "il curling",
+     "_pos": [
+      478,
+      970
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sledding",
+     "fr": "la luge",
+     "de": "das Schlittenfahren",
+     "es": "tirarse en trineo",
+     "it": "la corsa su slitta",
+     "_pos": [
+      252,
+      1023
+     ],
+     "_flags": []
+    },
+    {
+     "en": "snowmobile",
+     "fr": "l'autoneigc",
+     "de": "das Schneemobil",
+     "es": "la moto de nieve",
+     "it": "la motoslitta",
+     "_pos": [
+      38,
+      1026
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "2 4 7",
+   "pos": [
+    837,
+    1084
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 8,
+  "flagged": 15,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 4
+ }
+}

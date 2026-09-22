@@ -1,0 +1,256 @@
+{
+ "page": 249,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • L E T E M P S I IR R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "activities • les activités • die Aktivitäten • las actividades • le attività",
+   "parts": [
+    "activities",
+    "les activités",
+    "die aktivitäten",
+    "las actividades",
+    "le attività"
+   ],
+   "entries": [
+    {
+     "en": "rollerblading",
+     "fr": "le roller",
+     "de": "das Inlinerfahren",
+     "es": "el patinaje",
+     "it": "il pattinaggio",
+     "_pos": [
+      669,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skateboarding",
+     "fr": "la planche à roulette",
+     "de": "das Skateboardfahren",
+     "es": "lapa tineta",
+     "it": "lo skateboard",
+     "_pos": [
+      456,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jogging",
+     "fr": "le jogging",
+     "de": "das Jogging",
+     "es": "el jogging",
+     "it": "il footing",
+     "_pos": [
+      244,
+      286
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cycling",
+     "fr": "le vélo",
+     "de": "das Radfahren",
+     "es": "el ciclismo",
+     "it": "il ciclismo",
+     "_pos": [
+      32,
+      287
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hamper",
+     "fr": "le panier à pique-nique",
+     "de": "der Picknickkorb",
+     "es": "la canasta",
+     "it": "la cesta",
+     "_pos": [
+      670,
+      348
+     ],
+     "_flags": []
+    },
+    {
+     "en": "riding trail",
+     "fr": "la piste cavalière",
+     "de": "der Reitweg",
+     "es": "el sendero para caballos",
+     "it": "il sentiero per cavalli",
+     "_pos": [
+      47,
+      353
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rJ",
+     "_pos": [
+      136,
+      486
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "hiking",
+     "fr": "la randonnée",
+     "de": "das Wandern",
+     "es": "la caminata",
+     "it": "l'escursionismo",
+     "_pos": [
+      459,
+      530
+     ],
+     "_flags": []
+    },
+    {
+     "en": "picnic",
+     "fr": "le pique-nique",
+     "de": "das Picknick",
+     "es": "el pienù",
+     "it": "il picnic",
+     "_pos": [
+      674,
+      530
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horseback riding",
+     "fr": "I'equitation",
+     "de": "das Reiten",
+     "es": "la equitación",
+     "it": "l'equitazione",
+     "_pos": [
+      247,
+      531
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "bird watching",
+     "fr": "l'observation des oiseaux",
+     "de": "das Vogel beobachten",
+     "es": "la ornitología",
+     "it": "l'ornitologia",
+     "_pos": [
+      34,
+      533
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "playground • le terrain de jeux • der Spielplatz • el área de juegos • il parco giochi",
+   "parts": [
+    "playground",
+    "le terrain de jeux",
+    "der spielplatz",
+    "el área de juegos",
+    "il parco giochi"
+   ],
+   "entries": [
+    {
+     "en": "swing",
+     "fr": "la ha",
+     "de": "die Schaukel",
+     "it": "l'altalena",
+     "_pos": [
+      462,
+      792
+     ],
+     "_flags": [
+      "missing:es"
+     ]
+    },
+    {
+     "en": "wading pool",
+     "fr": "la pataugeoire",
+     "de": "das Planschbecken",
+     "es": "la alborea de plástico",
+     "it": "la piscina gonfiabile",
+     "_pos": [
+      248,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sandbox",
+     "fr": "le bac à sable",
+     "de": "der Sandkasten",
+     "es": "el cajón de arena",
+     "it": "la fossa di sabbia",
+     "_pos": [
+      36,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "climber",
+     "fr": "la cage à poules",
+     "de": "das Klettergerüst",
+     "es": "el changuero",
+     "it": "la struttura per arrampicarsi",
+     "_pos": [
+      628,
+      1021
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slide",
+     "fr": "le toboggan",
+     "de": "die Rutsche",
+     "es": "la resbaladilla",
+     "it": "lo scivolo",
+     "_pos": [
+      302,
+      1040
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seesaw",
+     "fr": "la bascule",
+     "de": "die Wippe",
+     "es": "el subibaja",
+     "it": "il bilanciere",
+     "_pos": [
+      40,
+      1041
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 0,
+  "flagged": 17,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

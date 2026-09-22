@@ -1,0 +1,45 @@
+{
+ "page": 26,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "appearance l'apparence",
+   "parts": [
+    "appearance l'apparence"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "die äußere Erscheinung",
+   "parts": [
+    "die äußere erscheinung"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "la apariencia l'aspetto",
+   "parts": [
+    "la apariencia l'aspetto"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

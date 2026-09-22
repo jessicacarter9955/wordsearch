@@ -1,0 +1,395 @@
+{
+ "page": 224,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORI",
+ "groups": [
+  {
+   "names_raw": "actions • les actions • die Techniken • los m ovim ientos • le mosse",
+   "parts": [
+    "actions",
+    "les actions",
+    "die techniken",
+    "los m ovim ientos",
+    "le mosse"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "t",
+   "parts": [
+    "t"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "X -K. J0",
+   "parts": [
+    "x -k. j"
+   ],
+   "entries": [
+    {
+     "en": "pin",
+     "fr": "Pim m obilisation",
+     "de": "das Fesseln",
+     "es": "la inmovilización",
+     "it": "la caduta",
+     "_pos": [
+      636,
+      272
+     ],
+     "_flags": [
+      "fr:short:m",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "throw",
+     "fr": "la projection",
+     "de": "der Wurf",
+     "es": "el derribo",
+     "it": "la proiezione",
+     "_pos": [
+      418,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hold",
+     "fr": "la prise",
+     "de": "der Griff",
+     "es": "el agarre",
+     "it": "la presa",
+     "_pos": [
+      228,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fall",
+     "fr": "la chute",
+     "de": "das Fallen",
+     "es": "la caída",
+     "it": "la scivolata",
+     "_pos": [
+      32,
+      274
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "J",
+   "parts": [
+    "j"
+   ],
+   "entries": [
+    {
+     "en": "strike",
+     "fr": "le coup",
+     "de": "der Angriff",
+     "es": "el golpe",
+     "it": "il colpo",
+     "_pos": [
+      458,
+      502
+     ],
+     "_flags": []
+    },
+    {
+     "en": "punch",
+     "fr": "le coup de poing",
+     "de": "der Stoß",
+     "es": "el puñetazo",
+     "it": "il pugno",
+     "_pos": [
+      246,
+      503
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kick",
+     "fr": "le coup de pied",
+     "de": "der Seitfußstoß",
+     "es": "la patada",
+     "it": "il calcio",
+     "_pos": [
+      34,
+      504
+     ],
+     "_flags": []
+    },
+    {
+     "en": "block",
+     "fr": "le blocage",
+     "de": "der Block",
+     "es": "el bloqueo",
+     "it": "la parata",
+     "_pos": [
+      426,
+      715
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chop",
+     "fr": "le coup",
+     "de": "der Hieb",
+     "es": "el golpe",
+     "it": "il colpo di taglio",
+     "_pos": [
+      649,
+      716
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jump",
+     "fr": "le saut",
+     "de": "der Sprung",
+     "es": "el salto",
+     "it": "il salto",
+     "_pos": [
+      34,
+      717
+     ],
+     "_flags": []
+    },
+    {
+     "en": "black belt",
+     "fr": "la ceinture noire",
+     "de": "der schwarze Gürtel",
+     "es": "el cinturón negro",
+     "it": "la cintura nera",
+     "_pos": [
+      550,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "capoeira",
+     "fr": "la capoeira",
+     "de": "das Capoeira",
+     "es": "la capoeira",
+     "it": "la capoeira",
+     "_pos": [
+      717,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fist",
+     "fr": "le poing",
+     "de": "die Faust",
+     "es": "el puño",
+     "it": "il pugno",
+     "_pos": [
+      398,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boxing ring",
+     "fr": "le ring",
+     "de": "der Boxring",
+     "es": "el ring",
+     "it": "il ring",
+     "_pos": [
+      49,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "round",
+     "fr": "le round",
+     "de": "die Runde",
+     "es": "el round",
+     "it": "il round",
+     "_pos": [
+      257,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sumo wrestling",
+     "fr": "le sumo",
+     "de": "das Sumo",
+     "es": "el sumo",
+     "it": "il sumo",
+     "_pos": [
+      718,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "self-defense",
+     "fr": "l'autodéfense",
+     "de": "die Selbstverteidigung",
+     "es": "la defensa personal",
+     "it": "l'autodifesa",
+     "_pos": [
+      550,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knockout",
+     "fr": "le knock-out",
+     "de": "der Knockout",
+     "es": "el K .O",
+     "it": "il k.o",
+     "_pos": [
+      400,
+      880
+     ],
+     "_flags": [
+      "es:short:K",
+      "es:weird:.O",
+      "es:case",
+      "it:weird:k.o"
+     ]
+    },
+    {
+     "en": "boxing gloves",
+     "fr": "les gants de boxe",
+     "de": "die Boxhandschuhe",
+     "es": "los guantes de boxeo",
+     "it": "i guanti",
+     "_pos": [
+      50,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bout",
+     "fr": "le combat",
+     "de": "der Kampf",
+     "es": "el combate",
+     "it": "l'incontro",
+     "_pos": [
+      257,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "punching bag",
+     "fr": "le punching-bag",
+     "de": "der Sandsack",
+     "es": "el saco de arena",
+     "it": "il sacco",
+     "_pos": [
+      400,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "martial arts",
+     "fr": "les arts martiaux",
+     "de": "die Kampfsportarten",
+     "es": "las artes m arciales",
+     "it": "le arti marziali",
+     "_pos": [
+      550,
+      977
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "tal-chi",
+     "fr": "le tai chi",
+     "de": "das Tai Chi",
+     "es": "el tai-chi",
+     "it": "il tai-chi",
+     "_pos": [
+      718,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mouth guard",
+     "fr": "le protège-dents",
+     "de": "der Mundschutz",
+     "es": "el protegedientes",
+     "it": "l paradenti",
+     "_pos": [
+      50,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Sparring",
+     "fr": "l'entraînement",
+     "de": "das Sparren",
+     "es": "el entrenamiento",
+     "it": "l'alicnamento",
+     "_pos": [
+      258,
+      979
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "4L",
+   "pos": [
+    319,
+    259
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "V",
+   "pos": [
+    380,
+    484
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "V",
+   "pos": [
+    259,
+    734
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 11,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 3,
+  "subcats": 4
+ }
+}

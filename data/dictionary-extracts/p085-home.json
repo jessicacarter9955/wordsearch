@@ -1,0 +1,294 @@
+{
+ "page": 85,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "giardinaggio",
+   "names": {
+    "en": "gardening",
+    "fr": "le jardinage",
+    "de": "die gartenarbeit",
+    "es": "la jardinería",
+    "it": "il giardinaggio"
+   },
+   "entries": [
+    {
+     "en": "hedge",
+     "fr": "haie",
+     "de": "Hecke",
+     "es": "seto",
+     "it": "siepe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "lawn",
+     "fr": "pelouse",
+     "de": "Rasen",
+     "es": "pasto",
+     "it": "prato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "flowerbed",
+     "fr": "parterre",
+     "de": "Blumenbeet",
+     "es": "parterre",
+     "it": "aiuola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "stake",
+     "fr": "tuteur",
+     "de": "Stange",
+     "es": "estaca",
+     "it": "bastoncino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "lawnmower",
+     "fr": "tondeuse",
+     "de": "Rasenmäher",
+     "es": "podadora",
+     "it": "tosaerba",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "mow (v)",
+     "fr": "tondre",
+     "de": "mähen",
+     "es": "cortar el césped",
+     "it": "tagliare l'erba",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "turf {v",
+     "fr": "gazonner",
+     "de": "mit Rasen bedecken",
+     "es": "poner césped",
+     "it": "ricoprire di zolle erbose",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 16,
+      "es": 11,
+      "it": 22
+     }
+    },
+    {
+     "en": "spike (v)",
+     "fr": "piquer",
+     "de": "stechen",
+     "es": "hacer agujeros con el trinche",
+     "it": "inforcare",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 25,
+      "it": 9
+     }
+    },
+    {
+     "en": "rake (v)",
+     "fr": "ratisser",
+     "de": "harken",
+     "es": "rastrillar",
+     "it": "rastrellare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "rimy",
+     "fr": "railler",
+     "de": "stutzen",
+     "es": "podar",
+     "it": "spuntare",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "dig (v)",
+     "fr": "bêcher",
+     "de": "graben",
+     "es": "cavar",
+     "it": "scavare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "sow (v)",
+     "fr": "semer",
+     "de": "säen",
+     "es": "sembrar",
+     "it": "seminare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "top dress (v)",
+     "fr": "tumor en surface",
+     "de": "mit Kopfdünger düngen",
+     "es": "abonar en la superficie",
+     "it": "concimare a spandimento",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 19,
+      "es": 20,
+      "it": 21
+     }
+    },
+    {
+     "en": "water (v)",
+     "fr": "arroser",
+     "de": "gießen",
+     "es": "regar",
+     "it": "annaffiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 5,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

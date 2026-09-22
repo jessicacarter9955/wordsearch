@@ -1,0 +1,112 @@
+{
+ "page": 250,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • L E T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "beach • la plage • der Strand • la playa • la spiaggia",
+   "parts": [
+    "beach",
+    "la plage",
+    "der strand",
+    "la playa",
+    "la spiaggia"
+   ],
+   "entries": [
+    {
+     "en": "hotel",
+     "fr": "Pilòrci",
+     "de": "das Hotel",
+     "es": "el hotel",
+     "it": "l'albergo",
+     "_pos": [
+      57,
+      126
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "beach umbrella",
+     "fr": "le parasol",
+     "de": "der Sonnenschirm",
+     "es": "la sombrilla",
+     "it": "l'ombrellone",
+     "_pos": [
+      169,
+      127
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beach hut",
+     "fr": "la cabine de plage",
+     "de": "das Strandhauschen",
+     "es": "la caseta",
+     "it": "la cabina",
+     "_pos": [
+      342,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sand",
+     "fr": "le sable",
+     "de": "der Sand",
+     "es": "la arena",
+     "it": "la sabbia",
+     "_pos": [
+      500,
+      130
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wave",
+     "fr": "la vague",
+     "de": "die Welle",
+     "es": "la ola",
+     "it": "l'onda",
+     "_pos": [
+      654,
+      130
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sunbathe (v)",
+     "fr": "prendre un bain de soleil",
+     "de": "sonnenbaden",
+     "es": "asolear",
+     "it": "prendere I sole",
+     "_pos": [
+      54,
+      1062
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 6,
+  "complete_clean": 4,
+  "flagged": 2,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

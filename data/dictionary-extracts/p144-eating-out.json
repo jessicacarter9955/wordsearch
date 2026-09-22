@@ -1,0 +1,478 @@
+{
+ "page": 144,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "menu",
+     "fr": "carie",
+     "de": "Speisekarte",
+     "es": "carta",
+     "it": "menù",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 11,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "child's meal",
+     "fr": "menu cTenfant",
+     "de": "Kinderportion",
+     "es": "m enu para niños",
+     "it": "menù per bambini",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 13,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "pay (v)",
+     "fr": "payer",
+     "de": "bezahlen",
+     "es": "pagar",
+     "it": "pagare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 8,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "order (v)",
+     "fr": "commander",
+     "de": "bestellen",
+     "es": "ordenar",
+     "it": "ordinare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "table for two. please",
+     "fr": "table pour deux, s'il vous plaît",
+     "de": "Einen Tisch für zwei Personen, bitte",
+     "es": "mesa para dos, por favor",
+     "it": "tavolo per due, per favore",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "en": "A",
+      "fr": "Une",
+      "es": "Una",
+      "it": "Un"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 25,
+      "de": 30,
+      "es": 19,
+      "it": 21
+     }
+    }
+   ]
+  },
+  {
+   "slug": "portate",
+   "names": {
+    "en": "courses",
+    "fr": "les plats",
+    "de": "die gänge",
+    "es": "lo s p la tos",
+    "it": "le portate"
+   },
+   "entries": [
+    {
+     "en": "Can I see the menu/wine list, please?",
+     "fr": "carte/1.i carte des vins, s'il Vous plaît",
+     "de": "Speisekarte/Weinkarte, bitte",
+     "es": "cPodría ver la çàrta/lista de vinos, por favor?",
+     "it": "Posso vedere il menù\\la lista dei vini, per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "La",
+      "de": "Die"
+     },
+     "_grid_len": {
+      "en": 28,
+      "fr": 31,
+      "de": 25,
+      "es": 37,
+      "it": 40
+     }
+    },
+    {
+     "en": "soup",
+     "fr": "soupe",
+     "de": "Suppe",
+     "es": "sopa",
+     "it": "minestra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "appetizer",
+     "fr": "entrée",
+     "de": "Vorspeise",
+     "es": "entrada",
+     "it": "antipasto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "apéritif",
+     "fr": "Raperini",
+     "de": "Aperitif",
+     "es": "aperitivo",
+     "it": "aperitivo",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "Is there a prix fixe menu?",
+     "fr": "Avez-vous un menu à prix fixe?",
+     "de": "Haben Sie ein Tagesmenü?",
+     "es": "H ay menú del dia?",
+     "it": "C'è un menù a prezzo fisso i",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 23,
+      "de": 20,
+      "es": 13,
+      "it": 21
+     }
+    },
+    {
+     "en": "Do you have any vegetarian dishes?",
+     "fr": "Avez vous des plats végétariens?",
+     "de": "Haben Sie vegetarische Gerichte?",
+     "es": "lle n e platos vegetarianos?",
+     "it": "Avete dei piatti vegetariani i",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 28,
+      "fr": 27,
+      "de": 28,
+      "es": 23,
+      "it": 26
+     }
+    },
+    {
+     "en": "Could I have the check/a receipt please?",
+     "fr": "L 'addition/un reçu, s'il vous plaît",
+     "de": "Könnte ich bitte die Rechnung/eine Quittung haben?",
+     "es": "Me podría traer la cuenta/un recibo?",
+     "it": "Posso avere il contorna ricevuta per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 32,
+      "fr": 27,
+      "de": 42,
+      "es": 29,
+      "it": 37
+     }
+    },
+    {
+     "en": "side order",
+     "fr": "accompagnement",
+     "de": "Beilage",
+     "es": "acompañamiento",
+     "it": "contorno",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 7,
+      "es": 14,
+      "it": 8
+     }
+    },
+    {
+     "en": "main course",
+     "fr": "plat principal",
+     "de": "Hauptgericht",
+     "es": "plato principal",
+     "it": "piatto principale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 12,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "coffee spoon",
+     "fr": "cuiller à café",
+     "de": "Kaffeelöffel",
+     "es": "cucharilla de café",
+     "it": "cucchiaino da caffè",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "fork",
+     "fr": "fourchette",
+     "de": "Gabel",
+     "es": "tenedor",
+     "it": "forchetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 5,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "Can we pay separately?",
+     "fr": "Pouvons-nous payer chacun notre part?",
+     "de": "Können wir getrennt zahlen?",
+     "es": "Podemos pagar por separado?",
+     "it": "Possiamo pagare separatamente?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 18,
+      "fr": 31,
+      "de": 23,
+      "es": 23,
+      "it": 27
+     }
+    },
+    {
+     "en": "Where are the rest rooms, please?",
+     "fr": "O ù sont les toilettes, s'il vous plaît?",
+     "de": "Wosind die Toiletten, bitte?",
+     "es": "Dónde están los baños, por favor?",
+     "it": "Dove sono i bagni per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 26,
+      "fr": 30,
+      "de": 23,
+      "es": 26,
+      "it": 23
+     }
+    },
+    {
+     "en": "coffee",
+     "fr": "café",
+     "de": "Kaffee",
+     "es": "café",
+     "it": "caffè",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "dessert",
+     "fr": "dessert",
+     "de": "Nachtisch",
+     "es": "postre",
+     "it": "dessert",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

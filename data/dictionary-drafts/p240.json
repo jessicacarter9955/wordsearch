@@ -1,0 +1,391 @@
+{
+ "page": 240,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEIS U R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": "theater • le théâtre • das Theater • el teatro • ¡I teatro",
+   "parts": [
+    "theater",
+    "le théâtre",
+    "das theater",
+    "el teatro",
+    "i teatro"
+   ],
+   "entries": [
+    {
+     "en": "curtain",
+     "fr": "le rideau",
+     "de": "der Vorhang",
+     "es": "el telón",
+     "it": "il sipario",
+     "_pos": [
+      700,
+      83
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wings",
+     "fr": "les coulisses",
+     "de": "die Kulisse",
+     "es": "los bastidores",
+     "it": "le quinte",
+     "_pos": [
+      700,
+      184
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set",
+     "fr": "le décor",
+     "de": "das Bühnenbild",
+     "es": "la escenografía",
+     "it": "I3 scenografia",
+     "_pos": [
+      700,
+      282
+     ],
+     "_flags": [
+      "it:num:I3",
+      "it:case"
+     ]
+    },
+    {
+     "en": "audience",
+     "fr": "le public",
+     "de": "das Publikum",
+     "es": "el público",
+     "it": "il pubblico",
+     "_pos": [
+      702,
+      463
+     ],
+     "_flags": []
+    },
+    {
+     "en": "orchestra",
+     "fr": "l'orchestre",
+     "de": "das Orchester",
+     "es": "la orquesta",
+     "it": "l'orchestra",
+     "_pos": [
+      700,
+      561
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat",
+     "fr": "le fauteuil",
+     "de": "der Sitzplatz",
+     "es": "la butaca",
+     "it": "la poltrona",
+     "_pos": [
+      145,
+      675
+     ],
+     "_flags": []
+    },
+    {
+     "en": "upper balcony",
+     "fr": "la deuxième galerie",
+     "de": "der zweite Rang",
+     "es": "la platea alta",
+     "it": "la seconda galleria",
+     "_pos": [
+      234,
+      675
+     ],
+     "_flags": []
+    },
+    {
+     "en": "director",
+     "fr": "le metteur en scène la première",
+     "de": "der Regisseur",
+     "es": "el director",
+     "it": "il regista",
+     "_pos": [
+      603,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "play",
+     "fr": "la pièce de théâtre",
+     "de": "das Theaterstück",
+     "es": "la obra",
+     "it": "l'opera teatrale",
+     "_pos": [
+      466,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "de": "die Premiere",
+     "es": "el estreno",
+     "it": "la prima",
+     "_pos": [
+      736,
+      726
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "row",
+     "fr": "la rangée",
+     "de": "die Reihe",
+     "es": "la tila",
+     "it": "la fila",
+     "_pos": [
+      54,
+      740
+     ],
+     "_flags": []
+    },
+    {
+     "en": "box",
+     "fr": "la loge",
+     "de": "die Loge",
+     "es": "el palco",
+     "it": "il palco",
+     "_pos": [
+      369,
+      741
+     ],
+     "_flags": []
+    },
+    {
+     "en": "producer",
+     "fr": "le metteur en scène l'entracte",
+     "de": "der Regisseur",
+     "es": "el productor",
+     "it": "il produttore",
+     "_pos": [
+      603,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cast",
+     "fr": "la distribution",
+     "de": "die Besetzung",
+     "es": "el reparto",
+     "it": "il cast",
+     "_pos": [
+      466,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "de": "die Pause",
+     "es": "el entreacto",
+     "it": "l'intervallo",
+     "_pos": [
+      736,
+      824
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "mezzanine",
+     "fr": "la corbeille",
+     "de": "der erste Rang",
+     "es": "la platea",
+     "it": "la galleria",
+     "_pos": [
+      55,
+      844
+     ],
+     "_flags": []
+    },
+    {
+     "en": "balcony",
+     "fr": "le balcon",
+     "de": "der Balkon",
+     "es": "la galena",
+     "it": "la balconata",
+     "_pos": [
+      368,
+      844
+     ],
+     "_flags": []
+    },
+    {
+     "en": "actor",
+     "fr": "l'acteur",
+     "de": "der Schauspieler",
+     "es": "el actor",
+     "it": "l'attore",
+     "_pos": [
+      466,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "script",
+     "fr": "le texte",
+     "de": "das Rollenheft",
+     "es": "el guión",
+     "it": "il copione",
+     "_pos": [
+      604,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "program",
+     "fr": "le programme",
+     "de": "das Programm",
+     "es": "el programa",
+     "it": "il programma",
+     "_pos": [
+      736,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "orchestra",
+     "fr": "seats l'orchestre",
+     "de": "das Parkett",
+     "es": "las butacas",
+     "it": "generales le poltrone di platea",
+     "_pos": [
+      368,
+      939
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "orchestra",
+       "fr": "seats l'orchestre",
+       "de": "das Parkett",
+       "es": "las butacas generales",
+       "it": "le poltrone di platea"
+      },
+      {
+       "en": "orchestra seats",
+       "fr": "l'orchestre",
+       "de": "das Parkett",
+       "es": "las butacas",
+       "it": "generales le poltrone di platea"
+      }
+     ]
+    },
+    {
+     "en": "aisle",
+     "fr": "Tal lee",
+     "de": "der Gang",
+     "es": "el pasillo",
+     "it": "il corridoio",
+     "_pos": [
+      56,
+      955
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "backdrop",
+     "fr": "la toile de fond",
+     "de": "der Prospekt",
+     "es": "el telón de fondo",
+     "it": "il fondale",
+     "_pos": [
+      604,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "actress",
+     "fr": "l'actrice",
+     "de": "die Schauspielerin",
+     "es": "la actriz",
+     "it": "l'attrice",
+     "_pos": [
+      466,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "orchestra pit",
+     "fr": "la fosse d'orchestre",
+     "de": "der Orchestergraben",
+     "es": "el foso de la orquesta",
+     "it": "il golfo mistico",
+     "_pos": [
+      736,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seating",
+     "fr": "les places",
+     "de": "die Bestuhlung",
+     "es": "las butacas",
+     "it": "le poltrone",
+     "_pos": [
+      56,
+      1053
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "opening night",
+   "pos": [
+    736,
+    693
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "intermissioni",
+   "pos": [
+    736,
+    791
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 16,
+  "flagged": 10,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

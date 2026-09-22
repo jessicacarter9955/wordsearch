@@ -1,0 +1,450 @@
+{
+ "page": 83,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "attrezzi-da-giardino",
+   "names": {
+    "en": "gardening tools",
+    "fr": "les outils de jardin",
+    "de": "die gartengeräte",
+    "es": "las herramientas de jardinería",
+    "it": "gli attrezzi da giardino"
+   },
+   "entries": [
+    {
+     "en": "compost",
+     "fr": "terreau",
+     "de": "Komposterde",
+     "es": "com posta",
+     "it": "terriccio",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 8,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "seeds",
+     "fr": "graines",
+     "de": "Samen",
+     "es": "sem illas",
+     "it": "semi",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 8,
+      "it": 4
+     }
+    },
+    {
+     "en": "bone meal",
+     "fr": "cendre d'os",
+     "de": "Knochenasche",
+     "es": "harina de huesos",
+     "it": "farina di ossa",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 12,
+      "es": 14,
+      "it": 12
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "shovel",
+     "fr": "beehr",
+     "de": "Spaten",
+     "es": "pala",
+     "it": "vanga",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "fork",
+     "fr": "fourche",
+     "de": "Gabel",
+     "es": "trine he",
+     "it": "forcone",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "long-handled shears",
+     "fr": "grande cisaille",
+     "de": "Schere",
+     "es": "podadora de mango largo",
+     "it": "forbici tagliabordi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 14,
+      "de": 6,
+      "es": 20,
+      "it": 18
+     }
+    },
+    {
+     "en": "rake",
+     "fr": "râteau",
+     "de": "Rechen",
+     "es": "rastrillo",
+     "it": "rastrello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "hoe",
+     "fr": "houe",
+     "de": "Hacke",
+     "es": "azadón",
+     "it": "zappa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "gravel - le gravier",
+     "de": "Kies",
+     "es": "grava",
+     "it": "ghiaia",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "grass bag",
+     "fr": "sac à herbe",
+     "de": "Grasfangsack",
+     "es": "bolsa para la hierba",
+     "it": "raccoglierba",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 12,
+      "es": 17,
+      "it": 12
+     }
+    },
+    {
+     "en": "handle",
+     "fr": "bras",
+     "de": "Griff",
+     "es": "asa",
+     "it": "manico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 5,
+      "es": 3,
+      "it": 6
+     }
+    },
+    {
+     "en": "motor",
+     "fr": "moteur",
+     "de": "Motor",
+     "es": "motor",
+     "it": "motore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "gardening basket",
+     "fr": "panier de jardinier",
+     "de": "Gartenkorb",
+     "es": "cesta de jardinero",
+     "it": "cestello",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 10,
+      "es": 16,
+      "it": 8
+     }
+    },
+    {
+     "en": "shield",
+     "fr": "écran de protection",
+     "de": "Schutz",
+     "es": "protector",
+     "it": "protezione",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 17,
+      "de": 6,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "fr": "support",
+     "de": "Ständer",
+     "es": "soporte",
+     "it": "sostegno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "trimmer",
+     "fr": "tondeuse",
+     "de": "Schneider",
+     "es": "cortadora",
+     "it": "tagliabordi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "I awn mower",
+     "fr": "tondeuse à gazon",
+     "de": "Rasenmäher",
+     "es": "podadora",
+     "it": "tosaerba",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "wheelbarrow",
+     "fr": "brouette",
+     "de": "Schubkarren",
+     "es": "carretilla",
+     "it": "carriola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 11,
+      "es": 10,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

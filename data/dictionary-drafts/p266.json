@@ -1,0 +1,302 @@
+{
+ "page": 266,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "ambiente",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "header_raw": "EN V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • E L M E D IO AMBIENTE • LAM BIENTE",
+ "groups": [
+  {
+   "names_raw": "space exploration • l'exploration spatiale • die Raumforschung • la exploración espacial • l'esplorazione dello spazio",
+   "parts": [
+    "space exploration",
+    "l'exploration spatiale",
+    "die raumforschung",
+    "la exploración espacial",
+    "l'esplorazione dello spazio"
+   ],
+   "entries": [
+    {
+     "en": "thruster",
+     "fr": "la fasce d'orientation",
+     "de": "die Steuerrakete",
+     "es": "el propulsor",
+     "it": "il reattore",
+     "_pos": [
+      336,
+      140
+     ],
+     "_flags": []
+    },
+    {
+     "en": "space suit",
+     "fr": "le scaphandre spatial",
+     "de": "der Raumanzug",
+     "es": "el traje espacial",
+     "it": "la tuta spaziale",
+     "_pos": [
+      194,
+      142
+     ],
+     "_flags": []
+    },
+    {
+     "en": "space shuttle",
+     "fr": "la navette spatiale",
+     "de": "die Raumfähre",
+     "es": "el transbordador espacial",
+     "it": "lo shuttle",
+     "_pos": [
+      24,
+      143
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crew hatch",
+     "fr": "le sas d'équipage",
+     "de": "die Besatzungs luke",
+     "es": "la escotilla",
+     "it": "lo sportello dell'equipaggio",
+     "_pos": [
+      744,
+      157
+     ],
+     "_flags": []
+    },
+    {
+     "en": "booster",
+     "fr": "l'accélérateur",
+     "de": "der Booster",
+     "es": "el lanzacohetes",
+     "it": "il lanciarazzi",
+     "_pos": [
+      26,
+      275
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lunar module",
+     "fr": "le module lunaire",
+     "de": "die Mondfähre",
+     "es": "el módulo lunar",
+     "it": "il modulo lunare",
+     "_pos": [
+      450,
+      501
+     ],
+     "_flags": []
+    },
+    {
+     "en": "astronaut",
+     "fr": "l'astronaute",
+     "de": "der Astronaut",
+     "es": "el astronauta",
+     "it": "l'astronauta",
+     "_pos": [
+      238,
+      502
+     ],
+     "_flags": []
+    },
+    {
+     "en": "launch pad",
+     "fr": "la rampe de lancement",
+     "de": "die Abschussrampe 1",
+     "es": "la rampa de lanzamiento",
+     "it": "la rampa dì lancio",
+     "_pos": [
+      228,
+      568
+     ],
+     "_flags": [
+      "de:num:1"
+     ]
+    },
+    {
+     "en": "V l",
+     "fr": "<r",
+     "_pos": [
+      328,
+      650
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:short:V",
+      "en:case",
+      "fr:weird:<r"
+     ],
+     "_alts": [
+      [
+       "en",
+       "de"
+      ],
+      [
+       "en",
+       "es"
+      ],
+      [
+       "en",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "satellite",
+     "fr": "le satellite",
+     "de": "der Satellit",
+     "es": "el satélite",
+     "it": "il satellite",
+     "_pos": [
+      240,
+      764
+     ],
+     "_flags": []
+    },
+    {
+     "en": "space station",
+     "fr": "la station spatiale",
+     "de": "die Raumstation",
+     "es": "la estación espacial",
+     "it": "la stazione spaziale",
+     "_pos": [
+      451,
+      764
+     ],
+     "_flags": []
+    },
+    {
+     "en": "launch",
+     "fr": "le lancement",
+     "de": "der Abschuss",
+     "es": "el lanzamiento",
+     "it": "il lando",
+     "_pos": [
+      27,
+      765
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "astronomy • l'astronomie • die Astronomie • la astronomia • l'astronomia",
+   "parts": [
+    "astronomy",
+    "l'astronomie",
+    "die astronomie",
+    "la astronomía",
+    "l'astronomia"
+   ],
+   "entries": [
+    {
+     "en": "telescope",
+     "fr": "le télescope",
+     "de": "das Teleskop",
+     "es": "el telescopio",
+     "it": "il telescopio",
+     "_pos": [
+      769,
+      862
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tripod",
+     "fr": "le trépied",
+     "de": "das Stativ",
+     "es": "el trípode",
+     "it": "il treppiede",
+     "_pos": [
+      730,
+      992
+     ],
+     "_flags": []
+    },
+    {
+     "en": "constellation",
+     "fr": "la constellation",
+     "de": "das Sternbild",
+     "es": "la constelación",
+     "it": "la costellazione",
+     "_pos": [
+      28,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "binoculars",
+     "fr": "les jumelles",
+     "de": "das Fernglas",
+     "es": "los prism áticos",
+     "it": "il binocolo",
+     "_pos": [
+      240,
+      1027
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "H 1",
+   "pos": [
+    542,
+    328
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "1 . H i t",
+   "pos": [
+    516,
+    344
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "J v ;",
+   "pos": [
+    579,
+    368
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "a",
+   "pos": [
+    640,
+    392
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "Æ",
+   "pos": [
+    346,
+    618
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 6,
+  "flagged": 10,
+  "missing_lang": 1,
+  "leftovers": 5,
+  "subcats": 2
+ }
+}

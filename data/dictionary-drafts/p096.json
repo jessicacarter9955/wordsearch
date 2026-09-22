@@ -1,0 +1,45 @@
+{
+ "page": 96,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "shopping les courses",
+   "parts": [
+    "shopping les courses"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "der Einkauf las compras",
+   "parts": [
+    "der einkauf las compras"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "gli acquisti",
+   "parts": [
+    "gli acquisti"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

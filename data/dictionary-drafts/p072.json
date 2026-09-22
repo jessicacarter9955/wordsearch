@@ -1,0 +1,320 @@
+{
+ "page": 72,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • L A MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "cleaning equipment • Péquipement d'entretien • die Reinigungsartikel • el equipo de lim pieza",
+   "parts": [
+    "cleaning equipment",
+    "péquipement d'entretien",
+    "die reinigungsartikel",
+    "el equipo de lim pieza"
+   ],
+   "entries": [
+    {
+     "it": "gli accessori per la pulizia",
+     "_pos": [
+      36,
+      105
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "brush",
+     "fr": "la baia verte",
+     "de": "der Handfeger",
+     "es": "el cepillo",
+     "it": "la spazzola",
+     "_pos": [
+      624,
+      151
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suction hose",
+     "fr": "le tuyau flexible",
+     "de": "der Saugschlaucheltubodelaaspiradorailtubodiaspirazione",
+     "_pos": [
+      132,
+      191
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "bleach",
+     "fr": "l'eau de Javel",
+     "de": "das Reinigungsmittel",
+     "es": "la lejía",
+     "it": "lavare china",
+     "_pos": [
+      669,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dustpan",
+     "fr": "la pelle",
+     "de": "die Müllschaufel",
+     "es": "el recogedor",
+     "it": "la paletta",
+     "_pos": [
+      418,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dust doth",
+     "fr": "le chiffon",
+     "de": "das Staubtuch",
+     "es": "el sacudidor",
+     "it": "lo spolverino",
+     "_pos": [
+      748,
+      347
+     ],
+     "_flags": []
+    },
+    {
+     "en": "powder",
+     "fr": "la poudre",
+     "de": "das Pulver",
+     "es": "en polvo",
+     "it": "en polvere",
+     "_pos": [
+      384,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "liquid",
+     "fr": "le liquide",
+     "de": "die Flüssigkeit",
+     "es": "líquido",
+     "it": "liquido",
+     "_pos": [
+      632,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pail",
+     "fr": "le seau",
+     "de": "der Eimer",
+     "es": "el cubo",
+     "it": "il secchio",
+     "_pos": [
+      228,
+      351
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vacuum cleaner",
+     "fr": "l'aspirateur",
+     "de": "der Staubsauger",
+     "es": "la aspiradora",
+     "it": "1‘aspirapolvere",
+     "_pos": [
+      36,
+      565
+     ],
+     "_flags": [
+      "it:weird:1‘aspirapolvere"
+     ]
+    },
+    {
+     "en": "mop",
+     "fr": "le balai laveur",
+     "de": "der Mopp",
+     "es": "el trapeador",
+     "it": "la scopa di spugna",
+     "_pos": [
+      252,
+      565
+     ],
+     "_flags": []
+    },
+    {
+     "en": "detergent",
+     "fr": "le détergent",
+     "de": "das Waschmittel",
+     "es": "el detergente",
+     "it": "il detergente",
+     "_pos": [
+      456,
+      565
+     ],
+     "_flags": []
+    },
+    {
+     "en": "polish",
+     "fr": "la cire",
+     "de": "die Politur",
+     "es": "la cera",
+     "it": "la cera",
+     "_pos": [
+      680,
+      565
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "activities • les activités • die Tätigkeiten • las acciones • le attività",
+   "parts": [
+    "activities",
+    "les activités",
+    "die tätigkeiten",
+    "las acciones",
+    "le attività"
+   ],
+   "entries": [
+    {
+     "en": "wash (v)",
+     "fr": "laver",
+     "de": "spülen",
+     "es": "fregar",
+     "it": "lavare",
+     "_pos": [
+      252,
+      830
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clean (v)",
+     "fr": "nerroyer",
+     "de": "putzen",
+     "es": "limpiar",
+     "it": "pulire",
+     "_pos": [
+      38,
+      830
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wipe (v)",
+     "fr": "essuyer",
+     "de": "wischen",
+     "es": "trapear",
+     "it": "asciugare",
+     "_pos": [
+      466,
+      830
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scrub (v)",
+     "fr": "laver à la brosse",
+     "de": "schrubben",
+     "es": "restregar",
+     "it": "fregare",
+     "_pos": [
+      680,
+      830
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweep (v)",
+     "fr": "balayer",
+     "de": "fegen",
+     "es": "barrer",
+     "it": "spazzare",
+     "_pos": [
+      252,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dust (v)",
+     "fr": "épousseter",
+     "de": "Staub wischen",
+     "es": "sacudir",
+     "it": "spolverare",
+     "_pos": [
+      466,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "polish (v)",
+     "fr": "cirer",
+     "de": "polieren",
+     "es": "pulir",
+     "it": "lucidare",
+     "_pos": [
+      682,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scrape (v)",
+     "fr": "rader",
+     "de": "kratzen",
+     "es": "raspar",
+     "it": "raschiare",
+     "_pos": [
+      38,
+      1046
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "s j A",
+   "pos": [
+    680,
+    672
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "«atf",
+   "pos": [
+    817,
+    672
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 2,
+  "flagged": 19,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 2
+ }
+}

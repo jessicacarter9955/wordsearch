@@ -1,0 +1,559 @@
+====================================================================================================
+== p161 [lavoro] 27 voci, 13 flag, 1 mancanti, 2 leftover, header=W O R K • l.E T R A V A IL • DIE ARBEIT • E L T R A B A J O~
+-- G0 subcat: office I • le bureau I • das Büro 1 • la oficina 1 • l'ufficio 1
+   parts: office i • le bureau i • das büro • la oficina • l'ufficio
+-- G1 subcat: bureau
+   parts: bureau
+ 1.0  ⚠ office | le | ? | ? | ?   missing
+-- G2 subcat: • das Büro • la oficina • l'ufficio
+   parts: das büro • la oficina • l'ufficio
+ 2.0  ⚠ out-tray | la corbeille dép~ | die Ablage für A~ | la bandeja de sa~ | il vassoio m par~   it
+ 2.1  M file | le classeur | der Ordner | la carpeta | la cartellina   
+ 2.2  M in-tray | la corbeille arr~ | die Ablage für E~ | la bandeja de en~ | il vassoio in ar~   
+ 2.3  M desktop organizer | le porte-crayons | der Stifthalter | el portaplumas | il portapenne   
+ 2.4  M monitor | le moniteur | der Bildschirm | la pantalla | il monitor   
+ 2.5  M computer | l'ordinateur | der Computer | la com putadora | il computer   
+ 2.6  M keyboard | le clavier | die Tastatur | el teclado | la tastiera   
+ 2.7  M notebook | le carnet | das Notizbuch | el cuaderno | il blocco   
+ 2.8  M telephone | le téléphone | das Telefon | el teléfono | il telefono   
+ 2.9  M label | l'ctiqucttc | das Schild | la etiqueta | l'etichetta   
+ 2.10 M desk | le bureau | der Schreibtisch | el escritorio | la scrivania   
+ 2.11 ⚠ I drawer | le tiroir | die Schublade | el cajón | il cassetto   en
+ 2.12 M filing cabinet | le meuble-classe~ | der Aktenschrank | el archivero | lo schedario   
+ 2.13 M wastebasket | la corbeille à p~ | der Papierkorb | el bote de basura | il cestino   
+ 2.14 M drawer unit | le meuble à tiro~ | das Schreibtisch~ | la cajonera | la cassettiera   
+ 2.15 M swivel chair' | le chaise tourna~ | der Drehstuhl | la silla girator~ | la sedia girevole   
+ 2.16   enlarge (v) | agrandir | vergrößern | ampliar | ingrandire   
+ 2.17   print (v) | imprimer | drucken | imprimir | stampare   
+-- G3 subcat: office equipment • l'équipement de bureau • die Büroausstattung • el equipo de ~
+   parts: office equipment • l'équipement de bureau • die büroausstattung • el equipo de oficina • l'~
+ 3.0  M fax | le fax | das Fax | el fax | il fax   
+ 3.1  M paper tray | le magasin à pap~ | der Papierbehält~ | la bandeja para ~ | la contenitore p~   
+ 3.2  M paper guide | le guide | die Papierführung | la guía | la guida   
+ 3.3    reduce (v) | réduire | verkleinern | reducir | ridurre   
+ 3.4    copy (v) | photocopier | kopieren | fotocopiar | copiare   
+ 3.5  ⚠ 1 need to make s~ | l 'ai besoin de ~ | Ich möchte fotok~ | N ecesito sacar ~ | Devo fare delle ~   en es it
+ 3.6  M printer | l'imprimante | der Drucker | la impresora | la stampante   
+ 3.7  M fax machine | le fax | das Faxgerät | el fax | il fax   
+   LEFT "'" @[98, 500] (riga singola isolata)
+   LEFT '1' @[879, 858] (riga singola isolata)
+====================================================================================================
+== p162 [lavoro] 23 voci, 19 flag, 0 mancanti, 1 leftover, header=W O R K • L E T R AVA II • DIE ARBEIT • EL T R A B A J O • ~
+-- G0 subcat: office supplies • les fournitures de bureau • der Bürobedarf • la papelería • g~
+   parts: office supplies • les fournitures de bureau • der bürobedarf • la papelería • gli articoli
+ 0.0  M box file | le dossier-class~ | der Aktenordner | la caja archivad~ | la scatola d'arc~   
+ 0.1  ⚠ compliments slip | la fiche complim~ | der Empfehlungsz~ | la tarjeta m em ~ | il foglietto di ~   es
+ 0.2  ⚠ 1_UL letterhead | l'en-téte | der Geschäftsbog~ | el membrete | la carta intesta~   en
+ 0.3  M envelope | l'enveloppe | der Briefumschlag | el sobre | la busta   
+ 0.4  M divider | la fiche interca~ | der Teiler | el divisor | il divisore   
+ 0.5  M tab | l'étiquette | der Kartenreiter | el rótulo | l'etichetta   
+ 0.6  M binder file | le classeur à le~ | der Leitz-Ordner | la carpeta de ar~ | il raccoglitore ~   
+ 0.7  ⚠ accordion Tile | le porte dossiers | der Fächerordner | la carpeta de ac~ | il portacarte a ~   en
+ 0.8  M hanging file | le dossier suspe~ | der Hängeordner | el colgante | la cartella sosp~   
+ 0.9  M notepad | le bloc-notes | der Notizblock | la libreta | il blocco per ap~   
+ 0.10 M clipboard | le clipboard | das Klemmbrett | la labia con por~ | il portablocco c~   
+ 0.11 M ink pad | le tampon encreur | das Stempelkissen | el cojín de la t~ | il tampone di in~   
+ 0.12 M adhesive tape | le scotch | der Tesafilm | la cinta scotch | il nastro adesivo   
+ 0.13 M staples | les agrafes | die Klammem | las grapas | i punti   
+ 0.14 M rubber stamp | cachet | der Stempel | el sello | il timbro umido   
+ 0.15 M hole punch | le perforateur | der Locher | la perforadora | il perforatore   
+ 0.16 M tape dispenser | le dévidoir de s~ | der Tesafilmhalt~ | el portacinta | il dispenser   
+ 0.17 M stapler | l'agrafeuse | der Hefter | la engrapadora | la cucitrice   
+ 0.18 M personal organiz~ | l'agenda | der Terminkalend~ | la agenda | l'agenda   
+ 0.19 M thumbtack | la punaise | der Reißnagel | la chinche | la puntina   
+ 0.20 M bulldog clip | la pince à dessin | die Papierklammer | la pinza | la molletta   
+ 0.21 M rubber band | l'élastique | das Gummiband | la liga | l'elastico   
+ 0.22 M bulletin board | le panneau d' af~ | die Pinnward | el corcho | il tabellone   
+   LEFT 'di cancelleria' @[24, 100] (riga singola isolata)
+====================================================================================================
+== p163 [lavoro] 20 voci, 12 flag, 4 mancanti, 0 leftover, header=W O R K • LK T R A V A IL • DIE ARBEIT • I:L T R A B A J O ~
+-- G0 subcat: office 2 • le bureau 2 • das Büro 2 • la oficina 2 • l'ufficio 2
+   parts: office • le bureau • das büro • la oficina • l'ufficio
+ 0.0  ⚠ flipchart | le Tableau à feu~ | das Flipchart | el pizarrón | il poster scorre~   fr
+ 0.1  M ensel | le chevalet | das Gestell | el caballete | il cavalletto   
+ 0.2  M manager | le directeur | der Manager | el gerente | il direttore   
+ 0.3  M proposal | la proposition | das Angebot | la propuesta | la proposta   
+ 0.4  ⚠ minutes | I | das Protokoll | la minuta | il verbale   fr
+ 0.5  ⚠ 1m | « I | 'AW/D | ? | ?   de en fr missing slot-ambig
+        ALTS: [['en', 'fr', 'es'], ['en', 'fr', 'it'], ['en', 'de', 'es']]
+ 0.6  M report | le rapport | der Bericht | reporte | la relazione   
+ 0.7  M executive | le cadre | der leitende Ang~ | el ejecutivo | il dirigente   
+ 0.8  ⚠ — | î^'W T' 'A.4A | „ ,, V 1 | SHí | ?   de en es fr missing
+ 0.9  ⚠ ? | le compre rendu | n i | ? | ?   de missing slot-ambig
+        ALTS: [['fr', 'es'], ['fr', 'it']]
+ 0.10 M meeting | le réunion | die Sitzung | la junta | la riunione   
+ 0.11 M projector | le projecteur | der Projektor | el proyector | la lavagna lumin~   
+ 0.12 ⚠ speaker | le conférencier | der Sprecher | el orador | ?   missing
+ 0.13 M meeting room | la salle de conf~ | der Sitzungsraum | la sala de juntas | la sala da riuni~   
+ 0.14 M attend (v) | assister à | teilnehmen | asistir | partecipare   
+ 0.15 M agenda | l'ordre du jour | die Tagesordnung | orden del día | l'ordine del gio~   
+ 0.16 M chair (v) | présider | den Vorsitz lühr~ | presidir | presiedere   
+ 0.17 ⚠ W hat time is th~ | I.a conférence e~ | Um wie viel Uhr ~ | A qué hora es la~ | A che ora é la r~   de en es fr it
+ 0.18 ⚠ W hat are your o~ | Quelles sont vos~ | Was sind Ihre Ge~ | C u ál es su hor~ | Qual è il vostro~   de en es fr it
+ 0.19 M presentation | la présentation | die Präsentation | la presentación | la presentazione   
+====================================================================================================
+== p164 [lavoro] 23 voci, 12 flag, 2 mancanti, 0 leftover, header=W O R K • LH TRAVAIL • DIE ARBEIT • EL TRABAJO • IL LAVORO
+-- G0 subcat: business • les affaires • das Geschäft • los negocios • gli affari
+   parts: business • les affaires • das geschäft • los negocios • gli affari
+ 0.0  M businesswoman | la temine d'affa~ | die Geschäftsfrau | la mujer de nego~ | la donna rii aff~   
+ 0.1  ⚠ businessman | l'homme d' affai~ | der Geschäftsmann | el hombre de neg~ | l ' i i f i mnH ~   it
+ 0.2  ⚠ notes | les notes | die Notizen | las notas | ?   missing
+ 0.3  ⚠ laptop | le portable | der Laptop | el laptop | ?   missing
+ 0.4  M business trip | le voyage d' aff~ | die Geschäftsrei~ | el viaje de nego~ | il viaggio di af~   
+ 0.5  M business lunch | le déjeuner d'af~ | das Arbeitsessen | la com ida de ne~ | il pranzo di aff~   
+ 0.6  M appointment | le rendez-vous | der Termin | la cita | l'appuntamento   
+ 0.7  M managing director | le direcreur gên~ | der Generaldirek~ | el director gene~ | l'amministratore~   
+ 0.8  M palmtop computer | l'ordinateur de ~ | der Palmtop | la palm top | il palmtop   
+ 0.9  M business deal | le contrat | das Geschäftsabk~ | el trato | l'accordo di aff~   
+ 0.10 M date book | l'agenda | der Terminkalend~ | la agenda | l'agenda   
+ 0.11 M legal department | le service du co~ | die Rechtsabteil~ | el departamento ~ | l'ufficio legale   
+ 0.12 M accounting depar~ | la comptabilité | die Buchhaltung | el departamento ~ | l'ufficio contab~   
+ 0.13 M staff | le personnel | das Personal | el personal | il personale   
+ 0.14 M company | la société | die Firma | la empresa | la società   
+ 0.15 M customer service~ | le service apres~ | die Kundendienst~ | el departamento ~ | l'ufficio di ass~   
+ 0.16 ⚠ marketing depart~ | le service marke~ | die Marketingabt~ | el departamento ~ | l'ufficio market~   es
+ 0.17 M payroll | le livre de paie | die Lohnliste | la nómina | il libro paga   
+ 0.18 M head office | le siège social | die Zentrale | oficina central | la sede   
+ 0.19 M human resources ~ | le service de re~ | die Personalabte~ | el departamento ~ | l'ufficio del pe~   
+ 0.20 M sales department | le service des v~ | die Verkaufsabte~ | el departamento ~ | l'ufficio vendite   
+ 0.21 M salary | le salaire | das Gehalt | el sueldo | lo stipendio   
+ 0.22 M branch | la succursale | die Zweigstelle | la sucursal | la succursale   
+====================================================================================================
+== p165 [lavoro] 26 voci, 13 flag, 4 mancanti, 0 leftover, header=W O R K • I K T R AVA 11 • DIE ARBEIT • EL T R A B A JO • I~
+-- G0 subcat: com puter • l'ordinateur • der Computer • la computadora • il computer
+   parts: computer • l'ordinateur • der computer • la computadora • il computer
+ 0.0  M printer | l'imprimante | der Drucker | la impresora | la stampante   
+ 0.1  M monitor | le moniteur | der Monitor | el monitor | il monitor   
+ 0.2  M screen | écran | der Bildschirm | la pantalla | la çrhprmn   
+ 0.3  ⚠ CPU | Puniré cenrrale | die Zentraleinhe~ | la C P U . il CPU | ?   en es fr missing
+ 0.4  M scanner | le scanneur | der Scanner | el escáner | lo scanner   
+-- G1 subcat: o
+   parts: o
+ 1.0  ⚠ speaker « le hau~ | ? | der Lautsprecher | la bocina | l'altoparlante   en missing
+ 1.1  M mouse | la souris | die Maus | el ratón | il mouse   
+ 1.2  ⚠ ? | la touche | die Taste | la tecla | il tasto   missing
+ 1.3  ⚠ clavier | ? | die Tastatur | el teclado | la tastiera   missing
+ 1.4  M hardware | le matériel | die Hardware | el hardware | l'hardware   
+ 1.5  M memory | la mémoire | der Speicher | la memoria | la memoria   
+ 1.6  M server | le serveur | der Server | el servidor | il server   
+ 1.7  M software | le logiciel | die Software | el software | il software   
+ 1.8  M disk | le disque | die Diskette | el disquete | il dischetto   
+ 1.9  M laptop | le portable | der Laptop | el laptop | il computer port~   
+ 1.10 ⚠ RAM | la R A M | das RAM | el R A M | la RAM   en es fr it
+ 1.11 M application | l'application | die Anwendung | lu aplicación | l'applicazione   
+ 1.12 M port | le port | der Port | el puerto | la porta   
+ 1.13 M hard drive | le disque dur | das Festplattenl~ | el disco duro | l'hard drive   
+ 1.14 M bytes | les bytes | die Bytes | los bytes | i byte   
+ 1.15 M program | le programme | das Programm | programa | il programma   
+ 1.16 M power cable | le câble électri~ | das Strom kabel | el cable de alim~ | il cavo di alime~   
+ 1.17 M modem | le modem | das Modem | el módem | il modem   
+ 1.18 M system | le système | das System | el sistema | il sistema   
+ 1.19 M network | le réseau | das Netzwerk | la red | la rete   
+ 1.20 M processor | le processeur | der Prozessor | el procesador | il processare   
+====================================================================================================
+== p166 [lavoro] 30 voci, 25 flag, 3 mancanti, 1 leftover, header=WORK • LF. TRAVAIL • DIE ARBEIT • EL TRABAJO • IL LAVORO
+-- G0 subcat: desktop • ic bureau • das Desktop • el escritorio • il desktop
+   parts: desktop • ic bureau • das desktop • el escritorio • il desktop
+ 0.0  M font | la polite | die Schriftart | la fuente | il carattere   
+ 0.1  ⚠ nenubar | Li barre de menus | der Menübalken | la barra del m e~ | a barra del menu   es fr
+ 0.2  M file | le fichier | die Datei | el archivo | il file   
+ 0.3  ⚠ icon | Bicóne | das Symbol | el icono | l'icona   fr
+ 0.4  ⚠ toolbar | la barre d'outils | die »Verkzeuglei~ | la barra de herr~ | la barra degli s~   de
+ 0.5  M scrollbar | la barre de défi~ | der Scrollbalken | la barra de desp~ | la barra di scor~   
+ 0.6  M folder | le dossier | der Ordner | la carpeta | la cartella   
+ 0.7  M window | la fenêtre | das Fenster | la ventana | la finestra   
+ 0.8  M wallpaper | le papier peint | die Tapete | el fondo | lo sfondo   
+ 0.9  M trash | la poubelle | der Papierkorb | el basurero | il cestino   
+-- G1 subcat: email • le courrier électronique • die E-Mail
+   parts: email • le courrier électronique • die e-mail
+-- G2 subcat: Internet • Pinternet • das Internet • el internet
+   parts: internet • pinternet • das internet • el internet
+-- G3 subcat: • el correo electrónico • la posta elettronica
+   parts: el correo electrónico • la posta elettronica
+ 3.0  ⚠ Internet | ? | ? | ? | ?   en missing
+ 3.1  M browser | le navigateur | der Browser | el navegador | il browser   
+ 3.2  M email address | l'adresse de cou~ | die E-Mail-Adres~ | la dirección de ~ | l'indirizzo di p~   
+ 3.3  ⚠ DORLING K1NDERSL~ | BIRDSOFBRITAINAN~ | »rerwU~+m~ahi | ? | ?   de en fr missing slot-ambig
+        ALTS: [['en', 'fr', 'es'], ['en', 'fr', 'it'], ['en', 'de', 'es']]
+ 3.4  M inbox | la boîte de réce~ | die Inbox | la bandeja de en~ | la posta in arri~   
+ 3.5  M website | le sire web | die Web-Site | el sitio web | il sito web   
+ 3.6  ⚠ WORTH | DK BOOKS | ? | ? | ?   en fr missing slot-ambig
+        ALTS: [['en', 'de'], ['en', 'es'], ['en', 'it']]
+ 3.7  M browse (v) | naviguer | browsen | navegar | la navigazione   
+ 3.8    save (v) | sauvegarder | sichern | guardar | salvare   
+ 3.9    send (v) | envoyer | senden | enviar | spedire   
+ 3.10   download (v) | télécharger | herunterladen | bajar | scaricare   
+ 3.11 M log on (v) | entrer | einloggen | entrar en el sis~ | collegarsi   
+ 3.12 M service provider | le fournisseur d~ | der Serviceprovi~ | el proveedor de ~ | il fornitore di ~   
+ 3.13   connect (v) | connecter | verbinden | conectar | collegare   
+ 3.14   search (v) | chercher | suchen | buscar | cercare   
+ 3.15   receive (v) | recevoir | erhalten | recibir | ricevere   
+ 3.16 ⚠ attachment | le documenr atta~ | der Anhang | el documento adj~ | T'allegato   it
+ 3.17 M online | en ligne | online | en línea | in rete   
+ 3.18 M email account | le compte de cou~ | das E Mail-Konto | la cuenta de cor~ | l'account di pos~   
+ 3.19   install (v) | installer | installieren | instalar | installare   
+   LEFT 'C M U n i M t U 1' @[47, 799] (riga singola isolata)
+====================================================================================================
+== p167 [lavoro] 18 voci, 5 flag, 0 mancanti, 0 leftover, header=W O R K • I H T R A V A IL • DIE ARBEIT • E L T R A B A J O~
+-- G0 subcat: media • les médias • die Medien • los medios de comunicación • i mass media
+   parts: media • les médias • die medien • los medios de comunicación • i mass media
+-- G1 subcat: television studio • le studio de télévision • das Fernsehstudio • el estudio de~
+   parts: television studio • le studio de télévision • das fernsehstudio • el estudio de televisión ~
+ 1.0  M host | le présentateur | der Moderator | el presentador | il presentatore   
+ 1.1  M set | le plateau | die Studioeinric~ | el plato | il set   
+ 1.2  M light | l'éclairage | die Beleuchtung | el reflet-tor | la lampada   
+ 1.3  M camera | la caméra | die Kamera | la cámara | la telecamera   
+ 1.4  ⚠ I camera crane | la grue de caméra | der Kamerakran | la grúa de la cá~ | il carrello dell~   en
+ 1.5  ⚠ > cameraman | It cam eram an | der Kameramann | el camarógrafo | il cameraman   en fr
+ 1.6  M channel | la chaîne | der Kanal | el canal | il canale   
+ 1.7  M documentary | le documentaire | der Dokumentarfi~ | el documental | il documentano   
+ 1.8  M press | la presse | die Presse | la prensa | la stampa   
+ 1.9  M soap | le feuilleton | die Seifenoper | la telenovela | la telenovela   
+ 1.10 M cartoon | le dessin animé | der Zeichentrick~ | las caricaturas | il cartone anima~   
+ 1.11 M live | en direct | live | en directo | in diretta   
+ 1.12 M programming | la programmation | die Programmgest~ | la programación | la programmazione   
+ 1.13 M news | les nouvelles | die Nachrichten | el noticiario | il telegiornale   
+ 1.14 M television senes | la série télévis~ | die Fernsehserie | la serie televis~ | le serie televis~   
+ 1.15 M game show | le jeu télévisé | die Spielshow | el concurso | il gioco a premi   
+ 1.16 M prerecorded | en différé | vorher aufgezeic~ | pregrabado | in differita   
+ 1.17   broadcast (v) | émettre | senden | transmitir | trasmettere   
+====================================================================================================
+== p168 [lavoro] 21 voci, 14 flag, 2 mancanti, 2 leftover, header=W O R K • L L I R A V A IL • DIE ARBEIT • EL TRABAJO • IL L~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M anchor | la présentatrice | die Nachrichtens~ | la presentadora ~ | la presentatrice   
+ 0.1  M teleprompter | le télésouffleur | der Teleprompter | el teleprom pter | il gobbo   
+ 0.2  M reporter | la reporter | die Reporterin | la reportera | la cronista   
+ 0.3  M nterviewer | l'interviewer | der Interviewer | el entrevistador | l'intervistatore   
+ 0.4  M film set | le décor de ciné~ | das Set | el plato de roda~ | il set   
+ 0.5  ⚠ clapperboard | la claquette die~ | ? | la pizarra | il ciac   missing
+ 0.6  ⚠ sound boom | la perche | der Mikrophongal~ | el m icròfono de~ | la giraffa   es
+ 0.7  ⚠ actors »les acte~ | ? | die Schauspieler | los actores | gli attori   en missing
+ 0.8  M short wave | les ondes courtes | die Kurzwelle | la onda corta | l'onda corta   
+ 0.9  M radio station | la station de ra~ | die Rundfunkstat~ | la estación de r~ | il canale radiof~   
+-- G1 subcat: radio • la radio • das Radio • la radio • la radio
+   parts: radio • la radio • das radio • la radio • la radio
+ 1.0  M sound technician | l'ingénieur du s~ | der Tonmeister | el técnico de so~ | il tecnico del s~   
+ 1.1  M microphone | le microphone | das Mikrophon | el micrófono | il microfono   
+ 1.2  M medium wave | les ondes moyenn~ | die Mittelwelle | la onda media | l'onda media   
+ 1.3  ⚠ DJ | le D .J | der DJ | el DI | il DJ   en es fr it
+ 1.4  M frequency | la fréquence | die Frequenz | la frecuencia | la frequenza   
+ 1.5  M broadcast | l'émission | die Sendung | la transmisión | la trasmissione   
+ 1.6  M wavelength | la longueur d'on~ | die Wellenlänge | la longitud de o~ | la lunghezza d'o~   
+ 1.7  M volume | le volume | die Lautstärke | el volumen | il volume   
+ 1.8    tune (v) | régler | einstellen | sintonizar | sintonizzare   
+ 1.9  M long wave | les grandes ondes | die Langwelle | la onda larga | l'onda lunga   
+ 1.10 ⚠ recording studio | le studio d'enre~ | das Tonstudio | el «.‘studio de ~ | lo studio di reg~   es
+   LEFT 'm ixage' @[118, 644] (riga singola isolata)
+   LEFT 'mixannin' @[97, 693] (riga singola isolata)
+====================================================================================================
+== p169 [lavoro] 21 voci, 7 flag, 1 mancanti, 0 leftover, header=W O R K • I I T R A V A IL • DIE ARBEIT • E L T R A B A J O~
+-- G0 subcat: law • le droit • das Recht • el derecho • la legge
+   parts: law • le droit • das recht • el derecho • la legge
+ 0.0  M bailiff | l'huissier de tr~ | der Gerichtsdien~ | ei guardia | la guardia   
+ 0.1  ⚠ witness | le témoin | ? | ? | ?   missing slot-ambig
+        ALTS: [['en', 'it'], ['fr', 'it'], ['de', 'it']]
+ 0.2  M judge | le juge | der Richter | el juez | il giudice   
+ 0.3  M lawyer | l'avocat | der Rechtsanwalt | el abogado | l'avvocato   
+ 0.4  M jury | le jury | die Geschworenen | el jurado | la giuria   
+ 0.5  M jury box | le banc des jurés | die Geschworenen~ | la tribuna del j~ | il banco della g~   
+ 0.6  M courtroom | la salle de trib~ | der Gerichtssaal | la sala del trib~ | l'aula del tribu~   
+ 0.7  ⚠ prosecution | l'accusation! | die Staatsanwalt~ | la acusación | il pubblico mini~   fr
+ 0.8  M court officiai | le greffier | der Protokollfüh~ | el auditor | il cancelliere   
+ 0.9  M lawyer's office | le cabinet | das Anwaltsbüro | el bufete | lo studio dell'a~   
+ 0.10 M summons | l'assignation | die Vorladung | la citación | la citazione   
+ 0.11 ⚠ w nt | l'acte judiciaire | die Verfügung | la orden judicial | l'ordine   en
+ 0.12 M court case | la cause | der Rechtsfall | el juicio | il procedimento   
+ 0.13 M legal advice | le conseil jurid~ | die Rechtsberatu~ | la asesoría luri~ | la consulenza le~   
+ 0.14 M statement | la déposition | die Aussage | la declaración | la dichiarazione   
+ 0.15 M court date | la date du procès | der Gerichtsterm~ | la fecha del jui~ | la data di compa~   
+ 0.16 M charge | l'accusation | die Anklage | el cargo | l'imputazione   
+ 0.17 M client | le client | der Klient | el cliente | il cliente   
+ 0.18 M warrant | le mandat | der Haftbefehl | la orden judicial | il mandato   
+ 0.19 M plea | le plaidoyer | das Plädoyer | cóm o se declara~ | la petizione   
+ 0.20 M accused | l'accusé | der Angeklagte | el acusado | l'accusato   
+====================================================================================================
+== p170 [lavoro] 24 voci, 12 flag, 2 mancanti, 1 leftover, header=W O R K • LE T R A V A IL • DIE ARBEIT • El. T R A B A JO •~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M criminal | le criminel | der Straftäter | el criminal | il criminale   
+ 0.1  M court reporter | le scénographe | der Gerichtssten~ | la taquígrafa | lo stenografo   
+ 0.2  M suspect | le suspect | der Verdächtige | el sospechoso | la persona sospe~   
+ 0.3  ⚠ — | — | ? | « T | ?   en es fr missing
+-- G1 subcat: n WT — íft ftl i«
+   parts: n wt — íft ftl i«
+ 1.0  M defense | la défense | die Verteidigung | la defensa | la difesa   
+ 1.1  ⚠ ? | W M SZ-srSz | ? | ? | ?   fr missing
+-- G2 subcat: l e
+   parts: l e
+ 2.0  ⚠ SäNfcÄÄÄflCX A Ä~ | le casier indici~ | das Strafregister | los antecedentes | la fedina penale   en
+ 2.1  ⚠ facial composite | le portrait robot | das Phantombild | el retrato habla~ | I fotofit   it
+ 2.2  M defendant | l'accusé | der Angeklagte | el | l'imputato   
+ 2.3  M prison | la prison | das Gefängnis | la cárcel | il carcere   
+ 2.4  M cell | la cellule | die Gefängniszel~ | la celda | la cella   
+ 2.5  M prison guard | le gardien de pr~ | der Gefängniswär~ | el celador | la guardia carce~   
+ 2.6  ⚠ 1 want to see a ~ | Je voudrais voir~ | Ich möchte mit e~ | Quier overa un a~ | Voglio vedere un~   en es fr it
+ 2.7  M bail | la caution | die Kaution | la fianza | la cauzione   
+ 2.8    guilty | coupable | schuldig | culpable | colpevole   
+ 2.9  M evidence | la preuve | das Beweismittel | la evidencia | la prova   
+ 2.10 ⚠ W here is the co~ | Où est le palais~ | Wo ist das Geric~ | D ónde está el j~ | Dov'è il palazzo~   de en es fr it
+ 2.11 M appeal | l'appel | die Berufung | la apelación | il ricorso   
+ 2.12   acquitted | acquitté | freigesprochen | absuelto | assolto   
+ 2.13 M verdict | le verdict | das Urteil | ei veredicto | il verdetto   
+ 2.14 ⚠ O n 1 post bail? | Est-ce que je pe~ | Kann ich die Kau~ | Puedo pagar la f~ | Posso versare un~   de en es fr it
+ 2.15 M parole | la liberté condi~ | die Haftentlassu~ | la libertad cond~ | la libertà per b~   
+ 2.16 M sentence | la condamnation | das Strafmaß | la sentencia | la sentenza   
+ 2.17   innocent | innocent | unschuldig | inocente | innocente   
+   LEFT 't t k I » * " l I» I M 4' @[831, 173] (riga singola isolata)
+====================================================================================================
+== p171 [lavoro] 16 voci, 10 flag, 1 mancanti, 2 leftover, header=WORK • l,E TRAVAIL • DIE ARBEIT • EL TRABAIO • IL LAVORO
+-- G0 subcat: farm I • la ferme 1 • der Bauernhof 1 • la granja 1 • la fattoria 1
+   parts: far mi • la ferme • der bauernhof • la granja • la fattoria
+ 0.0  ⚠ farmland | les terres culti~ | das Ackerland | las tierras J e ~ | il terreno aarie~   es
+ 0.1  M farmyard | la cour de terme | der Hof | el corral | l'aia   
+ 0.2  M outbuilding | la dependence | das Nebengebäude | el cobertizo | il capanno   
+ 0.3  M farmhouse | la maison d' hab~ | das Bauernhaus | la casa de labra~ | il casolare   
+ 0.4  M field | le champ | das Feld | el campo | il campo   
+ 0.5  M farmer | le fermier | der Bauer | el granjero | l'agricoltore   
+ 0.6  M barn | la grange | die Scheune | el granero | il granaio   
+ 0.7  ⚠ vegetable garden | le potager | der Gemüsegarten | el huerto | Corto   it
+ 0.8  M hedge | la haie | die Hecke | el seto | la siepe   
+ 0.9  M fence | la clôture | der Zaun | la cerca | il recinto   
+ 0.10 M pasture | le prc | die Weide | el pasto | il pascolo   
+ 0.11 M livestock | les bestiaux | das Vieh | el ganado | il bestiame   
+ 0.12 ⚠ ? | ? | das Tor | la puerta | il cancello   missing
+ 0.13 M cultivator | le cultivateur | der Kultivator | el cultivador | l'aratro   
+ 0.14 M tractor | le tracteur | der Traktor | et tractor | il trattore   
+ 0.15 M combine | la moissonneuse-~ | der Mähdrescher | la cosechadora | la mietitrebbia   
+   LEFT 'f' @[722, 203] (riga singola isolata)
+   LEFT 'arrière' @[344, 711] (riga singola isolata)
+====================================================================================================
+== p172 [lavoro] 24 voci, 18 flag, 2 mancanti, 0 leftover, header=W O R K • L E T R A V A IL • DIE ARBEIT • E L T R A B A J O~
+-- G0 subcat: types of farms • les exploitations agricoles • die landwirtschaftlichen Betrieb~
+   parts: types of farms • les exploitations agricoles • die landwirtschaftlichen betriebe • los tipo~
+ 0.0  M flock | le troupeau | die Herde | e rebaño | il gregge   
+ 0.1  ⚠ crop | la culture | die Feldfrucht | la cosecha | ?   missing
+ 0.2  M poultry farm | la ferme d'avicu~ | die Hühnerfarm | la granja avícola | l'azienda avicola   
+ 0.3  M sheep farm | la ferme d'éleva~ | die Schaffarm | la granja de gan~ | l'allevamento di~   
+ 0.4  M dairy farm | la ferme laitière | der Betrieb für ~ | la vaquería | il caseificio   
+ 0.5  M crop farm | la ferme de cult~ | der Ackerbaubetr~ | la granja de tie~ | l'azienda agrico~   
+ 0.6  ⚠ vine | la vigne | der Wem | ? | ?   missing
+ 0.7  M vineyard | la vigne | der Weinberg | el viñedo | il vigneto   
+ 0.8  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['fruit farm', "l'exploitation fruitière", 'der Obstanbau', 'la granja dt', 'frutales', "l'azienda ortofrutticola"]
+ 0.9  M fish farm | le centre de pis~ | die Fischzucht | el criadero de p~ | il vivaio ittico   
+ 0.10 M pg farm | la ferme d'éleva~ | die Schweinefarm | la granja de gan~ | l'allevamento di~   
+-- G1 subcat: actions • les activités • die Tätigkeiten • las actividades • le attività
+   parts: actions • les activités • die tätigkeiten • las actividades • le attività
+ 1.0  M furrow | le sillon | die Furche | el surco | solco   
+ 1.1  M feed (v) | donner à manger | futtern | alimentar | dar da mangiare   
+ 1.2    milk (v) | traire | melken | ordeñar | mungere   
+ 1.3    sow (v) | semer | säen | sembrar | seminare   
+ 1.4  M plow (v) | labourer | pflügen | arar | am re   
+ 1.5  M trough | l'auge | der Trog | el comedero | la mangiatoia   
+ 1.6  M herd | le troupeau | die Herde | la manada | la mandria   
+ 1.7  M herbicide | l'herbicide | das Herbizid | el herbicida | l'erbicida   
+ 1.8    plant (v) | planter | pflanzen | plantar | piantare   
+ 1.9  M silo | le silo | der Silo | el silo | il silos   
+ 1.10 M pesticide | le pesticide | das Pestizid | el pesticida | il pesticida   
+ 1.11   harvest (v) | récolter | ernten | recolectar | raccogliere   
+ 1.12   water (v) | arroser | bewässern | regar | irrigare   
+====================================================================================================
+== p173 [lavoro] 13 voci, 13 flag, 1 mancanti, 0 leftover, header=W O R K • L F T R AVAII. • DIE ARBEIT • E L T R A B A JO * ~
+-- G0 subcat: farm 2 • la ferme 2 • der Bauernhof 2 • la granja 2 • la fattoria 2 crops • Ics~
+   parts: farm • la ferme • der bauernhof • la granja • la fattoria 2 crops • ics cultures • die feld~
+ 0.0  M wheat | le blé | der Weizen | el trigo | il grano   
+ 0.1  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['corn', 'le mais', 'der Mais', 'él m aíz', 'il granturco baie', 'la balle', 'der Ballen', 'b paca', 'la balia']
+ 0.2  M sunflower | le rournesnl | die Sonnenblume | el girasol | il girasole   
+ 0.3  M hay | le foin | das Heu | el heno | il fieno   
+ 0.4  ⚠ alfalfa | la luzerne | die Luzerne | b alfalfa - I'al~ | ?   es missing
+ 0.5  M tobacco | le rabac | der Tabak | el tabaco | il tabacco   
+ 0.6  M rice | le riz | der Reis | el arroz | il riso   
+ 0.7  M tea | le thé | der Tee | el té | il té   
+ 0.8  M coffee | le café | der Kaffee | el café | il caffè   
+ 0.9  M flax | le lin | der Flachs | el lino | il lino   
+ 0.10 M sugarcane | canne à sucre | das Zuckerrohr | la caña de azúcar | la canna da zucc~   
+ 0.11 M cotton | le coton | die Baumwolle | el algodón | il cotone   
+ 0.12 M scarecrow | l'épouvantail | die Vogelscheuche | el espantapájaros | lu spaventapasse~   
+====================================================================================================
+== p174 [lavoro] 20 voci, 17 flag, 0 mancanti, 0 leftover, header=WORK • LE PRAVA 11 • DIE ARBEIT • EL TRABAJO • IL LAVORO
+-- G0 subcat: livestock • le bétail • das Vieh • el ganado • ¡I bestiame
+   parts: livestock • le bétail • das vieh • el ganado • i bestiame
+ 0.0  M piglet | le porcelet | das Ferkel | el chanchito | il maialino   
+ 0.1  M calf | le veau | das Kalb | el tem erò | il vitello   
+ 0.2  M bull | le taureau | der Stier | el toro | il toro   
+ 0.3  M sheep | le mouton | das Schaf | la oveja | la pecora   
+ 0.4  M cow | la vache | die Kuh | la vaca | la mucca   
+ 0.5  M pig | le cochon | das Schwein | el puerco | il maiale   
+ 0.6  M kid | le chevreau | das Zicklein | el cabrito | il capretto   
+ 0.7  M horse | le chevai | das Pferd | el caballo | il cavallo   
+ 0.8  M donkey | l'âne | der Esel | el burro | l'asino   
+ 0.9  M goat | la chcv re | die Ziege | la cabra | la capra   
+ 0.10 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['iamb', "l'agneau", 'das Lamm', 'el cordero', "l'agnello chick", 'le poussin', 'das Küken', 'el pollito', 'il pulcino']
+ 0.11 M duckling | le caneton | das Entenküken | el patito | l'anatroccolo   
+ 0.12 M duck | le canard | die Ente | el pato | l'anatra   
+ 0.13 M turkey | le dindon | der Truthahn | el guajolote | il tacchino   
+ 0.14 M rooster | le coq | der Hahn | el gallo | il gallo   
+ 0.15 M chicleen | le poulet | das Huhn | la gallina | la gallina   
+ 0.16 M pigsty | la porcherie | der Schweinestall | el chiquero | il porcile   
+ 0.17 M chicken coop | le poulailler | der Hühnerstall | el gallinero | il pollaio   
+ 0.18 M pen | l'enclos | der Pferch | el redil | il recinto   
+ 0.19 M stable | l'écurie | der Stall | el establo | la stalla   
+====================================================================================================
+== p175 [lavoro] 19 voci, 12 flag, 3 mancanti, 3 leftover, header=W O R K • L E T R A V A IL • DIE ARBEIT • FT. T R A B A J O~
+-- G0 subcat: construction • la construction • der Bau • la construcción • l'edilizia
+   parts: construction • la construction • der bau • la construcción • l'edilizia
+ 0.0  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['rafter', 'le', 'chevron', 'der Dachsparren', 'la viga del tejado', 'la trave']
+ 0.1  M window | la fenêtre | das Fenster | la ventana | la finestra   
+ 0.2  M ladder | l'échelle | die Leiter | la escalera | la scala   
+ 0.3  M pallet | la palette | die Palette | la tan ma | il pallet   
+ 0.4  ⚠ scaffolding | l'échafaudage da~ | cl andam io | ? | l'im palcatura   missing
+ 0.5  ⚠ IjL iO i | fri | Si | ? | ?   en missing slot-ambig
+        ALTS: [['en', 'fr', 'es'], ['en', 'fr', 'it'], ['en', 'de', 'es']]
+ 0.6  ⚠ ? | ? l | mm' | ? | ?   fr missing slot-ambig
+        ALTS: [['en', 'fr', 'es'], ['en', 'fr', 'it'], ['en', 'de', 'es']]
+-- G1 subcat: i n i F
+   parts: i n i f
+ 1.0  M construction site | le chantier | die Baustelle | la obra | il cantiere   
+ 1.1  M wall | le mur | die Mauer | la pared | il muro   
+ 1.2  M lintel | le linteau | der Sturz | el dintel | l'architrave   
+ 1.3  M forklift | le chariot de le~ | der Gabelstapler | el montacargas | il carrello elev~   
+ 1.4  M beam | la poutre | der Balken | la viga de madera | lo trave   
+ 1.5  M toolbeit | la ceinrure à ou~ | der Werkzeuggürt~ | el cinturón de l~ | la cintura per g~   
+ 1.6  M hard hai | le casque de séc~ | der Schutzhelm | el casco | il casco   
+ 1.7  M girder | la poutre | der Träger | la viga de acero | la trave   
+ 1.8  M cement | le ciment | der Zement | el cemento | il cemento   
+ 1.9  ⚠ cernent mixer | la bétonnière | die Betonmischma~ | la mezcladora de~ | la betonier«!   it
+ 1.10 M construction wor~ | le maçon | der Bauarbeiter | el albañil | il muratore   
+ 1.11   build (v) | construire | bauen | construir | costruire   
+   LEFT 'Il' @[180, 364] (riga singola isolata)
+   LEFT "' »" @[213, 370] (riga singola isolata)
+   LEFT '2:' @[214, 423] (riga singola isolata)
+====================================================================================================
+== p176 [lavoro] 23 voci, 21 flag, 6 mancanti, 0 leftover, header=W O R K • I I T R A V A I I • DIE ARBEIT • E L T R A B A J ~
+-- G0 subcat: materials • les m atériaux • das Material • los m ateriales • i materiali
+   parts: materials • les matériaux • das material • los materia les • i materiali
+ 0.0  M cinder block | le bloc de béton | der Betonblock | el bloque de hor~ | il blocco di cal~   
+ 0.1  ⚠ roof tile | la tuile « der D~ | ? | la teja | la tegola   fr missing
+ 0.2  M timber | le bois | das Bauholz | la madera | il legno   
+ 0.3  ⚠ oriek | la brique | der Ziegelstein | el ladrillo | '! mattone   it
+-- G1 subcat: tools • les outils • die Werkzeuge • las herram ientas • gli attrezzi
+   parts: tools • les outils • die werkzeuge • las herram ientas • gli attrezzi
+ 1.0  ⚠ mortar | le mortier | 1er Mörtel | la argamasa | la malta   de
+ 1.1  M handle | le manche | der Stiel | el mango | il manico   
+ 1.2  M sledgehammer | le marteau de fo~ | der Vorschlagham~ | el mazo | la mazza   
+ 1.3  ⚠ pickax - la pioc~ | ? | die Spitzhacke | el zapapico | il piccone   en missing
+ 1.4  M shovel | la pelle | die Schaufel | la pala | la pala   
+ 1.5  M spirit level | le niveau à bulle | die Wasserwaage | el nivel | la livella   
+ 1.6  M trowel | la truelle | die Kelle | la paleta | la cazzuola   
+ 1.7  ⚠ roadwork | les travaux » di~ | ? | ? | ?   fr missing
+-- G2 subcat: machinery • les machines • die Maschinen
+   parts: machinery • les machines • die maschinen
+-- G3 subcat: • las obras viales • i lavori stradali
+   parts: las obras viales • i lavori stradali
+-- G4 subcat: • la m aquinaria • i macchinari
+   parts: la m aquinaria • i macchinari
+ 4.0  M tarmac | le macadam goudr~ | der Asphalt | el asfalto | il catrame   
+ 4.1  M cone | le cône | der Leitkegel | el cono | il birillo   
+ 4.2  M dump truck | le tombereau | der Kipper | el camión de vol~ | il camion con ca~   
+ 4.3  M steam roller | le rouleau compr~ | die Walze | la aplanadora | il rullo compres~   
+ 4.4  ⚠ support | le support | die Stütze | el | ?   missing
+ 4.5  ⚠ ? | fII j ' resurfac~ | der Neubelag | el revestimiento~ | la riasfalta tura   fr wrap wrap-ambig
+        ALTS: [{'en': '■ fII', 'fr': "j ' resurfacing le revêtement", 'de': 'der Neubelag', 'es': 'el revestim iento pola mecánica', 'it': 'la riasfalta tura'}, {'en': '■ fII j', 'fr': "' resurfacing le revêtement", 'de': 'der Neubelag', 'es': 'el revestim iento pola mecánica', 'it': 'la riasfalta tura'}]
+ 4.6  ⚠ pneumatic drill | le m arteau-piqu~ | der Pressluftboh~ | el martillo neum~ | il martello pneu~   fr
+ 4.7  ⚠ mechanical digger | la pelle mécaniq~ | der Bagger | la | ?   missing
+ 4.8  M hook | le crochet | der Haken | el gancho | il gancio   
+ 4.9  ⚠ ? | l'escavatrice me~ | ? | ? | ?   missing
+ 4.10 M crane | la grue | der Kran | la grúa | la gru   
+====================================================================================================
+== p177 [lavoro] 17 voci, 16 flag, 1 mancanti, 0 leftover, header=W O R K ♦ LI-: T R A V A IL • DIE ARBEIT • E L T R A B A J ~
+-- G0 subcat: occupations I • les professions 1 • die Berufe 1 • los profesiones 1 • i mestie~
+   parts: occupation si • les professions • die berufe • los profesiones • i mestieri
+ 0.0  M construction wor~ | le maçon | der Bauhandvverk~ | el albañil | il muratore   
+ 0.1  M carpenter | le menuisier | der Schreiner | el carpintero | il falegname   
+ 0.2  ⚠ electrician | Lélectricien | der Elektriker | el electricista | l'elettricista   fr
+ 0.3  M plumber | le plombier | der Klempner | el plomero | l'idraulico   
+ 0.4  ⚠ vacuum cleaner | Laspi raten r | der Staubsauger | la aspiradora | l'aspirapolvere   fr
+ 0.5  M butcher | le boucher | der Metzger | el carnicero | il macellaio   
+ 0.6  M gardener | le jardinier | der Gärtner | el jardinero | il giardiniere   
+ 0.7  M cleaner | le nettoyeur | der Gebäudereini~ | el empicado de l~ | l'addetto alle   
+ 0.8  M mechanic | le mécanicien | der Mechaniker | el mecánico | il meccanico   
+ 0.9  M scissors | les ciseaux | die Schere | las tijeras | le forbici   
+ 0.10 M greengrocer | le marchand de l~ | der Gemüsehändler | el frutero | il fruttivendolo   
+ 0.11 M florist | la fleuriste | die Floristin | la florista | la fioraia   
+ 0.12 M fishmonger | la marchande de ~ | die Fischhändleri | la pescadera | la pescivcndola   
+ 0.13 ⚠ hairdresser | le coiffeur | der Friseur » el~ | ? | il parrucchiere   de missing
+ 0.14 M jeweler | le bijoutier | der Juwelier | el joyero | il gioielliere   
+ 0.15 M sales assistant | l'employée de ma~ | die Verkäuferin | la vendedora | la commessa   
+ 0.16 M barber | le coiffeur | der Friseur | el peluquero | il barbiere   
+====================================================================================================
+== p178 [lavoro] 17 voci, 16 flag, 0 mancanti, 2 leftover, header=W O R K • I F T R A V A IL • DIE ARBEIT • E L T R A B A J O~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M dentist | la dentiste | die Zahnärztin | la dentista | la dentista   
+ 0.1  M doctor | le docteur | der Arzt | el médico | il medico   
+ 0.2  ⚠ optician | l'opticien | der Optiker | el optom etrist« | l'ottico   es
+ 0.3  M estate agent | l'agent immobili~ | die Immobilienma~ | la agente inmobi~ | l'agente immobil~   
+ 0.4  M farmer | le fermier | der Bauer | el agricultor | l'agricoltore   
+ 0.5  M vet | la vétérinaire | die Tierarztin | la veterinaria | la veterinaria   
+ 0.6  M nurse | l'infirmière | die Krankenschwe~ | la enfermera | l'infermiera   
+ 0.7  M pharmacist | la pharmacienne | die Apothekerin | la farmacéutica | la farmacista   
+ 0.8  M identity card | le badge | das Abzeichen | la placa de iden~ | il distintivo   
+-- G1 subcat: r
+   parts: r
+ 1.0  M security guard | le garde | der Wächter | el guardia de se~ | la guardia di si~   
+ 1.1  M fisherman | le pêcheur | der Fischer | el pescador | il pescatore   
+ 1.2  M uniform | l'uniforme | die Uniform | el uniforme | la divisa   
+ 1.3  M machine gun | la mirra i lieuse | das Maschinen ge~ | la metralleta | la mitragliatrice   
+ 1.4  M fireman | le pompier | der Feuerwehrmann | el bombero | il vigile del fu~   
+ 1.5  M policeman | le policier | der Polizist | el policía | il poliziotto   
+ 1.6  M soldier | le soldat | der Soldat | el soldado | il soldato   
+ 1.7  M sailor | le marin | der Seemann | el marino | il marinaio   
+   LEFT 'mask' @[613, 76] (riga singola isolata)
+   LEFT 'w' @[814, 776] (riga singola isolata)
+====================================================================================================
+== p179 [lavoro] 18 voci, 17 flag, 1 mancanti, 0 leftover, header=W O R K . L E T R A V A IL • DIE ARBEIT ♦ E L T R A B A J O~
+-- G0 subcat: occupations 2 • les professions 2 • die Berufe 2 • las profesiones 2 • i mestie~
+   parts: occupations • les professions • die berufe • las profesiones • i mestieri
+ 0.0  M model | la maquerre | das Modell | la maqueta | il modello   
+ 0.1  M lawyer | l'avocat | der Rechtsanwalt | el ahogado | l'avvocato   
+ 0.2  M accountant | le comptable | der Wirtschaftsp~ | el contador | il commercialista   
+ 0.3  M architect | l'architecte | der Architekt | el arquitecto | l'architetto   
+-- G1 subcat: »
+   parts: »
+ 1.0  M scientist | le scientifique | der Wissenschaft~ | el cien tífico | la scienziato   
+ 1.1  M teacher | l'institutrice | die Lehrerin | la maestra | l'insegnante   
+ 1.2  M librarian | le bibliothécaire | der Bibliothekar | el bibliotecario | il bibliotecario   
+ 1.3  M receptionist | la réceptionniste | die Empfangsdame | la recepcionista | l'addetta alla r~   
+ 1.4  M mailbag | le sac postal | die Posttasche | la cartera | la borsa   
+ 1.5  M mail earner | le facteur | der Briefträger | el cartero | il postino   
+ 1.6  M bus driver | le conducteur de~ | der Busfahrer | el chófer | l'autista   
+ 1.7  M truck driver | le camionneur | der Lastwagenfah~ | el chófer | il camionista   
+ 1.8  M taxi driver | le chauffeur de ~ | der Taxifahrer | el taxista | il tassista   
+ 1.9  ⚠ ? | la toque | die Kochmütze | el gorro de coci~ | il cappello   missing
+ 1.10 M pilot | le pilote | der Pilot | el piloto | il pilota   
+ 1.11 M flight attendant | l'hôtesse de l'a~ | die Flugbegleite~ | la sobrecargo | l'assistente di ~   
+ 1.12 M travel agent | l'agcnr de voyag~ | die Reisebürokau~ | la agente de via~ | l'agente di viag~   
+ 1.13 M chef | le chef | der Koch | el chef | il cuoco   
+====================================================================================================
+== p180 [lavoro] 17 voci, 17 flag, 1 mancanti, 0 leftover, header=W O R K • LH T R A V A IL • DIE ARBEIT • E L T R A B A J O ~
+-- G0 subcat: (nessuna)
+ 0.0  M actor | le comédien | der Schauspieler | el actor | l'attore   
+ 0.1  M singer | la chanteuse | die Sängerin | la cantante | la cantante   
+ 0.2  M dancer | la danseuse | die Tänzerin | la bailarina | lu ballerina   
+ 0.3  M musician | le musicien | der Musiker | el músico | il musicista   
+ 0.4  M sportsman | le sportif | der Sportler | el deportista | l'atleta   
+ 0.5  M sculptor | le sculpteur | der Bildhauer | el escultor | lo scultore   
+ 0.6  M barman | le barman | der Barkeeper | el bar man | il barista   
+ 0.7  M waitress | la serveuse | die Kellnerin | la mesera | a cameriera   
+ 0.8  ⚠ notes | les notes | die Notizen | ? | ?   missing
+ 0.9  M photographer | le photographe | der Fotograf | el fotógrafo | il fotografo   
+ 0.10 M journalist | le journaliste | der Journalist | el periodista | il giornalista   
+ 0.11 M anchor | le présentateur | der Nachrichtens~ | el presentador | l'annunciatore   
+ 0.12 M painter | la peintre | die Malerin | la pintora | la pittrice   
+ 0.13 M tailor | le couturier | der Schneider | el sastre | il sarto   
+ 0.14 M seamstress | la couturière | die Damenschneid~ | la modista | la costumista   
+ 0.15 M designer | la dessinatrice | die Designerà | la diseñadora | la disegnatrice   
+ 0.16 M editor | la rédactrice | die Redakteurin | la redactora | la redattrice   
+====================================================================================================
+== p181 [lavoro] PAGINA DIVISORIA / SENZA VOCI

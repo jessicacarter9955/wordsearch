@@ -1,0 +1,479 @@
+{
+ "page": 73,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "laboratorio",
+   "names": {
+    "en": "workshop",
+    "fr": "l'atelier",
+    "de": "die heimwerkstatt",
+    "es": "el taller",
+    "it": "il laboratorio"
+   },
+   "entries": [
+    {
+     "en": "chuck",
+     "fr": "mandrin",
+     "de": "Bohrfutter",
+     "es": "cabezal",
+     "it": "mandrino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "drill bit",
+     "fr": "mèche",
+     "de": "Bohrer",
+     "es": "broca",
+     "it": "punta",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "battery pack",
+     "fr": "pile",
+     "de": "Batterie",
+     "es": "batería",
+     "it": "batteria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 4,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "jigsaw",
+     "fr": "scie sauteuse",
+     "de": "Stichsage",
+     "es": "sierra de vaivén",
+     "it": "sega da traforo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 9,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "rechargeable dnll",
+     "fr": "perceuse rechargeable",
+     "de": "Bohrer mit Batteriebetrieb",
+     "es": "taladro inalámbrico",
+     "it": "trapano ricaricabilt",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 20,
+      "de": 24,
+      "es": 18,
+      "it": 19
+     }
+    },
+    {
+     "en": "electric drill",
+     "fr": "perceuse électrique",
+     "de": "Elektrobohrer",
+     "es": "taladro eléctrico",
+     "it": "trapano elettrico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 13,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "glue gun",
+     "fr": "pistolet à colle",
+     "de": "Leimpistole",
+     "es": "pistola para encolar",
+     "it": "pistola per colla",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 11,
+      "es": 18,
+      "it": 15
+     }
+    },
+    {
+     "en": "clamp",
+     "fr": "serre-joint",
+     "de": "Zwinge",
+     "es": "abrazadera",
+     "it": "morsetto",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 6,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "biade",
+     "fr": "lame",
+     "de": "Blatt cuchilla",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 13
+     }
+    },
+    {
+     "en": "vise",
+     "fr": "étau",
+     "de": "Schraubstock",
+     "es": "tornillo de banco",
+     "it": "morsa",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 12,
+      "es": 15,
+      "it": 5
+     }
+    },
+    {
+     "en": "sander",
+     "fr": "ponceuse",
+     "de": "Schleifmaschine",
+     "es": "lijadura",
+     "it": "levigatrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 15,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "circular saw",
+     "fr": "scie circulaire",
+     "de": "Kreissäge",
+     "es": ".sierra circular",
+     "it": "sega circolare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 9,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "workbench",
+     "fr": "établi",
+     "de": "Werkbank",
+     "es": "banco de trabajo",
+     "it": "banco da lavoro",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 8,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "wood glue",
+     "fr": "colle à bois",
+     "de": "Holzleim",
+     "es": "pegamento tie carpintero",
+     "it": "colla da legno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 22,
+      "it": 12
+     }
+    },
+    {
+     "en": "tool rack",
+     "fr": "porte-outils",
+     "de": "Werkzeuggestell",
+     "es": "organizador de las herram ientas",
+     "it": "rastrelliera per gli arnesi",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 15,
+      "es": 28,
+      "it": 24
+     }
+    },
+    {
+     "en": "router",
+     "fr": "guimbarde",
+     "de": "Grundhobel",
+     "es": "guimbarda",
+     "it": "contnrmtrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 10,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "bit brace",
+     "fr": "vilebrequin",
+     "de": "Bohrwinde",
+     "es": "taladro manual",
+     "it": "girabacchino",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 9,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "wood shavings",
+     "fr": "copeaux",
+     "de": "Holzspäne",
+     "es": "virutas de madera",
+     "it": "trucioli",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 9,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "extension cord",
+     "fr": "prolongateur",
+     "de": "Verlängerungsschnur",
+     "es": "extensión",
+     "it": "prolunga",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 19,
+      "es": 9,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,297 @@
+{
+ "page": 82,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "cactus",
+     "fr": "cactus",
+     "de": "Kaktus",
+     "es": "cactus",
+     "it": "cactus",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "succulent",
+     "fr": "piante grasse",
+     "de": "Fettpflanze",
+     "es": "pianta suculenta",
+     "it": "pianta grassa",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 11,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "alpine",
+     "fr": "plance alpestre",
+     "de": "Alpenpflanze",
+     "es": "pianta alpestre",
+     "it": "piante da roccia",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 12,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "topiary",
+     "fr": "topiairc",
+     "de": "Formschnitt",
+     "es": "plantas podadas con form as",
+     "it": "arte topiaria",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "las",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 11,
+      "es": 23,
+      "it": 12
+     }
+    },
+    {
+     "en": "shade plant",
+     "fr": "plante d' ombre",
+     "de": "Schattenpflanze",
+     "es": "planta de",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 15,
+      "es": 8
+     }
+    },
+    {
+     "en": "potted plant",
+     "fr": "plante en pot",
+     "de": "Topfpflanze",
+     "es": "planta de maceta",
+     "it": "pianta cia vaso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "climber",
+     "fr": "plante grimpante",
+     "de": "Kletterpflanze",
+     "es": "pianta trepadora",
+     "it": "pianta rampicante",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 14,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "flowering shrub",
+     "fr": "arbuste à fleurs",
+     "de": "Zierstrauch",
+     "es": "arbusto de flor",
+     "it": "i3 pianta da fiore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 11,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "ground cover",
+     "fr": "ü couverture du sol",
+     "de": "Bodendecker",
+     "es": "Li planta para cubrir",
+     "it": "sudo a pianta copriterreno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 11,
+      "es": 18,
+      "it": 23
+     }
+    },
+    {
+     "en": "grass",
+     "fr": "herbe",
+     "de": "Gras",
+     "es": "pasto",
+     "it": "erba",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "ornemental",
+     "fr": "Zier",
+     "de": "om am cntal",
+     "es": "ornamentale",
+     "_multi": [
+      "de"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 4,
+      "de": 9,
+      "es": 11
+     }
+    },
+    {
+     "fr": "piante ram pante",
+     "de": "Kriechpflanze",
+     "es": "planta trepadora",
+     "it": "pianta rampicante",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 14,
+      "de": 13,
+      "es": 15,
+      "it": 16
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

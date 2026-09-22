@@ -1,0 +1,534 @@
+{
+ "page": 257,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "(v)",
+     "_multi": [],
+     "_grid_len": {
+      "en": 1
+     }
+    },
+    {
+     "en": "fotografare",
+     "_multi": [],
+     "_grid_len": {
+      "en": 11
+     }
+    },
+    {
+     "en": "film spool",
+     "fr": "rouleau de pellicule",
+     "de": "Filmspule",
+     "es": "carrete",
+     "it": "rollino",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 18,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "develop (v)",
+     "fr": "développer",
+     "de": "entwickeln",
+     "es": "revelar",
+     "it": "sviluppare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "negative",
+     "fr": "négatif",
+     "de": "Negativ",
+     "es": "negativo",
+     "it": "negativo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "film",
+     "fr": "pellicule",
+     "de": "Film",
+     "es": "rollo",
+     "it": "pellicola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 4,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "focus (v)",
+     "fr": "mettre au point",
+     "de": "einstellen",
+     "es": "enfocar",
+     "it": "mettere a fuoco",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 10,
+      "es": 7,
+      "it": 13
+     }
+    },
+    {
+     "en": "landscape",
+     "fr": "paysage",
+     "de": "quer",
+     "es": "apaisado",
+     "it": "orizzontale",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 4,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "portrait",
+     "fr": "portrait",
+     "de": "hoch",
+     "es": "en forma to vertical",
+     "it": "verticale",
+     "_multi": [
+      "es"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 4,
+      "es": 17,
+      "it": 9
+     }
+    },
+    {
+     "en": "photo album",
+     "fr": "album de photos",
+     "de": "Fotoalbum",
+     "es": "álbum de fotos",
+     "it": "album fotografico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 9,
+      "es": 12,
+      "it": 16
+     }
+    },
+    {
+     "en": "picture frame",
+     "fr": "cadre de photo",
+     "de": "Fotorahmen",
+     "es": "portarretratos",
+     "it": "cornice",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "en": "photograph",
+     "fr": "photo",
+     "de": "Foto",
+     "es": "fotografía",
+     "it": "fotografia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 4,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "viewfinder",
+     "fr": "viseur",
+     "de": "Bildsucher",
+     "es": "visor",
+     "it": "mirino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "print",
+     "fr": "épreuve",
+     "de": "Abzug",
+     "es": "foto revelada",
+     "it": "fotografìa sviluppata",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 12,
+      "it": 20
+     }
+    }
+   ]
+  },
+  {
+   "slug": "difetti",
+   "names": {
+    "en": "problems",
+    "fr": "les problèmes",
+    "de": "die probleme",
+    "es": "los problemas",
+    "it": "i difetti"
+   },
+   "entries": [
+    {
+     "en": "camera case",
+     "fr": "sac d'appareil photo",
+     "de": "Kameratasche",
+     "es": "funda de la cámara",
+     "it": "astuccio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 12,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "mat",
+     "fr": "mat",
+     "de": "matt",
+     "es": "mate",
+     "it": "opaco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "exposure",
+     "fr": "pose",
+     "de": "Belichtung",
+     "es": "exposición",
+     "it": "esposizione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 4,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "gloss",
+     "fr": "b rillian t",
+     "de": "Hochglanz",
+     "es": "con brillo",
+     "it": "lucido",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "overexposed",
+     "fr": "surexposé",
+     "de": "überbelichtet",
+     "es": "sobreexpuesto",
+     "it": "sovraesposto",
+     "_multi": [],
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 13,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "underexposed",
+     "fr": "sous-exposé",
+     "de": "unterbelichtet",
+     "es": "subexpuesto",
+     "it": "sottoesposto",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 14,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "enlargement",
+     "fr": "agrandissement",
+     "de": "Vergrößerung",
+     "es": "ampliación",
+     "it": "ingrandimento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 13,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "darkroom",
+     "fr": "chambre noire",
+     "de": "Dunkelkammer",
+     "es": "cuarto oscuro",
+     "it": "camera oscura",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 12,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "I'd like this film processed",
+     "fr": "Pourriez-vous faire développer cette pellicule?",
+     "de": "Könnten Sie diesen Rim entwickeln lassen?",
+     "es": "M e gustaría revelar este rollo",
+     "it": "Vorrei far sviluppare questo rollino",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 23,
+      "fr": 41,
+      "de": 35,
+      "es": 26,
+      "it": 32
+     }
+    },
+    {
+     "en": "out of focus",
+     "fr": "flou",
+     "de": "unscharf",
+     "es": "desenfocado",
+     "it": "sfocato",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 4,
+      "de": 8,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "red eye",
+     "fr": "tache rouge",
+     "de": "Rotfärbung der Augen",
+     "es": "ojos rojos",
+     "it": "occhio rosso",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 18,
+      "es": 9,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

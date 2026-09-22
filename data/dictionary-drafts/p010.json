@@ -1,0 +1,272 @@
+{
+ "page": 10,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "P EO P LE • I F.S GENIS / • DIE MENSCHEN • L A GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "body • le corps •",
+   "parts": [
+    "body",
+    "le corps"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "der Körper • el cuerpo • ¡I corpo",
+   "parts": [
+    "der körper",
+    "el cuerpo",
+    "¡i corpo"
+   ],
+   "entries": [
+    {
+     "en": "head",
+     "fr": "la rete",
+     "de": "der Kopf",
+     "es": "la cabeza",
+     "it": "la testa",
+     "_pos": [
+      653,
+      157
+     ],
+     "_flags": []
+    },
+    {
+     "en": "neck",
+     "fr": "le cou",
+     "de": "der Hals",
+     "es": "el cuello",
+     "it": "il collo",
+     "_pos": [
+      224,
+      160
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nipple",
+     "fr": "le mamelon",
+     "de": "die Brustwarze",
+     "es": "el pezón",
+     "it": "il capezzolo",
+     "_pos": [
+      444,
+      245
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chest",
+     "fr": "la poitrine",
+     "de": "die Brust",
+     "es": "el pecho",
+     "it": "il torace",
+     "_pos": [
+      140,
+      263
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breast",
+     "fr": "le sein",
+     "de": "die Brust",
+     "es": "el pecho",
+     "it": "il seno",
+     "_pos": [
+      660,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "abdomen",
+     "fr": "le ventre",
+     "de": "der Bauch",
+     "es": "el abdomen",
+     "it": "l'addome",
+     "_pos": [
+      128,
+      378
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waist",
+     "fr": "la taille",
+     "de": "die Taille",
+     "es": "la cintura",
+     "it": "la vita",
+     "_pos": [
+      686,
+      382
+     ],
+     "_flags": []
+    },
+    {
+     "en": "navel",
+     "fr": "le nombril",
+     "de": "der Nabel",
+     "es": "el ombligo",
+     "it": "l'ombelico",
+     "_pos": [
+      727,
+      476
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la hanche",
+     "de": "die Hüfte",
+     "es": "la cadera",
+     "it": "il fianco",
+     "_pos": [
+      115,
+      564
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "forearm",
+     "fr": "l'avant-bras",
+     "de": "der Unterarm",
+     "es": "el antebrazo",
+     "it": "l'avambraccio",
+     "_pos": [
+      764,
+      575
+     ],
+     "_flags": []
+    },
+    {
+     "en": "genitals",
+     "fr": "les organes génitaux",
+     "de": "die Geschlechtsteile",
+     "es": "los genitales",
+     "it": "i genitali",
+     "_pos": [
+      114,
+      688
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thigh",
+     "fr": "la cuisse",
+     "de": "der Oberschenkel",
+     "es": "el muslo",
+     "it": "la coscia",
+     "_pos": [
+      686,
+      704
+     ],
+     "_flags": []
+    },
+    {
+     "en": "groin",
+     "fr": "l'aine",
+     "de": "die Leiste",
+     "es": "la ingle",
+     "it": "l'inguine",
+     "_pos": [
+      406,
+      716
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knee",
+     "fr": "le genou",
+     "de": "das Knie",
+     "es": "la rodilla",
+     "it": "il ginocchio",
+     "_pos": [
+      652,
+      804
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la jambe",
+     "de": "das Bein",
+     "es": "la pierna",
+     "it": "la gamba",
+     "_pos": [
+      413,
+      855
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "shin",
+     "fr": "le tibia",
+     "de": "das Schienbein",
+     "es": "la espinilla",
+     "it": "lo stinco",
+     "_pos": [
+      146,
+      859
+     ],
+     "_flags": []
+    },
+    {
+     "en": "foot",
+     "fr": "le pied",
+     "de": "der Fuß",
+     "es": "el pic",
+     "it": "piede",
+     "_pos": [
+      708,
+      920
+     ],
+     "_flags": []
+    },
+    {
+     "en": "male",
+     "fr": "l'homme",
+     "de": "der Mann",
+     "es": "el hombre",
+     "it": "l'uomo",
+     "_pos": [
+      250,
+      1018
+     ],
+     "_flags": []
+    },
+    {
+     "en": "female",
+     "fr": "la femme",
+     "de": "die Frau",
+     "es": "la mujer",
+     "it": "la donna",
+     "_pos": [
+      510,
+      1054
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 12,
+  "flagged": 7,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

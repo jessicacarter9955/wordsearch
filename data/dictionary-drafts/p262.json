@@ -1,0 +1,341 @@
+{
+ "page": 262,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • I H T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "arts and crafts 2 • les arts et métiers 2 • das Kunsthandwerk 2 • las manualidades 2 • arte e artigianato 2",
+   "parts": [
+    "arts and crafts",
+    "les arts et métiers",
+    "das kunsthandwerk",
+    "las manualidades",
+    "arte e artigianato"
+   ],
+   "entries": [
+    {
+     "en": "thread guide",
+     "fr": "le guide de Fil",
+     "de": "der Faden leiter",
+     "es": "la guía del hilo",
+     "it": "il guidafilo",
+     "_pos": [
+      74,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thread reel",
+     "fr": "la bobine de fil",
+     "de": "der Spuler",
+     "es": "el carrete de hilo",
+     "it": "il rocchetto del filo",
+     "_pos": [
+      725,
+      158
+     ],
+     "_flags": []
+    },
+    {
+     "en": "balance wheel",
+     "fr": "le balancier",
+     "de": "das Handrad",
+     "es": "la rueda de ajuste",
+     "it": "la ruota",
+     "_pos": [
+      720,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "needle",
+     "fr": "l'aiguille",
+     "de": "die Ñadel",
+     "es": "la aguia",
+     "it": "lago",
+     "_pos": [
+      52,
+      292
+     ],
+     "_flags": []
+    },
+    {
+     "en": "presser foot",
+     "fr": "le picd-de-biche",
+     "de": "der Stoffdrücker",
+     "es": "el pie de la aguja",
+     "it": "il piedino",
+     "_pos": [
+      374,
+      310
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "gagati",
+   "parts": [
+    "gagati"
+   ],
+   "entries": [
+    {
+     "en": "stitch seleccor",
+     "fr": "le sélecteur de poinr",
+     "de": "der Stichwähler",
+     "es": "el selector de puntada",
+     "it": "il selezionatore dei punti",
+     "_pos": [
+      724,
+      395
+     ],
+     "_flags": []
+    },
+    {
+     "en": "needle plate",
+     "fr": "la platine",
+     "de": "die Stichplatte",
+     "es": "la placa de la ag",
+     "it": "la piastrina déliai",
+     "_pos": [
+      52,
+      440
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sewing machine",
+     "fr": "la machine à coudre",
+     "de": "die Nähmaschine",
+     "es": "la máquina de coser",
+     "it": "la macchina da cucire",
+     "_pos": [
+      52,
+      557
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pincushion",
+     "fr": "la pelote à épingles",
+     "de": "das Nadelkissen",
+     "es": "el alfiletero",
+     "it": "il puntaspilli",
+     "_pos": [
+      702,
+      609
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scissors",
+     "fr": "les ciseaux",
+     "de": "die Schere",
+     "es": "las tijeras",
+     "it": "le forbici",
+     "_pos": [
+      50,
+      703
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pattern",
+     "fr": "le patron",
+     "de": "das Schnittmuster",
+     "es": "patrón",
+     "it": "il modello",
+     "_pos": [
+      220,
+      704
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pin",
+     "fr": "l'épingle",
+     "de": "die Stecknadel",
+     "es": "el a lliie r",
+     "it": "lo spillo",
+     "_pos": [
+      662,
+      788
+     ],
+     "_flags": [
+      "es:short:r"
+     ]
+    },
+    {
+     "en": "tape measure",
+     "fr": "le centimètre",
+     "de": "das Zentimetermaß",
+     "es": "la cinta m etrica",
+     "it": "il metro",
+     "_pos": [
+      50,
+      851
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "material",
+     "fr": "le tissu",
+     "de": "der Stoff",
+     "es": "la tela",
+     "it": "la stoffa",
+     "_pos": [
+      216,
+      851
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sewing basket",
+     "fr": "la corbeille à couture",
+     "de": "der Nähkorb",
+     "es": "costurero",
+     "it": "Li cesta del cucito",
+     "_pos": [
+      390,
+      886
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "thread",
+     "fr": "le fil",
+     "de": "das Garn",
+     "es": "el hilo",
+     "it": "il filo",
+     "_pos": [
+      192,
+      916
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eye",
+     "fr": "Barillet",
+     "de": "die Öse",
+     "es": "la hembra",
+     "it": "l'occhiello",
+     "_pos": [
+      324,
+      917
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "o",
+   "parts": [
+    "o"
+   ],
+   "entries": [
+    {
+     "en": "bobbin",
+     "fr": "la bobine",
+     "de": "die Spule",
+     "es": "la bobina",
+     "it": "la bobina",
+     "_pos": [
+      50,
+      1014
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hook",
+     "fr": "l'agrafe",
+     "de": "der Haken",
+     "es": "macho",
+     "it": "il gancio",
+     "_pos": [
+      220,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thimble",
+     "fr": "le dé à coudre",
+     "de": "der Fingerhut",
+     "es": "el dedal",
+     "it": "il ditale",
+     "_pos": [
+      389,
+      1016
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailor's chalk",
+     "fr": "la craie de tailleur",
+     "de": "die Schneiderkreide",
+     "es": "el jaboncillo",
+     "it": "il gesso",
+     "_pos": [
+      560,
+      1017
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailor's dummy",
+     "fr": "le mannequin",
+     "de": "die Schneiderpuppe",
+     "es": "el maniquí",
+     "it": "il manichino",
+     "_pos": [
+      729,
+      1018
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "ï$",
+   "pos": [
+    260,
+    943
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "1",
+   "pos": [
+    262,
+    998
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 8,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 2,
+  "subcats": 3
+ }
+}

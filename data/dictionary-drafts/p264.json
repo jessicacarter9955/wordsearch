@@ -1,0 +1,69 @@
+{
+ "page": 264,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "environment Penvironnement",
+   "parts": [
+    "environment penvironnement"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "die Umwelt",
+   "parts": [
+    "die umwelt"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "el medio ambiente",
+   "parts": [
+    "el medio ambiente"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "l'ambiente",
+   "parts": [
+    "l'ambiente"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "N",
+   "pos": [
+    897,
+    262
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "V",
+   "pos": [
+    874,
+    270
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 2,
+  "subcats": 4
+ }
+}

@@ -1,0 +1,379 @@
+{
+ "page": 236,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS • LES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "race-ear driver",
+     "fr": "le coureur automobile",
+     "de": "der Rennfahrer",
+     "es": "ul piloto ele carreras",
+     "_pos": [
+      316,
+      72
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "motorbike racing",
+     "fr": "la course de m oro",
+     "de": "das Motorradrennen",
+     "es": "el moto ciclismo",
+     "it": "il motociclismo",
+     "_pos": [
+      677,
+      252
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "motocross",
+     "fr": "le motocross",
+     "de": "das Motocross",
+     "es": "el m otocross",
+     "it": "il motocross",
+     "_pos": [
+      464,
+      253
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "auto racing",
+     "fr": "la course automobile",
+     "de": "det Rennsport",
+     "es": "el automovilismo",
+     "it": "l'automobilismo",
+     "_pos": [
+      252,
+      255
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rally driving",
+     "fr": "le rallye",
+     "de": "das Rallyefahren",
+     "es": "el rally",
+     "it": "I rally",
+     "_pos": [
+      40,
+      256
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "Stick",
+     "fr": "la crosse",
+     "de": "der Lacrosseschläger",
+     "es": "el palo",
+     "it": "la mazza",
+     "_pos": [
+      488,
+      319
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "foil",
+     "fr": "le fleurer",
+     "de": "das Florett",
+     "es": "el florete",
+     "it": "il fioretto",
+     "_pos": [
+      799,
+      334
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mask",
+     "fr": "le masque",
+     "de": "die Maske",
+     "es": "la máscara",
+     "it": "la maschera",
+     "_pos": [
+      657,
+      334
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skateboard",
+     "fr": "la planche à roulettes",
+     "de": "das Skateboard",
+     "es": "lapa tineta",
+     "it": "la tavola da skateboard",
+     "_pos": [
+      164,
+      337
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rollerskate",
+     "fr": "le patin à roulettes",
+     "de": "der Rollschuh",
+     "es": "el patín de ruedas",
+     "it": "il pattino a rotelle",
+     "_pos": [
+      208,
+      446
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "..à",
+   "parts": [
+    "..à"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "P",
+   "parts": [
+    "p"
+   ],
+   "entries": [
+    {
+     "en": "fencing",
+     "fr": "Pósenme",
+     "de": "das Fechten",
+     "es": "la esgrima",
+     "it": "la scherma",
+     "_pos": [
+      679,
+      564
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "lacrosse",
+     "fr": "le lacrosse",
+     "de": "das Lacrosse",
+     "es": "el lacrosse",
+     "it": "il lacrosse",
+     "_pos": [
+      467,
+      565
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roller-skating",
+     "fr": "le patinage à roulettes",
+     "de": "das Rollschuhfahren",
+     "es": "el patinaje",
+     "it": "il pattinaggio a rotelle",
+     "_pos": [
+      234,
+      566
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skateboarding",
+     "fr": "la planche à roulettes",
+     "de": "das Skateboard fahren",
+     "es": "andar en patineta",
+     "it": "lo skate board",
+     "_pos": [
+      42,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "target",
+     "fr": "la cible",
+     "de": "die Zielscheibe",
+     "es": "la diana",
+     "_pos": [
+      728,
+      629
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "bow",
+     "fr": "l'arc",
+     "de": "der Bogen",
+     "es": "el arco",
+     "it": "l'arco",
+     "_pos": [
+      468,
+      647
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arrow",
+     "fr": "la flèche",
+     "de": "der Pfeil",
+     "es": "la flecha",
+     "it": "la freccia",
+     "_pos": [
+      343,
+      663
+     ],
+     "_flags": []
+    },
+    {
+     "en": "quiver",
+     "fr": "le carquois",
+     "de": "der Kocher",
+     "es": "el carcaj",
+     "it": "la faretra",
+     "_pos": [
+      344,
+      762
+     ],
+     "_flags": []
+    },
+    {
+     "en": "target shooting",
+     "fr": "le tir à cible",
+     "de": "das Scheibenschießen",
+     "es": "el uro",
+     "it": "il tiro ni bersaglio",
+     "_pos": [
+      682,
+      826
+     ],
+     "_flags": []
+    },
+    {
+     "en": "archery",
+     "fr": "le n r à Parc",
+     "de": "das Bogenschießen",
+     "es": "el tiro con arco",
+     "it": "il tiro con l'arco",
+     "_pos": [
+      470,
+      827
+     ],
+     "_flags": [
+      "fr:short:n",
+      "fr:short:r"
+     ]
+    },
+    {
+     "en": "bowling ball",
+     "fr": "la houle de",
+     "de": "how ling die Bowlingkugel",
+     "es": "la hola de boliche",
+     "it": "palla da bowling",
+     "_pos": [
+      345,
+      880
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "bowling ball",
+       "fr": "la houle de how ling",
+       "de": "die Bowlingkugel",
+       "es": "la hola de boliche",
+       "it": "palla da bowling"
+      }
+     ]
+    },
+    {
+     "en": "snooker",
+     "fr": "le billard",
+     "de": "das Snooker",
+     "es": "el billar",
+     "it": "lo snooker",
+     "_pos": [
+      684,
+      1023
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pool",
+     "fr": "le billard américain",
+     "de": "das Poolbillard",
+     "es": "el pool",
+     "it": "il biliardo",
+     "_pos": [
+      472,
+      1024
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bowling",
+     "fr": "le bowling",
+     "de": "das Bowling",
+     "es": "el boliche",
+     "it": "il bowling",
+     "_pos": [
+      48,
+      1027
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "M",
+   "pos": [
+    736,
+    484
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 6,
+  "flagged": 18,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

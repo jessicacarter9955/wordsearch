@@ -1,0 +1,582 @@
+{
+ "page": 162,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "articoli",
+   "names": {
+    "en": "office supplies",
+    "fr": "les fournitures de bureau",
+    "de": "der bürobedarf",
+    "es": "la papelería",
+    "it": "gli articoli"
+   },
+   "entries": [
+    {
+     "en": "box file",
+     "fr": "dossier-classeur",
+     "de": "Aktenordner",
+     "es": "caja archivador",
+     "it": "scatola d'archivio",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 11,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "compliments slip",
+     "fr": "fiche compliments",
+     "de": "Empfehlungszettel",
+     "es": "tarjeta m em bretada",
+     "it": "foglietto di omaggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 16,
+      "de": 17,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "1_UL letterhead",
+     "fr": "en-téte",
+     "de": "Geschäftsbogen",
+     "es": "membrete",
+     "it": "carta intestata",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 6,
+      "de": 14,
+      "es": 8,
+      "it": 14
+     }
+    },
+    {
+     "en": "envelope",
+     "fr": "enveloppe",
+     "de": "Briefumschlag",
+     "es": "sobre",
+     "it": "busta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 13,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "divider",
+     "fr": "fiche intercalaire",
+     "de": "Teiler",
+     "es": "divisor",
+     "it": "divisore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "tab",
+     "fr": "étiquette",
+     "de": "Kartenreiter",
+     "es": "rótulo",
+     "it": "etichetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 12,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "binder file",
+     "fr": "classeur à levier",
+     "de": "Leitz-Ordner",
+     "es": "carpeta de argollas",
+     "it": "raccoglitore a leva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 11,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "accordion Tile",
+     "fr": "porte dossiers",
+     "de": "Fächerordner",
+     "es": "carpeta de acordeón",
+     "it": "portacarte a fisarmonica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 12,
+      "es": 17,
+      "it": 22
+     }
+    },
+    {
+     "en": "hanging file",
+     "fr": "dossier suspendu",
+     "de": "Hängeordner",
+     "es": "colgante",
+     "it": "cartella sospesa",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 11,
+      "es": 8,
+      "it": 15
+     }
+    },
+    {
+     "en": "notepad",
+     "fr": "bloc-notes",
+     "de": "Notizblock",
+     "es": "libreta",
+     "it": "blocco per appunti",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 7,
+      "it": 16
+     }
+    },
+    {
+     "en": "clipboard",
+     "fr": "clipboard",
+     "de": "Klemmbrett",
+     "es": "labia con portapapeles",
+     "it": "portablocco con fermaglio",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 20,
+      "it": 23
+     }
+    },
+    {
+     "en": "ink pad",
+     "fr": "tampon encreur",
+     "de": "Stempelkissen",
+     "es": "cojín de la tinta",
+     "it": "tampone di inchiostro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 13,
+      "es": 14,
+      "it": 19
+     }
+    },
+    {
+     "en": "adhesive tape",
+     "fr": "scotch",
+     "de": "Tesafilm",
+     "es": "cinta scotch",
+     "it": "nastro adesivo",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 8,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "staples",
+     "fr": "agrafes",
+     "de": "Klammem",
+     "es": "grapas",
+     "it": "punti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "rubber stamp",
+     "fr": "cachet",
+     "de": "Stempel",
+     "es": "sello",
+     "it": "timbro umido",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "hole punch",
+     "fr": "perforateur",
+     "de": "Locher",
+     "es": "perforadora",
+     "it": "perforatore",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 6,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "tape dispenser",
+     "fr": "dévidoir de scotch",
+     "de": "Tesafilmhalter",
+     "es": "portacinta",
+     "it": "dispenser",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 14,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "stapler",
+     "fr": "agrafeuse",
+     "de": "Hefter",
+     "es": "engrapadora",
+     "it": "cucitrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 6,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "personal organizer",
+     "fr": "agenda",
+     "de": "Terminkalender",
+     "es": "agenda",
+     "it": "agenda",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 6,
+      "de": 14,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "thumbtack",
+     "fr": "punaise",
+     "de": "Reißnagel",
+     "es": "chinche",
+     "it": "puntina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "bulldog clip",
+     "fr": "pince à dessin",
+     "de": "Papierklammer",
+     "es": "pinza",
+     "it": "molletta",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 13,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "rubber band",
+     "fr": "élastique",
+     "de": "Gummiband",
+     "es": "liga",
+     "it": "elastico",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 9,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "bulletin board",
+     "fr": "panneau d' affichage",
+     "de": "Pinnward",
+     "es": "corcho",
+     "it": "tabellone",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

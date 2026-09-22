@@ -1,0 +1,370 @@
+{
+ "page": 242,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": "orchestra • l'orchestre • das Orchester • la orquesta • l'orchestra strings • les cordes • die Saiteninstrumente • la cuerda • le corde",
+   "parts": [
+    "orchestra",
+    "l'orchestre",
+    "das orchester",
+    "la orquesta",
+    "l'orchestra strings",
+    "les cordes",
+    "die saiteninstrumente",
+    "la cuerda",
+    "le corde"
+   ],
+   "entries": [
+    {
+     "en": "harp",
+     "fr": "la harpe",
+     "de": "die Harfe",
+     "es": "arpa",
+     "it": "Tarpa",
+     "_pos": [
+      210,
+      148
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "conductor",
+     "fr": "le chef d' orchestre",
+     "de": "der Dirigent",
+     "es": "el director de orquesta",
+     "it": "I direttore di orchestra",
+     "_pos": [
+      472,
+      149
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "double bass",
+     "fr": "le contrebasse",
+     "de": "der Kontrabass",
+     "es": "el contrabajo",
+     "it": "il contrabbasso",
+     "_pos": [
+      736,
+      151
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cello",
+     "fr": "le violoncelle",
+     "de": "das Cello",
+     "es": "el violoncelo",
+     "it": "il violoncello",
+     "_pos": [
+      740,
+      463
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le violon",
+     "de": "die Geige",
+     "es": "el vio lin",
+     "it": "il violino",
+     "_pos": [
+      168,
+      476
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "l'alto",
+     "de": "die Bratsche",
+     "es": "la viola",
+     "it": "la viola",
+     "_pos": [
+      518,
+      478
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "de": "das Podium",
+     "es": "el podio",
+     "it": "il podio",
+     "_pos": [
+      361,
+      493
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "score",
+     "fr": "la partition",
+     "de": "die Noten",
+     "es": "la partitura",
+     "it": "lo spartito",
+     "_pos": [
+      290,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "note",
+     "fr": "la note",
+     "de": "die Note",
+     "es": "la nota",
+     "it": "la nota",
+     "_pos": [
+      620,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "staff",
+     "fr": "la portée",
+     "de": "das Liniensystem",
+     "es": "el pentágrama",
+     "it": "il pentagramma",
+     "_pos": [
+      738,
+      592
+     ],
+     "_flags": []
+    },
+    {
+     "en": "treble clef",
+     "fr": "la clé de sol",
+     "de": "der Violinschlüssel",
+     "es": "la clave de sol",
+     "it": "la chiave di sol",
+     "_pos": [
+      476,
+      593
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bass clef",
+     "fr": "la clé de fa",
+     "de": "der Bassschlüssel",
+     "es": "la clave de la",
+     "it": "la chiave di basso",
+     "_pos": [
+      304,
+      703
+     ],
+     "_flags": [
+      "de:rep:Bassschlüssel"
+     ]
+    },
+    {
+     "_pos": [
+      477,
+      775
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "« :",
+      "notation",
+      "la notation",
+      "die Notation",
+      "la notación",
+      "l'annotazione"
+     ]
+    },
+    {
+     "en": "piano",
+     "fr": "le piano",
+     "de": "das Klavier",
+     "es": "el piano",
+     "it": "il pianoforte",
+     "_pos": [
+      53,
+      837
+     ],
+     "_flags": []
+    },
+    {
+     "en": "overture",
+     "fr": "Pou vern i re",
+     "de": "die Ouvertüre",
+     "es": "la obertura",
+     "it": "l'ouverture",
+     "_pos": [
+      67,
+      886
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "sonata",
+     "fr": "la sonate",
+     "de": "die Sonate",
+     "es": "la sonata",
+     "it": "la sonata",
+     "_pos": [
+      193,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rest",
+     "fr": "le silence",
+     "de": "das Pausenzeichen",
+     "es": "la pausa",
+     "it": "la pausa",
+     "_pos": [
+      352,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sharp",
+     "fr": "la dièse",
+     "de": "das Kreuz",
+     "es": "sostenido",
+     "it": "il diesis",
+     "_pos": [
+      494,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "natural",
+     "fr": "le bécarre",
+     "de": "das Auflösungszeichen",
+     "es": "natural",
+     "it": "naturale",
+     "_pos": [
+      598,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scale",
+     "fr": "la gamme",
+     "de": "die Tonleiter",
+     "es": "la escala",
+     "it": "la scala",
+     "_pos": [
+      746,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "symphony",
+     "fr": "la sym phonic",
+     "de": "die Symphonie",
+     "es": "la sinfonía",
+     "it": "la sinfonia",
+     "_pos": [
+      67,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baton",
+     "fr": "la baguette",
+     "de": "der Taktstock",
+     "es": "la batura",
+     "it": "la bacchetta",
+     "_pos": [
+      746,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "instruments",
+     "fr": "les instruments",
+     "de": "die Musikinstrumente",
+     "es": "los instrum entos",
+     "it": "gli strumenti",
+     "_pos": [
+      193,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pitch",
+     "fr": "le ton",
+     "de": "die Tonhöhe",
+     "es": "el tono",
+     "it": "il tono",
+     "_pos": [
+      352,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flat",
+     "fr": "le bémol",
+     "de": "das B",
+     "es": "bemol",
+     "it": "il bemolle",
+     "_pos": [
+      493,
+      987
+     ],
+     "_flags": [
+      "de:short:B"
+     ]
+    },
+    {
+     "en": "bar",
+     "fr": "la barre de mesure",
+     "de": "der Taktstrich",
+     "es": "la barra",
+     "it": "la battuta",
+     "_pos": [
+      598,
+      987
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 15,
+  "flagged": 11,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

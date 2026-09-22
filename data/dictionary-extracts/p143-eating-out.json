@@ -1,0 +1,645 @@
+{
+ "page": 143,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "ristorante",
+   "names": {
+    "en": "restaurant",
+    "fr": "le restaurant",
+    "de": "das restaurant",
+    "es": "el restaurante",
+    "it": "i ristorante"
+   },
+   "entries": [
+    {
+     "en": "nonsmoking section",
+     "fr": "partie non fumeurs",
+     "de": "Nicht raucherbereich",
+     "es": "área J e no turnar",
+     "it": "zona non fumatori",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 16,
+      "de": 19,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "napkin",
+     "fr": "servierte",
+     "de": "Serviette",
+     "es": "servilleta",
+     "it": "tovagliolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "assistant chef",
+     "fr": "commis",
+     "de": "Hilfskoch",
+     "es": "ayudante ilei ch ef",
+     "it": "aiuto cuoco",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 6,
+      "de": 9,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "place setting",
+     "fr": "couvert",
+     "de": "Gedeck",
+     "es": "cubierto",
+     "it": "coperto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "glass",
+     "fr": "verre",
+     "de": "Glas",
+     "es": "copa",
+     "it": "bicchiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "chef",
+     "fr": "chef Je cuisine",
+     "de": "Küchenchef",
+     "es": "chef",
+     "it": "cuoco",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 13,
+      "de": 10,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "tray",
+     "fr": "plateau",
+     "de": "Tablett",
+     "es": "charola",
+     "it": "vassoio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "kitchen",
+     "fr": "cuisine",
+     "es": "cucina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "es": 6
+     }
+    },
+    {
+     "de": "Küche",
+     "es": "cocina",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "de": 5,
+      "es": 6
+     }
+    },
+    {
+     "en": "server",
+     "fr": "garçon",
+     "de": "Kellner",
+     "es": "ti mesero",
+     "it": "cameriere",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "lunch menu",
+     "fr": "menu J u déjeuner",
+     "de": "Mittagsmenü",
+     "es": "m enú de la com ida",
+     "it": "menù del pranzo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 11,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "specials",
+     "fr": "spécialités",
+     "de": "Spezialitäten",
+     "es": "platillos del día",
+     "it": "piatti del giorno",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 13,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "price",
+     "fr": "prix",
+     "de": "Preis",
+     "es": "precio",
+     "it": "prezzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "smoking section",
+     "fr": "partie fumeurs",
+     "de": "Raucherbereich",
+     "es": "área de fumar",
+     "it": "zona fumatori",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 13,
+      "de": 14,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "öp",
+     "fr": "pourboire",
+     "de": "Trinkgeld",
+     "es": "propina",
+     "it": "mancia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 2,
+      "fr": 9,
+      "de": 9,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "customer",
+     "fr": "client",
+     "de": "Kunde",
+     "es": "cliente",
+     "it": "l cliente",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "dinner menu",
+     "fr": "menu du soir",
+     "de": "Abendmenü",
+     "es": "ci m enu de la cena",
+     "it": "menù della cena",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "à la carte",
+     "fr": "à la carte",
+     "de": "à la carte",
+     "es": "a la carta",
+     "it": "a la carte",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "check",
+     "fr": "addition",
+     "de": "Rechnung",
+     "es": "cuenta",
+     "it": "conto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 8,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "service charge included",
+     "fr": "Service compris",
+     "de": "Bedienung inbegriffen",
+     "es": "sen icio incluido",
+     "it": "servizio compreso",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 21,
+      "fr": 14,
+      "de": 20,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "buffet",
+     "fr": "buffer",
+     "de": "Buffet",
+     "es": "buffet",
+     "it": "buffet",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "salt",
+     "fr": "sel",
+     "de": "Salz",
+     "es": "sal",
+     "it": "l sale",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 4,
+      "es": 3,
+      "it": 5
+     }
+    },
+    {
+     "en": "wine list",
+     "fr": "carte des vins",
+     "de": "Weinkarte",
+     "es": "lista de vinos",
+     "it": "lista dei vini",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "dessert cart",
+     "fr": "plateau à desserts",
+     "de": "Dessertwagen",
+     "es": "carrito de los postres",
+     "it": "carrello dei dolci",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 12,
+      "es": 19,
+      "it": 16
+     }
+    },
+    {
+     "en": "receipt",
+     "fr": "reçu",
+     "de": "Quittung",
+     "es": "recibo",
+     "it": "ricevuta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "service charge not included",
+     "fr": "service non compris",
+     "de": "ohne Bedienung",
+     "es": "servid o no incluido",
+     "it": "servizio non compreso",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 24,
+      "fr": 17,
+      "de": 13,
+      "es": 17,
+      "it": 19
+     }
+    },
+    {
+     "en": "bar",
+     "fr": "bar",
+     "de": "Bar",
+     "es": "bar",
+     "it": "bar",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "pepper",
+     "fr": "poivre",
+     "de": "Pfeffer",
+     "es": "pimienta",
+     "it": "pepe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 4
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,544 @@
+{
+ "page": 142,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "ce cube",
+     "fr": "glaçon",
+     "de": "Eiswürfel",
+     "es": "cúbito de hielo",
+     "it": "cubetto di ghiaccio",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "pitcher",
+     "fr": "pichet",
+     "de": "Krug",
+     "es": "jarra",
+     "it": "brocca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "scotch and water",
+     "fr": "scotch à Peau",
+     "de": "Scotch mit Wasser",
+     "es": "w hiskey escocés con agua",
+     "it": "whisky con acqua",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 11,
+      "de": 15,
+      "es": 21,
+      "it": 14
+     }
+    },
+    {
+     "en": "gin and ionie",
+     "fr": "gin tonic",
+     "de": "Gin Tonic",
+     "es": "gin tonic",
+     "it": "gin tonic",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "rum and coke",
+     "fr": "rhum coca",
+     "de": "Rum mit Cola",
+     "es": "cuba Ubre",
+     "it": "rum con coca cola",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 14
+     }
+    },
+    {
+     "en": "vodka and orange",
+     "fr": "vodka à l'orange",
+     "de": "Wodka mit Orangensaft",
+     "es": "desarmador",
+     "it": "vodka all'arancia",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 13,
+      "de": 19,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "beer",
+     "fr": "bière",
+     "de": "Bier",
+     "es": "cerveza",
+     "it": "birra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "wine",
+     "fr": "vin",
+     "de": "Wein",
+     "es": "ei vino",
+     "it": "vino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 4,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "cocktail",
+     "fr": "cocktail",
+     "de": "Cocktail",
+     "es": "cóctel",
+     "it": "cocktail",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "martini",
+     "fr": "m artini",
+     "de": "Martini",
+     "es": "m artini",
+     "it": "martini",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "ice and lemon",
+     "fr": "citron er glaçons",
+     "de": "Eis und Zitrone",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 13
+     }
+    },
+    {
+     "en": "double",
+     "fr": "double",
+     "de": "doppelt",
+     "es": "doble",
+     "it": "doppio",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "single",
+     "fr": "simple",
+     "de": "einfach",
+     "es": "sencillo",
+     "it": "singolo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "without ice",
+     "fr": "sans glaçons",
+     "de": "ohne Eis",
+     "es": "sin hielo",
+     "it": "liscio",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 7,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "with ce",
+     "fr": "avec des glaçons",
+     "de": "mit Eis",
+     "es": "con hielo",
+     "it": "con ghiaccio",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 6,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "measure",
+     "fr": "mesure",
+     "de": "Maß",
+     "es": "medida",
+     "it": "misura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "shot",
+     "fr": "coup",
+     "de": "Schuss",
+     "es": "trago",
+     "it": "bicchiere",
+     "_multi": [],
+     "_articles_removed": {
+      "en": "a",
+      "fr": "un",
+      "de": "ein",
+      "es": "un",
+      "it": "un"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": "stuzzichini",
+   "names": {
+    "en": "bar snacks",
+    "fr": "les amuse-gueule",
+    "de": "die knabbereien",
+    "es": "la botana",
+    "it": "gli stuzzichini"
+   },
+   "entries": [
+    {
+     "en": "cashews",
+     "fr": "noix de cajou",
+     "de": "Cashewnüsse",
+     "es": "nueces de la India",
+     "it": "anacardi",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 11,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "peanuts",
+     "fr": "cacahouètes",
+     "de": "Erdnüsse",
+     "es": "cacahuetes",
+     "it": "noccioline",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 8,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "almonds",
+     "fr": "amandes",
+     "de": "Mandeln",
+     "es": "almendras",
+     "it": "mandarle",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "olives",
+     "fr": "olives",
+     "de": "Oliven",
+     "es": "aceitunas",
+     "it": "olive",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "potato chips",
+     "fr": "chips",
+     "de": "Kartoffelchips",
+     "es": "papas fritas",
+     "it": "patatine",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 14,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "nuts",
+     "fr": "noix",
+     "de": "Nüsse",
+     "es": "frutos secos",
+     "it": "noccioline",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 11,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

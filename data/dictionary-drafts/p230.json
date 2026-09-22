@@ -1,0 +1,344 @@
+{
+ "page": 230,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS • L E S SPORTS • DER SPORT • LOS DEPORTES • GLI SPOR I",
+ "groups": [
+  {
+   "names_raw": "Ics courses",
+   "parts": [
+    "ics courses"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "las modalidades • le",
+   "parts": [
+    "las modalidades",
+    "le"
+   ],
+   "entries": [
+    {
+     "en": "events",
+     "_pos": [
+      28,
+      71
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "• die Veranstaltungen •",
+   "parts": [
+    "die veranstaltungen"
+   ],
+   "entries": [
+    {
+     "en": "fence",
+     "fr": "l'obstacle",
+     "de": "das Hindernis",
+     "es": "la valla",
+     "it": "l'ostacolo",
+     "_pos": [
+      478,
+      102
+     ],
+     "_flags": []
+    },
+    {
+     "en": "racehorse",
+     "fr": "le cheval de course",
+     "de": "das Rennpferd",
+     "es": "el caballo de carreras",
+     "it": "il cavallo da corsa",
+     "_pos": [
+      90,
+      108
+     ],
+     "_flags": []
+    },
+    {
+     "en": "harness race",
+     "fr": "la course de trot",
+     "de": "das Trabrennen",
+     "es": "la carrera al trote",
+     "it": "la corsa di calessi",
+     "_pos": [
+      600,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "steeplechase",
+     "fr": "le steeple",
+     "de": "das Jagdrennen",
+     "es": "la carrera de obstáculos",
+     "it": "la corsa a ostacoli",
+     "_pos": [
+      316,
+      300
+     ],
+     "_flags": []
+    },
+    {
+     "en": "norse race",
+     "fr": "la course de chevaux",
+     "de": "das Pferderennen",
+     "es": "la carrera de caballos",
+     "it": "la corsa di cavalli",
+     "_pos": [
+      32,
+      305
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carnage race",
+     "fr": "la course attelée",
+     "de": "das Zweispännerrennen",
+     "es": "la carrera de carrozas",
+     "it": "la corsa di carrozze",
+     "_pos": [
+      604,
+      560
+     ],
+     "_flags": []
+    },
+    {
+     "en": "show jumping",
+     "fr": "le jumping",
+     "de": "das Springreiten",
+     "es": "el concurso de saltos",
+     "it": "il concorso di salto a ostacoli",
+     "_pos": [
+      321,
+      563
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rodeo",
+     "fr": "le rodéo",
+     "de": "das Rodeo",
+     "es": "el rodeo",
+     "it": "il rodeo",
+     "_pos": [
+      38,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dressage",
+     "fr": "le dressage",
+     "de": "das Dressurreiten",
+     "es": "la dom a y monta",
+     "it": "il dressage",
+     "_pos": [
+      325,
+      809
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trekking",
+     "fr": "la randonnée",
+     "de": "das Trekking",
+     "es": "el paseo",
+     "it": "l'escursione a cavallo",
+     "_pos": [
+      42,
+      813
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flat race",
+     "fr": "la course de plat",
+     "de": "das Flachrennen",
+     "es": "la carrera sin obstáculos",
+     "it": "la corsa in piano",
+     "_pos": [
+      701,
+      871
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paddock",
+     "fr": "l'endos",
+     "de": "die Koppel",
+     "es": "el cercado",
+     "it": "il recinto",
+     "_pos": [
+      576,
+      872
+     ],
+     "_flags": []
+    },
+    {
+     "en": "halter",
+     "fr": "le licou",
+     "de": "das Halfter",
+     "es": "el cabestro",
+     "it": "la cavezza",
+     "_pos": [
+      460,
+      874
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jump",
+     "fr": "le saut",
+     "de": "der Sprung",
+     "es": "e.l salto",
+     "it": "il salto",
+     "_pos": [
+      312,
+      876
+     ],
+     "_flags": [
+      "es:weird:e.l"
+     ]
+    },
+    {
+     "en": "canter",
+     "fr": "le petit galop",
+     "de": "der Kanter",
+     "es": "el medio galope",
+     "it": "il piccolo galoppo",
+     "_pos": [
+      158,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "walk",
+     "fr": "le pas",
+     "de": "der Schritt",
+     "es": "el paso",
+     "it": "il passo",
+     "_pos": [
+      57,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "racecourse",
+     "fr": "le champs de courses",
+     "de": "die Rennbahn",
+     "es": "el hipódromo",
+     "it": "l'ippodromo",
+     "_pos": [
+      704,
+      968
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arena",
+     "fr": "l'arène",
+     "de": "der Turnierplatz",
+     "es": "el ruedo",
+     "it": "l'arena",
+     "_pos": [
+      578,
+      971
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stable",
+     "fr": "l'écurie",
+     "de": "der Pferdestall",
+     "es": "la cuadra",
+     "it": "la stalla",
+     "_pos": [
+      462,
+      972
+     ],
+     "_flags": []
+    },
+    {
+     "en": "groom",
+     "fr": "le valet d'écurie",
+     "de": "der Stallbursche",
+     "es": "el mozo de cuadra",
+     "it": "il palafreniere",
+     "_pos": [
+      312,
+      974
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gallop",
+     "fr": "le galop",
+     "de": "der Galopp",
+     "es": "el galope",
+     "it": "il galoppo",
+     "_pos": [
+      160,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trot",
+     "fr": "le trot",
+     "de": "der Trab",
+     "es": "el trote",
+     "it": "il trotto",
+     "_pos": [
+      58,
+      979
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "corse",
+   "pos": [
+    514,
+    71
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "243",
+   "pos": [
+    844,
+    1086
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 8,
+  "flagged": 15,
+  "missing_lang": 1,
+  "leftovers": 2,
+  "subcats": 3
+ }
+}

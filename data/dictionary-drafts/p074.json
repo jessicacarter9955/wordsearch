@@ -1,0 +1,340 @@
+{
+ "page": 74,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • L A CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "techniques • les techniques • die Fertigkeiten • las técnicas • le tecniche",
+   "parts": [
+    "techniques",
+    "les techniques",
+    "die fertigkeiten",
+    "las técnicas",
+    "le tecniche"
+   ],
+   "entries": [
+    {
+     "en": "hammer (v)",
+     "fr": "marteler",
+     "de": "hámmem",
+     "es": "clavar",
+     "it": "martellare",
+     "_pos": [
+      681,
+      282
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drill (v)",
+     "fr": "percer",
+     "de": "bohren",
+     "es": "taladrar",
+     "it": "forare",
+     "_pos": [
+      468,
+      282
+     ],
+     "_flags": []
+    },
+    {
+     "en": "saw (v)",
+     "fr": "scier",
+     "de": "sagen",
+     "es": "serrar",
+     "it": "segare",
+     "_pos": [
+      253,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cut (v)",
+     "fr": "découper",
+     "de": "schneiden",
+     "es": "cortar",
+     "it": "tagliare",
+     "_pos": [
+      38,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "solder",
+     "fr": "la soudure",
+     "de": "der Lötzinn",
+     "_pos": [
+      548,
+      350
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "tum (v)",
+     "fr": "tourner",
+     "de": "drechseln",
+     "es": "tornear",
+     "it": "tornire",
+     "_pos": [
+      254,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carve (v)",
+     "fr": "sculpter",
+     "de": "schnitzen",
+     "es": "tallar",
+     "it": "incidere",
+     "_pos": [
+      468,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "en": "solder (v)",
+     "fr": "souder",
+     "de": "löten",
+     "es": "soldar",
+     "it": "saldare",
+     "_pos": [
+      682,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      40,
+      532
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "o¡ane (v)",
+      "raboter",
+      "hobeln",
+      "cepillar",
+      "piallare materials",
+      "les"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "matériaux",
+   "parts": [
+    "matériaux"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• die Materialien • los materiales • i materiali",
+   "parts": [
+    "die materialien",
+    "los materiales",
+    "i materiali"
+   ],
+   "entries": [
+    {
+     "en": "hardwood",
+     "fr": "le bois dur",
+     "de": "das Hartholz",
+     "es": "la madera noble",
+     "it": "il legno duro",
+     "_pos": [
+      468,
+      626
+     ],
+     "_flags": []
+    },
+    {
+     "en": "medium density fìberboard",
+     "fr": "le médium",
+     "de": "die MDF-Platte",
+     "es": "el tablero de densidad media",
+     "it": "l'MDF",
+     "_pos": [
+      254,
+      627
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "plywood",
+     "fr": "le contreplaqué",
+     "de": "das Sperrholz",
+     "es": "el contrachapado",
+     "it": "il compensato",
+     "_pos": [
+      125,
+      660
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cable",
+     "fr": "le câble",
+     "de": "das Kabel",
+     "es": "el cable",
+     "it": "il cavo",
+     "_pos": [
+      654,
+      748
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chipboard",
+     "fr": "l'aggloméré",
+     "de": "das Spanholz",
+     "es": "el aglomerado",
+     "it": "il truciolato",
+     "_pos": [
+      66,
+      762
+     ],
+     "_flags": []
+    },
+    {
+     "en": "varnish",
+     "fr": "le vernis",
+     "de": "der Lack",
+     "es": "el barniz",
+     "it": "la lacca",
+     "_pos": [
+      542,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stainless steel",
+     "fr": "l'inox",
+     "de": "der rostfreie Stahl",
+     "es": "el acero inoxidable",
+     "it": "l'acciaio inossidabile",
+     "_pos": [
+      728,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      42,
+      865
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "Cardboard",
+      "Pi sorel",
+      "die Hartfaserplatte",
+      "el cartón madera",
+      "il cartone di",
+      "ora compressa"
+     ]
+    },
+    {
+     "en": "galvanized",
+     "fr": "galvanisé",
+     "de": "galvanisiert",
+     "es": "galvanizado",
+     "it": "zincato",
+     "_pos": [
+      784,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "woodstain",
+     "fr": "la couleur pour bois",
+     "de": "die Beize",
+     "es": "el tinte para madera",
+     "it": "il mordente per legno",
+     "_pos": [
+      544,
+      912
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sorrwood",
+     "fr": "le buts tendre",
+     "de": "das Weichholz",
+     "es": "la madera de pino",
+     "_pos": [
+      43,
+      995
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "metal",
+     "fr": "le métal",
+     "de": "das Metall",
+     "es": "el metal",
+     "it": "il metallo",
+     "_pos": [
+      656,
+      1060
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wood",
+     "fr": "le bois",
+     "de": "das Holz",
+     "es": "la madera",
+     "it": "il legno",
+     "_pos": [
+      149,
+      1078
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "legno dolce",
+   "pos": [
+    65,
+    1062
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 6,
+  "flagged": 16,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 3
+ }
+}

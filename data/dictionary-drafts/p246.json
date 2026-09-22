@@ -1,0 +1,394 @@
+{
+ "page": 246,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • I.E TEMPS UBRE • DIE FREIZEIT • EL O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "sightseeing • le tourisme • die Besichtigungstour • el turismo • il turism o",
+   "parts": [
+    "sightseeing",
+    "le tourisme",
+    "die besichtigungstour",
+    "el turismo",
+    "il turismo"
+   ],
+   "entries": [
+    {
+     "en": "itinerary",
+     "fr": "l'itinéraire",
+     "de": "die Route",
+     "es": "el itinerario",
+     "it": "l'itinerario",
+     "_pos": [
+      478,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "open top",
+     "fr": "à impériale",
+     "de": "mit offenem Oberdeck",
+     "es": "descubierto",
+     "_pos": [
+      662,
+      134
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "tour bus",
+     "fr": "le bus touristique",
+     "de": "der Stadtrundfahrtbus",
+     "es": "el autobús turístico",
+     "it": "I pullman turístico",
+     "_pos": [
+      604,
+      363
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "tour guide",
+     "fr": "la guide",
+     "de": "die Fremdenführerin",
+     "es": "la guía turística",
+     "_pos": [
+      480,
+      379
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "figurine",
+     "fr": "la statuette",
+     "de": "die Figur",
+     "es": "la estatuilla",
+     "it": "la statuina",
+     "_pos": [
+      652,
+      428
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guided tour",
+     "fr": "la tour guidé",
+     "de": "die Führung",
+     "es": "la visita guiada",
+     "it": "la visita guidata",
+     "_pos": [
+      480,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "souvenirs",
+     "fr": "les souvenirs",
+     "de": "die Andenken",
+     "es": "los recuerdos",
+     "it": "i ricordi",
+     "_pos": [
+      693,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tounst attraction",
+     "fr": "l'attraction touristique",
+     "de": "die Touristenattraktion",
+     "es": "la atracción turística",
+     "it": "il luogo d'interesse turistico",
+     "_pos": [
+      56,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "open",
+     "fr": "ouvert",
+     "de": "geöffnet",
+     "es": "abierto",
+     "it": "aperto",
+     "_pos": [
+      69,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guidebook",
+     "fr": "le guide",
+     "de": "der Reiseführer",
+     "es": "la gufa del viajero",
+     "it": "la guida",
+     "_pos": [
+      210,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camcorder",
+     "fr": "le caméscope",
+     "de": "der Camcorder",
+     "es": "la cámara de video",
+     "it": "la videocamera",
+     "_pos": [
+      345,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "left",
+     "fr": "à gauche",
+     "de": "links",
+     "es": "la izquierda",
+     "it": "a sinistra",
+     "_pos": [
+      510,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W here is ...?",
+     "fr": "O ù e s t...?",
+     "de": "Wo ist... ?",
+     "es": "Dónde e stá ...? Estoy perdido",
+     "it": "Dovè...?",
+     "_pos": [
+      632,
+      790
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:...?",
+      "en:case",
+      "fr:short:ù",
+      "fr:short:s",
+      "fr:weird:t...?",
+      "fr:case",
+      "de:weird:ist...",
+      "de:weird:?",
+      "es:weird:...?",
+      "es:case",
+      "it:weird:Dovè...?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "closed",
+     "fr": "fermé",
+     "de": "geschlossen",
+     "es": "cerrado",
+     "it": "chiuso",
+     "_pos": [
+      70,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "film",
+     "fr": "la pellicule",
+     "de": "der Elm",
+     "es": "la película",
+     "it": "la pellicola",
+     "_pos": [
+      210,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can you tell me the way to ....?",
+     "fr": "Pour aller à ..., s'il vous plaît?",
+     "de": "Können Sie mir sagen, wie ich nach",
+     "es": "komme?",
+     "it": "Podría decirm e cóm o se va a ...? Mi può dire come si arriva a...?",
+     "_pos": [
+      632,
+      887
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "en:weird:....?",
+      "en:case",
+      "fr:weird:...,",
+      "fr:weird:plaît?",
+      "fr:case",
+      "de:weird:sagen,",
+      "es:weird:komme?",
+      "it:weird:...?",
+      "it:weird:a...?",
+      "it:case"
+     ],
+     "_alts": [
+      {
+       "en": "Can you tell me the way to ....?",
+       "fr": "Pour alle r à ..., s'il vous plaît?",
+       "de": "Können Sie mir sagen, wie ich nach",
+       "es": "komme? ¿Podría decirm e cóm o se va a ...?",
+       "it": "Mi può dire come si arriva a...?"
+      },
+      {
+       "en": "Can you tell me the way to ....?",
+       "fr": "Pour alle r à ..., s'il vous plaît?",
+       "de": "Können Sie mir sagen, wie ich nach komme?",
+       "es": "¿Podría decirm e cóm o se va a ...?",
+       "it": "Mi può dire come si arriva a...?"
+      }
+     ]
+    },
+    {
+     "en": "camera",
+     "fr": "l'appareil photo",
+     "de": "die Kamera",
+     "es": "la cámara fotográfica",
+     "it": "la macchina fotografica",
+     "_pos": [
+      345,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "right",
+     "fr": "à droite",
+     "de": "rechts",
+     "es": "la derecha",
+     "it": "a destra",
+     "_pos": [
+      511,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "admission charge",
+     "fr": "le prix d' entrée",
+     "de": "das Eintrittsgeld",
+     "es": "el precio de entrada",
+     "it": "la tariffa d'ingresso",
+     "_pos": [
+      70,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "batteries",
+     "fr": "les piles",
+     "de": "die Batterien",
+     "es": "las pilas",
+     "it": "le batterie",
+     "_pos": [
+      210,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "directions",
+     "fr": "les directions",
+     "de": "die Richtungsangaben",
+     "es": "las indicaciones",
+     "it": "le indicazioni",
+     "_pos": [
+      345,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "straight ahead",
+     "fr": "tout droit",
+     "de": "geradeaus",
+     "es": "recto",
+     "it": "dritto",
+     "_pos": [
+      511,
+      986
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "I'm lost | Je me suis perdu | Ich habe mich verlaufen",
+   "pos": [
+    739,
+    790
+   ],
+   "why": "blocco 3 righe non risolvibile"
+  },
+  {
+   "text": "Mi sono perso",
+   "pos": [
+    740,
+    855
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 12,
+  "flagged": 10,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

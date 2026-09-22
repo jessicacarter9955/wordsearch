@@ -1,0 +1,473 @@
+{
+ "page": 101,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "farmacia",
+   "names": {
+    "en": "chemist",
+    "fr": "la pharmacie",
+    "de": "die apotheke",
+    "es": "la farmacia",
+    "it": "la farmacia"
+   },
+   "entries": [
+    {
+     "en": "dentai care",
+     "fr": "soin dentaire",
+     "de": "Zahnpflege",
+     "es": "cuidado dental",
+     "it": "prodotti per i denti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "feminine hygiene",
+     "fr": "hygiène féminine",
+     "de": "Monatshygiene",
+     "es": "higiene femenina",
+     "it": "igiene femminile",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 15,
+      "de": 13,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "deodorants",
+     "fr": "déodorants",
+     "de": "Deos",
+     "es": "desodorantes",
+     "it": "deodoranti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 4,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "vitamins",
+     "fr": "cachets de vitamines",
+     "de": "Vitamintabletten",
+     "es": "vitam inas",
+     "it": "vitamine",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 16,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "pharmacy",
+     "fr": "officine",
+     "de": "Apotheke",
+     "es": "dispensario",
+     "it": "dispensario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "pharmacist",
+     "fr": "pharmacien",
+     "de": "Apotheker",
+     "es": "farmacéutico",
+     "it": "farmacista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 12,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "cough medicine",
+     "fr": "médicament pour la toux",
+     "de": "Hustenmedikament",
+     "es": "jarabe para la tos",
+     "it": "medicina per la tosse",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 20,
+      "de": 16,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "herbal remedies",
+     "fr": "herboristerie",
+     "de": "Krauterheilmittel",
+     "es": "remedios naturistas",
+     "it": "rimedi alle erbe",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 13,
+      "de": 17,
+      "es": 18,
+      "it": 14
+     }
+    },
+    {
+     "en": "skin care",
+     "fr": "soins de la peau",
+     "de": "Hautpflege",
+     "es": "cuidado de la piel",
+     "it": "prodotti per la pelle",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 10,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "aftersun care",
+     "fr": "après-soleil",
+     "de": "AfterSun-Lotion",
+     "es": "crema para después del sol",
+     "it": "doposole",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 14,
+      "es": 22,
+      "it": 8
+     }
+    },
+    {
+     "en": "sunscreen",
+     "fr": "écran solaire die Sonnenschutzcreme",
+     "es": "crema protectora",
+     "it": "crema schermo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 32,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "sun block",
+     "fr": "écran total",
+     "de": "Sonnenblock",
+     "es": "crema protectora total",
+     "it": "crema schermo totale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 11,
+      "es": 20,
+      "it": 18
+     }
+    },
+    {
+     "en": "insect repellent",
+     "fr": "produit anti insccte",
+     "de": "Insektenschutzmittel",
+     "es": "repelente de insectos",
+     "it": "insettifugo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 18,
+      "de": 20,
+      "es": 19,
+      "it": 11
+     }
+    },
+    {
+     "en": "wet wipe",
+     "fr": "serviette humide",
+     "de": "Reinigungstuch",
+     "es": "toallita húmeda",
+     "it": "salvicttina umidificata",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 14,
+      "es": 14,
+      "it": 22
+     }
+    },
+    {
+     "en": "sanitary napkin",
+     "fr": "serviette hygiénique",
+     "de": "Damenbinde",
+     "es": "toallas fem eninas",
+     "it": "assorbente",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 19,
+      "de": 10,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "tissue",
+     "fr": "kleenex",
+     "de": "Papiertaschentuch",
+     "es": "pañuelo desechable",
+     "it": "fazzolettino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 17,
+      "es": 17,
+      "it": 12
+     }
+    },
+    {
+     "en": "tampon",
+     "fr": "tampon",
+     "de": "Tampon",
+     "es": "tam pon",
+     "it": "tampone",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "panty liner",
+     "fr": "protege-slip",
+     "de": "Slipemlage",
+     "es": "pantiprotector",
+     "it": "salvaslip",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 14,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

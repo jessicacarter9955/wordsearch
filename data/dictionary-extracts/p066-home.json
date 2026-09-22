@@ -1,0 +1,554 @@
+{
+ "page": 66,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "biancheria-da-letto",
+   "names": {
+    "en": "bed linen",
+    "fr": "le linge de lir",
+    "de": "die bettwäsche",
+    "es": "la ropa de cama",
+    "it": "la biancheria da letto"
+   },
+   "entries": [
+    {
+     "en": "pillowcase",
+     "fr": "taie d'oreiller",
+     "de": "Kissenbezug",
+     "es": "funda de la almohada",
+     "it": "federa",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 11,
+      "es": 17,
+      "it": 6
+     }
+    },
+    {
+     "en": "mirror",
+     "fr": "miroir",
+     "de": "Spiegel",
+     "es": "espejo",
+     "it": "specchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "sheet",
+     "fr": "drap",
+     "de": "Bettlaken",
+     "es": "sábana",
+     "it": "lenzuolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "valance",
+     "fr": "frange de lit",
+     "de": "Volant",
+     "es": "d cubrecanapé",
+     "it": "volant",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 6,
+      "es": 12,
+      "it": 6
+     }
+    },
+    {
+     "en": "vanity table",
+     "fr": "coûteuse",
+     "de": "Frisiertisch",
+     "es": "tocador",
+     "it": "toeletta",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 12,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "comforter",
+     "fr": "couette",
+     "de": "Bettdecke",
+     "es": "edredón",
+     "it": "coperta imbottita",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 16
+     }
+    },
+    {
+     "en": "quilt",
+     "fr": "edredon",
+     "de": "Steppdecke",
+     "es": "colcha",
+     "it": "trapunta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 10,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "blanket",
+     "fr": "couverture",
+     "de": "Decke",
+     "es": "cobija",
+     "it": "coperta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "floor",
+     "fr": "sol",
+     "de": "Fußboden",
+     "es": "suelo",
+     "it": "pavimento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 9,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "set the alarm (v)",
+     "fr": "mettre le réveil",
+     "de": "Wecker stellen",
+     "es": "poner el despertador",
+     "it": "mettere ta sveglia",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 13,
+      "es": 18,
+      "it": 16
+     }
+    },
+    {
+     "en": "wake up (v)",
+     "fr": "sc réveiller",
+     "de": "aufwachen",
+     "es": "despertarse",
+     "it": "svegliarsi",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "insomnia",
+     "fr": "insomnie",
+     "de": "Schlaflosigkeit",
+     "es": "insomnio",
+     "it": "insonnia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 15,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "footboard",
+     "fr": "pied de lit",
+     "de": "Fußende",
+     "es": "pie de la cama",
+     "it": "pedana del letto",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "single bed",
+     "fr": "lit simple",
+     "de": "Einzelbett",
+     "es": "cama individual",
+     "it": "lì letto singolo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "snore (v)",
+     "fr": "ronfler",
+     "de": "schnarchen",
+     "es": "roncar",
+     "it": "russare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "get up (v)",
+     "fr": "se lever",
+     "de": "aufstehen",
+     "es": "levantarse",
+     "it": "alzarsi",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 9,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "go to bed (v)",
+     "fr": "se coucher",
+     "de": "ins Bett gehen",
+     "es": "acostarse",
+     "it": "andare a letto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 12,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "box spring",
+     "fr": "ressort",
+     "de": "Sprungfeder",
+     "es": "resorte",
+     "it": "molla",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "double bed",
+     "fr": "vrand lit",
+     "de": "Doppelbett",
+     "es": "ia cama m atrim onial",
+     "it": "letto matrimoniale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "closet",
+     "fr": "armoire encastrée",
+     "de": "Einbauschrank",
+     "es": "armario empotrado",
+     "it": "armadio a muro",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 16,
+      "de": 13,
+      "es": 16,
+      "it": 12
+     }
+    },
+    {
+     "en": "make the bed (v)",
+     "fr": "faire le lit",
+     "de": "Bett machen",
+     "es": "hacer la cama",
+     "it": "fare il letto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 10,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "go to sleep (v)",
+     "fr": "s' endormir",
+     "de": "einschlafen",
+     "es": "dormir se",
+     "it": "addormentarsi",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 11,
+      "es": 8,
+      "it": 13
+     }
+    },
+    {
+     "en": "electric blanket",
+     "fr": "ia couverture chauffante",
+     "de": "Heizdecke",
+     "es": "cobija eléctrica",
+     "it": "ia termocoperta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 22,
+      "de": 9,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "carpet",
+     "fr": "rapis",
+     "de": "Teppich",
+     "es": "tapete",
+     "it": "tappeto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

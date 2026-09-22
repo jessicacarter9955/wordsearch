@@ -1,0 +1,971 @@
+====================================================================================================
+== p053 [casa] 31 voci, 14 flag, 4 mancanti, 3 leftover, header=HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: house • la maison • das Haus • la casa • la casa
+   parts: house • la maison • das haus • la casa • la casa
+ 0.0  M roof | le toir | das Dach | el tejado | il tetto   
+ 0.1  ⚠ chimney | la cheminée | der Schornstein | la chimenea | I camino   it
+ 0.2  M dormer window | le chien assis | das Mansardenfen~ | la ventana de la~ | l'abbaino   
+ 0.3  ⚠ gutter | la go urti è re | die Dachrinne | el canalón | la grondai«!   fr it
+ 0.4  ⚠ tile | la tuile | der Dachziegel | la teja | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.5  M wall | le mur | die Mauer | la pared | il muro   
+ 0.6  ⚠ eaves | l'avant-toit | der Dachvorsprung | el «alero | la nmnHa   es
+ 0.7  M shutter | le voler | der Fensterladen | el postigo | la persiana   
+ 0.8  ⚠ ? | ? | das Vordach | el porche | il portico   missing
+ 0.9  M window | la fenêtre | das Fenster | la ventana | la finestra   
+ 0.10 M front door | la porre d 'entr~ | die Haustür | la puerta princi~ | il portone   
+ 0.11 ⚠ ? | l'agrandissement | der Anbau | la ampliación | l'annesso   missing
+ 0.12 ⚠ ? | ? | der Weg | el camino | il viottolo   missing
+ 0.13 ⚠ basement | le sous-sol | das Kellergescho~ | el sótano | il seminterrato   wrap wrap-ambig
+        ALTS: [{'en': 'basement •', 'fr': 'le sous-sol', 'de': 'das Kellergeschoss', 'es': 'el sótano', 'it': 'il seminterrato'}]
+ 0.14 M row house | attenante | Reihenhaus | condominio horiz~ | a schiera   
+ 0.15 M garage | le garage | die Garage | la cochera | il garage   
+ 0.16 M floor | l'étage | das Stockwerk | el piso | il piano   
+ 0.17 M burglar alarm | l'alarme | die Alarmanlaqe | la alarm a antir~ | l'allarme antifu~   
+ 0.18   rent (v) | louer | mieten | rentar | affittare   
+ 0.19   single-family | individuelle | Einzelhaus | solo | unifamiliare   
+ 0.20 M townhouse | la maison de deu~ | das dreistöckige~ | la casa de la ci~ | la casa di città   
+ 0.21 M attic | le grenier | der Dachboden | el ático | l'attico   
+ 0.22 M courtyard | la cour | der Hof | el patio | l cortile   
+ 0.23 M mailbox | la boite aux let~ | der Briefkasten | el buzón | la cassetta per ~   
+ 0.24 M rent | le lover | die Miete | la renta | l'affitto   
+ 0.25   duplex | mitoyenne | Doppelhaus | duplex | bitamiliare   
+ 0.26 M bungalow | la pavillon | der Bungalow | la vivienda de u~ | il villino   
+ 0.27 M room | la chambre | das Zimmer | el cuarto | la stanza   
+ 0.28 M porch light | la lampe d'entrée | die Haustürlampe | la luz del porche | la luce del port~   
+ 0.29 M landlord | le propriétaire | der Vermieter | el propietario | il padrone di ca~   
+ 0.30 M tenant | le locataire | der Mieter | el inquilino | l'inquilino   
+   LEFT 'la tegola' @[764, 286] (riga singola isolata)
+   LEFT 'che' @[839, 508] (riga singola isolata)
+   LEFT '§' @[125, 788] (riga singola isolata)
+====================================================================================================
+== p054 [casa] 19 voci, 16 flag, 3 mancanti, 0 leftover, header=HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M apartment | l'appartement | die Wohnung | el departamento | l'appartamento   
+-- G1 subcat: la entrada
+   parts: la entrada
+ 1.0  ⚠ entrance | l'entrée | der Eingang | ? | ?   missing
+ 1.1  ⚠ ? | l'in g resso | ? | ? | ?   fr missing
+ 1.2  ⚠ balcony | le balcon | der Balkon | el balcón | ?   missing
+ 1.3  M landing | le palier | der Treppenabsatz | el descanso | il pianerottolo   
+ 1.4  M hand rail | la main cor nanti | das Geländer | el pasamanos | la ringhierà   
+ 1.5  M banister | la rampe | das Treppengelän~ | el barandal | il corrimano   
+ 1.6  M staircase | i'cscalier | die Treppe | la escalera | le scale   
+ 1.7  M apartment block | l'immeuble | der Wohnblock | el edificio | il caseggiato   
+ 1.8  M hallway | le vesribnle | die Dieie | el vestibolo | l'entrata   
+ 1.9  M intercom | l'interphone | die Sprechanlage | el interfono | il citofono   
+ 1.10 M door knocker | le marteau de po~ | der Türklopfer | la aldaba | il battente   
+ 1.11 M doorbell | la sonnette | die Türklingel | el timbre | il campanello   
+ 1.12 M doormat | le paillasson | der Fußabtreter | el tapete | lo zerbino   
+ 1.13 ⚠ key | la Jet | der Schlüssel | la llave | la chiave   fr
+ 1.14 M elevator | l'ascenseur | der Fahrstuhl | el elevador | l'ascensore   
+ 1.15 M bolt | le verrou | der Türriegel | el cerrojo | il chiavistello   
+ 1.16 M lock | la serrure | das Schloss | la cerradura | la serratura   
+ 1.17 ⚠ door chain | la chaîne de >ùr~ | die Türkette | la cadena | la catenella   fr
+====================================================================================================
+== p055 [casa] 28 voci, 17 flag, 2 mancanti, 1 leftover, header=H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: internal systems • les systèmes domestiques • die Hausanschlüsse • las instalac~
+   parts: internal systems • les systèmes domestiques • die hausanschlüsse • las instalaciones intern~
+ 0.0  ⚠ blade | Laite | der Flügel | el aspa | la pala   fr
+ 0.1  ⚠ Ventilator | ? | ? | el ventilador | il ventilatore   en missing
+ 0.2  M portable heater | le convcctcur | der Heizlüfter | el calentador de~ | la stufa a conve~   
+ 0.3  M space heater | l'appareil de ch~ | der Heizofen | el calentador | la stufa   
+ 0.4  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['radiator', 'le radiateur', 'der Heizkörper', 'el radiador', 'il calorifero electricity', "l'é le ctricité", 'die Elektrizität', 'la e le ctricid a d', "l'elettricità"]
+ 0.5  ⚠ hot | sous tension | geladen | con | ?   missing
+ 0.6  M filament | le filament | der Glühfaden | filamento | il filamento   
+ 0.7  M ground | la mise à la ter~ | die Erdung | la toma de tierra | la messa a terra   
+ 0.8  M prong | la broche | der Pol | la clavija | il piedino   
+ 0.9    neutral | neutre | neutral | neutro | neutro   
+ 0.10 M threads | le culot | die Fassung | el portalám paras | l'attacco   
+ 0.11 M wires | les fils | die Leitung | los cables | i fili   
+ 0.12 M light bulb | l'ampoule | die Birne | el foco | la lampadina   
+ 0.13 M plug | la prise | der Stecker | el enchufe | la spina   
+ 0.14 M fuse | le fusible | die Sicherung | el fusible | l fusibile   
+ 0.15 M socket | la prise de cour~ | die Steckdose | el enchufe | la presa   
+ 0.16 M direct current | le courant conti~ | der Gleichstrom | la corriente con~ | la corrente cont~   
+ 0.17 M voltage | la tension | die Spannung | el voltaje | la tensione   
+ 0.18 M transformer | le transformateur | der Transformator | el transformador | il trasformatore   
+ 0.19 M fuse box | la boîte à fusib~ | der Sicherungska~ | la caja de los f~ | la vafvoliera   
+ 0.20 M amp | l'ampère | das Ampère | el amperio | l'ampere   
+ 0.21 M switch | l'interrupteur | der Schalter | el interruptor | l'interruttore   
+ 0.22 M electric meter | le com pteur d é~ | der Stromzähler | el contador de l~ | il contatore di ~   
+ 0.23 ⚠ household current | le réseau d'élec~ | das Stromnetz | el suministro de | electricidad l'a~   wrap wrap-ambig
+        ALTS: [{'en': 'household current', 'fr': "le réseau d'électricité", 'de': 'das Stromnetz', 'es': 'el sum inistro de electricidad', 'it': "l'alimentazione di rete"}]
+ 0.24 M generator | la génératrice | der Generator | el generador | il generatore   
+ 0.25 M power | le courant | der Strom | la comiente eléc~ | l'elettricità   
+ 0.26 M alternating curr~ | le courant alter~ | der Wechselstrom | la co ni ente al~ | la corrente alte~   
+ 0.27 M power outage | la coupure de co~ | der Stromausfall | el corte de luz | l'interruzione d~   
+   LEFT 'm É illW P il' @[256, 406] (riga singola isolata)
+====================================================================================================
+== p056 [casa] 29 voci, 22 flag, 1 mancanti, 3 leftover, header=HOME • L A MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: plumbing • la plomberie • die Installation • la fontanería 'im pianto idraulico
+   parts: plumbing • la plomberie • die installation • la fontanería 'im pianto idraulico
+ 0.0  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['sink', "l 'é vie r", 'die Spüle', 'el fre g a d o r', "l'acquaio faucet", 'le robinet', 'der Hahn', 'el grifo', '¡I rubinetto']
+ 0.1  M lever | la manette | der Hebel | la palanca | la leva   
+ 0.2  M outlet | la sortie | der Auslass | la salida | l'uscita   
+ 0.3  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['inlet', "l'arrivée", 'die Zuleitung', 'la tom a', "l'entrata pressure valve", 'la soupape de sûreté', 'das Sicherheitsventil', 'la válvula de la presión', "la valvola ' della pressione !"]
+ 0.4  M gasket | le joint | die Dichtung | la junta | la guarnizione   
+ 0.5  M insulation | l'isolation | die Isolierung | el aislamiento | l'isolamento   
+ 0.6  ⚠ supply pipe | la conduite | d'a menée die Zu~ | la toma del | agua il tubo del~   wrap wrap-ambig
+        ALTS: [{'en': 'supply pipe', 'fr': 'la conduite', 'de': "d'a menée die Zuleitung", 'es': 'la tom a del agua', 'it': "il tubo dell'acqua"}, {'en': 'supply pipe', 'fr': "la conduite d'a menée", 'de': 'die Zuleitung', 'es': 'la tom a del', 'it': "agua il tubo dell'acqua"}]
+ 0.7  M shutoff valve | le robinet de se~ | der Absperrhahn | la llave de paso | il rubinetto di ~   
+ 0.8  M tank | le réservoir | der Kessel | el tanque | il serbatoio   
+ 0.9  M overflow pipe | le trop-plein | der Überlauf | el tubo de desag~ | l tubo di troppo~   
+ 0.10 M waste disposal u~ | le broyeur d'ord~ | der Müllschlucker | el triturador de~ | il macinature di~   
+ 0.11 ⚠ dram | le tuyau d‘écoul~ | der Abfluss | el desagüe | lo scolo   fr
+ 0.12 ⚠ drain valve | le robinet de pu~ | der Ablasshahn | la llave del des~ | I rubinetto di s~   it
+ 0.13 M ater chamber | la chambre d'eau | der rtasserraum | el tanque del ag~ | dell'acqua   
+ 0.14 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['toilet', 'Ics W .-C .', 'dasW C', 'el re tre te', 'il w ater float ball', 'le flotteur', 'der Schwimmer', 'el flotador', 'il galleggiante']
+ 0.15 M tank | la chasse d' eau | der Spülkasten | el depósito | la cassetta   
+ 0.16 ⚠ thermostat | le thermostat | Thermostat | el termostato | û termostato   it
+ 0.17 M bowl | la cuver te | das Becken | la taza | la tazza   
+ 0.18 M heating element | la résistance | das Heizelement | la resistencia | l'elemento risca~   
+ 0.19 ⚠ ? | le tuyau d' écou~ | das Abflussrohr | el desagüe | il tubo di scolo   missing
+ 0.20 ⚠ Dumer | le brûleur à gaz | der Gasbrenner | el quemador | il ruciatore a g~   en
+ 0.21 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['boiler', 'la chaud ière', 'der Boiler', 'la caldera', 'lo scaldaacqua w aste disposal', "l'e n lè vem e n t de d éch ets", 'die Abfallentsorgung', 'la e lim in a c ió n de d esech o s', 'lo sm altim ento dei rifiu ti']
+ 0.22 M lid | le couvercle | der Deckel | la tapa | il coperchio   
+ 0.23 M bottle | la bouteille | die Flasche | la botella | la bottiglia   
+ 0.24 M pedal | la pédale | der Trethebel | el pedal | il pedale   
+ 0.25 M organic waste | les déchets bios | der Bio-Abfall | los desperdicios~ | i rifiuti organi~   
+ 0.26 M sorting unit | la boîte de rri | die Abfallsortie~ | el armario para ~ | l'unità di smist~   
+ 0.27 M trash can | la poubelle | der Abfalleimer | el cubo de la ba~ | la pattumiera   
+ 0.28 M recycling bin | la boîte à déche~ | der Recyclingbeh~ | el cubo para rec~ | il secchio di ri~   
+   LEFT 'J j l' @[111, 281] (riga singola isolata)
+   LEFT 'serbatoio' @[58, 592] (riga singola isolata)
+   LEFT 'J L' @[502, 978] (riga singola isolata)
+====================================================================================================
+== p057 [casa] 11 voci, 4 flag, 2 mancanti, 0 leftover, header=HOME • I.A MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: living room • le salon • das Wohnzimmer • la sala • ¡I salotto
+   parts: living room • le salon • das wohnzimmer • la sala • i salotto
+ 0.0  M painting | le tableau | das Gemälde | el cuadro | il quadro   
+ 0.1  ⚠ frame | le cadre | der Bilderrahmen | el marco | ?   missing
+ 0.2  ⚠ lamp | la lampe | die Lampe | la lámpara | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.3  ⚠ wall light | l'applique | die Wandlampe | el arbotante | l'anniiniitf»   it
+ 0.4  M clock | la pendule | die Uhr | el reloj | l'orologio   
+ 0.5  M ceiling | le plafond | die Decke | el techo | il soffitto   
+ 0.6  M cabinet | la vitrine | die Vitrine | la vitrina | l'armadictto   
+ 0.7  M sofa | le canapé | das Sofa | el sofá | il divano   
+ 0.8  M pillow | le coussin | das Sofakissen | el cojín | il cuscino   
+ 0.9  M coffee table | la table basse | der Couchtisch | la mesa de centro | il tavolino   
+ 0.10 M floor | le sol | der Fußboden | el piso | il pavimento   
+====================================================================================================
+== p058 [casa] 17 voci, 11 flag, 4 mancanti, 0 leftover, header=HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ mirror | le miroir | der Spiegel | eî espejo | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.1  M vase | le vase | die Vase | el larron | il vaso   
+ 0.2  M mantelpiece | la ta bierre de ~ | der Kaminsims | la repisa de la ~ | la mensola del c~   
+ 0.3  M net curtain | le brise-bise | die Gardine | el visillo | la tendina   
+ 0.4  M curtain | le rideau | der Vorhang | la cortina | la tenda   
+ 0.5  M fireplace | la cheminée | der Kamin | la chimenea | il caminetto   
+ 0.6  ⚠ screen | le garde-feu | das Kamingitter | el biombo | I parafuoco   it
+ 0.7  M roller blind | le store | das Rollo | el estor | l'avvolgibile   
+ 0.8  M venenan blind | le store vénitien | die Jalousie | la persiana | la veneziana   
+ 0.9  ⚠ armchair | le fauteuil | ? | ? | ?   missing
+ 0.10 ⚠ molding | la moulure | ? | ? | ?   missing
+ 0.11 ⚠ it » | ? | ? | ? | ?   en missing
+ 0.12 M candle | la bougie | die Kerze | la vela | la candela   
+ 0.13 M bookshelf | la bibliothèque | das Bücherregal | el librero | la libreria   
+ 0.14 ⚠ sofabed | Ic canape-lit | die Bettcouch | el sofá-cam a | il divano letto   fr
+ 0.15 M rug | le tapis | der Teppich | el tapete | il tappeto   
+ 0.16 M study | le bureau | das Arbeitszimmer | el estudio | lo studio   
+====================================================================================================
+== p059 [casa] 26 voci, 14 flag, 2 mancanti, 1 leftover, header=H O M E • I .A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: dining room • la salle à manger • das Esszimmer el comedor • la sala da pranzo
+   parts: dining room • la salle à manger • das esszimmer el comedor • la sala da pranzo
+ 0.0  ⚠ pepper | le poivre | der Pfeffer | la nim irntn | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.1  ⚠ table | la table | der Tisch | la mesa | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.2  M crockery | la vaisselle | das Geschirr | la vajilla | i piatti   
+ 0.3  M chair | la chaise | der Stuhl | la silla | la sedia   
+ 0.4  M cutlery | les couverts | das Besteck | los cubiertos | le posate   
+ 0.5  M back | le dossier | die Lehne | el respaldo | lo schienale   
+ 0.6  M seat | siège | die Srtzfläche | el asiento | il sedile   
+ 0.7  M leg | le pied | das Bein | la pata | la gamba   
+ 0.8  ⚠ May 1 have some ~ | Enco re un peu, ~ | Konnte ich bitte~ | Puedo com er otr~ | Posso averne anc~   de en es fr it
+ 0.9  M set the tab ley | mettre la table | den Tisch decken | poner la mesa | apparecchiare   
+ 0.10 M lunch | le déjeuner | das Mittagessen | la com ida | il pranzo   
+ 0.11 M place mat | le napperon | das Set | el mantel indivi~ | la tovaglia indi~   
+ 0.12   full | rassasié | satt | lleno | sazio   
+ 0.13 ⚠ host | Lhóre | der Gastgeber | el anfitrión | il padrone di ca~   fr
+ 0.14 ⚠ I've had enough,~ | N on m erci, j'e~ | Ich bin satt, da~ | Estoy lleno, gra~ | Ne ho avuto abba~   de en es fr it
+ 0.15 M serve y | servir | servieren | servir | servire   
+ 0.16 M tablecloth | la nappe | die Tischdecke | el mantel | la tovaglia   
+ 0.17 M dinner | le dîner | das Abendessen | la cena | la cena   
+ 0.18 M portion | la portion | die Portion | la ración | la porzione   
+ 0.19 M hostess | hôtesse | die Gastgeberin | la anfitrión a | la padrona di ca~   
+ 0.20 ⚠ That was delicio~ | 'était délicieux | Das war lecker | Estaba riquísim o | Era squisito   en es it
+ 0.21   eat (v) | manger | essen | comer | mangiare   
+ 0.22 M hungry | avoir faim | hungrig | hambriento | affamato   
+ 0.23 M breakfast | le petit déjeuner | das Frühstück | el desayuno | la colazione   
+ 0.24 M guest | l'invité | der Gast | el invitado | l'ospite   
+ 0.25 M meal | le repas | das Essen | la com ida | il pasto   
+   LEFT '"' @[137, 447] (riga singola isolata)
+====================================================================================================
+== p060 [casa] 23 voci, 16 flag, 2 mancanti, 1 leftover, header=H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: crockery and cutlery • la v a is s e lle et le s c o u v e r t s • das Geschirr~
+   parts: crockery and cutlery • la vaisselle et les couverts • das geschirr und das besteck • la v a~
+ 0.0  ⚠ teaspoon | la cuiller à café | ? | ? | ?   missing
+ 0.1  M bowl | le bol | die Schüssel | el plato sopero | la ciotola   
+ 0.2  M coffee cup | la tasse à café | die Kaffeetasse | la taza de café | la tazzina da ca~   
+ 0.3  ⚠ piate | l'assiettc | der Teller | el plato | I piatto   it
+ 0.4  M mug | la grande tasse | der Becher | la taza | la tazza   
+ 0.5  ⚠ teacup | la tasse .1 thé | die Teetasse | lata zade té | la tazza da té   fr
+ 0.6  ⚠ wine glass | le verre à vin | das Weinglas | la copa de vino»~ | ?   es missing
+ 0.7  M tumbler | le verre | das Wasserglas | el vaso | il bicchiere   
+ 0.8  M pitcher | le por | das Kännchen | la jarra | la brocca   
+ 0.9  M egg cup | le coquetier | der Eierbecher | la taza para el ~ | il portauovo   
+ 0.10 M glassware | la verrerie | die Glaswaren | la cristalería | la cristalleria   
+ 0.11 ⚠ French press | la cafetière | die Cafetière | la cafetera de é~ | la caffettiera   en
+ 0.12 M teapot | la théière | die Teekanne | la tetera | la teiera   
+ 0.13 M dinner plate | l'assiette plate | der Essteller | el plato | il piatto piano   
+ 0.14 M soup bowl | l'assiette à sou~ | der Suppenteller | el plato sopero | la scodella   
+ 0.15 M soup spoon | la cuiller à sou~ | der Suppenlöffel | la cuchara sopera | il cucchiaio da ~   
+ 0.16 M napkin ring | le rond dc servi~ | der Serviettenri~ | el servilletero | il portatovaglio~   
+ 0.17 M dessert plate | l'assiette à des~ | der Beilagentell~ | el plato del pan | il piattino   
+ 0.18 M napkin | la servierte | die Serviette | la servilleta | il tovagliolo   
+ 0.19 M spoon | la cuiller | der Löffel | la cuchara | il cucchiaio   
+ 0.20 M knife | le couteau | das Messer | el cuchillo | il coltello   
+ 0.21 M fork | la fourchette | die Gabel | el tenedor | la forchetta   
+ 0.22 M place setting | le couvert | das Gedeck | el lugar en la m~ | il coperto   
+   LEFT 'i 9' @[601, 254] (riga singola isolata)
+====================================================================================================
+== p061 [casa] 19 voci, 8 flag, 0 mancanti, 1 leftover, header=H O M E • L A M A IS O N • DAS HAUS • L A CASA • LA CASA
+-- G0 subcat: kitchen • la cuisine • die Küche • la cocina • la cucina
+   parts: kitchen • la cuisine • die küche • la cocina • la cucina
+ 0.0  M shelves | l'étagère | das Kuchenregal | los estantes | le mensole   
+ 0.1  M ventilation hood | la horre | der Dunstabzug | el extractor | la cappa   
+ 0.2  M splashback | le revêtement | der Spntzschutz | el trente de la ~ | il pannello di p~   
+ 0.3  M ceramic stovetop | la table de cuis~ | das Glaskeramikk~ | la placa vitroce~ | il fornello di c~   
+ 0.4  M faucet | le robinet | der Wasserhahn | el grifo | il rubinetto   
+ 0.5  M countertop | le plan de trava~ | die Arbeitsfläche | la plancha | il piano di lavo~   
+ 0.6  M sink | l'évier | das Spülbecken | fregadero | il lavandino   
+ 0.7  M oven | le four | der Backofen | el horno | il forno   
+ 0.8  M drawer | le tiroir | die Schublade | el cajón | il cassetto   
+ 0.9  M cabinet | le placard | der Küchenschrank | la gaveta | l'armadietto   
+-- G1 subcat: a p p lia n ce s • le s a p p a r e ils m é n a g e rs • die Küchengeräte • lo ~
+   parts: appliances • les appareils ménagers • die küchengeräte • lo s e le c t r o d o m é s t ic o~
+ 1.0  M lid | le couvercle | der Deckel | la lapa | il coperchio   
+ 1.1  M work bowl | le bol du mixeur | die Mixerschüssel | el recipiente | il recipiente   
+ 1.2  M biade | la lame | das Messer | la cuchilla | la lama   
+ 1.3  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['microwave oven', 'le m icroonde«', 'die Mikrowelle', 'd m icroondas', 'il', '>rno a microonde']
+ 1.4  ⚠ teakettle | la bouilloire él~ | der Elektro kess~ | la jarra para he~ | I bollitore   it
+ 1.5  M toaster | le grille pam | der Toaster | el tostador | il tostapane   
+ 1.6  ⚠ food processor | le robot ménager | die Küchenmaschi~ | d m u lti m ezcl~ | il miscelatore   es
+ 1.7  M blender | le mixeur | der Mixer | la lidiadora | il frullatore   
+ 1.8  M dishwasher | le lave vaisselle | die Spülmaschine | la lavavajilla | la lavastoviglie   
+   LEFT '66' @[38, 1106] (riga singola isolata)
+====================================================================================================
+== p062 [casa] 29 voci, 24 flag, 0 mancanti, 0 leftover, header=H O M E • I A M A IS O N • DAS HAUS * I.A C A S A • LA CASA
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M refrigerator | le frig id aire | der Kühlschrank | el refrigerador | il frigorifero   
+ 0.1  M ice maker | le freezer | das Eisfach | la máquina de lo~ | il fabbrica ghia~   
+ 0.2  M stove | la table de cuis~ | das Kochfeld | la hornilla | la piastra   
+ 0.3    freeze (v) | congeler | emitieren | congelar | congelare   
+ 0.4  ⚠ draining board | l'égouttoir | das Abtropfbrett | ‘ el escurridor | il gocciolatoio   es
+ 0.5    defrost (v) | décongeler | auftauen | descongelar | scongelare   
+ 0.6  M shelf | la clayette | der Rost | la charola | la mensola   
+ 0.7  ⚠ eezer | e congélateur | das Gefrierfach | el congelador | I congelatore   it
+ 0.8  M burner | le brûleur | der Brenner | el quemador | il fornello   
+ 0.9  M steam (v) | cuire à la vapeur | dampfen | cocer al vapor | cuocere al vapore   
+ 0.10 M crisper | le bac à légumes | das Gemüsefach | el cajón de las ~ | il cassetto per ~   
+ 0.11 M garbage can | la poubelle | der Mülleimer | el bote de basura | la pattumiera   
+ 0.12 M sauté (v) | sauter | anbraten | saltear | saltare in padel~   
+ 0.13 ⚠ e'ngerator-freez~ | le réfrigérateur~ | der Gefrier-Kuhl~ | e! refrigerador ~ | il frig ocongela~   es
+-- G1 subcat: cooking • la cuisine • das Kochen • cocinar • cucinare
+   parts: cooking • la cuisine • das kochen • cocinar • cucinare
+ 1.0    peel (v) | éplucher | schälen | pelar | sbucciare   
+ 1.1    slice (v) | couper | schneiden | cortar | affettare   
+ 1.2    grate (v) | râper | reiben | rallar | grattugiare   
+ 1.3    pour (v) | verser | gießen | vaciar | versare   
+ 1.4    mix (v) | mélanger | verrühren | mezclar | mescolare   
+ 1.5    boil (v) | bouillir | kochen | hervir | bollire   
+ 1.6    fry (v) | frire | braten | freír | friggere   
+ 1.7  M roll (v) | abaisser à roule~ | ausrollen | amasar con el ro~ | spianare   
+ 1.8    stir (v) | remuer | rühren | remover | rimestare   
+ 1.9  ⚠ «wtiísk (v) | bartre | schlagen | batir | sbattere   en
+ 1.10   poach (v) | pocher | pochieren | escalfar | affogare   
+ 1.11 M s-mmer (v) | mijoter | socheln lassen | cocer a fuego le~ | cuocere a fuoco ~   
+ 1.12 M bake (v) | cuire au four | backen | hornear | cuocere al forno   
+ 1.13   roast (v) | rôtir | braten | asar | arrostire   
+ 1.14 ⚠ gnll / | griller | grillen | asar a la parril~ | cuocere alla gri~   en
+====================================================================================================
+== p063 [casa] 28 voci, 28 flag, 1 mancanti, 2 leftover, header=H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: kitchenware • les ustensiles de cuisine • die Küchengeräte • los utensilios de ~
+   parts: kitchenware • les ustensiles de cuisine • die küchengeräte • los utensilios de cocina • gli~
+ 0.0  M bread knife | le couteau a pain | das Brotmesser | el cuchillo de s~ | il coltello da p~   
+ 0.1  ⚠ cutting board | la planche à hac~ | das Hackbrett | !a tabla para co~ | il tagliere   es
+ 0.2  M paring knife | le couteau de cu~ | das Kuchenmesser | el cuchillo de c~ | il coltello da c~   
+ 0.3  M meat deaver | le fendoir | das Hackmesser | el hacha de coci~ | la mannaia   
+ 0.4  ⚠ knife sharpener | l'aiguisoir | der Messer schär~ | el afilador | 1‘affilacoltelli   it
+ 0.5  M meat tenderizer | l'écrase-viande | der Fleischklopf~ | el mazo de cocina | il martello   
+ 0.6  M skewer | la broche | der Spieß | e i pincho | lo spiedino   
+ 0.7  ⚠ pilon | der Stößel | amanode | mortero | il pestello   fr
+ 0.8  ⚠ V « V V V | H M « | 9 9 1 1 9 t | 9 9 9t« | 999999 9 9 9 9 9   de en es fr it wrap
+        ALTS: [{'en': 'V « V V V', 'fr': 'H M «', 'de': '9 9 1 1 9 t', 'es': '9 9 9t« 999999', 'it': '9 9 9 9 9'}, {'en': 'V « V V V', 'fr': 'H M «', 'de': '9 9 1 1 9 t 9 9 9t«', 'es': '999999', 'it': '9 9 9 9 9'}]
+ 0.9  M peeler | l'épluche légume | der Schäler | el pelador | il pelapatate   
+ 0.10 M apple corer | le vide-pomme | der Apfelstecher | el descorazonador | il cavatorsoli   
+ 0.11 M grater | la râpe | die Reibe | el rallador | la grattugia   
+ 0.12 M mortar | le mortier | der Mörser | el mortero | il mortaio   
+ 0.13 M masher | le presse purée | der Kartoffel st~ | el machacador | la schiacciapata~   
+ 0.14 M can opener | l'ouvre boitc | der Dosenöffner | el abrelatas | l'apriscatole   
+ 0.15 ⚠ bottle opener | Louvre-bouteille | der Flaschenöffn~ | el destapador | l'apribottiglie   fr
+ 0.16 M serving spoon | la cuiller à ser~ | der Servierlöffel | la cuchara de se~ | il cucchiaio da ~   
+ 0.17 ⚠ garlic press | le presse ail | die Knoblauchpre~ | el exp rim id o ~ | lo spremiaglio   es
+ 0.18 M fish spatula | la truelle | der Pfannenwender | la pala | la paletta forata   
+ 0.19 M colander | la passoire | das Sieb | el escurridor | lo scolapasta   
+ 0.20 M spatula | la spatule | der Spachtel | la espátula | la spatola   
+ 0.21 M wooden spoon | la cuiller en bo~ | der Holzlöffel | la cuchara ele m~ | il cucchiaio di ~   
+ 0.22 M mesh skimmer | l'écumoire | der Schaumlöffel | la espumadera | il cucchiaio per~   
+ 0.23 M ladle | la louche | der Schöpflöffel | ei cucharón | il mestolo   
+ 0.24 M carving fork | la fourchette à ~ | die Tranchiergab~ | el trinche | il forchettone   
+ 0.25 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['ice-cream scoop', 'la cuiller whisk', 'le fouet à glace', 'der Portìomerer', 'la cuchara para helado', 'il cucchiaio dosatore']
+ 0.26 M strainer | la passoire | das Sieb | el colador | il colino   
+ 0.27 ⚠ ? | ? | der Schneebesen | el globo para ba~ | la frusta   missing
+   LEFT 'fl' @[823, 141] (riga singola isolata)
+   LEFT 'O' @[334, 389] (riga singola isolata)
+====================================================================================================
+== p064 [casa] 27 voci, 27 flag, 3 mancanti, 0 leftover, header=H O M E • T.A M A IS O N • DAS HAUS • I A C A S A • IA CASA
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ lid | le couvercle | der Deckel | ? | ?   missing
+ 0.1  ⚠ nonstick | anri-adhcrcnr | ? | ? | ?   missing
+ 0.2  M frying pan | la poêle | die Bratpfanne | la sartén | la padella   
+ 0.3  M saucepan | la casserole | der Kochtopf | la cacerola | la pentola   
+ 0.4  M griddle | le gril | das Grillblech | la parrilla | la padella per g~   
+ 0.5  ⚠ wok | le w ok | der Wok | e l.w ok | il wok   es fr
+ 0.6  M earthenware dish | le fait roui | der Schmortopf | la olla de barro | la casseruola di~   
+ 0.7  M ovenproof | allant au tour | feuerfest | resistente al ho~ | pirofilo   
+ 0.8  M glass | en verre | Glas | de cristal | di vetro   
+ 0.9  M gratin dish | le plat à gratin | die Auflaufform | la fuente para g~ | il piatto da gra~   
+ 0.10 M mixing bowl | le grand hol | die Rührschüssel | la ensaladera | la scodella   
+ 0.11 M soufflé dish | le moule à souff~ | die Souffléform | el molde para su~ | lo stampo per so~   
+ 0.12 M ramekin | le ram equin | das Auflaufförmc~ | el molde individ~ | lo stampo   
+ 0.13 ⚠ casserole dish | la cocotte «die ~ | ? | la cazuela | la casseruola   fr missing
+-- G1 subcat: baking cakes • la pâtisserie • das Kuchenbacken • la reposteria • la cottura de~
+   parts: baking cakes • la pâtisserie • das kuchenbacken • la repostería • la cottura dei dolci
+ 1.0  M measuring cup | le pot gradué | der Messbecher | la taza medidora | il bricco misura~   
+ 1.1  M cake pan | le moule à gâtea~ | die Kuchenform | el molde para pa~ | lo stampo per do~   
+ 1.2  ⚠ flan pan | le m oule è carre | die Obstkuchen f~ | la llanera | lo stampo per fl~   fr
+ 1.3  M pie pan | la tourtière | die Pastetenform | el molde redondo | lo stampo per to~   
+ 1.4  M scales | la balance | die Haushaltswaa~ | la báscula de co~ | la bilancia   
+ 1.5  M piping bag | la poche à douil~ | der Spritzbeutel | la dulía | la tasca da past~   
+ 1.6  M pastry brush | le pinceau à pât~ | der Backpinsel | la brocha de coc~ | il pennello da c~   
+ 1.7  M rolling pin | le rouleau pâtis~ | das Nudelholz | el rodillo de co~ | il mattarello   
+ 1.8  M cooling rack | la grille de ref~ | das Abkühlgitter | la rejilla | la gratella   
+ 1.9  M oven mitt | le gant isolant | der Topfhandschuh | el guanti- de co~ | il guanto da for~   
+ 1.10 M apron | le tablier | die Schürze | el delantal | il grembiule   
+ 1.11 M cookie sheet | la plaque à gâte~ | das Kuchenblech | la charola de ho~ | la placca da for~   
+ 1.12 ⚠ muffìn pan | le moule à m uff~ | die Törtchen form | el molde para pa~ | la teglia per pa~   fr
+====================================================================================================
+== p065 [casa] 15 voci, 10 flag, 5 mancanti, 0 leftover, header=HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: bedroom • la chambre • das Schlafzimmer • la recámara • la camera da letto
+   parts: bedroom • la chambre • das schlafzimmer • la recámara • la camera da letto
+ 0.0  M wardrobe | l'armoire | der Kleiderschra~ | el armario | l'armadio   
+ 0.1  M bedside lamp | la lampe de chev~ | die Nachttischla~ | la lam para del ~ | la lampadina   
+ 0.2  M headboard | la tête de lit | das Kopfende | la cabecera | la testata   
+ 0.3  M nightstand | la table de nuit | der Nachttisch | el buró | il comodino   
+ 0.4  M chest of drawers | la commode | die Kommode | la cómoda | il cassettone   
+ 0.5  ⚠ ? | le tiroir | die Schublade | el cajón | il cassetto   missing
+ 0.6  ⚠ ? | le lit | das Bett | Id cama | il letto   es missing
+ 0.7  ⚠ ? | le matelas | die Matratze | el colchón | il materasso   missing
+ 0.8  ⚠ ? | le couvre-lit | die Tagesdecke | la colcha | ii copriletto   missing
+ 0.9  ⚠ l‘oreiller | ? | das Kopfkissen | la almohada | il guanciale   en missing slot-ambig
+        ALTS: [['fr', 'de', 'es', 'it']]
+ 0.10 M hot-water bottle | la bouillotte | die Wärmflasche | la bolsa de agua~ | la borsa calda   
+ 0.11 M clock radio | le radio réveil | der Radiowecker | la radio despert~ | la radiosveglia   
+ 0.12 M alarm dock | le réveil | der Wecker | el reloj despert~ | la sveglia   
+ 0.13 ⚠ box of tissues | la boîte de klee~ | die Papiertasche~ | la caja de pañue~ | la scatola di fa~   es it
+ 0.14 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['coat hanger', 'le', 'cintre', 'der Kleiderbügel', 'el gancho', 'la gruccia']
+====================================================================================================
+== p066 [casa] 24 voci, 11 flag, 0 mancanti, 0 leftover, header=HOME • I A MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: bed linen • le linge de lir • die Bettwäsche • la ro p a d e c a m a • la bianc~
+   parts: bed linen • le linge de lir • die bettwäsche • la ropa de cama • la biancheria da letto
+ 0.0  M pillowcase | la taie d'oreill~ | der Kissenbezug | la funda de la a~ | la federa   
+ 0.1  M mirror | le miroir | der Spiegel | el espejo | lo specchio   
+ 0.2  M sheet | le drap | das Bettlaken | la sábana | il lenzuolo   
+ 0.3  M valance | la frange de lit | der Volant | d cubrecanapé | il volant   
+ 0.4  M vanity table | la coûteuse | der Frisiertisch | el tocador | la toeletta   
+ 0.5  M comforter | la couette | die Bettdecke | el edredón | la coperta imbot~   
+ 0.6  M quilt | l'edredon | die Steppdecke | la colcha | la trapunta   
+ 0.7  M blanket | la couverture | die Decke | la cobija | la coperta   
+ 0.8  M floor | le sol | der Fußboden | el suelo | il pavimento   
+ 0.9  M set the alarm (v) | mettre le réveil | den Wecker stell~ | poner el despert~ | mettere ta svegl~   
+ 0.10 M wake up (v) | sc réveiller | aufwachen | despertarse | svegliarsi   
+ 0.11 M insomnia | l'insomnie | die Schlaflosigk~ | el insomnio | l'insonnia   
+ 0.12 M footboard | le pied de lit | das Fußende | el pie de la cama | la pedana del le~   
+ 0.13 M single bed | le lit simple | das Einzelbett | la cama individu~ | lì letto singolo   
+ 0.14   snore (v) | ronfler | schnarchen | roncar | russare   
+ 0.15 M get up (v) | se lever | aufstehen | levantarse | alzarsi   
+ 0.16 M go to bed (v) | se coucher | ins Bett gehen | acostarse | andare a letto   
+ 0.17 M box spring | le ressort | die Sprungfeder | el resorte | la molla   
+ 0.18 ⚠ double bed | le vrand lit | das Doppelbett | ia cama m atrim ~ | il letto matrimo~   es
+ 0.19 M closet | l'armoire encast~ | der Einbauschrank | el armario empot~ | l'armadio a muro   
+ 0.20 M make the bed (v) | faire le lit | das Bett machen | hacer la cama | fare il letto   
+ 0.21 M go to sleep (v) | s' endormir | einschlafen | dormir se | addormentarsi   
+ 0.22 M electric blanket | ia couverture ch~ | die Heizdecke | cobija eléctrica | ia termocoperta   
+ 0.23 M carpet | le rapis | der Teppich | el tapete | il tappeto   
+====================================================================================================
+== p067 [casa] 23 voci, 8 flag, 1 mancanti, 1 leftover, header=H O M E • LA M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: bathroom • la salle de bain • das Badezimmer • el baño • la stanza da bagno
+   parts: bathroom • la salle de bain • das badezimmer • el baño • la stanza da bagno
+ 0.0  M towel rack | le porte-servi e~ | der Handtuchhalt~ | el toallero | il portasciugama~   
+ 0.1  M shower door | la porte de douc~ | die Duschtür | la pilerìa de la~ | la porta della d~   
+ 0.2  ⚠ cold faucet | le robinet d'eau~ | der Kaltwasserha~ | ? | ?   missing
+ 0.3  M hot faucet | le robinet d'eau~ | der Heißwasserha~ | la llave de agua~ | il rubinetto del~   
+ 0.4  M shower head | le pommeau de do~ | der Duschkopf | la piña de la re~ | il soffione dell~   
+ 0.5  M sink | le lavabo | das Waschbecken | el lavabo | il lavandino   
+ 0.6  M shower | la douche | die Dusche | la regadera | la doccia   
+ 0.7  M stopper | la bonde | der Stöpsel | el tapón | il tappo   
+ 0.8  M drain | le tuyau d'écoul~ | der Abfluss | el desagüe | lo scolo   
+ 0.9  M toilet seat | le siège des toi~ | der Toilettensitz | la tapa del excu~ | il sedile   
+ 0.10 M bathtub | la baignoire | die Badewanne | la tina | la vasca   
+ 0.11 M toilet | les toilettes | die Toilette | el excusado | il water   
+ 0.12 M toilet brush | la brosse | die Toilettenbür~ | la escobilla del~ | la spazzola da w~   
+ 0.13 M medicine cabinet | la pharmacie de ~ | die Hausapotheke | el botiquín | l'armadiettu dei~   
+ 0.14 M bathmat | le tapis de bain | die Badematte | el tapete de baño | lo scendibagno   
+-- G1 subcat: dental hygiene • l'hygiène dentaire • die Zahnpflege • la higiene dentai • l'ig~
+   parts: dental hygiene • l'hygiène dentaire • die zahnpflege • la higiene dentai • l'igiene dentale
+ 1.0  M dentai floss | le lil dentaire | die Zahnseide | el hilo dental | il filo interden~   
+ 1.1  M toothbrush | la brosse à dents | die Zahnbürste | el cepillo de di~ | lo spazzolino da~   
+ 1.2  M toilet paper | le rouleau de pa~ | die Rolle Toilet~ | el rollo de pape~ | la carta igienica   
+ 1.3  M shower curtain | le rideau de dou~ | der Duschvorhang | la cortina de la~ | la tenda da docc~   
+ 1.4  M take a shower (v) | prendre une douc~ | duschen | bañarse | farsi la doccia   
+ 1.5  M take a bath (v) | prendre un bain | baden | darse un baño | farsi il bagno   
+ 1.6  M toothpaste | le dentifrice | die Zahnpasta | la pasta de dien~ | il dentifricio   
+ 1.7  M mouthwash | l'cau dentifrice | das Mundwasser | el enjuague bucal | il colludono   
+   LEFT "il rubinetto dell'acqua fredda" @[345, 217] (riga singola isolata)
+====================================================================================================
+== p068 [casa] 23 voci, 19 flag, 4 mancanti, 2 leftover, header=HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ ? | le luffa | der Luffaschwamm | el zacate | la luffa   missing
+ 0.1  ⚠ vA A | Vi | ? | ? | ?   fr missing slot-ambig
+        ALTS: [['en', 'de'], ['en', 'es'], ['en', 'it']]
+ 0.2  ⚠ N | ? | ? | ? | ?   en missing
+ 0.3  ⚠ pumice stone | l.i pierre ponce | der Bimsstein | la piedra pómez | la pomice   fr
+ 0.4  M back brush | la brosse pour l~ | die Ruckenburste | el cepillo para ~ | la spazzola   
+ 0.5  M sponge | l éponge | der Schwamm | la esponja | la spugna   
+ 0.6  M deodorant | le déodorant | das Deo | el desodorante | il deodorante   
+ 0.7  M soap dish | le porte-savon | die Seifenschale | la jabonera | il portasapone   
+ 0.8  M shower gel | le pel douche | das Duschgel | el shampoo para ~ | la doectaschiuma   
+ 0.9  M soap | le savon | die Seife | el jabón | il sapone   
+ 0.10 M face cream | la crème pour le~ | die Gesichtscreme | lacre mapa rala ~ | la crema per il ~   
+ 0.11 M bubble bath | le bain moussant | das Schaumbad | el gel de baño | il bagnoschiuma   
+ 0.12 ⚠ and towel | ia serv ierte | aas Handtuch | « toalla de mano | "asciugamano pic~   es it
+ 0.13 ⚠ bath towel | la serviette de ~ | das Badetuch | la toalla de baño | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.14 M body lotion | la lotion pour l~ | die Korperlotion | la crema para el~ | la lozione per i~   
+ 0.15 M talcum powder | le talé | der Körperpuder | el talco | il talco   
+ 0.16 M towels | les serviertes | die Handtücher | las toallas | gli asciugamani   
+ 0.17 M bathrobe | le peignoir | der Bademantel | la bata | l'accappatoio   
+-- G1 subcat: shaving • le rasage • das Rasieren • el afeitado • la rasatura
+   parts: shaving • le rasage • das rasieren • el afeitado • la rasatura
+ 1.0  M electric razor | le rasoir électr~ | der Elektrorasie~ | la rasuradura | il rasoio elettr~   
+ 1.1  M razor biade | la lame de rasoir | die Rasierklinge | la hoja de afeit~ | la lametta   
+ 1.2  M shaving cream | la mousse araser | der Rasierschaum | la espuma de afe~ | la schiuma da ba~   
+ 1.3  ⚠ disposable razor | le rasoir jetable | der Einwegrasier~ | la navaja de afe~ | il rasoio monouso   es
+ 1.4  ⚠ aftershave | Latter-shave | das Rasierwasser | el aftershave | il dopobarba   fr
+   LEFT 'grande' @[290, 664] (riga singola isolata)
+   LEFT '%' @[418, 1020] (riga singola isolata)
+====================================================================================================
+== p069 [casa] 17 voci, 14 flag, 3 mancanti, 0 leftover, header=HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: nursery • la chambre d'enfants • das Kinderzimmer • la habitación de los niños ~
+   parts: nursery • la chambre d'enfants • das kinderzimmer • la habitación de los niños • la camera ~
+-- G1 subcat: baby care • Ics soins de bébé • die Säuglingspflege • el cuidado del bebé
+   parts: baby care • ics soins de bébé • die säuglingspflege • el cuidado del bebé
+ 1.0  ⚠ ? | l'igiene del neo~ | ? | ? | ?   missing
+ 1.1  M diaper rash cream | la crème pour l'~ | die Wundsalbe | la crem a para l~ | la pomata antiro~   
+ 1.2  M wet wipe | la serviette hum~ | das Erfrischungs~ | la tool li ta hú~ | la salvicttma um~   
+ 1.3  ⚠ sponge | l'éponge | der Schwamm | la esponja | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 1.4  M baby bath | la baignoire en ~ | die Babywanne | ía tina de plást~ | la vaschetta   
+ 1.5  ⚠ changing mat | le maretas à lan~ | ? | el cambiador | il materassi no   fr missing
+-- G2 subcat: sleeping • le coucher • das Schlafen • la hora de dorm ir • la dormita
+   parts: sleeping • le coucher • das schlafen • la hora de dormir • la dormita
+ 2.0  M sheet | le drap | das Laken | la sábana | il lenzuolo   
+ 2.1  M blanket | la couverture | die Decke | la cobija | la coperta   
+ 2.2  M mobile | le mobile | das Mobile | el móvil | il mobile   
+ 2.3  M bars | les barreaux | die Gitterstäbe | los barrotes | le sbarre   
+ 2.4  ⚠ fleece | la Couverture la~ | die Flauschdecke | el vellón | la felpa   fr
+ 2.5  M bedding | la literie | das Bettzeug | la ropa de cama | la biancheria da~   
+ 2.6  M bumper | le protège-barre~ | der Kopfschutz | el protector | il paracolpi   
+ 2.7  M mattress | le matelas | die Matratze | el colchón | il materasso   
+ 2.8  M rattle | le hochet | die Rassel | la sonaja | il sonaglio   
+ 2.9  M moses basket | le moïse | das Körbchen | el moisés | il portabebè   
+ 2.10 M crib | le lit d' enfant | das Kinderbett | la cuna | il lettino   
+====================================================================================================
+== p070 [casa] 23 voci, 19 flag, 2 mancanti, 3 leftover, header=H O M E • L A M A IS O N * • DAS HAUS • L A C A S A • LA CA~
+-- G0 subcat: playing • le jeu • das Spielen • los juegos • il gioco
+   parts: playing • le jeu • das spielen • los juegos • il gioco
+-- G1 subcat: safety • la sécurité • die
+   parts: safety • la sécurité • die
+ 1.0  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['Sicherheit', 'la seguridad', 'la sicurezza child latches', 'la serrure de sécurité', 'die Kindersicherung', 'el cierre de seguridad', 'il fermo di sicurezza']
+ 1.1  M doli | la poupée | die Puppe | la muñeca | lo bambola   
+ 1.2  M dollhouse | la maison Je pou~ | das Puppenhaus | la casa de muñec~ | la casa delle ba~   
+ 1.3  M playhouse | la maison pliante | das Spielhaus | la casa de jugue~ | la casa da gioco   
+ 1.4  M spiffed toy | le jouet en pelu~ | das Kuscheltier | el muñeco de pel~ | il giocattolo di~   
+ 1.5  M baby monitor | le moniteur | die Babysprechan~ | el intercom unic~ | la trasmittente   
+ 1.6  ⚠ teddy bear | Tours en peluche | der Teddy | el oso de peluche | l'orsacchiotto   fr
+ 1.7  M toy | le jouet | das Spielzeug | el juguete | il giocattolo   
+ 1.8  M ball | la balle | der Ball | la pelota | la palla   
+ 1.9  M stair gate | la barrière d'cs~ | das Treppengitter | la barrera de se~ | lo sbarramento   
+ 1.10 M playpen | le pare | der Laufstall | el corral | il box   
+ 1.11 M voy basket | le panier à joue~ | der Spielzeugkorb | el cesto de los ~ | il cesto dei gio~   
+-- G2 subcat: going out • la sorrie • das Ausgehen • el paseo • la passeggiata
+   parts: going out • la sorrie • das ausgehen • el paseo • la passeggiata
+ 2.0  ⚠ eating | le manger | ? | ? | il pasto   missing
+-- G3 subcat: • das Essen • la comida
+   parts: das essen • la comida
+ 3.0  M hood | la capote | das Verdeck | la capota | la capote   
+ 3.1  M stroller | la poussette | der Sportwagen | la carriola | il passeggino   
+ 3.2  M baby buggy | le landau | der Kinderwagen | la carriola | la carrozzina   
+ 3.3  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ["'»gh chair", 'la chaise haute', 'der Kinderstuhl', 'la periquera', 'il seggiolone nipple', 'la retine', 'der Sauger', 'el chupón', 'la Tettarella']
+ 3.4  M diaper | la couche | die Windel | el pañal | il pannolino   
+ 3.5  ⚠ drinking cup | la tasse | der Babybecher | la taza | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 3.6  M diaper bag | le sac | die Babytasche | la pañalera | la borsa dei ric~   
+ 3.7  M front pack | le porte-bebé | die Babytragesch~ | la cangurera | il marsupio   
+ 3.8  M bassinet | le couffin | das Tragebeuchen | el bam bineto | la culla portati~   
+ 3.9  M bottle | le biberon | die Babyflasche | la marnila | il biberon   
+   LEFT '?' @[332, 658] (riga singola isolata)
+   LEFT '1' @[378, 658] (riga singola isolata)
+   LEFT 'la tazza per bere' @[90, 1015] (riga singola isolata)
+====================================================================================================
+== p071 [casa] 20 voci, 14 flag, 0 mancanti, 3 leftover, header=H O M E - I A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: utility room • la buanderie • der Allzweckraum • la lavandería • la lavanderia
+   parts: utility room • la buanderie • der allzweckraum • la lavandería • la lavanderia
+-- G1 subcat: laundry • le linge • die Wäsche • la colada • il bucato
+   parts: laundry • le linge • die wäsche • la colada • il bucato
+ 1.0  M dirty laundry | le linge sale | die schmutzige W~ | la ropa sucia | i panni sporchi   
+ 1.1  M dean clothes | le linge propre | die saubere Wäsc~ | la ropa limpia | i vestiti puliti   
+ 1.2  ⚠ laundry basket | le panier à linge | der Wäschekorb | el cesto cíe la ~ | I cesto della bi~   it
+ 1.3  M washing machine | le lave-linge | die Waschmaschine | la lavadora | la lavatrice   
+ 1.4  M washer-dryer | le lave linge sé~ | der Waschautomat~ | la lavadora seca~ | il lavasciuga   
+ 1.5  M tumble dryer | le sèche-linge | der Trockner | la secadora | l'asciugabianche~   
+ 1.6  M linen basket | le panier à linge | der Wäschekorb | el cesto de la r~ | il cesto della b~   
+ 1.7  M clothesline | la corde à linge | die Wäscheleine | el tendedero | la corda per buc~   
+ 1.8  M clothespin | la pince à linge | die Wäscheklammer | la pinza para la~ | la molletta   
+ 1.9  M ron | le fer à repasser | das Bügeleisen | la plancha | il ferro da stiro   
+ 1.10 ⚠ dry (v) | sécher | trocknen | sot .ir | asciugare   es
+ 1.11 M ironing board | la planche à rep~ | das Bügelbrett | el burro de la p~ | l'asse da stiro   
+ 1.12   load (v) | charger | füllen | cargar | caricare   
+ 1.13   spin (v) | essorer | schleudern | centrifugar | centrifugare   
+ 1.14   iron (v) | repasser | bügeln | planchar | stirare   
+ 1.15 ⚠ How do I operate~ | Comment fonction~ | Wie benutze ich ~ | Cóm o funciona l~ | Come funziona la~   de en es fr it
+ 1.16   rinse (v) | rincer | spulen | aclarar | sciacquare   
+ 1.17 M spin dryer | l'essoreuse | die Wäscheschleu~ | la centrífuga | la centrifuga   
+ 1.18 M fabric condition~ | le produit assou~ | der Weichspuler | el suavizante | l'ammorbidente   
+ 1.19 ⚠ W hat is the set~ | Quel est le prog~ | Welches Programm~ | Cuál es el progr~ | Oual è il progra~   de en es fr it
+   LEFT 'Sh' @[88, 347] (riga singola isolata)
+   LEFT 'á 4 fv i' @[124, 347] (riga singola isolata)
+   LEFT 'S' @[839, 586] (riga singola isolata)
+====================================================================================================
+== p072 [casa] 21 voci, 19 flag, 2 mancanti, 2 leftover, header=HOME • L A MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: cleaning equipment • Péquipement d'entretien • die Reinigungsartikel • el equip~
+   parts: cleaning equipment • péquipement d'entretien • die reinigungsartikel • el equipo de lim pie~
+ 0.0  ⚠ ? | ? | ? | ? | gli accessori pe~   missing
+ 0.1  M brush | la baia verte | der Handfeger | el cepillo | la spazzola   
+ 0.2  ⚠ suction hose | le tuyau flexible | der Saugschlauch~ | ? | ?   missing
+ 0.3  M bleach | l'eau de Javel | das Reinigungsmi~ | la lejía | lavare china   
+ 0.4  M dustpan | la pelle | die Müllschaufel | el recogedor | la paletta   
+ 0.5  M dust doth | le chiffon | das Staubtuch | el sacudidor | lo spolverino   
+ 0.6  M powder | la poudre | das Pulver | en polvo | en polvere   
+ 0.7  M liquid | le liquide | die Flüssigkeit | líquido | liquido   
+ 0.8  M pail | le seau | der Eimer | el cubo | il secchio   
+ 0.9  ⚠ vacuum cleaner | l'aspirateur | der Staubsauger | la aspiradora | 1‘aspirapolvere   it
+ 0.10 M mop | le balai laveur | der Mopp | el trapeador | la scopa di spug~   
+ 0.11 M detergent | le détergent | das Waschmittel | el detergente | il detergente   
+ 0.12 M polish | la cire | die Politur | la cera | la cera   
+-- G1 subcat: activities • les activités • die Tätigkeiten • las acciones • le attività
+   parts: activities • les activités • die tätigkeiten • las acciones • le attività
+ 1.0    wash (v) | laver | spülen | fregar | lavare   
+ 1.1    clean (v) | nerroyer | putzen | limpiar | pulire   
+ 1.2    wipe (v) | essuyer | wischen | trapear | asciugare   
+ 1.3  M scrub (v) | laver à la brosse | schrubben | restregar | fregare   
+ 1.4    sweep (v) | balayer | fegen | barrer | spazzare   
+ 1.5  M dust (v) | épousseter | Staub wischen | sacudir | spolverare   
+ 1.6    polish (v) | cirer | polieren | pulir | lucidare   
+ 1.7    scrape (v) | rader | kratzen | raspar | raschiare   
+   LEFT 's j A' @[680, 672] (riga singola isolata)
+   LEFT '«atf' @[817, 672] (riga singola isolata)
+====================================================================================================
+== p073 [casa] 19 voci, 14 flag, 1 mancanti, 0 leftover, header=H O M E • I A M A IS O N • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: w orkshop • l'atelier • die Heimwerkstatt • el taller • il laboratorio
+   parts: workshop • l'atelier • die heimwerkstatt • el taller • il laboratorio
+ 0.0  M chuck | le mandrin | das Bohrfutter | el cabezal | il mandrino   
+ 0.1  M drill bit | la mèche | der Bohrer | la broca | la punta   
+ 0.2  M battery pack | la pile | die Batterie | la batería | la batteria   
+ 0.3  M jigsaw | la scie sauteuse | die Stichsage | la sierra de vai~ | la sega da trafo~   
+ 0.4  M rechargeable dnll | la perceuse rech~ | der Bohrer mit B~ | taladro inalámbr~ | il trapano ricar~   
+ 0.5  ⚠ electric drill | la perceuse élec~ | der Elektrobohrer | el taladro eléct~ | I trapano elettr~   it
+ 0.6  M glue gun | le pistolet à co~ | die Leimpistole | la pistola para ~ | la pistola per c~   
+ 0.7  M clamp | le serre-joint | die Zwinge | la abrazadera | il morsetto   
+ 0.8  ⚠ biade | la lame | das Blatt cuchil~ | ? | ?   missing
+ 0.9  M vise | l'étau | der Schraubstock | el tornillo de b~ | la morsa   
+ 0.10 M sander | la ponceuse | die Schleifmasch~ | la lijadura | la levigatrice   
+ 0.11 ⚠ circular saw | la scie circulai~ | die Kreissäge | la .sierra circu~ | la sega circolare   es
+ 0.12 M workbench | l'établi | die Werkbank | el banco de trab~ | il banco da lavo~   
+ 0.13 M wood glue | la colle à bois | der Holzleim | el pegamento tie~ | la colla da legno   
+ 0.14 M tool rack | le porte-outils | das Werkzeuggest~ | el organizador d~ | la rastrelliera ~   
+ 0.15 M router | la guimbarde | der Grundhobel | la guimbarda | la contnrmtrice   
+ 0.16 M bit brace | le vilebrequin | die Bohrwinde | el taladro manual | il girabacchino   
+ 0.17 M wood shavings | les copeaux | die Holzspäne | las virutas de m~ | i trucioli   
+ 0.18 M extension cord | le prolongateur | die Verlängerung~ | la extensión | la prolunga   
+====================================================================================================
+== p074 [casa] 22 voci, 16 flag, 2 mancanti, 1 leftover, header=H O M E • L A M A IS O N • DAS HAUS • L A CASA • LA CASA
+-- G0 subcat: techniques • les techniques • die Fertigkeiten • las técnicas • le tecniche
+   parts: techniques • les techniques • die fertigkeiten • las técnicas • le tecniche
+ 0.0    hammer (v) | marteler | hámmem | clavar | martellare   
+ 0.1    drill (v) | percer | bohren | taladrar | forare   
+ 0.2    saw (v) | scier | sagen | serrar | segare   
+ 0.3    cut (v) | découper | schneiden | cortar | tagliare   
+ 0.4  ⚠ solder | la soudure | der Lötzinn | ? | ?   missing
+ 0.5    tum (v) | tourner | drechseln | tornear | tornire   
+ 0.6    carve (v) | sculpter | schnitzen | tallar | incidere   
+ 0.7    solder (v) | souder | löten | soldar | saldare   
+ 0.8  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['o¡ane (v)', 'raboter', 'hobeln', 'cepillar', 'piallare materials', 'les']
+-- G1 subcat: matériaux
+   parts: matériaux
+-- G2 subcat: • die Materialien • los materiales • i materiali
+   parts: die materialien • los materiales • i materiali
+ 2.0  M hardwood | le bois dur | das Hartholz | la madera noble | il legno duro   
+ 2.1  ⚠ medium density f~ | le médium | die MDF-Platte | el tablero de de~ | l'MDF   it
+ 2.2  M plywood | le contreplaqué | das Sperrholz | el contrachapado | il compensato   
+ 2.3  M cable | le câble | das Kabel | el cable | il cavo   
+ 2.4  M chipboard | l'aggloméré | das Spanholz | el aglomerado | il truciolato   
+ 2.5  M varnish | le vernis | der Lack | el barniz | la lacca   
+ 2.6  M stainless steel | l'inox | der rostfreie St~ | el acero inoxida~ | l'acciaio inossi~   
+ 2.7  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['Cardboard', 'Pi sorel', 'die Hartfaserplatte', 'el cartón madera', 'il cartone di', 'ora compressa']
+ 2.8    galvanized | galvanisé | galvanisiert | galvanizado | zincato   
+ 2.9  M woodstain | la couleur pour ~ | die Beize | el tinte para ma~ | il mordente per ~   
+ 2.10 ⚠ sorrwood | le buts tendre | das Weichholz | la madera de pino | ?   missing
+ 2.11 M metal | le métal | das Metall | el metal | il metallo   
+ 2.12 M wood | le bois | das Holz | la madera | il legno   
+   LEFT 'legno dolce' @[65, 1062] (riga singola isolata)
+====================================================================================================
+== p075 [casa] 26 voci, 20 flag, 5 mancanti, 0 leftover, header=H O M E • I .A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: toolbox • la boîte à o u tils • der Werkzeugkasten • la caja de las herramienta~
+   parts: toolbox • la boîte à outils • der werkzeugkasten • la caja de las herramientas • la scatola~
+ 0.0  M wrench | la clef | der Schraubensch~ | la llave de boca | la chiave   
+ 0.1  ⚠ adjustable wrench | la clef à molette | der verstellbare~ | la llave mglesa | ?   missing
+ 0.2  M hammer | le marteau | der Hammer | el martillo | il martello   
+ 0.3  M needle-nose plie~ | la pince plate | die Flachzange | las pinzas de al~ | le pinze ad ago   
+ 0.4  M socket wrench | la clef à pipe | der Steckschlüss~ | la llave de tubo | la chiave a tubo   
+ 0.5  ⚠ screwdriver bits | les embouts de t~ | die Schraubenzie~ | los cabezales de~ | la punte per cac~   de
+ 0.6  ⚠ leve! | le niveau | die Wasserwaage | el nivel | la livella   en
+ 0.7  M washer | le joint | der Dichtungsring | la rondana | la rondella   
+ 0.8  M screwdriver | le tournevis | der Schraubenzie~ | el destornillador | il cacciavite   
+ 0.9  M nut | l'écrou | die Mutter | la tuerca | il dado   
+ 0.10 M bull nose pliers | la pince univers~ | die Kombinations~ | los alicates | le pinze tonde   
+ 0.11 M tape measure | le mètre | das Metermaß | la anta métrica | il metro   
+ 0.12 ⚠ ? | le couteau | der Schneider | el cúter | I coltello   it missing
+ 0.13 M socket | la douille | die Tülle | encaje | la bussola   
+ 0.14 ⚠ Allen wrench | la clef | der Schlüssel | la llave | la chiave   en
+-- G1 subcat: drill bits • les forets* die Bohrer • las brocas • le punte
+   parts: drill bits • les forets* die bohrer • las brocas • le punte
+ 1.0  M metal bit | le foret à métaux | der Metallbohrer | la broca para me~ | la punta per met~   
+ 1.1  ⚠ spade bit | le foret à bois ~ | der Flachholzboh~ | la broca para | ?   missing
+ 1.2  ⚠ Phillips screwdr~ | le tournevis cru~ | der Kreuzschlitz~ | el destornillado~ | il cacciavite a ~   en
+ 1.3  M reamer | l'alésoir | die Reibahle | escariador | l'alesatore   
+ 1.4  M head | la tête | der Nagelkopf | la cabeza | la testa   
+-- G2 subcat: p
+   parts: p
+ 2.0  ⚠ > > nail | le clou | der Nagel | el davo | il chiodo   en
+ 2.1  M security bit | le torci de sécu~ | der Sicherheitsb~ | la broca de segu~ | la punta di sicu~   
+ 2.2  M wood bits | les forets de bo~ | die Holzbohrer | las brocas para ~ | le punte da fale~   
+ 2.3  M masonry bit | le foret de maço~ | der Mauerwerkboh~ | la broca de alba~ | fa punta per mur~   
+ 2.4  ⚠ screw | la vis | die Schraub | la vite | ?   missing
+ 2.5  ⚠ ? | ? | ? | el tornillo | ?   missing
+====================================================================================================
+== p076 [casa] 21 voci, 17 flag, 1 mancanti, 1 leftover, header=HOME • I A MAISON • DAS HAUS • l.A CASA • LA CASA
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M wire cutter | la pince cou pan~ | der Drahtschneid~ | el cortaalam bres | la pinza tagliat~   
+ 0.1  M wire stripper | la pince à dénud~ | die Enüsolierzan~ | el pelacables | la pinza spelafi~   
+ 0.2  M electrical tape | le ruban isolant | das Isolierband | la cinta aislante | il nastro isolan~   
+ 0.3  M soldering iron | le fer à soutier | der Lotkolben | el soldador | il saldatoio   
+ 0.4  M hobby kmfe | le scalpel | das Skalpell | el escalpelo | il bisturi   
+ 0.5  M fretsaw | la scie à chanto~ | die Schweilsage | la sierra de cal~ | la sega da trafo~   
+ 0.6  M solder | la soudure | der Lötzinn | la soldadura | le lega per sald~   
+ 0.7  M tenon saw | la scie à dosser~ | die Prolilsage | el serrucho de c~ | la sega per teno~   
+-- G1 subcat: sf
+   parts: sf
+ 1.0  M safety goggles | les lunettes de ~ | die Schutzbrille | las gafas de seg~ | gli occhiali pro~   
+ 1.1  M handsaw | la scic gome | der Fuchsschwanz | el serrucho | il seghetto   
+ 1.2  M piane | le rabot | der Hobel | el cepillo | la pialla   
+ 1.3  M miter block | la boîte à ongle~ | die Gehrungslade | la caja para cor~ | la cassetta guid~   
+ 1.4  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['hacksaw', 'la scic a m étaux', 'die Metallsäge', 'la sierra paru m etales', 'il seghetto per metalli pipe wrench', 'la clef serre-tube', 'dre Rohrzange', 'las tenazas', 'la chiave inglese']
+ 1.5  ⚠ steel wool | la paille de 1er | die Stahlwolle | la lana de acero | la lana d'acciaio   fr
+ 1.6  M hand drill | la perceuse manu~ | der Handbohrer | el taladro manual | il trapano manua~   
+ 1.7  M sandpaper | le papier de ver~ | das Schmirgelpap~ | el papel de lija | la carta vetrata   
+ 1.8  M chisel | le burin | der Meißel | el formón | lo scalpello   
+ 1.9  ⚠ plunger | la venrouse | der Sauger | el destapacaños ~ | ?   missing
+ 1.10 M sharpening stone | la pierre à aigu~ | der Wetzstahl | piedra afiladora | l'affilatorc   
+ 1.11 M file | la lime | die Feile | la lima | la lima   
+ 1.12 M pipe cutter | le coupe-tubc | der Rohrab schne~ | el cortatuberias | il tagliatubi   
+   LEFT 'r' @[828, 396] (riga singola isolata)
+====================================================================================================
+== p077 [casa] 19 voci, 15 flag, 0 mancanti, 1 leftover, header=H O M E • L A M A IS O N • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: decorating • la décoration • das Tapezieren • la decoración • la decorazione
+   parts: decorating • la décoration • das tapezieren • la decoración • la decorazione
+ 0.0  M wallpaper brush | la brosse à tapi~ | die Tapezierbürs~ | la brocha de tap~ | la spazzola   
+ 0.1  ⚠ decorator | le Tapissier déc~ | der Tapezierer | el pintor | il decoratore   fr
+ 0.2  M scissors | les ciseaux | die Tapeziersche~ | las tijeras | le forbici   
+ 0.3  M pasting table | la table à encol~ | der Tapeziertisch | la mesa de encol~ | il tavolo da lav~   
+ 0.4  M wallpaper | le papier peint | die Tapete | el papel tapiz | la carta da para~   
+ 0.5  M craft knife | le cutter | das Tapeziermess~ | el cúter | il coltello da p~   
+ 0.6  M pasting bmsh | la brosse à enco~ | die Kleisterbürs~ | la brocha de enc~ | il pennello da c~   
+ 0.7  M wallpaper paste | la colle à tapis~ | der Tapetenkleis~ | el pega mento pa~ | la colla da para~   
+ 0.8  ⚠ stepladder | Pesca beau | die Trittleiter | la escalera de m~ | la scala a pioli   fr
+ 0.9  M plumb line | le fil à plomb | das Senkblei | la plomada | il filo a piombo   
+ 0.10 M bucket | le scau | der Eimer | la cubeta | il secchio   
+ 0.11 M scraper | le grattoir | der Spachtel | la espátula | il raschietto   
+ 0.12   wallpaper (v) | tapisser | tapezieren | tapizar | tappezzare   
+ 0.13   strip (v) | décoller | abziehen | despegar | staccare   
+ 0.14   fill (v) | mastiquer | spachteln | rellenar | otturare   
+ 0.15   sand (v) | poncer | schmirgeln | lijar | scartavetrare   
+ 0.16   plaster (v) | plâtrer | verputzen | enyesar | intonacare   
+ 0.17   hang (v) | poser | anbringen | empapelar | incollare   
+ 0.18 M tile (v) | carreler | kacheln | poner azulejos | piastrellare   
+   LEFT '2 £ , ;,' @[702, 582] (riga singola isolata)
+====================================================================================================
+== p078 [casa] 29 voci, 9 flag, 0 mancanti, 1 leftover, header=HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA
+-- G0 subcat: (nessuna)
+ 0.0  M roller | le rouleau | der Roller | el rodillo | il rullo   
+ 0.1  M paint tray | le bac à peinture | die Wanne | la bandeja para ~ | la vaschetta per~   
+ 0.2  M paint | la peinture | die Farbe | la pintura | la vernice   
+ 0.3  M brush | la brosse | die Streichburste | la brocha | il pennello   
+ 0.4  M sandpaper | le papier de ver~ | das Schmirgelpap~ | el papel de lija | la carta vetrata   
+ 0.5  ⚠ masking tape | le papier cache | das Abdeckband | el m asking tape | il nastro adesiv~   es
+ 0.6  M paint can | le pot de peintu~ | der Farbtopí | la lata de pintu~ | il barattolo di ~   
+ 0.7  M sponge | l'éponge | der Schwamm | la esponja | la spugna   
+ 0.8  M coveralls | les bleus | der Overall | el overol | la tuta   
+ 0.9  M turpentine | la térébenthine | das Terpentin | la trementina | la trementina   
+ 0.10 M oilcloth | la couverture de~ | das Abdecktuch | el protector | il telo di prote~   
+ 0.11 M paint thinner | le white sp irit | das Verdünnungsm~ | el aguarrás | l'acquaragia   
+ 0.12 M filler | le mastic | die Spachtelmasse | el mas tique | lo stucco   
+ 0.13   paint (v) | peindre | anstreichen | pintar | dipingere   
+ 0.14 M base coat | la couche de fond | die Grundierung | la primera mano | la mano di fondo   
+ 0.15 M sealant | l'enduit | das Versiegelung~ | el sellador | il sigillante   
+ 0.16 M embossed paper | le papier gaufré | das Reliefpapier | el papel estampa~ | la carta a rilie~   
+ 0.17 M plaster | le plâtre | der Gips | el yeso | l'intonaco   
+ 0.18 M gloss | brillant | Glanz | con brillo | lucido   
+ 0.19 M solvent | le solvant | das Lösungsmittel | el solvente | il solvente   
+ 0.20 M lining paper | le papier d'appr~ | das Einsatzpapier | el papel de apre~ | la carta di fondo   
+ 0.21 M top coat | la dernière couc~ | der Deckanstrich | la última mano | la mano finale   
+ 0.22 M varnish | le vernis | der Lack | el barniz | la vernice trasp~   
+ 0.23   matte | mat | matt | mate | opaeo   
+ 0.24 M grout | le mastic | der Fugenkitt | el cemento blanco | la malta   
+ 0.25 M primer | l'apprêt | die Grundfarbe | la base | la vernice di ba~   
+ 0.26 M preservative | l'agent de conse~ | der Schutzanstri~ | el conservante | il conservante   
+ 0.27 M latex paint | la peinture mate | die Emulsionsfar~ | la pintura al ag~ | la pittura   
+ 0.28 M stencil | le pochoir | die Schablone | la plantilla | lo stampino   
+   LEFT 'V' @[522, 570] (riga singola isolata)
+====================================================================================================
+== p079 [casa] 13 voci, 13 flag, 2 mancanti, 1 leftover, header=HOME • I . A MAISON • DAS HAUS • LA CASA • LA CASA
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M garden features | les ornements de~ | die Gartenorname~ | los adornos para~ | gli ornamenti og~   
+-- G1 subcat: garden • le jardin • der Garten • el jardín • il giardino
+   parts: garden • le jardin • der garten • el jardín • il giardino
+-- G2 subcat: garden styles • Ics styles de jardin • die Gartentypen • los estilos de jardín
+   parts: garden styles • ics styles de jardin • die gartentypen • los estilos de jardín
+ 2.0  ⚠ ? | ? | ? | ? | i tipi di giardi~   missing
+ 2.1  ⚠ roof garden | le jardin sur le~ | der Dachgarten | el jardín en la ~ | I giardino pensi~   it
+ 2.2  M hanging basket | le panier sus pe~ | die Blumenampel | la cesta colgante | il cesto sospeso   
+ 2.3  M patio garden | le patio | der Patio | el patio con jar~ | il giardino a pa~   
+ 2.4  ⚠ rock garden | la rocaille | der Steingarten | la rocalla | I giardino di pi~   it
+ 2.5  ⚠ ? | la enredadera | ? | ? | il graticcio   missing
+ 2.6  M formai garden | le jardin à la f~ | der architektoni~ | el jardín clásico | il giardino all'~   
+ 2.7  ⚠ courtyard | la cour | der Hof | el patio | I cortile   it
+ 2.8  ⚠ English garden | le jardin paysan | der Bauerngarten | el jardín campes~ | il giardino all'~   en
+ 2.9  M herb garden | le jardin d'herb~ | der Krautergarten | el jardín de pla~ | il giardino di e~   
+ 2.10 M water garden | le jardin d'eau | der Wassergarten | el jardín acuáti~ | il giardino acqu~   
+ 2.11 M arbor | la pergola | die Pergola | la pérgola | la pergola   
+   LEFT 'A' @[789, 189] (riga singola isolata)
+====================================================================================================
+== p080 [casa] 22 voci, 13 flag, 4 mancanti, 0 leftover, header=H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: soil • le sol • der
+   parts: soil • le sol • der
+ 0.0  ⚠ path | l'allée | der Weg | el camino | ?   missing
+ 0.1  ⚠ compost heap | le ras de compost | der Komposthaufen | la composta | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.2  M patio | le pavé | die Platten | la terraza | la pavimentazione   
+ 0.3  ⚠ Boden | la tierra | ? | ? | il terreno   en missing
+ 0.4  M gate | le portail | das Tor | el portón | il cancello   
+ 0.5  M flowerbed | le parterre | das Blumenbeet | el parterre | l'aivola   
+ 0.6  M topsoil | la terre | die Erde | la capa superior~ | lo strato superf~   
+ 0.7  M shed | la cabane | der Schuppen | el cobertizo | il capanno   
+ 0.8  M sand | le sable | der Sand | la arena | la sabbia   
+ 0.9  ⚠ lawn | l.i pelouse | der Rasen | el césped | il prato   fr
+ 0.10 M greenhouse | la serre | das Gewächshaus | el invernadero | la ghiaia   
+ 0.11 M fence | la clôture | der Zaun | la valla | il recinto   
+ 0.12 M pond | le bassin | der Teich | el estanque | lo stagno   
+ 0.13 M chalk | la chaux | der Kalk | la creta | il gesso   
+ 0.14 M hedge | la haie | die Hecke | el seto | la siepe   
+ 0.15 M herbaceous border | la bordure de pl~ | die Staudenrabat~ | el arriate de pl~ | il bordo erbaceo   
+ 0.16 M arch | arceau | der Bogen | el arco | l'arco   
+ 0.17 ⚠ ? | le p o rg e r | der Gemüsegarten | el huerto | l'orto   fr missing
+ 0.18 M silt | le vase | der Schlick | el cieno | il limo   
+ 0.19 M clay | l'argile | der Lehm | la arcilla | l'argilla   
+ 0.20 M deck | les planches | die Banken | el entarimado | ti patio in legno   
+ 0.21 M fountain | la fontaine | der Springbrunnen | la fuente | la fontana   
+====================================================================================================
+== p081 [casa] 15 voci, 15 flag, 0 mancanti, 0 leftover, header=H O M E • LA M A IS O N • DAS HAUS • L A CASA • LA CASA
+-- G0 subcat: garden plants • les plantes de jardin • die Gartenpflanzen • las plantas de jar~
+   parts: garden plants • les plantes de jardin • die gartenpflanzen • las plantas de jardín • le pia~
+-- G1 subcat: types of plants • les genres de plantes • die Pflanzenarten • los tipos de plan~
+   parts: types of plants • les genres de plantes • die pflanzenarten • los tipos de plantas • i tipi~
+ 1.0    perennial | vivace | mehrjährig | perenne | perenne   
+ 1.1  M bulb | le bulbe | die Zwiebel | el bulbo | il bulbo   
+ 1.2    annual | annuel | einjährig | anual | annuale   
+ 1.3    biennial | bisannuel | zweijährig | bienal | biennale   
+ 1.4  M fern | la fougère | der Farn | el helécho | la felce   
+ 1.5  M bamboo | le bambou | der Bambus | el bambú | il bambù   
+ 1.6  M cattail | le jonc | die Binse | el i unco | il giunco   
+ 1.7  M weeds | les mauvaises he~ | das Unkraut | las malas hierbas | le erbacce   
+ 1.8  M water plant | la piante aquati~ | die Wasserpflanze | la pianta acuáti~ | la pianta acquat~   
+ 1.9  M tree | l'arbre | der Baum | el árbol | l'albero   
+ 1.10 ⚠ herb | l'herbe | das Kraut | la Inerba | le erbe aromatica   es
+ 1.11 M evergreen | à feuilles persi~ | immergrün | de hoja perenne | sempreverde   
+ 1.12 M palm | le palmier | die Palme | la palmera | la palma   
+ 1.13 M conifer | le conifère | der Nadelbaum | la conífera | la conifera   
+ 1.14 M deciduous | à feuilles caduq~ | der Laubbaum | de hoja caduca | a foglie caduche   
+====================================================================================================
+== p082 [casa] 12 voci, 10 flag, 3 mancanti, 1 leftover, header=H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: (nessuna)
+ 0.0  M cactus | le cactus | der Kaktus | el cactus | il cactus   
+ 0.1  M succulent | la piante grasse | die Fettpflanze | la pianta sucule~ | la pianta grassa   
+ 0.2  M alpine | la plance alpest~ | die Alpenpflanze | la pianta alpest~ | le piante da roc~   
+ 0.3  M topiary | la topiairc | der Formschnitt | las plantas poda~ | l'arte topiaria   
+ 0.4  ⚠ shade plant | la plante d' omb~ | die Schattenpfla~ | la planta de | ?   missing
+ 0.5  M potted plant | la plante en pot | die Topfpflanze | la planta de mac~ | la pianta cia va~   
+ 0.6  M climber | la plante grimpa~ | die Kletterpflan~ | la pianta trepad~ | la pianta rampic~   
+ 0.7  ⚠ flowering shrub | l'arbuste à fleu~ | der Zierstrauch | el arbusto de fl~ | i3 pianta da fio~   it
+ 0.8  ⚠ ground cover | ü couverture du ~ | der Bodendecker | Li planta para c~ | sudo a pianta co~   es fr wrap wrap-ambig
+        ALTS: [{'en': 'ground cover', 'fr': 'ü couverture du sol', 'de': 'der Bodendecker', 'es': 'Li planta para cubrir sudo', 'it': '3 pianta copriterreno'}, {'en': 'ground cover', 'fr': 'ü couverture du sol', 'de': 'der Bodendecker Li planta para cubrir', 'es': 'sudo', 'it': '3 pianta copriterreno'}]
+ 0.9  M grass | l'herbe | das Gras | el pasto | l'erba   
+ 0.10 ⚠ ornemental | Zier | om am cntal | ornamentale | ?   fr missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 0.11 ⚠ ? | la piante ram pa~ | die Kriechpflanze | la planta trepad~ | la pianta rampic~   missing
+   LEFT "H'nmhra" @[730, 394] (riga singola isolata)
+====================================================================================================
+== p083 [casa] 18 voci, 15 flag, 2 mancanti, 0 leftover, header=H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: gardening tools • les outils de jardin • die Gartengeräte • las herramientas de~
+   parts: gardening tools • les outils de jardin • die gartengeräte • las herramientas de jardinería ~
+ 0.0  M compost | le terreau | die Komposterde | la com posta | il terriccio   
+-- G1 subcat: I
+   parts: i
+ 1.0  M seeds | les graines | die Samen | las sem illas | i semi   
+ 1.1  M bone meal | la cendre d'os | die Knochenasche | la harina de hue~ | la farina di ossa   
+-- G2 subcat: û
+   parts: û
+ 2.0  M shovel | la beehr | der Spaten | la pala | la vanga   
+ 2.1  M fork | la fourche | die Gabel | el trine he | il forcone   
+ 2.2  M long-handled she~ | la grande cisail~ | die Schere | la podadora de m~ | le forbici tagli~   
+ 2.3  M rake | le râteau | der Rechen | el rastrillo | il rastrello   
+ 2.4  M hoe | la houe | die Hacke | el azadón | la zappa   
+ 2.5  ⚠ gravel - le grav~ | ? | der Kies | la grava | la ghiaia   en missing
+ 2.6  M grass bag | le sac à herbe | der Grasfangsack | la bolsa para la~ | il raccoglierba   
+ 2.7  M handle | le bras | der Griff | el asa | il manico   
+ 2.8  M motor | le moteur | der Motor | el motor | il motore   
+ 2.9  M gardening basket | le panier de jar~ | der Gartenkorb | la cesta de jard~ | il cestello   
+ 2.10 M shield | l'écran de prote~ | der Schutz | el protector | la protezione   
+ 2.11 ⚠ ? | le support | der Ständer | el soporte | il sostegno   missing
+ 2.12 M trimmer | la tondeuse | der Schneider | la cortadora | il tagliabordi   
+ 2.13 ⚠ I awn mower | la tondeuse à ga~ | der Rasenmäher | la podadora | il tosaerba   en
+ 2.14 M wheelbarrow | la brouette | der Schubkarren | la carretilla | la carriola   
+====================================================================================================
+== p084 [casa] 25 voci, 17 flag, 2 mancanti, 1 leftover, header=H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M gardening gloves | les gants de jar~ | die Gartenhandsc~ | los guantes de j~ | i guanti da giar~   
+ 0.1  M hand fork | la perire fourche | die Handgabel | el trinche | il forcone   
+ 0.2  M pruning shears | le sécateur | die Rosenschere | las podaderas | la cesoia   
+ 0.3  M twine | la lied le | der Zwirn | el hilo de brama~ | il fil di ferro   
+ 0.4  M labels | les criquet res | die Pflanzenschi~ | las etiquetas | le etichette   
+ 0.5  M irowel | le déplantoir | die Pflanzschauf~ | la pala pequeña | la paletta   
+ 0.6  M twist ties | les attaches | die Befestigungen | el alambre | le fettucce   
+ 0.7  M biade | la lame | das Messer | la hoja | la lama   
+ 0.8  M seed tray | le germ oir | der Setzkasten | el semillero | il semenzaio   
+ 0.9  M ring ties | les anneaux | die Ringbefestig~ | las anillas | gli anelli   
+ 0.10 M canes | les cannes | die Gartenslòcke | las cañas | le canne   
+ 0.11 ⚠ 'm | ? | ? | ? | ?   missing
+ 0.12 M sieve | le tamis | das Sieb | la criba | il setaccio   
+ 0.13 M shears | la cisaille | die Heckenschere | las tijeras | le forbici da gi~   
+ 0.14 M plant pot | le por à fleurs | der Blumentopf | la maceta | il vaso da fiori   
+ 0.15 M pesticide | le pesticide | das Pestizid | el pesticida | il pesticida   
+ 0.16 M rubber boots | les hottes | die Gummistiefel | las botas de goma | le galosce   
+ 0.17 M hand saw | la scie à main | die Handsäge | la sierra de mano | la sega   
+-- G1 subcat: watering • l'arrosage • das Gießen • el riego • l'annaffiatura
+   parts: watering • l'arrosage • das gießen • el riego • l'annaffiatura
+ 1.0  M nozzle | le jet | die Düse | la boquilla | il becco   
+ 1.1  M sprinkler | l'arroseur | der Rasensprenger | el aspersor | l'irrigatore   
+ 1.2  M spray gun | le vaporisateur | die Gartenspritze | el pulverizador | il diffusore   
+ 1.3  M watering can | l'nrrosoir | die Gießkanne | la regadera | l'annaffiatoio   
+ 1.4  ⚠ hose | le tuyau d'arros~ | der Gartenschlau~ | la manguera | Ja pompa da giar~   it
+ 1.5  M rose | la pomme | die Brause | la pina | la rosa   
+ 1.6  ⚠ hose reel | le dévidoir de t~ | der Schlauchwage~ | ? | l'awolgitubo   de missing
+   LEFT '^' @[36, 381] (riga singola isolata)
+====================================================================================================
+== p085 [casa] 14 voci, 9 flag, 0 mancanti, 0 leftover, header=H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA
+-- G0 subcat: gardening • le jardinage • die Gartenarbeit • la jardinería • il giardinaggio
+   parts: gardening • le jardinage • die gartenarbeit • la jardinería • il giardinaggio
+ 0.0  M hedge | la haie | die Hecke | el seto | la siepe   
+ 0.1  M lawn | la pelouse | der Rasen | el pasto | il prato   
+ 0.2  M flowerbed | le parterre | das Blumenbeet | el parterre | l'aiuola   
+ 0.3  M stake | le tuteur | die Stange | la estaca | il bastoncino   
+ 0.4  M lawnmower | la tondeuse | der Rasenmäher | la podadora | il tosaerba   
+ 0.5  M mow (v) | tondre | mähen | cortar el césped | tagliare l'erba   
+ 0.6  ⚠ turf {v | gazonner | mit Rasen bedeck~ | poner césped | ricoprire di zol~   en
+ 0.7  M spike (v) | piquer | stechen | hacer agujeros c~ | inforcare   
+ 0.8    rake (v) | ratisser | harken | rastrillar | rastrellare   
+ 0.9    rimy | railler | stutzen | podar | spuntare   
+ 0.10   dig (v) | bêcher | graben | cavar | scavare   
+ 0.11   sow (v) | semer | säen | sembrar | seminare   
+ 0.12 M top dress (v) | tumor en surface | mit Kopfdünger d~ | abonar en la sup~ | concimare a span~   
+ 0.13   water (v) | arroser | gießen | regar | annaffiare   
+====================================================================================================
+== p086 [casa] 28 voci, 21 flag, 2 mancanti, 0 leftover, header=H O M E • L A M A IS O N • DAS HAUS • I.A C A S A • LA CASA
+-- G0 subcat: (nessuna)
+ 0.0  M cane | la canne | der Stock | la caña | la canna   
+ 0.1  ⚠ deadhead (v) | enlever les fleu~ | köpfen | quitar las flore~ | togliere fiori a~   es
+ 0.2  ⚠ spray (v) | rociar | ? | ? | ?   missing
+ 0.3  M train (v) | palisser | ziehen | guiar | far crescere   
+ 0.4  ⚠ asperger | sprühen spruzzare | ? | ? | ?   missing
+ 0.5  M cutting | la coupe | der Ableger | el esqueje | la talea   
+ 0.6    graft (v) | greffer | pfropfen | injertar | innestare   
+ 0.7    propagate (v) | propager | vermehren | propagai | propagare   
+ 0.8    prune (v) | élaguer | beschneiden | podar | potare   
+ 0.9  M stake (v) | mettre un tuteur | hochbinden | apuntalar | legare a un bast~   
+ 0.10 M weed (v) | désherber | jäten | escardar | sradicare le erb~   
+ 0.11 M mulch (v) | pailler | mulchen | cubrir la tierra | concimare   
+ 0.12   transplant (v) | transplanter | umpflanzen | transplantar | trapiantare   
+ 0.13   harvest (v) | récolter | ernten | cosechar | raccogliere   
+ 0.14 M seedling | le semis | der Sämling | el plantón | il semenzale   
+ 0.15   cultivate (v) | cultiver | züchten | cultivar | coltivare   
+ 0.16   landscape (v) | dessiner | gestalten | diseñar | architettare   
+ 0.17   fertilize (v) | fertiliser | düngen | abonar | concimare   
+ 0.18   sieve (v) | tamiser | sieben | cribar | setacciare   
+ 0.19   organic | biologique | biodynamisch | orgánico | biologico   
+ 0.20 M subsoil | le sous-sol | der Untergrund | el subsuelo | il sottosuolo   
+ 0.21 M fertilizer | l'engrais | der Dünger | el abono | il concime   
+ 0.22 M weedkiller | l'herbicide | der Unkrautverni~ | el herbicida | il diserbante   
+ 0.23   tend (v) | soigner | hegen | cuidar | curare   
+ 0.24 M pot (v) | mettre en pot | emtopfen | planUr en tiesto | invasare   
+ 0.25   pick (v) | cueillir | pflücken | arrancar | cogliere   
+ 0.26   aerate (v) | retourner | auflockern | airear | aerare   
+ 0.27 M drainage | le drainage | die Entwässerung | el drenaje | losco io   
+====================================================================================================
+== p087 [casa] PAGINA DIVISORIA / SENZA VOCI

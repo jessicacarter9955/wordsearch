@@ -1,0 +1,544 @@
+{
+ "page": 132,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "dolci-e-i-dessert",
+   "names": {
+    "en": "cakes and desserts",
+    "fr": "les gâteaux et les desserts",
+    "de": "kuchen und nachspeisen",
+    "es": "la repostería",
+    "it": "i dolci e i dessert"
+   },
+   "entries": [
+    {
+     "en": "éclair",
+     "fr": "éclair",
+     "de": "Eclair",
+     "es": "profiterai",
+     "it": "bignè",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "profiterole pastry",
+     "fr": "pâte à choux",
+     "de": "Brandteig",
+     "es": "masa de profiteroles",
+     "it": "bignè",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 10,
+      "de": 9,
+      "es": 18,
+      "it": 5
+     }
+    },
+    {
+     "en": "puff pastry",
+     "fr": "pâte feuilletée",
+     "de": "Blätterteig",
+     "es": "hojaldre",
+     "it": "pasta sfoglia",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 11,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "cream",
+     "fr": "crème",
+     "de": "Sahne",
+     "es": "crema",
+     "it": "panna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "filo dough",
+     "fr": "pâte de filo",
+     "de": "Blätterteig",
+     "es": "masa brisa",
+     "it": "pasta filo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 11,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "filling",
+     "fr": "garniture",
+     "de": "Füllung",
+     "es": "relleno",
+     "it": "ripieno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "fruit cake",
+     "fr": "cake",
+     "de": "englische Kuchen",
+     "es": "plum -cake",
+     "it": "dolce alla frutta",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 15,
+      "es": 8,
+      "it": 15
+     }
+    },
+    {
+     "en": "chocolate coated",
+     "fr": "enrobé de chocolat",
+     "de": "mit Schokolade überzogen",
+     "es": "cubierto de chocolate",
+     "it": "ricoperto di cioccolato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 15,
+      "fr": 16,
+      "de": 22,
+      "es": 19,
+      "it": 21
+     }
+    },
+    {
+     "en": "fruit pie",
+     "fr": "tarte aux fruits",
+     "de": "Obsttortelett",
+     "es": "tartaleta de fruta",
+     "it": "crostatine",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 13,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "muffin",
+     "fr": "m uffin",
+     "de": "Muffin",
+     "es": "m uffin",
+     "it": "muffin",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "meringue",
+     "fr": "lame ri ligue",
+     "de": "Baiser",
+     "es": "merengue",
+     "it": "meringa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "sponge cake",
+     "fr": "madeleine",
+     "de": "Biskuittörtchen",
+     "es": "magdalena",
+     "it": "pan di Spagna",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 15,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "cakes",
+     "fr": "gâteaux",
+     "de": "Gebäck",
+     "es": "pasteles",
+     "it": "dolci",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "pastry cream",
+     "fr": "crème pâtissière",
+     "de": "Konditorcreme",
+     "es": "crema pastelera",
+     "it": "crema pasticcera",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 13,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "bun",
+     "fr": "petit gâteau",
+     "de": "Teilchen",
+     "es": "hollo",
+     "it": "focaccina",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 11,
+      "de": 8,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "pastry",
+     "fr": "paré",
+     "de": "Teig",
+     "es": "masa",
+     "it": "pasta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "rice pudding",
+     "fr": "riz au lait",
+     "de": "Milchreis",
+     "es": "arroz con leche",
+     "it": "budino di riso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 9,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "May 1 have a slice please?",
+     "fr": "Kst-ce que je peux avo ir une",
+     "de": "Tranche s'il vous plaît?",
+     "es": "Könnte ich bitte ein Stück haben?",
+     "it": "Puedo tom ar una rebanada7 Posso avere una fetta?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 22,
+      "de": 19,
+      "es": 27,
+      "it": 40
+     }
+    },
+    {
+     "en": "chocolate cake",
+     "fr": "gâteau au chocolat",
+     "de": "Schokoladentorte",
+     "es": "pastel de chocolaté",
+     "it": "torta al cioccolato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 16,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "custard",
+     "fr": "crème anglaise",
+     "de": "Vanillepudding",
+     "es": "natillas",
+     "it": "cremo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 14,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "slice",
+     "fr": "tranche",
+     "de": "Stück",
+     "es": "rebanada",
+     "it": "fetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "celebration",
+     "fr": "fête",
+     "de": "Feier",
+     "es": "celebración",
+     "it": "festa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 4,
+      "de": 5,
+      "es": 11,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

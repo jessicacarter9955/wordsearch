@@ -1,0 +1,324 @@
+{
+ "page": 23,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • LES GF NS • DIE MENSCHEN • LA GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "emotions • les émotions • die Gefühle • las emociones • le emozioni",
+   "parts": [
+    "emotions",
+    "les émotions",
+    "die gefühle",
+    "las emociones",
+    "le emozioni"
+   ],
+   "entries": [
+    {
+     "en": "smile",
+     "fr": "le sourire",
+     "de": "das Lächeln",
+     "es": "la sonrisa",
+     "it": "sorriso",
+     "_pos": [
+      172,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bored",
+     "fr": "ennuyé",
+     "de": "gelangweilt",
+     "es": "aburrido",
+     "it": "annoiato",
+     "_pos": [
+      681,
+      293
+     ],
+     "_flags": []
+    },
+    {
+     "en": "excited",
+     "fr": "excité",
+     "de": "aufgeregt",
+     "es": "entusiasm adó",
+     "it": "eccitato",
+     "_pos": [
+      469,
+      293
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sad",
+     "fr": "triste",
+     "de": "traung",
+     "es": "triste",
+     "it": "triste",
+     "_pos": [
+      258,
+      294
+     ],
+     "_flags": []
+    },
+    {
+     "en": "''appy",
+     "fr": "heureux",
+     "de": "glücklich",
+     "es": "contento",
+     "it": "felice",
+     "_pos": [
+      46,
+      295
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frown",
+     "fr": "le froncement de sourcils",
+     "de": "das Stirnrunzeln",
+     "es": "el ceño fruncido",
+     "it": "aggrottare le sopracciglia",
+     "_pos": [
+      620,
+      351
+     ],
+     "_flags": []
+    },
+    {
+     "en": "angry",
+     "fr": "fâché",
+     "de": "verärgert",
+     "es": "enfadado",
+     "it": "arrabbiato",
+     "_pos": [
+      472,
+      513
+     ],
+     "_flags": []
+    },
+    {
+     "en": "confused",
+     "fr": "confus",
+     "de": "verwirrt",
+     "es": "confuso",
+     "it": "confuso",
+     "_pos": [
+      679,
+      513
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scared",
+     "fr": "effraye",
+     "de": "erschrocken",
+     "es": "asustado",
+     "it": "spaventato",
+     "_pos": [
+      258,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "surprised",
+     "fr": "surpris",
+     "de": "überrascht",
+     "es": "sorprendido",
+     "it": "sorpreso",
+     "_pos": [
+      47,
+      516
+     ],
+     "_flags": []
+    },
+    {
+     "en": "proud",
+     "fr": "fier",
+     "de": "stolz",
+     "es": "orgulloso",
+     "it": "fiero",
+     "_pos": [
+      474,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "confident",
+     "fr": "confiant",
+     "de": "selbstsicher",
+     "es": "seguro de si mismo",
+     "it": "fiducioso",
+     "_pos": [
+      684,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nervous",
+     "fr": "nerveux",
+     "de": "nervös",
+     "es": "nervioso",
+     "it": "nervoso",
+     "_pos": [
+      260,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "worried",
+     "fr": "inquiet",
+     "de": "besorgt",
+     "es": "preocupado",
+     "it": "preoccupato",
+     "_pos": [
+      49,
+      803
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shout (v)",
+     "fr": "crier",
+     "de": "schreien",
+     "es": "gritar",
+     "it": "gridare",
+     "_pos": [
+      788,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "laugh (v)",
+     "fr": "rire",
+     "de": "lachen",
+     "es": "reir",
+     "it": "ridere",
+     "_pos": [
+      586,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sigh (v)",
+     "fr": "soupirer",
+     "de": "seufzen",
+     "es": "suspirar",
+     "it": "sospirare",
+     "_pos": [
+      668,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "upset",
+     "fr": "consterné",
+     "de": "bestürzt",
+     "es": "triste",
+     "it": "turbato",
+     "_pos": [
+      488,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yawn (v)",
+     "fr": "bâiller",
+     "de": "gähnen",
+     "es": "bostezar",
+     "it": "sbadigliare",
+     "_pos": [
+      788,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cry (v)",
+     "fr": "pleurer",
+     "de": "weinen",
+     "es": "llorar",
+     "it": "piangere",
+     "_pos": [
+      586,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "faint (v)",
+     "fr": "s'évanouir",
+     "de": "in Ohnmacht fallen",
+     "es": "desmayar se",
+     "it": "svenire",
+     "_pos": [
+      669,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shocked",
+     "fr": "choqué",
+     "de": "schockiert",
+     "es": "horrorizado",
+     "it": "scandalizzato",
+     "_pos": [
+      488,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shy",
+     "fr": "timide",
+     "de": "schüchtern",
+     "es": "tim ido",
+     "it": "timido",
+     "_pos": [
+      264,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "embarrassed",
+     "fr": "gêné",
+     "de": "verlegen",
+     "es": "avergonzado",
+     "it": "imbarazzato",
+     "_pos": [
+      51,
+      1031
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 3,
+  "flagged": 21,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

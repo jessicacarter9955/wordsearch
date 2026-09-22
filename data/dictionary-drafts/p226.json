@@ -1,0 +1,407 @@
+{
+ "page": 226,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • I .ES S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "les styles",
+   "parts": [
+    "les styles"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "los estilos stili",
+   "parts": [
+    "los estilos stili"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• die Schwimmstile •",
+   "parts": [
+    "die schwimmstile"
+   ],
+   "entries": [
+    {
+     "en": "styles",
+     "_pos": [
+      30,
+      77
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "it": "gli",
+     "_pos": [
+      397,
+      77
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "breaststroke",
+     "fr": "la brasse",
+     "de": "das Brustschwimmen",
+     "es": "el pecho",
+     "it": "la rana",
+     "_pos": [
+      458,
+      257
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ont crawl",
+     "fr": "le crawl",
+     "de": "das Kraulen",
+     "es": "el crol",
+     "it": "lu stile libero",
+     "_pos": [
+      32,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stroke",
+     "fr": "la nage",
+     "de": "der Zug",
+     "es": "la brazada",
+     "it": "la bracciata",
+     "_pos": [
+      366,
+      290
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kick",
+     "fr": "le coup de pied",
+     "de": "der Stoß",
+     "es": "la patada",
+     "_pos": [
+      559,
+      290
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "butterfly",
+     "fr": "le papillon",
+     "de": "der Butterfly",
+     "es": "la mariposa",
+     "it": "la farfalla",
+     "_pos": [
+      459,
+      487
+     ],
+     "_flags": []
+    },
+    {
+     "en": "backstroke",
+     "fr": "la nage sur le clos",
+     "de": "das Rückenschwimmen",
+     "es": "el dorso",
+     "it": "il dorso scuba diving",
+     "_pos": [
+      34,
+      488
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "la plongée • das Tauchen • el buceo • ¡I nuoto subacqueo",
+   "parts": [
+    "la plongée",
+    "das tauchen",
+    "el buceo",
+    "¡i nuoto subacqueo"
+   ],
+   "entries": [
+    {
+     "en": "air cylinder",
+     "fr": "la bouteille d'air",
+     "de": "die Druckluftflasche",
+     "es": "el tanque",
+     "it": "la bombola",
+     "_pos": [
+      725,
+      552
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wetsuit",
+     "fr": "la combinaison de plongée",
+     "de": "der Taucheranzug",
+     "es": "el traje de buzo",
+     "it": "la tuta subacquea",
+     "_pos": [
+      91,
+      620
+     ],
+     "_flags": []
+    },
+    {
+     "en": "snorkel",
+     "fr": "le tuba",
+     "de": "der Schnorchel",
+     "es": "el tubo",
+     "it": "il boccaglio",
+     "_pos": [
+      748,
+      651
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mask",
+     "fr": "le masque",
+     "de": "die Tauchermaske",
+     "_pos": [
+      744,
+      749
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "I regulator",
+     "fr": "le régulateur",
+     "de": "der Lungenautomat el visor",
+     "es": "el regulador",
+     "it": "il regolatore",
+     "_pos": [
+      643,
+      766
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "fr": "la ceinture de plomb",
+     "de": "der Bleigürtel",
+     "es": "el cinturón ile pesas",
+     "it": "la cintura do pesi",
+     "_pos": [
+      479,
+      783
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "la palme",
+     "de": "die Schwimmflosse",
+     "es": "la aleta",
+     "it": "la pinna",
+     "_pos": [
+      226,
+      783
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "shallow end",
+     "fr": "le petit bassin",
+     "de": "das flache Ende",
+     "es": "la zona poco profunda",
+     "it": "la parte bassa",
+     "_pos": [
+      580,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water polo",
+     "fr": "le water-polo",
+     "de": "der Wasserball",
+     "es": "el vvaterpolo",
+     "it": "la pallanuoto",
+     "_pos": [
+      454,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cramp",
+     "fr": "la crampe",
+     "de": "der Krampf",
+     "es": "el calambre",
+     "it": "il crampo",
+     "_pos": [
+      762,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "racing dive",
+     "fr": "le départ plongé",
+     "de": "der Startsprung",
+     "es": "el clavado de salida",
+     "it": "il tuffo di rincorsa",
+     "_pos": [
+      210,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lockers",
+     "fr": "les casiers",
+     "de": "die Schließfächer",
+     "es": "las taquillas",
+     "it": "gli armadietti",
+     "_pos": [
+      338,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dive",
+     "fr": "le plongeon",
+     "de": "der Sprung",
+     "es": "el clavado",
+     "it": "il tuffo",
+     "_pos": [
+      50,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drown (v)",
+     "fr": "sc noyer",
+     "de": "ertrinken",
+     "es": "ahogarse",
+     "it": "annegare",
+     "_pos": [
+      762,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lifeguard",
+     "fr": "le maître nageur",
+     "de": "der Bademeister",
+     "es": "el salvavidas",
+     "it": "il bagnino",
+     "_pos": [
+      339,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deep end",
+     "fr": "le grand bassin",
+     "de": "das tiefe Ende",
+     "es": "la zona profunda",
+     "it": "la parte profonda",
+     "_pos": [
+      454,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "synchronized swimming",
+     "fr": "la nage synchronisée",
+     "de": "das Synchronschwimmen",
+     "es": "el nado sincronizado",
+     "it": "il nuoto sincronizzato",
+     "_pos": [
+      581,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tread water (v)",
+     "fr": "nager sur place",
+     "de": "Wasser treten",
+     "es": "hacer agua",
+     "it": "tenersi a galla",
+     "_pos": [
+      210,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "high dive",
+     "fr": "le plongeon de haut vol",
+     "de": "der Turmsprung",
+     "es": "el clavado",
+     "it": "il tuffo alto",
+     "_pos": [
+      51,
+      981
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "la maschera",
+   "pos": [
+    758,
+    815
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 12,
+  "flagged": 15,
+  "missing_lang": 6,
+  "leftovers": 1,
+  "subcats": 4
+ }
+}

@@ -1,0 +1,258 @@
+{
+ "page": 190,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VERKEHR • E I. T R A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "car 3 • la voiture 3 • das Auto 3 • el carro 3 • l'automobile 3",
+   "parts": [
+    "car",
+    "la voiture",
+    "das auto",
+    "el carro",
+    "l'automobile"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "mechanics • la mécanique • die Mechanik • la mecánica • la meccanica",
+   "parts": [
+    "mechanics",
+    "la mécanique",
+    "die mechanik",
+    "la mecánica",
+    "la meccanica"
+   ],
+   "entries": [
+    {
+     "en": "washer fluid reservoir",
+     "fr": "le réservoir de lave-glace",
+     "de": "der Scheibenputzmittelbehälter",
+     "es": "el depósito del limpiaparabrisas",
+     "it": "il serbatoio del liquido lavavetri",
+     "_pos": [
+      42,
+      164
+     ],
+     "_flags": []
+    },
+    {
+     "en": "air filter",
+     "fr": "le filtre à air",
+     "de": "der Luftfilter",
+     "es": "el filtro del aire",
+     "it": "I filtro dell'aria",
+     "_pos": [
+      514,
+      165
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "dipstick",
+     "fr": "la jauge d'huile",
+     "de": "der Ölmessstab",
+     "es": "la varilla del nivel del aceite",
+     "it": "l'inrìirafnrH Hi livello HpH'nlin",
+     "_pos": [
+      266,
+      165
+     ],
+     "_flags": [
+      "de:rep:Ölmessstab"
+     ]
+    },
+    {
+     "en": "brake fluid reservoir",
+     "fr": "le réservoir de liquide de frein",
+     "de": "der Bremsflüssigkeitsbehälter",
+     "es": "el depósito del líquido de frenos",
+     "it": "il serbatoio del liquido per i freni",
+     "_pos": [
+      658,
+      165
+     ],
+     "_flags": []
+    },
+    {
+     "en": "battery",
+     "fr": "la batterie",
+     "de": "die Batterie",
+     "es": "la batería",
+     "it": "la batteria",
+     "_pos": [
+      42,
+      389
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bodywork",
+     "fr": "la carrosserie",
+     "de": "die Karosserie",
+     "es": "la chapa",
+     "it": "la carrozzeria",
+     "_pos": [
+      776,
+      412
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sunroof",
+     "fr": "le toi rouvrant",
+     "de": "das Schiebedach",
+     "es": "el quemacocos",
+     "it": "il tettuccio",
+     "_pos": [
+      776,
+      528
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cylinder head",
+     "fr": "la culasse",
+     "de": "der Zylinder köpf",
+     "es": "la culata",
+     "it": "la testa del cilindro",
+     "_pos": [
+      300,
+      559
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coolant reservoir",
+     "fr": "le réservoir Je liquide de refroidissement",
+     "de": "der Kùhlmittelbehalter",
+     "es": "el depósito del líquido refrigerante",
+     "it": "il serbatoio per il liquido refrigerante",
+     "_pos": [
+      74,
+      560
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le tuyau",
+     "de": "das Rohr",
+     "es": "el tubo",
+     "it": "il tubo",
+     "_pos": [
+      454,
+      576
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "engine",
+     "fr": "le moteur",
+     "de": "der Motor",
+     "es": "el motor",
+     "it": "il motore",
+     "_pos": [
+      322,
+      658
+     ],
+     "_flags": []
+    },
+    {
+     "en": "radiator",
+     "fr": "le radiateur",
+     "de": "der Kühler",
+     "es": "el radiador",
+     "it": "il radiatore",
+     "_pos": [
+      42,
+      673
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fan",
+     "fr": "le venrilareur",
+     "de": "der Ventilator",
+     "es": "el ventilador",
+     "it": "il ventilatore",
+     "_pos": [
+      182,
+      674
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gearbox",
+     "fr": "la boîte de vitesses",
+     "de": "das Getriebe",
+     "es": "la caja de cambios",
+     "it": "la scatola del cambio",
+     "_pos": [
+      392,
+      1005
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hubcap",
+     "fr": "l'enjoliveur",
+     "de": "die Radkappe",
+     "es": "el tapón",
+     "it": "il coprimozzo",
+     "_pos": [
+      76,
+      1006
+     ],
+     "_flags": []
+    },
+    {
+     "en": "transmission",
+     "fr": "la transmission",
+     "de": "die Transmission",
+     "es": "la transmisión",
+     "it": "la trasmissione",
+     "_pos": [
+      548,
+      1006
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drive shaft",
+     "fr": "Earbre de transmission",
+     "de": "die Kardanwelle",
+     "es": "el eje de la transmisión",
+     "it": "l'albero di transmissionc",
+     "_pos": [
+      722,
+      1006
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 10,
+  "flagged": 7,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

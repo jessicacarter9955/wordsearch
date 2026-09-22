@@ -1,0 +1,295 @@
+{
+ "page": 120,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • [.OS AUMENTOS • I l CIBO",
+ "groups": [
+  {
+   "names_raw": "fruit 2 • les fruits 2 • das Obst 2 • la fruta f r u t t a i",
+   "parts": [
+    "fruit",
+    "les fruits",
+    "das obst",
+    "la fruta f r u t t a i"
+   ],
+   "entries": [
+    {
+     "en": "mango",
+     "fr": "la mangue",
+     "de": "die Mango",
+     "es": "el mango",
+     "it": "il mango",
+     "_pos": [
+      178,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pineapple",
+     "fr": "l'ananas",
+     "de": "die Ananas",
+     "es": "la pina",
+     "it": "l'ananas",
+     "_pos": [
+      786,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "avocado",
+     "fr": "l'avocar",
+     "de": "die Avocado",
+     "es": "el aguacate",
+     "it": "l'avocado",
+     "_pos": [
+      76,
+      199
+     ],
+     "_flags": []
+    },
+    {
+     "en": "papaya",
+     "fr": "la papaye",
+     "de": "die Papaya",
+     "es": "la papaya",
+     "it": "la papaia",
+     "_pos": [
+      776,
+      281
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peach",
+     "fr": "la pêche",
+     "de": "der Pfirsich",
+     "es": "el melocotón",
+     "it": "la pesca",
+     "_pos": [
+      62,
+      361
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lychee",
+     "fr": "le litchi",
+     "de": "die Litschi",
+     "es": "el fichi",
+     "it": "il litchi",
+     "_pos": [
+      824,
+      431
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kiwifruit",
+     "fr": "le kiwi",
+     "de": "die Kiwi",
+     "es": "f\\ kiw i",
+     "it": "I kiwi",
+     "_pos": [
+      211,
+      527
+     ],
+     "_flags": [
+      "es:weird:f\\",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Cape gooseberry",
+     "fr": "le physalis",
+     "de": "die Kapstachelbeere",
+     "es": "el capulín",
+     "it": "l'alchechengi",
+     "_pos": [
+      693,
+      528
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "pit",
+     "fr": "le pépin",
+     "de": "der Kern",
+     "es": "la semilla",
+     "_pos": [
+      61,
+      543
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "peel",
+     "fr": "la peau",
+     "de": "die Schale",
+     "es": "la piel",
+     "it": "la buccia",
+     "_pos": [
+      387,
+      643
+     ],
+     "_flags": []
+    },
+    {
+     "en": "passion fruit",
+     "fr": "le fruit de la passion",
+     "de": "die Passionsfrucht",
+     "es": "el m aracuyá",
+     "it": "il frutto della passione",
+     "_pos": [
+      232,
+      789
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "quince",
+     "fr": "le coing",
+     "de": "die Quitte",
+     "es": "el membrillo",
+     "it": "lo mela cotogna",
+     "_pos": [
+      62,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "banana",
+     "fr": "la banane",
+     "de": "die Banane",
+     "es": "el plátano",
+     "it": "la banana",
+     "_pos": [
+      402,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pomegranate",
+     "fr": "la grenade",
+     "de": "der Granatapfel",
+     "es": "la granada",
+     "it": "il melograno",
+     "_pos": [
+      744,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guava",
+     "fr": "la goyave",
+     "de": "die Guave",
+     "es": "la guayaba",
+     "it": "la guaiava",
+     "_pos": [
+      573,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "persimmon",
+     "fr": "le kaki",
+     "de": "die Persimone",
+     "es": "el caqui",
+     "it": "il cachi",
+     "_pos": [
+      60,
+      1018
+     ],
+     "_flags": []
+    },
+    {
+     "en": "feijoa",
+     "fr": "le feijoa",
+     "de": "die Feijoa",
+     "es": "la feijoa",
+     "it": "il feijoa",
+     "_pos": [
+      232,
+      1019
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pnckly pear",
+     "fr": "la figue de Barbarie",
+     "de": "die Kaktusfeige",
+     "es": "la tuna",
+     "it": "il fico d'india",
+     "_pos": [
+      402,
+      1020
+     ],
+     "_flags": []
+    },
+    {
+     "en": "star fruit",
+     "fr": "la carambole",
+     "de": "die Stemfrucht",
+     "es": "la carambola",
+     "it": "la carambola",
+     "_pos": [
+      573,
+      1020
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mangosteen",
+     "fr": "le m angoustan",
+     "de": "die Mango5tane",
+     "es": "el man gostàn",
+     "it": "la mangostina",
+     "_pos": [
+      744,
+      1020
+     ],
+     "_flags": [
+      "fr:short:m",
+      "de:num:Mango5tane"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 7,
+  "flagged": 13,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

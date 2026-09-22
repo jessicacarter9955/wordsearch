@@ -1,0 +1,258 @@
+{
+ "page": 189,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • I F T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "controls • les commandes • die Armaturen • los controles • i comandi",
+   "parts": [
+    "controls",
+    "les commandes",
+    "die armaturen",
+    "los controles",
+    "i comandi"
+   ],
+   "entries": [
+    {
+     "en": "satellite navigation",
+     "fr": "le navigateur par satellite",
+     "de": "das GPS-System",
+     "es": "la navegación por satélite",
+     "it": "la navigazione via satellite",
+     "_pos": [
+      629,
+      103
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hazard lights",
+     "fr": "les feux de détresse",
+     "de": "die Warnlichter",
+     "es": "las luces de emergencia",
+     "it": "le luci intermittenti",
+     "_pos": [
+      444,
+      105
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dashboard",
+     "fr": "le tableau de bord",
+     "de": "das Armaturenbrett",
+     "es": "el tablero",
+     "it": "I cruscotto",
+     "_pos": [
+      263,
+      105
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "horn",
+     "fr": "le klaxon",
+     "de": "die Hupe",
+     "es": "el claxon",
+     "it": "il clacson",
+     "_pos": [
+      150,
+      106
+     ],
+     "_flags": []
+    },
+    {
+     "en": "steering wheel",
+     "fr": "le volant",
+     "de": "das Lenkrad",
+     "es": "el volante",
+     "it": "I volante",
+     "_pos": [
+      40,
+      108
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "left hand drive",
+     "fr": "la conduite à gauche",
+     "de": "die Linkssteuerung",
+     "es": "el volante a la izquierda",
+     "it": "la guida a sinistra",
+     "_pos": [
+      48,
+      586
+     ],
+     "_flags": []
+    },
+    {
+     "en": "speedometer",
+     "fr": "le compteur",
+     "de": "der Tachometer",
+     "es": "el velocím etro",
+     "it": "il contachilometri",
+     "_pos": [
+      491,
+      617
+     ],
+     "_flags": []
+    },
+    {
+     "en": "temperature gauge",
+     "fr": "le thermomètre",
+     "de": "die Temperaturanzeige",
+     "es": "el indicador de temperatura",
+     "it": "la spia della temperatura",
+     "_pos": [
+      88,
+      619
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tachometer",
+     "fr": "le compte-tours",
+     "de": "der Drehzahlmesser",
+     "es": "el tacóm ctro",
+     "it": "il contagiri",
+     "_pos": [
+      313,
+      619
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fuel gauge",
+     "fr": "la jauge d'essence",
+     "de": "die Kraftstoffanzeige",
+     "es": "el indicador de la gasolina",
+     "it": "la spia del carburante",
+     "_pos": [
+      690,
+      619
+     ],
+     "_flags": []
+    },
+    {
+     "en": "light switch",
+     "fr": "l'interrupteur feux",
+     "de": "der Lichtschalter",
+     "es": "la palanca de luces",
+     "it": "l'interruttore per le luci",
+     "_pos": [
+      729,
+      733
+     ],
+     "_flags": []
+    },
+    {
+     "en": "car stereo",
+     "fr": "la stéréo",
+     "de": "die Autosrereoanlage",
+     "es": "la radio del coche",
+     "it": "l'autoradio",
+     "_pos": [
+      48,
+      735
+     ],
+     "_flags": []
+    },
+    {
+     "en": "odometer",
+     "fr": "Podomètre",
+     "de": "der Kilometerzähler",
+     "es": "el odómetro",
+     "it": "Podometro",
+     "_pos": [
+      730,
+      849
+     ],
+     "_flags": [
+      "fr:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "heater controls",
+     "fr": "ia manette de chauffage",
+     "de": "der Heizungsregler",
+     "es": "ia calefacción",
+     "it": "i comandi per il riscaldamento",
+     "_pos": [
+      48,
+      849
+     ],
+     "_flags": []
+    },
+    {
+     "en": "air bag",
+     "fr": "I'airbag",
+     "de": "der Airbag",
+     "es": "la bolsa de aire",
+     "it": "l'airbag",
+     "_pos": [
+      730,
+      963
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "gearshift",
+     "fr": "le levier de vitesses",
+     "de": "der Schalthebel",
+     "es": "la palanca de velocidades",
+     "it": "la leva del cambio",
+     "_pos": [
+      48,
+      964
+     ],
+     "_flags": []
+    },
+    {
+     "en": "right-hand drive",
+     "fr": "la conduite à droite",
+     "de": "die Rechtssteuerung",
+     "es": "el volante a la derecha",
+     "it": "la guida a destra",
+     "_pos": [
+      274,
+      1046
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "- i r a »",
+   "pos": [
+    435,
+    558
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 10,
+  "flagged": 7,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

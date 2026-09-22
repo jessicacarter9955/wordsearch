@@ -1,0 +1,370 @@
+{
+ "page": 238,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS ♦ LU S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "exercises • les exercices • die Übungen • los ejercicios",
+   "parts": [
+    "exercises",
+    "les exercices",
+    "die übungen",
+    "los ejercicios"
+   ],
+   "entries": [
+    {
+     "en": "tights",
+     "fr": "le collant",
+     "de": "die Strumpfhose",
+     "es": "los leotardos",
+     "it": "il collant",
+     "_pos": [
+      440,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "push-up",
+     "fr": "la traction",
+     "de": "der Liegestütz",
+     "es": "la flexión",
+     "it": "le flessioni",
+     "_pos": [
+      652,
+      206
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lunge",
+     "fr": "la fente en avant",
+     "de": "der Ausfall",
+     "es": "la flexión con estiramiento",
+     "it": "lo stiramento",
+     "_pos": [
+      230,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stretch",
+     "fr": "l'étirement",
+     "de": "das Strecken",
+     "es": "el estiramiento",
+     "it": "lo stretching",
+     "_pos": [
+      18,
+      219
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dumbbell",
+     "fr": "l'haltère",
+     "de": "die Hantel",
+     "es": "la pesa",
+     "it": "il manubrio",
+     "_pos": [
+      538,
+      229
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leg press",
+     "fr": "la fraction pour les jambes",
+     "de": "der Beinstütz",
+     "es": "los ejercicios de piernas",
+     "it": "la pressa per le gambe",
+     "_pos": [
+      660,
+      440
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bicep curl",
+     "fr": "l'exercise pour les biceps",
+     "de": "die Bizepsübung",
+     "es": "el ejercicio de bíceps",
+     "it": "le aizate con il manubrio",
+     "_pos": [
+      448,
+      444
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sit-up",
+     "fr": "le redressement assis",
+     "de": "das Rumpfheben",
+     "es": "el abdominal",
+     "it": "gli addominali",
+     "_pos": [
+      236,
+      448
+     ],
+     "_flags": []
+    },
+    {
+     "en": "squat",
+     "fr": "la flexion de jambes",
+     "de": "die Kniebeuge",
+     "es": "ponerse en cuclillas",
+     "it": "lo squat",
+     "_pos": [
+      24,
+      486
+     ],
+     "_flags": []
+    },
+    {
+     "en": "weight bar",
+     "fr": "la barre à poids",
+     "de": "die Gewichthantel",
+     "es": "la barra de pesas",
+     "it": "I bilanciere",
+     "_pos": [
+      398,
+      611
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "running shoes",
+     "fr": "les baskets",
+     "de": "die Trainings schuhe",
+     "es": "las zapatillas",
+     "it": "gli scarponcini",
+     "_pos": [
+      224,
+      631
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vest",
+     "fr": "le maillot",
+     "de": "das Hemd",
+     "es": "la camiseta",
+     "it": "la maglietta",
+     "_pos": [
+      571,
+      639
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aerobics",
+     "fr": "l'acrobic",
+     "de": "das Aerobic",
+     "es": "los aerobics",
+     "it": "la ginnastica aerobica",
+     "_pos": [
+      668,
+      769
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jogging",
+     "fr": "le logging",
+     "de": "das Jogging",
+     "es": "el jogging",
+     "it": "il footing",
+     "_pos": [
+      456,
+      773
+     ],
+     "_flags": []
+    },
+    {
+     "en": "weight training",
+     "fr": "Pentraînemenr poids et haltères",
+     "de": "das Kraft training",
+     "es": "el levantamiento de pesas",
+     "it": "l'addestramento ai pesi",
+     "_pos": [
+      242,
+      776
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "chest press",
+     "fr": "Pexcrcice pour la poitrine",
+     "de": "die Brustübung",
+     "es": "los ejercid o s pectorales",
+     "it": "la pressa per pettorali",
+     "_pos": [
+      30,
+      782
+     ],
+     "_flags": [
+      "fr:case",
+      "es:short:s"
+     ]
+    },
+    {
+     "en": "circuit training",
+     "fr": "l'entrainem ent en circuit",
+     "de": "das Zirkeltraining",
+     "es": "la labia de gimnasia",
+     "it": "l'allemamento in circuito",
+     "_pos": [
+      683,
+      861
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Pilâtes",
+     "fr": "les exercices Pilâtes",
+     "de": "die Pilâtes-Übungen",
+     "es": "el pilâtes",
+     "it": "il pilâtes",
+     "_pos": [
+      474,
+      865
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "extend (v)",
+     "fr": "étendre",
+     "de": "ausstrecken",
+     "es": "estirar",
+     "it": "stendere",
+     "_pos": [
+      352,
+      868
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jog in place (v)",
+     "fr": "jogger sur place",
+     "de": "auf der Stelle joggen",
+     "es": "correr en parada",
+     "it": "correre sul posto",
+     "_pos": [
+      192,
+      871
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tram (v)",
+     "fr": "s'entraîner",
+     "de": "trainieren",
+     "es": "entrenar",
+     "it": "allenarsi",
+     "_pos": [
+      48,
+      875
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jumping rope",
+     "fr": "le saut à la corde",
+     "de": "das Seilspringen",
+     "es": "saltar a la comba",
+     "it": "saltare con la corda",
+     "_pos": [
+      686,
+      959
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boxerase",
+     "fr": "l'aérohoxe",
+     "de": "die Boxgymnastik",
+     "es": "la gim nasia prepugiiistica",
+     "it": "la ginnastica prepugiiistica",
+     "_pos": [
+      476,
+      963
+     ],
+     "_flags": [
+      "es:rep:prepugiiistica",
+      "it:rep:prepugiiistica"
+     ]
+    },
+    {
+     "en": "pull up (v)",
+     "fr": "tirer",
+     "de": "hochziehen",
+     "es": "levantar",
+     "it": "sollevare",
+     "_pos": [
+      354,
+      966
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flex (v)",
+     "fr": "fléchir",
+     "de": "beugen",
+     "es": "flexio n ar",
+     "it": "flettere",
+     "_pos": [
+      195,
+      970
+     ],
+     "_flags": [
+      "es:short:n"
+     ]
+    },
+    {
+     "en": "warm up (v)",
+     "fr": "s'échauffer",
+     "de": "sich aufwärmen",
+     "es": "calentar",
+     "it": "riscaldarsi",
+     "_pos": [
+      50,
+      972
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "gli esercizi",
+   "pos": [
+    436,
+    61
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 3,
+  "flagged": 23,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

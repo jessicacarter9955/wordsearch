@@ -1,0 +1,393 @@
+{
+ "page": 191,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "'Tat tire • la crevaison • die Reifenpanne • la ponchadura • la foratura",
+   "parts": [
+    "'tat tire",
+    "la crevaison",
+    "die reifenpanne",
+    "la ponchadura",
+    "la foratura"
+   ],
+   "entries": [
+    {
+     "en": "cam belt",
+     "fr": "la courroie de cames",
+     "de": "der Nockenriemen",
+     "es": "la banda del disco",
+     "it": "la cinghia della camma",
+     "_pos": [
+      664,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "car accident",
+     "fr": "l'accident de voiture",
+     "de": "der Autounfall",
+     "es": "el accidente de carro",
+     "it": "l'incidente stradale",
+     "_pos": [
+      480,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spare tire",
+     "fr": "L« roue de secours",
+     "de": "das Ersatzrad",
+     "es": "llanta de refacción",
+     "it": "ia ruota di scorta",
+     "_pos": [
+      40,
+      146
+     ],
+     "_flags": [
+      "fr:weird:L«",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "turbocharger",
+     "fr": "le turbocompresseur",
+     "de": "der Turbolader",
+     "es": "el turbo",
+     "it": "il tubocompresscire",
+     "_pos": [
+      664,
+      208
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breakdown",
+     "fr": "la panne",
+     "de": "die Panne",
+     "es": "la avena",
+     "it": "la panne",
+     "_pos": [
+      480,
+      209
+     ],
+     "_flags": []
+    },
+    {
+     "en": "distributor",
+     "fr": "le distributeur",
+     "de": "der Verteiler",
+     "es": "el distribuidor",
+     "it": "I distributore",
+     "_pos": [
+      664,
+      305
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "insurance",
+     "fr": "l'assurance",
+     "de": "die Versicherung",
+     "es": "el seguro",
+     "it": "l'assicurazione",
+     "_pos": [
+      482,
+      306
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tire iron",
+     "fr": "la manivelle",
+     "de": "der Radschlüssel",
+     "es": "la llave",
+     "it": "la",
+     "_pos": [
+      40,
+      310
+     ],
+     "_flags": []
+    },
+    {
+     "en": "timing",
+     "fr": "le réglage de l'allumage",
+     "de": "die Einstellung",
+     "es": "el ralenti",
+     "it": "la messa in fase",
+     "_pos": [
+      665,
+      402
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tow truck",
+     "fr": "la dépanneuse",
+     "de": "der Abschleppwagen",
+     "es": "la grúa",
+     "it": "il carro attrezzi",
+     "_pos": [
+      482,
+      406
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wheel lugs",
+     "fr": "les ccrous île roue",
+     "de": "die Radmuttern",
+     "es": "los birlos",
+     "it": "bulloni della ruota",
+     "_pos": [
+      147,
+      410
+     ],
+     "_flags": []
+    },
+    {
+     "de": "der Wagenheber",
+     "es": "el gato",
+     "it": "il cric",
+     "_pos": [
+      341,
+      441
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "chassis",
+     "fr": "le châssis",
+     "de": "das Chassis",
+     "es": "el chasis",
+     "it": "il telaio",
+     "_pos": [
+      666,
+      500
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mechanic",
+     "fr": "le mécanicien",
+     "de": "der Mechaniker",
+     "es": "el mecánico",
+     "it": "il meccanico",
+     "_pos": [
+      482,
+      503
+     ],
+     "_flags": []
+    },
+    {
+     "en": "change a tire (v)",
+     "fr": "changer une roue",
+     "de": "ein Rad wechseln",
+     "es": "cambiar una llanta",
+     "it": "cambiare una ruota",
+     "_pos": [
+      42,
+      508
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roof",
+     "fr": "le toit",
+     "de": "das Dach",
+     "es": "el techo",
+     "it": "I tetto",
+     "_pos": [
+      86,
+      558
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "parking brake",
+     "fr": "le frein à mam",
+     "de": "die Handbremse",
+     "es": "el freno de mano",
+     "it": "I freno a mano",
+     "_pos": [
+      666,
+      596
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "tire pressure",
+     "fr": "la pression des pneus",
+     "de": "der Reifendruck",
+     "es": "la presión del neumático",
+     "it": "la pressione dei pneumatici",
+     "_pos": [
+      483,
+      599
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suspension",
+     "fr": "la suspension",
+     "de": "die Aufhängung",
+     "es": "la suspensión",
+     "it": "la sospensione",
+     "_pos": [
+      197,
+      606
+     ],
+     "_flags": []
+    },
+    {
+     "en": "muffler",
+     "fr": "le silencieux",
+     "de": "der Auspufftopf",
+     "es": "el silenciador",
+     "it": "il silenziatore",
+     "_pos": [
+      314,
+      639
+     ],
+     "_flags": []
+    },
+    {
+     "en": "alternator",
+     "fr": "l'alternateur",
+     "de": "die Lichtmaschine",
+     "es": "el alternador",
+     "it": "l'alternatore",
+     "_pos": [
+      667,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fuse box",
+     "fr": "le porre-fusibles",
+     "de": "der Sichemngskasten",
+     "es": "la caja de fusibles",
+     "it": "la scatola dei fusibili",
+     "_pos": [
+      484,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "My car has broken down",
+     "fr": "Ma voiture est en panne",
+     "de": "Ich habe eine Panne",
+     "es": "Se descompuso el carro",
+     "it": "Sono in panne",
+     "_pos": [
+      668,
+      790
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "spark plug",
+     "fr": "la bougie",
+     "de": "die Zündkerze",
+     "es": "la bujía",
+     "it": "la candela",
+     "_pos": [
+      484,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "My car won't start",
+     "fr": "Ma voiture ne démarre pas",
+     "de": "Mein Auto springt nicht an",
+     "es": "E l carro no arranca",
+     "it": "La mia macchina non parte",
+     "_pos": [
+      668,
+      887
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "fan belt",
+     "fr": "la courroie de ventilateur",
+     "de": "der Keilriemen",
+     "es": "la banda del ventilador",
+     "it": "la cinghia della ventola",
+     "_pos": [
+      484,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gas tank",
+     "fr": "le réservoir d'essence",
+     "de": "der Benzintank",
+     "es": "el tanque de la gasolina",
+     "it": "il serbatoio della benzina",
+     "_pos": [
+      485,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le pot d' échappement",
+     "de": "der Auspuff",
+     "es": "el tubo de escape",
+     "it": "il tubo di scappamento",
+     "_pos": [
+      296,
+      1017
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 17,
+  "flagged": 11,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

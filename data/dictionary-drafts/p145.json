@@ -1,0 +1,320 @@
+{
+ "page": 145,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "E A T IN G OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "fast food • la restauration rapide • der Schnellimbiss • la comida rápida • il fast food",
+   "parts": [
+    "fast food",
+    "la restauration rapide",
+    "der schnellimbiss",
+    "la comida rápida",
+    "il fast food"
+   ],
+   "entries": [
+    {
+     "en": "straw",
+     "fr": "la paille",
+     "de": "der Strohhalm",
+     "es": "el popote",
+     "it": "la cannuccia",
+     "_pos": [
+      342,
+      159
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pizzena",
+     "fr": "la pizzeria",
+     "de": "die Pizzeria",
+     "es": "la pizzeria",
+     "it": "la pizzeria",
+     "_pos": [
+      654,
+      187
+     ],
+     "_flags": []
+    },
+    {
+     "en": "burger",
+     "fr": "le hamburger",
+     "de": "der Hamburger",
+     "es": "la hamburguesa",
+     "it": "l'hamburger",
+     "_pos": [
+      55,
+      223
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soft drink",
+     "fr": "la boisson non-alcoolisée",
+     "de": "das alkoholfreie Getränk",
+     "es": "el refresco",
+     "it": "la bibita",
+     "_pos": [
+      402,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fast food restaurant",
+     "fr": "le restaurant rapide",
+     "de": "die Imbissstube",
+     "es": "el restaurant de hamburguesas",
+     "it": "il fastfood",
+     "_pos": [
+      654,
+      286
+     ],
+     "_flags": [
+      "de:rep:Imbissstube"
+     ]
+    },
+    {
+     "en": "French fries",
+     "fr": "les frites",
+     "de": "die Pommes frites",
+     "es": "las papas fritas",
+     "it": "le patate fritte",
+     "_pos": [
+      444,
+      358
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "menu",
+     "fr": "la carte",
+     "de": "die $peisekarte",
+     "es": "el menù",
+     "it": "il menù",
+     "_pos": [
+      654,
+      385
+     ],
+     "_flags": [
+      "de:weird:$peisekarte"
+     ]
+    },
+    {
+     "en": "paper napkin",
+     "fr": "la serviette en papier",
+     "de": "die Papierserviette",
+     "es": "la servilleta de papel",
+     "it": "il tovagliolo di carta",
+     "_pos": [
+      445,
+      459
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eat in",
+     "fr": "manger sur place",
+     "de": "hier essen",
+     "es": "para comer en el local",
+     "it": "mangiare sul posto",
+     "_pos": [
+      654,
+      485
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tray",
+     "fr": "le plateau",
+     "de": "das Tablett",
+     "es": "la charola",
+     "it": "il vassoio",
+     "_pos": [
+      444,
+      558
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carry out",
+     "fr": "à emporter",
+     "de": "zum Mitnehmen",
+     "es": "para llevar",
+     "it": "da portarvi a",
+     "_pos": [
+      653,
+      584
+     ],
+     "_flags": []
+    },
+    {
+     "en": "burger meal",
+     "fr": "le hamburger avec des frites",
+     "de": "der Hamburger mit Pommes frites",
+     "es": "la hamburguesa con papas fritas",
+     "it": "il pasto con hamburger",
+     "_pos": [
+      54,
+      638
+     ],
+     "_flags": []
+    },
+    {
+     "en": "canned drink",
+     "fr": "la boisson en boîte",
+     "de": "das Dosengetränk",
+     "es": "el refresco en lata",
+     "_pos": [
+      459,
+      666
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "reheat y",
+     "fr": "réchauffer",
+     "de": "aufwärmen",
+     "es": "recalentar",
+     "it": "riscaldare",
+     "_pos": [
+      653,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "price list",
+     "fr": "le tarif",
+     "de": "die Preisliste",
+     "es": "la lista de prec",
+     "_pos": [
+      298,
+      698
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "pizza",
+     "fr": "la pizza",
+     "de": "die Pizza",
+     "es": "la pizz3",
+     "it": "la pizza",
+     "_pos": [
+      56,
+      706
+     ],
+     "_flags": [
+      "es:num:pizz3"
+     ]
+    },
+    {
+     "en": "ketchup",
+     "fr": "le ketchup",
+     "de": "der Tomatenketchup",
+     "es": "la catsup",
+     "it": "la salsa di pomodoro",
+     "_pos": [
+      653,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can I have that to go. please?",
+     "fr": "À emporter, s'il vous plaît",
+     "de": "Ich mochte das mitnehmen",
+     "es": "M e lo pone para llevar?",
+     "it": "Me lo dà da portar via?",
+     "_pos": [
+      652,
+      891
+     ],
+     "_flags": [
+      "en:weird:go.",
+      "en:weird:please?",
+      "en:case",
+      "fr:weird:emporter,",
+      "es:short:M",
+      "es:weird:llevar?",
+      "es:case",
+      "it:weird:via?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Do you deliver?",
+     "fr": "Est-ce que vous livrez à dom icile?",
+     "de": "Liefern Sie ins Haus?",
+     "es": "Entregan a domicilio?",
+     "it": "Consegnate a domocilio?",
+     "_pos": [
+      652,
+      990
+     ],
+     "_flags": [
+      "en:weird:deliver?",
+      "en:case",
+      "fr:weird:icile?",
+      "fr:case",
+      "de:weird:Haus?",
+      "es:weird:domicilio?",
+      "es:case",
+      "it:weird:domocilio?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "delivery",
+     "fr": "la livraison à domicile",
+     "de": "die Lieferung ins Haus",
+     "es": "la entrega a domicilio",
+     "it": "la consegna a domicilio",
+     "_pos": [
+      53,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hot dog stand",
+     "fr": "le marchand de hor-dogs",
+     "de": "der Imbissstand",
+     "es": "el puesto",
+     "it": "il venditore ambulante",
+     "_pos": [
+      346,
+      1047
+     ],
+     "_flags": [
+      "de:rep:Imbissstand"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 9,
+  "flagged": 12,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

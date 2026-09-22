@@ -1,0 +1,546 @@
+{
+ "page": 60,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "s-to-v-ig-le-e-le-p-o-sate",
+   "names": {
+    "en": "crockery and cutlery",
+    "fr": "la vaisselle et les couverts",
+    "de": "das geschirr und das besteck",
+    "es": "la v a jilla y lo s c u b ie r t o s",
+    "it": "le s to v ig le e le p o sate"
+   },
+   "entries": [
+    {
+     "en": "teaspoon",
+     "fr": "cuiller à café",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12
+     }
+    },
+    {
+     "en": "bowl",
+     "fr": "bol",
+     "de": "Schüssel",
+     "es": "plato sopero",
+     "it": "ciotola",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 8,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "coffee cup",
+     "fr": "tasse à café",
+     "de": "Kaffeetasse",
+     "es": "taza de café",
+     "it": "tazzina da caffè",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 11,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "piate",
+     "fr": "assiettc",
+     "de": "Teller",
+     "es": "plato",
+     "it": "piatto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "mug",
+     "fr": "grande tasse",
+     "de": "Becher",
+     "es": "taza",
+     "it": "tazza",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 11,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "teacup",
+     "fr": "tasse .1 thé",
+     "de": "Teetasse",
+     "es": "lata zade té",
+     "it": "tazza da té",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "wine glass",
+     "fr": "verre à vin",
+     "de": "Weinglas",
+     "es": "copa de vino» il cálice cía vino",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 25
+     }
+    },
+    {
+     "en": "tumbler",
+     "fr": "verre",
+     "de": "Wasserglas",
+     "es": "vaso",
+     "it": "bicchiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 10,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "pitcher",
+     "fr": "por",
+     "de": "Kännchen",
+     "es": "jarra",
+     "it": "brocca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 3,
+      "de": 8,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "egg cup",
+     "fr": "coquetier",
+     "de": "Eierbecher",
+     "es": "taza para el huevo",
+     "it": "portauovo",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 10,
+      "es": 15,
+      "it": 9
+     }
+    },
+    {
+     "en": "glassware",
+     "fr": "verrerie",
+     "de": "Glaswaren",
+     "es": "cristalería",
+     "it": "cristalleria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "French press",
+     "fr": "cafetière",
+     "de": "Cafetière",
+     "es": "cafetera de émbolo",
+     "it": "caffettiera",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 9,
+      "es": 16,
+      "it": 11
+     }
+    },
+    {
+     "en": "teapot",
+     "fr": "théière",
+     "de": "Teekanne",
+     "es": "tetera",
+     "it": "teiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "dinner plate",
+     "fr": "assiette plate",
+     "de": "Essteller",
+     "es": "plato",
+     "it": "piatto piano",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 9,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "soup bowl",
+     "fr": "assiette à soupe",
+     "de": "Suppenteller",
+     "es": "plato sopero",
+     "it": "scodella",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 12,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "soup spoon",
+     "fr": "cuiller à soupe",
+     "de": "Suppenlöffel",
+     "es": "cuchara sopera",
+     "it": "cucchiaio da minestra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 12,
+      "es": 13,
+      "it": 19
+     }
+    },
+    {
+     "en": "napkin ring",
+     "fr": "rond dc serviette",
+     "de": "Serviettenring",
+     "es": "servilletero",
+     "it": "portatovagliolo",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 14,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "dessert plate",
+     "fr": "assiette à dessert",
+     "de": "Beilagenteller",
+     "es": "plato del pan",
+     "it": "piattino",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 14,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "napkin",
+     "fr": "servierte",
+     "de": "Serviette",
+     "es": "servilleta",
+     "it": "tovagliolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "spoon",
+     "fr": "cuiller",
+     "de": "Löffel",
+     "es": "cuchara",
+     "it": "cucchiaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "knife",
+     "fr": "couteau",
+     "de": "Messer",
+     "es": "cuchillo",
+     "it": "coltello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "fork",
+     "fr": "fourchette",
+     "de": "Gabel",
+     "es": "tenedor",
+     "it": "forchetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 5,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "place setting",
+     "fr": "couvert",
+     "de": "Gedeck",
+     "es": "lugar en la mesa",
+     "it": "coperto",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 6,
+      "es": 13,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

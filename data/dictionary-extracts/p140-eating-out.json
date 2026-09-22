@@ -1,0 +1,592 @@
+{
+ "page": 140,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "tè",
+   "names": {
+    "en": "rea",
+    "fr": "le thé",
+    "de": "der tee",
+    "es": "el té",
+    "it": "il tè"
+   },
+   "entries": [
+    {
+     "en": "herbal tea",
+     "fr": "tisane",
+     "de": "Kräutertee",
+     "es": "té de hierbas",
+     "it": "tè alle erbe",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 10,
+      "es": 11,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "camomile tea",
+     "fr": "camomille",
+     "de": "Kamillentee",
+     "es": "manzanilla",
+     "it": "camomilla",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 11,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "es": "té verde",
+     "it": "tè verde",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "iced tea",
+     "fr": "thé glacé",
+     "de": "Eistee",
+     "es": "té con hielo",
+     "it": "tè freddo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "mint tea",
+     "fr": "infusion de menthe",
+     "de": "Pfefferminztee",
+     "es": "m enta polco",
+     "it": "tc alla menta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 14,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "tea with lemon",
+     "fr": "thé au citron",
+     "de": "Tee mit Zitrone",
+     "es": "té con limón",
+     "it": "rè al limone",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 13,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "black tea",
+     "fr": "thé narure",
+     "de": "schwarze Tee",
+     "es": "té sólo",
+     "it": "tè nero",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "s a with milk",
+     "fr": "thé au lau",
+     "de": "Tee mit Milch",
+     "es": "té con leche",
+     "it": "tè con latte",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 11,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "chocolate milkshake",
+     "fr": "m ilk-shake au chocolat",
+     "de": "Schokoladenmilchshake",
+     "es": "m alteada de chocolate",
+     "it": "frappé al cioccolato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 19,
+      "de": 21,
+      "es": 19,
+      "it": 18
+     }
+    }
+   ]
+  },
+  {
+   "slug": "spremute-e-i-frappe",
+   "names": {
+    "en": "ce sand milkshakes",
+    "fr": "les jus et m ilk-shakes",
+    "de": "die säfte und milchshakes",
+    "es": "los jugos y las malteadas",
+    "it": "le spremute e i frappe"
+   },
+   "entries": [
+    {
+     "en": "strawberry milkshake",
+     "fr": "m ilk-shake à la fraise",
+     "de": "Erdbeermilchshake",
+     "es": "malteada de fresa",
+     "it": "frappé alle fragole",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 18,
+      "de": 17,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "coffee milkshake",
+     "fr": "m ilk-shake au café",
+     "de": "Kaffeemilchshake",
+     "es": "m alteada de café",
+     "it": "frappé al caffè",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 15,
+      "de": 16,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "tomato juice",
+     "fr": "jus de tomate",
+     "de": "Tomatensaft",
+     "es": "jugo de tomate",
+     "it": "succo di pomodoro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "pineapple juice",
+     "fr": "jus d'ananas",
+     "de": "Ananassaft",
+     "es": "jugo de pina",
+     "it": "succo d'ananas",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "apple juice",
+     "fr": "jus de pomme",
+     "de": "Apfelsaft",
+     "es": "jugo de manzana",
+     "it": "succo di mela",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "clange juice",
+     "fr": "rus d'orange",
+     "de": ">3ogensaft",
+     "es": "el",
+     "it": "ago de naranja succo d'arancia",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 9,
+      "es": 2,
+      "it": 25
+     }
+    },
+    {
+     "en": "food",
+     "fr": "nourriture",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "scoop",
+     "fr": "bou li",
+     "de": "Kugel",
+     "es": "boia",
+     "it": "pallina",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "brown bread",
+     "fr": "pain his",
+     "de": "Graubrot",
+     "es": "pan integral",
+     "it": "pane integrale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 8,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "pastry",
+     "fr": "pâtisserie",
+     "de": "Gebäck",
+     "es": "pan dulce",
+     "it": "pasta",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 6,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "ice cream",
+     "fr": "giace",
+     "de": "Eis",
+     "es": "helado",
+     "it": "gelato",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 3,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "salad",
+     "fr": "salade",
+     "de": "Salat",
+     "es": "ensalada",
+     "it": "insalata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "toasted sandwich",
+     "fr": "sandwich grillé",
+     "de": "getoastete Sandwich",
+     "es": "sandwich tostado",
+     "it": "tramezzino tostato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 14,
+      "de": 18,
+      "es": 15,
+      "it": 17
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,659 @@
+====================================================================================================
+== p182 [trasporti] 18 voci, 8 flag, 2 mancanti, 1 leftover, header=T R A N S P O R T A T IO N ♦ L E T R A N S P O R T • DER VE~
+-- G0 subcat: roads • les routes • die Straßen • las carreteras • le strade
+   parts: roads • les routes • die straßen • las carreteras • le strade
+ 0.0  M highway | l autoroute | die Autobahn | la autopista | l'autostrada   
+ 0.1  M inside lane | la file de droite | die rechte Spur | el carril de baja | la corsia interna   
+ 0.2  M toll booth | le poste de péage | die Mautstelle | la caseta de cob~ | il casello   
+ 0.3  M middle lane | la voie centrale | die mittlere Spur | el carril central | la corsia centra~   
+ 0.4  M road markings | les signalisatio~ | die Straßenmarki~ | las señales de p~ | la segnaletica o~   
+ 0.5  ⚠ outside lane | la voie de | dépassement die ~ | el carril | izquierdo la cor~   wrap wrap-ambig
+        ALTS: [{'en': 'outside lane', 'fr': 'la voie de', 'de': 'dépassement die Überholspur', 'es': 'el carril izquierdo', 'it': 'la corsia esterna'}, {'en': 'outside lane', 'fr': 'la voie de dépassement', 'de': 'die Überholspur', 'es': 'el carril', 'it': 'izquierdo la corsia esterna'}]
+ 0.6  M entrance ramp | la bretelle d' a~ | die Zufahrtsstra~ | la entrada | la rampa di acce~   
+ 0.7  ⚠ ? | ? | die Ausfahrts | la rampa de sali~ | la rampa di usci~   missing
+ 0.8  M one-way | à sens unique | Einbahn | de sentido único | a senso unico   
+ 0.9  M traffic | la circulation | der Verkehr | el tránsito | il traffico   
+ 0.10 ⚠ divider | Pilot directionn~ | die Verkehrsinsel | la línea divisor~ | la linca divisor~   fr
+ 0.11 M overpass | l'autopont | die Überführung | el puente | il cavalcavia   
+ 0.12 M junction | le carrefour | die Kreuzung | el crucero | lo svincolo   
+ 0.13 M hard shoulder | l'accotement sta~ | der Seitenstreif~ | el acotamiento | la corsi ad'emer~   
+ 0.14 M traffic light | les feux | die Verkehrsampel | el semáforo | il semaforo   
+ 0.15 M underpass | le passage infér~ | die Unterführung | el paso a desniv~ | il sottopassaggio   
+ 0.16 M median strip | le terre-plein | der Mittelstreif~ | el muro de divis~ | la banchina spar~   
+ 0.17 ⚠ ? | le camion | der Lastwagen | el camión | il camion   missing
+   LEFT 'de sortie' @[822, 532] (riga singola isolata)
+====================================================================================================
+== p183 [trasporti] 24 voci, 20 flag, 0 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • E~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ disabled parking~ | le parking réser~ | der Behindertenp~ | el estacionamien~ | il pareheggio pe~   es
+ 0.1  M emergency phone | le téléphone de ~ | die Notrufsaule | el teléfono de e~ | il telefono per ~   
+ 0.2  M traffic jam | l'embouteillage | der Verkehrsstau | el tráfico | l'ingorgo   
+ 0.3  ⚠ crosswalk | le passage doute | der ^Bgángerüber~ | el paso de peato~ | il passaggio ped~   de
+ 0.4  M rotary | le rond-point | der Kreisverkehr | la glorieta | la rotatoria   
+ 0.5  M reverse (v) | taire marche arr~ | rückwärts fahren | meter reversa | fare marcia indi~   
+ 0.6    tow away (v) | remorquer | abschleppen | remolcar | rimorchiare   
+ 0.7  ⚠ map | la carte | Zie Landkarte | el mapa | <2 mappa   it
+ 0.8  M detour | la déviation | die Umleitung | la desviación | la deviazione   
+ 0.9    drive (v) | conduire | fahren | manejar | guidare   
+ 0.10 M divided highway | la route à quatr~ | die Schnellstraße | la autovía | la carreggiata d~   
+ 0.11 ⚠ Is this the road~ | C e s i la route~ | Ist dies die Str~ | Es ésta la carre~ | E questa la stra~   de en es fr it
+ 0.12   park (v) | garer | parken | estacionar | parcheggiare   
+ 0.13 M roadworks | les travaux | die Straßenbaust~ | las obras | i lavori stradali   
+ 0.14 M parking meter | le parc-mètre | die Parkuhr | el parquím etro | il parchimetro   
+ 0.15 ⚠ W here can 1 par~ | O ù peut-on se g~ | Wo kann ich park~ | D ónde m e puedo~ | Dove posso parch~   de en es fr it
+ 0.16   pass (v) | doubler | überholen | rebasar | sorpassare   
+ 0.17 M guardrail | la glissière de ~ | die Leitplanke | el muro de conte~ | il guardrail   
+ 0.18 M traffic | l'agent de la ci~ | der Verkehrspoli~ | el policía de tr~ | il vigile urbano   
+-- G1 subcat: road signs • les panneaux routiers • die Verkehrsschilder • las señales de tràq~
+   parts: road signs • les panneaux routiers • die verkehrsschilder • las señales de tràqnsito • i ca~
+ 1.0  M no right tum | interdit de tour~ | rechts abbiegen ~ | no dar vuelta al~ | svolta a destra ~   
+ 1.1  M no stopping | arrêt interdit | Halten verboten | prohibido parar | sosta vietata   
+ 1.2    hazard | danger | Gefahr | peligro | pericolo   
+ 1.3  ⚠ speed limit | la limitation de~ | die Geschwindigk~ | el lim ite de ve~ | I limite di velo~   it
+ 1.4  M no entry | sens interdit | keine Einfahrt | prohibido el paso | ingresso vietato   
+====================================================================================================
+== p184 [trasporti] 12 voci, 7 flag, 2 mancanti, 1 leftover, header=# / T R A N S P O R T A T IO N • I .F T R A N S P O R T • D~
+-- G0 subcat: bus • le bus • der Bus • el autobus • l'autobus
+   parts: bus • le bus • der bus • el autobus • l'autobus
+ 0.0  M driver's seat | le siège du cond~ | der Fahrersitz | el asiento del c~ | il sedile dell'a~   
+ 0.1  M handrail | la poignée | der Haltegriff | la barandilla | la maniglia   
+ 0.2  M automatic door | la porte automat~ | die Automatiktür | la puerta automá~ | la porta a soffi~   
+ 0.3  M front wheel | la roue avant | das Vorderrad | la rueda delante~ | la ruota anterio~   
+ 0.4  ⚠ luggage hold | le compartiment ~ | das Gepackfach | ? | ?   missing
+ 0.5  M door | la porre | die Tür | la puerta | la porta   
+ 0.6  M bus | le car | der Reisebus | el autocar | il pullman   
+-- G1 subcat: types of buses • les types de bus • die Bustypen • los tipos de autobuses • i t~
+   parts: types of buses • les types de bus • die bustypen • los tipos de autobuses • i tipi di autob~
+ 1.0  M route number | le numéro de bus | die Liniennummer | el num ero de ru~ | numero del perco~   
+ 1.1  M streetcar | le trolleybus | der Obus | el trolebús | il filobus   
+ 1.2  ⚠ ? | le conducteur | der Fahrer | el chófer | l'autista   missing
+ 1.3  M double-decker bus | le bus à deux ét~ | der Doppeldecker | el autobús de do~ | l'autobus a due ~   
+ 1.4  M tram | le tramway | die Straßenbahn | el tranvía | il tram   
+   LEFT 'il bagagliaio' @[648, 196] (riga singola isolata)
+====================================================================================================
+== p185 [trasporti] 17 voci, 14 flag, 2 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • I .E T R A N S P O R T • DER V~
+-- G0 subcat: (nessuna)
+ 0.0  M stop button | le bouton d'arrêt | der Halteknopf | el botón de para~ | il pulsante di c~   
+ 0.1  M window | la fenêtre | das Fenster | la ventanilla | il finestrino   
+ 0.2  ⚠ ear wheel | a roue arrière | msHinterrad | a rueda trasera | Id ruota posteri~   it
+ 0.3  M bell | la sonnette | die Klingel | el timbre | il campanello   
+ 0.4  M bus ticket | le ticket | der Fahrschein | el boleto de aut~ | il biglietto   
+ 0.5  M bus station | la gare routière | der Busbahnhof | la estación de a~ | l'autostazione   
+ 0.6  M wheelchair access | l'accès aux hand~ | der Rollstuhlzug~ | la rampa para si~ | l'accesso per se~   
+ 0.7  M fare | le prix du ticket | der Fahrpreis | la tarifa | la tariffa   
+ 0.8  M bus shelter | l'abribus | das Wartehäuschen | la marquesina | la pensilina   
+ 0.9  M timetable | l'horaire | der Fahrplan | el horario | l'orario   
+ 0.10 ⚠ Which bus goes t~ | 'est quel bus po~ | Welcher Bus fähr~ | t Q ué autobus v~ | Qual è l'autobus~   de en es fr it
+ 0.11 ⚠ Do you stop at..~ | Vous stoppez à .~ | Halten Sie am.. ? | Para usted e n .~ | Ferma a...?   de en es fr it
+ 0.12 M bus stop | l'arrêt de bus | die Bushaltestel~ | la parada de aut~ | la fermata dell'~   
+ 0.13 ⚠ minibus | le minibus | der Kleinbus | el m icrobús | il pulmino   es
+ 0.14 M shuttle bus | la navette | der Zubringer | el autobus direc~ | la navetta   
+ 0.15 ⚠ ? | ? | der Touristenbus | el autobus turís~ | ?   missing
+ 0.16 ⚠ tourist bus | le bus de touris~ | ? | ? | il pullman   missing
+====================================================================================================
+== p186 [trasporti] 18 voci, 9 flag, 0 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • T F T R A N S P O R T • DER VE~
+-- G0 subcat: car I • la voiture 1 • das Auto 1 • el carro 1 • l'automobile 1 exterior • l'ex~
+   parts: car i • la voiture • das auto • el carro • l'automobile 1 exterior • l'extérieur • das äuße~
+ 0.0  ⚠ mirror | le rétroviseur | der Seitenspiegei | e\ espejo lateral | lo specchietto l~   es
+ 0.1  M windshield | le pare-brise | die Windschutzsc~ | el parabrisas | il parabrezza   
+ 0.2  M rearview mirror | le rétroviseur | der Rückspiegel | el espejo retrov~ | lo specchietto r~   
+ 0.3  ⚠ windscreen wiper | l 'essuie-glace | der Scheibenwisc~ | el limpiaparabri~ | I tergicristallo   it
+ 0.4  M door | la porte | die Autotür | la puerta | lo sportello   
+ 0.5  ⚠ hood | le capot | die Motorhaube | el cofre | I cofano   it
+ 0.6  M trunk | le coffre | der Kofferraum | la cajuela | il bagagliaio   
+-- G1 subcat: ZN 634
+   parts: zn
+ 1.0  M tum signal | le clignotant | der Blinker | la directional | la freccia   
+ 1.1  ⚠ license plate | la plaque d' imm~ | das Nummernschild | l.i m atrícula | la targa   es
+ 1.2  M bumper | le pare-chocs | die Stoßstange | la defensa | il paraurti   
+ 1.3  M headlight | le phare | der Scheinwerfer | el faro | i fari anabbagli~   
+ 1.4  M wheel | la roue | das Rad | la rueda | la ruota   
+ 1.5  M tire | le pneu | der Reifen | la llanta | il pneumatico   
+ 1.6  M luggage | les bagages | das Gepäck | el equipaje | i hananli   
+ 1.7  M roof rack | la galerie | der Dachgepäcktr~ | la baca | il portabagagli   
+ 1.8  M tailgate | le hayon | die Hecktur | la puerta abatib~ | il portellone   
+ 1.9  M seat belt | la ceinture de s~ | der Sicherheitsg~ | el cinturón de s~ | la cintura di si~   
+ 1.10 M child seat | le siège d'enfant | der Kindersitz | la silla para ni~ | il seggiolino pe~   
+====================================================================================================
+== p187 [trasporti] 24 voci, 14 flag, 0 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VE~
+-- G0 subcat: types • les modèles • die Wagentypen • los modelos • i tipi
+   parts: types • les modèles • die wagentypen • los modelos • i tipi
+ 0.0  M station wagon | le break | der Kombiwagen | la camioneta | l'auto familiare   
+ 0.1  M hatchback | la berline à hay~ | die Fließhecklim~ | el carro de cinc~ | l'auto a cinque ~   
+ 0.2  M sedan | la berline | die Limousine | el carro familiar | la berlina   
+ 0.3  M ubcornpact | la petite voiture | der Kleinwagen | el compacto | l'auto piccola   
+ 0.4  M sports car | le cabriolet spo~ | das Sportkabriol~ | el carro deporti~ | l'auto sportiva   
+ 0.5  ⚠ minivan | la voiture à six~ | die Groöraumlimo~ | la m inivan | la monovolume   es
+ 0.6  M four-wheel drive | la quatre quatre | der Geländewagen | la doble tracción | il fuoristrada   
+ 0.7  M convertible | la décapotable | das Kabriolett | el convertible | l'auto decappott~   
+ 0.8  M limousine | la limousine | die verlängerte ~ | la lim ousine | la limousine   
+ 0.9  ⚠ ► muge | la voiture d'épo~ | das Vorkriegsmod~ | el auto de época | l'auto d'epoca   en
+ 0.10 M car wash | le lave-auto | die Autowaschanl~ | el auto-lavado | l'autolavaggio   
+ 0.11 M leaded | avec plomb | verbleit | con plomo | piombata   
+ 0.12 M oil | l'huile | das Öl | el aceite | l'olio   
+-- G1 subcat: gas station • la station-service • die Tankstelle • la gasolinera • la stazione~
+   parts: gas station • la station-service • die tankstelle • la gasolinera • la stazione di servizio
+ 1.0  M pnce | le tarif | der Benzinpreis | el precio | il orezzo   
+ 1.1  M gas pump | la pompe | die Zapfsäule | la bomba | a pompa di benzi~   
+ 1.2  M diesel | le diesel | der Diesel | el diesel | il diesel   
+ 1.3  M gasoline | l'essence | das Benzin | la gasolina | la benzina   
+ 1.4  M antifreeze | l'antigel | das Frostschutzm~ | el anticongelante | l'antigelo   
+ 1.5  M windshield wiper~ | le lave-glace | die Scheibenwasc~ | el líquido limpi~ | il detegente per~   
+ 1.6  M unleaded | sans plomb | bleifrei | sin plomo | senza piombo   
+ 1.7  M garage | le garage | die Werkstatt | el taller | il garage   
+ 1.8  ⚠ Fill it up. plea~ | Le plein, s'il v~ | Voll tanken, bit~ | Llénelo por favor | Il pieno per fav~   de en es fr it
+ 1.9  ⚠ air hose | le compresseur | das Druckluftger~ | la bomba del aire | I distributore d~   it
+ 1.10 ⚠ forecourt | l'aire de statio~ | der Tankstellenp~ | la /ona de abast~ | i area di stazio~   es
+====================================================================================================
+== p188 [trasporti] 20 voci, 7 flag, 2 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • L L T R A N S P O R T • DER VE~
+-- G0 subcat: car 2 • la voiture 2 • das Auto 2 • el carro 2 • l'automobile 2 interior • l'in~
+   parts: car • la voiture • das auto • el carro • l'automobile 2 interior • l'intérieur • die innena~
+ 0.0  M handle | la poignée | der Türgriff | la manija | la maniglia   
+ 0.1  M headrest | le repose-tête | die Kopfstütze | el reposacabezas | il poggiatesta   
+ 0.2  M door lock | le verrouillage | die Türverriegel~ | el seguro | la sicura   
+ 0.3  M armrest | l'accoudoir | die Armstütze | el reposabrazos | il bracciolo   
+ 0.4  M backseat | le siège arrière | der Rücksitz | el asiento trase~ | il sedile poster~   
+ 0.5  ⚠ èk | ? | ? | ? | ?   missing
+ 0.6  ⚠ ? | ? | ? | ? | I   it missing
+ 0.7  M accelerator | l'accélérateur | das Gaspedal | el acelerador | l'acceleratore   
+ 0.8  M brake | le frein | die Bremse | el freno | il freno   
+ 0.9  M automatic | automatique | mit Automatik | automático | automatico   
+ 0.10 M four-dcor | à quatre portes | viertürig | de cuatro puertas | a quattro porte   
+ 0.11 M two door | à deux portes | zweitürig | dos puertas | a due porte   
+ 0.12 M air-conditioning | la climatisation | die Klimaanlage | el aire acondici~ | l'aria condizion~   
+ 0.13 M clutch | l'embrayage | die Kupplung | el embrague | la frizione   
+ 0.14 M ignition | l'allumage | die Zündung | el encendido | l'accensione   
+ 0.15 M three-door | à trois portes | dreitürig | de tres puertas | a tre porte   
+ 0.16 M manual | manuel | mit Handschaltung | manual | manuale   
+ 0.17 ⚠ Can 1 park here? | O n peut se gare~ | Kann ich hier pa~ | Se puede estacio~ | Posso parcheggia~   de en es fr it
+ 0.18 ⚠ W here is the pa~ | O ù est le parki~ | Wo ist hier ein ~ | D ónde hay un es~ | Dov'è il parcheg~   de en es fr it
+ 0.19 ⚠ Can you tell me ~ | Pouvez-vous m'in~ | Wie komme ich na~ | M e puede decir ~ | Può indicarmi la~   de en es fr it
+====================================================================================================
+== p189 [trasporti] 17 voci, 7 flag, 0 mancanti, 1 leftover, header=T R A N S P O R T A T IO N • I F T R A N S P O R T • DER VE~
+-- G0 subcat: controls • les commandes • die Armaturen • los controles • i comandi
+   parts: controls • les commandes • die armaturen • los controles • i comandi
+ 0.0  M satellite naviga~ | le navigateur pa~ | das GPS-System | la navegación po~ | la navigazione v~   
+ 0.1  M hazard lights | les feux de détr~ | die Warnlichter | las luces de eme~ | le luci intermit~   
+ 0.2  ⚠ dashboard | le tableau de bo~ | das Armaturenbre~ | el tablero | I cruscotto   it
+ 0.3  M horn | le klaxon | die Hupe | el claxon | il clacson   
+ 0.4  ⚠ steering wheel | le volant | das Lenkrad | el volante | I volante   it
+ 0.5  M left hand drive | la conduite à ga~ | die Linkssteueru~ | el volante a la ~ | la guida a sinis~   
+ 0.6  M speedometer | le compteur | der Tachometer | el velocím etro | il contachilomet~   
+ 0.7  M temperature gauge | le thermomètre | die Temperaturan~ | el indicador de ~ | la spia della te~   
+ 0.8  M tachometer | le compte-tours | der Drehzahlmess~ | el tacóm ctro | il contagiri   
+ 0.9  M fuel gauge | la jauge d'essen~ | die Kraftstoffan~ | el indicador de ~ | la spia del carb~   
+ 0.10 M light switch | l'interrupteur f~ | der Lichtschalter | la palanca de lu~ | l'interruttore p~   
+ 0.11 M car stereo | la stéréo | die Autosrereoan~ | la radio del coc~ | l'autoradio   
+ 0.12 ⚠ odometer | Podomètre | der Kilometerzäh~ | el odómetro | Podometro   fr it
+ 0.13 M heater controls | ia manette de ch~ | der Heizungsregl~ | ia calefacción | i comandi per il~   
+ 0.14 ⚠ air bag | I'airbag | der Airbag | la bolsa de aire | l'airbag   fr
+ 0.15 M gearshift | le levier de vit~ | der Schalthebel | la palanca de ve~ | la leva del camb~   
+ 0.16 M right-hand drive | la conduite à dr~ | die Rechtssteuer~ | el volante a la ~ | la guida a destra   
+   LEFT '- i r a »' @[435, 558] (riga singola isolata)
+====================================================================================================
+== p190 [trasporti] 17 voci, 7 flag, 1 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VE~
+-- G0 subcat: car 3 • la voiture 3 • das Auto 3 • el carro 3 • l'automobile 3
+   parts: car • la voiture • das auto • el carro • l'automobile
+-- G1 subcat: mechanics • la mécanique • die Mechanik • la mecánica • la meccanica
+   parts: mechanics • la mécanique • die mechanik • la mecánica • la meccanica
+ 1.0  M washer fluid res~ | le réservoir de ~ | der Scheibenputz~ | el depósito del ~ | il serbatoio del~   
+ 1.1  ⚠ air filter | le filtre à air | der Luftfilter | el filtro del ai~ | I filtro dell'ar~   it
+ 1.2  ⚠ dipstick | la jauge d'huile | der Ölmessstab | la varilla del n~ | l'inrìirafnrH Hi~   de
+ 1.3  M brake fluid rese~ | le réservoir de ~ | der Bremsflüssig~ | el depósito del ~ | il serbatoio del~   
+ 1.4  M battery | la batterie | die Batterie | la batería | la batteria   
+ 1.5  M bodywork | la carrosserie | die Karosserie | la chapa | la carrozzeria   
+ 1.6  M sunroof | le toi rouvrant | das Schiebedach | el quemacocos | il tettuccio   
+ 1.7  M cylinder head | la culasse | der Zylinder köpf | la culata | la testa del cil~   
+ 1.8  M coolant reservoir | le réservoir Je ~ | der Kùhlmittelbe~ | el depósito del ~ | il serbatoio per~   
+ 1.9  ⚠ ? | le tuyau | das Rohr | el tubo | il tubo   missing
+ 1.10 M engine | le moteur | der Motor | el motor | il motore   
+ 1.11 M radiator | le radiateur | der Kühler | el radiador | il radiatore   
+ 1.12 M fan | le venrilareur | der Ventilator | el ventilador | il ventilatore   
+ 1.13 M gearbox | la boîte de vite~ | das Getriebe | la caja de cambi~ | la scatola del c~   
+ 1.14 M hubcap | l'enjoliveur | die Radkappe | el tapón | il coprimozzo   
+ 1.15 M transmission | la transmission | die Transmission | la transmisión | la trasmissione   
+ 1.16 ⚠ drive shaft | Earbre de transm~ | die Kardanwelle | el eje de la tra~ | l'albero di tran~   fr
+====================================================================================================
+== p191 [trasporti] 28 voci, 11 flag, 2 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VE~
+-- G0 subcat: 'Tat tire • la crevaison • die Reifenpanne • la ponchadura • la foratura
+   parts: 'tat tire • la crevaison • die reifenpanne • la ponchadura • la foratura
+ 0.0  M cam belt | la courroie de c~ | der Nockenriemen | la banda del dis~ | la cinghia della~   
+ 0.1  M car accident | l'accident de vo~ | der Autounfall | el accidente de ~ | l'incidente stra~   
+ 0.2  ⚠ spare tire | L« roue de secou~ | das Ersatzrad | llanta de refacc~ | ia ruota di scor~   fr
+ 0.3  M turbocharger | le turbocompress~ | der Turbolader | el turbo | il tubocompressc~   
+ 0.4  M breakdown | la panne | die Panne | la avena | la panne   
+ 0.5  ⚠ distributor | le distributeur | der Verteiler | el distribuidor | I distributore   it
+ 0.6  M insurance | l'assurance | die Versicherung | el seguro | l'assicurazione   
+ 0.7  M tire iron | la manivelle | der Radschlüssel | la llave | la   
+ 0.8  M timing | le réglage de l'~ | die Einstellung | el ralenti | la messa in fase   
+ 0.9  M tow truck | la dépanneuse | der Abschleppwag~ | la grúa | il carro attrezzi   
+ 0.10 M wheel lugs | les ccrous île r~ | die Radmuttern | los birlos | bulloni della ru~   
+ 0.11 ⚠ ? | ? | der Wagenheber | el gato | il cric   missing
+ 0.12 M chassis | le châssis | das Chassis | el chasis | il telaio   
+ 0.13 M mechanic | le mécanicien | der Mechaniker | el mecánico | il meccanico   
+ 0.14 M change a tire (v) | changer une roue | ein Rad wechseln | cambiar una llan~ | cambiare una ruo~   
+ 0.15 ⚠ roof | le toit | das Dach | el techo | I tetto   it
+ 0.16 ⚠ parking brake | le frein à mam | die Handbremse | el freno de mano | I freno a mano   it
+ 0.17 M tire pressure | la pression des ~ | der Reifendruck | la presión del n~ | la pressione dei~   
+ 0.18 M suspension | la suspension | die Aufhängung | la suspensión | la sospensione   
+ 0.19 M muffler | le silencieux | der Auspufftopf | el silenciador | il silenziatore   
+ 0.20 M alternator | l'alternateur | die Lichtmaschine | el alternador | l'alternatore   
+ 0.21 M fuse box | le porre-fusibles | der Sichemngskas~ | la caja de fusib~ | la scatola dei f~   
+ 0.22 ⚠ My car has broke~ | Ma voiture est e~ | Ich habe eine Pa~ | Se descompuso el~ | Sono in panne   en es fr it
+ 0.23 M spark plug | la bougie | die Zündkerze | la bujía | la candela   
+ 0.24 ⚠ My car won't sta~ | Ma voiture ne dé~ | Mein Auto spring~ | E l carro no arr~ | La mia macchina ~   en es fr it
+ 0.25 M fan belt | la courroie de v~ | der Keilriemen | la banda del ven~ | la cinghia della~   
+ 0.26 M gas tank | le réservoir d'e~ | der Benzintank | el tanque de la ~ | il serbatoio del~   
+ 0.27 ⚠ ? | le pot d' échapp~ | der Auspuff | el tubo de escape | il tubo di scapp~   missing
+====================================================================================================
+== p192 [trasporti] 20 voci, 8 flag, 2 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • E~
+-- G0 subcat: motorcycle • la moto • das Motorrad • la motocicleta • la motocicletta
+   parts: motorcycle • la moto • das motorrad • la motocicleta • la motocicletta
+ 0.0  ⚠ helmet | le casque | der Motorradhelm | ? | ?   missing
+ 0.1  M speedometer | le compteur | der Tachometer | el velocím etro | il contachilomet~   
+ 0.2  M brake | le frein | die Bremse | el freno | il freno   
+ 0.3  M tum signal | le clignoranr | der Blinker | la direccional | la freccia   
+ 0.4  M horn | le klaxon | die Hupe | el claxon | il clacson   
+ 0.5  M clutch | l'embrayage | die Kupplung | el embrague | la frizione   
+ 0.6  M throttle | accélérateur | der Gashebel | el acelerador | l'acceleratore   
+ 0.7  M carrier | le porte-bagages | der Gepäckträger | el portaequipaje | il portapacchi   
+ 0.8  M controls | les commandes | die Steuerung | los controles | i comandi   
+ 0.9  ⚠ passenger seat | le siège arrière | der Soziussitz | el asiento trase~ | I sellino poster~   it
+ 0.10 M engine | le moteur | der Motor | el motor | il motore   
+ 0.11 ⚠ ? | la selle | der Sitz | el asiento | ?   missing
+ 0.12 M tuel tank | le réservoir d' ~ | der Kraftstoffta~ | el tanque de la ~ | il serbatoio   
+ 0.13 M reflector | le réflecteur | das Katzenauge | el reflector | il riflettore   
+ 0.14 M taillight | le feu arrière | das Bremslicht | la luz trasera | il fanale poster~   
+ 0.15 M exhaust pipe | le pot d'échappe~ | das Auspuffrohr | el tubo de escape | il tubo di scapp~   
+ 0.16 M muffler | le silencieux | der Auspufftopf | el silenciador | il silenziatore   
+ 0.17 M oil tank | le réservoir d' ~ | der Ölsumpf | el depósito del ~ | il serbatoio del~   
+ 0.18 M gearbox | la boîte de vite~ | das Getriebe | laca jade veloci~ | la scatola del c~   
+ 0.19 M air filter | le filtre d' air | der Luftfilter | el filtro del ai~ | il filtro dell'a~   
+====================================================================================================
+== p193 [trasporti] 15 voci, 9 flag, 2 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • E~
+-- G0 subcat: ty p e s • Ics types • die Typen • los tipos
+   parts: ty p e s • ics types • die typen • los tipos
+ 0.0  M leathers | le vêtement en c~ | der Lederanzug | el traje de cuero | la tuta di pelle   
+ 0.1  M visor | la visière | das Visier | la visera | a visiera   
+ 0.2  M reflector strap | la bande fluores~ | der Leuchtstreif~ | la cinta reflect~ | la fascia rifran~   
+ 0.3  M kneepad | la genouillère | der Knieschützer | la rodillera | il paraginocchio   
+ 0.4  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['racing bike', 'la moro de course', 'die Rennmaschine', 'la moto de carreras', 'la moto da corsa windshield', 'le pare-brise', 'die Windschutzscheibe', 'el parabrisas', 'il parabrezza']
+ 0.5  M clothing | les vêtements | die Kleidung | el equipo | l'abbigliamento   
+ 0.6  M headlight | le phare | der Scheinwerfer | el faro | il proiettore   
+ 0.7  ⚠ suspension | la suspension | die Aufhängung | la suspensión | rammnrti77atnrc   it
+ 0.8  M mudguard | le garde-bouc | das Schutzblech | la salpicadera | il parafango   
+ 0.9  M tourer | la moto routière | der Tourer | la moto de carre~ | la moto da turis~   
+ 0.10 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['dirt bike', 'la m oro tout-rerrain', 'das Geländemotorrad', 'la m otocross', 'la moto da cross stand', 'la béquille', 'der Motorradstander', 'el soporte', 'il cavalletto']
+ 0.11 M tire | le pneu | der Reifen | la llanta | il pneumatico   
+ 0.12 ⚠ ? | l'essieu | die Achse | el eje | l'asse   missing
+ 0.13 ⚠ ? | la pédale de fre~ | das Bremspedal | el pedal de los ~ | il pedale del fr~   missing
+ 0.14 M scooter | le scooter | der Roller | la vespa | la vespa   
+====================================================================================================
+== p194 [trasporti] 17 voci, 8 flag, 1 mancanti, 4 leftover, header=T R A N S P O R T A T IO N • L E TRANSPORT • DER VERKEHR / ~
+-- G0 subcat: bicycle • la bicyclette • das Fahrrad • la bicicleta • la bicicletta
+   parts: bicycle • la bicyclette • das fahrrad • la bicicleta • la bicicletta
+ 0.0  M saddle | la selle | der Sattel | el asiento | il sellino   
+ 0.1  M seat post | le rube porte-se~ | die Sattelstutze | el poste del asi~ | il tubo reggisel~   
+ 0.2  M water bottle | la bouteille d'e~ | die Wasserflasche | la botella del a~ | la borraccia   
+ 0.3  M frame | le cadre | der Rahmen | el cuadro | il telaio   
+ 0.4  ⚠ tandem | le tandem | das Tandem | ? | ?   missing
+ 0.5  M brake | le frein | die Felgenbremse | el freno | il freno   
+-- G1 subcat: • el tàndem • il tandem
+   parts: el tàndem • il tandem
+ 1.0  M hub | le moyeu | die Nabe | el eje | il mozzo   
+ 1.1  M racing bike | le vélo de course | das Rennrad | la bicicleta de ~ | la bicicletta da~   
+ 1.2  M gears | les vitesses | die Gänge | los cam bios | le maree   
+ 1.3  M tire | le pneu | der Reifen | la llanta | il pneumatico   
+ 1.4  M chain | la chaîne | die Fahrradkette | la cadena | la catena   
+ 1.5  M cog | la roue dentée | das Zahnrad | la estrella | la ruota dentata   
+ 1.6  M mountain bike | le vélo tour ter~ | das Mountainbike | la bicicleta de ~ | la mountain bike   
+ 1.7  M helmet | le casque | der Fahrradhelm | el casco | il casco   
+-- G2 subcat: Ai V ^ of 11 !! 41 j j J¡ tk "di
+   parts: ai v ^ of 11 !! 41 j j j¡ tk "di
+ 2.0  M touring bike | le vélo de rando~ | das Tourenfahrrad | la bicicleta de ~ | la bicicletta da~   
+ 2.1  M road bike | le vélo de ville | das Straßenrad | la bicicleta de ~ | la bicicletta da~   
+ 2.2  M cycle lane | la piste cyclable | der Fahrradweg | el carril de bic~ | la pista ciclabi~   
+   LEFT 'il cerchione' @[308, 692] (riga singola isolata)
+   LEFT 'f' @[673, 840] (riga singola isolata)
+   LEFT '«a' @[647, 857] (riga singola isolata)
+   LEFT 'I P p' @[702, 857] (riga singola isolata)
+====================================================================================================
+== p195 [trasporti] 35 voci, 14 flag, 3 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • LF. TRANSPORT • DER VERKEHR • ~
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ crossbar | la barre | die Stange | el tubo superior | ?   missing
+ 0.1  M handlebar | le guidon | die Lenkstange | el manubrio | manubrio   
+ 0.2  M gear lever | le levier de vit~ | der Schalthebel | la palanca de ca~ | la leva del camb~   
+ 0.3  M tire lever | le dcm ontc-pncu | der Reifenschlüs~ | la palanca de la~ | la leva per il p~   
+ 0.4  M patch | la rustine | der Flicken | el parche | la toppa   
+ 0.5  M brake lever | le levier de Ire~ | der Bremsgriff | los frenos | la leva del freno   
+ 0.6  ⚠ repair kit | la boîte d' outi~ | der Reparaturkas~ | el k it de repar~ | il kit per ripar~   es
+ 0.7  M fork | la fourche | die Gabel | las tijeras | la forcella   
+ 0.8  M key | la clef | der Schlüssel | la llave | la chiave   
+ 0.9  M spoke | le rayon | die Speiche | el rayo | il raggio   
+ 0.10 M pump | la pompe | die Luftpumpe | la bomba | la pompa   
+ 0.11 M lock | l'antivol | das Fahrradschlo~ | el candado | il lucchetto   
+ 0.12 ⚠ ? | la roue | das Rad | la llanta | la ruota   missing
+ 0.13 M tread | la bande de roul~ | das Reifenprofil | la banda de roda~ | il battistrada   
+ 0.14 M inner tube | la chambre à air | der Schlauch | la cámara | la camera d'aria   
+ 0.15 M child seat | le siège d'enfant | der Kindersitz | la siila para el~ | il seggiolino pe~   
+ 0.16 ⚠ ? | ? | das Ventil | el pivote | la valvola   missing
+ 0.17 M light | le phare | die Fahrradlampe | el faro | il fanale   
+ 0.18 M kickstand | la béquille | der Fahrradständ~ | la patilla de ap~ | il cavalletto   
+ 0.19 M brake block | le patin de frein | die Bremsbacke | la goma del freno | il blocca freni   
+ 0.20 M basket | le panier | der Korb | la canastilla | il cestello   
+ 0.21 M toe dip | le cale-pied | der Rennbügel | el calzapié | il fermapiedi   
+ 0.22 M change gear (v) | changer de vites~ | schalten | cambiar de veloc~ | cambiare marcia   
+ 0.23 M stabilizers | les roues d'entr~ | die Stützräder | las ruedas de ap~ | le rotelle   
+ 0.24 M rear light | le feu arrière | das Rücklicht | el faro trasero | il fanale poster~   
+ 0.25 M cable | le câble | das Kabel | el cable | il cavo   
+ 0.26 M dynamo | la dynamo | der Dynamo | la dinamo | la dinamo   
+ 0.27 M toe strap | la lanière | der Riemen | la banda del cal~ | il cinguetto   
+ 0.28   brake (v) | freiner | bremsen | frenar | frenare   
+ 0.29 M reflector | le cataphotc | der Rückstrahler | el reflector | il catarifrangen~   
+ 0.30 M bike rack | la galene à vélo | der Fahrradständ~ | el rack para bic~ | il posteggio per~   
+ 0.31 M sprocket | le pignon | das Kettenzahnrad | el engrane | ii dente   
+ 0.32 M flat tire | la crevaison | die Reifenpanne | la ponchadura | la foratura   
+ 0.33   pedal (v) | pédaler | treten | pedalear | pedalare   
+ 0.34 M cycle (v) | faire du vélo | Rad fahren | andar en bicicle~ | andare in bici   
+====================================================================================================
+== p196 [trasporti] 18 voci, 12 flag, 2 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • LE T R A N S P O R T • DER VER~
+-- G0 subcat: train • le train • der Zug • el tren • il treno
+   parts: train • le train • der zug • el tren • il treno
+ 0.0  M carriage | la voiture | der Wagen | el vagón | il vagone   
+ 0.1  M platform number | le nu me rode vo~ | die Gleisnummer | el número de and~ | il numero del bi~   
+ 0.2  M platform | le quai | der Bahnsteig | el andén | il binario   
+ 0.3  ⚠ le voyageur | der Pendler | e l viajero de | cercanías | il pendolare   fr
+ 0.4  M cart | le caddie | der Kofferkuli | el carrito | il carrello   
+ 0.5  ⚠ train station | la gare | ? | ? | ?   missing
+ 0.6  ⚠ ? | ? | der Bahnhof | la estación de t~ | la stazione ferr~   missing
+-- G1 subcat: types of train • les types de trains •
+   parts: types of train • les types de trains
+ 1.0  M conducted cabin | la cabine du con~ | der Führerstand | laca bina del co~ | la cabina del co~   
+ 1.1  M engine | la locomotive | die Lokomotive | la locomotora | la locomotiva   
+ 1.2  M rail | le rail | die Schiene | el riel | la rotaia   
+ 1.3  M steam train | le train à vapeur | die Dampflokomot~ | el tren de vapor | if treno a vapore   
+ 1.4  M diesel train | le train diesel | die Diesellokomo~ | el tren diesel | il treno diesel   
+ 1.5  M electric tram | le rrain électri~ | die Elektrolokom~ | el tren eléctrico | il treno elettri~   
+ 1.6  M high-speed tram | le train à grand~ | der Hochgeschwin~ | el tren de alta ~ | il treno ad alta~   
+ 1.7  ⚠ monorail | le m onorail | die Einschienenb~ | el m onorriel | la monorotaia   es fr
+ 1.8  M underground train | le métro | die U-Bahn | el metro | la metropolitana   
+ 1.9  M streetcar | le tram | die Straßenbahn | el tranvía | il tram   
+ 1.10 ⚠ freight train | le train de marc~ | der Güterzug | el tren de carga | I treno merci   it
+====================================================================================================
+== p197 [trasporti] 26 voci, 15 flag, 2 mancanti, 1 leftover, header=T R A N S P O R T A T IO N • I F T R A N S P O R T • DER VE~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M luggage rack | le porre bagages | die Gepäckablage | el portaequipajes | il portabagagli   
+ 0.1  M track | la voie terrée | das Gleis | la vía | il binario   
+ 0.2  M window | la fenêtre | das Zugfenster | la ventanilla | il finestrino   
+ 0.3  M seat | le siège | der Sitz | el asiento | il sedile   
+ 0.4  M door | la porte | die Tür | la puerta | la porta   
+ 0.5  M ticket barrier | le portillon | die Eingangssper~ | la barrera | la barriera   
+ 0.6  M compartment | le compartiment | das Abteil | el com partim en~ | lo scompartimento   
+-- G1 subcat: p 41213 %
+   parts: p 41213 %
+ 1.0  ⚠ KUPONG 7.00 kr | fr. wBV m m >wi?~ | S5J >- ' | ? | ?   de en fr missing slot-ambig
+        ALTS: [['en', 'fr', 'es'], ['en', 'fr', 'it'], ['en', 'de', 'es']]
+ 1.1  ⚠ 1 w ticket | le billet | die Fahrkarte | el boleto | il bicilietto   en
+ 1.2  ⚠ timetable | l'horaire | der Fahrplan | el horario | ?   missing
+ 1.3  M xiöitc address s~ | le haur-pa rieur | aer Lautsprecher | d aitavo | nc i ctpmnH i D ~   
+ 1.4  M dining car | la voiture-resta~ | der Speisewagen | el vagón restaur~ | il vagone ristor~   
+ 1.5  M sleeping compart~ | le com parrim en~ | das Schlafabteil | el cochee ama | lo scompartiment~   
+ 1.6  M oncourse | le hall de gare | die Bahnhofshalle | el vestíbulo | l'atrio   
+ 1.7  M ticket office | le guichet | der Fahrkartensc~ | la taquilla | la biglietteria   
+ 1.8  M live rail | le rail conducte~ | die stromführend~ | el riel electrif~ | il binario elett~   
+ 1.9  M underground map | le plan de métro | der U-Bahnplan | el plano del met~ | la mappa della m~   
+ 1.10 M railroad network | le réseau ferrov~ | das Bahnnetz | la red ferroviar~ | la rete ferrovia~   
+ 1.11 M ticket inspector | le contrôleur | der Schaffner | el dictador | il controllore   
+ 1.12 M signal | le signal | das Signal | la señal | il segnale   
+ 1.13 M delay | le retard | die Verspätung | el retraso | il ritardo   
+ 1.14 M inter city train | le rapide | der Intercity | el tren in te rc~ | il treno interci~   
+ 1.15   change (v) | changer | umsteigen | cambiar | cambiare   
+ 1.16 M emergency lever | la manette Je se~ | der Nothebel | la palanca de em~ | la leva di emerg~   
+ 1.17 M fare | le prix | der Fahrpreis | el precio | la tariffa   
+ 1.18 M rush hour | l'heure de pointe | die Stoßzeit | la hora pico | l'ora di punta   
+   LEFT "s u H äiijiÄ Ä U 'T w à ï ï j" @[410, 402] (riga singola isolata)
+====================================================================================================
+== p198 [trasporti] 25 voci, 11 flag, 6 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • K~
+-- G0 subcat: aircraft • Pavion • das Flugzeug • el avión • l'aeroplano airliner • l'avion de~
+   parts: aircraft • pavion • das flugzeug • el avión • l'aeroplano airliner • l'avion de ligne • das~
+ 0.0  ⚠ nose | le nez | der Bug | la n ari | il muso   es
+ 0.1  M cockpit | le cockpit | das Cockpit | laca bina de pil~ | la cabina di pil~   
+ 0.2  M engine | lb réacteur | das Triebwerk | el motor | il motore   
+ 0.3  M wing | l'aile | die Tragfläche | el ala | l'ala   
+ 0.4  M fuselage | le fuselage | der Rumpf | el fuselaje | la fusoliera   
+ 0.5  M tail | la queue | das Heck | la cola | la coda   
+ 0.6  M rudder | la gouverne | das Seitenruder | el timón | il timone   
+ 0.7  M nosewheel | la roue de nez | das Bugfahrwerk | el tren delantero | la ruota anterio~   
+ 0.8  M tailplane | l'empennage | das Höhenleitwerk | el estabilizador | lo stabilizzatore   
+ 0.9  ⚠ ? | la sortie | der Ausgang | la salida | l'uscita   missing
+ 0.10 ⚠ ? | le train d'atter~ | das Hauptfahrwerk | el tren de aterr~ | il carrello d'at~   missing
+ 0.11 ⚠ L a i 1er on | ? | das Querruder | el alerón | l'alettone   en missing slot-ambig
+        ALTS: [['fr', 'de', 'es', 'it']]
+ 0.12 ⚠ ? | la dérive | das Seitenleitwe~ | la aleta | l'aletta   missing
+-- G1 subcat: cabin • la cabine • die Kabine • la cabina • la cabina
+   parts: cabin • la cabine • die kabine • laca bina • la cabina
+ 1.0  M emergency exit | la sortie de sec~ | der Notausgang | la salida de eme~ | l'uscita di emer~   
+ 1.1  M flight attendant | l'hôtesse dt l'a~ | die Flugbegleite~ | la sobrecargo | l'assistente di ~   
+ 1.2  ⚠ overhead bin | le easier à baga~ | das Gepäckfach | el com partim en~ | il corriDartimen~   it
+ 1.3  M air vent | le ventilateur | die Luftdüse | el ventilador | la ventola per l~   
+ 1.4  M window | le hublot | das Fenster | la ventanilla | il finestrino   
+ 1.5  M reading light | la liseuse | die Leselampe | la luz de lectura | la luce di lettu~   
+ 1.6  M seat | le siège | der Sitz | el asiento | il sedile   
+ 1.7  M row | la rangée | die Reihe | la fila | la fila   
+ 1.8  M armrest | l'accoudoir | die Armlehne | el descansahrazos | il bracciolo   
+ 1.9  M seat back | le dossier | die Rückenlehne | el respaldo | lo schienale   
+ 1.10 ⚠ ? | le couloir | der Gang | el pasillo | il corridoio   missing
+ 1.11 ⚠ ? | la tablette | der Klapptisch | la mesa plegable | il vassoio   missing
+====================================================================================================
+== p199 [trasporti] 24 voci, 19 flag, 3 mancanti, 1 leftover, header=T R A N S P O R T A T IO N • I F TRANSPORT • DER VERKEHR • ~
+-- G0 subcat: (nessuna)
+ 0.0  M bipiane | le biplan | der Doppeldecker | el biplano | il biplano   
+ 0.1  M glider | le planeur | das Segelflugzeug | el planeador | l'aliante   
+ 0.2  ⚠ ultralight | l'U .L .M | das Ultraleichtf~ | el ultraligero | l'aereo biposto   fr
+ 0.3  ⚠ ? | ? | der Propeller | la hélice | l'elica   missing
+ 0.4  M light aircraft | l'avion léger | das Leichtflugze~ | la avioneta | l'aereo da dipor~   
+ 0.5  M seaplane | l'hydravion | das Wasserflugze~ | el hidroavión | l'idrovolante   
+ 0.6  M hot-air balloon | la montgolfière | der Heißluftball~ | el globo aerostá~ | la mongolfiera   
+ 0.7  M supersonic jet | l'avion superson~ | das Überschallfl~ | avión supersónico | l'aereo superson~   
+ 0.8  ⚠ pnvate jet | le jet privé | der Privatjet | el je t privado | l'aereo privato   es
+ 0.9  ⚠ rotor blade | la pale de rotor | das Rotorb! att | ? | ?   de missing
+ 0.10 ⚠ missile | le missile | die Rakete | el mi sil | ?   missing
+ 0.11 M fighter plane | le chasseur | das Jagdflugzeug | el caza | l'aereo da caccia   
+ 0.12 M bomber | le bombardier | das Bombenflugze~ | el avión de bomb~ | il bombardiere   
+ 0.13 M helicopter | l'hélicoptère | der Hubschrauber | el helicóptero | l'elicottero   
+ 0.14 M carry-on luggage | les bagages à ma~ | das Handgepäck | el equipaje de m~ | il bagaglio a ma~   
+ 0.15 M economy class | la classe économ~ | die Economydass | lada se turista | la classe econom~   
+ 0.16   land (v) | atterrir | landen | aterrizar | atterrare   
+ 0.17   take off (v) | décoller | starten | despegar | decollare   
+ 0.18 M pilot | le piloro | der Pilot | el piloto | il pilota   
+ 0.19 M seatbelt | la ceinture de s~ | der Sicherheitsg~ | el cm turón de s~ | la cintura di si~   
+ 0.20 M altitude | l'altitude | die Höhe | la altitud | la quota   
+ 0.21 M business class | la classe affair~ | die Businessdass | la clase prefere~ | la business class   
+ 0.22 ⚠ copilot | le copi lore | der Kopilot | el copiloto | il copilot3   it
+ 0.23 ⚠ fly V | voler | fliegen | volar | volare   en
+   LEFT 'i' @[384, 373] (riga singola isolata)
+====================================================================================================
+== p200 [trasporti] 22 voci, 9 flag, 1 mancanti, 1 leftover, header=■ R A N S P O R T A T IO N » LE TRANSPORT » DER VERKEHR * E~
+-- G0 subcat: airport • l'aéroport • der Flughafen • el aeropuerto • l'aeroporto
+   parts: airport • l'aéroport • der flughafen • el aeropuerto • l'aeroporto
+ 0.0  M apron | l'aire de statio~ | das Vorfeld | la pista de esta~ | l'area di stazio~   
+ 0.1  M baggage trailer | le porte-bagages | der Gepäckanhäng~ | el remolque del ~ | il carrello port~   
+ 0.2  M terminal | le terminal | der Terminal | la terminal | il terminale   
+ 0.3  M service vehicle | le véhicule de s~ | das Versorgungsf~ | el vehículo de s~ | il veicolo di se~   
+ 0.4  ⚠ I et way | la passerelle | die Fluggastbruc~ | la pasarela | il passaggio ped~   en
+ 0.5  M airliner | l'avion de ligne | das Verkehrsflug~ | el avión del inca | l'aereo di linea   
+ 0.6  ⚠ amway | la piste | die Start- und L~ | « | la pista la pista   es wrap wrap-ambig
+        ALTS: [{'en': 'am way', 'fr': 'la piste', 'de': 'die Start- und Landebahn', 'es': '« la pista', 'it': 'la pista'}, {'en': 'am way', 'fr': 'la piste', 'de': 'die Start- und Landebahn «', 'es': 'la pista', 'it': 'la pista'}]
+ 0.7  ⚠ flight number | le num ero de voi | die Flugnummer | c i num ero de v~ | il numero del vo~   es
+ 0.8  M baggage carousel | le tapis roulant | das Gepackband | la banda transpo~ | il nastro traspo~   
+ 0.9  M vacation | les vacances | der Urlaub | las vacaciones | la vacanza   
+ 0.10 M international fl~ | le voi internati~ | der Auslandsflug | el vuelo interna~ | il volo internaz~   
+ 0.11 M immigration | l'immigration | die Passkontrolle | migración | il controllo pas~   
+ 0.12 M security | la sécurité | die Sicherheitsv~ | la seguridad | la sicurezza   
+ 0.13 M make a flight re~ | faire une réserv~ | einen Flug buchen | reservar un vuelo | prenotare un volo   
+ 0.14 M domestic flight | le vol domestique | der Inlandsflug | el vuelo nacional | il volo nazionale   
+ 0.15 M customs | la douane | der Zoll | la aduana | la dogana   
+ 0.16 ⚠ ray machine | la machine de ra~ | die Gepäckröntge~ | la máquina de ra~ | l'apparecchio a ~   es fr it
+ 0.17 M check in (v) | enregistrer | einchecken | hacer check-in | fare il chcck-in   
+ 0.18 ⚠ connection | la correspondance | die Flugverbindu~ | ? | ?   missing
+ 0.19 M excess baggage | l'excédent de ba~ | das Übergepäck | el exceso de equ~ | il bagaglio in e~   
+ 0.20 M travel brochure | la brochure de v~ | der Urlaubsprosp~ | el folleto de vi~ | l'opuscolo vacan~   
+ 0.21 M control tower | la tour de contr~ | der Kontrollturm | la torre do cont~ | la torre di cont~   
+   LEFT 'i | la conexión | la coincidenza' @[62, 1020] (blocco 3 righe non risolvibile)
+====================================================================================================
+== p201 [trasporti] 19 voci, 14 flag, 0 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • L E TRANSPORT • DER VERKEHR • ~
+-- G0 subcat: (nessuna)
+ 0.0  M visa | le visa | das Visum | la visa | il visto   
+ 0.1  M carry-on luggage | les bagages à ma~ | das Handgepäck | equipaje de mano | il bagaglio a ma~   
+ 0.2  M passport | le passeport | der Pass | el pasaporte | il passaporto   
+ 0.3  M boarding pass | la carré d' emba~ | die Bordkarte | la tarjeta de em~ | la carta d'imbar~   
+ 0.4  M luggage | les bagages | das Gepäck | el equipaje | i bagaglio   
+ 0.5  ⚠ can | ie chario t | der Kotferkuli | el carrito | il carrello   fr
+ 0.6  M ticket | le biller | das Flugticket | el boleto | il biglietto   
+ 0.7  M passport control | le contrôle de p~ | die Passkontrolle | el control de pa~ | il controllo pas~   
+ 0.8  M check in desk | l'enregistrement~ | der Abfertigungs~ | el mostrador de ~ | il banco accetta~   
+ 0.9  M destination | la destination | das Reiseziel | el destino | la destinazione   
+ 0.10 M gate number | le nu me rode la~ | die Gatenummer | el nùm ero de pu~ | il numero dell'u~   
+ 0.11 M arrivals | les arrivées | die Ankunft | las llegadas | gli arrivi   
+ 0.12 M departures | les départs | der Abflug | las salidas | le partenze   
+ 0.13 M information scre~ | l'écran d' infor~ | die Fluginformat~ | la pantalla info~ | il pannello degl~   
+ 0.14 M departure lounge | la salle de dépa~ | die Abflughalle | la sala de embar~ | la sala delle pa~   
+ 0.15 M car rental | la location de v~ | der Autoverieih | la renta de carr~ | l'autonoleggio   
+ 0.16 M taxi stand | la station de ta~ | der Taxistand | el sitio de taxis | il posteggio dei~   
+ 0.17 ⚠ baggage claim | U- retrait des b~ | die Gepäckausgabe | la recogida de e~ | il ricupero baga~   fr
+ 0.18 M duty-free store | la boutique hors~ | der Duty-free Sh~ | el duty-free | il negozio duty ~   
+====================================================================================================
+== p202 [trasporti] 27 voci, 13 flag, 1 mancanti, 0 leftover, header=T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • E~
+-- G0 subcat: ship • le navire • das Schiff • el barco • la nave
+   parts: ship • le navire • das schiff • el barco • la nave
+ 0.0  M radar | le radar | der Radar | el radar | il radar   
+ 0.1  ⚠ funnel | la cheminée | der Schornstein | la chimenea | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.2  ⚠ quarterdeck | le pont arrière | das Achterdeck | el .de«izar | il casseremo   es
+ 0.3  M radio antenna | l'antenne radio | die Funkantenne | la antena de rad~ | l'antenna della ~   
+ 0.4  M deck | le pont | das Deck | la cubierta | il ponte   
+ 0.5  M prow | la proue | der Bug | la proa | la prua   
+ 0.6  M propeller | l'hélice | die Schiffsschra~ | la hélice | l'elica   
+ 0.7  ⚠ Plimsoll mar kI | la marque de flo~ | die Hochstladema~ | la línea de flot~ | la marca di bord~   en
+ 0.8  M porthole | le bublot | das Bullauge | el ojo de buey | l'oblò   
+ 0.9  M hull | la coque | der Rumpf | el casco | lo scafo   
+ 0.10 M lifeboat i | le canot de sauv~ | das Rettungsboot | el bote salvavid~ | la lancia di sal~   
+ 0.11 M keel i | la quille | der Kiel | la quilla | la chiglia   
+ 0.12 M ocean liner | le paquebot | der Ozeandampfer | el transatlántico | la nave da croci~   
+ 0.13 M dock | le dock | das Dock | el muelle | il bacino   
+ 0.14 M windlass | le guindeau | die Ankerwinde | el cabrestante | il mulinello   
+ 0.15 ⚠ captain | le capitaine | der Kapitän | c-1 capitán | il capitano   es
+ 0.16 ⚠ porr | le port | der Hafen | el puerto | I porto   it
+ 0.17 M bridge | la passerelle de~ | die Kommandobrüc~ | el puente | il ponte di coma~   
+ 0.18 ⚠ engine room | la salle des mot~ | der Maschinenraum | la sala de m áqu~ | la sala macchine   es
+ 0.19 M speedboat | le runabout | das Rennboot | la lancha de mot~ | il motoscafo   
+ 0.20 M gangway | la passerelle | die Landungsbrüc~ | la pasarela | la passerella   
+ 0.21 M anchor | l'ancre | der Anker | el ancla | l'ancora   
+ 0.22 M rowboat | la barque | das Ruderboot | la barca de remos | labo rea a remi   
+ 0.23 M bollard | le bollard | der Poller | el noray | la colonna d'orm~   
+ 0.24 M canoe | le canoë | das Kanu | la piragua | la canoa   
+ 0.25 M cabin | la cabine | die Kabine | el camarote | la cabina   
+ 0.26 M galley | la cuisine | die Kombüse | la cocina | la cucina di bor~   
+====================================================================================================
+== p203 [trasporti] 18 voci, 16 flag, 1 mancanti, 2 leftover, header=T R A N S P O R T A T IO N • l.l I R A N S P O R T • DER VE~
+-- G0 subcat: other ships • autres bateaux • andere Schiffe • otras embarcaciones • altre imb~
+   parts: other ships • autres bateaux • andere schiffe • otras embarcaciones • altre imbarcazioni
+ 0.0  M outboard motor | le hors-bord | der Außenbordmot~ | el motor fuera b~ | il motore fuorib~   
+ 0.1  ⚠ ' | ? | ? | ? | i   en missing slot-ambig
+        ALTS: [['fr', 'it'], ['de', 'it'], ['es', 'it']]
+ 0.2  ⚠ ” inflatable din~ | le dinghy pneuma~ | das Schlauchboot | la zodiac | il gommone   en
+ 0.3  ⚠ hydrofoil | Phydroptère | das Tragflügelbo~ | el hidrodeslizad~ | l'aliscafo   fr
+ 0.4  M ferryboat | le ferry | die Fähre | el ferry | il traghetto   
+ 0.5  M hovercraft | l'aéroglisseur | das Luftkissenbo~ | el acrodeslizador | l'hovcrcraft   
+ 0.6  M tugboat | le remorqueur | der Schleppdampf~ | el remolcador | il rimorchiatore   
+ 0.7  M catamaran | le catamaran | der Katamaran | el catam arán | il catamarano   
+ 0.8  M yacht | le yacht | die Jacht | el yate | lo yacht   
+ 0.9  M hold | la cale | der Frachtraum | la bodega | la stiva   
+ 0.10 M rigging | le gréement | die Takelung | las jarcias | il sartiamet   
+ 0.11 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['freighter', 'le cargo', 'das Frachtschiff', 'c l buque de carga', 'la nave da trasporto conning tower', 'le kiosque', 'der Kommandoturm', 'la falsa torre', 'la torretta di comando']
+ 0.12 M sailboat | le voilier | das Segelboot | el barco de vela | la barca a vela   
+ 0.13 M container ship | le navire porte-~ | das Containersch~ | el barco carguero | la nave porta co~   
+ 0.14 M submarine | le sous-marin | das U-Boot | el submarino | il sottomarino   
+ 0.15 M battleship | le navire de gue~ | das Kriegsschiff | el barco de guer~ | la nave da guerra   
+ 0.16 M aircraft carrier | le porte avions | der Flugzeugträg~ | el portaaviones | la portaerei   
+ 0.17 M oil tanker | le pétrolier | der Öltanker | el buque tanque | la petroliera   
+   LEFT 'V' @[638, 239] (riga singola isolata)
+   LEFT '"' @[537, 252] (riga singola isolata)
+====================================================================================================
+== p204 [trasporti] 17 voci, 7 flag, 2 mancanti, 2 leftover, header=T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • E~
+-- G0 subcat: port • le port • der Hafen • el puerto • ¡I porto
+   parts: port • le port • der hafen • el puerto • i porto
+ 0.0  ⚠ warehouse | l'entrepôt | das Warenlager | la bodega | I magazzino   it
+ 0.1  M crane | la grue | der Kran | la grúa | la gru   
+ 0.2  M forklift | le chariot éléva~ | der Gabelstapler | la carretilla el~ | il carrello elev~   
+ 0.3  M access road | la route d'accès | die Zufahrtsstra~ | la vía de acceso | la strada di acc~   
+ 0.4  M customs house | le bureau des do~ | das Zollamt | las aduanas del ~ | l'ufficio della ~   
+ 0.5  ⚠ ? | ? | ? | ? | I w »II» u l i! ~   it missing
+ 0.6  ⚠ ? | > | ? | ? | ?   fr missing
+ 0.7  M container | le conteneur | der Container | el contenedor | il container   
+ 0.8  M dock | le dock | das Dock | la dársena | il bacino   
+ 0.9  ⚠ 1 quay | le quai | der Kai | el muelle | la banchina   en
+ 0.10 M cargo | la cargaison | die Fracht | la carga | il carico   
+ 0.11 M ferry terminal | le term inal tie~ | der Fährterminal | la terminal del ~ | il terminale dei~   
+ 0.12 M ferryboat | le ferry | die Fähre | el ferry | il traghetto   
+ 0.13 M ticket office | le guichet | der Fahrkartensc~ | la ventanilla de~ | bialietterin   
+ 0.14 M passenger | le passager | der Passagier | el pasajero | il passeggero   
+ 0.15 ⚠ containerport | le port de conte~ | der Containerhaf~ | el m uelle com e~ | il porto per con~   es
+ 0.16 M passenger port | le port de passa~ | der Passagier ha~ | el muelle de pas~ | il porto per pas~   
+   LEFT "»Al»»' «Ul IJ" @[384, 485] (riga singola isolata)
+   LEFT "vìi* '-V:" @[88, 552] (riga singola isolata)
+====================================================================================================
+== p205 [trasporti] 20 voci, 14 flag, 1 mancanti, 1 leftover, header=T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • E~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M moonng | les amarres | die Verankerung | el punto de amar~ | l'ormeggio   
+ 0.1  M fishing boat | le bateau de pêc~ | das Fischerboot | el barco pesquero | la barca da pesca   
+ 0.2  M manna | la marina | die Marina | el puerto deport~ | il porto turisti~   
+-- G1 subcat: fsNng port • le port de pêche • der Fischereihafen • el puerto pesquero
+   parts: fsnng port • le port de pêche • der fischereihafen • el puerto pesquero
+ 1.0  ⚠ harbor | le port | der Hafen | el puerto | I porto   it
+ 1.1  ⚠ ? | ? | ? | ? | ?   missing
+ 1.2  M shipyard | le chantier naval | die Werft | el astillero | il cantiere nava~   
+ 1.3  M jetty | la jetée | der Landungssteg | el espigón | il molo   
+ 1.4  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['D', 'er', "l'em barcadère", 'der Pier', 'el em barcadero', 'il pontile']
+ 1.5  M lantern | le feu | die Laterne | la lámpara | la luce   
+ 1.6  M board (v) | embarquer | an Bord gehen | embarcar | imbarcare   
+ 1.7  M dry dock | la cale sèche | das Trockendock | el dique seco | il bacino di car~   
+ 1.8  M coast guard | le garde-côte | die Küstenwache | el guardacostas | il guardacoste   
+ 1.9  M disembark (v) | débarquer | von Bord gehen | desembarcar | sbarcare   
+ 1.10 ⚠ m oor (v) | mouiller | festmachen | amarrar | ormeggiare   en
+ 1.11 M harbormaster | le capitaine de ~ | der Hafenmeister | el capitán del p~ | il capitano di p~   
+ 1.12 M set sail (v) | prendre la mer | auslaufen | zarpar | salpare   
+ 1.13 ⚠ dock (v) | se m ettre «à qu~ | anlegen | atracar | entrare in bacino   fr
+ 1.14 ⚠ drop anchor (v) | jeter Tañere | den Anker werfen | anclar | mollare l'ancora   fr
+ 1.15 M buoy | la bouée | die Boje | la boya | labo a   
+ 1.16 M ghthouse | le phare | der Leuchtturm | el faro | il faro   
+   LEFT 'porto da pesca' @[63, 488] (riga singola isolata)
+====================================================================================================
+== p206 [trasporti] 1 voci, 1 flag, 1 mancanti, 14 leftover, header=-
+-- G0 subcat: sports les sports
+   parts: sports les sports
+-- G1 subcat: der Sport los deportes
+   parts: der sport los deportes
+-- G2 subcat: gli sport
+   parts: gli sport
+ 2.0  ⚠ v | foUB | ? | ? | ?   en missing slot-ambig
+        ALTS: [['en', 'de'], ['en', 'es'], ['en', 'it']]
+-- G3 subcat: 3
+   LEFT 'V' @[797, 690] (riga singola isolata)
+   LEFT 'lÉ&v' @[752, 696] (riga singola isolata)
+   LEFT 'M' @[807, 774] (riga singola isolata)
+   LEFT '- " *3' @[796, 781] (riga singola isolata)
+   LEFT '?' @[194, 797] (riga singola isolata)
+   LEFT 'Q' @[504, 824] (riga singola isolata)
+   LEFT 'V' @[531, 824] (riga singola isolata)
+   LEFT 'X' @[554, 824] (riga singola isolata)
+   LEFT 'u 1' @[574, 825] (riga singola isolata)
+   LEFT "'iít" @[784, 919] (riga singola isolata)
+   LEFT 'W' @[542, 970] (riga singola isolata)
+   LEFT '1' @[571, 970] (riga singola isolata)
+   LEFT '&' @[72, 989] (riga singola isolata)
+   LEFT 'm' @[106, 989] (riga singola isolata)

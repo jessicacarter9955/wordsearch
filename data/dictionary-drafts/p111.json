@@ -1,0 +1,394 @@
+{
+ "page": 111,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "F O O D • L A N O U R R I T U R E • DIE NAHRUNGSMITTEL • L O S A L IM E N T O S • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "cuts • les morceaux de viande • die Fleischsorten • los cortes • i tagli",
+   "parts": [
+    "cuts",
+    "les morceaux de viande",
+    "die fleischsorten",
+    "los cortés",
+    "i tagli"
+   ],
+   "entries": [
+    {
+     "en": "ham",
+     "fr": "le jambon",
+     "de": "der Schinken",
+     "es": "el jamón",
+     "it": "prosciutto",
+     "_pos": [
+      116,
+      113
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rump steak",
+     "fr": "le rumsteck",
+     "de": "das Rumpsteak",
+     "es": "el filete de cadera",
+     "it": "la bistecca di culaccio",
+     "_pos": [
+      674,
+      271
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fillet",
+     "fr": "le filet",
+     "de": "das Filet",
+     "es": "el solomillo",
+     "it": "il filetto",
+     "_pos": [
+      532,
+      272
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ground beef",
+     "fr": "la viande hachée",
+     "de": "das Hackfleisch",
+     "es": "la carne molida",
+     "it": "la carne macinata",
+     "_pos": [
+      362,
+      274
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rasher",
+     "fr": "la tranche de lard",
+     "de": "die Speckscheibe",
+     "es": "la rebanada",
+     "it": "la fettarind la couenne die Schwarte la corteza la cotenna",
+     "_pos": [
+      198,
+      275
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slice",
+     "fr": "la tranche",
+     "de": "die Scheibe",
+     "es": "la rebanada",
+     "it": "la fetta",
+     "_pos": [
+      34,
+      277
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kidney",
+     "fr": "le rognon",
+     "de": "die Niere",
+     "es": "el riñón",
+     "it": "il rognone",
+     "_pos": [
+      709,
+      345
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fat",
+     "fr": "le gras",
+     "de": "das Fett",
+     "es": "la grasa",
+     "it": "il grasso",
+     "_pos": [
+      368,
+      373
+     ],
+     "_flags": []
+    },
+    {
+     "de": "der Knochen",
+     "es": "el hueso",
+     "it": "l'osso",
+     "_pos": [
+      522,
+      420
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "heart",
+     "fr": "le cœ ur",
+     "de": "das Herz",
+     "es": "c! corazón",
+     "it": "il cuore",
+     "_pos": [
+      728,
+      484
+     ],
+     "_flags": [
+      "es:weird:c!"
+     ]
+    },
+    {
+     "en": "joint",
+     "fr": "le gigot",
+     "de": "die Keule",
+     "es": "el asado",
+     "it": "l'arrosto",
+     "_pos": [
+      582,
+      485
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chop",
+     "fr": "la côtelette",
+     "de": "das Kotelett",
+     "es": "la chuleta",
+     "it": "la costoletta",
+     "_pos": [
+      395,
+      487
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rib",
+     "fr": "la côte de bœuf",
+     "de": "das Rippenstück",
+     "es": "la costilla",
+     "it": "la costata",
+     "_pos": [
+      230,
+      489
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      37,
+      490
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "sirloin steak",
+      "le bifteck d'alovau",
+      "das Lendensteak",
+      "el filete de lomo",
+      "il filetto di manzo",
+      "r"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "poultry • la volaille • das Geflügel • las aves • il pollo",
+   "parts": [
+    "poultry",
+    "la volaille",
+    "das geflügel",
+    "las avés",
+    "il pollo"
+   ],
+   "entries": [
+    {
+     "en": "game",
+     "fr": "le gibier",
+     "de": "das Wild",
+     "es": "la carne de caza",
+     "it": "la cacciagione",
+     "_pos": [
+      369,
+      618
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breast",
+     "fr": "le blanc",
+     "de": "die Brust",
+     "es": "la pechuga",
+     "it": "il petto",
+     "_pos": [
+      191,
+      620
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skin",
+     "fr": "la peau",
+     "de": "die Haut",
+     "es": "la piel",
+     "it": "la pelle",
+     "_pos": [
+      33,
+      623
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leg",
+     "fr": "la cuisse",
+     "de": "das Bein",
+     "es": "la pierna",
+     "it": "la zampa",
+     "_pos": [
+      664,
+      663
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dressed chicken",
+     "fr": "le poulet prépare",
+     "de": "das bratfertige Huhn",
+     "es": "el pollo preparado",
+     "it": "il pollo preparato",
+     "_pos": [
+      358,
+      735
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thigh",
+     "fr": "la cuisse",
+     "de": "der Schenkel",
+     "es": "el muslo",
+     "it": "la coscia",
+     "_pos": [
+      239,
+      735
+     ],
+     "_flags": []
+    },
+    {
+     "en": "quail",
+     "fr": "la caille",
+     "de": "die Wachtel",
+     "es": "la codorniz",
+     "it": "la quaglia",
+     "_pos": [
+      680,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pheasant",
+     "fr": "le faisan",
+     "de": "der Fasan",
+     "es": "el faisán",
+     "it": "il fagiano",
+     "_pos": [
+      507,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wing",
+     "fr": "l'aile",
+     "de": "der Flügel",
+     "es": "el ala",
+     "_pos": [
+      226,
+      933
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "chicken",
+     "fr": "le poulet",
+     "de": "das Hähnchen",
+     "es": "el pollo",
+     "it": "il pollo",
+     "_pos": [
+      298,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "duck",
+     "fr": "le canard",
+     "de": "die Ente",
+     "es": "el pato",
+     "it": "l'anatra",
+     "_pos": [
+      507,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "turkey",
+     "fr": "la dinde",
+     "de": "die Pute",
+     "es": "el pavo",
+     "it": "il tacchino",
+     "_pos": [
+      44,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• el ganso • l'oca",
+   "parts": [
+    "el ganso",
+    "l'oca"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "Z",
+   "pos": [
+    197,
+    152
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "I 19",
+   "pos": [
+    846,
+    1095
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 9,
+  "flagged": 17,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 3
+ }
+}

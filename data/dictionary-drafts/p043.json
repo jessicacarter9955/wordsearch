@@ -1,0 +1,330 @@
+{
+ "page": 43,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H EA LTH • I A S A N T É • DIE GESUNDHEIT • LA SALUD • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "first aid • les premiers secours • die erste Hilfe • los primeros auxilios • il pronto soccorso",
+   "parts": [
+    "first aid",
+    "les premiers secours",
+    "die erste hilfe",
+    "los primeros auxilios",
+    "il pronto soccorso"
+   ],
+   "entries": [
+    {
+     "_pos": [
+      46,
+      138
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "ointment",
+      "In pommade",
+      "die Salbe",
+      "la pomada",
+      "la pomata adhesive bandage",
+      "le pansement",
+      "das Pflaster",
+      "la tirita",
+      "il cerotto"
+     ]
+    },
+    {
+     "en": "antiseptic wipe",
+     "fr": "la serviette antiseptique",
+     "de": "das Desinfektionstuch",
+     "es": "la toallita antiséptica",
+     "it": "la salvietta antisettica",
+     "_pos": [
+      720,
+      146
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tweezers",
+     "fr": "la pince fine",
+     "de": "die Pinzette",
+     "es": "las pinzas",
+     "it": "le pinzette",
+     "_pos": [
+      720,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "en": "safety pin",
+     "fr": "l épingle de sûreté",
+     "de": "die Sicherheitsnadel",
+     "es": "el seguro",
+     "it": "la spilla da balia",
+     "_pos": [
+      46,
+      264
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scissors",
+     "fr": "les ciseaux",
+     "de": "die Schere",
+     "es": "las tijeras",
+     "it": "le forbici",
+     "_pos": [
+      721,
+      359
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bandage",
+     "fr": "le bandage",
+     "de": "die Bandage",
+     "es": "la venda",
+     "it": "la benda",
+     "_pos": [
+      48,
+      362
+     ],
+     "_flags": []
+    },
+    {
+     "en": "antiseptie",
+     "fr": "l'antiseptique",
+     "de": "das Antiseptikum",
+     "es": "el desinfectante",
+     "it": "il disinfettante",
+     "_pos": [
+      722,
+      473
+     ],
+     "_flags": []
+    },
+    {
+     "en": "painkillers",
+     "fr": "ics analgésiques",
+     "de": "die Schmerztabletten",
+     "es": "los analgésicos",
+     "it": "gli antidolarifici",
+     "_pos": [
+      48,
+      476
+     ],
+     "_flags": []
+    },
+    {
+     "en": "first aid kit",
+     "fr": "la trousse de premiers secours",
+     "de": "der Erste-Hilfe-Kasten",
+     "es": "el botiquín",
+     "it": "la cassetta di pronto soccorso",
+     "_pos": [
+      188,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gauze",
+     "fr": "la gaze",
+     "de": "die Gaze",
+     "es": "la gasa",
+     "_pos": [
+      49,
+      603
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "adhesive tape",
+     "fr": "le sparadrap",
+     "de": "das Leukoplast",
+     "es": "la tela adhesiva",
+     "it": "il nastro adesivo",
+     "_pos": [
+      724,
+      767
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dressing",
+     "fr": "le pansement",
+     "de": "der Verband",
+     "es": "el vendaje",
+     "it": "la bendatura",
+     "_pos": [
+      51,
+      804
+     ],
+     "_flags": []
+    },
+    {
+     "en": "splint",
+     "fr": "l'attelle",
+     "de": "die Schiene",
+     "es": "la tablilla",
+     "it": "la stecca",
+     "_pos": [
+      262,
+      835
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can you help?",
+     "fr": "Est-ce que vous pouvez m'aider?",
+     "de": "Können Sie mir helfen?",
+     "es": "M e puede ayudar?",
+     "it": "Può aiutarmi?",
+     "_pos": [
+      611,
+      882
+     ],
+     "_flags": [
+      "en:weird:help?",
+      "en:case",
+      "fr:weird:m'aider?",
+      "fr:case",
+      "de:weird:helfen?",
+      "es:short:M",
+      "es:weird:ayudar?",
+      "es:case",
+      "it:weird:aiutarmi?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "pulse",
+     "fr": "le pouls",
+     "de": "der Puls",
+     "es": "el pulso",
+     "it": "le pulsazioni",
+     "_pos": [
+      406,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "choke (v)",
+     "fr": "étouffer",
+     "de": "ersticken",
+     "es": "ahogarse",
+     "it": "soffocare",
+     "_pos": [
+      516,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shock",
+     "fr": "le choc",
+     "de": "der Schock",
+     "es": "el shock",
+     "it": "lo shock",
+     "_pos": [
+      278,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Do you know first aid?",
+     "fr": "Pouvez-vous donner les soins d'urgence?",
+     "de": "Beherrschen Sie die Erste Hilfe?",
+     "es": "Sabe prim eros auxilios?",
+     "it": "Sa dare pronto soccorso?",
+     "_pos": [
+      612,
+      979
+     ],
+     "_flags": [
+      "en:weird:aid?",
+      "en:case",
+      "fr:weird:d'urgence?",
+      "fr:case",
+      "de:weird:Hilfe?",
+      "es:weird:auxilios?",
+      "es:case",
+      "it:weird:soccorso?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "breathing",
+     "fr": "la respiration",
+     "de": "die Atmung",
+     "es": "la respiración",
+     "it": "la respirazione",
+     "_pos": [
+      406,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stenle",
+     "fr": "stérile",
+     "de": "steril",
+     "es": "estéril",
+     "it": "sterile",
+     "_pos": [
+      518,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "unconscious",
+     "fr": "sans connaissance",
+     "de": "bewusstlos",
+     "es": "inconsciente",
+     "it": "privo di sensi",
+     "_pos": [
+      278,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "resuscitation",
+     "fr": "la réanimation",
+     "de": "die Wiederbelebung",
+     "es": "la re animación",
+     "it": "la rianimazione",
+     "_pos": [
+      53,
+      1033
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 11,
+  "flagged": 11,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

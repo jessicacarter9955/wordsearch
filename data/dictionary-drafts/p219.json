@@ -1,0 +1,191 @@
+{
+ "page": 219,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPORTS • I FS SPORTS • DER SPORT • T O S DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "golf • le golf • das Golf • el golf • ¡I golf",
+   "parts": [
+    "golf",
+    "le golf",
+    "das golf",
+    "el golf",
+    "i golf"
+   ],
+   "entries": [
+    {
+     "en": "bunker",
+     "fr": "le bunker",
+     "de": "der Bunker",
+     "es": "la trampa de",
+     "it": "I",
+     "_pos": [
+      554,
+      96
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "flag",
+     "fr": "le drapeau",
+     "de": "die Flagge",
+     "es": "la banderola",
+     "it": "la bandierina",
+     "_pos": [
+      800,
+      98
+     ],
+     "_flags": []
+    },
+    {
+     "en": "green",
+     "fr": "le green",
+     "de": "das Grün",
+     "es": "el green",
+     "it": "il green",
+     "_pos": [
+      398,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teeing ground",
+     "fr": "le départ",
+     "de": "der Abschlag",
+     "es": "la salida",
+     "it": "il teeing-ground",
+     "_pos": [
+      228,
+      145
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hole",
+     "fr": "le trou",
+     "de": "das Loch",
+     "es": "el hoyo",
+     "it": "la buca",
+     "_pos": [
+      118,
+      177
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swing (v)",
+     "fr": "exécuter un swing",
+     "de": "schwingen",
+     "es": "hacer un swing",
+     "it": "fare lo swing",
+     "_pos": [
+      77,
+      307
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water hazard",
+     "fr": "P obstacle d 'eau",
+     "de": "das Wasserhindernis",
+     "es": "el estanque",
+     "it": "lo stagno",
+     "_pos": [
+      736,
+      672
+     ],
+     "_flags": [
+      "fr:short:P",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "golf course",
+     "fr": "le parcours de golf",
+     "de": "der Golfplatz",
+     "es": "el campo de golf",
+     "it": "I campo di golf",
+     "_pos": [
+      565,
+      788
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "buggy",
+     "fr": "le buggy",
+     "de": "der Buggy",
+     "es": "el carrito",
+     "it": "il buggy",
+     "_pos": [
+      464,
+      851
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la position",
+     "de": "die Haltung",
+     "es": "la postura",
+     "it": "la posizione",
+     "_pos": [
+      374,
+      867
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "golfer",
+     "fr": "le joueur de golf",
+     "de": "der Golfspieler",
+     "es": "el golfista",
+     "it": "il golfista",
+     "_pos": [
+      54,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clubhouse",
+     "fr": "le pavillon",
+     "de": "das Klubhaus",
+     "es": "la casa d u b",
+     "it": "la sede del circolo",
+     "_pos": [
+      564,
+      1049
+     ],
+     "_flags": [
+      "es:short:u",
+      "es:short:b"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 12,
+  "complete_clean": 5,
+  "flagged": 7,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

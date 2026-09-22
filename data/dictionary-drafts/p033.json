@@ -1,0 +1,357 @@
+{
+ "page": 33,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E ♦ L' A P P A R E N C E • DIE ÄUSSERE ERSCHEINUNG • L A A P A R IE N C IA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "accessories • les accessoires • die Accessoires • los accesorios gli accessori",
+   "parts": [
+    "accessories",
+    "les accessoires",
+    "die accessoires",
+    "los accesorios gli accessori"
+   ],
+   "entries": [
+    {
+     "en": "buckle",
+     "fr": "la boucle",
+     "de": "die Gürtelschnalle",
+     "es": "la hebilla",
+     "it": "la fibbia",
+     "_pos": [
+      648,
+      145
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hand lei",
+     "fr": "le manche",
+     "de": "der Griff",
+     "es": "el mango",
+     "it": "il manico",
+     "_pos": [
+      778,
+      185
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cap",
+     "fr": "la casquette",
+     "de": "die Mütze",
+     "es": "la gorra",
+     "it": "il berretto",
+     "_pos": [
+      76,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scarf",
+     "fr": "le foulard",
+     "de": "das Halstuch",
+     "es": "la mascada",
+     "it": "il foulard",
+     "_pos": [
+      414,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "belt",
+     "fr": "la ceinture",
+     "de": "der Gürtel",
+     "es": "el a turón",
+     "it": "la cinta",
+     "_pos": [
+      584,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hat",
+     "fr": "le chapeau",
+     "de": "der Hut",
+     "es": "el sombrero",
+     "it": "il cappello",
+     "_pos": [
+      245,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tip",
+     "fr": "la pointe",
+     "de": "die Spitze",
+     "es": "la punta",
+     "it": "la punta",
+     "_pos": [
+      766,
+      332
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tiepin",
+     "fr": "l'épingle de cravate",
+     "de": "die Krawattennadel",
+     "es": "el alfiler de corbata",
+     "it": "il fermacravatta",
+     "_pos": [
+      415,
+      431
+     ],
+     "_flags": []
+    },
+    {
+     "en": "umbrella",
+     "fr": "le parapluie",
+     "de": "der Regenschirm",
+     "es": "el paraguas",
+     "it": "l'ombrello",
+     "_pos": [
+      754,
+      446
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gloves",
+     "fr": "les gants",
+     "de": "die Handschuhe",
+     "es": "los guantes",
+     "it": "i guanti",
+     "_pos": [
+      580,
+      447
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handkerchief",
+     "fr": "le mouchoir",
+     "de": "das Taschentuch",
+     "es": "el pañuelo",
+     "it": "il fazzoletto",
+     "_pos": [
+      76,
+      447
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bow tie",
+     "fr": "le nœud papillon",
+     "de": "die Fliege",
+     "es": "el moño",
+     "it": "la farfalla",
+     "_pos": [
+      246,
+      447
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jewelry",
+     "fr": "le bijoux",
+     "de": "der Schmuck",
+     "es": "las jo y as",
+     "it": "i gioielli",
+     "_pos": [
+      76,
+      537
+     ],
+     "_flags": []
+    },
+    {
+     "en": "strand of pearls",
+     "fr": "le rang de perles",
+     "de": "die Perlenkette",
+     "es": "el collar de perlas",
+     "it": "il filo di porle",
+     "_pos": [
+      776,
+      545
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brooch",
+     "fr": "la broche",
+     "de": "die Brosche",
+     "es": "el prendedor",
+     "it": "la spilla",
+     "_pos": [
+      252,
+      659
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cufflink",
+     "fr": "le bouton de manchette",
+     "de": "der Manschettenknopf",
+     "es": "las m ancuernillas",
+     "it": "il gemello",
+     "_pos": [
+      410,
+      659
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "pendant",
+     "fr": "le pendentif",
+     "de": "der Anhänger",
+     "es": "el colguije",
+     "it": "il pendaglio",
+     "_pos": [
+      76,
+      660
+     ],
+     "_flags": []
+    },
+    {
+     "en": "earring",
+     "fr": "la boucle d'oreille",
+     "de": "der Ohrring",
+     "es": "el arete",
+     "it": "l'orecchino",
+     "_pos": [
+      426,
+      725
+     ],
+     "_flags": []
+    },
+    {
+     "en": "link",
+     "fr": "le maillon",
+     "de": "das Glied",
+     "es": "el eslabón",
+     "it": "la manila",
+     "_pos": [
+      77,
+      741
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clasp",
+     "fr": "le fermoir",
+     "de": "der Verschluss",
+     "es": "el broche",
+     "it": "il fermaglio",
+     "_pos": [
+      189,
+      742
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ring",
+     "fr": "la bague",
+     "de": "der Ring",
+     "es": "el anillo",
+     "it": "l'anello",
+     "_pos": [
+      390,
+      807
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stone",
+     "fr": "la pierre",
+     "de": "der Edelstein",
+     "es": "la piedra",
+     "it": "la pietra",
+     "_pos": [
+      340,
+      906
+     ],
+     "_flags": []
+    },
+    {
+     "en": "necklace",
+     "fr": "le collier",
+     "de": "die Halskette",
+     "es": "el collar",
+     "it": "la collana",
+     "_pos": [
+      446,
+      906
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      472,
+      1004
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "watch",
+      "la m ontre",
+      "die Uhr",
+      "el reloj",
+      "l'orologio da polso jewelry box",
+      "la boite à bijoux",
+      "der Schmuckkasten",
+      "el joyero",
+      "il cofanetto portagioie"
+     ]
+    },
+    {
+     "en": "bracelet",
+     "fr": "le bracelet",
+     "de": "das Armband",
+     "es": "la pulsera",
+     "it": "il bracciale",
+     "_pos": [
+      78,
+      1036
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chain",
+     "fr": "la chaîne",
+     "de": "die Kette",
+     "es": "la cadena",
+     "it": "la catena",
+     "_pos": [
+      248,
+      1036
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 6,
+  "flagged": 20,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

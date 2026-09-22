@@ -1,0 +1,389 @@
+{
+ "page": 78,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "roller",
+     "fr": "le rouleau",
+     "de": "der Roller",
+     "es": "el rodillo",
+     "it": "il rullo",
+     "_pos": [
+      344,
+      102
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paint tray",
+     "fr": "le bac à peinture",
+     "de": "die Wanne",
+     "es": "la bandeja para la pintura",
+     "it": "la vaschetta per la vernice",
+     "_pos": [
+      441,
+      234
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paint",
+     "fr": "la peinture",
+     "de": "die Farbe",
+     "es": "la pintura",
+     "it": "la vernice",
+     "_pos": [
+      680,
+      250
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brush",
+     "fr": "la brosse",
+     "de": "die Streichburste",
+     "es": "la brocha",
+     "it": "il pennello",
+     "_pos": [
+      320,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sandpaper",
+     "fr": "le papier de verre",
+     "de": "das Schmirgelpapier",
+     "es": "el papel de lija",
+     "it": "la carta vetrata",
+     "_pos": [
+      744,
+      399
+     ],
+     "_flags": []
+    },
+    {
+     "en": "masking tape",
+     "fr": "le papier cache",
+     "de": "das Abdeckband",
+     "es": "el m asking tape",
+     "it": "il nastro adesivo coprente",
+     "_pos": [
+      595,
+      399
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "paint can",
+     "fr": "le pot de peinture",
+     "de": "der Farbtopí",
+     "es": "la lata de pintura",
+     "it": "il barattolo di vernice",
+     "_pos": [
+      320,
+      400
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sponge",
+     "fr": "l'éponge",
+     "de": "der Schwamm",
+     "es": "la esponja",
+     "it": "la spugna",
+     "_pos": [
+      462,
+      400
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coveralls",
+     "fr": "les bleus",
+     "de": "der Overall",
+     "es": "el overol",
+     "it": "la tuta",
+     "_pos": [
+      320,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "turpentine",
+     "fr": "la térébenthine",
+     "de": "das Terpentin",
+     "es": "la trementina",
+     "it": "la trementina",
+     "_pos": [
+      596,
+      548
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oilcloth",
+     "fr": "la couverture de protection",
+     "de": "das Abdecktuch",
+     "es": "el protector",
+     "it": "il telo di protezione",
+     "_pos": [
+      321,
+      615
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paint thinner",
+     "fr": "le white sp irit",
+     "de": "das Verdünnungsmittel",
+     "es": "el aguarrás",
+     "it": "l'acquaragia",
+     "_pos": [
+      684,
+      713
+     ],
+     "_flags": []
+    },
+    {
+     "en": "filler",
+     "fr": "le mastic",
+     "de": "die Spachtelmasse",
+     "es": "el mas tique",
+     "it": "lo stucco",
+     "_pos": [
+      463,
+      714
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paint (v)",
+     "fr": "peindre",
+     "de": "anstreichen",
+     "es": "pintar",
+     "it": "dipingere",
+     "_pos": [
+      36,
+      731
+     ],
+     "_flags": []
+    },
+    {
+     "en": "base coat",
+     "fr": "la couche de fond",
+     "de": "die Grundierung",
+     "es": "la primera mano",
+     "it": "la mano di fondo",
+     "_pos": [
+      543,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sealant",
+     "fr": "l'enduit",
+     "de": "das Versiegelungsmittel",
+     "es": "el sellador",
+     "it": "il sigillante",
+     "_pos": [
+      720,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "embossed paper",
+     "fr": "le papier gaufré",
+     "de": "das Reliefpapier",
+     "es": "el papel estampado en relieve",
+     "it": "la carta a rilievo",
+     "_pos": [
+      331,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plaster",
+     "fr": "le plâtre",
+     "de": "der Gips",
+     "es": "el yeso",
+     "it": "l'intonaco",
+     "_pos": [
+      50,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gloss",
+     "fr": "brillant",
+     "de": "Glanz",
+     "es": "con brillo",
+     "it": "lucido",
+     "_pos": [
+      222,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "solvent",
+     "fr": "le solvant",
+     "de": "das Lösungsmittel",
+     "es": "el solvente",
+     "it": "il solvente",
+     "_pos": [
+      720,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lining paper",
+     "fr": "le papier d'apprét",
+     "de": "das Einsatzpapier",
+     "es": "el papel de apresto",
+     "it": "la carta di fondo",
+     "_pos": [
+      332,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "top coat",
+     "fr": "la dernière couche",
+     "de": "der Deckanstrich",
+     "es": "la última mano",
+     "it": "la mano finale",
+     "_pos": [
+      544,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "varnish",
+     "fr": "le vernis",
+     "de": "der Lack",
+     "es": "el barniz",
+     "it": "la vernice trasparente",
+     "_pos": [
+      50,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "matte",
+     "fr": "mat",
+     "de": "matt",
+     "es": "mate",
+     "it": "opaeo",
+     "_pos": [
+      224,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grout",
+     "fr": "le mastic",
+     "de": "der Fugenkitt",
+     "es": "el cemento blanco",
+     "it": "la malta",
+     "_pos": [
+      720,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "primer",
+     "fr": "l'apprêt",
+     "de": "die Grundfarbe",
+     "es": "la base",
+     "it": "la vernice di base",
+     "_pos": [
+      333,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "preservative",
+     "fr": "l'agent de conservation",
+     "de": "der Schutzanstrich",
+     "es": "el conservante",
+     "it": "il conservante",
+     "_pos": [
+      544,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "latex paint",
+     "fr": "la peinture mate",
+     "de": "die Emulsionsfarbe",
+     "es": "la pintura al agua",
+     "it": "la pittura",
+     "_pos": [
+      52,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stencil",
+     "fr": "le pochoir",
+     "de": "die Schablone",
+     "es": "la plantilla",
+     "it": "lo stampino",
+     "_pos": [
+      224,
+      996
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "V",
+   "pos": [
+    522,
+    570
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 20,
+  "flagged": 9,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 0
+ }
+}

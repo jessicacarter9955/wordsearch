@@ -1,0 +1,284 @@
+{
+ "page": 182,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N ♦ L E T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "roads • les routes • die Straßen • las carreteras • le strade",
+   "parts": [
+    "roads",
+    "les routes",
+    "die straßen",
+    "las carreteras",
+    "le strade"
+   ],
+   "entries": [
+    {
+     "en": "highway",
+     "fr": "l autoroute",
+     "de": "die Autobahn",
+     "es": "la autopista",
+     "it": "l'autostrada",
+     "_pos": [
+      51,
+      125
+     ],
+     "_flags": []
+    },
+    {
+     "en": "inside lane",
+     "fr": "la file de droite",
+     "de": "die rechte Spur",
+     "es": "el carril de baja",
+     "it": "la corsia interna",
+     "_pos": [
+      755,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toll booth",
+     "fr": "le poste de péage",
+     "de": "die Mautstelle",
+     "es": "la caseta de cobro",
+     "it": "il casello",
+     "_pos": [
+      49,
+      242
+     ],
+     "_flags": []
+    },
+    {
+     "en": "middle lane",
+     "fr": "la voie centrale",
+     "de": "die mittlere Spur",
+     "es": "el carril central",
+     "it": "la corsia centrale",
+     "_pos": [
+      754,
+      248
+     ],
+     "_flags": []
+    },
+    {
+     "en": "road markings",
+     "fr": "les signalisations",
+     "de": "die Straßenmarkierungen",
+     "es": "las señales de piso",
+     "it": "la segnaletica orizzontale",
+     "_pos": [
+      48,
+      359
+     ],
+     "_flags": []
+    },
+    {
+     "en": "outside lane",
+     "fr": "la voie de",
+     "de": "dépassement die Überholspur",
+     "es": "el carril",
+     "it": "izquierdo la corsia esterna",
+     "_pos": [
+      754,
+      364
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "outside lane",
+       "fr": "la voie de",
+       "de": "dépassement die Überholspur",
+       "es": "el carril izquierdo",
+       "it": "la corsia esterna"
+      },
+      {
+       "en": "outside lane",
+       "fr": "la voie de dépassement",
+       "de": "die Überholspur",
+       "es": "el carril",
+       "it": "izquierdo la corsia esterna"
+      }
+     ]
+    },
+    {
+     "en": "entrance ramp",
+     "fr": "la bretelle d' accès",
+     "de": "die Zufahrtsstraße",
+     "es": "la entrada",
+     "it": "la rampa di accesso",
+     "_pos": [
+      48,
+      476
+     ],
+     "_flags": []
+    },
+    {
+     "de": "die Ausfahrts",
+     "es": "la rampa de salida",
+     "it": "la rampa di uscita",
+     "_pos": [
+      754,
+      549
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "one-way",
+     "fr": "à sens unique",
+     "de": "Einbahn",
+     "es": "de sentido único",
+     "it": "a senso unico",
+     "_pos": [
+      46,
+      593
+     ],
+     "_flags": []
+    },
+    {
+     "en": "traffic",
+     "fr": "la circulation",
+     "de": "der Verkehr",
+     "es": "el tránsito",
+     "it": "il traffico",
+     "_pos": [
+      752,
+      631
+     ],
+     "_flags": []
+    },
+    {
+     "en": "divider",
+     "fr": "Pilot directionnel",
+     "de": "die Verkehrsinsel",
+     "es": "la línea divisoria",
+     "it": "la linca divisoria",
+     "_pos": [
+      47,
+      709
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "overpass",
+     "fr": "l'autopont",
+     "de": "die Überführung",
+     "es": "el puente",
+     "it": "il cavalcavia",
+     "_pos": [
+      752,
+      749
+     ],
+     "_flags": []
+    },
+    {
+     "en": "junction",
+     "fr": "le carrefour",
+     "de": "die Kreuzung",
+     "es": "el crucero",
+     "it": "lo svincolo",
+     "_pos": [
+      45,
+      809
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hard shoulder",
+     "fr": "l'accotement stabilise",
+     "de": "der Seitenstreifen",
+     "es": "el acotamiento",
+     "it": "la corsi ad'emergenza",
+     "_pos": [
+      737,
+      865
+     ],
+     "_flags": []
+    },
+    {
+     "en": "traffic light",
+     "fr": "les feux",
+     "de": "die Verkehrsampel",
+     "es": "el semáforo",
+     "it": "il semaforo",
+     "_pos": [
+      45,
+      956
+     ],
+     "_flags": []
+    },
+    {
+     "en": "underpass",
+     "fr": "le passage inférieur",
+     "de": "die Unterführung",
+     "es": "el paso a desnivel",
+     "it": "il sottopassaggio",
+     "_pos": [
+      750,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "median strip",
+     "fr": "le terre-plein",
+     "de": "der Mittelstreifen",
+     "es": "el muro de división",
+     "it": "la banchina spartitraffico",
+     "_pos": [
+      526,
+      1014
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le camion",
+     "de": "der Lastwagen",
+     "es": "el camión",
+     "it": "il camion",
+     "_pos": [
+      414,
+      1030
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "de sortie",
+   "pos": [
+    822,
+    532
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 10,
+  "flagged": 8,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

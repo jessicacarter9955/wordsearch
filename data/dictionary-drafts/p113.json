@@ -1,0 +1,430 @@
+{
+ "page": 113,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • I.A NOURRITURE • DIE NAHRUNGSMITTEL • 1.0$ ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "I seafood • les fruits de mer • die Meeresfrüchte • el marisco • i frutti di mare",
+   "parts": [
+    "i seafood",
+    "les fruits de mer",
+    "die meeresfrüchte",
+    "el marisco",
+    "i frutti di mare"
+   ],
+   "entries": [
+    {
+     "en": "lobster",
+     "fr": "le homard",
+     "de": "der Hummer",
+     "es": "la langosta",
+     "it": "l'aragosta",
+     "_pos": [
+      708,
+      126
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scafiop",
+     "fr": "j coquille Saint-Jacques",
+     "de": "aie Jakobsmuschel",
+     "es": "vieira",
+     "it": "i Dettine",
+     "_pos": [
+      28,
+      132
+     ],
+     "_flags": [
+      "fr:short:j",
+      "it:case"
+     ]
+    },
+    {
+     "en": "prawn",
+     "fr": "la crevette",
+     "de": "die Garnele",
+     "es": "el camarón",
+     "it": "il jambero",
+     "_pos": [
+      784,
+      257
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crab",
+     "fr": "ie crabe",
+     "de": "e Krabbe",
+     "es": "cangrejo",
+     "_pos": [
+      28,
+      263
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "mussel",
+     "fr": "la moule",
+     "de": "die Miesmuschel",
+     "es": "el mejillón",
+     "it": "la cozza",
+     "_pos": [
+      766,
+      422
+     ],
+     "_flags": []
+    },
+    {
+     "en": "razor shell",
+     "fr": "le couteau",
+     "de": "die Scheidenmuschel",
+     "es": "la navaja",
+     "it": "il cannulicehio",
+     "_pos": [
+      714,
+      586
+     ],
+     "_flags": []
+    },
+    {
+     "en": "n y fish",
+     "fr": "l'écrev isso",
+     "de": "der Krebs",
+     "es": "el cangrejo de río",
+     "it": "il ;ambero d'acqua dolce",
+     "_pos": [
+      33,
+      591
+     ],
+     "_flags": [
+      "en:short:n",
+      "it:weird:;ambero"
+     ]
+    },
+    {
+     "fr": "l'huître",
+     "de": "die Auster",
+     "es": "la ostra",
+     "it": "l'ostrica",
+     "_pos": [
+      475,
+      637
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "clam",
+     "fr": "le J a m",
+     "de": "die Venusmuschel",
+     "es": "la almeja",
+     "it": "la vongola",
+     "_pos": [
+      716,
+      800
+     ],
+     "_flags": [
+      "fr:short:J",
+      "fr:short:m",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "cuttlefish",
+     "fr": "la seiche",
+     "de": "die Sepie",
+     "es": "la sepia",
+     "it": "la seppia",
+     "_pos": [
+      374,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "squid",
+     "fr": "le calamar",
+     "de": "der Tintenfisch",
+     "es": "el calamar",
+     "it": "il calamaro",
+     "_pos": [
+      546,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "octopus",
+     "fr": "la pieuvre",
+     "de": "der Seepolyp",
+     "es": "el pulpo",
+     "it": "I polpo",
+     "_pos": [
+      206,
+      803
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "cockle",
+     "fr": "la coque",
+     "de": "die Herzmuschel",
+     "es": "el berberecho",
+     "it": "il cardio",
+     "_pos": [
+      34,
+      805
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scale",
+     "fr": "l'oca ille",
+     "de": "die Schuppe",
+     "es": "la escama",
+     "it": "la squama",
+     "_pos": [
+      776,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bone",
+     "fr": "l'arête",
+     "de": "die Grate",
+     "es": "la espma",
+     "it": "la spina",
+     "_pos": [
+      695,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "steak",
+     "fr": "la tranche",
+     "de": "die Schnitte",
+     "es": "la rodaja",
+     "it": "la trancia",
+     "_pos": [
+      506,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tall",
+     "fr": "la queue",
+     "de": "der Schwanz",
+     "es": "la cola",
+     "it": "la coda",
+     "_pos": [
+      604,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "filleted",
+     "fr": "cn filets",
+     "de": "filetiert",
+     "es": "cn filetes",
+     "it": "a filetti",
+     "_pos": [
+      423,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "descaled",
+     "fr": "écaille",
+     "de": "entschuppt",
+     "es": "sin escamas",
+     "it": "desquamato",
+     "_pos": [
+      319,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "smoked",
+     "fr": "fumé",
+     "de": "geräuchert",
+     "es": "ahumado",
+     "it": "affumicato",
+     "_pos": [
+      230,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cleaned",
+     "fr": "préparé",
+     "de": "zubereitet",
+     "es": "limpio",
+     "it": "pulito",
+     "_pos": [
+      145,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frozen",
+     "fr": "surgelé",
+     "de": "tiefgefroren",
+     "es": "congelado",
+     "it": "congelato",
+     "_pos": [
+      48,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can you clean it for me?",
+     "fr": "Pouvez-vous le préparer pour moi?",
+     "de": "Können Sie ihn mir fertig zubereiten?",
+     "es": "M e lo puede lim piar!'",
+     "it": "Me lo pulisce?",
+     "_pos": [
+      605,
+      980
+     ],
+     "_flags": [
+      "en:weird:me?",
+      "en:case",
+      "fr:weird:moi?",
+      "fr:case",
+      "de:weird:zubereiten?",
+      "es:short:M",
+      "es:weird:piar!'",
+      "es:case",
+      "it:weird:pulisce?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "loin",
+     "fr": "la longe",
+     "de": "die Lende",
+     "es": "el lomo",
+     "it": "il lombo",
+     "_pos": [
+      506,
+      981
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fillet",
+     "fr": "lc filer",
+     "de": "das filet",
+     "es": "el filete",
+     "it": "il filetto",
+     "_pos": [
+      424,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boned",
+     "fr": "sans arêtes",
+     "de": "entgrätet",
+     "es": "sin espinas",
+     "it": "spinato",
+     "_pos": [
+      320,
+      983
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skinned",
+     "fr": "sans peau",
+     "de": "enthäutet",
+     "es": "sm piel",
+     "it": "spellato",
+     "_pos": [
+      231,
+      983
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salted",
+     "fr": "salé",
+     "de": "gesalzen",
+     "es": "salado",
+     "it": "salato",
+     "_pos": [
+      146,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fresh",
+     "fr": "frais",
+     "de": "frisch",
+     "es": "fresco",
+     "it": "fresco",
+     "_pos": [
+      48,
+      985
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 16,
+  "flagged": 13,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

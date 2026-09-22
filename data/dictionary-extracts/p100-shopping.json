@@ -1,0 +1,461 @@
+{
+ "page": 100,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "breakfast cereals",
+     "fr": "céréales",
+     "de": "Getreideflocken",
+     "es": "cereales",
+     "it": "cereali da colazione",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 8,
+      "de": 15,
+      "es": 8,
+      "it": 18
+     }
+    },
+    {
+     "en": "canned goods",
+     "fr": "conserves",
+     "de": "Konserven",
+     "es": "conservas",
+     "it": "scatolame",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "candies",
+     "fr": "confisene",
+     "de": "Süßwaren",
+     "es": "dulcería",
+     "it": "dolci",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "bakery",
+     "fr": "boulangerie",
+     "de": "Backwaren « la panadería",
+     "it": "pane",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 20,
+      "it": 4
+     }
+    },
+    {
+     "en": "dairy",
+     "fr": "crémerie",
+     "de": "Milchprodukte",
+     "es": "lácteos",
+     "it": "latticini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 13,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "fish",
+     "fr": "poisson",
+     "de": "Fisch",
+     "es": "pescado",
+     "it": "pesce",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "fruits",
+     "fr": "fruits",
+     "de": "Obst",
+     "es": "fruta",
+     "it": "frutta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "meat and poultry",
+     "fr": "viande et la volaille",
+     "de": "Fleisch und das Geflügel",
+     "es": "carne y las avés",
+     "it": "carne e il pollame",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 21,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "deli",
+     "fr": "charcuterie",
+     "de": "Feinkost",
+     "es": "charcutería",
+     "it": "salumi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 11,
+      "de": 8,
+      "es": 11,
+      "it": 6
+     }
+    },
+    {
+     "en": "vegetables",
+     "fr": "légumes",
+     "de": "Gemüse",
+     "es": "I a verdura",
+     "it": "verdure",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 6,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "household products",
+     "fr": "produits d'entretien",
+     "de": "Haushaltswaren",
+     "es": "productos de limpieza",
+     "it": "casalinghi",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 18,
+      "de": 14,
+      "es": 19,
+      "it": 10
+     }
+    },
+    {
+     "en": "toiletnes",
+     "fr": "articles de toilette",
+     "de": "Toilettenartikel",
+     "es": "artículos de aseo",
+     "it": "prodotti per il bagno",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 18,
+      "de": 16,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "drinks",
+     "fr": "boissons",
+     "de": "Getränke",
+     "es": "bebidas",
+     "it": "bibite",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "prepared food",
+     "fr": "plats cuisinés",
+     "de": "Fertiggerichte",
+     "es": "platos preparados",
+     "it": "cibi cotti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 14,
+      "es": 16,
+      "it": 9
+     }
+    },
+    {
+     "en": "frozen food",
+     "fr": "produits surgelés",
+     "de": "Gefrierware",
+     "es": "congelados",
+     "it": "surgelati",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 11,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "pet food",
+     "fr": "nourriture pour animaux",
+     "de": "Tierfutter",
+     "es": "comida para animales",
+     "it": "cibo per animali",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 21,
+      "de": 10,
+      "es": 18,
+      "it": 14
+     }
+    },
+    {
+     "en": "electncal goods",
+     "fr": "électroménager",
+     "de": "Elektroartikel",
+     "es": "electrodom ésticos",
+     "it": "elettrodomestici",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 14,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "baby products",
+     "fr": "articles pour bébés",
+     "de": "Babyprodukte",
+     "es": "artículos para el bebé",
+     "it": "prodotti per bambini",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 17,
+      "de": 12,
+      "es": 19,
+      "it": 18
+     }
+    },
+    {
+     "en": "magazines",
+     "fr": "magazines",
+     "de": "Zeitschriften",
+     "es": "revistas",
+     "it": "riviste",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 13,
+      "es": 8,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

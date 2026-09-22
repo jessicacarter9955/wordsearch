@@ -1,0 +1,232 @@
+{
+ "page": 14,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • LES GENS / • DIE MENSCHEN • LA GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "muscles • les muscles",
+   "parts": [
+    "muscles",
+    "les muscles"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "die Muskeln • los músculos",
+   "parts": [
+    "die muskeln",
+    "los músculos"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "i muscoli",
+   "parts": [
+    "i muscoli"
+   ],
+   "entries": [
+    {
+     "en": "frontal",
+     "fr": "le frontal",
+     "de": "der Stirnmuskel",
+     "es": "el frontal",
+     "it": "I frontale",
+     "_pos": [
+      102,
+      147
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "pectoral",
+     "fr": "le pectoral",
+     "de": "der Brustmuskel",
+     "es": "el pectoral",
+     "it": "il pettorale",
+     "_pos": [
+      346,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deltoid",
+     "fr": "le deltoide",
+     "de": "der Deltamuskel",
+     "es": "el dcltoideo",
+     "it": "il deltoide",
+     "_pos": [
+      460,
+      150
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trapezius",
+     "fr": "le trapèze",
+     "de": "der Kapuzenmuskel",
+     "es": "el trapecio",
+     "it": "il trapezio",
+     "_pos": [
+      678,
+      151
+     ],
+     "_flags": []
+    },
+    {
+     "en": "intercostal",
+     "fr": "l'intercostal",
+     "de": "der Zwischenrippenmuskel",
+     "es": "el intercostal",
+     "it": "l'intercostale",
+     "_pos": [
+      44,
+      245
+     ],
+     "_flags": []
+    },
+    {
+     "en": "latissimus dorsi",
+     "fr": "le dorsal",
+     "de": "der Ruckenmuskel",
+     "es": "el dorsal",
+     "it": "il dorsale",
+     "_pos": [
+      766,
+      250
+     ],
+     "_flags": []
+    },
+    {
+     "en": "biceps",
+     "fr": "le biceps",
+     "de": "der Bizeps",
+     "es": "el bíceps",
+     "it": "il bicipite",
+     "_pos": [
+      43,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "triceps",
+     "fr": "le triceps",
+     "de": "der Trizeps",
+     "es": "d tríceps",
+     "it": "il tricipite",
+     "_pos": [
+      775,
+      373
+     ],
+     "_flags": []
+    },
+    {
+     "en": "abdominals",
+     "fr": "les abdominaux",
+     "de": "die Bauchmuskeln",
+     "es": "abdominal",
+     "it": "gli addominali",
+     "_pos": [
+      42,
+      670
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hamstring",
+     "fr": "le tendon du jarret",
+     "de": "der Kniesehnenstrang",
+     "es": "el tendón de la corva",
+     "it": "il tendine",
+     "_pos": [
+      413,
+      705
+     ],
+     "_flags": []
+    },
+    {
+     "en": "buttock",
+     "fr": "le fessier",
+     "de": "der Gesäßmuskel",
+     "es": "el glúteo",
+     "it": "la natica",
+     "_pos": [
+      765,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "quadriceps",
+     "fr": "les quadriceps",
+     "de": "die Oberschenkelmuskeln",
+     "es": "el cuadríceps",
+     "it": "il quadncipite",
+     "_pos": [
+      66,
+      818
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Achilles tendon",
+     "fr": "le tendon d'A chille",
+     "de": "die Achillessehne",
+     "es": "tendón de Aquiles",
+     "it": "il tendine di achilie",
+     "_pos": [
+      428,
+      869
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "calf",
+     "fr": "les muscles",
+     "de": "jum eaux der Wadenmuskel",
+     "es": "los gemelos",
+     "it": "il polpaccio",
+     "_pos": [
+      768,
+      921
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "calf",
+       "fr": "les m uscles jum eaux",
+       "de": "der Wadenmuskel",
+       "es": "los gemelos",
+       "it": "il polpaccio"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 14,
+  "complete_clean": 9,
+  "flagged": 5,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

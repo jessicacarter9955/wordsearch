@@ -1,0 +1,287 @@
+{
+ "page": 244,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE T E M P S UBRE • DIE FREIZEIT • EL O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "concert • le concert • das Konzert • el concierto • il concerto",
+   "parts": [
+    "concert",
+    "le concert",
+    "das konzert",
+    "el concierto",
+    "il concerto"
+   ],
+   "entries": [
+    {
+     "en": "lead singer",
+     "fr": "le chanteur",
+     "de": "der Leadsänger",
+     "es": "el vocalista",
+     "it": "il cantante",
+     "_pos": [
+      108,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "microphone",
+     "fr": "le microphone",
+     "de": "das Mikrophon",
+     "es": "el micrófono",
+     "it": "il microfono",
+     "_pos": [
+      206,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drummer",
+     "fr": "le barreur",
+     "de": "der Schlagzeuger",
+     "es": "el batterista",
+     "it": "il batterista",
+     "_pos": [
+      350,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guitarist",
+     "fr": "le guitariste",
+     "de": "der Gitarrist",
+     "es": "el guitarrista",
+     "it": "chitarrista",
+     "_pos": [
+      484,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "speaker",
+     "fr": "le haut-parleur",
+     "de": "der Lautsprecher",
+     "es": "la bocina",
+     "it": "l'altoparlante",
+     "_pos": [
+      674,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fans",
+     "fr": "les fans",
+     "de": "die Fans",
+     "es": "los fans",
+     "it": "i fans",
+     "_pos": [
+      606,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bass guitarist",
+     "fr": "le bassiste",
+     "de": "der Bassgitarrist",
+     "es": "el balista",
+     "it": "il bassista",
+     "_pos": [
+      788,
+      136
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lock concert",
+     "fr": "le concert de rock",
+     "de": "das Rockkonzert",
+     "es": "el concierto de rock",
+     "it": "il concerto rock",
+     "_pos": [
+      57,
+      590
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "instruments • les instruments • die Instrumente • los instrumentos • gli strumenti",
+   "parts": [
+    "instruments",
+    "les instruments",
+    "die instrumente",
+    "los instrumentos",
+    "gli strumenti"
+   ],
+   "entries": [
+    {
+     "en": "pickup",
+     "fr": "le pick-up",
+     "de": "der Tonabnehmer",
+     "es": "la pastilla",
+     "it": "il riproduttore acustico",
+     "_pos": [
+      120,
+      671
+     ],
+     "_flags": []
+    },
+    {
+     "en": "neck",
+     "fr": "le manche",
+     "de": "der Hals",
+     "es": "el mástil",
+     "it": "il manico",
+     "_pos": [
+      314,
+      672
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tuning peg",
+     "fr": "la cheville",
+     "de": "der Wirbel",
+     "es": "la clavija",
+     "it": "il piroio",
+     "_pos": [
+      632,
+      675
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fret",
+     "fr": "le sillet",
+     "de": "der Bund",
+     "es": "el traste",
+     "it": "il tasto",
+     "_pos": [
+      523,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "string",
+     "fr": "la corde",
+     "de": "die Saite",
+     "es": "la cuerda",
+     "_pos": [
+      814,
+      741
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "bridge",
+     "fr": "le chevalet",
+     "de": "der Steg",
+     "es": "el puente",
+     "it": "il ponte",
+     "_pos": [
+      432,
+      756
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drum",
+     "fr": "le tambour la corda",
+     "de": "die Trommel",
+     "es": "el tambor",
+     "_pos": [
+      732,
+      791
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "bass guitar",
+     "fr": "la hasse",
+     "de": "die Bassgitarre",
+     "es": "el bajo",
+     "it": "il basso",
+     "_pos": [
+      56,
+      869
+     ],
+     "_flags": []
+    },
+    {
+     "en": "keyboard",
+     "fr": "le piano électronique",
+     "de": "das Keyboard",
+     "es": "el teclado",
+     "it": "la tastiera",
+     "_pos": [
+      56,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electric guitar",
+     "fr": "la giurare électrique",
+     "de": "die elektrische Gitarre",
+     "es": "la guitarra eléctrica",
+     "it": "la chitarra elettrica",
+     "_pos": [
+      395,
+      1036
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drum kit",
+     "fr": "la batterie",
+     "de": "das Schlagzeug",
+     "es": "la batería",
+     "it": "la batteria",
+     "_pos": [
+      656,
+      1037
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 10,
+  "flagged": 9,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

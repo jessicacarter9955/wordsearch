@@ -1,0 +1,338 @@
+{
+ "page": 200,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "■ R A N S P O R T A T IO N » LE TRANSPORT » DER VERKEHR * EL TRANSPORTE « I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "airport • l'aéroport • der Flughafen • el aeropuerto • l'aeroporto",
+   "parts": [
+    "airport",
+    "l'aéroport",
+    "der flughafen",
+    "el aeropuerto",
+    "l'aeroporto"
+   ],
+   "entries": [
+    {
+     "en": "apron",
+     "fr": "l'aire de stationnement",
+     "de": "das Vorfeld",
+     "es": "la pista de estacionamiento",
+     "it": "l'area di stazionamento",
+     "_pos": [
+      642,
+      148
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baggage trailer",
+     "fr": "le porte-bagages",
+     "de": "der Gepäckanhänger",
+     "es": "el remolque del equipaje",
+     "it": "il carrello portabagagli",
+     "_pos": [
+      641,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "terminal",
+     "fr": "le terminal",
+     "de": "der Terminal",
+     "es": "la terminal",
+     "it": "il terminale",
+     "_pos": [
+      640,
+      362
+     ],
+     "_flags": []
+    },
+    {
+     "en": "service vehicle",
+     "fr": "le véhicule de service",
+     "de": "das Versorgungsfahrzeug",
+     "es": "el vehículo de servicio",
+     "it": "il veicolo di servizio",
+     "_pos": [
+      639,
+      461
+     ],
+     "_flags": []
+    },
+    {
+     "en": "I et way",
+     "fr": "la passerelle",
+     "de": "die Fluggastbrucke",
+     "es": "la pasarela",
+     "it": "il passaggio pedonale",
+     "_pos": [
+      638,
+      559
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "airliner",
+     "fr": "l'avion de ligne",
+     "de": "das Verkehrsflugzeug",
+     "es": "el avión del inca",
+     "it": "l'aereo di linea",
+     "_pos": [
+      50,
+      638
+     ],
+     "_flags": []
+    },
+    {
+     "en": "amway",
+     "fr": "la piste",
+     "de": "die Start- und Landebahn",
+     "es": "«",
+     "it": "la pista la pista",
+     "_pos": [
+      64,
+      684
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "es:weird:«"
+     ],
+     "_alts": [
+      {
+       "en": "am way",
+       "fr": "la piste",
+       "de": "die Start- und Landebahn",
+       "es": "« la pista",
+       "it": "la pista"
+      },
+      {
+       "en": "am way",
+       "fr": "la piste",
+       "de": "die Start- und Landebahn «",
+       "es": "la pista",
+       "it": "la pista"
+      }
+     ]
+    },
+    {
+     "en": "flight number",
+     "fr": "le num ero de voi",
+     "de": "die Flugnummer",
+     "es": "c i num ero de vuelo",
+     "it": "il numero del volo",
+     "_pos": [
+      276,
+      687
+     ],
+     "_flags": [
+      "es:short:c"
+     ]
+    },
+    {
+     "en": "baggage carousel",
+     "fr": "le tapis roulant",
+     "de": "das Gepackband",
+     "es": "la banda transportadora",
+     "it": "il nastro trasportatore",
+     "_pos": [
+      475,
+      690
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vacation",
+     "fr": "les vacances",
+     "de": "der Urlaub",
+     "es": "las vacaciones",
+     "it": "la vacanza",
+     "_pos": [
+      688,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "international flight",
+     "fr": "le voi international",
+     "de": "der Auslandsflug",
+     "es": "el vuelo internacional",
+     "it": "il volo internazionale",
+     "_pos": [
+      63,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "immigration",
+     "fr": "l'immigration",
+     "de": "die Passkontrolle",
+     "es": "migración",
+     "it": "il controllo passaporti",
+     "_pos": [
+      274,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "security",
+     "fr": "la sécurité",
+     "de": "die Sicherheitsvorkehrungen",
+     "es": "la seguridad",
+     "it": "la sicurezza",
+     "_pos": [
+      474,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "make a flight reservation (v)",
+     "fr": "faire une réservation de vol",
+     "de": "einen Flug buchen",
+     "es": "reservar un vuelo",
+     "it": "prenotare un volo",
+     "_pos": [
+      688,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "domestic flight",
+     "fr": "le vol domestique",
+     "de": "der Inlandsflug",
+     "es": "el vuelo nacional",
+     "it": "il volo nazionale",
+     "_pos": [
+      62,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customs",
+     "fr": "la douane",
+     "de": "der Zoll",
+     "es": "la aduana",
+     "it": "la dogana",
+     "_pos": [
+      274,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ray machine",
+     "fr": "la machine de rayons x",
+     "de": "die Gepäckröntgenmaschine",
+     "es": "la máquina de rayos x",
+     "it": "l'apparecchio a raggi x",
+     "_pos": [
+      474,
+      888
+     ],
+     "_flags": [
+      "fr:short:x",
+      "es:short:x",
+      "it:short:x"
+     ]
+    },
+    {
+     "en": "check in (v)",
+     "fr": "enregistrer",
+     "de": "einchecken",
+     "es": "hacer check-in",
+     "it": "fare il chcck-in",
+     "_pos": [
+      686,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "connection",
+     "fr": "la correspondance",
+     "de": "die Flugverbindung",
+     "_pos": [
+      62,
+      980
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "excess baggage",
+     "fr": "l'excédent de bagages",
+     "de": "das Übergepäck",
+     "es": "el exceso de equipaje",
+     "it": "il bagaglio in eccedenza",
+     "_pos": [
+      273,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "travel brochure",
+     "fr": "la brochure de vacances",
+     "de": "der Urlaubsprospekt",
+     "es": "el folleto de viajes",
+     "it": "l'opuscolo vacanze",
+     "_pos": [
+      473,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "control tower",
+     "fr": "la tour de contrôle",
+     "de": "der Kontrollturm",
+     "es": "la torre do control",
+     "it": "la torre di controllo",
+     "_pos": [
+      686,
+      987
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "i | la conexión | la coincidenza",
+   "pos": [
+    62,
+    1020
+   ],
+   "why": "blocco 3 righe non risolvibile"
+  }
+ ],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 13,
+  "flagged": 9,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

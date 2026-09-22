@@ -1,0 +1,415 @@
+{
+ "page": 265,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "ambiente",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "header_raw": "E N V IR O N M E N T • T.' ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE",
+ "groups": [
+  {
+   "names_raw": "space • l'espace • der Weltraum • el espado • lo spazio",
+   "parts": [
+    "space",
+    "l'espace",
+    "der weltraum",
+    "el espado",
+    "lo spazio"
+   ],
+   "entries": [
+    {
+     "en": "Mercury",
+     "fr": "la Mercure",
+     "de": "der Merkur",
+     "es": "Mercurio",
+     "it": "Mercurio",
+     "_pos": [
+      102,
+      132
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Earth",
+     "fr": "la Terre",
+     "de": "die Erde",
+     "es": "Tierra",
+     "it": "la Terra",
+     "_pos": [
+      198,
+      132
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Pluto",
+     "fr": "la Pintón",
+     "de": "der Pluto",
+     "es": "Plutón",
+     "it": "Plutone",
+     "_pos": [
+      802,
+      132
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Mars",
+     "fr": "la Mars",
+     "de": "der Mars",
+     "es": "Marte",
+     "it": "Marte",
+     "_pos": [
+      274,
+      132
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Jupiter",
+     "fr": "la Jup iter",
+     "de": "der Jupiter",
+     "es": "Júpiter",
+     "it": "Giove",
+     "_pos": [
+      438,
+      132
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Uranus",
+     "fr": "l'U ranus",
+     "de": "der Uranus",
+     "es": "Urano",
+     "it": "Uranio",
+     "_pos": [
+      628,
+      132
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Neptune",
+     "fr": "la Neptune",
+     "de": "der Neptun",
+     "es": "Neptuno",
+     "it": "Nettuno",
+     "_pos": [
+      712,
+      133
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "3",
+   "parts": [],
+   "entries": [
+    {
+     "en": "Venus",
+     "fr": "la Vénus",
+     "de": "die Venus",
+     "es": "Venus",
+     "it": "Venere",
+     "_pos": [
+      173,
+      345
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Sun",
+     "fr": "le soleil",
+     "de": "die Sonne",
+     "es": "el sol",
+     "it": "il sole",
+     "_pos": [
+      102,
+      394
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "Moon",
+     "fr": "a lune",
+     "de": "der Mond",
+     "es": "la luna",
+     "it": "la luna",
+     "_pos": [
+      274,
+      395
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "Saturn",
+     "fr": "la Saturne",
+     "de": "der Saturn",
+     "es": "Saturno",
+     "it": "Saturno",
+     "_pos": [
+      552,
+      395
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "star",
+     "fr": "l'étoile",
+     "de": "der Stern",
+     "es": "la estrella",
+     "it": "la stella",
+     "_pos": [
+      790,
+      444
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tail",
+     "fr": "la queue",
+     "de": "der Schweif",
+     "es": "la cola",
+     "it": "la coda",
+     "_pos": [
+      681,
+      444
+     ],
+     "_flags": []
+    },
+    {
+     "en": "solar system",
+     "fr": "le sytème solaire",
+     "de": "das Sonnensystem",
+     "es": "el sistema solar",
+     "it": "il sistema solare",
+     "_pos": [
+      43,
+      493
+     ],
+     "_flags": []
+    },
+    {
+     "en": "galaxy",
+     "fr": "ln galaxie",
+     "de": "die Galaxie",
+     "es": "la galaxia",
+     "it": "la galassia",
+     "_pos": [
+      43,
+      706
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nebula",
+     "fr": "la nébuleuse",
+     "de": "der Nebelfleck",
+     "es": "la nebulosa",
+     "it": "la nebulosa",
+     "_pos": [
+      256,
+      707
+     ],
+     "_flags": []
+    },
+    {
+     "en": "comet",
+     "fr": "la comète",
+     "de": "der Komet",
+     "es": "el com eta",
+     "it": "la cometa",
+     "_pos": [
+      682,
+      707
+     ],
+     "_flags": []
+    },
+    {
+     "en": "asteroid",
+     "fr": "l'astéroïde",
+     "de": "der Asteroid",
+     "es": "el asteroide",
+     "it": "l'asteroide",
+     "_pos": [
+      469,
+      708
+     ],
+     "_flags": []
+    },
+    {
+     "en": "universe",
+     "fr": "univers",
+     "de": "das Universum",
+     "es": "el universo",
+     "it": "l'universo",
+     "_pos": [
+      58,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "black hole",
+     "fr": "le trou noir",
+     "de": "das schwarze Loch",
+     "es": "el agujero negro",
+     "it": "il buco nero",
+     "_pos": [
+      174,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "full moon",
+     "fr": "la pleine lune",
+     "de": "der Vollmond",
+     "es": "la lima llena",
+     "it": "la luna piena",
+     "_pos": [
+      305,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "orbit",
+     "fr": "l'orbitc",
+     "de": "die Umlaufbahn",
+     "es": "la órbita",
+     "it": "l'orbita",
+     "_pos": [
+      58,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "planet",
+     "fr": "la planète",
+     "de": "der Planet",
+     "es": "el planeta",
+     "it": "il pianeta",
+     "_pos": [
+      174,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "new moon",
+     "fr": "la nouvelle lune",
+     "de": "der Neumond",
+     "es": "la luna nueva",
+     "it": "la luna nuova",
+     "_pos": [
+      306,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "meteor",
+     "fr": "le météore",
+     "de": "der Meteor",
+     "es": "el meteorito",
+     "it": "la meteora",
+     "_pos": [
+      174,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gravity",
+     "fr": "la pesanteur",
+     "de": "die Schwerkraft",
+     "es": "la gravedad",
+     "it": "la gravità",
+     "_pos": [
+      58,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crescent moon",
+     "fr": "le croissant de lune",
+     "de": "die Mondsichel",
+     "es": "la media luna",
+     "it": "la mezzaluna",
+     "_pos": [
+      306,
+      985
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 9,
+  "flagged": 18,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

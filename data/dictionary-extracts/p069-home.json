@@ -1,0 +1,417 @@
+{
+ "page": 69,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "camera-dei-bambini",
+   "names": {
+    "en": "nursery",
+    "fr": "la chambre d'enfants",
+    "de": "das kinderzimmer",
+    "es": "la habitación de los niños",
+    "it": "la camera dei bambini"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "fr": "igiene del neonato",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'"
+     },
+     "_grid_len": {
+      "fr": 16
+     }
+    },
+    {
+     "en": "diaper rash cream",
+     "fr": "crème pour l'érythème",
+     "de": "Wundsalbe",
+     "es": "crem a para las rozaduras",
+     "it": "pomata antirossore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 18,
+      "de": 9,
+      "es": 21,
+      "it": 17
+     }
+    },
+    {
+     "en": "wet wipe",
+     "fr": "serviette humide",
+     "de": "Erfrischungs tuch",
+     "es": "tool li ta húmeda",
+     "it": "salvicttma umidificata",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 16,
+      "es": 14,
+      "it": 21
+     }
+    },
+    {
+     "en": "sponge",
+     "fr": "éponge",
+     "de": "Schwamm",
+     "es": "esponja",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 7
+     }
+    },
+    {
+     "en": "baby bath",
+     "fr": "baignoire en plastique",
+     "de": "Babywanne",
+     "es": "ía tina de plástico",
+     "it": "vaschetta",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 20,
+      "de": 9,
+      "es": 16,
+      "it": 9
+     }
+    },
+    {
+     "en": "changing mat",
+     "fr": "maretas à langer « die Wickelmatte",
+     "es": "cambiador",
+     "it": "materassi no",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 28,
+      "es": 9,
+      "it": 11
+     }
+    }
+   ]
+  },
+  {
+   "slug": "dormita",
+   "names": {
+    "en": "sleeping",
+    "fr": "le coucher",
+    "de": "das schlafen",
+    "es": "la hora de dormir",
+    "it": "la dormita"
+   },
+   "entries": [
+    {
+     "en": "sheet",
+     "fr": "drap",
+     "de": "Laken",
+     "es": "sábana",
+     "it": "lenzuolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "blanket",
+     "fr": "couverture",
+     "de": "Decke",
+     "es": "cobija",
+     "it": "coperta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "mobile",
+     "fr": "mobile",
+     "de": "Mobile",
+     "es": "móvil",
+     "it": "mobile",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "bars",
+     "fr": "barreaux",
+     "de": "Gitterstäbe",
+     "es": "barrotes",
+     "it": "sbarre",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "fleece",
+     "fr": "Couverture laineuse",
+     "de": "Flauschdecke",
+     "es": "vellón",
+     "it": "felpa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 18,
+      "de": 12,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "bedding",
+     "fr": "literie",
+     "de": "Bettzeug",
+     "es": "ropa de cama",
+     "it": "biancheria da letto",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 10,
+      "it": 17
+     }
+    },
+    {
+     "en": "bumper",
+     "fr": "protège-barreaux",
+     "de": "Kopfschutz",
+     "es": "protector",
+     "it": "paracolpi",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 15,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "mattress",
+     "fr": "matelas",
+     "de": "Matratze",
+     "es": "colchón",
+     "it": "materasso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "rattle",
+     "fr": "hochet",
+     "de": "Rassel",
+     "es": "sonaja",
+     "it": "sonaglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "moses basket",
+     "fr": "moïse",
+     "de": "Körbchen",
+     "es": "moisés",
+     "it": "portabebè",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "crib",
+     "fr": "lit d' enfant",
+     "de": "Kinderbett",
+     "es": "cuna",
+     "it": "lettino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 10,
+      "es": 4,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

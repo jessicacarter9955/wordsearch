@@ -1,0 +1,518 @@
+{
+ "page": 172,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "tipi-di-fattoria",
+   "names": {
+    "en": "types of farms",
+    "fr": "les exploitations agricoles",
+    "de": "die landwirtschaftlichen betriebe",
+    "es": "los tipos de granja",
+    "it": "i tipi di fattoria"
+   },
+   "entries": [
+    {
+     "en": "flock",
+     "fr": "troupeau",
+     "de": "Herde",
+     "es": "e rebaño",
+     "it": "gregge",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "crop",
+     "fr": "culture",
+     "de": "Feldfrucht",
+     "es": "cosecha",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 10,
+      "es": 7
+     }
+    },
+    {
+     "en": "poultry farm",
+     "fr": "ferme d'aviculture",
+     "de": "Hühnerfarm",
+     "es": "granja avícola",
+     "it": "azienda avicola",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 10,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "sheep farm",
+     "fr": "ferme d'élevage de mourons",
+     "de": "Schaffarm",
+     "es": "granja de ganado ovino",
+     "it": "allevamento di pecore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 22,
+      "de": 9,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "dairy farm",
+     "fr": "ferme laitière",
+     "de": "Betrieb für Milchproduktion",
+     "es": "vaquería",
+     "it": "caseificio",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 25,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "crop farm",
+     "fr": "ferme de culture",
+     "de": "Ackerbaubetrieb",
+     "es": "granja de tierras cultivables",
+     "it": "azienda agricola",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 15,
+      "es": 26,
+      "it": 15
+     }
+    },
+    {
+     "en": "vine",
+     "fr": "vigne",
+     "de": "Wem",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 3
+     }
+    },
+    {
+     "en": "vineyard",
+     "fr": "vigne",
+     "de": "Weinberg",
+     "es": "viñedo",
+     "it": "vigneto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "fish farm",
+     "fr": "centre de pisciculture",
+     "de": "Fischzucht",
+     "es": "criadero de peces",
+     "it": "vivaio ittico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 20,
+      "de": 10,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "pg farm",
+     "fr": "ferme d'élevage porcin",
+     "de": "Schweinefarm",
+     "es": "granja de ganado porcino",
+     "it": "allevamento di maiali",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 19,
+      "de": 12,
+      "es": 21,
+      "it": 19
+     }
+    }
+   ]
+  },
+  {
+   "slug": "attività",
+   "names": {
+    "en": "actions",
+    "fr": "les activités",
+    "de": "die tätigkeiten",
+    "es": "las actividades",
+    "it": "le attività"
+   },
+   "entries": [
+    {
+     "en": "furrow",
+     "fr": "sillon",
+     "de": "Furche",
+     "es": "surco",
+     "it": "solco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "feed (v)",
+     "fr": "donner à manger",
+     "de": "futtern",
+     "es": "alimentar",
+     "it": "dar da mangiare",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 13,
+      "de": 7,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "milk (v)",
+     "fr": "traire",
+     "de": "melken",
+     "es": "ordeñar",
+     "it": "mungere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "sow (v)",
+     "fr": "semer",
+     "de": "säen",
+     "es": "sembrar",
+     "it": "seminare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "plow (v)",
+     "fr": "labourer",
+     "de": "pflügen",
+     "es": "arar",
+     "it": "am re",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "trough",
+     "fr": "auge",
+     "de": "Trog",
+     "es": "comedero",
+     "it": "mangiatoia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 4,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "herd",
+     "fr": "troupeau",
+     "de": "Herde",
+     "es": "manada",
+     "it": "mandria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "herbicide",
+     "fr": "herbicide",
+     "de": "Herbizid",
+     "es": "herbicida",
+     "it": "erbicida",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "plant (v)",
+     "fr": "planter",
+     "de": "pflanzen",
+     "es": "plantar",
+     "it": "piantare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "silo",
+     "fr": "silo",
+     "de": "Silo",
+     "es": "silo",
+     "it": "silos",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "pesticide",
+     "fr": "pesticide",
+     "de": "Pestizid",
+     "es": "pesticida",
+     "it": "pesticida",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "harvest (v)",
+     "fr": "récolter",
+     "de": "ernten",
+     "es": "recolectar",
+     "it": "raccogliere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 6,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "water (v)",
+     "fr": "arroser",
+     "de": "bewässern",
+     "es": "regar",
+     "it": "irrigare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

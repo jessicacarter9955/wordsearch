@@ -1,0 +1,446 @@
+{
+ "page": 189,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "comandi",
+   "names": {
+    "en": "controls",
+    "fr": "les commandes",
+    "de": "die armaturen",
+    "es": "los controles",
+    "it": "i comandi"
+   },
+   "entries": [
+    {
+     "en": "satellite navigation",
+     "fr": "navigateur par satellite",
+     "de": "GPS-System",
+     "es": "navegación por satélite",
+     "it": "navigazione via satellite",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 22,
+      "de": 9,
+      "es": 21,
+      "it": 23
+     }
+    },
+    {
+     "en": "hazard lights",
+     "fr": "feux de détresse",
+     "de": "Warnlichter",
+     "es": "luces de emergencia",
+     "it": "luci intermittenti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 11,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "dashboard",
+     "fr": "tableau de bord",
+     "de": "Armaturenbrett",
+     "es": "tablero",
+     "it": "cruscotto",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 14,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "horn",
+     "fr": "klaxon",
+     "de": "Hupe",
+     "es": "claxon",
+     "it": "clacson",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "steering wheel",
+     "fr": "volant",
+     "de": "Lenkrad",
+     "es": "volante",
+     "it": "volante",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "left hand drive",
+     "fr": "conduite à gauche",
+     "de": "Linkssteuerung",
+     "es": "volante a la izquierda",
+     "it": "guida a sinistra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 14,
+      "es": 19,
+      "it": 14
+     }
+    },
+    {
+     "en": "speedometer",
+     "fr": "compteur",
+     "de": "Tachometer",
+     "es": "velocím etro",
+     "it": "contachilometri",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 10,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "temperature gauge",
+     "fr": "thermomètre",
+     "de": "Temperaturanzeige",
+     "es": "indicador de temperatura",
+     "it": "spia della temperatura",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 11,
+      "de": 17,
+      "es": 22,
+      "it": 20
+     }
+    },
+    {
+     "en": "tachometer",
+     "fr": "compte-tours",
+     "de": "Drehzahlmesser",
+     "es": "tacóm ctro",
+     "it": "contagiri",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 14,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "fuel gauge",
+     "fr": "jauge d'essence",
+     "de": "Kraftstoffanzeige",
+     "es": "indicador de la gasolina",
+     "it": "spia del carburante",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 17,
+      "es": 21,
+      "it": 17
+     }
+    },
+    {
+     "en": "light switch",
+     "fr": "interrupteur feux",
+     "de": "Lichtschalter",
+     "es": "palanca de luces",
+     "it": "interruttore per le luci",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 13,
+      "es": 14,
+      "it": 21
+     }
+    },
+    {
+     "en": "car stereo",
+     "fr": "stéréo",
+     "de": "Autosrereoanlage",
+     "es": "radio del coche",
+     "it": "autoradio",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 16,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "odometer",
+     "fr": "Podomètre",
+     "de": "Kilometerzähler",
+     "es": "odómetro",
+     "it": "Podometro",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 15,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "heater controls",
+     "fr": "ia manette de chauffage",
+     "de": "Heizungsregler",
+     "es": "ia calefacción",
+     "it": "comandi per il riscaldamento",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 20,
+      "de": 14,
+      "es": 13,
+      "it": 25
+     }
+    },
+    {
+     "en": "air bag",
+     "fr": "I'airbag",
+     "de": "Airbag",
+     "es": "bolsa de aire",
+     "it": "airbag",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 11,
+      "it": 6
+     }
+    },
+    {
+     "en": "gearshift",
+     "fr": "levier de vitesses",
+     "de": "Schalthebel",
+     "es": "palanca de velocidades",
+     "it": "leva del cambio",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 11,
+      "es": 20,
+      "it": 13
+     }
+    },
+    {
+     "en": "right-hand drive",
+     "fr": "conduite à droite",
+     "de": "Rechtssteuerung",
+     "es": "volante a la derecha",
+     "it": "guida a destra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 15,
+      "de": 15,
+      "es": 17,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

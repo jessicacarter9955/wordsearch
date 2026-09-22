@@ -1,0 +1,455 @@
+{
+ "page": 195,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LF. TRANSPORT • DER VERKEHR • KL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "crossbar",
+     "fr": "la barre",
+     "de": "die Stange",
+     "es": "el tubo superior",
+     "_pos": [
+      44,
+      74
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "handlebar",
+     "fr": "le guidon",
+     "de": "die Lenkstange",
+     "es": "el manubrio",
+     "it": "manubrio",
+     "_pos": [
+      175,
+      74
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gear lever",
+     "fr": "le levier de vitesse",
+     "de": "der Schalthebel",
+     "es": "la palanca de cambio",
+     "it": "la leva del cambio",
+     "_pos": [
+      293,
+      108
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tire lever",
+     "fr": "le dcm ontc-pncu",
+     "de": "der Reifenschlüssel",
+     "es": "la palanca de la llanta",
+     "it": "la leva per il pneumatico",
+     "_pos": [
+      468,
+      120
+     ],
+     "_flags": []
+    },
+    {
+     "en": "patch",
+     "fr": "la rustine",
+     "de": "der Flicken",
+     "es": "el parche",
+     "it": "la toppa",
+     "_pos": [
+      774,
+      176
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brake lever",
+     "fr": "le levier de Irein",
+     "de": "der Bremsgriff",
+     "es": "los frenos",
+     "it": "la leva del freno",
+     "_pos": [
+      174,
+      206
+     ],
+     "_flags": []
+    },
+    {
+     "en": "repair kit",
+     "fr": "la boîte d' outils",
+     "de": "der Reparaturkasten",
+     "es": "el k it de reparaciones",
+     "it": "il kit per riparazioni",
+     "_pos": [
+      467,
+      281
+     ],
+     "_flags": [
+      "es:short:k"
+     ]
+    },
+    {
+     "en": "fork",
+     "fr": "la fourche",
+     "de": "die Gabel",
+     "es": "las tijeras",
+     "it": "la forcella",
+     "_pos": [
+      339,
+      288
+     ],
+     "_flags": []
+    },
+    {
+     "en": "key",
+     "fr": "la clef",
+     "de": "der Schlüssel",
+     "es": "la llave",
+     "it": "la chiave",
+     "_pos": [
+      674,
+      339
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spoke",
+     "fr": "le rayon",
+     "de": "die Speiche",
+     "es": "el rayo",
+     "it": "il raggio",
+     "_pos": [
+      377,
+      436
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pump",
+     "fr": "la pompe",
+     "de": "die Luftpumpe",
+     "es": "la bomba",
+     "it": "la pompa",
+     "_pos": [
+      471,
+      453
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lock",
+     "fr": "l'antivol",
+     "de": "das Fahrradschloss",
+     "es": "el candado",
+     "it": "il lucchetto",
+     "_pos": [
+      684,
+      454
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la roue",
+     "de": "das Rad",
+     "es": "la llanta",
+     "it": "la ruota",
+     "_pos": [
+      367,
+      568
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "tread",
+     "fr": "la bande de roulement",
+     "de": "das Reifenprofil",
+     "es": "la banda de rodadura",
+     "it": "il battistrada",
+     "_pos": [
+      292,
+      667
+     ],
+     "_flags": []
+    },
+    {
+     "en": "inner tube",
+     "fr": "la chambre à air",
+     "de": "der Schlauch",
+     "es": "la cámara",
+     "it": "la camera d'aria",
+     "_pos": [
+      471,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "child seat",
+     "fr": "le siège d'enfant",
+     "de": "der Kindersitz",
+     "es": "la siila para el niño",
+     "it": "il seggiolino per bambino",
+     "_pos": [
+      684,
+      685
+     ],
+     "_flags": []
+    },
+    {
+     "de": "das Ventil",
+     "es": "el pivote",
+     "it": "la valvola",
+     "_pos": [
+      45,
+      700
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "light",
+     "fr": "le phare",
+     "de": "die Fahrradlampe",
+     "es": "el faro",
+     "it": "il fanale",
+     "_pos": [
+      60,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kickstand",
+     "fr": "la béquille",
+     "de": "der Fahrradständer",
+     "es": "la patilla de apoyo",
+     "it": "il cavalletto",
+     "_pos": [
+      186,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brake block",
+     "fr": "le patin de frein",
+     "de": "die Bremsbacke",
+     "es": "la goma del freno",
+     "it": "il blocca freni",
+     "_pos": [
+      354,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "basket",
+     "fr": "le panier",
+     "de": "der Korb",
+     "es": "la canastilla",
+     "it": "il cestello",
+     "_pos": [
+      480,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toe dip",
+     "fr": "le cale-pied",
+     "de": "der Rennbügel",
+     "es": "el calzapié",
+     "it": "il fermapiedi",
+     "_pos": [
+      583,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "change gear (v)",
+     "fr": "changer de vitesse",
+     "de": "schalten",
+     "es": "cambiar de velocidad",
+     "it": "cambiare marcia",
+     "_pos": [
+      728,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stabilizers",
+     "fr": "les roues d'entraînemenr",
+     "de": "die Stützräder",
+     "es": "las ruedas de apoyo",
+     "it": "le rotelle",
+     "_pos": [
+      186,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rear light",
+     "fr": "le feu arrière",
+     "de": "das Rücklicht",
+     "es": "el faro trasero",
+     "it": "il fanale posteriore",
+     "_pos": [
+      60,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cable",
+     "fr": "le câble",
+     "de": "das Kabel",
+     "es": "el cable",
+     "it": "il cavo",
+     "_pos": [
+      353,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dynamo",
+     "fr": "la dynamo",
+     "de": "der Dynamo",
+     "es": "la dinamo",
+     "it": "la dinamo",
+     "_pos": [
+      480,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toe strap",
+     "fr": "la lanière",
+     "de": "der Riemen",
+     "es": "la banda del calzapié",
+     "it": "il cinguetto",
+     "_pos": [
+      583,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brake (v)",
+     "fr": "freiner",
+     "de": "bremsen",
+     "es": "frenar",
+     "it": "frenare",
+     "_pos": [
+      728,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reflector",
+     "fr": "le cataphotc",
+     "de": "der Rückstrahler",
+     "es": "el reflector",
+     "it": "il catarifrangente",
+     "_pos": [
+      60,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bike rack",
+     "fr": "la galene à vélo",
+     "de": "der Fahrradständer",
+     "es": "el rack para bicicletas",
+     "it": "il posteggio per bici",
+     "_pos": [
+      186,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sprocket",
+     "fr": "le pignon",
+     "de": "das Kettenzahnrad",
+     "es": "el engrane",
+     "it": "ii dente",
+     "_pos": [
+      353,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flat tire",
+     "fr": "la crevaison",
+     "de": "die Reifenpanne",
+     "es": "la ponchadura",
+     "it": "la foratura",
+     "_pos": [
+      480,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pedal (v)",
+     "fr": "pédaler",
+     "de": "treten",
+     "es": "pedalear",
+     "it": "pedalare",
+     "_pos": [
+      584,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cycle (v)",
+     "fr": "faire du vélo",
+     "de": "Rad fahren",
+     "es": "andar en bicicleta",
+     "it": "andare in bici",
+     "_pos": [
+      728,
+      981
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 35,
+  "complete_clean": 21,
+  "flagged": 14,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

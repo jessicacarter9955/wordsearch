@@ -1,0 +1,547 @@
+{
+ "page": 262,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "arte-e-artigianato",
+   "names": {
+    "en": "arts and crafts",
+    "fr": "les arts et métiers",
+    "de": "das kunsthandwerk",
+    "es": "las manualidades",
+    "it": "arte e artigianato"
+   },
+   "entries": [
+    {
+     "en": "thread guide",
+     "fr": "guide de Fil",
+     "de": "Faden leiter",
+     "es": "guía del hilo",
+     "it": "guidafilo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 11,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "thread reel",
+     "fr": "bobine de fil",
+     "de": "Spuler",
+     "es": "carrete de hilo",
+     "it": "rocchetto del filo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 6,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "balance wheel",
+     "fr": "balancier",
+     "de": "Handrad",
+     "es": "rueda de ajuste",
+     "it": "ruota",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 7,
+      "es": 13,
+      "it": 5
+     }
+    },
+    {
+     "en": "needle",
+     "fr": "aiguille",
+     "de": "Ñadel",
+     "es": "aguia",
+     "it": "lago",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "presser foot",
+     "fr": "picd-de-biche",
+     "de": "Stoffdrücker",
+     "es": "pie de la aguja",
+     "it": "piedino",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 12,
+      "es": 12,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "stitch seleccor",
+     "fr": "sélecteur de poinr",
+     "de": "Stichwähler",
+     "es": "selector de puntada",
+     "it": "selezionatore dei punti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 11,
+      "es": 17,
+      "it": 21
+     }
+    },
+    {
+     "en": "needle plate",
+     "fr": "platine",
+     "de": "Stichplatte",
+     "es": "placa de la ag",
+     "it": "piastrina déliai",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 11,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "sewing machine",
+     "fr": "machine à coudre",
+     "de": "Nähmaschine",
+     "es": "máquina de coser",
+     "it": "macchina da cucire",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 11,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "pincushion",
+     "fr": "pelote à épingles",
+     "de": "Nadelkissen",
+     "es": "alfiletero",
+     "it": "puntaspilli",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 11,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "scissors",
+     "fr": "ciseaux",
+     "de": "Schere",
+     "es": "tijeras",
+     "it": "forbici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "pattern",
+     "fr": "patron",
+     "de": "Schnittmuster",
+     "es": "patrón",
+     "it": "modello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 13,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "pin",
+     "fr": "épingle",
+     "de": "Stecknadel",
+     "es": "a lliie r",
+     "it": "spillo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "tape measure",
+     "fr": "centimètre",
+     "de": "Zentimetermaß",
+     "es": "cinta m etrica",
+     "it": "metro",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 14,
+      "es": 12,
+      "it": 5
+     }
+    },
+    {
+     "en": "material",
+     "fr": "tissu",
+     "de": "Stoff",
+     "es": "tela",
+     "it": "stoffa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "sewing basket",
+     "fr": "corbeille à couture",
+     "de": "Nähkorb",
+     "es": "costurero",
+     "it": "Li cesta del cucito",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 17,
+      "de": 7,
+      "es": 9,
+      "it": 16
+     }
+    },
+    {
+     "en": "thread",
+     "fr": "fil",
+     "de": "Garn",
+     "es": "hilo",
+     "it": "filo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "eye",
+     "fr": "Barillet",
+     "de": "Öse",
+     "es": "hembra",
+     "it": "occhiello",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 3,
+      "es": 6,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "bobbin",
+     "fr": "bobine",
+     "de": "Spule",
+     "es": "bobina",
+     "it": "bobina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "hook",
+     "fr": "agrafe",
+     "de": "Haken",
+     "es": "macho",
+     "it": "gancio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "thimble",
+     "fr": "dé à coudre",
+     "de": "Fingerhut",
+     "es": "dedal",
+     "it": "ditale",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "tailor's chalk",
+     "fr": "craie de tailleur",
+     "de": "Schneiderkreide",
+     "es": "jaboncillo",
+     "it": "gesso",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 15,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "tailor's dummy",
+     "fr": "mannequin",
+     "de": "Schneiderpuppe",
+     "es": "maniquí",
+     "it": "manichino",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 14,
+      "es": 7,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

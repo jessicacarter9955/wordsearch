@@ -1,0 +1,332 @@
+{
+ "page": 44,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H EA LTH • I.A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "hospital l'hôpital • das Krankenhaus • el hospital • l'ospedale",
+   "parts": [
+    "hospital l'hôpital",
+    "das krankenhaus",
+    "el hospital",
+    "l'ospedale"
+   ],
+   "entries": [
+    {
+     "en": "surgeon",
+     "fr": "le chirurgien",
+     "de": "der Chirurg",
+     "es": "el cirujano",
+     "it": "il chirurgo",
+     "_pos": [
+      326,
+      137
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chart",
+     "fr": "la courbe",
+     "de": "die Patiententabelle",
+     "es": "la gráfica del paciente",
+     "it": "la scheda del paziente",
+     "_pos": [
+      554,
+      186
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blood test",
+     "fr": "l'analyse de sang",
+     "de": "die Blutuntersuchung",
+     "es": "el análisis de sangre",
+     "it": "l'analisi del sangue",
+     "_pos": [
+      696,
+      221
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nurse",
+     "fr": "l'infirm ierc",
+     "de": "die Krankenschwester",
+     "es": "la enfermera",
+     "it": "l'infermiera",
+     "_pos": [
+      62,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "anesthetist",
+     "fr": "'anesthésiste",
+     "de": "der Anästhesist",
+     "es": "el anestesista",
+     "it": "l'anestetista",
+     "_pos": [
+      574,
+      350
+     ],
+     "_flags": []
+    },
+    {
+     "en": "injection",
+     "fr": "l'injection",
+     "de": "die Spritze",
+     "es": "la inyección",
+     "it": "l'iniezione",
+     "_pos": [
+      696,
+      432
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      62,
+      530
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "operating room",
+      "la salle d 'opération",
+      "der Operationssaal",
+      "el quirófano",
+      "la sala operatoria gumey",
+      "le chario r",
+      "die fahrbare Liege",
+      "la cam illa",
+      "la lettiga"
+     ]
+    },
+    {
+     "en": "call button",
+     "fr": "le bouton d' appel",
+     "de": "der Rufknopf",
+     "es": "el timbre",
+     "it": "il pulsante di chiamata",
+     "_pos": [
+      310,
+      579
+     ],
+     "_flags": []
+    },
+    {
+     "en": "x-ray",
+     "fr": "la radio",
+     "de": "die Röntgenaufnahme",
+     "es": "la radiografía",
+     "it": "la radiografia",
+     "_pos": [
+      696,
+      611
+     ],
+     "_flags": []
+    },
+    {
+     "en": "emergency room",
+     "fr": "la salle îles urgences",
+     "de": "die Notaufnahme",
+     "es": "la sala de urgencias",
+     "it": "la sala emergenze",
+     "_pos": [
+      62,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ward",
+     "fr": "la salle",
+     "de": "die Krankenhausstation",
+     "es": "la planta",
+     "it": "il reparto",
+     "_pos": [
+      274,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wheelchair",
+     "fr": "la chaise roulante",
+     "de": "der Rollstuhl",
+     "es": "la silla de ruedas",
+     "it": "la sedia a rotelle",
+     "_pos": [
+      486,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scan",
+     "fr": "la scanographie",
+     "de": "der CT-Scan",
+     "es": "el ultrasonido",
+     "it": "l'ecografia",
+     "_pos": [
+      698,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Operation",
+     "fr": "l'operation",
+     "de": "die Operation",
+     "es": "la operación",
+     "it": "l'operazione",
+     "_pos": [
+      76,
+      888
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "discharged",
+     "fr": "renvoyé",
+     "de": "entlassen",
+     "es": "dado de alta",
+     "it": "dimesso",
+     "_pos": [
+      198,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "'visiting hours",
+     "fr": "les heures de visite",
+     "de": "die Besuchszeiten",
+     "es": "las horas de visita",
+     "it": "l'orario delle visite",
+     "_pos": [
+      302,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "maternity ward",
+     "fr": "la m nterniré",
+     "de": "die Entbindungsstation",
+     "es": "la sala de maternidad",
+     "it": "il reparto maternità",
+     "_pos": [
+      482,
+      890
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "intensive care unit",
+     "fr": "le service de soins intensifs",
+     "de": "die Intensivstation",
+     "es": "la unidad de cuidados intensivos",
+     "it": "il reparto di cura intensiva",
+     "_pos": [
+      660,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "admitted",
+     "fr": "admis",
+     "de": "aufgenommen",
+     "es": "internado",
+     "it": "ricoverato",
+     "_pos": [
+      76,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clinic",
+     "fr": "la clinique",
+     "de": "die Klinik",
+     "es": "la clin ica",
+     "it": "la clinica",
+     "_pos": [
+      198,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "children's ward",
+     "fr": "la pédiatrie",
+     "de": "die Kinderstation",
+     "es": "la saia de pediatría",
+     "it": "il reparto pediatrico",
+     "_pos": [
+      320,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "private room",
+     "fr": "la chambre privée",
+     "de": "das Privatzimmer",
+     "es": "la habitación privada",
+     "it": "la camera privata",
+     "_pos": [
+      483,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "outpatient",
+     "fr": "le malade en consultation externe",
+     "de": "der ambulante Patient",
+     "es": "el paciente extem o",
+     "it": "il paziente esterno",
+     "_pos": [
+      660,
+      988
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "g",
+   "pos": [
+    184,
+    414
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 9,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

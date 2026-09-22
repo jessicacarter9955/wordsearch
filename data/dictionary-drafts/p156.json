@@ -1,0 +1,254 @@
+{
+ "page": 156,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "S T U D Y • [ É T U D E • DAS LERNEN • E L E S T U D IO • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": "science • la science • die Wissenschaft • las ciencias • la scienza",
+   "parts": [
+    "science",
+    "la science",
+    "die wissenschaft",
+    "las ciencias",
+    "la scienza"
+   ],
+   "entries": [
+    {
+     "en": "crucible",
+     "fr": "le creuset",
+     "de": "der Tiegel",
+     "es": "el crisol",
+     "it": "il crogiolo",
+     "_pos": [
+      642,
+      117
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bunsen burner",
+     "fr": "le bec Bunsen",
+     "de": "der Bunsenbrenner",
+     "es": "el m echero Bunsen",
+     "it": "il becco Bunsen",
+     "_pos": [
+      612,
+      216
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "weight",
+     "fr": "le poids",
+     "de": "das Gewicht",
+     "es": "la pesa",
+     "it": "il peso",
+     "_pos": [
+      444,
+      217
+     ],
+     "_flags": []
+    },
+    {
+     "en": "laboratory",
+     "fr": "le laboratoire",
+     "de": "das Labor",
+     "es": "el laboratorio",
+     "it": "il laboratorio",
+     "_pos": [
+      50,
+      381
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scales",
+     "fr": "la balance",
+     "de": "die Laborwaage",
+     "es": "la báscula",
+     "it": "la bilancia",
+     "_pos": [
+      266,
+      383
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spring balance",
+     "fr": "la balance a ressort",
+     "de": "die Federwaage",
+     "es": "la balanza de muelle",
+     "it": "la bilancia a molla",
+     "_pos": [
+      481,
+      383
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tripod",
+     "fr": "le trépied",
+     "de": "der Dreifuß",
+     "es": "el trípode",
+     "it": "il treppiede",
+     "_pos": [
+      697,
+      384
+     ],
+     "_flags": []
+    },
+    {
+     "en": "test tube",
+     "fr": "l'éprouvette",
+     "de": "das Reagenzglas",
+     "es": "el tubo de ensayo",
+     "it": "la provetta",
+     "_pos": [
+      698,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clamp stand",
+     "fr": "le statit",
+     "de": "das Stativ",
+     "es": "el poste",
+     "it": "il sostegno del morsetto",
+     "_pos": [
+      422,
+      467
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glass bottle",
+     "fr": "la bouteille",
+     "de": "die Glasflasche",
+     "es": "el frasco de cristal",
+     "it": "la bottiglia di vetro",
+     "_pos": [
+      202,
+      499
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rack",
+     "fr": "le support",
+     "de": "das Gestell",
+     "es": "el portatubos",
+     "it": "la rastrelliera",
+     "_pos": [
+      692,
+      651
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clamp",
+     "fr": "la pince",
+     "de": "die Klammer",
+     "es": "el brazo",
+     "it": "il morsetto",
+     "_pos": [
+      374,
+      732
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stopper",
+     "fr": "le bouchon",
+     "de": "der Stöpsel",
+     "es": "el tapón",
+     "it": "il tappo",
+     "_pos": [
+      588,
+      732
+     ],
+     "_flags": []
+    },
+    {
+     "en": "funnel",
+     "fr": "l'entonnoir",
+     "de": "der Trichter",
+     "es": "el embudo",
+     "it": "l'imbuto",
+     "_pos": [
+      49,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "timer",
+     "fr": "le chronométré",
+     "de": "der Zeitmesser",
+     "es": "el cronòm etro",
+     "it": "il cronometro",
+     "_pos": [
+      696,
+      834
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beaker",
+     "fr": "la fiole",
+     "de": "der Kolben",
+     "es": "el matraz",
+     "it": "l'ampolla",
+     "_pos": [
+      49,
+      914
+     ],
+     "_flags": []
+    },
+    {
+     "en": "petn dish",
+     "fr": "la boite de Pétri",
+     "de": "die Petrischale",
+     "es": "la cápsula de Petri",
+     "it": "la capsula di Petri",
+     "_pos": [
+      696,
+      1049
+     ],
+     "_flags": []
+    },
+    {
+     "en": "experiment",
+     "fr": "l'expérience",
+     "de": "der Versuch",
+     "es": "el experimento",
+     "it": "l'esperimento",
+     "_pos": [
+      50,
+      1082
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 6,
+  "flagged": 12,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,391 @@
+{
+ "page": 197,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • I F T R A N S P O R T • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "luggage rack",
+     "fr": "le porre bagages",
+     "de": "die Gepäckablage",
+     "es": "el portaequipajes",
+     "it": "il portabagagli",
+     "_pos": [
+      339,
+      75
+     ],
+     "_flags": []
+    },
+    {
+     "en": "track",
+     "fr": "la voie terrée",
+     "de": "das Gleis",
+     "es": "la vía",
+     "it": "il binario",
+     "_pos": [
+      453,
+      146
+     ],
+     "_flags": []
+    },
+    {
+     "en": "window",
+     "fr": "la fenêtre",
+     "de": "das Zugfenster",
+     "es": "la ventanilla",
+     "it": "il finestrino",
+     "_pos": [
+      340,
+      158
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat",
+     "fr": "le siège",
+     "de": "der Sitz",
+     "es": "el asiento",
+     "it": "il sedile",
+     "_pos": [
+      454,
+      256
+     ],
+     "_flags": []
+    },
+    {
+     "en": "door",
+     "fr": "la porte",
+     "de": "die Tür",
+     "es": "la puerta",
+     "it": "la porta",
+     "_pos": [
+      340,
+      256
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ticket barrier",
+     "fr": "le portillon",
+     "de": "die Eingangssperre",
+     "es": "la barrera",
+     "it": "la barriera",
+     "_pos": [
+      540,
+      272
+     ],
+     "_flags": []
+    },
+    {
+     "en": "compartment",
+     "fr": "le compartiment",
+     "de": "das Abteil",
+     "es": "el com partim ento",
+     "it": "lo scompartimento",
+     "_pos": [
+      32,
+      340
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "p 41213 %",
+   "parts": [
+    "p 41213 %"
+   ],
+   "entries": [
+    {
+     "en": "KUPONG 7.00 kr",
+     "fr": "fr. wBV m m >wi?o-0on",
+     "de": "S5J >- '",
+     "_pos": [
+      377,
+      378
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:weird:7.00",
+      "en:case",
+      "fr:weird:fr.",
+      "fr:short:m",
+      "fr:weird:>wi?o-0on",
+      "de:num:S5J",
+      "de:weird:>-",
+      "de:short:'"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "es"
+      ],
+      [
+       "en",
+       "fr",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es"
+      ]
+     ]
+    },
+    {
+     "en": "1 w ticket",
+     "fr": "le billet",
+     "de": "die Fahrkarte",
+     "es": "el boleto",
+     "it": "il bicilietto",
+     "_pos": [
+      373,
+      379
+     ],
+     "_flags": [
+      "en:num:1",
+      "en:short:w"
+     ]
+    },
+    {
+     "en": "timetable",
+     "fr": "l'horaire",
+     "de": "der Fahrplan",
+     "es": "el horario",
+     "_pos": [
+      234,
+      388
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "xiöitc address system",
+     "fr": "le haur-pa rieur",
+     "de": "aer Lautsprecher",
+     "es": "d aitavo",
+     "it": "nc i ctpmnH i D l fnn a l i in l i",
+     "_pos": [
+      31,
+      390
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dining car",
+     "fr": "la voiture-restaurant",
+     "de": "der Speisewagen",
+     "es": "el vagón restaurante",
+     "it": "il vagone ristorante",
+     "_pos": [
+      542,
+      486
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sleeping compartment",
+     "fr": "le com parrim enr couchcrtcs",
+     "de": "das Schlafabteil",
+     "es": "el cochee ama",
+     "it": "lo scompartimento a cuccette",
+     "_pos": [
+      544,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oncourse",
+     "fr": "le hall de gare",
+     "de": "die Bahnhofshalle",
+     "es": "el vestíbulo",
+     "it": "l'atrio",
+     "_pos": [
+      34,
+      735
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ticket office",
+     "fr": "le guichet",
+     "de": "der Fahrkartenschalter",
+     "es": "la taquilla",
+     "it": "la biglietteria",
+     "_pos": [
+      484,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "live rail",
+     "fr": "le rail conducteur",
+     "de": "die stromführende Schiene",
+     "es": "el riel electrificado",
+     "it": "il binario elettrificato",
+     "_pos": [
+      676,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "underground map",
+     "fr": "le plan de métro",
+     "de": "der U-Bahnplan",
+     "es": "el plano del metro",
+     "it": "la mappa della metropolitana",
+     "_pos": [
+      244,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "railroad network",
+     "fr": "le réseau ferroviaire",
+     "de": "das Bahnnetz",
+     "es": "la red ferroviaria",
+     "it": "la rete ferroviaria",
+     "_pos": [
+      48,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ticket inspector",
+     "fr": "le contrôleur",
+     "de": "der Schaffner",
+     "es": "el dictador",
+     "it": "il controllore",
+     "_pos": [
+      484,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "signal",
+     "fr": "le signal",
+     "de": "das Signal",
+     "es": "la señal",
+     "it": "il segnale",
+     "_pos": [
+      677,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "delay",
+     "fr": "le retard",
+     "de": "die Verspätung",
+     "es": "el retraso",
+     "it": "il ritardo",
+     "_pos": [
+      245,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "inter city train",
+     "fr": "le rapide",
+     "de": "der Intercity",
+     "es": "el tren in te rcity",
+     "it": "il treno intercity",
+     "_pos": [
+      48,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "change (v)",
+     "fr": "changer",
+     "de": "umsteigen",
+     "es": "cambiar",
+     "it": "cambiare",
+     "_pos": [
+      485,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "emergency lever",
+     "fr": "la manette Je secours",
+     "de": "der Nothebel",
+     "es": "la palanca de emergencia",
+     "it": "la leva di emergenza",
+     "_pos": [
+      678,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fare",
+     "fr": "le prix",
+     "de": "der Fahrpreis",
+     "es": "el precio",
+     "it": "la tariffa",
+     "_pos": [
+      246,
+      981
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rush hour",
+     "fr": "l'heure de pointe",
+     "de": "die Stoßzeit",
+     "es": "la hora pico",
+     "it": "l'ora di punta",
+     "_pos": [
+      49,
+      982
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "s u H äiijiÄ Ä U 'T w à ï ï j",
+   "pos": [
+    410,
+    402
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 11,
+  "flagged": 15,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

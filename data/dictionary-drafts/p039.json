@@ -1,0 +1,45 @@
+{
+ "page": 39,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "health la santé",
+   "parts": [
+    "health la santé"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "die Gesundheit",
+   "parts": [
+    "die gesundheit"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "la salud la salute",
+   "parts": [
+    "la salud la salute"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

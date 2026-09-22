@@ -1,0 +1,305 @@
+{
+ "page": 150,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "metodi",
+   "names": {
+    "en": "techniques",
+    "fr": "la préparation",
+    "de": "die zubereitung",
+    "es": "las técnicas",
+    "it": "i metodi"
+   },
+   "entries": [
+    {
+     "en": "stuffed",
+     "fr": "farci",
+     "de": "gefüllt",
+     "es": "relleno",
+     "it": "imbottito",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "in sauce",
+     "fr": "en sauce",
+     "de": "in Soße",
+     "es": "en salsa",
+     "it": "al sugo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "grilled",
+     "fr": "grillé",
+     "de": "gegrillt",
+     "es": "a In plancha",
+     "it": "alla griglia",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 8,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "marinated",
+     "fr": "marine",
+     "de": "mariniert",
+     "es": "adobado",
+     "it": "marinato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "poached",
+     "fr": "poche",
+     "de": "poch ieri",
+     "es": "escalfado",
+     "it": "affogato",
+     "_multi": [
+      "de"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 8,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "mashed",
+     "fr": "en purée",
+     "de": "püriert",
+     "es": "hecho puré",
+     "it": "schiacciato",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "baked",
+     "fr": "cuit",
+     "de": "gebacken",
+     "es": "al horno",
+     "it": "cotto al forno",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 8,
+      "es": 7,
+      "it": 12
+     }
+    },
+    {
+     "en": "pan fried",
+     "fr": "sauté",
+     "de": "kurzgebraten",
+     "es": "frito con poco aceite",
+     "it": "fritto in padella",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 12,
+      "es": 18,
+      "it": 15
+     }
+    },
+    {
+     "en": "fried",
+     "fr": "frit",
+     "de": "gebraten",
+     "es": "Into",
+     "it": "fritto",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 8,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "pickled",
+     "fr": "macéré",
+     "de": "eingelegt",
+     "es": "en vinagre",
+     "it": "sottaceto",
+     "_multi": [
+      "es"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "smoked",
+     "fr": "fumé",
+     "de": "geräuchert",
+     "es": "ahumado",
+     "it": "affumicato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "deep fried",
+     "fr": "frit",
+     "de": "fnttiert",
+     "es": "frito con mucho aceite",
+     "it": "fritto in olio abbondante",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 8,
+      "es": 19,
+      "it": 22
+     }
+    },
+    {
+     "en": "in syrup",
+     "fr": "au sirop",
+     "de": "in Saft",
+     "es": "en almíbar",
+     "it": "allo sciroppo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "dressed",
+     "fr": "assaisonné",
+     "de": "angemacht",
+     "es": "sazonado",
+     "it": "condito",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 9,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "steamed",
+     "fr": "cuit à la vapeur",
+     "de": "gedämpft",
+     "es": "al vapor",
+     "it": "al vapore",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "cured",
+     "fr": "séché",
+     "de": "getrocknet",
+     "es": "curado",
+     "it": "seccato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

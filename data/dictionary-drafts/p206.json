@@ -1,0 +1,193 @@
+{
+ "page": 206,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "sports les sports",
+   "parts": [
+    "sports les sports"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "der Sport los deportes",
+   "parts": [
+    "der sport los deportes"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "gli sport",
+   "parts": [
+    "gli sport"
+   ],
+   "entries": [
+    {
+     "en": "v",
+     "fr": "foUB",
+     "_pos": [
+      49,
+      989
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:short:v"
+     ],
+     "_alts": [
+      [
+       "en",
+       "de"
+      ],
+      [
+       "en",
+       "es"
+      ],
+      [
+       "en",
+       "it"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "3",
+   "parts": [],
+   "entries": []
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "V",
+   "pos": [
+    797,
+    690
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "lÉ&v",
+   "pos": [
+    752,
+    696
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "M",
+   "pos": [
+    807,
+    774
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "- \" *3",
+   "pos": [
+    796,
+    781
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "?",
+   "pos": [
+    194,
+    797
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "Q",
+   "pos": [
+    504,
+    824
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "V",
+   "pos": [
+    531,
+    824
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "X",
+   "pos": [
+    554,
+    824
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "u 1",
+   "pos": [
+    574,
+    825
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "'iít",
+   "pos": [
+    784,
+    919
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "W",
+   "pos": [
+    542,
+    970
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "1",
+   "pos": [
+    571,
+    970
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "&",
+   "pos": [
+    72,
+    989
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "m",
+   "pos": [
+    106,
+    989
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 1,
+  "complete_clean": 0,
+  "flagged": 1,
+  "missing_lang": 1,
+  "leftovers": 14,
+  "subcats": 4
+ }
+}

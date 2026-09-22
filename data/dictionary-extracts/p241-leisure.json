@@ -1,0 +1,629 @@
+{
+ "page": 241,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "costume",
+     "fr": "costume",
+     "de": "Theaterkostüm",
+     "es": "vestuario",
+     "it": "costume",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 13,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "musical",
+     "fr": "comédie musicale",
+     "de": "Musical",
+     "es": "musical",
+     "it": "musical",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "concert",
+     "fr": "concert",
+     "de": "Konzert",
+     "es": "concierto",
+     "it": "concerto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "ballet « le ballet",
+     "de": "Ballett",
+     "es": "ballet",
+     "it": "balletto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "soundtrack",
+     "fr": "bande sonore",
+     "de": "Tonspur",
+     "es": "banda sonora",
+     "it": "colonna sonora",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 7,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "usher",
+     "fr": "placeur",
+     "de": "Platzanweiser",
+     "es": "acomodador",
+     "it": "maschera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 13,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "applaud (v)",
+     "fr": "applaudir",
+     "de": "applaudieren",
+     "es": "aplaudir",
+     "it": "applaudire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 12,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "classical music",
+     "fr": "musique classique",
+     "de": "klassische Musik",
+     "es": "música clásica",
+     "it": "musica classica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 15,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "W hat time does it start?",
+     "fr": "Ç a com m ence à quelle heure?",
+     "de": "Um wie viel Uhr beginnt die Aufführung?",
+     "es": "A qué hora em pieza?",
+     "it": "A che ora inizia?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 19,
+      "fr": 22,
+      "de": 32,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "encore",
+     "fr": "bis",
+     "de": "Zugabe",
+     "es": "bis",
+     "it": "bis",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 6,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "musical score",
+     "fr": "partition",
+     "de": "Noten",
+     "es": "partitura",
+     "it": "partitura musicale",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 5,
+      "es": 9,
+      "it": 17
+     }
+    },
+    {
+     "en": "opera",
+     "fr": "opéra die Oper",
+     "es": "ópera",
+     "it": "opera",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 12,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": "cinema",
+   "names": {
+    "en": "movies",
+    "fr": "le cinéma",
+    "de": "das kino",
+    "es": "el cine",
+    "it": "il cinema"
+   },
+   "entries": [
+    {
+     "en": "comedy",
+     "fr": "comédie",
+     "de": "Komödie",
+     "es": "comedia",
+     "it": "commedia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "romance",
+     "fr": "com edie rom antique",
+     "de": "Liebesfilm",
+     "es": "película romántica",
+     "it": "film d'amore",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 10,
+      "es": 17,
+      "it": 10
+     }
+    },
+    {
+     "en": "lobby",
+     "fr": "foyer",
+     "de": "Foyer",
+     "es": "vestíbulo",
+     "it": "atrio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "popcorn",
+     "fr": "pop-corn",
+     "de": "Popcorn",
+     "es": "palom itas",
+     "it": "popcorn",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "box office",
+     "fr": "caisse",
+     "de": "Kasse",
+     "es": "taquilla",
+     "it": "biglietteria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 5,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "science fiction movie",
+     "fr": "film de science-fiction",
+     "de": "Science-fiction-Film",
+     "es": "película de ciencia ficción",
+     "it": "film di fantascienza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 20,
+      "de": 18,
+      "es": 24,
+      "it": 18
+     }
+    },
+    {
+     "en": "thriller",
+     "fr": "thriller",
+     "de": "Thnller",
+     "es": "película de suspenso",
+     "it": "thriller",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 18,
+      "it": 8
+     }
+    },
+    {
+     "en": "poster",
+     "fr": "affiche",
+     "de": "Plakat",
+     "es": "póster",
+     "it": "I",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 1
+     }
+    },
+    {
+     "en": "adventure",
+     "fr": "film d'aventures",
+     "de": "Abenteuerfilm",
+     "es": "película de aventuras",
+     "it": "film di avventura",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 13,
+      "es": 19,
+      "it": 15
+     }
+    },
+    {
+     "en": "horror movie",
+     "fr": "film d 'h o rretir",
+     "de": "Horrorfilm",
+     "es": "película de miedo",
+     "it": "film di orrore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 10,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "animated movie",
+     "fr": "film d' animation",
+     "de": "Zeichentrickfilm",
+     "es": "película de dibujos anim ados",
+     "it": "film di animazione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 16,
+      "es": 25,
+      "it": 16
+     }
+    },
+    {
+     "en": "Western",
+     "fr": "western",
+     "de": "Western",
+     "es": "película de vaqueros",
+     "it": "western",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 18,
+      "it": 7
+     }
+    },
+    {
+     "en": "movie theater",
+     "fr": "salle de cinem a",
+     "de": "Kinosaal",
+     "es": "cine",
+     "it": "cinema",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 8,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "screen",
+     "fr": "écran",
+     "de": "Leinwand",
+     "es": "pantalla",
+     "it": "schermo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

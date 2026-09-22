@@ -1,0 +1,338 @@
+{
+ "page": 18,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "P EO P LE • LES GENS / • DIE MENSCHEN • I A GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "reproductive organs • les organes de reproduction • die Fortpflanzungsorgane • los órganos reproductores",
+   "parts": [
+    "reproductive organs",
+    "les organes de reproduction",
+    "die fortpflanzungsorgane",
+    "los órganos reproductores"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• gli organi riproduttivi",
+   "parts": [
+    "gli organi riproduttivi"
+   ],
+   "entries": [
+    {
+     "en": "fallopian tube",
+     "fr": "la trompe de Fallope",
+     "de": "der Eileiter",
+     "es": "la trompa de Falopio",
+     "it": "il tubo di Fallopio",
+     "_pos": [
+      57,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "follicle",
+     "fr": "le follicule",
+     "de": "der Follikel",
+     "es": "el folículo",
+     "it": "il follicolo",
+     "_pos": [
+      758,
+      223
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ovary",
+     "fr": "l'ovaire",
+     "de": "der Eierstock",
+     "es": "el ovario",
+     "it": "l'ovaia",
+     "_pos": [
+      108,
+      318
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bladder",
+     "fr": "la vessie",
+     "de": "die Blase",
+     "es": "la vejiga",
+     "it": "la vescica",
+     "_pos": [
+      757,
+      337
+     ],
+     "_flags": []
+    },
+    {
+     "en": "uterus",
+     "fr": "l'utérus",
+     "de": "die Gebärmutter",
+     "es": "el útero",
+     "it": "l'utero",
+     "_pos": [
+      70,
+      427
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clitoris",
+     "fr": "le clitoris",
+     "de": "die Klitoris",
+     "es": "el clito ris",
+     "it": "I clitoride",
+     "_pos": [
+      733,
+      435
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "urethra",
+     "fr": "l'urètre",
+     "de": "die Harnröhre",
+     "es": "la uretra",
+     "it": "l'uretra",
+     "_pos": [
+      732,
+      543
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cervix",
+     "fr": "le col de l'utérus",
+     "de": "der Gebärmutterhals",
+     "es": "el cuello uterino",
+     "it": "il collo dell'utero",
+     "_pos": [
+      53,
+      557
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vagina",
+     "fr": "le vagin",
+     "de": "die Scheide",
+     "es": "la vagina",
+     "it": "la vagina",
+     "_pos": [
+      172,
+      657
+     ],
+     "_flags": []
+    },
+    {
+     "en": "labia",
+     "fr": "les lèvres",
+     "de": "die Schamlippen",
+     "es": "los labios",
+     "it": "le labbra",
+     "_pos": [
+      736,
+      664
+     ],
+     "_flags": []
+    },
+    {
+     "en": "female",
+     "fr": "féminin",
+     "de": "weiblich",
+     "es": "femenino",
+     "it": "femminili",
+     "_pos": [
+      339,
+      743
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reproduction",
+     "fr": "la reproduction",
+     "es": "la rip ro d u zio n e",
+     "_pos": [
+      52,
+      786
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:it",
+      "es:short:u",
+      "es:short:n"
+     ]
+    },
+    {
+     "en": "hormone",
+     "fr": "l'hormone",
+     "de": "das Hormon",
+     "es": "la hormona",
+     "it": "l'ormone",
+     "_pos": [
+      404,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Impotent",
+     "fr": "impuissant",
+     "de": "impotent",
+     "es": "impotente",
+     "it": "impotente",
+     "_pos": [
+      515,
+      792
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "menstruation",
+     "fr": "les règles",
+     "de": "die Menstruation",
+     "es": "la menstruación",
+     "it": "la mestruazione",
+     "_pos": [
+      617,
+      794
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• die Fortpflanzung • la reproducción",
+   "parts": [
+    "die fortpflanzung",
+    "la reproducción"
+   ],
+   "entries": [
+    {
+     "en": "sperm",
+     "fr": "le sperme",
+     "de": "das Spermium",
+     "es": "el esperma",
+     "it": "lo sperma",
+     "_pos": [
+      282,
+      866
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ovulation",
+     "fr": "l'ovulation",
+     "de": "der Eisprung",
+     "es": "la ovulación",
+     "it": "l'ovulazione",
+     "_pos": [
+      404,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fertile",
+     "fr": "fécond",
+     "de": "fruchtbar",
+     "es": "fértil",
+     "it": "fecondo",
+     "_pos": [
+      514,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "intercourse",
+     "fr": "les rapports sexuels",
+     "de": "der Geschlechtsverkehr",
+     "es": "el coito",
+     "it": "il coito",
+     "_pos": [
+      616,
+      892
+     ],
+     "_flags": []
+    },
+    {
+     "en": "infertile",
+     "fr": "stérile",
+     "de": "steril",
+     "es": "estéril",
+     "it": "sterile",
+     "_pos": [
+      402,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "conceive",
+     "fr": "Concevoir",
+     "de": "empfangen",
+     "es": "concebir",
+     "it": "concepire",
+     "_pos": [
+      512,
+      989
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "sexually transmitted disease",
+     "fr": "la maladie sexuellement transmissible",
+     "de": "die Geschlechtskrankheit",
+     "es": "la enfermedad de transmisión sexual",
+     "it": "la malattia trasmissibile per via sessuale",
+     "_pos": [
+      614,
+      991
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fertilization",
+     "fr": "la fertilisation",
+     "de": "die Befruchtung",
+     "es": "la fertilizació n",
+     "it": "la fertilizza zio ne",
+     "_pos": [
+      48,
+      1050
+     ],
+     "_flags": [
+      "es:short:n"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 15,
+  "flagged": 8,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

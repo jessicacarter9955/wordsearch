@@ -1,0 +1,526 @@
+{
+ "page": 86,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "cane",
+     "fr": "canne",
+     "de": "Stock",
+     "es": "caña",
+     "it": "canna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "deadhead (v)",
+     "fr": "enlever les fleurs fanées",
+     "de": "köpfen",
+     "es": "quitar las flores m uertas",
+     "it": "togliere fiori appassiti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 22,
+      "de": 6,
+      "es": 22,
+      "it": 22
+     }
+    },
+    {
+     "en": "spray (v)",
+     "fr": "rociar",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6
+     }
+    },
+    {
+     "en": "train (v)",
+     "fr": "palisser",
+     "de": "ziehen",
+     "es": "guiar",
+     "it": "far crescere",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "asperger",
+     "fr": "sprühen spruzzare",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 16
+     }
+    },
+    {
+     "en": "cutting",
+     "fr": "coupe",
+     "de": "Ableger",
+     "es": "esqueje",
+     "it": "talea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 7,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "graft (v)",
+     "fr": "greffer",
+     "de": "pfropfen",
+     "es": "injertar",
+     "it": "innestare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "propagate (v)",
+     "fr": "propager",
+     "de": "vermehren",
+     "es": "propagai",
+     "it": "propagare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "prune (v)",
+     "fr": "élaguer",
+     "de": "beschneiden",
+     "es": "podar",
+     "it": "potare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "stake (v)",
+     "fr": "mettre un tuteur",
+     "de": "hochbinden",
+     "es": "apuntalar",
+     "it": "legare a un bastoncino",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 10,
+      "es": 9,
+      "it": 19
+     }
+    },
+    {
+     "en": "weed (v)",
+     "fr": "désherber",
+     "de": "jäten",
+     "es": "escardar",
+     "it": "sradicare le erbacce",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 5,
+      "es": 8,
+      "it": 18
+     }
+    },
+    {
+     "en": "mulch (v)",
+     "fr": "pailler",
+     "de": "mulchen",
+     "es": "cubrir la tierra",
+     "it": "concimare",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 14,
+      "it": 9
+     }
+    },
+    {
+     "en": "transplant (v)",
+     "fr": "transplanter",
+     "de": "umpflanzen",
+     "es": "transplantar",
+     "it": "trapiantare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "harvest (v)",
+     "fr": "récolter",
+     "de": "ernten",
+     "es": "cosechar",
+     "it": "raccogliere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 6,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "seedling",
+     "fr": "semis",
+     "de": "Sämling",
+     "es": "plantón",
+     "it": "semenzale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "cultivate (v)",
+     "fr": "cultiver",
+     "de": "züchten",
+     "es": "cultivar",
+     "it": "coltivare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "landscape (v)",
+     "fr": "dessiner",
+     "de": "gestalten",
+     "es": "diseñar",
+     "it": "architettare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 12
+     }
+    },
+    {
+     "en": "fertilize (v)",
+     "fr": "fertiliser",
+     "de": "düngen",
+     "es": "abonar",
+     "it": "concimare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "sieve (v)",
+     "fr": "tamiser",
+     "de": "sieben",
+     "es": "cribar",
+     "it": "setacciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "organic",
+     "fr": "biologique",
+     "de": "biodynamisch",
+     "es": "orgánico",
+     "it": "biologico",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 12,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "subsoil",
+     "fr": "sous-sol",
+     "de": "Untergrund",
+     "es": "subsuelo",
+     "it": "sottosuolo",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 10,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "fertilizer",
+     "fr": "engrais",
+     "de": "Dünger",
+     "es": "abono",
+     "it": "concime",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "weedkiller",
+     "fr": "herbicide",
+     "de": "Unkrautvernichter",
+     "es": "herbicida",
+     "it": "diserbante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 17,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "tend (v)",
+     "fr": "soigner",
+     "de": "hegen",
+     "es": "cuidar",
+     "it": "curare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "pot (v)",
+     "fr": "mettre en pot",
+     "de": "emtopfen",
+     "es": "planUr en tiesto",
+     "it": "invasare",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 11,
+      "de": 8,
+      "es": 14,
+      "it": 8
+     }
+    },
+    {
+     "en": "pick (v)",
+     "fr": "cueillir",
+     "de": "pflücken",
+     "es": "arrancar",
+     "it": "cogliere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "aerate (v)",
+     "fr": "retourner",
+     "de": "auflockern",
+     "es": "airear",
+     "it": "aerare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "drainage",
+     "fr": "drainage",
+     "de": "Entwässerung",
+     "es": "drenaje",
+     "it": "losco io",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 12,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

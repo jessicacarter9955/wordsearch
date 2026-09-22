@@ -1,0 +1,623 @@
+{
+ "page": 55,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "sistemi-interni",
+   "names": {
+    "en": "internal systems",
+    "fr": "les systèmes domestiques",
+    "de": "die hausanschlüsse",
+    "es": "las instalaciones internas",
+    "it": "i sistemi interni"
+   },
+   "entries": [
+    {
+     "en": "blade",
+     "fr": "Laite",
+     "de": "Flügel",
+     "es": "aspa",
+     "it": "pala",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "Ventilator",
+     "es": "ventilador",
+     "it": "ventilatore",
+     "_multi": [],
+     "_articles_removed": {
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "portable heater",
+     "fr": "convcctcur",
+     "de": "Heizlüfter",
+     "es": "calentador de convección",
+     "it": "stufa a convezione",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 10,
+      "de": 10,
+      "es": 22,
+      "it": 16
+     }
+    },
+    {
+     "en": "space heater",
+     "fr": "appareil de chauffage",
+     "de": "Heizofen",
+     "es": "calentador",
+     "it": "stufa",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 19,
+      "de": 8,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "hot",
+     "fr": "sous tension",
+     "de": "geladen",
+     "es": "con",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 3,
+      "fr": 11,
+      "de": 7,
+      "es": 3
+     }
+    },
+    {
+     "en": "filament",
+     "fr": "filament",
+     "de": "Glühfaden",
+     "es": "filamento",
+     "it": "filamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "ground",
+     "fr": "mise à la terre",
+     "de": "Erdung",
+     "es": "toma de tierra",
+     "it": "messa a terra",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 6,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "prong",
+     "fr": "broche",
+     "de": "Pol",
+     "es": "clavija",
+     "it": "piedino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 3,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "neutral",
+     "fr": "neutre",
+     "de": "neutral",
+     "es": "neutro",
+     "it": "neutro",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "threads",
+     "fr": "culot",
+     "de": "Fassung",
+     "es": "portalám paras",
+     "it": "attacco",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 7,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "wires",
+     "fr": "fils",
+     "de": "Leitung",
+     "es": "cables",
+     "it": "fili",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 7,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "light bulb",
+     "fr": "ampoule",
+     "de": "Birne",
+     "es": "foco",
+     "it": "lampadina",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 5,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "plug",
+     "fr": "prise",
+     "de": "Stecker",
+     "es": "enchufe",
+     "it": "spina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "fuse",
+     "fr": "fusible",
+     "de": "Sicherung",
+     "es": "fusible",
+     "it": "l fusibile",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "socket",
+     "fr": "prise de courant",
+     "de": "Steckdose",
+     "es": "enchufe",
+     "it": "presa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 9,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "direct current",
+     "fr": "courant contim i",
+     "de": "Gleichstrom",
+     "es": "corriente continua",
+     "it": "corrente continua",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 11,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "voltage",
+     "fr": "tension",
+     "de": "Spannung",
+     "es": "voltaje",
+     "it": "tensione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "transformer",
+     "fr": "transformateur",
+     "de": "Transformator",
+     "es": "transformador",
+     "it": "trasformatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 13,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "fuse box",
+     "fr": "boîte à fusibles",
+     "de": "Sicherungskasten",
+     "es": "caja de los fusibles",
+     "it": "vafvoliera",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 16,
+      "es": 17,
+      "it": 10
+     }
+    },
+    {
+     "en": "amp",
+     "fr": "ampère",
+     "de": "Ampère",
+     "es": "amperio",
+     "it": "ampere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "switch",
+     "fr": "interrupteur",
+     "de": "Schalter",
+     "es": "interruptor",
+     "it": "interruttore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 8,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "electric meter",
+     "fr": "com pteur d électricité",
+     "de": "Stromzähler",
+     "es": "contador de la luz",
+     "it": "contatore di corrente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 20,
+      "de": 11,
+      "es": 15,
+      "it": 19
+     }
+    },
+    {
+     "en": "household current",
+     "fr": "réseau d'électricité",
+     "de": "Stromnetz",
+     "es": "suministro de",
+     "it": "electricidad l'alimentazione di rete",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 18,
+      "de": 9,
+      "es": 12,
+      "it": 32
+     }
+    },
+    {
+     "en": "generator",
+     "fr": "génératrice",
+     "de": "Generator",
+     "es": "generador",
+     "it": "generatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "power",
+     "fr": "courant",
+     "de": "Strom",
+     "es": "comiente eléctrica",
+     "it": "elettricità",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 17,
+      "it": 11
+     }
+    },
+    {
+     "en": "alternating current",
+     "fr": "courant alternatif",
+     "de": "Wechselstrom",
+     "es": "co ni ente alterna",
+     "it": "corrente alternata",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 17,
+      "de": 12,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "power outage",
+     "fr": "coupure de courant",
+     "de": "Stromausfall",
+     "es": "corte de luz",
+     "it": "interruzione di corrente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 12,
+      "es": 10,
+      "it": 22
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

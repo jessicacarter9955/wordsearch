@@ -1,0 +1,627 @@
+{
+ "page": 47,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "ottico",
+   "names": {
+    "en": "optician",
+    "fr": "l'opticien",
+    "de": "der Augenoptiker",
+    "es": "el óptico",
+    "it": "l'ottico"
+   },
+   "entries": [
+    {
+     "en": "frame",
+     "fr": "monture",
+     "de": "Brillengestell",
+     "es": "montura",
+     "it": "montatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "lens",
+     "fr": "verre",
+     "de": "Glas",
+     "es": "cristal",
+     "it": "lente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "case",
+     "fr": "étui",
+     "de": "Futteral",
+     "es": "estuche",
+     "it": "custodia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "sunglasses",
+     "fr": "lunettes de soleil",
+     "de": "Sonnenbrille",
+     "es": "lentes obscuros",
+     "it": "occhiali da sole",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 12,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "glasses",
+     "fr": "lunettes",
+     "de": "Brille",
+     "es": "lentes",
+     "it": "occhiali",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "cleaning fluid",
+     "fr": "solution nettoyante",
+     "de": "Reinigungsmittel",
+     "es": "líquido limpiador",
+     "it": "soluzione per la pulizia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 16,
+      "es": 16,
+      "it": 21
+     }
+    },
+    {
+     "en": "disinfectant solution",
+     "fr": "solution désinfectante",
+     "de": "Desinfektionsmittel",
+     "es": "solución desinfectante",
+     "it": "soluzione disinfettante",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 21,
+      "de": 19,
+      "es": 21,
+      "it": 22
+     }
+    },
+    {
+     "en": "lens case",
+     "fr": "étui à lentilles",
+     "de": "Kontaktlinsenbehalter",
+     "es": "estuche para los pupilentes",
+     "it": "custodia per le lenti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 21,
+      "es": 24,
+      "it": 18
+     }
+    },
+    {
+     "en": "contact lenses",
+     "fr": "lentilles de contact",
+     "de": "Kontaktlinsen",
+     "es": "pupilentes",
+     "it": "lenti a contatto",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 13,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "retest",
+     "fr": "examen de la vue",
+     "de": "Sehtest",
+     "es": "examen de ojos",
+     "it": "esame della vista",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 7,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "astigmatism",
+     "fr": "astigmatisme",
+     "de": "Astigmatismus",
+     "es": "astigmatismo",
+     "it": "astigmatismo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 13,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "vision",
+     "fr": "vue",
+     "de": "Sehkraft",
+     "es": "vista",
+     "it": "vista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": "occhio",
+   "names": {
+    "en": "eye",
+    "fr": "l'œil",
+    "de": "das Auge",
+    "es": "el ojo",
+    "it": "l'occhio"
+   },
+   "entries": [
+    {
+     "en": "eyelid",
+     "fr": "paupière",
+     "de": "Lid",
+     "es": "párpado",
+     "it": "palpebra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 3,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "eyebrow",
+     "fr": "sourcil",
+     "de": "Augenbraue",
+     "es": "ceja",
+     "it": "sopracciglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 10,
+      "es": 4,
+      "it": 12
+     }
+    },
+    {
+     "en": "farsighted",
+     "fr": "presbytie",
+     "de": "Weitsichtigkeit",
+     "es": "hipermetropía",
+     "it": "presbiopia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 15,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "diopter",
+     "fr": "dioptrie",
+     "de": "Dioptrie",
+     "es": "dioptría",
+     "it": "diottria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "eyelash",
+     "fr": "cil",
+     "de": "Wimper",
+     "es": "pestaña",
+     "it": "ciglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 3,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "pupil",
+     "fr": "pupille",
+     "de": "Pupille",
+     "es": "pupila",
+     "it": "pupilla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "nearsighted",
+     "fr": "myopie",
+     "de": "Kurzsichtigkeit",
+     "es": "m iopia",
+     "it": "miopia",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 15,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "tear",
+     "fr": "larme",
+     "de": "Träne",
+     "es": "lágrima",
+     "it": "lacrima",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "retina",
+     "fr": "rétine",
+     "de": "Netzhaut",
+     "es": "retina",
+     "it": "retina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "iris",
+     "fr": "iride",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5
+     }
+    },
+    {
+     "en": "lens",
+     "fr": "cristallin",
+     "de": "Linse",
+     "es": "cristalino",
+     "it": "lente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 5,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "bifocal",
+     "fr": "bifocal",
+     "de": "Bifokal",
+     "es": "bifocal",
+     "it": "bifocale",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "cataract",
+     "fr": "cataracte",
+     "de": "graue Star",
+     "es": "catarata",
+     "it": "cataratta",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "optic nerve",
+     "fr": "nerf optique",
+     "de": "Sehnerv",
+     "es": "nervio óptico",
+     "it": "nervo ottico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 7,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "cornea",
+     "fr": "cornée",
+     "de": "Hornhaut",
+     "es": "córnea",
+     "it": "cornea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "page": 25,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "festivals • les fêtes • die",
+   "parts": [
+    "festivals",
+    "les fêtes",
+    "die"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "celebrations • les fetes • die Feste • las celebraciones • le celebrazioni",
+   "parts": [
+    "celebrations",
+    "les fêtes",
+    "die feste",
+    "las celebraciones",
+    "le celebrazioni"
+   ],
+   "entries": [
+    {
+     "en": "Feste",
+     "es": "los festivales",
+     "it": "le feste",
+     "_pos": [
+      680,
+      102
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "en:case"
+     ]
+    },
+    {
+     "en": "card",
+     "fr": "la carte",
+     "de": "die Karte",
+     "es": "la tarjeta",
+     "it": "la cartolina",
+     "_pos": [
+      226,
+      117
+     ],
+     "_flags": []
+    },
+    {
+     "en": "birthday party",
+     "fr": "la fête",
+     "de": "die Geburtstagsfeier",
+     "es": "la fiesta de cumpleaños",
+     "it": "la festa di compleanno",
+     "_pos": [
+      44,
+      117
+     ],
+     "_flags": []
+    },
+    {
+     "en": "present",
+     "fr": "le cadeau",
+     "de": "das Geschenk",
+     "es": "el regalo",
+     "it": "il regalo",
+     "_pos": [
+      316,
+      345
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Passover",
+     "fr": "la Pâque",
+     "de": "das Passah",
+     "es": "la Pascua judía",
+     "it": "la Pasqua ebraica",
+     "_pos": [
+      682,
+      377
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Chnstmas",
+     "fr": "le Noël",
+     "de": "das Weihnachten",
+     "es": "la Navidad",
+     "it": "il Natale",
+     "_pos": [
+      469,
+      378
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "birthday",
+     "fr": "l'anniversaire",
+     "de": "der Geburtstag",
+     "es": "el cumpleaños",
+     "it": "il compleanno",
+     "_pos": [
+      46,
+      379
+     ],
+     "_flags": []
+    },
+    {
+     "en": "procession",
+     "fr": "le défilé",
+     "de": "der Umzug",
+     "es": "el deslile",
+     "it": "la processione",
+     "_pos": [
+      567,
+      703
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Ramadan",
+     "fr": "le Ramadan",
+     "de": "der Ramadan",
+     "es": "el Ramadán",
+     "it": "il Ramadan",
+     "_pos": [
+      684,
+      703
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "carnival",
+     "fr": "le carnaval",
+     "de": "der Karneval",
+     "es": "el carnaval",
+     "it": "il carnevale",
+     "_pos": [
+      260,
+      705
+     ],
+     "_flags": []
+    },
+    {
+     "en": "New Year",
+     "fr": "le Nouvel An",
+     "de": "das Neujahr",
+     "es": "el Año Nuevo",
+     "it": "il Capodanno",
+     "_pos": [
+      48,
+      706
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "ribbon",
+     "fr": "le ruban",
+     "de": "das Band",
+     "es": "la cinta",
+     "it": "il nastro",
+     "_pos": [
+      212,
+      771
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Diwali",
+     "fr": "la D iw a li",
+     "de": "das Diwali",
+     "es": "el D iw a li",
+     "it": "il Diwali",
+     "_pos": [
+      686,
+      1031
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Halbween",
+     "fr": "la veille de la Tous saint",
+     "de": "das Halloween",
+     "es": "el día de Halloween",
+     "it": "la vigilia d'Ognissanti",
+     "_pos": [
+      453,
+      1032
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "Thanksgiving",
+     "fr": "la fête de Thanksgiving",
+     "de": "der Thanksgiving Day",
+     "es": "el día de Acción de Gracias",
+     "it": "il giorno del ringraziamento",
+     "_pos": [
+      49,
+      1033
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "Easter",
+     "fr": "Pâques",
+     "de": "das Ostern",
+     "es": "la Pascua",
+     "it": "la Pasqua",
+     "_pos": [
+      300,
+      1033
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 5,
+  "flagged": 11,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,603 @@
+{
+ "page": 92,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "comunicazioni",
+   "names": {
+    "en": "communications",
+    "fr": "les communications",
+    "de": "die kommunikation",
+    "es": "las comunicaciones",
+    "it": "le comunicazioni"
+   },
+   "entries": [
+    {
+     "en": "postal worker",
+     "fr": "postier",
+     "de": "Postbeamte",
+     "es": "empleado de correos",
+     "it": "impiegato delle poste",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 10,
+      "es": 17,
+      "it": 19
+     }
+    },
+    {
+     "en": "window",
+     "fr": "guichet",
+     "de": "Schalter",
+     "es": "ventanilla",
+     "it": "sportello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "scale",
+     "fr": "balance",
+     "de": "Waage",
+     "es": "báscula",
+     "it": "bilancia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "counter",
+     "fr": "guichet",
+     "de": "Schalter",
+     "es": "mostrador",
+     "it": "banco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "post office",
+     "fr": "poste",
+     "de": "Post",
+     "es": "oficina de correos",
+     "it": "ufficio postale",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 4,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "postmark",
+     "fr": "tampon de la poste",
+     "de": "Poststempel",
+     "es": "matasellos",
+     "it": "timbro postale",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 11,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "stamp",
+     "fr": "timbre",
+     "de": "Briefmarke",
+     "es": "timbre",
+     "it": "francobollo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "address",
+     "fr": "adresse",
+     "de": "Adresse",
+     "es": "dirección",
+     "it": "indirizzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "zip code",
+     "fr": "code postal",
+     "de": "Postleitzahl",
+     "es": "código postal",
+     "it": "codice di avviamento postale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 12,
+      "es": 12,
+      "it": 25
+     }
+    },
+    {
+     "en": "mail carrier",
+     "fr": "facteur",
+     "de": "Briefträger",
+     "es": "cartero",
+     "it": "postino",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "envelope",
+     "fr": "enveloppe",
+     "de": "Umschlag",
+     "es": "sobre",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 5
+     }
+    },
+    {
+     "en": "lener",
+     "fr": "a i",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 2
+     }
+    },
+    {
+     "en": "return address",
+     "fr": "expéditeur",
+     "de": "Absender",
+     "es": "remitente",
+     "it": "mittente",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 10,
+      "de": 8,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "delivery",
+     "fr": "distribution",
+     "de": "Zustellung",
+     "es": "reparto",
+     "it": "consegna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "fragile",
+     "fr": "fragile",
+     "de": "zerbrechlich",
+     "es": "frágil",
+     "it": "fragile",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "do not bend (v)",
+     "fr": "ne pas plier",
+     "de": "nicht falten",
+     "es": "no doblar",
+     "it": "non piegare",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "fr": "lettre",
+     "de": "Brief",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 5
+     }
+    },
+    {
+     "fr": "carta",
+     "es": "lettera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "es": 7
+     }
+    },
+    {
+     "en": "by airmail",
+     "fr": "par avion",
+     "de": "per Luftpost",
+     "es": "por avión",
+     "it": "posta aerea",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "signature",
+     "fr": "signature",
+     "de": "Unterschrift",
+     "es": "firma",
+     "it": "firma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "postage",
+     "fr": "tarif d'affranchissement",
+     "de": "Postgebühr",
+     "es": "franqueo",
+     "it": "affrancatura",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 22,
+      "de": 10,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "mailbag",
+     "fr": "sac postal",
+     "de": "Postsack",
+     "es": "bolsa de correo",
+     "it": "sacco postale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "this way up",
+     "fr": "dessus",
+     "de": "oben",
+     "es": "hacia arriba",
+     "it": "alto",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 4,
+      "es": 11,
+      "it": 4
+     }
+    },
+    {
+     "en": "pickup",
+     "fr": "levée",
+     "de": "Leerung",
+     "es": "recogida",
+     "it": "raccolta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "postai order",
+     "fr": "mandat postal",
+     "de": "Postanweisung",
+     "es": "giro postal",
+     "it": "vaglia postale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 13,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "telegram",
+     "fr": "Télégramme",
+     "de": "Telegramm",
+     "es": "telegrama",
+     "it": "telegramma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "fax",
+     "fr": "fax",
+     "de": "Fax",
+     "es": "fax",
+     "it": "fax",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "es": "correo certificado",
+     "it": "posta raccomandata",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "es": 17,
+      "it": 17
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

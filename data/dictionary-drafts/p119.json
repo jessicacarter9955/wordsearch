@@ -1,0 +1,526 @@
+{
+ "page": 119,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "F O O D • I .A N O U R R IT U R E • DIE NAHRUNGSMITTEL • L O S A U M E N T O S • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "Demes and melons • les fruits rouges et les melons • das Beerenobst und die Melonen • las bayas y los melones • i frutti di bosco c i meloni",
+   "parts": [
+    "deme sand melons",
+    "les fruits rouges et les melons",
+    "das beerenobst und die melonen",
+    "las bayas y los melones",
+    "i frutti di bosco c i meloni"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "i s",
+   "parts": [
+    "i s"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "##",
+   "parts": [
+    "##"
+   ],
+   "entries": [
+    {
+     "en": "raspberry",
+     "fr": "la framboise",
+     "de": "die Himbeere",
+     "es": "la frambuesa",
+     "it": "il lampone",
+     "_pos": [
+      242,
+      233
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Fxraw berry",
+     "fr": "la fraise",
+     "de": "oe Erdbeere",
+     "es": "la Fresa",
+     "it": "a fragola",
+     "_pos": [
+      22,
+      234
+     ],
+     "_flags": [
+      "en:case",
+      "es:case"
+     ]
+    },
+    {
+     "en": "melon",
+     "fr": "le melon",
+     "de": "die Melone",
+     "es": "el melón",
+     "it": "il melone",
+     "_pos": [
+      456,
+      330
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grapes",
+     "fr": "les raisins",
+     "de": "die Weintrauben",
+     "es": "la uva",
+     "it": "l'uva",
+     "_pos": [
+      668,
+      330
+     ],
+     "_flags": []
+    },
+    {
+     "en": "redeurrant",
+     "fr": "la groseille",
+     "de": "die Johannisbeere",
+     "es": "la grosella",
+     "it": "il ribes rosso",
+     "_pos": [
+      242,
+      380
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rind",
+     "fr": "l'écorce",
+     "de": "die Schale",
+     "es": "la cáscara",
+     "it": "la buccia",
+     "_pos": [
+      456,
+      413
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      22,
+      415
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "hssckberry",
+      "la mure |_",
+      "3",
+      "Brombeere",
+      "la ora",
+      "la mora"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "» • • • •",
+   "parts": [
+    "»"
+   ],
+   "entries": [
+    {
+     "en": "seed",
+     "fr": "le pépin",
+     "de": "der Kern",
+     "es": "la semilla",
+     "it": "il seme",
+     "_pos": [
+      457,
+      511
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "6000",
+   "parts": [],
+   "entries": [
+    {
+     "en": "blackcurrant",
+     "fr": "le cassis",
+     "de": "die schwarze Johannisbeere",
+     "es": "la grosella negra",
+     "it": "il ribes nero",
+     "_pos": [
+      244,
+      528
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Perry",
+     "fr": "la canncberge",
+     "de": "ae Preiselbeere",
+     "es": "el «ondano rojo",
+     "it": "l'ossieocco",
+     "_pos": [
+      32,
+      547
+     ],
+     "_flags": [
+      "en:case",
+      "es:weird:«ondano"
+     ]
+    },
+    {
+     "en": "flesh",
+     "fr": "la pulpe",
+     "de": "das Fruchtfleisch",
+     "es": "la pulpa",
+     "it": "la polpa",
+     "_pos": [
+      457,
+      610
+     ],
+     "_flags": []
+    },
+    {
+     "en": "white currant",
+     "fr": "la groseille bianche",
+     "de": "die weiße Johannisbeere",
+     "es": "la grosella blanca",
+     "it": "il ribes bianco",
+     "_pos": [
+      245,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      24,
+      710
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "I Pajeòerry",
+      "la m yrtille",
+      "2-r Heidelbeere",
+      "I",
+      "arándano",
+      "il mirtillo"
+     ]
+    },
+    {
+     "en": "watermelon",
+     "fr": "la pastèque",
+     "de": "die Wassermelone",
+     "es": "la sandía",
+     "it": "l'anguria",
+     "_pos": [
+      458,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Are they ripe?",
+     "fr": "Est-ce qu'ils sont murs?",
+     "de": "Sind sie reif?",
+     "es": "Están maduros?",
+     "it": "Sono maturi?",
+     "_pos": [
+      656,
+      789
+     ],
+     "_flags": [
+      "en:weird:ripe?",
+      "en:case",
+      "fr:weird:murs?",
+      "fr:case",
+      "de:weird:reif?",
+      "es:weird:maduros?",
+      "es:case",
+      "it:weird:maturi?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "seedless",
+     "fr": "satis pépins",
+     "de": "kernlos",
+     "es": "sin sem illas",
+     "it": "senza semi",
+     "_pos": [
+      556,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sour",
+     "fr": "aigre",
+     "de": "sauer",
+     "es": "amargo",
+     "it": "amaro",
+     "_pos": [
+      358,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crisp",
+     "fr": "croquant",
+     "de": "knackig",
+     "es": "fresco",
+     "it": "croccante",
+     "_pos": [
+      456,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rhubarb",
+     "fr": "la rhubarbe",
+     "de": "der Rhabarber",
+     "es": "el ruibarbo",
+     "it": "il rabarbaro",
+     "_pos": [
+      258,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cfa-.perry",
+     "fr": "la loganberry",
+     "de": "e loganbeere",
+     "es": "la frambuesa an",
+     "it": "la mora-lampone",
+     "_pos": [
+      34,
+      858
+     ],
+     "_flags": [
+      "en:weird:cfa-.perry"
+     ]
+    },
+    {
+     "en": "May 1 try one?",
+     "fr": "Je peux goûter?",
+     "de": "Könnte ich eine probieren?",
+     "es": "Puedo probar uno?",
+     "it": "Posso assaggiarne uno?",
+     "_pos": [
+      656,
+      887
+     ],
+     "_flags": [
+      "en:num:1",
+      "en:weird:one?",
+      "en:case",
+      "fr:weird:goûter?",
+      "fr:case",
+      "de:weird:probieren?",
+      "es:weird:uno?",
+      "es:case",
+      "it:weird:uno?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "juice",
+     "fr": "le jus",
+     "de": "der Saft",
+     "es": "jugo",
+     "it": "il succo",
+     "_pos": [
+      557,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rotten",
+     "fr": "pourri",
+     "de": "faul",
+     "es": "podrido",
+     "it": "marcio",
+     "_pos": [
+      458,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fiber",
+     "fr": "la fibre",
+     "de": "die Faser",
+     "es": "la fibra",
+     "it": "la fibra",
+     "_pos": [
+      258,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fresh",
+     "fr": "frais",
+     "de": "frisch",
+     "es": "fresco",
+     "it": "fresco",
+     "_pos": [
+      358,
+      890
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "fr £",
+   "parts": [
+    "fr £"
+   ],
+   "entries": [
+    {
+     "en": "How long will they keep?",
+     "fr": "Ils se gardent combien de temps?",
+     "de": "Wie lange halten sie sich?",
+     "es": "Hasta cuando durarán?",
+     "it": "Per quanto tempo si mantengono?",
+     "_pos": [
+      658,
+      985
+     ],
+     "_flags": [
+      "en:weird:keep?",
+      "en:case",
+      "fr:weird:temps?",
+      "fr:case",
+      "de:weird:sich?",
+      "es:weird:durarán?",
+      "es:case",
+      "it:weird:mantengono?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "core",
+     "fr": "le trognon",
+     "de": "das Kerngehäuse",
+     "es": "corazón",
+     "it": "il torsolo",
+     "_pos": [
+      558,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pulp",
+     "fr": "la pulpe",
+     "de": "das Fruchtmark",
+     "es": "la pulpa",
+     "it": "la polpa",
+     "_pos": [
+      458,
+      988
+     ],
+     "_flags": []
+    },
+    {
+     "en": "juicy",
+     "fr": "juteux",
+     "de": "saftig",
+     "es": "jugoso",
+     "it": "sugoso",
+     "_pos": [
+      358,
+      989
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweet",
+     "fr": "sucré",
+     "de": "süß",
+     "es": "dulce",
+     "it": "dolce",
+     "_pos": [
+      260,
+      989
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fTOseberry",
+     "fr": "la groseille à paquereau",
+     "de": "die Stachelbeere",
+     "es": "capulín",
+     "it": "l'uva spina",
+     "_pos": [
+      30,
+      1022
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "#",
+   "pos": [
+    44,
+    343
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "6",
+   "pos": [
+    145,
+    343
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "A ié",
+   "pos": [
+    272,
+    635
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "6",
+   "pos": [
+    162,
+    990
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 31,
+  "complete_clean": 15,
+  "flagged": 16,
+  "missing_lang": 0,
+  "leftovers": 4,
+  "subcats": 6
+ }
+}

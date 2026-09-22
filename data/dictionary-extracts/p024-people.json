@@ -1,0 +1,481 @@
+{
+ "page": 24,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "macro_slug": "persone",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "eventi-della-vita",
+   "names": {
+    "en": "life events",
+    "fr": "les événements de la vie",
+    "de": "die Ereignisse des Lebens",
+    "es": "los acontecimientos de la vida",
+    "it": "gli avvenimenti della vita"
+   },
+   "entries": [
+    {
+     "en": "be born (v)",
+     "fr": "naître",
+     "de": "geboren werden",
+     "es": "nacer",
+     "it": "nascere",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 13,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "start school (v)",
+     "fr": "commencer à l'école",
+     "de": "zur Schule kommen",
+     "es": "empezar el colegio",
+     "it": "iniziare la scuola",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 15,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "make friends (v)",
+     "fr": "faire des amis",
+     "de": "sich befreunden",
+     "es": "hacer amigos",
+     "it": "fare amicizia",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 14,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "graduate (v)",
+     "fr": "obtenir sa licence",
+     "de": "graduieren",
+     "es": "graduarse",
+     "it": "laurearsi",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "get a job (v)",
+     "fr": "trouver un emploi",
+     "de": "Stelle bekommen",
+     "es": "conseguir un trabajo",
+     "it": "trovare un lavoro",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "eine"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 14,
+      "es": 18,
+      "it": 15
+     }
+    },
+    {
+     "en": "fall in love (v)",
+     "fr": "tomber amoureux",
+     "de": "sich verlieben",
+     "es": "enamorar se",
+     "it": "innamorarsi",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 13,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "get married (v)",
+     "fr": "se marier",
+     "de": "heiraten",
+     "es": "casarse",
+     "it": "sposarsi",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "have a baby (v)",
+     "fr": "avoir un bébé",
+     "de": "Baby bekommen",
+     "es": "tener un hijo",
+     "it": "avere un bambino",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "ein"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 12,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "christening",
+     "fr": "baptême",
+     "de": "Taufe",
+     "es": "bautizo",
+     "it": "battesimo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "die (v)",
+     "fr": "mourir",
+     "de": "sterben",
+     "es": "morir",
+     "it": "morire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "bar mitzvah",
+     "fr": "bar-mitzvah",
+     "de": "Bar Mizwa",
+     "es": "bar mitzvah",
+     "it": "bar mitzvah",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 8,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "make a will (v)",
+     "fr": "faire son testament",
+     "de": "sein Testament machen",
+     "es": "hacer testamento",
+     "it": "fare testamento",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 19,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "anniversary",
+     "fr": "anniversaire de mariage",
+     "de": "Hochzeitstag",
+     "es": "aniversario",
+     "it": "anniversario di matrimonio",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 21,
+      "de": 12,
+      "es": 11,
+      "it": 24
+     }
+    },
+    {
+     "en": "birth certificate",
+     "fr": "acte de naissance",
+     "de": "Geburtsurkunde",
+     "es": "acta de nacimiento",
+     "it": "certificato di nascita",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 15,
+      "de": 14,
+      "es": 16,
+      "it": 20
+     }
+    },
+    {
+     "en": "wedding",
+     "fr": "mariage",
+     "de": "Hochzeit",
+     "es": "boda",
+     "it": "matrimonio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 4,
+      "it": 10
+     }
+    },
+    {
+     "en": "emigrate (v)",
+     "fr": "émigrer",
+     "de": "emigrieren",
+     "es": "emigrar",
+     "it": "emigrare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "wedding reception",
+     "fr": "repas de noces",
+     "de": "Hochzeitsfeier",
+     "es": "banquete de boda",
+     "it": "ricevimento nuziale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 12,
+      "de": 14,
+      "es": 14,
+      "it": 18
+     }
+    },
+    {
+     "en": "retire (v)",
+     "fr": "prendre sa retraite",
+     "de": "in den Ruhestand treten",
+     "es": "retirarse",
+     "it": "andare in pensione",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 20,
+      "es": 9,
+      "it": 16
+     }
+    },
+    {
+     "en": "honeymoon",
+     "fr": "voyage de noces",
+     "de": "Hochzeitsreise",
+     "es": "luna de miel",
+     "it": "viaggio di nozze",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 14,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "divorce",
+     "fr": "divorce",
+     "de": "Scheidung",
+     "es": "divorcio",
+     "it": "divorzio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "funeral",
+     "fr": "enterrement",
+     "de": "Begräbnis",
+     "es": "funeral",
+     "it": "funerale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "0.12 'fëv' e 0.13 apostrofo = rumore illustrazione, eliminati."
+}

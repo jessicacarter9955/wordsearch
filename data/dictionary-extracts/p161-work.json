@@ -1,0 +1,640 @@
+{
+ "page": 161,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "ufficio",
+   "names": {
+    "en": "office i",
+    "fr": "le bureau i",
+    "de": "das büro",
+    "es": "la oficina",
+    "it": "l'ufficio"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "office",
+     "fr": "le",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 2
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "out-tray",
+     "fr": "corbeille départ",
+     "de": "Ablage für Ausgänge",
+     "es": "bandeja de salida",
+     "it": "vassoio m partenza",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 17,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "file",
+     "fr": "classeur",
+     "de": "Ordner",
+     "es": "carpeta",
+     "it": "cartellina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "in-tray",
+     "fr": "corbeille arrivée",
+     "de": "Ablage für Eingänge",
+     "es": "bandeja de entrada",
+     "it": "vassoio in arrivo",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 16,
+      "de": 17,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "desktop organizer",
+     "fr": "porte-crayons",
+     "de": "Stifthalter",
+     "es": "portaplumas",
+     "it": "portapenne",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 12,
+      "de": 11,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "monitor",
+     "fr": "moniteur",
+     "de": "Bildschirm",
+     "es": "pantalla",
+     "it": "monitor",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "computer",
+     "fr": "ordinateur",
+     "de": "Computer",
+     "es": "com putadora",
+     "it": "computer",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "keyboard",
+     "fr": "clavier",
+     "de": "Tastatur",
+     "es": "teclado",
+     "it": "tastiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "notebook",
+     "fr": "carnet",
+     "de": "Notizbuch",
+     "es": "cuaderno",
+     "it": "blocco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 9,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "telephone",
+     "fr": "téléphone",
+     "de": "Telefon",
+     "es": "teléfono",
+     "it": "telefono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "label",
+     "fr": "ctiqucttc",
+     "de": "Schild",
+     "es": "etiqueta",
+     "it": "etichetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "desk",
+     "fr": "bureau",
+     "de": "Schreibtisch",
+     "es": "escritorio",
+     "it": "scrivania",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 12,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "I drawer",
+     "fr": "tiroir",
+     "de": "Schublade",
+     "es": "cajón",
+     "it": "cassetto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "filing cabinet",
+     "fr": "meuble-classeur",
+     "de": "Aktenschrank",
+     "es": "archivero",
+     "it": "schedario",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 12,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "wastebasket",
+     "fr": "corbeille à papier",
+     "de": "Papierkorb",
+     "es": "bote de basura",
+     "it": "cestino",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 10,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "drawer unit",
+     "fr": "meuble à tiroirs",
+     "de": "Schreibtischschränkchen",
+     "es": "cajonera",
+     "it": "cassettiera",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 23,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "swivel chair'",
+     "fr": "chaise tournante",
+     "de": "Drehstuhl",
+     "es": "silla giratoria",
+     "it": "sedia girevole",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 9,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "enlarge (v)",
+     "fr": "agrandir",
+     "de": "vergrößern",
+     "es": "ampliar",
+     "it": "ingrandire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "print (v)",
+     "fr": "imprimer",
+     "de": "drucken",
+     "es": "imprimir",
+     "it": "stampare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": "apparecchiature-da-ufficio",
+   "names": {
+    "en": "office equipment",
+    "fr": "l'équipement de bureau",
+    "de": "die büroausstattung",
+    "es": "el equipo de oficina",
+    "it": "l'apparecchiature da ufficio"
+   },
+   "entries": [
+    {
+     "en": "fax",
+     "fr": "fax",
+     "de": "Fax",
+     "es": "fax",
+     "it": "fax",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "paper tray",
+     "fr": "magasin à papier",
+     "de": "Papierbehälter",
+     "es": "bandeja para el papel",
+     "it": "contenitore per la carta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 14,
+      "es": 18,
+      "it": 21
+     }
+    },
+    {
+     "en": "paper guide",
+     "fr": "guide",
+     "de": "Papierführung",
+     "es": "guía",
+     "it": "guida",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 13,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "reduce (v)",
+     "fr": "réduire",
+     "de": "verkleinern",
+     "es": "reducir",
+     "it": "ridurre",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "copy (v)",
+     "fr": "photocopier",
+     "de": "kopieren",
+     "es": "fotocopiar",
+     "it": "copiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 8,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "1 need to make some copies",
+     "fr": "l 'ai besoin de faire des photocopies",
+     "de": "Ich möchte fotokopieren",
+     "es": "N ecesito sacar unas copias",
+     "it": "Devo fare delle copie",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 21,
+      "fr": 30,
+      "de": 21,
+      "es": 23,
+      "it": 18
+     }
+    },
+    {
+     "en": "printer",
+     "fr": "imprimante",
+     "de": "Drucker",
+     "es": "impresora",
+     "it": "stampante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "fax machine",
+     "fr": "fax",
+     "de": "Faxgerät",
+     "es": "fax",
+     "it": "fax",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 3,
+      "de": 8,
+      "es": 3,
+      "it": 3
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,488 @@
+{
+ "page": 36,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "styles • les coiffures • die Frisuren • los estilos • le acconciature",
+   "parts": [
+    "styles",
+    "les coiffures",
+    "die frisuren",
+    "los estilos",
+    "le acconciature"
+   ],
+   "entries": [
+    {
+     "en": "ribbon",
+     "fr": "le ruban",
+     "de": "das Band",
+     "es": "el listón",
+     "it": "il",
+     "_pos": [
+      176,
+      122
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pigtails",
+     "fr": "les couettes",
+     "de": "die Schwänzchen",
+     "es": "las coletas",
+     "it": "i codini",
+     "_pos": [
+      716,
+      268
+     ],
+     "_flags": []
+    },
+    {
+     "en": "French braid",
+     "fr": "Il rouleau",
+     "de": "die Hochfrisur",
+     "es": "el chongo francés",
+     "it": "la piega alla francese",
+     "_pos": [
+      378,
+      269
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case"
+     ]
+    },
+    {
+     "_pos": [
+      548,
+      269
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "bun",
+      "le",
+      "chignon",
+      "der Haarknoten",
+      "el chongo",
+      "la crocchia"
+     ]
+    },
+    {
+     "en": "braid",
+     "fr": "la natte",
+     "de": "der Zopf",
+     "es": "la trenza",
+     "it": "la treccia",
+     "_pos": [
+      218,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ponytail",
+     "fr": "la queue de cheval",
+     "de": "der Pferdeschwanz",
+     "es": "la cola de caballo",
+     "it": "la coda di cavallo",
+     "_pos": [
+      38,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "straight",
+     "fr": "raide",
+     "de": "glatt",
+     "es": "lacio",
+     "it": "lisci",
+     "_pos": [
+      742,
+      489
+     ],
+     "_flags": []
+    },
+    {
+     "en": "perm",
+     "fr": "Li perm anente",
+     "de": "die Dauerwelle",
+     "es": "la permanente",
+     "it": "la permanente",
+     "_pos": [
+      544,
+      489
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "_pos": [
+      216,
+      490
+     ],
+     "_flags": [
+      "oriz:7p"
+     ],
+     "_parts": [
+      "crop",
+      "la coupe courte",
+      "der Kurzhaarschnitt",
+      "el pelo",
+      "rizado",
+      "ricci corto",
+      "la sfumatura alta"
+     ]
+    },
+    {
+     "en": "curly",
+     "fr": "frisé",
+     "de": "kraus",
+     "_pos": [
+      391,
+      490
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "bob",
+     "fr": "au carré",
+     "de": "der Bubikopf",
+     "es": "el príncipe valiente",
+     "it": "il caschetto",
+     "_pos": [
+      40,
+      491
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roots",
+     "fr": "les racines",
+     "de": "die Wurzeln",
+     "es": "las raices",
+     "it": "le radici",
+     "_pos": [
+      176,
+      556
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hair band",
+     "fr": "la bande de cheveux",
+     "de": "das Haarband",
+     "es": "la goma del pelo",
+     "it": "l'elastico",
+     "_pos": [
+      564,
+      571
+     ],
+     "_flags": []
+    },
+    {
+     "en": "greasy",
+     "fr": "gras",
+     "de": "fettig",
+     "es": "graso",
+     "it": "grassi",
+     "_pos": [
+      738,
+      571
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dry",
+     "fr": "sec",
+     "de": "trocken",
+     "es": "seco",
+     "it": "secchi",
+     "_pos": [
+      738,
+      673
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trim (v)",
+     "fr": "rafraîchir",
+     "de": "nachschneiden",
+     "es": "despuntar",
+     "it": "spuntare",
+     "_pos": [
+      564,
+      673
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wig",
+     "fr": "la perruque",
+     "de": "die Perücke",
+     "es": "la peluca",
+     "it": "la parrucca",
+     "_pos": [
+      392,
+      686
+     ],
+     "_flags": []
+    },
+    {
+     "en": "highlights",
+     "fr": "les reflets",
+     "de": "die Strähnen",
+     "es": "las luces",
+     "it": "colpi di sole",
+     "_pos": [
+      42,
+      688
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bald",
+     "fr": "chauve",
+     "de": "kahl",
+     "es": "calvo",
+     "it": "calvo",
+     "_pos": [
+      229,
+      688
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "colours • les couleurs • die Haarfarben • los colores • i colori",
+   "parts": [
+    "colours",
+    "les couleurs",
+    "die haarfarben",
+    "los colores",
+    "i colori"
+   ],
+   "entries": [
+    {
+     "en": "barber",
+     "fr": "le coiffeur",
+     "de": "der Herrenfriseur",
+     "es": "el peluquero",
+     "it": "il barbiere",
+     "_pos": [
+      564,
+      775
+     ],
+     "_flags": []
+    },
+    {
+     "en": "normal",
+     "fr": "normal",
+     "de": "normal",
+     "es": "normal",
+     "it": "normali",
+     "_pos": [
+      740,
+      775
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "A",
+   "parts": [
+    "a"
+   ],
+   "entries": [
+    {
+     "en": "dandruff",
+     "fr": "les pellicules",
+     "de": "die Schuppen",
+     "es": "la caspa",
+     "it": "la forfora",
+     "_pos": [
+      565,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scalp",
+     "fr": "le cuir chevelu",
+     "de": "die Kopfhaut",
+     "es": "el cuero cabelludo",
+     "it": "il cuoio capelluto",
+     "_pos": [
+      740,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "red",
+     "fr": "roux",
+     "de": "rot",
+     "es": "pelirrojo",
+     "it": "rosso",
+     "_pos": [
+      424,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "auburn",
+     "fr": "auburn",
+     "de": "rotbraun",
+     "es": "rojizo",
+     "it": "castano",
+     "_pos": [
+      296,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brunette",
+     "fr": "châtain",
+     "de": "brünett",
+     "es": "castaño",
+     "it": "bruno",
+     "_pos": [
+      162,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blonde",
+     "fr": "blond",
+     "de": "blond",
+     "es": "güero",
+     "it": "biondo",
+     "_pos": [
+      42,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "straighten (v)",
+     "fr": "décrêper",
+     "de": "glätten",
+     "es": "alaciar",
+     "it": "lisciare",
+     "_pos": [
+      740,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "split ends",
+     "fr": "les fourches",
+     "de": "die gespaltenen Haarspitzen",
+     "es": "la orzitela",
+     "it": "le doppie punte",
+     "_pos": [
+      566,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "white",
+     "fr": "blanc",
+     "de": "weiß",
+     "es": "blanco",
+     "it": "bianco",
+     "_pos": [
+      296,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dyed",
+     "fr": "teint",
+     "de": "gefärbt",
+     "es": "teñido",
+     "it": "tinto",
+     "_pos": [
+      424,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gray",
+     "fr": "gris",
+     "de": "grau",
+     "es": "gris",
+     "it": "grigio",
+     "_pos": [
+      170,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "black",
+     "fr": "noir",
+     "de": "schwarz",
+     "es": "negro »nero",
+     "_pos": [
+      44,
+      1032
+     ],
+     "_flags": [
+      "missing:it",
+      "es:weird:»nero"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "f",
+   "pos": [
+    322,
+    989
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "y #11( 2 »",
+   "pos": [
+    358,
+    990
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 33,
+  "complete_clean": 8,
+  "flagged": 25,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 3
+ }
+}

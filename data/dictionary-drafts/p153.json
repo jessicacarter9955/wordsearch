@@ -1,0 +1,342 @@
+{
+ "page": 153,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "STUDY • L'ÉTUDE • DAS LERNEN • EL ESTl .'DIO • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "colored pencil",
+     "fr": "le crayon de couleur",
+     "de": "der Buntstift",
+     "es": "el color",
+     "it": "la matita colorata",
+     "_pos": [
+      701,
+      75
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pendi sharpener",
+     "fr": "le taille-crayon",
+     "de": "der Spitzer",
+     "es": "el sacapuntas",
+     "it": "il temperamatite",
+     "_pos": [
+      755,
+      207
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pencil",
+     "fr": "le crayon",
+     "de": "der Bleistift",
+     "es": "el lápiz",
+     "it": "la matita",
+     "_pos": [
+      458,
+      291
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pen",
+     "fr": "le stylo",
+     "de": "der Füller",
+     "es": "la pluma",
+     "it": "la penna",
+     "_pos": [
+      242,
+      293
+     ],
+     "_flags": []
+    },
+    {
+     "en": "overhead projector",
+     "fr": "le rétro projecteur",
+     "de": "der Overhead projektor",
+     "es": "el proyector de acetatos",
+     "it": "la lavagna luminosa",
+     "_pos": [
+      26,
+      294
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eraser",
+     "fr": "la gomme",
+     "de": "der Radiergummi",
+     "es": "la goma",
+     "it": "la gomma",
+     "_pos": [
+      674,
+      374
+     ],
+     "_flags": []
+    },
+    {
+     "en": "notebook",
+     "fr": "le cahier",
+     "de": "das Heft",
+     "es": "el cuaderno",
+     "it": "il quaderno",
+     "_pos": [
+      74,
+      377
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ruler",
+     "fr": "la régie",
+     "de": "das Lineai",
+     "es": "la regia",
+     "it": "il righello",
+     "_pos": [
+      676,
+      607
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pendi case",
+     "fr": "la trousse",
+     "de": "das Federmäppchen",
+     "es": "el estuche",
+     "it": "l'astuccio",
+     "_pos": [
+      460,
+      607
+     ],
+     "_flags": []
+    },
+    {
+     "en": "textbook",
+     "fr": "le livre",
+     "de": "das Schulbuch",
+     "es": "el libro de texto",
+     "it": "il libro di testo",
+     "_pos": [
+      30,
+      626
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grade",
+     "fr": "la note",
+     "de": "die Note",
+     "es": "la calificación",
+     "it": "il livello",
+     "_pos": [
+      724,
+      682
+     ],
+     "_flags": []
+    },
+    {
+     "en": "answer",
+     "fr": "la réponse",
+     "de": "die Antwort",
+     "es": "la respuesta",
+     "it": "la risposta",
+     "_pos": [
+      612,
+      682
+     ],
+     "_flags": []
+    },
+    {
+     "en": "principal",
+     "fr": "le directeur",
+     "de": "der Schulleiter",
+     "es": "el director",
+     "it": "il preside",
+     "_pos": [
+      476,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "year",
+     "fr": "la classe",
+     "de": "die Klasse",
+     "es": "el año",
+     "it": "la classe",
+     "_pos": [
+      726,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "homework",
+     "fr": "les devoirs",
+     "de": "die Hausaufgabe",
+     "es": "la tarea",
+     "it": "i compiti",
+     "_pos": [
+      613,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "class",
+     "fr": "la leçon",
+     "de": "die Stunde",
+     "es": "la lección",
+     "it": "la lezione",
+     "_pos": [
+      476,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "answer (v)",
+     "fr": "répondre",
+     "de": "antworten",
+     "es": "contestar",
+     "it": "rispondere",
+     "_pos": [
+      248,
+      859
+     ],
+     "_flags": []
+    },
+    {
+     "en": "question (v)",
+     "fr": "questionner",
+     "de": "fragen",
+     "es": "preguntar",
+     "it": "domandare",
+     "_pos": [
+      31,
+      860
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dictionary",
+     "fr": "le dictionnaire",
+     "de": "das Wörterbuch",
+     "es": "el diccionario",
+     "it": "il dizionario",
+     "_pos": [
+      726,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "essay",
+     "fr": "la rédaction",
+     "de": "der Aufsatz",
+     "es": "la redacción",
+     "it": "il tema",
+     "_pos": [
+      614,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "take notes (v)",
+     "fr": "prendre des notes",
+     "de": "Notizen machen",
+     "es": "tom ar apuntes",
+     "it": "prendere appunti",
+     "_pos": [
+      478,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "examination",
+     "fr": "l'examen",
+     "de": "die Prüfung",
+     "es": "el examen",
+     "it": "l'esame",
+     "_pos": [
+      614,
+      989
+     ],
+     "_flags": []
+    },
+    {
+     "en": "encyclopedia",
+     "fr": "l'encyclopédie",
+     "de": "das Lexikon",
+     "es": "la enciclopedia",
+     "it": "l'enciclopedia",
+     "_pos": [
+      727,
+      989
+     ],
+     "_flags": []
+    },
+    {
+     "en": "question",
+     "fr": "la question",
+     "de": "die Frage",
+     "es": "la pregunta",
+     "it": "la domanda",
+     "_pos": [
+      478,
+      990
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leam (v)",
+     "fr": "apprendre",
+     "de": "lernen",
+     "es": "aprender",
+     "it": "imparare",
+     "_pos": [
+      248,
+      1042
+     ],
+     "_flags": []
+    },
+    {
+     "en": "discuss (v)",
+     "fr": "discuter",
+     "de": "diskutieren",
+     "es": "discutir",
+     "it": "discutere",
+     "_pos": [
+      32,
+      1044
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 13,
+  "flagged": 13,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

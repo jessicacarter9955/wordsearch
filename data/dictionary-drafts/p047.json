@@ -1,0 +1,401 @@
+{
+ "page": 47,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H E A LT H • I A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "optician • l'opticien • der Augenoptiker • el óptico • l'ottico",
+   "parts": [
+    "optician",
+    "l'opticien",
+    "der augenoptiker",
+    "el óptico",
+    "l'ottico"
+   ],
+   "entries": [
+    {
+     "en": "frame",
+     "fr": "la monture",
+     "de": "das Brillengestell",
+     "es": "la montura",
+     "it": "la montatura",
+     "_pos": [
+      709,
+      108
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lens",
+     "fr": "le verre",
+     "de": "das Glas",
+     "es": "el cristal",
+     "it": "la lente",
+     "_pos": [
+      548,
+      110
+     ],
+     "_flags": []
+    },
+    {
+     "en": "case",
+     "fr": "Perni",
+     "de": "das Futteral",
+     "es": "el estuche",
+     "it": "la custodia",
+     "_pos": [
+      370,
+      112
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "sunglasses",
+     "fr": "les lunettes de soleil",
+     "de": "die Sonnenbrille",
+     "es": "los lentes obscuros",
+     "it": "gli occhiali da sole",
+     "_pos": [
+      606,
+      321
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glasses",
+     "fr": "les lunettes",
+     "de": "die Brille",
+     "es": "los lentes",
+     "it": "gli occhiali",
+     "_pos": [
+      372,
+      324
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cleaning fluid",
+     "fr": "la solution nettoyante",
+     "de": "das Reinigungsmittel",
+     "es": "el líquido limpiador",
+     "it": "la soluzione per la pulizia",
+     "_pos": [
+      373,
+      389
+     ],
+     "_flags": []
+    },
+    {
+     "en": "disinfectant solution",
+     "fr": "la solution désinfectante",
+     "de": "das Desinfektionsmittel",
+     "es": "la solución desinfectante",
+     "it": "la soluzione disinfettante",
+     "_pos": [
+      376,
+      520
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Pétui à lentilles",
+     "de": "der Kontaktlinsenbehalter",
+     "es": "el estuche para los pupilentes",
+     "it": "la custodia per le lenti",
+     "_pos": [
+      678,
+      534
+     ],
+     "_flags": [
+      "missing:fr",
+      "slot-ambig",
+      "en:case"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "contad lenses",
+     "fr": "les lentilles de contact",
+     "de": "die Kontaktlinsen",
+     "es": "los pupilentes",
+     "it": "le lenti a contatto",
+     "_pos": [
+      376,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "retest",
+     "fr": "Pcxam en de la vue",
+     "de": "der Sehtest",
+     "es": "el camen de ojos",
+     "it": "l'esame della vista",
+     "_pos": [
+      48,
+      621
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "astigmatism",
+     "fr": "l'astigmatisme",
+     "de": "der Astigmatismus",
+     "es": "el astigmatismo",
+     "it": "l'astigmatismo",
+     "_pos": [
+      734,
+      672
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vision",
+     "fr": "la vue",
+     "de": "die Sehkraft",
+     "es": "la vista",
+     "it": "la vista",
+     "_pos": [
+      561,
+      675
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "eye • l'œil • das Auge • el ojo • l'occhio",
+   "parts": [
+    "eye",
+    "l'œil",
+    "das auge",
+    "el ojo",
+    "l'occhio"
+   ],
+   "entries": [
+    {
+     "en": "eyelid",
+     "fr": "la paupière",
+     "de": "das Lid",
+     "es": "el párpado",
+     "it": "la palpebra",
+     "_pos": [
+      402,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eyebrow",
+     "fr": "le sourcil",
+     "de": "die Augenbraue",
+     "es": "la ceja",
+     "it": "il sopracciglio",
+     "_pos": [
+      39,
+      720
+     ],
+     "_flags": []
+    },
+    {
+     "en": "farsighted",
+     "fr": "la presbytie",
+     "de": "die Weitsichtigkeit",
+     "es": "la liiperm etropía",
+     "it": "la presbiopia",
+     "_pos": [
+      735,
+      773
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diopter",
+     "fr": "la dioptrie",
+     "de": "die Dioptrie",
+     "es": "la dioptría",
+     "it": "la diottria",
+     "_pos": [
+      563,
+      775
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eyelash",
+     "fr": "le cil",
+     "de": "die Wimper",
+     "es": "la pestaña",
+     "it": "il ciglia",
+     "_pos": [
+      394,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pupil",
+     "fr": "la pupille",
+     "de": "die Pupille",
+     "es": "la pupila",
+     "it": "la pupilla",
+     "_pos": [
+      40,
+      819
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nearsighted",
+     "fr": "la m yopic",
+     "de": "die Kurzsichtigkeit",
+     "es": "la m iopia",
+     "it": "la miopia",
+     "_pos": [
+      736,
+      874
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "tear",
+     "fr": "la larme",
+     "de": "die Träne",
+     "es": "la làgrim a",
+     "it": "la lacrima",
+     "_pos": [
+      564,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "retina",
+     "fr": "la rétine",
+     "de": "die Netzhaut",
+     "es": "la retina",
+     "it": "retina",
+     "_pos": [
+      405,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cl iris",
+     "fr": "l'iride",
+     "_pos": [
+      194,
+      898
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "lens",
+     "fr": "le cristallin",
+     "de": "die Linse",
+     "es": "el cristalino",
+     "it": "la lente",
+     "_pos": [
+      42,
+      917
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bifocal",
+     "fr": "bifocal",
+     "de": "Bifokal",
+     "es": "bifocal",
+     "it": "bifocale",
+     "_pos": [
+      738,
+      975
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cataract",
+     "fr": "la cataracte",
+     "de": "der graue Star",
+     "es": "la catarata",
+     "it": "l la cataratta",
+     "_pos": [
+      552,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le nerf optique",
+     "de": "der Sehnerv",
+     "es": "el nervio óptico",
+     "it": "il nervo ottico",
+     "_pos": [
+      408,
+      1010
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "cornea",
+     "fr": "la cornée",
+     "de": "die Hornhaut",
+     "es": "la córnea",
+     "it": "la cornea",
+     "_pos": [
+      44,
+      1031
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "nerve",
+   "pos": [
+    440,
+    994
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 14,
+  "flagged": 13,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,804 @@
+{
+ "page": 195,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "crossbar",
+     "fr": "barre",
+     "de": "Stange",
+     "es": "tubo superior",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 6,
+      "es": 12
+     }
+    },
+    {
+     "en": "handlebar",
+     "fr": "guidon",
+     "de": "Lenkstange",
+     "es": "manubrio",
+     "it": "manubrio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "gear lever",
+     "fr": "levier de vitesse",
+     "de": "Schalthebel",
+     "es": "palanca de cambio",
+     "it": "leva del cambio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 11,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "tire lever",
+     "fr": "dcm ontc-pncu",
+     "de": "Reifenschlüssel",
+     "es": "palanca de la llanta",
+     "it": "leva per il pneumatico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 15,
+      "es": 17,
+      "it": 19
+     }
+    },
+    {
+     "en": "patch",
+     "fr": "rustine",
+     "de": "Flicken",
+     "es": "parche",
+     "it": "toppa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "brake lever",
+     "fr": "levier de Irein",
+     "de": "Bremsgriff",
+     "es": "frenos",
+     "it": "leva del freno",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 10,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "repair kit",
+     "fr": "boîte d' outils",
+     "de": "Reparaturkasten",
+     "es": "k it de reparaciones",
+     "it": "kit per riparazioni",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 15,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "fork",
+     "fr": "fourche",
+     "de": "Gabel",
+     "es": "tijeras",
+     "it": "forcella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "key",
+     "fr": "clef",
+     "de": "Schlüssel",
+     "es": "llave",
+     "it": "chiave",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "spoke",
+     "fr": "rayon",
+     "de": "Speiche",
+     "es": "rayo",
+     "it": "raggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "pump",
+     "fr": "pompe",
+     "de": "Luftpumpe",
+     "es": "bomba",
+     "it": "pompa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "lock",
+     "fr": "antivol",
+     "de": "Fahrradschloss",
+     "es": "candado",
+     "it": "lucchetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "fr": "roue",
+     "de": "Rad",
+     "es": "llanta",
+     "it": "ruota",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 4,
+      "de": 3,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "tread",
+     "fr": "bande de roulement",
+     "de": "Reifenprofil",
+     "es": "banda de rodadura",
+     "it": "battistrada",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 16,
+      "de": 12,
+      "es": 15,
+      "it": 11
+     }
+    },
+    {
+     "en": "inner tube",
+     "fr": "chambre à air",
+     "de": "Schlauch",
+     "es": "cámara",
+     "it": "camera d'aria",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 8,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "child seat",
+     "fr": "siège d'enfant",
+     "de": "Kindersitz",
+     "es": "siila para el niño",
+     "it": "seggiolino per bambino",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 10,
+      "es": 15,
+      "it": 20
+     }
+    },
+    {
+     "de": "Ventil",
+     "es": "pivote",
+     "it": "valvola",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "light",
+     "fr": "phare",
+     "de": "Fahrradlampe",
+     "es": "faro",
+     "it": "fanale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 12,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "kickstand",
+     "fr": "béquille",
+     "de": "Fahrradständer",
+     "es": "patilla de apoyo",
+     "it": "cavalletto",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 14,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "brake block",
+     "fr": "patin de frein",
+     "de": "Bremsbacke",
+     "es": "goma del freno",
+     "it": "blocca freni",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "basket",
+     "fr": "panier",
+     "de": "Korb",
+     "es": "canastilla",
+     "it": "cestello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "toe dip",
+     "fr": "cale-pied",
+     "de": "Rennbügel",
+     "es": "calzapié",
+     "it": "fermapiedi",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "change gear (v)",
+     "fr": "changer de vitesse",
+     "de": "schalten",
+     "es": "cambiar de velocidad",
+     "it": "cambiare marcia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 8,
+      "es": 18,
+      "it": 14
+     }
+    },
+    {
+     "en": "stabilizers",
+     "fr": "roues d'entraînemenr",
+     "de": "Stützräder",
+     "es": "ruedas de apoyo",
+     "it": "rotelle",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 18,
+      "de": 10,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "rear light",
+     "fr": "feu arrière",
+     "de": "Rücklicht",
+     "es": "faro trasero",
+     "it": "fanale posteriore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 11,
+      "it": 16
+     }
+    },
+    {
+     "en": "cable",
+     "fr": "câble",
+     "de": "Kabel",
+     "es": "cable",
+     "it": "cavo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "dynamo",
+     "fr": "dynamo",
+     "de": "Dynamo",
+     "es": "dinamo",
+     "it": "dinamo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "toe strap",
+     "fr": "lanière",
+     "de": "Riemen",
+     "es": "banda del calzapié",
+     "it": "cinguetto",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 16,
+      "it": 9
+     }
+    },
+    {
+     "en": "brake (v)",
+     "fr": "freiner",
+     "de": "bremsen",
+     "es": "frenar",
+     "it": "frenare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "reflector",
+     "fr": "cataphotc",
+     "de": "Rückstrahler",
+     "es": "reflector",
+     "it": "catarifrangente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 12,
+      "es": 9,
+      "it": 15
+     }
+    },
+    {
+     "en": "bike rack",
+     "fr": "galene à vélo",
+     "de": "Fahrradständer",
+     "es": "rack para bicicletas",
+     "it": "posteggio per bici",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 14,
+      "es": 18,
+      "it": 16
+     }
+    },
+    {
+     "en": "sprocket",
+     "fr": "pignon",
+     "de": "Kettenzahnrad",
+     "es": "engrane",
+     "it": "ii dente",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 13,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "flat tire",
+     "fr": "crevaison",
+     "de": "Reifenpanne",
+     "es": "ponchadura",
+     "it": "foratura",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "pedal (v)",
+     "fr": "pédaler",
+     "de": "treten",
+     "es": "pedalear",
+     "it": "pedalare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "cycle (v)",
+     "fr": "faire du vélo",
+     "de": "Rad fahren",
+     "es": "andar en bicicleta",
+     "it": "andare in bici",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 9,
+      "es": 16,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

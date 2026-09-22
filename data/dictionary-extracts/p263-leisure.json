@@ -1,0 +1,675 @@
+{
+ "page": 263,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "stitch",
+     "fr": "point",
+     "de": "Stich",
+     "es": "puntada",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 7
+     }
+    },
+    {
+     "en": "tack (v)",
+     "fr": "bâtir",
+     "de": "heften",
+     "es": "hilvanar",
+     "it": "imbastire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "cut (v)",
+     "fr": "couper",
+     "de": "schneiden",
+     "es": "cortar",
+     "it": "tagliare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "darn (v)",
+     "fr": "repriser",
+     "de": "stopfen",
+     "es": "zurcir",
+     "it": "rammendare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 7,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "sew (v)",
+     "fr": "coudre",
+     "de": "nähen",
+     "es": "coser",
+     "it": "cucire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "thread (v)",
+     "fr": "enfiler",
+     "de": "einfädeln",
+     "es": "ensartar",
+     "it": "infilare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "crochet hook",
+     "fr": "crochet",
+     "de": "Häkelhaken",
+     "es": "aguja de ganchillo",
+     "it": "uncinetto",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 10,
+      "es": 16,
+      "it": 9
+     }
+    },
+    {
+     "en": "patchwork",
+     "fr": "patchwork",
+     "de": "Patchwork",
+     "es": "labor de retales",
+     "it": "patchwork",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 14,
+      "it": 9
+     }
+    },
+    {
+     "en": "embroidery",
+     "fr": "broderie",
+     "de": "Stickerei",
+     "es": "bordado",
+     "it": "ricamo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "crochet",
+     "fr": "crochet",
+     "de": "Häkeln",
+     "es": "ganchillo",
+     "it": "uncinetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "macramé",
+     "fr": "m acram é",
+     "de": "Makramee",
+     "es": "m acram é",
+     "it": "macramè",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "needlepoint",
+     "fr": "tapisserie",
+     "de": "Tapisserie",
+     "es": "Bordado en cañamazo",
+     "it": "punta dell'ago",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 10,
+      "es": 17,
+      "it": 12
+     }
+    },
+    {
+     "en": "loom",
+     "fr": "mener à tisser",
+     "de": "Webstuhl",
+     "es": "telar",
+     "it": "telaio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 12,
+      "de": 8,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "lace bobbin",
+     "fr": "fuseau",
+     "de": "Klöppel",
+     "es": "bolillo",
+     "it": "spoletta",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "nylon",
+     "fr": "nylon",
+     "de": "Nylon",
+     "es": "nailon",
+     "it": "nailon",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "unpick (v)",
+     "fr": "défaire",
+     "de": "auftrennen",
+     "es": "descoser",
+     "it": "scucire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 10,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "silk",
+     "fr": "soie",
+     "de": "Seide",
+     "es": "seda",
+     "it": "seta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "fabric",
+     "fr": "tissu",
+     "de": "Stoff",
+     "es": "tela",
+     "it": "tela",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "designer",
+     "fr": "styliste",
+     "de": "Modedesigner",
+     "es": "diseñador",
+     "it": "stilista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 12,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "weaving",
+     "fr": "tissage",
+     "de": "Weberei",
+     "es": "tejer",
+     "it": "tessitura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "cotton",
+     "fr": "coton",
+     "de": "Baumwolle",
+     "es": "algodón",
+     "it": "cotone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 9,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "lace making",
+     "fr": "dentelle",
+     "de": "Spitzenklöppelei",
+     "es": "labor de encaje",
+     "it": "fabbricazione dei merletti",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 16,
+      "es": 13,
+      "it": 24
+     }
+    },
+    {
+     "en": "quilting",
+     "fr": "ouatage",
+     "de": "Wattieren",
+     "es": "acolchado",
+     "it": "trapunto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 9,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "fashion",
+     "fr": "mode",
+     "de": "Mode",
+     "es": "moda",
+     "it": "moda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "linen",
+     "fr": "lin",
+     "de": "Leinen",
+     "es": "lino",
+     "it": "lino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 6,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "yam",
+     "fr": "laine",
+     "de": "Wolle",
+     "es": "lana",
+     "it": "lana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "knitting needle",
+     "fr": "Paiguille à tricoter",
+     "de": "Stricknadel",
+     "es": "aguja de tejer",
+     "it": "ferro da calza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 11,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "zipper",
+     "fr": "fermeture éclair",
+     "de": "Reißverschluss",
+     "es": "cremallera",
+     "it": "chiusura lampo",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 15,
+      "de": 15,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "polyester",
+     "fr": "polyester",
+     "de": "Polyester",
+     "es": "poliéster",
+     "it": "poliestere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "skein",
+     "fr": "Péche veau",
+     "de": "Strang",
+     "es": "madeja",
+     "it": "matassa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "knitting",
+     "fr": "tricot",
+     "de": "Stricken",
+     "es": "labor de punto",
+     "it": "lavoro a maglia",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 8,
+      "es": 12,
+      "it": 13
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

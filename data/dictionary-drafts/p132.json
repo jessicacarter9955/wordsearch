@@ -1,0 +1,332 @@
+{
+ "page": 132,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD . L A NOURRITURE ♦ DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "cakes and desserts • les g âteau x et les desserts • Kuchen und Nachspeisen • la rep o stería • i dolci e i dessert",
+   "parts": [
+    "cakes and desserts",
+    "les gâteaux et les desserts",
+    "kuchen und nachspeisen",
+    "la repostería",
+    "i dolci e i dessert"
+   ],
+   "entries": [
+    {
+     "en": "éclair",
+     "fr": "l'éclair",
+     "de": "das Eclair",
+     "es": "el profiterai",
+     "it": "il bignè",
+     "_pos": [
+      185,
+      164
+     ],
+     "_flags": []
+    },
+    {
+     "en": "profiterole pastry",
+     "fr": "la pâte à choux",
+     "de": "der Brandteig",
+     "es": "la masa de profiteroles",
+     "it": "il bignè",
+     "_pos": [
+      690,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "puff pastry",
+     "fr": "la pâte feuilletée",
+     "de": "der Blätterteig",
+     "es": "el hojaldre",
+     "it": "la pasta sfoglia",
+     "_pos": [
+      735,
+      265
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cream",
+     "fr": "la crème",
+     "de": "die Sahne",
+     "es": "la crema",
+     "it": "la panna",
+     "_pos": [
+      136,
+      295
+     ],
+     "_flags": []
+    },
+    {
+     "en": "filo dough",
+     "fr": "la pâte de filo",
+     "de": "der Blätterteig",
+     "es": "la masa brisa",
+     "it": "la pasta filo",
+     "_pos": [
+      689,
+      365
+     ],
+     "_flags": []
+    },
+    {
+     "en": "filling",
+     "fr": "la garniture",
+     "de": "die Füllung",
+     "es": "el relleno",
+     "it": "il ripieno",
+     "_pos": [
+      216,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fruit cake",
+     "fr": "le cake",
+     "de": "der englische Kuchen",
+     "es": "el plum -cake",
+     "it": "il dolce alla frutta",
+     "_pos": [
+      128,
+      510
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chocolate coated",
+     "fr": "enrobé de chocolat",
+     "de": "mit Schokolade überzogen",
+     "es": "cubierto de chocolate",
+     "it": "ricoperto di cioccolato",
+     "_pos": [
+      659,
+      513
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fruit pie",
+     "fr": "la tarte aux fruits",
+     "de": "das Obsttortelett",
+     "es": "la tartaleta de fruta",
+     "it": "la crostatine",
+     "_pos": [
+      60,
+      624
+     ],
+     "_flags": []
+    },
+    {
+     "en": "muffin",
+     "fr": "le m uffin",
+     "de": "der Muffin",
+     "es": "el m uffin",
+     "it": "il muffin",
+     "_pos": [
+      718,
+      628
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "meringue",
+     "fr": "lame ri ligue",
+     "de": "das Baiser",
+     "es": "el merengue",
+     "it": "la meringa",
+     "_pos": [
+      126,
+      740
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sponge cake",
+     "fr": "la madeleine",
+     "de": "das Biskuittörtchen",
+     "es": "la magdalena",
+     "it": "il pan di Spagna",
+     "_pos": [
+      696,
+      743
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cakes",
+     "fr": "les gâteaux",
+     "de": "das Gebäck",
+     "es": "los pasteles",
+     "it": "i dolci",
+     "_pos": [
+      306,
+      840
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pastry cream",
+     "fr": "la crème pâtissière",
+     "de": "die Konditorcreme",
+     "es": "la crema pastelera",
+     "it": "la crema pasticcera",
+     "_pos": [
+      70,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bun",
+     "fr": "le petit gâteau",
+     "de": "das Teilchen",
+     "es": "el hollo",
+     "it": "la focaccina",
+     "_pos": [
+      252,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pastry",
+     "fr": "la paré",
+     "de": "der Teig",
+     "es": "la masa",
+     "it": "la pasta",
+     "_pos": [
+      408,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rice pudding",
+     "fr": "le riz au lait",
+     "de": "der Milchreis",
+     "es": "el arroz con leche",
+     "it": "il budino di riso",
+     "_pos": [
+      516,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "May 1 have a slice please?",
+     "fr": "Kst-ce que je peux avo ir une",
+     "de": "Tranche s'il vous plaît?",
+     "es": "Könnte ich bitte ein Stück haben?",
+     "it": "Puedo tom ar una rebanada7 Posso avere una fetta?",
+     "_pos": [
+      678,
+      891
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "en:num:1",
+      "en:weird:please?",
+      "en:case",
+      "fr:case",
+      "de:weird:plaît?",
+      "es:weird:haben?",
+      "es:case",
+      "it:num:rebanada7",
+      "it:weird:fetta?",
+      "it:case"
+     ],
+     "_alts": [
+      {
+       "en": "May 1 have a slice please?",
+       "fr": "Kst-ce que je peux avo ir une",
+       "de": "Tranche s'il vous plaît?",
+       "es": "Könnte ich bitte ein Stück haben? ¿Puedo tom ar una rebanada7",
+       "it": "Posso avere una fetta?"
+      },
+      {
+       "en": "May 1 have a slice please?",
+       "fr": "Kst-ce que je peux avo ir une",
+       "de": "Tranche s'il vous plaît? Könnte ich bitte ein Stück haben?",
+       "es": "¿Puedo tom ar una rebanada7",
+       "it": "Posso avere una fetta?"
+      }
+     ]
+    },
+    {
+     "en": "chocolate cake",
+     "fr": "le gâteau au chocolat",
+     "de": "die Schokoladentorte",
+     "es": "el pastel de chocolaté",
+     "it": "la torta al cioccolato",
+     "_pos": [
+      69,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "custard",
+     "fr": "la crème anglaise",
+     "de": "der Vanillepudding",
+     "es": "las natillas",
+     "it": "la cremo",
+     "_pos": [
+      252,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slice",
+     "fr": "la tranche",
+     "de": "das Stück",
+     "es": "la rebanada",
+     "it": "la fetta",
+     "_pos": [
+      408,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "celebration",
+     "fr": "la fête",
+     "de": "die Feier",
+     "es": "la celebración",
+     "it": "la festa",
+     "_pos": [
+      515,
+      988
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 19,
+  "flagged": 3,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

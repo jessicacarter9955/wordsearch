@@ -1,0 +1,433 @@
+{
+ "page": 194,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "bicicletta",
+   "names": {
+    "en": "bicycle",
+    "fr": "la bicyclette",
+    "de": "das fahrrad",
+    "es": "la bicicleta",
+    "it": "la bicicletta"
+   },
+   "entries": [
+    {
+     "en": "saddle",
+     "fr": "selle",
+     "de": "Sattel",
+     "es": "asiento",
+     "it": "sellino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "seat post",
+     "fr": "rube porte-selle",
+     "de": "Sattelstutze",
+     "es": "poste del asiento",
+     "it": "tubo reggisella",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 12,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "water bottle",
+     "fr": "bouteille d'eau",
+     "de": "Wasserflasche",
+     "es": "botella del agu",
+     "it": "borraccia",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 13,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "frame",
+     "fr": "cadre",
+     "de": "Rahmen",
+     "es": "cuadro",
+     "it": "telaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "tandem",
+     "fr": "tandem",
+     "de": "Tandem",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6
+     }
+    },
+    {
+     "en": "brake",
+     "fr": "frein",
+     "de": "Felgenbremse",
+     "es": "freno",
+     "it": "freno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "hub",
+     "fr": "moyeu",
+     "de": "Nabe",
+     "es": "eje",
+     "it": "mozzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 4,
+      "es": 3,
+      "it": 5
+     }
+    },
+    {
+     "en": "racing bike",
+     "fr": "vélo de course",
+     "de": "Rennrad",
+     "es": "bicicleta de carreras",
+     "it": "bicicletta da corsa",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 7,
+      "es": 19,
+      "it": 17
+     }
+    },
+    {
+     "en": "gears",
+     "fr": "vitesses",
+     "de": "Gänge",
+     "es": "cam bios",
+     "it": "maree",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "tire",
+     "fr": "pneu",
+     "de": "Reifen",
+     "es": "llanta",
+     "it": "pneumatico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "chain",
+     "fr": "chaîne",
+     "de": "Fahrradkette",
+     "es": "cadena",
+     "it": "catena",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 12,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "cog",
+     "fr": "roue dentée",
+     "de": "Zahnrad",
+     "es": "estrella",
+     "it": "ruota dentata",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 10,
+      "de": 7,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "mountain bike",
+     "fr": "vélo tour terrain",
+     "de": "Mountainbike",
+     "es": "bicicleta de montaña",
+     "it": "mountain bike",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 12,
+      "es": 18,
+      "it": 12
+     }
+    },
+    {
+     "en": "helmet",
+     "fr": "casque",
+     "de": "Fahrradhelm",
+     "es": "casco",
+     "it": "casco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "touring bike",
+     "fr": "vélo de randonnée",
+     "de": "Tourenfahrrad",
+     "es": "bicicleta de paseo",
+     "it": "bicicletta da turismo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 13,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "road bike",
+     "fr": "vélo de ville",
+     "de": "Straßenrad",
+     "es": "bicicleta de pista",
+     "it": "bicicletta da strada",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 11,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "cycle lane",
+     "fr": "piste cyclable",
+     "de": "Fahrradweg",
+     "es": "carril de bicicletas",
+     "it": "pista ciclabile",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 10,
+      "es": 18,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

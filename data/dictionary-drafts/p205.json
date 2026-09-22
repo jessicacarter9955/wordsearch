@@ -1,0 +1,306 @@
+{
+ "page": 205,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "moonng",
+     "fr": "les amarres",
+     "de": "die Verankerung",
+     "es": "el punto de amarre",
+     "it": "l'ormeggio",
+     "_pos": [
+      482,
+      73
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fishing boat",
+     "fr": "le bateau de pêche",
+     "de": "das Fischerboot",
+     "es": "el barco pesquero",
+     "it": "la barca da pesca",
+     "_pos": [
+      289,
+      74
+     ],
+     "_flags": []
+    },
+    {
+     "en": "manna",
+     "fr": "la marina",
+     "de": "die Marina",
+     "es": "el puerto deportivo",
+     "it": "il porto turistico",
+     "_pos": [
+      549,
+      271
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "fsNng port • le port de pêche • der Fischereihafen • el puerto pesquero",
+   "parts": [
+    "fsnng port",
+    "le port de pêche",
+    "der fischereihafen",
+    "el puerto pesquero"
+   ],
+   "entries": [
+    {
+     "en": "harbor",
+     "fr": "le port",
+     "de": "der Hafen",
+     "es": "el puerto",
+     "it": "I porto",
+     "_pos": [
+      551,
+      469
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "_pos": [
+      42,
+      488
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "shipyard",
+     "fr": "le chantier naval",
+     "de": "die Werft",
+     "es": "el astillero",
+     "it": "il cantiere navale",
+     "_pos": [
+      608,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jetty",
+     "fr": "la jetée",
+     "de": "der Landungssteg",
+     "es": "el espigón",
+     "it": "il molo",
+     "_pos": [
+      324,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      42,
+      703
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "D",
+      "er",
+      "l'em barcadère",
+      "der Pier",
+      "el em barcadero",
+      "il pontile"
+     ]
+    },
+    {
+     "en": "lantern",
+     "fr": "le feu",
+     "de": "die Laterne",
+     "es": "la lámpara",
+     "it": "la luce",
+     "_pos": [
+      212,
+      750
+     ],
+     "_flags": []
+    },
+    {
+     "en": "board (v)",
+     "fr": "embarquer",
+     "de": "an Bord gehen",
+     "es": "embarcar",
+     "it": "imbarcare",
+     "_pos": [
+      742,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dry dock",
+     "fr": "la cale sèche",
+     "de": "das Trockendock",
+     "es": "el dique seco",
+     "it": "il bacino di carenaggio",
+     "_pos": [
+      552,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coast guard",
+     "fr": "le garde-côte",
+     "de": "die Küstenwache",
+     "es": "el guardacostas",
+     "it": "il guardacoste",
+     "_pos": [
+      398,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "disembark (v)",
+     "fr": "débarquer",
+     "de": "von Bord gehen",
+     "es": "desembarcar",
+     "it": "sbarcare",
+     "_pos": [
+      744,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "m oor (v)",
+     "fr": "mouiller",
+     "de": "festmachen",
+     "es": "amarrar",
+     "it": "ormeggiare",
+     "_pos": [
+      554,
+      880
+     ],
+     "_flags": [
+      "en:short:m"
+     ]
+    },
+    {
+     "en": "harbormaster",
+     "fr": "le capitaine de port",
+     "de": "der Hafenmeister",
+     "es": "el capitán del puerto",
+     "it": "il capitano di porto",
+     "_pos": [
+      398,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "set sail (v)",
+     "fr": "prendre la mer",
+     "de": "auslaufen",
+     "es": "zarpar",
+     "it": "salpare",
+     "_pos": [
+      744,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dock (v)",
+     "fr": "se m ettre «à quai",
+     "de": "anlegen",
+     "es": "atracar",
+     "it": "entrare in bacino",
+     "_pos": [
+      554,
+      978
+     ],
+     "_flags": [
+      "fr:short:m",
+      "fr:weird:«à"
+     ]
+    },
+    {
+     "en": "drop anchor (v)",
+     "fr": "jeter Tañere",
+     "de": "den Anker werfen",
+     "es": "anclar",
+     "it": "mollare l'ancora",
+     "_pos": [
+      399,
+      979
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "buoy",
+     "fr": "la bouée",
+     "de": "die Boje",
+     "es": "la boya",
+     "it": "labo a",
+     "_pos": [
+      214,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ghthouse",
+     "fr": "le phare",
+     "de": "der Leuchtturm",
+     "es": "el faro",
+     "it": "il faro",
+     "_pos": [
+      45,
+      1033
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "porto da pesca",
+   "pos": [
+    63,
+    488
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 6,
+  "flagged": 14,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

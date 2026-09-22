@@ -1,0 +1,228 @@
+{
+ "page": 16,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE ■ LES GENS / • DIE MENSCHEN • LA G E N T E • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "internai organs • les organes internes • die inneren Organe • los órganos internos • gli organi interni",
+   "parts": [
+    "internai organs",
+    "les organes internes",
+    "die inneren organe",
+    "los órganos internos",
+    "gli organi interni"
+   ],
+   "entries": [
+    {
+     "en": "thyroid gland",
+     "fr": "la thyroïde",
+     "de": "die Schilddrüse",
+     "es": "la glándula del tiroides",
+     "it": "la tiroide",
+     "_pos": [
+      655,
+      119
+     ],
+     "_flags": []
+    },
+    {
+     "en": "liver",
+     "fr": "le foie",
+     "de": "die Leber",
+     "es": "el hígado",
+     "it": "il fegato",
+     "_pos": [
+      155,
+      164
+     ],
+     "_flags": []
+    },
+    {
+     "en": "windpipe",
+     "fr": "la trachée",
+     "de": "die Luftröhre",
+     "es": "la tráquea",
+     "it": "la trachea",
+     "_pos": [
+      738,
+      221
+     ],
+     "_flags": []
+    },
+    {
+     "en": "duodenum",
+     "fr": "le duodénum",
+     "de": "der Zwölffingerdarm",
+     "es": "duodeno",
+     "it": "il duodeno",
+     "_pos": [
+      76,
+      262
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lung",
+     "fr": "le poumon",
+     "de": "die Lunge",
+     "es": "el pulmón",
+     "it": "il polmone",
+     "_pos": [
+      762,
+      314
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kidney",
+     "fr": "le rein",
+     "de": "die Niere",
+     "es": "el riñón",
+     "it": "il rene",
+     "_pos": [
+      121,
+      393
+     ],
+     "_flags": []
+    },
+    {
+     "en": "heart",
+     "fr": "le cceur",
+     "de": "das Herz",
+     "es": "el corazón",
+     "it": "il cuore",
+     "_pos": [
+      760,
+      413
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stomach",
+     "fr": "l'estomac",
+     "de": "der Magen",
+     "es": "el estómago",
+     "it": "lo stomaco",
+     "_pos": [
+      773,
+      511
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pancreas",
+     "fr": "le pancréas",
+     "de": "die Bauchspeichel",
+     "es": "drüse el páncreas",
+     "it": "il pancreas",
+     "_pos": [
+      42,
+      555
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "pancreas",
+       "fr": "le pancréas",
+       "de": "die Bauchspeichel drüse",
+       "es": "el pàncreas",
+       "it": "il pancreas"
+      }
+     ]
+    },
+    {
+     "en": "spleen",
+     "fr": "la rare",
+     "de": "die Milz",
+     "es": "el bazo",
+     "it": "la milza",
+     "_pos": [
+      776,
+      625
+     ],
+     "_flags": []
+    },
+    {
+     "en": "small intestine",
+     "fr": "l'intestin grêle",
+     "de": "der Dünndarm",
+     "es": "el intestino",
+     "it": "delgado rim estino tenue",
+     "_pos": [
+      42,
+      677
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "small intestine",
+       "fr": "l'intestin gréle",
+       "de": "der Dünndarm",
+       "es": "el intestino delgado",
+       "it": "rim estino tenue"
+      }
+     ]
+    },
+    {
+     "en": "large intestine",
+     "fr": "le gros intestin",
+     "de": "der Dickdarm",
+     "es": "el intestino",
+     "it": "grueso l'intestino crasso",
+     "_pos": [
+      42,
+      804
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "large intestine",
+       "fr": "le gros intestin",
+       "de": "der Dickdarm",
+       "es": "el intestino grueso",
+       "it": "l'intestino crasso"
+      }
+     ]
+    },
+    {
+     "en": "appendix",
+     "fr": "l'appendice",
+     "de": "der Blinddarm",
+     "es": "el apéndice",
+     "it": "l'appendice",
+     "_pos": [
+      42,
+      922
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 13,
+  "complete_clean": 8,
+  "flagged": 5,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

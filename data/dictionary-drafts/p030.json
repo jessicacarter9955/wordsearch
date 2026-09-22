@@ -1,0 +1,286 @@
+{
+ "page": 30,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "v-neck",
+     "fr": "l'encolure en V",
+     "de": "der V-Ausschnitt",
+     "es": "el cuello en V",
+     "it": "il collo a V",
+     "_pos": [
+      604,
+      98
+     ],
+     "_flags": [
+      "fr:short:V",
+      "es:short:V",
+      "it:short:V"
+     ]
+    },
+    {
+     "en": "crew neck",
+     "fr": "le col rond",
+     "de": "der runde Ausschnitt",
+     "es": "el cuello redondo",
+     "it": "il girocollo",
+     "_pos": [
+      600,
+      205
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vest",
+     "fr": "le gilet",
+     "de": "die Weste",
+     "es": "el chaleco",
+     "it": "il gilet",
+     "_pos": [
+      458,
+      279
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sport coat",
+     "fr": "la veste île sport",
+     "de": "das Sportjackett",
+     "es": "el saco sport",
+     "it": "la giacca sportiva",
+     "_pos": [
+      247,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blazer",
+     "fr": "le blazer",
+     "de": "der Blazer",
+     "es": "el saco «I blazer",
+     "_pos": [
+      35,
+      281
+     ],
+     "_flags": [
+      "missing:it",
+      "es:weird:«I"
+     ]
+    },
+    {
+     "en": "t-shirt",
+     "fr": "le t-shirt",
+     "de": "das T-Shirt",
+     "es": "la camiseta",
+     "it": "la maglietta",
+     "_pos": [
+      634,
+      330
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": ":'d rJR",
+   "parts": [
+    ":'d rjr"
+   ],
+   "entries": [
+    {
+     "en": "windbreaker",
+     "fr": "le coupe-vcnt",
+     "de": "die Windjacke",
+     "es": "la chamarra",
+     "it": "la giacca a vento",
+     "_pos": [
+      461,
+      548
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweatshirt",
+     "fr": "le sweat-shirt",
+     "de": "das Sweatshirt",
+     "es": "la sudadera",
+     "it": "la felpa",
+     "_pos": [
+      249,
+      550
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parka",
+     "fr": "l'anorak",
+     "de": "der Anorak",
+     "es": "el chaquetón",
+     "it": "il giaccone",
+     "_pos": [
+      38,
+      551
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweatpants",
+     "fr": "le pantalon de jogging",
+     "de": "die Trainingshose",
+     "es": "los pants",
+     "it": "i pantaloni di felpa",
+     "_pos": [
+      630,
+      605
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sportswear",
+     "fr": "les vêtements sport",
+     "de": "die Freizeitkleidung",
+     "es": "la ropa casual",
+     "it": "il casual",
+     "_pos": [
+      676,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "undershirt",
+     "fr": "le tricot de corps",
+     "de": "das Unterhemd",
+     "es": "la camiseta de tirantes",
+     "it": "la canottiera",
+     "_pos": [
+      464,
+      803
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pajamas",
+     "fr": "le pyjama",
+     "de": "der Schlafanzug",
+     "es": "la piyama",
+     "it": "il pigiama",
+     "_pos": [
+      252,
+      804
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweater",
+     "fr": "le pullover",
+     "de": "der Pullover",
+     "es": "el suéter",
+     "it": "il maglione",
+     "_pos": [
+      40,
+      805
+     ],
+     "_flags": []
+    },
+    {
+     "en": "socks",
+     "fr": "les chaussettes",
+     "de": "die Socken",
+     "es": "los calcetines",
+     "it": "i calzini",
+     "_pos": [
+      678,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boxer shorts",
+     "fr": "le caleçon",
+     "de": "die Boxershorts",
+     "es": "los boxers",
+     "it": "i boxer",
+     "_pos": [
+      466,
+      1032
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bnefs",
+     "fr": "le slip",
+     "de": "der Slip",
+     "es": "los calzoncillos",
+     "it": "lo slip",
+     "_pos": [
+      254,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shorts",
+     "fr": "le short",
+     "de": "die Shorts",
+     "es": "los shorts",
+     "it": "i calzoncini",
+     "_pos": [
+      42,
+      1034
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "f",
+   "pos": [
+    120,
+    400
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "tri «",
+   "pos": [
+    68,
+    743
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": ",",
+   "pos": [
+    100,
+    743
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 2,
+  "flagged": 16,
+  "missing_lang": 1,
+  "leftovers": 3,
+  "subcats": 1
+ }
+}

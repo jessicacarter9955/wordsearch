@@ -1,0 +1,52 @@
+{
+ "page": 239,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "leisure",
+   "parts": [
+    "leisure"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "le temps libre die Freizeit",
+   "parts": [
+    "le temps libre die freizeit"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "el ocio",
+   "parts": [
+    "el ocio"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "il tempo libero",
+   "parts": [
+    "il tempo libero"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

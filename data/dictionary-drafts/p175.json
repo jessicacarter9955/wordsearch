@@ -1,0 +1,345 @@
+{
+ "page": 175,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • L E T R A V A IL • DIE ARBEIT • FT. T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "construction • la construction • der Bau • la construcción • l'edilizia",
+   "parts": [
+    "construction",
+    "la construction",
+    "der bau",
+    "la construcción",
+    "l'edilizia"
+   ],
+   "entries": [
+    {
+     "_pos": [
+      716,
+      133
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "rafter",
+      "le",
+      "chevron",
+      "der Dachsparren",
+      "la viga del tejado",
+      "la trave"
+     ]
+    },
+    {
+     "en": "window",
+     "fr": "la fenêtre",
+     "de": "das Fenster",
+     "es": "la ventana",
+     "it": "la finestra",
+     "_pos": [
+      570,
+      135
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ladder",
+     "fr": "l'échelle",
+     "de": "die Leiter",
+     "es": "la escalera",
+     "it": "la scala",
+     "_pos": [
+      402,
+      137
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pallet",
+     "fr": "la palette",
+     "de": "die Palette",
+     "es": "la tan ma",
+     "it": "il pallet",
+     "_pos": [
+      284,
+      138
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scaffolding",
+     "fr": "l'échafaudage das Gerüst",
+     "de": "cl andam io",
+     "it": "l'im palcatura",
+     "_pos": [
+      38,
+      140
+     ],
+     "_flags": [
+      "missing:es"
+     ]
+    },
+    {
+     "en": "IjL iO i",
+     "fr": "fri",
+     "de": "Si",
+     "_pos": [
+      176,
+      348
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:case"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "es"
+      ],
+      [
+       "en",
+       "fr",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es"
+      ]
+     ]
+    },
+    {
+     "en": "",
+     "fr": "? l",
+     "de": "mm'",
+     "_pos": [
+      192,
+      356
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "fr:weird:?"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "es"
+      ],
+      [
+       "en",
+       "fr",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "i n i F",
+   "parts": [
+    "i n i f"
+   ],
+   "entries": [
+    {
+     "en": "construction site",
+     "fr": "le chantier",
+     "de": "die Baustelle",
+     "es": "la obra",
+     "it": "il cantiere",
+     "_pos": [
+      270,
+      604
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wall",
+     "fr": "le mur",
+     "de": "die Mauer",
+     "es": "la pared",
+     "it": "il muro",
+     "_pos": [
+      822,
+      617
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lintel",
+     "fr": "le linteau",
+     "de": "der Sturz",
+     "es": "el dintel",
+     "it": "l'architrave",
+     "_pos": [
+      728,
+      618
+     ],
+     "_flags": []
+    },
+    {
+     "en": "forklift",
+     "fr": "le chariot de levage",
+     "de": "der Gabelstapler",
+     "es": "el montacargas",
+     "it": "il carrello elevatore",
+     "_pos": [
+      44,
+      625
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beam",
+     "fr": "la poutre",
+     "de": "der Balken",
+     "es": "la viga de madera",
+     "it": "lo trave",
+     "_pos": [
+      602,
+      652
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toolbeit",
+     "fr": "la ceinrure à outils",
+     "de": "der Werkzeuggürtel",
+     "es": "el cinturón de las herram ientas",
+     "it": "la cintura per gli attrezzi",
+     "_pos": [
+      346,
+      655
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hard hai",
+     "fr": "le casque de sécurité",
+     "de": "der Schutzhelm",
+     "es": "el casco",
+     "it": "il casco",
+     "_pos": [
+      192,
+      727
+     ],
+     "_flags": []
+    },
+    {
+     "en": "girder",
+     "fr": "la poutre",
+     "de": "der Träger",
+     "es": "la viga de acero",
+     "it": "la trave",
+     "_pos": [
+      44,
+      742
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cement",
+     "fr": "le ciment",
+     "de": "der Zement",
+     "es": "el cemento",
+     "it": "il cemento",
+     "_pos": [
+      620,
+      753
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cernent mixer",
+     "fr": "la bétonnière",
+     "de": "die Betonmischmaschine",
+     "es": "la mezcladora de cemento",
+     "it": "la betonier«!",
+     "_pos": [
+      638,
+      1053
+     ],
+     "_flags": [
+      "it:weird:betonier«!"
+     ]
+    },
+    {
+     "en": "construction worker",
+     "fr": "le maçon",
+     "de": "der Bauarbeiter",
+     "es": "el albañil",
+     "it": "il muratore",
+     "_pos": [
+      390,
+      1056
+     ],
+     "_flags": []
+    },
+    {
+     "en": "build (v)",
+     "fr": "construire",
+     "de": "bauen",
+     "es": "construir",
+     "it": "costruire",
+     "_pos": [
+      50,
+      1058
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "Il",
+   "pos": [
+    180,
+    364
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "' »",
+   "pos": [
+    213,
+    370
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "2:",
+   "pos": [
+    214,
+    423
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 7,
+  "flagged": 12,
+  "missing_lang": 3,
+  "leftovers": 3,
+  "subcats": 2
+ }
+}

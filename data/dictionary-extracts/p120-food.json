@@ -1,0 +1,458 @@
+{
+ "page": 120,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "mango",
+     "fr": "mangue",
+     "de": "Mango",
+     "es": "mango",
+     "it": "mango",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "pineapple",
+     "fr": "ananas",
+     "de": "Ananas",
+     "es": "pina",
+     "it": "ananas",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 6,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "avocado",
+     "fr": "avocar",
+     "de": "Avocado",
+     "es": "aguacate",
+     "it": "avocado",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "papaya",
+     "fr": "papaye",
+     "de": "Papaya",
+     "es": "papaya",
+     "it": "papaia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "peach",
+     "fr": "pêche",
+     "de": "Pfirsich",
+     "es": "melocotón",
+     "it": "pesca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "lychee",
+     "fr": "litchi",
+     "de": "Litschi",
+     "es": "fichi",
+     "it": "litchi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "kiwifruit",
+     "fr": "kiwi",
+     "de": "Kiwi",
+     "es": "f\\ kiw i",
+     "it": "kiwi",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "Cape gooseberry",
+     "fr": "physalis",
+     "de": "Kapstachelbeere",
+     "es": "capulín",
+     "it": "alchechengi",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 8,
+      "de": 15,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "pit",
+     "fr": "pépin",
+     "de": "Kern",
+     "es": "semilla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 4,
+      "es": 7
+     }
+    },
+    {
+     "en": "peel",
+     "fr": "peau",
+     "de": "Schale",
+     "es": "piel",
+     "it": "buccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "passion fruit",
+     "fr": "fruit de la passion",
+     "de": "Passionsfrucht",
+     "es": "m aracuyá",
+     "it": "frutto della passione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 14,
+      "es": 8,
+      "it": 19
+     }
+    },
+    {
+     "en": "quince",
+     "fr": "coing",
+     "de": "Quitte",
+     "es": "membrillo",
+     "it": "mela cotogna",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "banana",
+     "fr": "banane",
+     "de": "Banane",
+     "es": "plátano",
+     "it": "banana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "pomegranate",
+     "fr": "grenade",
+     "de": "Granatapfel",
+     "es": "granada",
+     "it": "melograno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "guava",
+     "fr": "goyave",
+     "de": "Guave",
+     "es": "guayaba",
+     "it": "guaiava",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "persimmon",
+     "fr": "kaki",
+     "de": "Persimone",
+     "es": "caqui",
+     "it": "cachi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 9,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "feijoa",
+     "fr": "feijoa",
+     "de": "Feijoa",
+     "es": "feijoa",
+     "it": "feijoa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "pnckly pear",
+     "fr": "figue de Barbarie",
+     "de": "Kaktusfeige",
+     "es": "tuna",
+     "it": "fico d'india",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 11,
+      "es": 4,
+      "it": 10
+     }
+    },
+    {
+     "en": "star fruit",
+     "fr": "carambole",
+     "de": "Stemfrucht",
+     "es": "carambola",
+     "it": "carambola",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "mangosteen",
+     "fr": "m angoustan",
+     "de": "Mango5tane",
+     "es": "man gostàn",
+     "it": "mangostina",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 9,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

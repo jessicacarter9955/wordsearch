@@ -1,0 +1,650 @@
+{
+ "page": 28,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "abbigliamento-bambini",
+   "names": {
+    "en": "children's clothing",
+    "fr": "les vêtements d'enfants",
+    "de": "die Kinderkleidung",
+    "es": "la ropa de niño",
+    "it": "gli abiti da bambino"
+   },
+   "entries": [
+    {
+     "en": "scarf",
+     "fr": "écharpe",
+     "de": "Schal",
+     "es": "bufanda",
+     "it": "sciarpa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "backpack",
+     "fr": "sac à dos",
+     "de": "Rucksack",
+     "es": "mochila",
+     "it": "zaino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "toggle",
+     "fr": "bouton",
+     "de": "Knebelknopf",
+     "es": "broche",
+     "it": "olivetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "jeans",
+     "fr": "jean",
+     "de": "Jeans",
+     "es": "jeans",
+     "it": "jeans",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "hood",
+     "fr": "capuche",
+     "de": "Kapuze",
+     "es": "capucha",
+     "it": "cappuccio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "parka",
+     "fr": "anorak",
+     "de": "Anorak",
+     "es": "chamarra",
+     "it": "eskimo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "galoshes",
+     "fr": "bottes de caoutchouc",
+     "de": "Gummistiefel",
+     "es": "botas de agua",
+     "it": "galosce",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 12,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "sandals",
+     "fr": "sandales",
+     "de": "Sandalen",
+     "es": "huaraches",
+     "it": "sandali",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "winter",
+     "fr": "hiver",
+     "de": "Winter",
+     "es": "invierno",
+     "it": "inverno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "duffel coat",
+     "fr": "duffel coat",
+     "de": "Dufflecoat",
+     "es": "abrigo",
+     "it": "montgomery",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "fall",
+     "fr": "automne",
+     "de": "Herbst",
+     "es": "otoño",
+     "it": "autunno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "summer",
+     "fr": "été",
+     "de": "Sommer",
+     "es": "verano",
+     "it": "estate",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "raincoat",
+     "fr": "imperméable",
+     "de": "Regenmantel",
+     "es": "impermeable",
+     "it": "impermeabile",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 11,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "robe",
+     "fr": "robe de chambre",
+     "de": "Morgenrock",
+     "es": "bata",
+     "it": "vestaglia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 13,
+      "de": 10,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "logo",
+     "fr": "logo",
+     "de": "Logo",
+     "es": "logotipo",
+     "it": "distintivo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "sneakers",
+     "fr": "baskets",
+     "de": "Sportschuhe",
+     "es": "tenis",
+     "it": "scarpe da ginnastica",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 11,
+      "es": 5,
+      "it": 18
+     }
+    },
+    {
+     "en": "leggings",
+     "fr": "leggings",
+     "de": "Leggings",
+     "es": "mallas",
+     "it": "pantacollant",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "soccer uniform",
+     "fr": "ténue de foot",
+     "de": "Fußballdress",
+     "es": "uniforme del equipo",
+     "it": "tenuta da calcio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 13,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "warm-up suit",
+     "fr": "survêtement",
+     "de": "Trainingsanzug",
+     "es": "pants",
+     "it": "tuta",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 14,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "nightshirt",
+     "fr": "chemise de nuit",
+     "de": "Nachthemd",
+     "es": "camisón",
+     "it": "camicia da notte",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 9,
+      "es": 7,
+      "it": 14
+     }
+    },
+    {
+     "en": "Is it machine washable?",
+     "fr": "Est-ce lavable en machine ?",
+     "de": "Ist es waschmaschinenfest?",
+     "es": "Se puede lavar en lavadora?",
+     "it": "È lavabile in lavatrice?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 19,
+      "fr": 21,
+      "de": 23,
+      "es": 22,
+      "it": 20
+     }
+    },
+    {
+     "en": "natural fiber",
+     "fr": "fibre naturelle",
+     "de": "Naturfaser",
+     "es": "fibra naturai",
+     "it": "fibra naturale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "slippers",
+     "fr": "pantoufles",
+     "de": "Hausschuhe",
+     "es": "pantuflas",
+     "it": "pantofole",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "Will this fit a two-year-old?",
+     "fr": "C'est la taille pour deux ans ?",
+     "de": "Passt das einem Zweijährigen?",
+     "es": "Le quedará a un niño de dos años?",
+     "it": "E la taglia giusta per un bambino di due anni?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 22,
+      "fr": 23,
+      "de": 25,
+      "es": 25,
+      "it": 36
+     }
+    },
+    {
+     "en": "synthetic",
+     "fr": "synthétique",
+     "de": "synthetisch",
+     "es": "sintético",
+     "it": "sintetico",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 11,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "nightwear",
+     "fr": "vêtements de nuit",
+     "de": "Nachtwäsche",
+     "es": "ropa para dormir",
+     "it": "indumenti per la notte",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 11,
+      "es": 14,
+      "it": 19
+     }
+    },
+    {
+     "en": "dress",
+     "fr": "robe",
+     "de": "Kleid",
+     "es": "vestido",
+     "it": "vestito",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "child",
+     "fr": "enfant",
+     "de": "Kind",
+     "es": "niño",
+     "it": "bambino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 4,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Voce 'dress' e 'child' ricostruite dal blocco orizzontale rotto 0.2 (PARTS con das Kind/el niño interleaved)."
+}

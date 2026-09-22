@@ -1,0 +1,255 @@
+{
+ "page": 12,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "P E O P LE • LES GENS / • DIE MENSCHEN • L A GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "face • le visage",
+   "parts": [
+    "face",
+    "le visage"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• das Gesicht • la cara • la faccia",
+   "parts": [
+    "das gesicht",
+    "la cara",
+    "la faccia"
+   ],
+   "entries": [
+    {
+     "en": "hair",
+     "fr": "les cheveux",
+     "de": "das Haar",
+     "es": "el cabello",
+     "it": "i capelli",
+     "_pos": [
+      314,
+      121
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skin",
+     "fr": "la peau",
+     "de": "die Haut",
+     "es": "la piel",
+     "it": "la pelle",
+     "_pos": [
+      214,
+      182
+     ],
+     "_flags": []
+    },
+    {
+     "en": "forehead",
+     "fr": "le front",
+     "de": "die Stirn",
+     "es": "la frente",
+     "it": "la fronte",
+     "_pos": [
+      684,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eyebrow",
+     "fr": "le sourcil",
+     "de": "die Augenbraue",
+     "es": "la ceja",
+     "it": "il sopracciglio",
+     "_pos": [
+      98,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tempie",
+     "fr": "la tempe",
+     "de": "die Schläfe",
+     "es": "la sien",
+     "it": "la tempia",
+     "_pos": [
+      743,
+      339
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eyelash",
+     "fr": "le cil",
+     "de": "die Wimper",
+     "es": "la pestaña",
+     "it": "il ciglio",
+     "_pos": [
+      98,
+      391
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eye",
+     "fr": "l'œ il",
+     "de": "das Auge",
+     "es": "el ojo",
+     "it": "l'occhio",
+     "_pos": [
+      738,
+      478
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ear",
+     "fr": "l'oreille",
+     "de": "das Ohr",
+     "es": "la oreja",
+     "it": "l'orecchio",
+     "_pos": [
+      96,
+      506
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cheek",
+     "fr": "la joue",
+     "de": "die Backe",
+     "es": "la mejilla",
+     "it": "la guancia",
+     "_pos": [
+      724,
+      596
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nose",
+     "fr": "le nez",
+     "de": "die Nase",
+     "es": "la nariz",
+     "it": "il nasi",
+     "_pos": [
+      133,
+      620
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Inn anne",
+     "de": "das Nasenloch",
+     "es": "la ventana ile la nariz",
+     "it": "la narice",
+     "_pos": [
+      729,
+      741
+     ],
+     "_flags": [
+      "missing:fr",
+      "slot-ambig",
+      "en:case"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "mole",
+     "fr": "le grain de beauté",
+     "de": "das Muttermal",
+     "es": "el lunar",
+     "it": "il neo",
+     "_pos": [
+      131,
+      751
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mouth",
+     "fr": "la bouche",
+     "de": "der Mund",
+     "es": "la boca",
+     "it": "la bocca",
+     "_pos": [
+      672,
+      812
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la lèvre",
+     "de": "die lippe",
+     "es": "el labio",
+     "it": "il labbro",
+     "_pos": [
+      202,
+      857
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "jaw",
+     "fr": "la mâchoire",
+     "de": "die Kinnlade",
+     "es": "la mandíbula",
+     "it": "la mandibola",
+     "_pos": [
+      708,
+      939
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chin",
+     "fr": "le menton",
+     "de": "das Kinn",
+     "es": "la barbilla",
+     "it": "il mento",
+     "_pos": [
+      131,
+      947
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "nostril",
+   "pos": [
+    671,
+    724
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 9,
+  "flagged": 7,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

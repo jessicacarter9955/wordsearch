@@ -1,0 +1,493 @@
+{
+ "page": 37,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "bellezza",
+   "names": {
+    "en": "beauty",
+    "fr": "la beauté",
+    "de": "die Schönheit",
+    "es": "la belleza",
+    "it": "la bellezza"
+   },
+   "entries": [
+    {
+     "en": "hair dye",
+     "fr": "teinture de cheveux",
+     "de": "Haarfärbemittel",
+     "es": "tinte para el pelo",
+     "it": "tintura per capelli",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 15,
+      "es": 15,
+      "it": 17
+     }
+    }
+   ]
+  },
+  {
+   "slug": "trucco",
+   "names": {
+    "en": "makeup",
+    "fr": "le maquillage",
+    "de": "das Make-up",
+    "es": "el maquillaje",
+    "it": "il trucco"
+   },
+   "entries": [
+    {
+     "en": "eyebrow pencil",
+     "fr": "crayon à sourcils",
+     "de": "Augenbrauenstift",
+     "es": "lápiz de cejas",
+     "it": "matita per le sopracciglia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 16,
+      "es": 12,
+      "it": 23
+     }
+    },
+    {
+     "en": "eye shadow",
+     "fr": "fard à paupières",
+     "de": "Lidschatten",
+     "es": "sombra de ojos",
+     "it": "ombretto",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 11,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "eyebrow brush",
+     "fr": "brosse à sourcils",
+     "de": "Brauenbürstchen",
+     "es": "cepillo para las cejas",
+     "it": "spazzolino per le sopracciglia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 15,
+      "es": 19,
+      "it": 27
+     }
+    },
+    {
+     "en": "tweezers",
+     "fr": "pince à épiler",
+     "de": "Pinzette",
+     "es": "pinzas",
+     "it": "pinzette",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "mascara",
+     "fr": "mascara",
+     "de": "Wimperntusche",
+     "es": "rimel",
+     "it": "mascara",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 13,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "lip brush",
+     "fr": "pinceau à lèvres",
+     "de": "Lippenpinsel",
+     "es": "pincel de labios",
+     "it": "pennello per le labbra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 12,
+      "es": 14,
+      "it": 19
+     }
+    },
+    {
+     "en": "lip gloss",
+     "fr": "brillant à lèvres",
+     "de": "Lipgloss",
+     "es": "brillo de labios",
+     "it": "smalto per le labbra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 8,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "eyeliner",
+     "fr": "eyeliner",
+     "de": "Eyeliner",
+     "es": "delineador",
+     "it": "matita per gli occhi",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 10,
+      "it": 17
+     }
+    },
+    {
+     "en": "lip liner",
+     "fr": "crayon à lèvres",
+     "de": "Lippenkonturenstift",
+     "es": "lápiz de labios",
+     "it": "marcatore per le labbra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 19,
+      "es": 13,
+      "it": 20
+     }
+    },
+    {
+     "en": "blusher",
+     "fr": "fard à joues",
+     "de": "Puderrouge",
+     "es": "rubor",
+     "it": "fard",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 10,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "concealer",
+     "fr": "correcteur",
+     "de": "Korrekturstift",
+     "es": "lápiz corrector",
+     "it": "correttore",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 14,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "brush",
+     "fr": "pinceau",
+     "de": "Puderpinsel",
+     "es": "brocha",
+     "it": "pennello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 11,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "mirror",
+     "fr": "miroir",
+     "de": "Spiegel",
+     "es": "espejo",
+     "it": "specchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "foundation",
+     "fr": "fond de teint",
+     "de": "Grundierung",
+     "es": "base",
+     "it": "fondotinta",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 4,
+      "it": 10
+     }
+    },
+    {
+     "en": "face powder",
+     "fr": "poudre",
+     "de": "Gesichtspuder",
+     "es": "m aquillaje",
+     "it": "cipria",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 13,
+      "es": 10,
+      "it": 6
+     }
+    },
+    {
+     "en": "lipstick",
+     "fr": "rouge à lèvres",
+     "de": "Lippenstift",
+     "es": "lápiz labial",
+     "it": "rossetto",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 11,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "powder puff",
+     "fr": "houppette",
+     "de": "Puderquaste",
+     "es": "borla",
+     "it": "piumino",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 11,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "compact",
+     "fr": "poudrier",
+     "de": "Puderdose",
+     "es": "polvera",
+     "it": "porta cipria",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "face powder es 'el maquillaje' come da OCR (dubbio: forse 'el polvo facial')."
+}

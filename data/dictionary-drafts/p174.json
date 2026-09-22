@@ -1,0 +1,284 @@
+{
+ "page": 174,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "WORK • LE PRAVA 11 • DIE ARBEIT • EL TRABAJO • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "livestock • le bétail • das Vieh • el ganado • ¡I bestiame",
+   "parts": [
+    "livestock",
+    "le bétail",
+    "das vieh",
+    "el ganado",
+    "i bestiame"
+   ],
+   "entries": [
+    {
+     "en": "piglet",
+     "fr": "le porcelet",
+     "de": "das Ferkel",
+     "es": "el chanchito",
+     "it": "il maialino",
+     "_pos": [
+      41,
+      114
+     ],
+     "_flags": []
+    },
+    {
+     "en": "calf",
+     "fr": "le veau",
+     "de": "das Kalb",
+     "es": "el tem erò",
+     "it": "il vitello",
+     "_pos": [
+      204,
+      179
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bull",
+     "fr": "le taureau",
+     "de": "der Stier",
+     "es": "el toro",
+     "it": "il toro",
+     "_pos": [
+      456,
+      272
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sheep",
+     "fr": "le mouton",
+     "de": "das Schaf",
+     "es": "la oveja",
+     "it": "la pecora",
+     "_pos": [
+      664,
+      272
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cow",
+     "fr": "la vache",
+     "de": "die Kuh",
+     "es": "la vaca",
+     "it": "la mucca",
+     "_pos": [
+      244,
+      275
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pig",
+     "fr": "le cochon",
+     "de": "das Schwein",
+     "es": "el puerco",
+     "it": "il maiale",
+     "_pos": [
+      33,
+      276
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kid",
+     "fr": "le chevreau",
+     "de": "das Zicklein",
+     "es": "el cabrito",
+     "it": "il capretto",
+     "_pos": [
+      364,
+      314
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horse",
+     "fr": "le chevai",
+     "de": "das Pferd",
+     "es": "el caballo",
+     "it": "il cavallo",
+     "_pos": [
+      458,
+      533
+     ],
+     "_flags": []
+    },
+    {
+     "en": "donkey",
+     "fr": "l'âne",
+     "de": "der Esel",
+     "es": "el burro",
+     "it": "l'asino",
+     "_pos": [
+      668,
+      533
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goat",
+     "fr": "la chcv re",
+     "de": "die Ziege",
+     "es": "la cabra",
+     "it": "la capra",
+     "_pos": [
+      246,
+      536
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      36,
+      538
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "iamb",
+      "l'agneau",
+      "das Lamm",
+      "el cordero",
+      "l'agnello chick",
+      "le poussin",
+      "das Küken",
+      "el pollito",
+      "il pulcino"
+     ]
+    },
+    {
+     "en": "duckling",
+     "fr": "le caneton",
+     "de": "das Entenküken",
+     "es": "el patito",
+     "it": "l'anatroccolo",
+     "_pos": [
+      620,
+      606
+     ],
+     "_flags": []
+    },
+    {
+     "en": "duck",
+     "fr": "le canard",
+     "de": "die Ente",
+     "es": "el pato",
+     "it": "l'anatra",
+     "_pos": [
+      672,
+      777
+     ],
+     "_flags": []
+    },
+    {
+     "en": "turkey",
+     "fr": "le dindon",
+     "de": "der Truthahn",
+     "es": "el guajolote",
+     "it": "il tacchino",
+     "_pos": [
+      460,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rooster",
+     "fr": "le coq",
+     "de": "der Hahn",
+     "es": "el gallo",
+     "it": "il gallo",
+     "_pos": [
+      250,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chicleen",
+     "fr": "le poulet",
+     "de": "das Huhn",
+     "es": "la gallina",
+     "it": "la gallina",
+     "_pos": [
+      39,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pigsty",
+     "fr": "la porcherie",
+     "de": "der Schweinestall",
+     "es": "el chiquero",
+     "it": "il porcile",
+     "_pos": [
+      676,
+      1022
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chicken coop",
+     "fr": "le poulailler",
+     "de": "der Hühnerstall",
+     "es": "el gallinero",
+     "it": "il pollaio",
+     "_pos": [
+      466,
+      1023
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pen",
+     "fr": "l'enclos",
+     "de": "der Pferch",
+     "es": "el redil",
+     "it": "il recinto",
+     "_pos": [
+      253,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stable",
+     "fr": "l'écurie",
+     "de": "der Stall",
+     "es": "el establo",
+     "it": "la stalla",
+     "_pos": [
+      42,
+      1028
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 3,
+  "flagged": 17,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

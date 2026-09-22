@@ -1,0 +1,664 @@
+{
+ "page": 64,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "lid",
+     "fr": "couvercle",
+     "de": "Deckel",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 6
+     }
+    },
+    {
+     "en": "nonstick",
+     "fr": "anri-adhcrcnr",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 12
+     }
+    },
+    {
+     "en": "frying pan",
+     "fr": "poêle",
+     "de": "Bratpfanne",
+     "es": "sartén",
+     "it": "padella",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "saucepan",
+     "fr": "casserole",
+     "de": "Kochtopf",
+     "es": "cacerola",
+     "it": "pentola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "griddle",
+     "fr": "gril",
+     "de": "Grillblech",
+     "es": "parrilla",
+     "it": "padella per grigliare",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 10,
+      "es": 8,
+      "it": 19
+     }
+    },
+    {
+     "en": "wok",
+     "fr": "w ok",
+     "de": "Wok",
+     "es": "e l.w ok",
+     "it": "wok",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 5,
+      "it": 3
+     }
+    },
+    {
+     "en": "earthenware dish",
+     "fr": "fait roui",
+     "de": "Schmortopf",
+     "es": "olla de barro",
+     "it": "casseruola di terracotta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 8,
+      "de": 10,
+      "es": 11,
+      "it": 22
+     }
+    },
+    {
+     "en": "ovenproof",
+     "fr": "allant au tour",
+     "de": "feuerfest",
+     "es": "resistente al hom o",
+     "it": "pirofilo",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 9,
+      "es": 16,
+      "it": 8
+     }
+    },
+    {
+     "en": "glass",
+     "fr": "en verre",
+     "de": "Glas",
+     "es": "de cristal",
+     "it": "di vetro",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 4,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "gratin dish",
+     "fr": "plat à gratin",
+     "de": "Auflaufform",
+     "es": "fuente para gratinar",
+     "it": "piatto da gratin",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 18,
+      "it": 14
+     }
+    },
+    {
+     "en": "mixing bowl",
+     "fr": "grand hol",
+     "de": "Rührschüssel",
+     "es": "ensaladera",
+     "it": "scodella",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 12,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "soufflé dish",
+     "fr": "moule à souffle",
+     "de": "Souffléform",
+     "es": "molde para suflé",
+     "it": "stampo per soufflé",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "ramekin",
+     "fr": "ram equin",
+     "de": "Auflaufförmchen",
+     "es": "molde individual",
+     "it": "stampo",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 15,
+      "es": 15,
+      "it": 6
+     }
+    },
+    {
+     "en": "casserole dish",
+     "fr": "cocotte «die Kasserolle",
+     "es": "cazuela",
+     "it": "casseruola",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 20,
+      "es": 7,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": "cottura-dei-dolci",
+   "names": {
+    "en": "baking cakes",
+    "fr": "la pâtisserie",
+    "de": "das kuchenbacken",
+    "es": "la repostería",
+    "it": "la cottura dei dolci"
+   },
+   "entries": [
+    {
+     "en": "measuring cup",
+     "fr": "pot gradué",
+     "de": "Messbecher",
+     "es": "taza medidora",
+     "it": "bricco misuratore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 10,
+      "es": 12,
+      "it": 16
+     }
+    },
+    {
+     "en": "cake pan",
+     "fr": "moule à gâteaux",
+     "de": "Kuchenform",
+     "es": "molde para pastel",
+     "it": "stampo per dolci",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 10,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "flan pan",
+     "fr": "m oule è carre",
+     "de": "Obstkuchen form",
+     "es": "llanera",
+     "it": "stampo per flan",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 14,
+      "es": 7,
+      "it": 13
+     }
+    },
+    {
+     "en": "pie pan",
+     "fr": "tourtière",
+     "de": "Pastetenform",
+     "es": "molde redondo",
+     "it": "stampo per torte",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 12,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "scales",
+     "fr": "balance",
+     "de": "Haushaltswaage",
+     "es": "báscula de cocina",
+     "it": "bilancia",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 14,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "piping bag",
+     "fr": "poche à douille",
+     "de": "Spritzbeutel",
+     "es": "dulía",
+     "it": "tasca da pasticciere",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 12,
+      "es": 5,
+      "it": 18
+     }
+    },
+    {
+     "en": "pastry brush",
+     "fr": "pinceau à pâtisserie",
+     "de": "Backpinsel",
+     "es": "brocha de cocina",
+     "it": "pennello da cucina",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 18,
+      "de": 10,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "rolling pin",
+     "fr": "rouleau pâtissier",
+     "de": "Nudelholz",
+     "es": "rodillo de cocina",
+     "it": "mattarello",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 9,
+      "es": 15,
+      "it": 10
+     }
+    },
+    {
+     "en": "cooling rack",
+     "fr": "grille de refroidissement",
+     "de": "Abkühlgitter",
+     "es": "rejilla",
+     "it": "gratella",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 23,
+      "de": 12,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "oven mitt",
+     "fr": "gant isolant",
+     "de": "Topfhandschuh",
+     "es": "guanti- de cocina",
+     "it": "guanto da forno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 13,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "apron",
+     "fr": "tablier",
+     "de": "Schürze",
+     "es": "delantal",
+     "it": "grembiule",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "cookie sheet",
+     "fr": "plaque à gâteaux",
+     "de": "Kuchenblech",
+     "es": "charola de hom o",
+     "it": "placca da forno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 11,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "muffìn pan",
+     "fr": "moule à m uffins",
+     "de": "Törtchen form",
+     "es": "molde para panqués",
+     "it": "teglia per pasticcini",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 12,
+      "es": 16,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

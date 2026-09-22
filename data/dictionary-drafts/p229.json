@@ -1,0 +1,306 @@
+{
+ "page": 229,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • I KS SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "horseback riding l'équitation • der Reitsport • la equitación l'equitazione",
+   "parts": [
+    "horseback riding l'équitation",
+    "der reitsport",
+    "la equitación l'equitazione"
+   ],
+   "entries": [
+    {
+     "en": "nding cap",
+     "fr": "la bombe",
+     "de": "der Reithelm",
+     "es": "la gorra de montar",
+     "it": "il cappello da equitazione",
+     "_pos": [
+      497,
+      116
+     ],
+     "_flags": [
+      "wrap"
+     ]
+    },
+    {
+     "en": "mane",
+     "fr": "la crinière",
+     "de": "die Mähne",
+     "es": "la crin",
+     "it": "la criniera",
+     "_pos": [
+      672,
+      118
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rider",
+     "fr": "le cavalier",
+     "de": "der Reiter",
+     "es": "el jinete",
+     "it": "il fantino",
+     "_pos": [
+      294,
+      181
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reins",
+     "fr": "les rênes",
+     "de": "die Zügel",
+     "es": "las riendas",
+     "it": "le redini",
+     "_pos": [
+      790,
+      233
+     ],
+     "_flags": []
+    },
+    {
+     "en": "saddle",
+     "fr": "la selle",
+     "de": "der Sattel",
+     "es": "la siila de montar",
+     "it": "la sella",
+     "_pos": [
+      200,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horse",
+     "fr": "le cheval",
+     "de": "das Pferd",
+     "es": "el caballo",
+     "it": "il cavallo",
+     "_pos": [
+      51,
+      312
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jodhpurs",
+     "fr": "le jodhpur",
+     "de": "die Reithose",
+     "es": "el pantalón de montar",
+     "it": "i pantaloni da equitazione",
+     "_pos": [
+      689,
+      426
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tail",
+     "fr": "la queue",
+     "de": "der Schweif",
+     "es": "la cola",
+     "it": "la coda",
+     "_pos": [
+      70,
+      492
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cinch",
+     "fr": "la sangle",
+     "de": "der Sattelgurt",
+     "es": "la cincha",
+     "it": "la cinghia",
+     "_pos": [
+      664,
+      553
+     ],
+     "_flags": []
+    },
+    {
+     "en": "riding boot -- '",
+     "fr": "la botte",
+     "de": "der Reitstiefel",
+     "es": "la bota de montar",
+     "it": "lo stivale da equitazione",
+     "_pos": [
+      270,
+      587
+     ],
+     "_flags": [
+      "wrap",
+      "en:short:'"
+     ]
+    },
+    {
+     "en": "stirrup",
+     "fr": "l'étrier",
+     "de": "der Steigbügel",
+     "es": "el estribo",
+     "it": "la staffa",
+     "_pos": [
+      420,
+      604
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hoof",
+     "fr": "le sabor",
+     "de": "der Huf",
+     "es": "casco",
+     "it": "lo zoccolo",
+     "_pos": [
+      630,
+      709
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pommel",
+     "fr": "le pommeau",
+     "de": "der Vorderzwiesel",
+     "es": "el borrén",
+     "it": "il nomo",
+     "_pos": [
+      336,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "browband",
+     "fr": "le fron rail",
+     "de": "der Stirnriemen",
+     "es": "la frontalera",
+     "_pos": [
+      524,
+      812
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "noseband",
+     "fr": "la m userolle",
+     "de": "der Nasenriemen",
+     "es": "la muserola",
+     "it": "la cinghia nasale",
+     "_pos": [
+      664,
+      813
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "bu",
+     "fr": "le mors",
+     "de": "die Kandare",
+     "es": "freno",
+     "it": "il morso",
+     "_pos": [
+      804,
+      814
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat",
+     "fr": "le siège",
+     "de": "der Sitz",
+     "es": "la silla",
+     "it": "il sedile",
+     "_pos": [
+      220,
+      903
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bndle",
+     "fr": "la bride",
+     "de": "das Zaumzeug",
+     "es": "la brida",
+     "it": "la briglia",
+     "_pos": [
+      479,
+      1003
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horseshoe",
+     "fr": "le ter à cheval",
+     "de": "das Hufeisen",
+     "es": "la herradura",
+     "it": "il ferro da cavallo",
+     "_pos": [
+      52,
+      1018
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sidesaddle",
+     "fr": "la selle de femme",
+     "de": "der Damensattel",
+     "es": "la silla de montar de escaramuza",
+     "it": "la sella da signora",
+     "_pos": [
+      264,
+      1018
+     ],
+     "_flags": []
+    },
+    {
+     "en": "riding crop",
+     "fr": "la cravache",
+     "de": "die Reitgerte",
+     "es": "I3 fusta",
+     "it": "il frustino",
+     "_pos": [
+      476,
+      1070
+     ],
+     "_flags": [
+      "es:num:I3",
+      "es:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 11,
+  "flagged": 10,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

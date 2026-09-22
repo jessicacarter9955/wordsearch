@@ -1,0 +1,440 @@
+{
+ "page": 147,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "colazione",
+   "names": {
+    "en": "breakfast",
+    "fr": "le petit déjeuner",
+    "de": "das frühstück",
+    "es": "el desayuno",
+    "it": "la colazione"
+   },
+   "entries": [
+    {
+     "en": "milk",
+     "fr": "lait",
+     "de": "Milch",
+     "es": "leche",
+     "it": "latte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "cereal",
+     "fr": "céréales",
+     "de": "Getreideflocken",
+     "es": "cereales",
+     "it": "cereale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 15,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "jam",
+     "fr": "confiture",
+     "de": "Konfitüre",
+     "es": "mermelada",
+     "it": "marmellata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "dried fruit",
+     "fr": "fru ir secs",
+     "de": "Dörrobst",
+     "es": "In ita seca",
+     "it": "frutta secca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "ham",
+     "fr": "jambon",
+     "de": "Schinken",
+     "es": "jamón",
+     "it": "prosciutto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "cheese",
+     "fr": "fromage",
+     "de": "Käse",
+     "es": "queso",
+     "it": "formaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 4,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "crispbread",
+     "fr": "biscuit scandinave",
+     "de": "Knäckebrot",
+     "es": "galleta de centeno",
+     "it": "pane biscottato",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 10,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "butter",
+     "fr": "beurre",
+     "de": "Butter",
+     "es": "mantequilla",
+     "it": "burro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 11,
+      "it": 5
+     }
+    },
+    {
+     "en": "breakfast buffet",
+     "fr": "buffet du petit déjeuner",
+     "de": "Frühstücks buffet",
+     "es": "buffet de desavuno",
+     "it": "buffet della colazione",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 21,
+      "de": 16,
+      "es": 16,
+      "it": 20
+     }
+    },
+    {
+     "en": "marmalade",
+     "fr": "confiture d'oranges",
+     "de": "Orangenmarmelade",
+     "es": "mermelada de naranja",
+     "it": "marmellata di agrumi",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 16,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "pâté",
+     "fr": "pâté",
+     "de": "Pastete",
+     "es": "paté",
+     "it": "pàté",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "fruit juice",
+     "fr": "jus de fruir",
+     "de": "Obstsaft",
+     "es": "jugo de frutas",
+     "it": "succo di frutta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 8,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "coffee",
+     "fr": "café",
+     "de": "Kaffee",
+     "es": "café",
+     "it": "caffè",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "croissant",
+     "fr": "croissant",
+     "de": "Croissant",
+     "es": "croissant",
+     "it": "cornetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "hot chocolate",
+     "fr": "chocolat chaud",
+     "de": "Schokolade",
+     "es": "chocolate caliente",
+     "it": "cioccolata calda",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 10,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "tea",
+     "fr": "thé",
+     "de": "Tee",
+     "es": "té",
+     "it": "tè",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 2,
+      "it": 2
+     }
+    },
+    {
+     "en": "breakfast table",
+     "fr": "table du petit déjeuner",
+     "de": "Frühstückstisch",
+     "es": "mesa del desayuno",
+     "it": "tavolo della colazione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 20,
+      "de": 15,
+      "es": 15,
+      "it": 20
+     }
+    },
+    {
+     "en": "drinks",
+     "fr": "boissons",
+     "de": "Getränke",
+     "es": "bebidas",
+     "it": "bevande",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,388 @@
+{
+ "page": 17,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • I FS G E N S • DIE MENSCHEN • L A G E N T E • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "head • la tête • der Kopf • la cabeza • la testa",
+   "parts": [
+    "head",
+    "la tête",
+    "der kopf",
+    "la cabeza",
+    "la testa"
+   ],
+   "entries": [
+    {
+     "en": "brain",
+     "fr": "le cerveau",
+     "de": "das Gehirn",
+     "es": "el cerebro",
+     "it": "I cervello",
+     "_pos": [
+      720,
+      97
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "sinus",
+     "fr": "le sinus",
+     "de": "der Sinus",
+     "es": "el seno",
+     "it": "il serio",
+     "_pos": [
+      58,
+      161
+     ],
+     "_flags": []
+    },
+    {
+     "en": "palate",
+     "fr": "le palais",
+     "de": "der Gaumen",
+     "es": "el paladar",
+     "it": "il palato",
+     "_pos": [
+      186,
+      199
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pharynx",
+     "fr": "le pharynx",
+     "de": "der Rachen",
+     "es": "la faringe",
+     "it": "la faringe",
+     "_pos": [
+      731,
+      212
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tongue",
+     "fr": "la langue",
+     "de": "die Zunge",
+     "es": "la lengua",
+     "it": "la lingua",
+     "_pos": [
+      126,
+      281
+     ],
+     "_flags": []
+    },
+    {
+     "en": "epiglottis",
+     "fr": "l'épiglotte",
+     "de": "der Kehldeckel",
+     "es": "la epiglotis",
+     "it": "l'epiglottide",
+     "_pos": [
+      724,
+      328
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      128,
+      396
+     ],
+     "_flags": [
+      "oriz:13p"
+     ],
+     "_parts": [
+      "larynx",
+      "le laryn x",
+      "der Kehlkopf",
+      "la bringe",
+      "la laringe Adam's apple",
+      "la pomme d'Adam",
+      "der Adamsapfel",
+      "la m anzana de Adán",
+      "¡I pomo di Adam o vocal cords",
+      "les cordes vocales",
+      "die Stimmbänder",
+      "las cuerdas vocales",
+      "le corde vocali"
+     ]
+    },
+    {
+     "en": "esophagus",
+     "fr": "l'œ sophage",
+     "de": "die Speiseröhre",
+     "es": "el esófago",
+     "it": "l'esofago",
+     "_pos": [
+      676,
+      425
+     ],
+     "_flags": []
+    },
+    {
+     "en": "throat",
+     "fr": "la gorge",
+     "de": "die Kehle",
+     "es": "la garganta",
+     "it": "la gola",
+     "_pos": [
+      686,
+      526
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "body systems • Ics systèmes du corps • die Körpersysteme • los sistemas • i sistemi corporali",
+   "parts": [
+    "body systems",
+    "ics systèmes du corps",
+    "die körpersysteme",
+    "los sistemas",
+    "i sistemi corporali"
+   ],
+   "entries": [
+    {
+     "en": "diaphragm",
+     "fr": "le diaphragme",
+     "de": "das Zwerchfell",
+     "es": "el diafragma",
+     "it": "il diaframma",
+     "_pos": [
+      194,
+      627
+     ],
+     "_flags": []
+    },
+    {
+     "en": "artery",
+     "fr": "l'artère",
+     "de": "die Arterie",
+     "es": "la arteria",
+     "it": "l'arteria",
+     "_pos": [
+      608,
+      658
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vein",
+     "fr": "la veine",
+     "de": "die Vene",
+     "es": "la vena",
+     "it": "la vena",
+     "_pos": [
+      440,
+      658
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lymphatic",
+     "fr": "lymphatique",
+     "de": "das lymphatische System",
+     "es": "linfático",
+     "it": "linfatico",
+     "_pos": [
+      698,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cardiovascular",
+     "fr": "cardio-vosculaire",
+     "de": "das Herz- und Gefäßsystem",
+     "es": "cardiovascular",
+     "it": "cardiovascolare",
+     "_pos": [
+      450,
+      787
+     ],
+     "_flags": []
+    },
+    {
+     "en": "digestive",
+     "fr": "digestif",
+     "de": "das Verdauungssystem",
+     "es": "digestivo",
+     "it": "digestivo",
+     "_pos": [
+      261,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "respiratory",
+     "fr": "respiratoire",
+     "de": "das Atmungssystem",
+     "es": "respiratorio",
+     "it": "respiratorio",
+     "_pos": [
+      48,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "V",
+     "_pos": [
+      330,
+      880
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:short:V",
+      "en:case"
+     ]
+    },
+    {
+     "en": "gland",
+     "fr": "la glande",
+     "de": "die Drüse",
+     "es": "la glándula",
+     "it": "la ghiandola",
+     "_pos": [
+      392,
+      903
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nerve",
+     "fr": "le nerf",
+     "de": "der Nerv",
+     "es": "el nervio",
+     "it": "il nervo",
+     "_pos": [
+      624,
+      905
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "« I",
+   "parts": [
+    "« i"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "1 j '#* ■ I % 4 1",
+   "parts": [
+    "1 j '#*",
+    "i % 4"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "•",
+   "parts": [],
+   "entries": [
+    {
+     "_pos": [
+      331,
+      998
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "'J",
+   "parts": [
+    "'j"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "1",
+   "parts": [],
+   "entries": [
+    {
+     "en": "reproductive",
+     "fr": "reproducteur",
+     "de": "das Fortpflanzungssystem",
+     "es": "reproductor",
+     "it": "riproduttivo",
+     "_pos": [
+      686,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nervous",
+     "fr": "nerveux",
+     "de": "das Nervensystem",
+     "es": "nervioso",
+     "it": "nervoso",
+     "_pos": [
+      472,
+      1032
+     ],
+     "_flags": []
+    },
+    {
+     "en": "endocrine",
+     "fr": "endocrine",
+     "de": "das endokrine System",
+     "es": "endocrino",
+     "it": "endocrino",
+     "_pos": [
+      255,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "urinary",
+     "fr": "urinaire",
+     "de": "das Harnsystem",
+     "es": "urinario",
+     "it": "urinario",
+     "_pos": [
+      50,
+      1035
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 5,
+  "flagged": 19,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 7
+ }
+}

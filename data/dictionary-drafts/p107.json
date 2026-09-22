@@ -1,0 +1,180 @@
+{
+ "page": 107,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • L L S C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "other stores • les autres magasins • andere Geschäfte • las otras tiendas • gli altri negozi",
+   "parts": [
+    "other stores",
+    "les autres magasins",
+    "andere geschäfte",
+    "las otras tiendas",
+    "gli altri negozi"
+   ],
+   "entries": [
+    {
+     "en": "bakery",
+     "fr": "la boulangerie",
+     "de": "die Bäckerei",
+     "es": "la panadería",
+     "it": "il panificio",
+     "_pos": [
+      51,
+      385
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cake shop",
+     "fr": "la pâtisserie",
+     "de": "die Konditorei",
+     "es": "la confitería",
+     "it": "la pasticceria",
+     "_pos": [
+      265,
+      386
+     ],
+     "_flags": []
+    },
+    {
+     "en": "butcher shop",
+     "fr": "la boucherie",
+     "de": "die Metzgerei",
+     "es": "la cam iceria",
+     "it": "la macelleria",
+     "_pos": [
+      480,
+      386
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fish counter",
+     "fr": "la poissonnerie",
+     "de": "das Fischgeschäft",
+     "es": "la pescadería",
+     "it": "la pescheria",
+     "_pos": [
+      694,
+      386
+     ],
+     "_flags": []
+    },
+    {
+     "en": "produce stand",
+     "fr": "le marchand de légumes",
+     "de": "der Gemüseladen",
+     "es": "la verdulería",
+     "it": "il fruttivendolo",
+     "_pos": [
+      51,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grocery store",
+     "fr": "l'épicerie",
+     "de": "das Lebensmittelgeschäft",
+     "es": "los abarrotes",
+     "it": "la drogheria",
+     "_pos": [
+      265,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shoe store",
+     "fr": "le magasin de chaussures",
+     "de": "das Schuhgeschäft",
+     "es": "la zapatería",
+     "it": "il negozio di calzature",
+     "_pos": [
+      480,
+      701
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hardware store",
+     "fr": "la quincaillerie",
+     "de": "die Eisenwaren handlung",
+     "es": "la ferretería",
+     "it": "il negozio di ferramenta",
+     "_pos": [
+      694,
+      701
+     ],
+     "_flags": []
+    },
+    {
+     "en": "antique store",
+     "fr": "le magasin d'antiquités",
+     "de": "der Antiquitätenladen",
+     "es": "la tienda de antigüedades",
+     "it": "il negozio di antiquariato",
+     "_pos": [
+      51,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gift store",
+     "fr": "la boutique de cadeaux",
+     "de": "der Geschenkartikel laden",
+     "es": "la tienda de regalos",
+     "it": "il negozio di articoli da regalo",
+     "_pos": [
+      265,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "travel agency",
+     "fr": "l'agence de voyage",
+     "de": "das Reisebüro",
+     "es": "la agencia de viajes",
+     "it": "l'agenzia di viaggi",
+     "_pos": [
+      480,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jewelry store",
+     "fr": "la bijouterie",
+     "de": "das Juweliergeschäft",
+     "es": "la joyería",
+     "it": "la gioielleria",
+     "_pos": [
+      694,
+      1015
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 12,
+  "complete_clean": 0,
+  "flagged": 12,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

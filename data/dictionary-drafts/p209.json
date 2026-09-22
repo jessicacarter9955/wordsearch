@@ -1,0 +1,241 @@
+{
+ "page": 209,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "soccer • le football • der Fußball • el fútbol • il calcio",
+   "parts": [
+    "soccer",
+    "le football",
+    "der fußball",
+    "el fútbol",
+    "il calcio"
+   ],
+   "entries": [
+    {
+     "en": "soccer ball",
+     "fr": "le ballon",
+     "de": "der Fußball",
+     "es": "el balón",
+     "it": "il pallone",
+     "_pos": [
+      256,
+      117
+     ],
+     "_flags": []
+    },
+    {
+     "en": "forward",
+     "fr": "l'avant",
+     "de": "der Mittelstürmer",
+     "es": "el delantero",
+     "it": "l'attaccante",
+     "_pos": [
+      393,
+      119
+     ],
+     "_flags": []
+    },
+    {
+     "en": "referee",
+     "fr": "l'arbitre",
+     "de": "der Schiedsrichter",
+     "es": "el árbitro",
+     "it": "l'arbitro",
+     "_pos": [
+      562,
+      119
+     ],
+     "_flags": []
+    },
+    {
+     "en": "center circle",
+     "fr": "le cercle central",
+     "de": "der M inelkreis",
+     "es": "el círculo central",
+     "it": "il centro campo",
+     "_pos": [
+      732,
+      120
+     ],
+     "_flags": [
+      "de:short:M"
+     ]
+    },
+    {
+     "en": "goalkeeper",
+     "fr": "le gardien de but",
+     "de": "der Torwart",
+     "es": "el portero",
+     "it": "il portiere",
+     "_pos": [
+      278,
+      233
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soccer uniform",
+     "fr": "la tenue",
+     "de": "der Dress",
+     "es": "ei uniform e",
+     "it": "la divisa",
+     "_pos": [
+      218,
+      397
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soccer player",
+     "fr": "le joueur de foot",
+     "de": "der Fußballspieler",
+     "es": "el futbolista",
+     "it": "il calciatore",
+     "_pos": [
+      48,
+      593
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soccer field",
+     "fr": "le terrain",
+     "de": "das Fußballfeld",
+     "es": "el campo de fútbol",
+     "it": "il campo di calcio",
+     "_pos": [
+      290,
+      629
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goalpost",
+     "fr": "le poteau",
+     "de": "der Torpfosten",
+     "es": "el poste",
+     "it": "il nnln",
+     "_pos": [
+      86,
+      675
+     ],
+     "_flags": []
+    },
+    {
+     "en": "net",
+     "fr": "le filet",
+     "de": "das Tomet2",
+     "es": "la red",
+     "_pos": [
+      197,
+      676
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig",
+      "de:num:Tomet2"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "crossbar",
+     "fr": "la barre transversale",
+     "de": "die Querlatte",
+     "es": "el larguero",
+     "it": "I O I r'UiíMTO",
+     "_pos": [
+      296,
+      676
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "dribble (v)",
+     "fr": "dribbler",
+     "de": "dribbeln",
+     "es": "regatear",
+     "it": "palleggiare",
+     "_pos": [
+      472,
+      842
+     ],
+     "_flags": []
+    },
+    {
+     "en": "head (v)",
+     "fr": "faire une tête",
+     "de": "köpfen",
+     "es": "cabecear",
+     "_pos": [
+      683,
+      842
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "goal",
+     "fr": "le but",
+     "de": "das Tor",
+     "es": "el gol",
+     "it": "il gol",
+     "_pos": [
+      46,
+      1051
+     ],
+     "_flags": []
+    },
+    {
+     "en": "free kick",
+     "fr": "le coup franc",
+     "de": "der Freistoß",
+     "es": "tiro libre",
+     "it": "il calcio di punizione",
+     "_pos": [
+      471,
+      1055
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": ";",
+   "pos": [
+    758,
+    567
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 5,
+  "flagged": 10,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,686 @@
+{
+ "page": 21,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "macro_slug": "persone",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "famiglia",
+   "names": {
+    "en": "family",
+    "fr": "la famille",
+    "de": "die Familie",
+    "es": "la familia",
+    "it": "la famiglia"
+   },
+   "entries": [
+    {
+     "en": "generation",
+     "fr": "génération",
+     "de": "Generation",
+     "es": "generación",
+     "it": "generazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "stepson",
+     "fr": "beau-fils",
+     "de": "Stiefsohn",
+     "es": "hijastro",
+     "it": "figliastro",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "stepmother",
+     "fr": "belle-mère",
+     "de": "Stiefmutter",
+     "es": "madrastra",
+     "it": "matrigna",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "grandchildren",
+     "fr": "petits-enfants",
+     "de": "Enkelkinder",
+     "es": "nietos",
+     "it": "nipoti",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "parents",
+     "fr": "parents",
+     "de": "Eltern",
+     "es": "padres",
+     "it": "genitori",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "relatives",
+     "fr": "parents",
+     "de": "Verwandten",
+     "es": "parientes",
+     "it": "parenti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 10,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "twins",
+     "fr": "jumeaux",
+     "de": "Zwillinge",
+     "es": "gemelos",
+     "it": "gemelli",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "partner",
+     "fr": "le/la partenaire",
+     "de": "Partner/die Partnerin",
+     "es": "el/la compañero/-a",
+     "it": "il/la compagno/-a",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 19,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "stepdaughter",
+     "fr": "belle-fille",
+     "de": "Stieftochter",
+     "es": "hijastra",
+     "it": "figliastra",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 12,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "stepfather",
+     "fr": "beau-père",
+     "de": "Stiefvater",
+     "es": "padrastro",
+     "it": "patrigno",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 10,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "children",
+     "fr": "enfants",
+     "de": "Kinder",
+     "es": "niños",
+     "it": "bambini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "grandparents",
+     "fr": "grands-parents",
+     "de": "Großeltern",
+     "es": "abuelos",
+     "it": "nonni",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 11,
+      "es": 7,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": "stadi-della-vita",
+   "names": {
+    "en": "stages",
+    "fr": "les stades",
+    "de": "die Stadien",
+    "es": "las etapas",
+    "it": "le fasi"
+   },
+   "entries": [
+    {
+     "en": "father-in-law",
+     "fr": "beau-père",
+     "de": "Schwiegervater",
+     "es": "suegro",
+     "it": "suocero",
+     "_multi": [],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 14,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "mother-in-law",
+     "fr": "belle-mère",
+     "de": "Schwiegermutter",
+     "es": "suegra",
+     "it": "suocera",
+     "_multi": [],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 15,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "child",
+     "fr": "enfant",
+     "de": "Kind",
+     "es": "niño",
+     "it": "bambino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "baby",
+     "fr": "bébé",
+     "de": "Baby",
+     "es": "bebé",
+     "it": "bimbo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "brother-in-law",
+     "fr": "beau-frère",
+     "de": "Schwager",
+     "es": "cuñado",
+     "it": "cognato",
+     "_multi": [],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "sister-in-law",
+     "fr": "belle-sœur",
+     "de": "Schwägerin",
+     "es": "cuñada",
+     "it": "cognata",
+     "_multi": [],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "girl",
+     "fr": "fille",
+     "de": "Mädchen",
+     "es": "niña",
+     "it": "ragazza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "boy",
+     "fr": "garçon",
+     "de": "Junge",
+     "es": "niño",
+     "it": "ragazzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "Mrs",
+     "fr": "Madame",
+     "de": "Frau",
+     "es": "Señora",
+     "it": "signora",
+     "_multi": [],
+     "_articles_removed": {
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "adult",
+     "fr": "adulte",
+     "de": "Erwachsene",
+     "es": "adulto",
+     "it": "adulto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "teenager",
+     "fr": "adolescente",
+     "de": "Jugendliche",
+     "es": "adolescente",
+     "it": "adolescente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "nephew",
+     "fr": "neveu",
+     "de": "Neffe",
+     "es": "sobrino",
+     "it": "nipote",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "niece",
+     "fr": "nièce",
+     "de": "Nichte",
+     "es": "sobrina",
+     "it": "nipote",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": "titoli",
+   "names": {
+    "en": "titles",
+    "fr": "les titres",
+    "de": "die Anreden",
+    "es": "los tratamientos",
+    "it": "gli appellativi"
+   },
+   "entries": [
+    {
+     "en": "Mr",
+     "fr": "Monsieur",
+     "de": "Herr",
+     "es": "Señor",
+     "it": "Signore",
+     "_multi": [],
+     "_grid_len": {
+      "en": 2,
+      "fr": 8,
+      "de": 4,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "Miss",
+     "fr": "Mademoiselle",
+     "de": "Fräulein",
+     "es": "Señorita",
+     "it": "Signorina",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 12,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "woman",
+     "fr": "femme",
+     "de": "Frau",
+     "es": "mujer",
+     "it": "donna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "man",
+     "fr": "homme",
+     "de": "Mann",
+     "es": "hombre",
+     "it": "uomo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 4
+     }
+    }
+   ]
+  }
+ ],
+ "note": "PRE = continuazione albero familiare di p020. 'relatives' fr 'les parents' come da libro (FR usa parents per entrambi)."
+}

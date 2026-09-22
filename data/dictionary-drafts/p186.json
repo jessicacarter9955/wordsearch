@@ -1,0 +1,273 @@
+{
+ "page": 186,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • T F T R A N S P O R T • DER VERKEHR • E L TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "car I • la voiture 1 • das Auto 1 • el carro 1 • l'automobile 1 exterior • l'extérieur • das Äußere • el exterior • l'esterno",
+   "parts": [
+    "car i",
+    "la voiture",
+    "das auto",
+    "el carro",
+    "l'automobile 1 exterior",
+    "l'extérieur",
+    "das äußere",
+    "el exterior",
+    "l'esterno"
+   ],
+   "entries": [
+    {
+     "en": "mirror",
+     "fr": "le rétroviseur",
+     "de": "der Seitenspiegei",
+     "es": "e\\ espejo lateral",
+     "it": "lo specchietto laterale",
+     "_pos": [
+      50,
+      143
+     ],
+     "_flags": [
+      "es:weird:e\\"
+     ]
+    },
+    {
+     "en": "windshield",
+     "fr": "le pare-brise",
+     "de": "die Windschutzscheibe",
+     "es": "el parabrisas",
+     "it": "il parabrezza",
+     "_pos": [
+      232,
+      145
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rearview mirror",
+     "fr": "le rétroviseur",
+     "de": "der Rückspiegel",
+     "es": "el espejo retrovisor",
+     "it": "lo specchietto retrovisore",
+     "_pos": [
+      418,
+      146
+     ],
+     "_flags": []
+    },
+    {
+     "en": "windscreen wiper",
+     "fr": "l 'essuie-glace",
+     "de": "der Scheibenwischer",
+     "es": "el limpiaparabrisas",
+     "it": "I tergicristallo",
+     "_pos": [
+      608,
+      148
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "door",
+     "fr": "la porte",
+     "de": "die Autotür",
+     "es": "la puerta",
+     "it": "lo sportello",
+     "_pos": [
+      788,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hood",
+     "fr": "le capot",
+     "de": "die Motorhaube",
+     "es": "el cofre",
+     "it": "I cofano",
+     "_pos": [
+      49,
+      258
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "trunk",
+     "fr": "le coffre",
+     "de": "der Kofferraum",
+     "es": "la cajuela",
+     "it": "il bagagliaio",
+     "_pos": [
+      788,
+      264
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "ZN 634",
+   "parts": [
+    "zn"
+   ],
+   "entries": [
+    {
+     "en": "tum signal",
+     "fr": "le clignotant",
+     "de": "der Blinker",
+     "es": "la directional",
+     "it": "la freccia",
+     "_pos": [
+      46,
+      685
+     ],
+     "_flags": []
+    },
+    {
+     "en": "license plate",
+     "fr": "la plaque d' immatriculation",
+     "de": "das Nummernschild",
+     "es": "l.i m atrícula",
+     "it": "la targa",
+     "_pos": [
+      173,
+      703
+     ],
+     "_flags": [
+      "es:weird:l.i",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "bumper",
+     "fr": "le pare-chocs",
+     "de": "die Stoßstange",
+     "es": "la defensa",
+     "it": "il paraurti",
+     "_pos": [
+      380,
+      705
+     ],
+     "_flags": []
+    },
+    {
+     "en": "headlight",
+     "fr": "le phare",
+     "de": "der Scheinwerfer",
+     "es": "el faro",
+     "it": "i fari anabbaglianti",
+     "_pos": [
+      506,
+      706
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wheel",
+     "fr": "la roue",
+     "de": "das Rad",
+     "es": "la rueda",
+     "it": "la ruota",
+     "_pos": [
+      652,
+      708
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tire",
+     "fr": "le pneu",
+     "de": "der Reifen",
+     "es": "la llanta",
+     "it": "il pneumatico",
+     "_pos": [
+      773,
+      708
+     ],
+     "_flags": []
+    },
+    {
+     "en": "luggage",
+     "fr": "les bagages",
+     "de": "das Gepäck",
+     "es": "el equipaje",
+     "it": "i hananli",
+     "_pos": [
+      46,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roof rack",
+     "fr": "la galerie",
+     "de": "der Dachgepäckträger",
+     "es": "la baca",
+     "it": "il portabagagli",
+     "_pos": [
+      45,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailgate",
+     "fr": "le hayon",
+     "de": "die Hecktur",
+     "es": "la puerta abatible",
+     "it": "il portellone",
+     "_pos": [
+      258,
+      1017
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat belt",
+     "fr": "la ceinture de sécuriré",
+     "de": "der Sicherheitsgurt",
+     "es": "el cinturón de seguridad",
+     "it": "la cintura di sicurezza",
+     "_pos": [
+      471,
+      1019
+     ],
+     "_flags": []
+    },
+    {
+     "en": "child seat",
+     "fr": "le siège d'enfant",
+     "de": "der Kindersitz",
+     "es": "la silla para niños",
+     "it": "il seggiolino per bambino",
+     "_pos": [
+      684,
+      1021
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 9,
+  "flagged": 9,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,453 @@
+{
+ "page": 121,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "nuts and dried fruit • les noix et les fruits secs • die Nüsse und das Dörrobst • los frutos secos • le noci e la frutta secca",
+   "parts": [
+    "nuts and dried fruit",
+    "les noix et les fruits secs",
+    "die nüsse und das dörrobst",
+    "los frutos secos",
+    "le noci e la frutta secca"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "?",
+   "parts": [
+    "?"
+   ],
+   "entries": [
+    {
+     "en": "hazelnut",
+     "fr": "la noisette",
+     "de": "die Haselnuss",
+     "es": "la avellana",
+     "it": "la nocciola",
+     "_pos": [
+      697,
+      208
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peanut",
+     "fr": "la cacahouète",
+     "de": "die Erdnuss",
+     "es": "el cacahuete",
+     "it": "l'arachide",
+     "_pos": [
+      528,
+      209
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cashew nut",
+     "fr": "Li noix de cajou",
+     "de": "die Cashewnuss",
+     "es": "la nuez, de la India",
+     "it": "l'anacardio",
+     "_pos": [
+      356,
+      210
+     ],
+     "_flags": [
+      "fr:case",
+      "es:weird:nuez,"
+     ]
+    },
+    {
+     "en": "pistachio",
+     "fr": "la pistache",
+     "de": "die Pistazie",
+     "es": "el pistache",
+     "it": "I pistacchio",
+     "_pos": [
+      186,
+      212
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "pine nut",
+     "fr": "le pignon",
+     "de": "die Piniennuss",
+     "es": "el piñón",
+     "it": "il pinolo",
+     "_pos": [
+      16,
+      213
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chestnut",
+     "fr": "le marron",
+     "de": "die Esskastanie",
+     "es": "la castaña",
+     "it": "la castagna",
+     "_pos": [
+      700,
+      380
+     ],
+     "_flags": []
+    },
+    {
+     "en": "walnut",
+     "fr": "la noix",
+     "de": "Walnuss",
+     "es": "la nuez de Castilla",
+     "it": "la noce",
+     "_pos": [
+      530,
+      381
+     ],
+     "_flags": []
+    },
+    {
+     "en": "almond",
+     "fr": "l'amande",
+     "de": "die Mandel",
+     "es": "la almendra",
+     "it": "la mandorla",
+     "_pos": [
+      360,
+      383
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pecan",
+     "fr": "la noix pacane",
+     "de": "die Pecannuss",
+     "es": "la nuez",
+     "it": "il pecan",
+     "_pos": [
+      190,
+      384
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Brazil nut",
+     "fr": "la noix du Brésil",
+     "de": "die Paranuss",
+     "es": "la nuez de Brasil",
+     "it": "la mandorla brasiliana",
+     "_pos": [
+      20,
+      386
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "shell",
+     "fr": "la coquille",
+     "de": "die Schale",
+     "es": "la cáscara",
+     "it": "il guscio",
+     "_pos": [
+      702,
+      454
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prune",
+     "fr": "le pruneau",
+     "de": "die Backpflaume",
+     "es": "la ciruela pasa",
+     "it": "la prugna sceca",
+     "_pos": [
+      532,
+      571
+     ],
+     "_flags": []
+    },
+    {
+     "en": "date",
+     "fr": "la darre",
+     "de": "die Dattel",
+     "es": "el dátil",
+     "it": "il dattero",
+     "_pos": [
+      362,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "macadamia",
+     "fr": "le m acadam ia",
+     "de": "die Macadamianuss",
+     "es": "la macadamia",
+     "it": "caramellato per intero",
+     "_pos": [
+      22,
+      575
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "flesh",
+     "fr": "la chair",
+     "de": "das Fruchtfleisch",
+     "es": "la pulpa",
+     "it": "la polpa",
+     "_pos": [
+      564,
+      660
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coconut",
+     "fr": "la noix de coco",
+     "de": "die Kokosnuss",
+     "es": "el coco",
+     "it": "la nuce di cocco",
+     "_pos": [
+      534,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "currant",
+     "fr": "le raisin de C orinthe",
+     "de": "die Korinthe « la pasa de Corinto",
+     "it": "l'uva passa",
+     "_pos": [
+      364,
+      786
+     ],
+     "_flags": [
+      "missing:es",
+      "fr:short:C",
+      "de:weird:«"
+     ]
+    },
+    {
+     "en": "raisin",
+     "fr": "le raisin sec",
+     "de": "die Rosine",
+     "es": "la pasa",
+     "it": "l'uvetta",
+     "_pos": [
+      194,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sultana",
+     "fr": "le raisin de >myrne",
+     "de": "die Sultanine",
+     "es": "la pasa sultana",
+     "it": "uva sultanina",
+     "_pos": [
+      24,
+      790
+     ],
+     "_flags": [
+      "fr:weird:>myrne"
+     ]
+    },
+    {
+     "en": "shelled",
+     "fr": "décortiqué",
+     "de": "geschält",
+     "es": "pelado",
+     "it": "sgusciato",
+     "_pos": [
+      750,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tropical fruit",
+     "fr": "les fruits tropicaux",
+     "de": "die Südfrüchte",
+     "es": "las frutas tropicales",
+     "it": "la frutta tropicale",
+     "_pos": [
+      568,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roasted",
+     "fr": "grillé",
+     "de": "geröstet",
+     "es": "tostado",
+     "it": "arrostito",
+     "_pos": [
+      426,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salted",
+     "fr": "salé",
+     "de": "gesalzen",
+     "es": "salado",
+     "it": "salato",
+     "_pos": [
+      336,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kernel",
+     "fr": "l'amande",
+     "de": "der Kern",
+     "es": "la almendra",
+     "it": "il nocciòlo",
+     "_pos": [
+      222,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hard",
+     "fr": "dur",
+     "de": "han",
+     "es": "duro",
+     "it": "duro",
+     "_pos": [
+      134,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "green",
+     "fr": "vert",
+     "de": "grün",
+     "es": "verde",
+     "it": "verde",
+     "_pos": [
+      40,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whole",
+     "fr": "complet",
+     "de": "ganz",
+     "es": "entero",
+     "it": "intero",
+     "_pos": [
+      752,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "candied fruit",
+     "fr": "le truie confit",
+     "de": "die kandierten Früchte",
+     "es": "la fruta escarchada",
+     "it": "la frutta candita",
+     "_pos": [
+      568,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seasonal",
+     "fr": "de saison",
+     "de": "Saison",
+     "es": "dé temporada",
+     "it": "stagionale",
+     "_pos": [
+      428,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "raw",
+     "fr": "cru",
+     "de": "roh",
+     "es": "crudo",
+     "it": "crudo",
+     "_pos": [
+      338,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dned",
+     "fr": "séché",
+     "de": "getrocknet",
+     "es": "desecado",
+     "it": "essiccato",
+     "_pos": [
+      224,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "npe",
+     "fr": "mûr",
+     "de": "reif",
+     "es": "maduro",
+     "it": "maturo",
+     "_pos": [
+      41,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soft",
+     "fr": "mou",
+     "de": "weich",
+     "es": "blando",
+     "it": "morbido",
+     "_pos": [
+      136,
+      987
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 33,
+  "complete_clean": 14,
+  "flagged": 19,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

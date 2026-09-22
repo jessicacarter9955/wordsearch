@@ -1,0 +1,399 @@
+{
+ "page": 90,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES • LES SERVICES ♦ DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "bank • la banque • die Bank • el banco • la banca",
+   "parts": [
+    "bank",
+    "la banque",
+    "die bank",
+    "el banco",
+    "la banca"
+   ],
+   "entries": [
+    {
+     "en": "brochures",
+     "fr": "les dépliants",
+     "de": "die Broschüren",
+     "es": "los folletos",
+     "it": "i dépliants",
+     "_pos": [
+      756,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customer",
+     "fr": "le client",
+     "de": "der Kunde",
+     "es": "el cliente",
+     "it": "il cliente",
+     "_pos": [
+      96,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "counter",
+     "fr": "le comptoir",
+     "de": "der Schalter",
+     "es": "el mostrador",
+     "it": "il banco",
+     "_pos": [
+      756,
+      230
+     ],
+     "_flags": []
+    },
+    {
+     "en": "window",
+     "fr": "le guichet",
+     "de": "der Schalter",
+     "es": "la ventanilla",
+     "it": "lo sportello",
+     "_pos": [
+      96,
+      234
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deposit slips",
+     "fr": "les fiches de versenk",
+     "de": "die Einzahlungsscheine",
+     "es": "las fichas de depósito",
+     "it": "i moduli di versamenti",
+     "_pos": [
+      757,
+      334
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teller",
+     "fr": "le caissier",
+     "de": "der Kassierer",
+     "es": "el cajero",
+     "it": "il cassiere",
+     "_pos": [
+      98,
+      337
+     ],
+     "_flags": []
+    },
+    {
+     "en": "amount",
+     "fr": "le montant",
+     "de": "der Betrag",
+     "es": "la cantidad",
+     "it": "l'importo",
+     "_pos": [
+      802,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "signature",
+     "fr": "la signature",
+     "de": "die Unterschrift",
+     "es": "la firma",
+     "it": "la firma",
+     "_pos": [
+      685,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "account number",
+     "fr": "le numéro de compte",
+     "de": "die Kontonummer",
+     "es": "el número de cuenta",
+     "it": "il numero di conto",
+     "_pos": [
+      514,
+      435
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stub",
+     "fr": "le talon",
+     "de": "der Abschnitt",
+     "es": "la matriz",
+     "it": "la matrice",
+     "_pos": [
+      418,
+      435
+     ],
+     "_flags": []
+    },
+    {
+     "en": "debit card",
+     "fr": "la carte bancaire",
+     "de": "die EC-Karte",
+     "es": "la tarjeta de débito",
+     "it": "la carta di debito",
+     "_pos": [
+      234,
+      436
+     ],
+     "_flags": []
+    },
+    {
+     "en": "check",
+     "fr": "le chèque",
+     "de": "der Scheck",
+     "es": "el cheque",
+     "it": "l'assegno",
+     "_pos": [
+      812,
+      648
+     ],
+     "_flags": []
+    },
+    {
+     "en": "checkbook",
+     "fr": "le carnet de chèques",
+     "de": "das Scheckheft",
+     "es": "el talonario de cheques",
+     "it": "il libretto degli assegni",
+     "_pos": [
+      454,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "branch manager",
+     "fr": "le directeur d'agence",
+     "de": "der Filialleiter",
+     "es": "el gerente del banco",
+     "it": "il direttore",
+     "_pos": [
+      50,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "credit card",
+     "fr": "la carte de crédit",
+     "de": "die Kreditkarte",
+     "es": "la tarjeta de crédito",
+     "it": "la carta di credito",
+     "_pos": [
+      245,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "checking account",
+     "fr": "le compte courant",
+     "de": "das Girokonto",
+     "es": "la cuenta corriente",
+     "it": "il conto corrente",
+     "_pos": [
+      732,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deposit (v)",
+     "fr": "verser",
+     "de": "einzahlen",
+     "es": "depositar",
+     "it": "versare",
+     "_pos": [
+      548,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "savings",
+     "fr": "l'épargne",
+     "de": "die Spareinlagen",
+     "es": "los ahorros",
+     "it": "i risparmi",
+     "_pos": [
+      66,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mortgage",
+     "fr": "l'hypothèque",
+     "de": "die Hypothek",
+     "es": "la hipoteca",
+     "it": "l'ipoteca",
+     "_pos": [
+      193,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "payment",
+     "fr": "le paiement",
+     "de": "die Zahlung",
+     "es": "el pago",
+     "it": "il pagamento",
+     "_pos": [
+      353,
+      799
+     ],
+     "_flags": []
+    },
+    {
+     "en": "savings account",
+     "fr": "le compte d' épargne",
+     "de": "das Sparkonto",
+     "es": "la cuenta de ahorros",
+     "it": "il conto di risparmio",
+     "_pos": [
+      734,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tax",
+     "fr": "l'impôt",
+     "de": "die Steuer",
+     "es": "los impuestos",
+     "it": "l'imposta",
+     "_pos": [
+      66,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "direct deposit",
+     "fr": "le virement bancaire",
+     "de": "die Banküberweisung",
+     "es": "la transferencia bancaria",
+     "it": "il bonifico bancario",
+     "_pos": [
+      548,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "line of credit",
+     "fr": "le découvert",
+     "de": "die Kontoüberziehung",
+     "es": "el sobregiro",
+     "it": "lo scoperto",
+     "_pos": [
+      194,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "automatic bill payment",
+     "fr": "le prélèvement",
+     "de": "der Einzugsauftrag",
+     "es": "el débito directo",
+     "it": "l'addebito diretto",
+     "_pos": [
+      354,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pin number",
+     "fr": "le code secret",
+     "de": "der PIN-Kode",
+     "es": "el pin",
+     "it": "il pin",
+     "_pos": [
+      734,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "loan",
+     "fr": "le prêt",
+     "de": "das Darlehen",
+     "es": "el préstamo",
+     "it": "il prestito",
+     "_pos": [
+      68,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "service charge",
+     "fr": "les frais bancaire",
+     "de": "die Bankgebühr",
+     "es": "I3 com isión del banco",
+     "it": "la commissione bancaria",
+     "_pos": [
+      550,
+      997
+     ],
+     "_flags": [
+      "es:num:I3",
+      "es:case"
+     ]
+    },
+    {
+     "en": "interest rate",
+     "fr": "le taux d' intérêt",
+     "de": "der Zinssatz",
+     "es": "la tasa de interés",
+     "it": "il tasso d'interesse",
+     "_pos": [
+      194,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "withdrawal slip",
+     "fr": "la fiche de retrait",
+     "de": "das Abhebungsformular",
+     "es": "la ficha de retiro",
+     "it": "il modulo di prelievo",
+     "_pos": [
+      354,
+      997
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 30,
+  "complete_clean": 23,
+  "flagged": 7,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,350 @@
+{
+ "page": 158,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "STUDY • L'ÉTUDE • DAS LERNEN • EL ESTUDIO • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": "college • l'enseignement supérieur • die Hochschule • la enseñanza superior • l'università",
+   "parts": [
+    "college",
+    "l'enseignement supérieur",
+    "die hochschule",
+    "la enseñanza superior",
+    "l'università"
+   ],
+   "entries": [
+    {
+     "en": "admissions office",
+     "fr": "le secrétariat",
+     "de": "das Sekretariat",
+     "es": "la secretaria",
+     "it": "l'ufficio iscrizioni",
+     "_pos": [
+      48,
+      216
+     ],
+     "_flags": []
+    },
+    {
+     "en": "playing field",
+     "fr": "le Terrain de sport",
+     "de": "der Sportplatz",
+     "es": "el campo deportivo",
+     "it": "il campo sportivo",
+     "_pos": [
+      767,
+      227
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "dining room",
+     "fr": "le restaurant",
+     "de": "universitaire die Mensa",
+     "es": "el comedor",
+     "it": "il refettorio",
+     "_pos": [
+      48,
+      366
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "dining room",
+       "fr": "le restaurant universitaire",
+       "de": "die Mensa",
+       "es": "el com edor",
+       "it": "il refettorio"
+      }
+     ]
+    },
+    {
+     "en": "residence hall",
+     "fr": "la résidence universitaire",
+     "de": "das Studentenheim",
+     "es": "la residencia estudiantil",
+     "it": "la casa dello studente",
+     "_pos": [
+      770,
+      394
+     ],
+     "_flags": []
+    },
+    {
+     "en": "card catalogue",
+     "fr": "le catalogue",
+     "de": "der Katalog",
+     "es": "el catálogo",
+     "it": "il catalogo",
+     "_pos": [
+      770,
+      543
+     ],
+     "_flags": []
+    },
+    {
+     "en": "health center",
+     "fr": "le service de samé",
+     "de": "die Gesundheitsfürsorge",
+     "es": "el centro de salud",
+     "it": "l'ambulatorio",
+     "_pos": [
+      44,
+      549
+     ],
+     "_flags": []
+    },
+    {
+     "en": "campus",
+     "fr": "le campus",
+     "de": "der Campus",
+     "es": "el cam pus",
+     "it": "il campus",
+     "_pos": [
+      186,
+      631
+     ],
+     "_flags": []
+    },
+    {
+     "en": "librarian",
+     "fr": "la bibliothécaire",
+     "de": "die Bibliothekarin",
+     "es": "la bibliotecaria",
+     "it": "la bibliotecaria",
+     "_pos": [
+      622,
+      662
+     ],
+     "_flags": []
+    },
+    {
+     "en": "checkout desk",
+     "fr": "le service de prêt",
+     "de": "die Ausleihe",
+     "es": "el mostrador de préstam os",
+     "it": "il banco prestiti",
+     "_pos": [
+      460,
+      664
+     ],
+     "_flags": []
+    },
+    {
+     "en": "renew (v)",
+     "fr": "renouveler",
+     "de": "verlängern",
+     "es": "renovar",
+     "it": "rinnovare",
+     "_pos": [
+      366,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "inquiries",
+     "fr": "les renseignements",
+     "de": "die Auskunft",
+     "es": "la información",
+     "it": "il banco informazioni",
+     "_pos": [
+      232,
+      698
+     ],
+     "_flags": []
+    },
+    {
+     "en": "library card",
+     "fr": "la carte de lecteur",
+     "de": "der Leserausweis",
+     "es": "la credencial",
+     "it": "il tesserino",
+     "_pos": [
+      54,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bookshelf",
+     "fr": "les rayons",
+     "de": "das Bücherregal",
+     "es": "el librero",
+     "it": "lo scaffale",
+     "_pos": [
+      462,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "book",
+     "fr": "le livre",
+     "de": "das Buch",
+     "es": "libro",
+     "it": "il libro",
+     "_pos": [
+      368,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "borrow (v)",
+     "fr": "emprunter",
+     "de": "ausleihen",
+     "es": "coger prestado",
+     "it": "prendere in prestito",
+     "_pos": [
+      234,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reading room",
+     "fr": "la salle de lecture",
+     "de": "der Lesesaal",
+     "es": "la sala de lecturas",
+     "it": "la sala di lettura",
+     "_pos": [
+      56,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "periodical",
+     "fr": "le périodique",
+     "de": "das Periodikum",
+     "es": "el periódico",
+     "it": "il periodico",
+     "_pos": [
+      462,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reserve (v)",
+     "fr": "réserver",
+     "de": "vorbestellen",
+     "es": "reservar",
+     "it": "prenotare",
+     "_pos": [
+      235,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "title",
+     "fr": "le tirre",
+     "de": "der Titel",
+     "es": "el título",
+     "it": "il titolo",
+     "_pos": [
+      368,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reading list",
+     "fr": "les ouvrages recommandés",
+     "de": "die Literaturliste",
+     "es": "la lista de lecturas",
+     "it": "la lista dei libri",
+     "_pos": [
+      57,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "journal",
+     "fr": "la revue",
+     "de": "die Zeitschrift",
+     "es": "la revista",
+     "it": "la rivista",
+     "_pos": [
+      464,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aisle",
+     "fr": "le couloir",
+     "de": "der Gang",
+     "es": "el pasillo",
+     "it": "la corsia",
+     "_pos": [
+      370,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "loan",
+     "fr": "le prêt",
+     "de": "die Ausleihe",
+     "es": "el préstamo",
+     "it": "il prestito",
+     "_pos": [
+      236,
+      998
+     ],
+     "_flags": []
+    },
+    {
+     "en": "due date",
+     "fr": "la date de retour",
+     "de": "das Ruckgabedatum",
+     "es": "la fecha de devolución",
+     "it": "la data di restituzione",
+     "_pos": [
+      58,
+      998
+     ],
+     "_flags": []
+    },
+    {
+     "en": "library",
+     "fr": "la bibliothèque",
+     "de": "die Bibliothek",
+     "es": "la biblioteca",
+     "it": "la biblioteca",
+     "_pos": [
+      558,
+      1060
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 16,
+  "flagged": 9,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

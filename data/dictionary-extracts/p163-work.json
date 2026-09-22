@@ -1,0 +1,436 @@
+{
+ "page": 163,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "ufficio",
+   "names": {
+    "en": "office",
+    "fr": "le bureau",
+    "de": "das büro",
+    "es": "la oficina",
+    "it": "l'ufficio"
+   },
+   "entries": [
+    {
+     "en": "flipchart",
+     "fr": "Tableau à feuilles mobiles",
+     "de": "Flipchart",
+     "es": "pizarrón",
+     "it": "poster scorrevole",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 23,
+      "de": 9,
+      "es": 8,
+      "it": 16
+     }
+    },
+    {
+     "en": "ensel",
+     "fr": "chevalet",
+     "de": "Gestell",
+     "es": "caballete",
+     "it": "cavalletto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "manager",
+     "fr": "directeur",
+     "de": "Manager",
+     "es": "gerente",
+     "it": "direttore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "proposal",
+     "fr": "proposition",
+     "de": "Angebot",
+     "es": "propuesta",
+     "it": "proposta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "minutes",
+     "fr": "I",
+     "de": "Protokoll",
+     "es": "minuta",
+     "it": "verbale",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 1,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "1m",
+     "fr": "« I",
+     "de": "'AW/D",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 2,
+      "fr": 1,
+      "de": 3
+     }
+    },
+    {
+     "en": "report",
+     "fr": "rapport",
+     "de": "Bericht",
+     "es": "reporte",
+     "it": "relazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "executive",
+     "fr": "cadre",
+     "de": "leitende Angestellte",
+     "es": "ejecutivo",
+     "it": "dirigente",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 19,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "—",
+     "fr": "î^'W T' 'A.4A",
+     "de": "„ ,, V 1",
+     "es": "SHí",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 0,
+      "fr": 6,
+      "de": 2,
+      "es": 3
+     }
+    },
+    {
+     "fr": "compre rendu",
+     "de": "n i",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "fr": 11,
+      "de": 2
+     }
+    },
+    {
+     "en": "meeting",
+     "fr": "réunion",
+     "de": "Sitzung",
+     "es": "junta",
+     "it": "riunione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "projector",
+     "fr": "projecteur",
+     "de": "Projektor",
+     "es": "proyector",
+     "it": "lavagna luminosa",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 9,
+      "it": 15
+     }
+    },
+    {
+     "en": "speaker",
+     "fr": "conférencier",
+     "de": "Sprecher",
+     "es": "orador",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 8,
+      "es": 6
+     }
+    },
+    {
+     "en": "meeting room",
+     "fr": "salle de conférence",
+     "de": "Sitzungsraum",
+     "es": "sala de juntas",
+     "it": "sala da riunione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 17,
+      "de": 12,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "attend (v)",
+     "fr": "assister à",
+     "de": "teilnehmen",
+     "es": "asistir",
+     "it": "partecipare",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "agenda",
+     "fr": "ordre du jour",
+     "de": "Tagesordnung",
+     "es": "orden del día",
+     "it": "ordine del giorno",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 12,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "chair (v)",
+     "fr": "présider",
+     "de": "Vorsitz lühren",
+     "es": "presidir",
+     "it": "presiedere",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 13,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "W hat time is the meeting?",
+     "fr": "I.a conférence est à quelle heure?",
+     "de": "Um wie viel Uhr ist die Sitzung?",
+     "es": "A qué hora es la junta?",
+     "it": "A che ora é la riunione?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 27,
+      "de": 25,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "W hat are your office hours?",
+     "fr": "Quelles sont vos heures de bureau?",
+     "de": "Was sind Ihre Geschäftszeiten?",
+     "es": "C u ál es su horario de oficina?",
+     "it": "Qual è il vostro orario di lavoro?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 22,
+      "fr": 28,
+      "de": 26,
+      "es": 24,
+      "it": 27
+     }
+    },
+    {
+     "en": "presentation",
+     "fr": "présentation",
+     "de": "Präsentation",
+     "es": "presentación",
+     "it": "presentazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 12,
+      "es": 12,
+      "it": 13
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

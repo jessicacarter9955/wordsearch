@@ -1,0 +1,397 @@
+{
+ "page": 177,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "mestieri",
+   "names": {
+    "en": "occupation si",
+    "fr": "les professions",
+    "de": "die berufe",
+    "es": "los profesiones",
+    "it": "i mestieri"
+   },
+   "entries": [
+    {
+     "en": "construction worker",
+     "fr": "maçon",
+     "de": "Bauhandvverker",
+     "es": "albañil",
+     "it": "muratore",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 5,
+      "de": 14,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "carpenter",
+     "fr": "menuisier",
+     "de": "Schreiner",
+     "es": "carpintero",
+     "it": "falegname",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "electrician",
+     "fr": "Lélectricien",
+     "de": "Elektriker",
+     "es": "electricista",
+     "it": "elettricista",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "plumber",
+     "fr": "plombier",
+     "de": "Klempner",
+     "es": "plomero",
+     "it": "idraulico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "vacuum cleaner",
+     "fr": "Laspi raten r",
+     "de": "Staubsauger",
+     "es": "aspiradora",
+     "it": "aspirapolvere",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "butcher",
+     "fr": "boucher",
+     "de": "Metzger",
+     "es": "carnicero",
+     "it": "macellaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "gardener",
+     "fr": "jardinier",
+     "de": "Gärtner",
+     "es": "jardinero",
+     "it": "giardiniere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 7,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "cleaner",
+     "fr": "nettoyeur",
+     "de": "Gebäudereiniger",
+     "es": "empicado de la limpieza",
+     "it": "addetto alle",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 15,
+      "es": 20,
+      "it": 11
+     }
+    },
+    {
+     "en": "mechanic",
+     "fr": "mécanicien",
+     "de": "Mechaniker",
+     "es": "mecánico",
+     "it": "meccanico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "scissors",
+     "fr": "ciseaux",
+     "de": "Schere",
+     "es": "tijeras",
+     "it": "forbici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "greengrocer",
+     "fr": "marchand de légumes",
+     "de": "Gemüsehändler",
+     "es": "frutero",
+     "it": "fruttivendolo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 17,
+      "de": 13,
+      "es": 7,
+      "it": 13
+     }
+    },
+    {
+     "en": "florist",
+     "fr": "fleuriste",
+     "de": "Floristin",
+     "es": "florista",
+     "it": "fioraia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "fishmonger",
+     "fr": "marchande de poissons",
+     "de": "Fischhändleri",
+     "es": "pescadera",
+     "it": "pescivcndola",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 19,
+      "de": 13,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "hairdresser",
+     "fr": "coiffeur",
+     "de": "Friseur » el estilista",
+     "it": "parrucchiere",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 18,
+      "it": 12
+     }
+    },
+    {
+     "en": "jeweler",
+     "fr": "bijoutier",
+     "de": "Juwelier",
+     "es": "joyero",
+     "it": "gioielliere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "sales assistant",
+     "fr": "employée de magasin",
+     "de": "Verkäuferin",
+     "es": "vendedora",
+     "it": "commessa",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 11,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "barber",
+     "fr": "coiffeur",
+     "de": "Friseur",
+     "es": "peluquero",
+     "it": "barbiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

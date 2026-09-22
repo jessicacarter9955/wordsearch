@@ -1,0 +1,418 @@
+{
+ "page": 40,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H E A LT H • LA SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "illness • la maladie • die Krankheit • la enfermedad • la malattia",
+   "parts": [
+    "illness",
+    "la maladie",
+    "die krankheit",
+    "la enfermedad",
+    "la malattia"
+   ],
+   "entries": [
+    {
+     "en": "cough",
+     "fr": "la roux",
+     "de": "der Husten",
+     "es": "la tos",
+     "it": "la tosse",
+     "_pos": [
+      736,
+      249
+     ],
+     "_flags": []
+    },
+    {
+     "en": "headache",
+     "fr": "le mal de tête",
+     "de": "die Kopfschmerzen",
+     "es": "el dolor de cabeza",
+     "it": "il mal di testa",
+     "_pos": [
+      396,
+      250
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nosebleed",
+     "fr": "le saignement de ne",
+     "de": "das Nasenbluten",
+     "es": "la hemorragia nasal",
+     "it": "l'emorragia nasale",
+     "_pos": [
+      564,
+      250
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fever",
+     "fr": "la fièvre",
+     "de": "das Fieber",
+     "es": "la fiebre",
+     "it": "il febbre",
+     "_pos": [
+      57,
+      479
+     ],
+     "_flags": []
+    },
+    {
+     "en": "the flu",
+     "fr": "la grippe",
+     "de": "die Grippe",
+     "es": "la gripe",
+     "it": "l'influenza",
+     "_pos": [
+      736,
+      479
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sneeze",
+     "fr": "l'éternuement",
+     "de": "das Niesen",
+     "es": "el estornudo",
+     "it": "lo starnuto",
+     "_pos": [
+      396,
+      480
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cold",
+     "fr": "le rhume",
+     "de": "die Erkältung",
+     "es": "el resfriado",
+     "it": "il raffreddore",
+     "_pos": [
+      566,
+      480
+     ],
+     "_flags": []
+    },
+    {
+     "en": "inhaler",
+     "fr": "l'inhalateur",
+     "de": "der Inhalationsapparat",
+     "es": "el inhalador",
+     "it": "l'inalatore",
+     "_pos": [
+      177,
+      512
+     ],
+     "_flags": []
+    },
+    {
+     "en": "the chickenpox",
+     "fr": "la varicelle",
+     "de": "die Windpocken",
+     "es": "la varicela",
+     "it": "la varicella",
+     "_pos": [
+      566,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rash",
+     "fr": "l'éruption",
+     "de": "der Hautausschlag",
+     "es": "el sarpullido",
+     "it": "lo sfogo",
+     "_pos": [
+      736,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "asthma",
+     "fr": "l'asthme",
+     "de": "das Asthma",
+     "es": "el asma",
+     "it": "l'asma",
+     "_pos": [
+      58,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cramps",
+     "fr": "les crampes",
+     "de": "die Krämpfe",
+     "es": "los calam bres",
+     "it": "i crampi",
+     "_pos": [
+      228,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nausea",
+     "fr": "la nausée",
+     "de": "die Übelkeit",
+     "es": "la náusea",
+     "it": "la nausea",
+     "_pos": [
+      397,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "heart attack",
+     "fr": "la crise cardiaque",
+     "de": "der Herzinfarkt",
+     "es": "el atâque cardiaco",
+     "it": "l'infarto",
+     "_pos": [
+      73,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diabetes",
+     "fr": "le diabète",
+     "de": "die Zuckerkrankheit",
+     "es": "la diabetes",
+     "it": "il diabete",
+     "_pos": [
+      245,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eczema",
+     "fr": "l'eczéma",
+     "de": "das Ekzem",
+     "es": "el eccema",
+     "it": "l'eczema",
+     "_pos": [
+      388,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chill",
+     "fr": "le refroidissement",
+     "de": "die Verkühlung",
+     "es": "el resfriado",
+     "it": "l'infreddatura",
+     "_pos": [
+      496,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vomit (v)",
+     "fr": "vomir",
+     "de": "sich übergeben",
+     "es": "vomitar",
+     "it": "vomitare",
+     "_pos": [
+      654,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diarrhea",
+     "fr": "la diarrhée",
+     "de": "der Durchfall",
+     "es": "la diarrea",
+     "it": "la diarrea",
+     "_pos": [
+      769,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stroke",
+     "fr": "l'attaque",
+     "de": "der Schlaganfall",
+     "es": "la aplopejia",
+     "it": "l'apoplessia",
+     "_pos": [
+      74,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hay fever",
+     "fr": "le rhume des foins",
+     "de": "der Heuschnupfen",
+     "es": "I3 fiebre del heno",
+     "it": "la febbre da fieno",
+     "_pos": [
+      246,
+      888
+     ],
+     "_flags": [
+      "es:num:I3",
+      "es:case"
+     ]
+    },
+    {
+     "en": "infection",
+     "fr": "l'infection",
+     "de": "die Infektion",
+     "es": "la infección",
+     "it": "l'infezione",
+     "_pos": [
+      389,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stomach ache",
+     "fr": "le m al d'esrom ac",
+     "de": "die Magenschmerzen",
+     "es": "el dolor de estómago",
+     "it": "il mal di stomaco",
+     "_pos": [
+      496,
+      888
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "epilepsy",
+     "fr": "l'épilepsie",
+     "de": "die Epilepsie",
+     "es": "la epilepsia",
+     "it": "l'epilessia",
+     "_pos": [
+      654,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "measles",
+     "fr": "la rougeole",
+     "de": "die Masern",
+     "es": "el sarampión",
+     "it": "il morbillo",
+     "_pos": [
+      769,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "allergy",
+     "fr": "l'allergie",
+     "de": "die Allergie",
+     "es": "la alergia",
+     "it": "l'allergia",
+     "_pos": [
+      246,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mumps",
+     "fr": "les oreillons",
+     "de": "der Mumps",
+     "es": "las paperas",
+     "it": "gli orecchioni",
+     "_pos": [
+      770,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blood pressure",
+     "fr": "la Tension",
+     "de": "der Blutdruck",
+     "es": "!a presión arterial",
+     "it": "la pressione del sangue",
+     "_pos": [
+      74,
+      986
+     ],
+     "_flags": [
+      "fr:case",
+      "es:weird:!a"
+     ]
+    },
+    {
+     "en": "virus",
+     "fr": "le virus",
+     "de": "der Virus",
+     "es": "el virus",
+     "it": "il virus",
+     "_pos": [
+      388,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "famt /",
+     "fr": "s'évanouir",
+     "de": "in Ohnmacht fallen",
+     "es": "desmayar se",
+     "it": "svenire",
+     "_pos": [
+      496,
+      986
+     ],
+     "_flags": [
+      "en:weird:/"
+     ]
+    },
+    {
+     "en": "migraine",
+     "fr": "la migraine",
+     "de": "die Migräne",
+     "es": "la migraña",
+     "it": "l'emicrania",
+     "_pos": [
+      654,
+      986
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 31,
+  "complete_clean": 12,
+  "flagged": 19,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

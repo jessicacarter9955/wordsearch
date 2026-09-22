@@ -1,0 +1,382 @@
+{
+ "page": 210,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • I I S S P O R T S • DER SPORT • LOS DEPORTES • GU SPORT",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "goal line",
+     "fr": "la ligne de but",
+     "de": "die Torlinie",
+     "es": "la línea de meta",
+     "it": "la linea di fondo",
+     "_pos": [
+      230,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "penalty area",
+     "fr": "la surface tic réparation",
+     "de": "der Strafraum",
+     "es": "el área de penalty",
+     "it": "l'area di rigore",
+     "_pos": [
+      30,
+      114
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goal area",
+     "fr": "la surface de but",
+     "de": "der Tonaum",
+     "es": "el área de meta",
+     "it": "'area di porta",
+     "_pos": [
+      256,
+      221
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kick (v)",
+     "fr": "hotter",
+     "de": "kicken",
+     "es": "patear",
+     "it": "calciare",
+     "_pos": [
+      670,
+      253
+     ],
+     "_flags": []
+    },
+    {
+     "en": "throw-in",
+     "fr": "la rentrée en touche",
+     "de": "der Einwurf",
+     "es": "el saque de banda",
+     "it": "la rimessa in gioco",
+     "_pos": [
+      452,
+      255
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cleat",
+     "fr": "la botte",
+     "de": "der FuBballschuh",
+     "es": "los tacos",
+     "it": "lo scarpino",
+     "_pos": [
+      604,
+      320
+     ],
+     "_flags": []
+    },
+    {
+     "en": "— goal",
+     "fr": "le but",
+     "de": "das Tor",
+     "es": "la portería",
+     "it": "la porta",
+     "_pos": [
+      270,
+      341
+     ],
+     "_flags": [
+      "en:weird:—"
+     ]
+    },
+    {
+     "en": "defender",
+     "fr": "le défenseur",
+     "de": "der Verteidiger",
+     "es": "el defensa",
+     "it": "il difensore",
+     "_pos": [
+      322,
+      470
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shoot (v)",
+     "fr": "shooter",
+     "de": "schießen",
+     "es": "tirar",
+     "it": "tirare",
+     "_pos": [
+      674,
+      499
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pass (v)",
+     "fr": "faire une passe",
+     "de": "den Ball abgeben",
+     "es": "mandar un pase",
+     "it": "passare",
+     "_pos": [
+      460,
+      501
+     ],
+     "_flags": []
+    },
+    {
+     "en": "corner flag",
+     "fr": "le drapeau de coin",
+     "de": "die Eckfahne",
+     "es": "la bandera de esquina",
+     "it": "la bandierina",
+     "_pos": [
+      276,
+      652
+     ],
+     "_flags": []
+    },
+    {
+     "en": "1 linesman",
+     "fr": "le juge de ligne",
+     "de": "der Linienrichter",
+     "es": "el juez del inca",
+     "it": "il guardalinee",
+     "_pos": [
+      36,
+      654
+     ],
+     "_flags": [
+      "en:num:1"
+     ]
+    },
+    {
+     "en": "tackle (v)",
+     "fr": "tacier",
+     "de": "angreifen",
+     "es": "hacer una entrada",
+     "it": "contrastare",
+     "_pos": [
+      676,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "save (v)",
+     "fr": "sauver",
+     "de": "halten",
+     "es": "parar",
+     "it": "parare",
+     "_pos": [
+      464,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "extra time",
+     "fr": "la prolongation",
+     "de": "die Verlängerung",
+     "es": "el tiempo extra",
+     "it": "il tempo supplementare",
+     "_pos": [
+      704,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "league",
+     "fr": "le championnat",
+     "de": "die Liga",
+     "es": "la liga",
+     "it": "il campionato",
+     "_pos": [
+      540,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yellow card",
+     "fr": "le canon jaune",
+     "de": "die gelbe Karte",
+     "es": "la tarjeta amarilla",
+     "it": "il cartellino giallo",
+     "_pos": [
+      376,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "foul",
+     "fr": "la faute",
+     "de": "das Foul",
+     "es": "la falta",
+     "it": "il fallo",
+     "_pos": [
+      210,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stadium",
+     "fr": "le stade",
+     "de": "das Stadion",
+     "es": "el estadio",
+     "it": "lo stadio",
+     "_pos": [
+      54,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "substitute",
+     "fr": "le remplaçant",
+     "de": "der Ersatzspieler",
+     "es": "el reserva",
+     "it": "il sostituto",
+     "_pos": [
+      705,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "draw",
+     "fr": "l égalité",
+     "de": "das Unentschieden",
+     "es": "el empate",
+     "it": "il pareggio",
+     "_pos": [
+      542,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "offside",
+     "fr": "l'hors-jeu",
+     "de": "das Abseits",
+     "es": "el fuera de juego",
+     "it": "il fuorigioco",
+     "_pos": [
+      378,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "corner",
+     "fr": "le corner",
+     "de": "der Eckball",
+     "es": "el tiro de esquina",
+     "it": "il calci od'angolo",
+     "_pos": [
+      211,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "score a goal (v)",
+     "fr": "marquer un but",
+     "de": "ein Tor schießen",
+     "es": "marcar un gol",
+     "it": "segnare",
+     "_pos": [
+      56,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "substitution",
+     "fr": "le remplacement",
+     "de": "die Auswechslung",
+     "es": "el cambio",
+     "it": "la sostituzione",
+     "_pos": [
+      706,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "halftime",
+     "fr": "la mi-temps",
+     "de": "die Halbzeit",
+     "es": "el descanso",
+     "it": "l'intervallo",
+     "_pos": [
+      544,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "send off",
+     "fr": "l'expulsion",
+     "de": "der Platzverweis",
+     "es": "la expulsión",
+     "it": "l'espulsione",
+     "_pos": [
+      380,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "red card",
+     "fr": "le canon rouge",
+     "de": "die rote Karte",
+     "es": "la tarjeta roja",
+     "it": "il cartellino rosso",
+     "_pos": [
+      212,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "penalty",
+     "fr": "le penalty",
+     "de": "der Elfmeter",
+     "es": "el penalty",
+     "it": "il rigore",
+     "_pos": [
+      56,
+      983
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 15,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

@@ -1,0 +1,367 @@
+{
+ "page": 183,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "disabled parking place",
+     "fr": "le parking réservé aux personnes handicapées",
+     "de": "der Behindertenparkplatz",
+     "es": "el estacionamiento para m inusválidos",
+     "it": "il pareheggio per disabili",
+     "_pos": [
+      376,
+      265
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "emergency phone",
+     "fr": "le téléphone de secours",
+     "de": "die Notrufsaule",
+     "es": "el teléfono de emergencia",
+     "it": "il telefono per emergenze",
+     "_pos": [
+      203,
+      266
+     ],
+     "_flags": []
+    },
+    {
+     "en": "traffic jam",
+     "fr": "l'embouteillage",
+     "de": "der Verkehrsstau",
+     "es": "el tráfico",
+     "it": "l'ingorgo",
+     "_pos": [
+      558,
+      331
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crosswalk",
+     "fr": "le passage doute",
+     "de": "der ^Bgángerüberweg",
+     "es": "el paso de peatones",
+     "it": "il passaggio pedonale",
+     "_pos": [
+      30,
+      334
+     ],
+     "_flags": [
+      "de:weird:^Bgángerüberweg"
+     ]
+    },
+    {
+     "en": "rotary",
+     "fr": "le rond-point",
+     "de": "der Kreisverkehr",
+     "es": "la glorieta",
+     "it": "la rotatoria",
+     "_pos": [
+      392,
+      415
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reverse (v)",
+     "fr": "taire marche arrière",
+     "de": "rückwärts fahren",
+     "es": "meter reversa",
+     "it": "fare marcia indietro",
+     "_pos": [
+      500,
+      415
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tow away (v)",
+     "fr": "remorquer",
+     "de": "abschleppen",
+     "es": "remolcar",
+     "it": "rimorchiare",
+     "_pos": [
+      667,
+      415
+     ],
+     "_flags": []
+    },
+    {
+     "en": "map",
+     "fr": "la carte",
+     "de": "Zie Landkarte",
+     "es": "el mapa",
+     "it": "<2 mappa",
+     "_pos": [
+      32,
+      434
+     ],
+     "_flags": [
+      "it:weird:<2"
+     ]
+    },
+    {
+     "en": "detour",
+     "fr": "la déviation",
+     "de": "die Umleitung",
+     "es": "la desviación",
+     "it": "la deviazione",
+     "_pos": [
+      392,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drive (v)",
+     "fr": "conduire",
+     "de": "fahren",
+     "es": "manejar",
+     "it": "guidare",
+     "_pos": [
+      500,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "divided highway",
+     "fr": "la route à quatre voies",
+     "de": "die Schnellstraße",
+     "es": "la autovía",
+     "it": "la carreggiata doppia",
+     "_pos": [
+      668,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Is this the road to...?",
+     "fr": "C e s i la route pour...?",
+     "de": "Ist dies die Straße nach...?",
+     "es": "Es ésta la carretera h acia...?",
+     "it": "E questa la strada p e r...?",
+     "_pos": [
+      666,
+      615
+     ],
+     "_flags": [
+      "en:weird:to...?",
+      "en:case",
+      "fr:short:C",
+      "fr:short:s",
+      "fr:weird:pour...?",
+      "fr:case",
+      "de:weird:nach...?",
+      "es:short:h",
+      "es:weird:acia...?",
+      "es:case",
+      "it:short:p",
+      "it:weird:r...?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "park (v)",
+     "fr": "garer",
+     "de": "parken",
+     "es": "estacionar",
+     "it": "parcheggiare",
+     "_pos": [
+      392,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roadworks",
+     "fr": "les travaux",
+     "de": "die Straßenbaustelle",
+     "es": "las obras",
+     "it": "i lavori stradali",
+     "_pos": [
+      500,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parking meter",
+     "fr": "le parc-mètre",
+     "de": "die Parkuhr",
+     "es": "el parquím etro",
+     "it": "il parchimetro",
+     "_pos": [
+      97,
+      651
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W here can 1 park?",
+     "fr": "O ù peut-on se garer?",
+     "de": "Wo kann ich parken?",
+     "es": "D ónde m e puedo estacionar?",
+     "it": "Dove posso parcheggiare7",
+     "_pos": [
+      667,
+      716
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:num:1",
+      "en:weird:park?",
+      "en:case",
+      "fr:short:ù",
+      "fr:weird:garer?",
+      "fr:case",
+      "de:weird:parken?",
+      "es:short:m",
+      "es:weird:estacionar?",
+      "es:case",
+      "it:num:parcheggiare7",
+      "it:case"
+     ]
+    },
+    {
+     "en": "pass (v)",
+     "fr": "doubler",
+     "de": "überholen",
+     "es": "rebasar",
+     "it": "sorpassare",
+     "_pos": [
+      393,
+      716
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guardrail",
+     "fr": "la glissière de sécurité",
+     "de": "die Leitplanke",
+     "es": "el muro de contención",
+     "it": "il guardrail",
+     "_pos": [
+      500,
+      716
+     ],
+     "_flags": []
+    },
+    {
+     "en": "traffic",
+     "fr": "l'agent de la circularion",
+     "de": "der Verkehrspolizist",
+     "es": "el policía de tránsito",
+     "it": "il vigile urbano",
+     "_pos": [
+      230,
+      717
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "road signs • les panneaux routiers • die Verkehrsschilder • las señales de tràqnsito • i cartelli stradali",
+   "parts": [
+    "road signs",
+    "les panneaux routiers",
+    "die verkehrsschilder",
+    "las señales de tràqnsito",
+    "i cartelli stradali"
+   ],
+   "entries": [
+    {
+     "en": "no right tum",
+     "fr": "interdit de tourner à droite",
+     "de": "rechts abbiegen verboten",
+     "es": "no dar vuelta ala derecha",
+     "it": "svolta a destra vietata",
+     "_pos": [
+      714,
+      1000
+     ],
+     "_flags": []
+    },
+    {
+     "en": "no stopping",
+     "fr": "arrêt interdit",
+     "de": "Halten verboten",
+     "es": "prohibido parar",
+     "it": "sosta vietata",
+     "_pos": [
+      554,
+      1000
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hazard",
+     "fr": "danger",
+     "de": "Gefahr",
+     "es": "peligro",
+     "it": "pericolo",
+     "_pos": [
+      380,
+      1001
+     ],
+     "_flags": []
+    },
+    {
+     "en": "speed limit",
+     "fr": "la limitation de vitesse",
+     "de": "die Geschwindigkeitsbegrenzung",
+     "es": "el lim ite de velocidad",
+     "it": "I limite di velocità",
+     "_pos": [
+      208,
+      1001
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "no entry",
+     "fr": "sens interdit",
+     "de": "keine Einfahrt",
+     "es": "prohibido el paso",
+     "it": "ingresso vietato",
+     "_pos": [
+      36,
+      1002
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 4,
+  "flagged": 20,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

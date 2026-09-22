@@ -1,0 +1,388 @@
+{
+ "page": 170,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • LE T R A V A IL • DIE ARBEIT • El. T R A B A JO • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "criminal",
+     "fr": "le criminel",
+     "de": "der Straftäter",
+     "es": "el criminal",
+     "it": "il criminale",
+     "_pos": [
+      798,
+      71
+     ],
+     "_flags": []
+    },
+    {
+     "en": "court reporter",
+     "fr": "le scénographe",
+     "de": "der Gerichtsstenograf",
+     "es": "la taquígrafa",
+     "it": "lo stenografo",
+     "_pos": [
+      160,
+      76
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suspect",
+     "fr": "le suspect",
+     "de": "der Verdächtige",
+     "es": "el sospechoso",
+     "it": "la persona sospetta",
+     "_pos": [
+      319,
+      126
+     ],
+     "_flags": []
+    },
+    {
+     "en": "—",
+     "fr": "—",
+     "de": "",
+     "es": "« T",
+     "_pos": [
+      760,
+      172
+     ],
+     "_flags": [
+      "missing:it",
+      "en:weird:—",
+      "fr:weird:—",
+      "es:weird:«",
+      "es:short:T"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "n WT — íft ftl i«",
+   "parts": [
+    "n wt — íft ftl i«"
+   ],
+   "entries": [
+    {
+     "en": "defense",
+     "fr": "la défense",
+     "de": "die Verteidigung",
+     "es": "la defensa",
+     "it": "la difesa",
+     "_pos": [
+      220,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "",
+     "fr": "W M SZ-srSz",
+     "_pos": [
+      828,
+      264
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "fr:short:W",
+      "fr:short:M",
+      "fr:case"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "l e",
+   "parts": [
+    "l e"
+   ],
+   "entries": [
+    {
+     "en": "SäNfcÄÄÄflCX A Ä t t V f t cnminal record",
+     "fr": "le casier indiciare",
+     "de": "das Strafregister",
+     "es": "los antecedentes",
+     "it": "la fedina penale",
+     "_pos": [
+      672,
+      322
+     ],
+     "_flags": [
+      "en:rep:SäNfcÄÄÄflCX",
+      "en:short:Ä",
+      "en:short:t",
+      "en:short:V",
+      "en:short:f",
+      "en:case"
+     ]
+    },
+    {
+     "en": "facial composite",
+     "fr": "le portrait robot",
+     "de": "das Phantombild",
+     "es": "el retrato hablado",
+     "it": "I fotofit",
+     "_pos": [
+      464,
+      339
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "defendant",
+     "fr": "l'accusé",
+     "de": "der Angeklagte",
+     "es": "el",
+     "it": "l'imputato",
+     "_pos": [
+      220,
+      342
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prison",
+     "fr": "la prison",
+     "de": "das Gefängnis",
+     "es": "la cárcel",
+     "it": "il carcere",
+     "_pos": [
+      676,
+      705
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cell",
+     "fr": "la cellule",
+     "de": "die Gefängniszelle",
+     "es": "la celda",
+     "it": "la cella",
+     "_pos": [
+      466,
+      707
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prison guard",
+     "fr": "le gardien de prison",
+     "de": "der Gefängniswärter",
+     "es": "el celador",
+     "it": "la guardia carceraria",
+     "_pos": [
+      195,
+      708
+     ],
+     "_flags": []
+    },
+    {
+     "en": "1 want to see a lawyer",
+     "fr": "Je voudrais voir un avocat",
+     "de": "Ich möchte mit einem Anwalt sprechen",
+     "es": "Quier overa un abogado",
+     "it": "Voglio vedere un avvocato",
+     "_pos": [
+      624,
+      788
+     ],
+     "_flags": [
+      "en:num:1",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "bail",
+     "fr": "la caution",
+     "de": "die Kaution",
+     "es": "la fianza",
+     "it": "la cauzione",
+     "_pos": [
+      352,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "guilty",
+     "fr": "coupable",
+     "de": "schuldig",
+     "es": "culpable",
+     "it": "colpevole",
+     "_pos": [
+      200,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "evidence",
+     "fr": "la preuve",
+     "de": "das Beweismittel",
+     "es": "la evidencia",
+     "it": "la prova",
+     "_pos": [
+      66,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W here is the courthouse?",
+     "fr": "Où est le palais de justice",
+     "de": "Wo ist das Gericht?",
+     "es": "D ónde está el juzgado",
+     "it": "Dov'è il palazzo di giustizia?",
+     "_pos": [
+      611,
+      888
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:courthouse?",
+      "en:case",
+      "fr:case",
+      "de:weird:Gericht?",
+      "es:case",
+      "it:weird:giustizia?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "appeal",
+     "fr": "l'appel",
+     "de": "die Berufung",
+     "es": "la apelación",
+     "it": "il ricorso",
+     "_pos": [
+      352,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "acquitted",
+     "fr": "acquitté",
+     "de": "freigesprochen",
+     "es": "absuelto",
+     "it": "assolto",
+     "_pos": [
+      201,
+      892
+     ],
+     "_flags": []
+    },
+    {
+     "en": "verdict",
+     "fr": "le verdict",
+     "de": "das Urteil",
+     "es": "ei veredicto",
+     "it": "il verdetto",
+     "_pos": [
+      67,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "O n 1 post bail?",
+     "fr": "Est-ce que je peux verser la caution?",
+     "de": "Kann ich die Kaution leisten?",
+     "es": "Puedo pagar la fianza?",
+     "it": "Posso versare una cauzione?",
+     "_pos": [
+      628,
+      988
+     ],
+     "_flags": [
+      "en:short:n",
+      "en:num:1",
+      "en:weird:bail?",
+      "en:case",
+      "fr:weird:caution?",
+      "fr:case",
+      "de:weird:leisten?",
+      "es:weird:fianza?",
+      "es:case",
+      "it:weird:cauzione?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "parole",
+     "fr": "la liberté conditionnelle",
+     "de": "die Haftentlassung auf Bewährung",
+     "es": "la libertad condicional",
+     "it": "la libertà per buona condotta",
+     "_pos": [
+      354,
+      990
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sentence",
+     "fr": "la condamnation",
+     "de": "das Strafmaß",
+     "es": "la sentencia",
+     "it": "la sentenza",
+     "_pos": [
+      202,
+      992
+     ],
+     "_flags": []
+    },
+    {
+     "en": "innocent",
+     "fr": "innocent",
+     "de": "unschuldig",
+     "es": "inocente",
+     "it": "innocente",
+     "_pos": [
+      69,
+      992
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "t t k I » * \" l I» I M 4",
+   "pos": [
+    831,
+    173
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 12,
+  "flagged": 12,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "page": 87,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "services les services",
+   "parts": [
+    "services les services"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "die Dienstleistungen",
+   "parts": [
+    "die dienstleistungen"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "los servicios",
+   "parts": [
+    "los servicios"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "i servizi",
+   "parts": [
+    "i servizi"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

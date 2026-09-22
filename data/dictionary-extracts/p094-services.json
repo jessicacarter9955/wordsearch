@@ -1,0 +1,427 @@
+{
+ "page": 94,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "guest",
+     "fr": "client",
+     "de": "Gast",
+     "es": "huésped",
+     "it": "ospite",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "room key",
+     "fr": "clef de la chambre",
+     "de": "Zimmerschlüssel",
+     "es": "llave de la habitación",
+     "it": "chiave della eamera",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 15,
+      "es": 19,
+      "it": 17
+     }
+    },
+    {
+     "en": "pigeonhole",
+     "fr": "casier",
+     "de": "Fach",
+     "es": "casilla",
+     "it": "casella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 4,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "messages",
+     "fr": "messages",
+     "de": "Nachrichten",
+     "es": "mensajes",
+     "it": "messaggi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "receptionist",
+     "fr": "réceptionniste",
+     "de": "Empfangsdame",
+     "es": "recepcionista",
+     "it": "\"addetta alla ricezior",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 12,
+      "es": 13,
+      "it": 19
+     }
+    },
+    {
+     "en": "register",
+     "fr": "registre",
+     "de": "Gästebuch",
+     "es": "registro",
+     "it": "registro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "counter",
+     "fr": "U com ptoir",
+     "de": "Schalter",
+     "es": "mostrador",
+     "it": "banco",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "reception",
+     "fr": "réception",
+     "de": "Empfang",
+     "es": "recepción- la ricezione",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 7,
+      "es": 20
+     }
+    },
+    {
+     "en": "luggage",
+     "fr": "bagages",
+     "de": "Gepäck",
+     "es": "equipaje",
+     "it": "bagaglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "luggage rack",
+     "fr": "diable",
+     "de": "Kofferkuli",
+     "es": "diablito",
+     "it": "carrello",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "room number",
+     "fr": "numéro de chambre",
+     "de": "Zimmernummer",
+     "es": "número de la habitación",
+     "it": "numero della caméra",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 12,
+      "es": 20,
+      "it": 17
+     }
+    },
+    {
+     "en": "porter",
+     "fr": "porteur",
+     "de": "Hoteldiener",
+     "es": "botones",
+     "it": "facchino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "escaltor",
+     "fr": "ascenseur",
+     "de": "Fahrstuhl",
+     "es": "elevador",
+     "it": "ascensore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": "camere",
+   "names": {
+    "en": "rooms",
+    "fr": "les chambres",
+    "de": "die zimmer",
+    "es": "los habitaciones",
+    "it": "le camere"
+   },
+   "entries": [
+    {
+     "en": "single room",
+     "fr": "chambre simple",
+     "de": "Einzelzimmer",
+     "es": "habitación sencilla",
+     "it": "camera singola",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 12,
+      "es": 18,
+      "it": 13
+     }
+    },
+    {
+     "en": "twin room",
+     "fr": "chambre à deux lirs",
+     "de": "Zweibettzimmer",
+     "es": "habitación con dos cam as individuales",
+     "it": "camera a due letti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 16,
+      "de": 14,
+      "es": 33,
+      "it": 15
+     }
+    },
+    {
+     "en": "private bathroom",
+     "fr": "salle de bain privée",
+     "de": "Privatbadezimmer",
+     "es": "baño privado",
+     "it": "bagno privato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 17,
+      "de": 16,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "double room",
+     "fr": "chambre double",
+     "de": "Doppelzimmer",
+     "es": "habitación doble",
+     "it": "camera doppia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 12,
+      "es": 15,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

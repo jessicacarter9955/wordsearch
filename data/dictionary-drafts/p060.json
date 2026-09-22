@@ -1,0 +1,330 @@
+{
+ "page": 60,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "crockery and cutlery • la v a is s e lle et le s c o u v e r t s • das Geschirr und das Besteck • la v a jilla y lo s c u b ie r t o s • le s to v ig le e le p o sate",
+   "parts": [
+    "crockery and cutlery",
+    "la vaisselle et les couverts",
+    "das geschirr und das besteck",
+    "la v a jilla y lo s c u b ie r t o s",
+    "le s to v ig le e le p o sate"
+   ],
+   "entries": [
+    {
+     "en": "teaspoon",
+     "fr": "la cuiller à café",
+     "_pos": [
+      520,
+      141
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "bowl",
+     "fr": "le bol",
+     "de": "die Schüssel",
+     "es": "el plato sopero",
+     "it": "la ciotola",
+     "_pos": [
+      723,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coffee cup",
+     "fr": "la tasse à café",
+     "de": "die Kaffeetasse",
+     "es": "la taza de café",
+     "it": "la tazzina da caffè",
+     "_pos": [
+      200,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "piate",
+     "fr": "l'assiettc",
+     "de": "der Teller",
+     "es": "el plato",
+     "it": "I piatto",
+     "_pos": [
+      552,
+      267
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "mug",
+     "fr": "la grande tasse",
+     "de": "der Becher",
+     "es": "la taza",
+     "it": "la tazza",
+     "_pos": [
+      38,
+      268
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teacup",
+     "fr": "la tasse .1 thé",
+     "de": "die Teetasse",
+     "es": "lata zade té",
+     "it": "la tazza da té",
+     "_pos": [
+      369,
+      268
+     ],
+     "_flags": [
+      "fr:weird:.1"
+     ]
+    },
+    {
+     "en": "wine glass",
+     "fr": "le verre à vin",
+     "de": "das Weinglas",
+     "es": "la copa de vino» il cálice cía vino",
+     "_pos": [
+      614,
+      333
+     ],
+     "_flags": [
+      "missing:it",
+      "es:weird:vino»"
+     ]
+    },
+    {
+     "en": "tumbler",
+     "fr": "le verre",
+     "de": "das Wasserglas",
+     "es": "el vaso",
+     "it": "il bicchiere",
+     "_pos": [
+      626,
+      416
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pitcher",
+     "fr": "le por",
+     "de": "das Kännchen",
+     "es": "la jarra",
+     "it": "la brocca",
+     "_pos": [
+      381,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "egg cup",
+     "fr": "le coquetier",
+     "de": "der Eierbecher",
+     "es": "la taza para el huevo",
+     "it": "il portauovo",
+     "_pos": [
+      523,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glassware",
+     "fr": "la verrerie",
+     "de": "die Glaswaren",
+     "es": "la cristalería",
+     "it": "la cristalleria",
+     "_pos": [
+      710,
+      515
+     ],
+     "_flags": []
+    },
+    {
+     "en": "French press",
+     "fr": "la cafetière",
+     "de": "die Cafetière",
+     "es": "la cafetera de émbolo",
+     "it": "la caffettiera",
+     "_pos": [
+      39,
+      516
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "teapot",
+     "fr": "la théière",
+     "de": "die Teekanne",
+     "es": "la tetera",
+     "it": "la teiera",
+     "_pos": [
+      218,
+      516
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dinner plate",
+     "fr": "l'assiette plate",
+     "de": "der Essteller",
+     "es": "el plato",
+     "it": "il piatto piano",
+     "_pos": [
+      352,
+      597
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soup bowl",
+     "fr": "l'assiette à soupe",
+     "de": "der Suppenteller",
+     "es": "el plato sopero",
+     "it": "la scodella",
+     "_pos": [
+      512,
+      597
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soup spoon",
+     "fr": "la cuiller à soupe",
+     "de": "der Suppenlöffel",
+     "es": "la cuchara sopera",
+     "it": "il cucchiaio da minestra",
+     "_pos": [
+      665,
+      597
+     ],
+     "_flags": []
+    },
+    {
+     "en": "napkin ring",
+     "fr": "le rond dc serviette",
+     "de": "der Serviettenring",
+     "es": "el servilletero",
+     "it": "il portatovagliolo",
+     "_pos": [
+      39,
+      598
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dessert plate",
+     "fr": "l'assiette à dessert",
+     "de": "der Beilagenteller",
+     "es": "el plato del pan",
+     "it": "il piattino",
+     "_pos": [
+      218,
+      598
+     ],
+     "_flags": []
+    },
+    {
+     "en": "napkin",
+     "fr": "la servierte",
+     "de": "die Serviette",
+     "es": "la servilleta",
+     "it": "il tovagliolo",
+     "_pos": [
+      41,
+      962
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spoon",
+     "fr": "la cuiller",
+     "de": "der Löffel",
+     "es": "la cuchara",
+     "it": "il cucchiaio",
+     "_pos": [
+      666,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knife",
+     "fr": "le couteau",
+     "de": "das Messer",
+     "es": "el cuchillo",
+     "it": "il coltello",
+     "_pos": [
+      776,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fork",
+     "fr": "la fourchette",
+     "de": "die Gabel",
+     "es": "el tenedor",
+     "it": "la forchetta",
+     "_pos": [
+      262,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "place setting",
+     "fr": "le couvert",
+     "de": "das Gedeck",
+     "es": "el lugar en la mesa",
+     "it": "il coperto",
+     "_pos": [
+      43,
+      1079
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "i 9",
+   "pos": [
+    601,
+    254
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 7,
+  "flagged": 16,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

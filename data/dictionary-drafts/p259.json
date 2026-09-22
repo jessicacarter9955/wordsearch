@@ -1,0 +1,482 @@
+{
+ "page": 259,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIB R E • D IE F R E IZ E IT • EL O C IO • IL T EM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "dartboard",
+     "fr": "la cible",
+     "de": "die Dartscheibe",
+     "es": "la diana",
+     "it": "il bersaglio",
+     "_pos": [
+      636,
+      73
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bullseye",
+     "fr": "le mille",
+     "de": "das Bull's Eye",
+     "es": "el blanco",
+     "it": "il centro",
+     "_pos": [
+      596,
+      172
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dominoes",
+     "fr": "les dominos",
+     "de": "das Domino",
+     "es": "el dominó",
+     "it": "il domino",
+     "_pos": [
+      474,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "darts",
+     "fr": "les fléchettes",
+     "de": "das Darts",
+     "es": "los dardos",
+     "it": "le freccette",
+     "_pos": [
+      665,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jigsaw puzzle",
+     "fr": "le puzzle",
+     "de": "das Puzzle",
+     "es": "el rompecabezas",
+     "it": "il puzzle",
+     "_pos": [
+      232,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stamp collecting",
+     "fr": "la philatelic",
+     "de": "das Briefmarkensammeln",
+     "es": "la filatelia",
+     "it": "la filatelia",
+     "_pos": [
+      29,
+      274
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diamond",
+     "fr": "le carreau",
+     "de": "das Karo",
+     "es": "el diamante",
+     "it": "il quadro",
+     "_pos": [
+      550,
+      336
+     ],
+     "_flags": []
+    },
+    {
+     "en": "joker",
+     "fr": "le joker",
+     "de": "der Joker",
+     "es": "el comodín",
+     "it": "il jolly",
+     "_pos": [
+      118,
+      340
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jack",
+     "fr": "le valer",
+     "de": "der Bube",
+     "es": "el joto",
+     "it": "il fante",
+     "_pos": [
+      56,
+      407
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spade",
+     "fr": "le piqué",
+     "de": "das Pik",
+     "es": "la espada",
+     "it": "la picea",
+     "_pos": [
+      552,
+      435
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shuffle (v)",
+     "fr": "battre",
+     "de": "mischen",
+     "es": "barajar",
+     "it": "mescolare",
+     "_pos": [
+      669,
+      483
+     ],
+     "_flags": []
+    },
+    {
+     "en": "queen",
+     "fr": "la dame",
+     "de": "die Dame",
+     "es": "la reina",
+     "it": "la regina",
+     "_pos": [
+      32,
+      499
+     ],
+     "_flags": []
+    },
+    {
+     "en": "heart",
+     "fr": "le cœ ur",
+     "de": "das Herz",
+     "es": "el corazón",
+     "it": "il cuore",
+     "_pos": [
+      552,
+      534
+     ],
+     "_flags": []
+    },
+    {
+     "en": "king",
+     "fr": "le roi",
+     "de": "der König",
+     "es": "el rey",
+     "it": "il re",
+     "_pos": [
+      34,
+      597
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dub",
+     "fr": "le trèfle",
+     "de": "das Kreuz",
+     "es": "el trébol",
+     "it": "il fiore",
+     "_pos": [
+      554,
+      633
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ace »P as",
+     "de": "das Ass",
+     "es": "e las",
+     "it": "l'asso",
+     "_pos": [
+      112,
+      646
+     ],
+     "_flags": [
+      "missing:fr",
+      "en:weird:»P"
+     ]
+    },
+    {
+     "en": "deal (v)",
+     "fr": "donner",
+     "de": "geben",
+     "es": "repartir",
+     "it": "distribuire",
+     "_pos": [
+      672,
+      712
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cards",
+     "fr": "les carres",
+     "de": "die Karten",
+     "es": "lascar tas",
+     "it": "le carte",
+     "_pos": [
+      34,
+      717
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W hose turn is it?",
+     "fr": "est à qui de jouer",
+     "de": "Wer ist dran?",
+     "es": "A quien le toca",
+     "it": "A chi tocca?",
+     "_pos": [
+      708,
+      778
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:it?",
+      "en:case",
+      "de:weird:dran?",
+      "es:case",
+      "it:weird:tocca?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "bridge",
+     "fr": "le bridge",
+     "de": "das Bridge",
+     "es": "el bridge",
+     "it": "il bridge",
+     "_pos": [
+      584,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "point",
+     "fr": "le point",
+     "de": "der Punkt",
+     "es": "el punto",
+     "it": "il punto",
+     "_pos": [
+      440,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "loser",
+     "fr": "le perdant",
+     "de": "der Verlierer",
+     "es": "el perdedor",
+     "it": "il perdente",
+     "_pos": [
+      308,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "win (v)",
+     "fr": "gagner",
+     "de": "gewinnen",
+     "es": "ganar",
+     "it": "vincere",
+     "_pos": [
+      178,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "move",
+     "fr": "le coup",
+     "de": "der Zug",
+     "es": "el turno",
+     "it": "la mossa",
+     "_pos": [
+      50,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "It's your move",
+     "fr": "C' es ta toi de jouer",
+     "de": "Dubist dran",
+     "es": "Te toca a ti",
+     "it": "Tocca a tc",
+     "_pos": [
+      709,
+      877
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "deck of cards",
+     "fr": "le jeu de cartes",
+     "de": "das Kartenspiel",
+     "es": "la baraja",
+     "it": "il mazzo di carte",
+     "_pos": [
+      586,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "score",
+     "fr": "la marque",
+     "de": "das Spielergebnis",
+     "es": "la puntuación",
+     "it": "il punteggio",
+     "_pos": [
+      442,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "game",
+     "fr": "le eu",
+     "de": "das Spiel",
+     "es": "la partida",
+     "it": "il gioco",
+     "_pos": [
+      308,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "winner",
+     "fr": "le gagnant",
+     "de": "der Gewinner",
+     "es": "el ganador",
+     "it": "il vincitore",
+     "_pos": [
+      179,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "play (v)",
+     "fr": "jouer",
+     "de": "spielen",
+     "es": "jugar",
+     "it": "giocare",
+     "_pos": [
+      50,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Roll the dice",
+     "fr": "Jette le dé",
+     "de": "Würfle",
+     "es": "Tira los dados",
+     "it": "Tira i dadi",
+     "_pos": [
+      694,
+      974
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "poker",
+     "fr": "le poker",
+     "de": "das Poker",
+     "es": "el póquer",
+     "it": "il poker",
+     "_pos": [
+      442,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suit",
+     "fr": "la couleur",
+     "de": "die Farbe",
+     "es": "el palo",
+     "it": "il colore",
+     "_pos": [
+      586,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bet",
+     "fr": "le pari",
+     "de": "die Wette",
+     "es": "la apuesta",
+     "it": "la scommessa",
+     "_pos": [
+      310,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lose (v)",
+     "fr": "perdre",
+     "de": "verlieren",
+     "es": "perder",
+     "it": "perdere",
+     "_pos": [
+      180,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "player",
+     "fr": "le joueur",
+     "de": "der Spieler",
+     "es": "el jugador",
+     "it": "il giocatore",
+     "_pos": [
+      52,
+      980
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 36,
+  "complete_clean": 19,
+  "flagged": 17,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

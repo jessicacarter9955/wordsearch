@@ -1,0 +1,262 @@
+{
+ "page": 100,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • I F.S C O U R S E S • DER EINKAUF • LAS C O M P R A S • G II ACQUISTI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "breakfast cereals",
+     "fr": "les céréales",
+     "de": "die Getreideflocken",
+     "es": "los cereales",
+     "it": "i cereali da colazione",
+     "_pos": [
+      378,
+      249
+     ],
+     "_flags": []
+    },
+    {
+     "en": "canned goods",
+     "fr": "les conserves",
+     "de": "die Konserven",
+     "es": "las conservas",
+     "it": "lo scatolame",
+     "_pos": [
+      550,
+      249
+     ],
+     "_flags": []
+    },
+    {
+     "en": "candies",
+     "fr": "la confisene",
+     "de": "die Süßwaren",
+     "es": "la dulcería",
+     "it": "i dolci",
+     "_pos": [
+      722,
+      249
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bakery",
+     "fr": "la boulangerie",
+     "de": "die Backwaren « la panadería",
+     "it": "il pane",
+     "_pos": [
+      36,
+      250
+     ],
+     "_flags": [
+      "missing:es",
+      "de:weird:«"
+     ]
+    },
+    {
+     "en": "dairy",
+     "fr": "la crémerie",
+     "de": "die Milchprodukte",
+     "es": "los lácteos",
+     "it": "i latticini",
+     "_pos": [
+      207,
+      250
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fish",
+     "fr": "le poisson",
+     "de": "der Fisch",
+     "es": "el pescado",
+     "it": "il pesce",
+     "_pos": [
+      551,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fruits",
+     "fr": "les fruits",
+     "de": "das Obst",
+     "es": "la fruta",
+     "it": "la frutta",
+     "_pos": [
+      208,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "meat and poultry",
+     "fr": "la viande et la volaille",
+     "de": "das Fleisch und das Geflügel",
+     "es": "la carne y las avés",
+     "it": "la carne e il pollame",
+     "_pos": [
+      367,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deli",
+     "fr": "la charcuterie",
+     "de": "die Feinkost",
+     "es": "la charcutería",
+     "it": "i salumi",
+     "_pos": [
+      722,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vegetables",
+     "fr": "les légumes",
+     "de": "das Gemüse",
+     "es": "I a verdura",
+     "it": "le verdure",
+     "_pos": [
+      38,
+      498
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "household products",
+     "fr": "les produits d'entretien",
+     "de": "die Haushaltswaren",
+     "es": "los productos de limpieza",
+     "it": "i casalinghi",
+     "_pos": [
+      547,
+      761
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toiletnes",
+     "fr": "les articles de toilette",
+     "de": "die Toilettenartikel",
+     "es": "los artículos de aseo",
+     "it": "i prodotti per il bagno",
+     "_pos": [
+      725,
+      761
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drinks",
+     "fr": "les boissons",
+     "de": "die Getränke",
+     "es": "las bebidas",
+     "it": "le bibite",
+     "_pos": [
+      382,
+      762
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prepared food",
+     "fr": "les plats cuisinés",
+     "de": "die Fertiggerichte",
+     "es": "los platos preparados",
+     "it": "i cibi cotti",
+     "_pos": [
+      210,
+      762
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frozen food",
+     "fr": "les produits surgelés",
+     "de": "die Gefrierware",
+     "es": "los congelados",
+     "it": "i surgelati",
+     "_pos": [
+      38,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pet food",
+     "fr": "la nourriture pour animaux",
+     "de": "das Tierfutter",
+     "es": "la comida para animales",
+     "it": "il cibo per animali",
+     "_pos": [
+      382,
+      1010
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electncal goods",
+     "fr": "l'électroménager",
+     "de": "die Elektroartikel",
+     "es": "los electrodom ésticos",
+     "it": "gli elettrodomestici",
+     "_pos": [
+      211,
+      1010
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baby products",
+     "fr": "les articles pour bébés",
+     "de": "die Babyprodukte",
+     "es": "los artículos para el bebé",
+     "it": "i prodotti per bambini",
+     "_pos": [
+      40,
+      1011
+     ],
+     "_flags": []
+    },
+    {
+     "en": "magazines",
+     "fr": "les magazines",
+     "de": "die Zeitschriften",
+     "es": "las revistas",
+     "it": "le riviste",
+     "_pos": [
+      554,
+      1059
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 0,
+  "flagged": 19,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

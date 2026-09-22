@@ -1,0 +1,512 @@
+{
+ "page": 243,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "strumenti-a-fiato",
+   "names": {
+    "en": "woodwind",
+    "fr": "les bois",
+    "de": "die holzblasinstrumente",
+    "es": "el viento-madera",
+    "it": "gli strumenti a fiato"
+   },
+   "entries": [
+    {
+     "en": "English horn",
+     "fr": "cor anglais",
+     "de": "Englischhorn",
+     "es": "corno inglés",
+     "it": "corno inglese",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 12,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "piccolo",
+     "fr": "piccolo",
+     "de": "Pikkoloflöte",
+     "es": "flautín",
+     "it": "piffero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "de": "Oboe",
+     "es": "oboe",
+     "it": "oboe",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "traversare",
+     "de": "Querflöte",
+     "es": "flauta",
+     "it": "flauto",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "bassoon",
+     "fr": "basson",
+     "de": "Fagott",
+     "es": "fagote",
+     "it": "fagotto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "saxophone",
+     "fr": "saxophone",
+     "de": "Saxophon",
+     "es": "saxofón",
+     "it": "sassofono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "double bassoon",
+     "fr": "contrebasson",
+     "de": "Kontrafagott",
+     "es": "contra fagote",
+     "it": "controfagotto",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 12,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "bass clarinet",
+     "fr": "clarinette liasse",
+     "de": "Bassklarmette",
+     "es": "clarinete bajo",
+     "it": "clarinetto basso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 13,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "de": "Klarinette",
+     "es": "clarinete",
+     "it": "clarinetto",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 10,
+      "es": 9,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": "percussione",
+   "names": {
+    "en": "percussion",
+    "fr": "la percussion",
+    "de": "die schlaginstrumente",
+    "es": "la percusión",
+    "it": "la percussione"
+   },
+   "entries": [
+    {
+     "en": "snare drum",
+     "fr": "caisse claire",
+     "de": "kleine Trommel",
+     "es": "tambor pequeño",
+     "it": "tamburo militare",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 13,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "bongos",
+     "fr": "bongos",
+     "de": "Bongos",
+     "es": "bongos",
+     "it": "bongo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "kettledrum",
+     "fr": "timbale",
+     "de": "Kesselpauke",
+     "es": "timbal",
+     "it": "timpano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 11,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "maracas",
+     "fr": "m aracas",
+     "de": "Maracas",
+     "es": "maracas",
+     "it": "maracas",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "tnangle",
+     "fr": "triangle",
+     "de": "Triangel",
+     "es": "triángulo",
+     "it": "triangolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "tambourine",
+     "fr": "tambour",
+     "de": "Tamburin",
+     "es": "pandero",
+     "it": "tamburino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "cymbals",
+     "fr": "cymbales",
+     "de": "Becken",
+     "es": "platillos",
+     "it": "cembali",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "vibraphone",
+     "fr": "vibraphone",
+     "de": "Vibraphon",
+     "es": "marimba",
+     "it": "vibrafono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": "ottoni",
+   "names": {
+    "en": "brass",
+    "fr": "les cuivres",
+    "de": "die blechblasinstrumente",
+    "es": "el viento-metal",
+    "it": "gli ottoni"
+   },
+   "entries": [
+    {
+     "en": "tuba",
+     "fr": "tuba",
+     "de": "Tuba",
+     "es": "tuba",
+     "it": "tuba",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "trombone",
+     "fr": "trombone",
+     "de": "Posaune",
+     "es": "trombón de varas",
+     "it": "trombone",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 14,
+      "it": 8
+     }
+    },
+    {
+     "en": "French horn",
+     "fr": "cor",
+     "de": "Horn",
+     "es": "com o de caza",
+     "it": "corno",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 3,
+      "de": 4,
+      "es": 10,
+      "it": 5
+     }
+    },
+    {
+     "en": "trumpet",
+     "fr": "trompette",
+     "de": "Trompete",
+     "es": "trompeta",
+     "it": "tromba",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

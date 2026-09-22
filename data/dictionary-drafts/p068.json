@@ -1,0 +1,376 @@
+{
+ "page": 68,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "fr": "le luffa",
+     "de": "der Luffaschwamm",
+     "es": "el zacate",
+     "it": "la luffa",
+     "_pos": [
+      204,
+      101
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "vA A",
+     "fr": "Vi",
+     "_pos": [
+      118,
+      170
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "fr:case"
+     ],
+     "_alts": [
+      [
+       "en",
+       "de"
+      ],
+      [
+       "en",
+       "es"
+      ],
+      [
+       "en",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "N",
+     "_pos": [
+      132,
+      177
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:short:N",
+      "en:case"
+     ]
+    },
+    {
+     "en": "pumice stone",
+     "fr": "l.i pierre ponce",
+     "de": "der Bimsstein",
+     "es": "la piedra pómez",
+     "it": "la pomice",
+     "_pos": [
+      248,
+      217
+     ],
+     "_flags": [
+      "fr:weird:l.i"
+     ]
+    },
+    {
+     "en": "back brush",
+     "fr": "la brosse pour le dos",
+     "de": "die Ruckenburste",
+     "es": "el cepillo para la espalda",
+     "it": "la spazzola",
+     "_pos": [
+      463,
+      217
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sponge",
+     "fr": "l éponge",
+     "de": "der Schwamm",
+     "es": "la esponja",
+     "it": "la spugna",
+     "_pos": [
+      34,
+      217
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deodorant",
+     "fr": "le déodorant",
+     "de": "das Deo",
+     "es": "el desodorante",
+     "it": "il deodorante",
+     "_pos": [
+      677,
+      218
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soap dish",
+     "fr": "le porte-savon",
+     "de": "die Seifenschale",
+     "es": "la jabonera",
+     "it": "il portasapone",
+     "_pos": [
+      87,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shower gel",
+     "fr": "le pel douche",
+     "de": "das Duschgel",
+     "es": "el shampoo para el cuerpo",
+     "it": "la doectaschiuma",
+     "_pos": [
+      293,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soap",
+     "fr": "le savon",
+     "de": "die Seife",
+     "es": "el jabón",
+     "it": "il sapone",
+     "_pos": [
+      35,
+      482
+     ],
+     "_flags": []
+    },
+    {
+     "en": "face cream",
+     "fr": "la crème pour le visage",
+     "de": "die Gesichtscreme",
+     "es": "lacre mapa rala cara",
+     "it": "la crema per il viso",
+     "_pos": [
+      249,
+      482
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bubble bath",
+     "fr": "le bain moussant",
+     "de": "das Schaumbad",
+     "es": "el gel de baño",
+     "it": "il bagnoschiuma",
+     "_pos": [
+      464,
+      483
+     ],
+     "_flags": []
+    },
+    {
+     "en": "and towel",
+     "fr": "ia serv ierte",
+     "de": "aas Handtuch",
+     "es": "« toalla de mano",
+     "it": "\"asciugamano piccolo",
+     "_pos": [
+      36,
+      531
+     ],
+     "_flags": [
+      "es:weird:«",
+      "it:weird:\"asciugamano"
+     ]
+    },
+    {
+     "en": "bath towel",
+     "fr": "la serviette de bain",
+     "de": "das Badetuch",
+     "es": "la toalla de baño",
+     "_pos": [
+      202,
+      598
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "body lotion",
+     "fr": "la lotion pour le corps",
+     "de": "die Korperlotion",
+     "es": "la crema para el cuerpo",
+     "it": "la lozione per il corpo",
+     "_pos": [
+      244,
+      729
+     ],
+     "_flags": []
+    },
+    {
+     "en": "talcum powder",
+     "fr": "le talé",
+     "de": "der Körperpuder",
+     "es": "el talco",
+     "it": "il talco",
+     "_pos": [
+      496,
+      729
+     ],
+     "_flags": []
+    },
+    {
+     "en": "towels",
+     "fr": "les serviertes",
+     "de": "die Handtücher",
+     "es": "las toallas",
+     "it": "gli asciugamani",
+     "_pos": [
+      36,
+      730
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bathrobe",
+     "fr": "le peignoir",
+     "de": "der Bademantel",
+     "es": "la bata",
+     "it": "l'accappatoio",
+     "_pos": [
+      691,
+      731
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "shaving • le rasage • das Rasieren • el afeitado • la rasatura",
+   "parts": [
+    "shaving",
+    "le rasage",
+    "das rasieren",
+    "el afeitado",
+    "la rasatura"
+   ],
+   "entries": [
+    {
+     "en": "electric razor",
+     "fr": "le rasoir électrique",
+     "de": "der Elektrorasierer",
+     "es": "la rasuradura",
+     "it": "il rasoio elettrico",
+     "_pos": [
+      170,
+      845
+     ],
+     "_flags": []
+    },
+    {
+     "en": "razor biade",
+     "fr": "la lame de rasoir",
+     "de": "die Rasierklinge",
+     "es": "la hoja de afeitar",
+     "it": "la lametta",
+     "_pos": [
+      590,
+      896
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shaving cream",
+     "fr": "la mousse araser",
+     "de": "der Rasierschaum",
+     "es": "la espuma de afeitar",
+     "it": "la schiuma da barba",
+     "_pos": [
+      250,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "disposable razor",
+     "fr": "le rasoir jetable",
+     "de": "der Einwegrasierei",
+     "es": "la navaja de afeitar desec.hablt",
+     "it": "il rasoio monouso",
+     "_pos": [
+      464,
+      1028
+     ],
+     "_flags": [
+      "es:weird:desec.hablt"
+     ]
+    },
+    {
+     "en": "aftershave",
+     "fr": "Latter-shave",
+     "de": "das Rasierwasser",
+     "es": "el aftershave",
+     "it": "il dopobarba",
+     "_pos": [
+      680,
+      1028
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "grande",
+   "pos": [
+    290,
+    664
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "%",
+   "pos": [
+    418,
+    1020
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 4,
+  "flagged": 19,
+  "missing_lang": 4,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

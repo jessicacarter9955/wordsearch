@@ -1,0 +1,669 @@
+{
+ "page": 36,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "acconciature",
+   "names": {
+    "en": "styles",
+    "fr": "les coiffures",
+    "de": "die Frisuren",
+    "es": "los estilos",
+    "it": "le acconciature"
+   },
+   "entries": [
+    {
+     "en": "ribbon",
+     "fr": "ruban",
+     "de": "Band",
+     "es": "listón",
+     "it": "nastro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "pigtails",
+     "fr": "couettes",
+     "de": "Schwänzchen",
+     "es": "coletas",
+     "it": "codini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "French braid",
+     "fr": "rouleau",
+     "de": "Hochfrisur",
+     "es": "chongo francés",
+     "it": "piega alla francese",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 10,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "braid",
+     "fr": "natte",
+     "de": "Zopf",
+     "es": "trenza",
+     "it": "treccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "ponytail",
+     "fr": "queue de cheval",
+     "de": "Pferdeschwanz",
+     "es": "cola de caballo",
+     "it": "coda di cavallo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 13,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "straight",
+     "fr": "raide",
+     "de": "glatt",
+     "es": "lacio",
+     "it": "lisci",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "perm",
+     "fr": "permanente",
+     "de": "Dauerwelle",
+     "es": "permanente",
+     "it": "permanente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "curly",
+     "fr": "frisé",
+     "de": "kraus",
+     "es": "rizado",
+     "it": "ricci",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "bob",
+     "fr": "au carré",
+     "de": "Bubikopf",
+     "es": "príncipe valiente",
+     "it": "caschetto",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 8,
+      "es": 16,
+      "it": 9
+     }
+    },
+    {
+     "en": "roots",
+     "fr": "racines",
+     "de": "Wurzeln",
+     "es": "raíces",
+     "it": "radici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "hair band",
+     "fr": "bande de cheveux",
+     "de": "Haarband",
+     "es": "goma del pelo",
+     "it": "elastico",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 8,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "greasy",
+     "fr": "gras",
+     "de": "fettig",
+     "es": "graso",
+     "it": "grassi",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "dry",
+     "fr": "sec",
+     "de": "trocken",
+     "es": "seco",
+     "it": "secchi",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 7,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "trim (v)",
+     "fr": "rafraîchir",
+     "de": "nachschneiden",
+     "es": "despuntar",
+     "it": "spuntare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 13,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "wig",
+     "fr": "perruque",
+     "de": "Perücke",
+     "es": "peluca",
+     "it": "parrucca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "highlights",
+     "fr": "reflets",
+     "de": "Strähnen",
+     "es": "luces",
+     "it": "colpi di sole",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 8,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "bald",
+     "fr": "chauve",
+     "de": "kahl",
+     "es": "calvo",
+     "it": "calvo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "bun",
+     "fr": "chignon",
+     "de": "Haarknoten",
+     "es": "chongo",
+     "it": "crocchia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 10,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "crop",
+     "fr": "coupe courte",
+     "de": "Kurzhaarschnitt",
+     "es": "pelo corto",
+     "it": "sfumatura alta",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 11,
+      "de": 15,
+      "es": 9,
+      "it": 13
+     }
+    }
+   ]
+  },
+  {
+   "slug": "colori-capelli",
+   "names": {
+    "en": "colours",
+    "fr": "les couleurs",
+    "de": "die Haarfarben",
+    "es": "los colores",
+    "it": "i colori"
+   },
+   "entries": [
+    {
+     "en": "barber",
+     "fr": "coiffeur",
+     "de": "Herrenfriseur",
+     "es": "peluquero",
+     "it": "barbiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 13,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "normal",
+     "fr": "normal",
+     "de": "normal",
+     "es": "normal",
+     "it": "normali",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "dandruff",
+     "fr": "pellicules",
+     "de": "Schuppen",
+     "es": "caspa",
+     "it": "forfora",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "scalp",
+     "fr": "cuir chevelu",
+     "de": "Kopfhaut",
+     "es": "cuero cabelludo",
+     "it": "cuoio capelluto",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 8,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "red",
+     "fr": "roux",
+     "de": "rot",
+     "es": "pelirrojo",
+     "it": "rosso",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 3,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "auburn",
+     "fr": "auburn",
+     "de": "rotbraun",
+     "es": "rojizo",
+     "it": "castano",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "brunette",
+     "fr": "châtain",
+     "de": "brünett",
+     "es": "castaño",
+     "it": "bruno",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "blonde",
+     "fr": "blond",
+     "de": "blond",
+     "es": "güero",
+     "it": "biondo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "straighten (v)",
+     "fr": "décrêper",
+     "de": "glätten",
+     "es": "alaciar",
+     "it": "lisciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "split ends",
+     "fr": "fourches",
+     "de": "gespaltenen Haarspitzen",
+     "es": "orzitela",
+     "it": "doppie punte",
+     "_multi": [
+      "en",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 22,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "white",
+     "fr": "blanc",
+     "de": "weiß",
+     "es": "blanco",
+     "it": "bianco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "dyed",
+     "fr": "teint",
+     "de": "gefärbt",
+     "es": "teñido",
+     "it": "tinto",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "gray",
+     "fr": "gris",
+     "de": "grau",
+     "es": "gris",
+     "it": "grigio",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "black",
+     "fr": "noir",
+     "de": "schwarz",
+     "es": "negro",
+     "it": "nero",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 7,
+      "es": 5,
+      "it": 4
+     }
+    }
+   ]
+  }
+ ],
+ "note": "G2 'A' = spazzatura OCR, fusa nei colori. es di split ends 'la orzitela' mantenuto da OCR (dubbio, forse 'las horquillas'). 'normali' it mantenuto (plurale nel libro)."
+}

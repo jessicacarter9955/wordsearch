@@ -1,0 +1,262 @@
+{
+ "page": 201,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • L E TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "visa",
+     "fr": "le visa",
+     "de": "das Visum",
+     "es": "la visa",
+     "it": "il visto",
+     "_pos": [
+      784,
+      87
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carry-on luggage",
+     "fr": "les bagages à main",
+     "de": "das Handgepäck",
+     "es": "equipaje de mano",
+     "it": "il bagaglio a mano",
+     "_pos": [
+      44,
+      139
+     ],
+     "_flags": []
+    },
+    {
+     "en": "passport",
+     "fr": "le passeport",
+     "de": "der Pass",
+     "es": "el pasaporte",
+     "it": "il passaporto",
+     "_pos": [
+      470,
+      202
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boarding pass",
+     "fr": "la carré d' embarquement",
+     "de": "die Bordkarte",
+     "es": "la tarjeta de embarque",
+     "it": "la carta d'imbarco",
+     "_pos": [
+      712,
+      235
+     ],
+     "_flags": []
+    },
+    {
+     "en": "luggage",
+     "fr": "les bagages",
+     "de": "das Gepäck",
+     "es": "el equipaje",
+     "it": "i bagaglio",
+     "_pos": [
+      46,
+      254
+     ],
+     "_flags": []
+    },
+    {
+     "en": "can",
+     "fr": "ie chario t",
+     "de": "der Kotferkuli",
+     "es": "el carrito",
+     "it": "il carrello",
+     "_pos": [
+      46,
+      386
+     ],
+     "_flags": [
+      "fr:short:t"
+     ]
+    },
+    {
+     "en": "ticket",
+     "fr": "le biller",
+     "de": "das Flugticket",
+     "es": "el boleto",
+     "it": "il biglietto",
+     "_pos": [
+      685,
+      448
+     ],
+     "_flags": []
+    },
+    {
+     "en": "passport control",
+     "fr": "le contrôle de passeports",
+     "de": "die Passkontrolle",
+     "es": "el control de pasaportes",
+     "it": "il controllo passaporti",
+     "_pos": [
+      472,
+      449
+     ],
+     "_flags": []
+    },
+    {
+     "en": "check in desk",
+     "fr": "l'enregistrement des bagages",
+     "de": "der Abfertigungsschalter",
+     "es": "el mostrador de check-in",
+     "it": "il banco accettazione",
+     "_pos": [
+      182,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "en": "destination",
+     "fr": "la destination",
+     "de": "das Reiseziel",
+     "es": "el destino",
+     "it": "la destinazione",
+     "_pos": [
+      734,
+      530
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gate number",
+     "fr": "le nu me rode la porte d' embarquement",
+     "de": "die Gatenummer",
+     "es": "el nùm ero de puerta de embarque",
+     "it": "il numero dell'uscita",
+     "_pos": [
+      306,
+      532
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arrivals",
+     "fr": "les arrivées",
+     "de": "die Ankunft",
+     "es": "las llegadas",
+     "it": "gli arrivi",
+     "_pos": [
+      735,
+      630
+     ],
+     "_flags": []
+    },
+    {
+     "en": "departures",
+     "fr": "les départs",
+     "de": "der Abflug",
+     "es": "las salidas",
+     "it": "le partenze",
+     "_pos": [
+      360,
+      680
+     ],
+     "_flags": []
+    },
+    {
+     "en": "information screen",
+     "fr": "l'écran d' information",
+     "de": "die Fluginformationsanzeige",
+     "es": "la pantalla informativa",
+     "it": "il pannello degli orari",
+     "_pos": [
+      474,
+      761
+     ],
+     "_flags": []
+    },
+    {
+     "en": "departure lounge",
+     "fr": "la salle de départ",
+     "de": "die Abflughalle",
+     "es": "la sala de embarque",
+     "it": "la sala delle partenze",
+     "_pos": [
+      50,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "car rental",
+     "fr": "la location de voitures",
+     "de": "der Autoverieih",
+     "es": "la renta de carros",
+     "it": "l'autonoleggio",
+     "_pos": [
+      690,
+      991
+     ],
+     "_flags": []
+    },
+    {
+     "en": "taxi stand",
+     "fr": "la station de taxis",
+     "de": "der Taxistand",
+     "es": "el sitio de taxis",
+     "it": "il posteggio dei taxi",
+     "_pos": [
+      477,
+      992
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baggage claim",
+     "fr": "U- retrait des bagages",
+     "de": "die Gepäckausgabe",
+     "es": "la recogida de equipajes",
+     "it": "il ricupero bagagli",
+     "_pos": [
+      264,
+      993
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "duty-free store",
+     "fr": "la boutique hors taxes",
+     "de": "der Duty-free Shop",
+     "es": "el duty-free",
+     "it": "il negozio duty free",
+     "_pos": [
+      52,
+      994
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 5,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

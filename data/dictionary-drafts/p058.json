@@ -1,0 +1,252 @@
+{
+ "page": 58,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "mirror",
+     "fr": "le miroir",
+     "de": "der Spiegel",
+     "es": "eî espejo",
+     "_pos": [
+      39,
+      147
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "vase",
+     "fr": "le vase",
+     "de": "die Vase",
+     "es": "el larron",
+     "it": "il vaso",
+     "_pos": [
+      155,
+      147
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mantelpiece",
+     "fr": "la ta bierre de cheminée",
+     "de": "der Kaminsims",
+     "es": "la repisa de la chimenea",
+     "it": "la mensola del caminetto",
+     "_pos": [
+      266,
+      219
+     ],
+     "_flags": []
+    },
+    {
+     "en": "net curtain",
+     "fr": "le brise-bise",
+     "de": "die Gardine",
+     "es": "el visillo",
+     "it": "la tendina",
+     "_pos": [
+      678,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "curtain",
+     "fr": "le rideau",
+     "de": "der Vorhang",
+     "es": "la cortina",
+     "it": "la tenda",
+     "_pos": [
+      463,
+      285
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fireplace",
+     "fr": "la cheminée",
+     "de": "der Kamin",
+     "es": "la chimenea",
+     "it": "il caminetto",
+     "_pos": [
+      267,
+      368
+     ],
+     "_flags": []
+    },
+    {
+     "en": "screen",
+     "fr": "le garde-feu",
+     "de": "das Kamingitter",
+     "es": "el biombo",
+     "it": "I parafuoco",
+     "_pos": [
+      268,
+      500
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "roller blind",
+     "fr": "le store",
+     "de": "das Rollo",
+     "es": "el estor",
+     "it": "l'avvolgibile",
+     "_pos": [
+      680,
+      548
+     ],
+     "_flags": []
+    },
+    {
+     "en": "venenan blind",
+     "fr": "le store vénitien",
+     "de": "die Jalousie",
+     "es": "la persiana",
+     "it": "la veneziana",
+     "_pos": [
+      466,
+      548
+     ],
+     "_flags": []
+    },
+    {
+     "en": "armchair",
+     "fr": "le fauteuil",
+     "_pos": [
+      681,
+      614
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "molding",
+     "fr": "la moulure",
+     "_pos": [
+      466,
+      615
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "it »",
+     "_pos": [
+      771,
+      623
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:weird:»"
+     ]
+    },
+    {
+     "en": "candle",
+     "fr": "la bougie",
+     "de": "die Kerze",
+     "es": "la vela",
+     "it": "la candela",
+     "_pos": [
+      269,
+      633
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bookshelf",
+     "fr": "la bibliothèque",
+     "de": "das Bücherregal",
+     "es": "el librero",
+     "it": "la libreria",
+     "_pos": [
+      334,
+      732
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sofabed",
+     "fr": "Ic canape-lit",
+     "de": "die Bettcouch",
+     "es": "el sofá-cam a",
+     "it": "il divano letto",
+     "_pos": [
+      334,
+      847
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "rug",
+     "fr": "le tapis",
+     "de": "der Teppich",
+     "es": "el tapete",
+     "it": "il tappeto",
+     "_pos": [
+      336,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "study",
+     "fr": "le bureau",
+     "de": "das Arbeitszimmer",
+     "es": "el estudio",
+     "it": "lo studio",
+     "_pos": [
+      470,
+      1061
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 6,
+  "flagged": 11,
+  "missing_lang": 4,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

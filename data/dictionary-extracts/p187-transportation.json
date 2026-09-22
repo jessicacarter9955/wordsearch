@@ -1,0 +1,603 @@
+{
+ "page": 187,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "tipi",
+   "names": {
+    "en": "types",
+    "fr": "les modèles",
+    "de": "die wagentypen",
+    "es": "los modelos",
+    "it": "i tipi"
+   },
+   "entries": [
+    {
+     "en": "station wagon",
+     "fr": "break",
+     "de": "Kombiwagen",
+     "es": "camioneta",
+     "it": "auto familiare",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 5,
+      "de": 10,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "hatchback",
+     "fr": "berline à hayon",
+     "de": "Fließhecklimousine",
+     "es": "carro de cinco puertas",
+     "it": "auto a cinque porte",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 19,
+      "es": 19,
+      "it": 16
+     }
+    },
+    {
+     "en": "sedan",
+     "fr": "berline",
+     "de": "Limousine",
+     "es": "carro familiar",
+     "it": "berlina",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "ubcornpact",
+     "fr": "petite voiture",
+     "de": "Kleinwagen",
+     "es": "compacto",
+     "it": "auto piccola",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 10,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "sports car",
+     "fr": "cabriolet sport",
+     "de": "Sportkabriolett",
+     "es": "carro deportivo",
+     "it": "auto sportiva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 15,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "minivan",
+     "fr": "voiture à six places",
+     "de": "Groöraumlimousine",
+     "es": "m inivan",
+     "it": "monovolume",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 17,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "four-wheel drive",
+     "fr": "quatre quatre",
+     "de": "Geländewagen",
+     "es": "doble tracción",
+     "it": "fuoristrada",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "convertible",
+     "fr": "décapotable",
+     "de": "Kabriolett",
+     "es": "convertible",
+     "it": "auto decappottabile",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 10,
+      "es": 11,
+      "it": 18
+     }
+    },
+    {
+     "en": "limousine",
+     "fr": "limousine",
+     "de": "verlängerte Limousine",
+     "es": "lim ousine",
+     "it": "limousine",
+     "_multi": [
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 20,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "► muge",
+     "fr": "voiture d'époque",
+     "de": "Vorkriegsmodell",
+     "es": "auto de época",
+     "it": "auto d'epoca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 14,
+      "de": 15,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "car wash",
+     "fr": "lave-auto",
+     "de": "Autowaschanlage",
+     "es": "auto-lavado",
+     "it": "autolavaggio",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 15,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "leaded",
+     "fr": "avec plomb",
+     "de": "verbleit",
+     "es": "con plomo",
+     "it": "piombata",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "oil",
+     "fr": "huile",
+     "de": "Öl",
+     "es": "aceite",
+     "it": "olio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 2,
+      "es": 6,
+      "it": 4
+     }
+    }
+   ]
+  },
+  {
+   "slug": "stazione-di-servizio",
+   "names": {
+    "en": "gas station",
+    "fr": "la station-service",
+    "de": "die tankstelle",
+    "es": "la gasolinera",
+    "it": "la stazione di servizio"
+   },
+   "entries": [
+    {
+     "en": "pnce",
+     "fr": "tarif",
+     "de": "Benzinpreis",
+     "es": "precio",
+     "it": "orezzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "gas pump",
+     "fr": "pompe",
+     "de": "Zapfsäule",
+     "es": "bomba",
+     "it": "a pompa di benzina",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 15
+     }
+    },
+    {
+     "en": "diesel",
+     "fr": "diesel",
+     "de": "Diesel",
+     "es": "diesel",
+     "it": "diesel",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "gasoline",
+     "fr": "essence",
+     "de": "Benzin",
+     "es": "gasolina",
+     "it": "benzina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "antifreeze",
+     "fr": "antigel",
+     "de": "Frostschutzmittel",
+     "es": "anticongelante",
+     "it": "antigelo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 17,
+      "es": 14,
+      "it": 8
+     }
+    },
+    {
+     "en": "windshield wiper fluid",
+     "fr": "lave-glace",
+     "de": "Scheibenwaschanlage",
+     "es": "líquido limpiaparabrisas",
+     "it": "detegente per vetri",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 9,
+      "de": 19,
+      "es": 23,
+      "it": 17
+     }
+    },
+    {
+     "en": "unleaded",
+     "fr": "sans plomb",
+     "de": "bleifrei",
+     "es": "sin plomo",
+     "it": "senza piombo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "garage",
+     "fr": "garage",
+     "de": "Werkstatt",
+     "es": "taller",
+     "it": "garage",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "Fill it up. please",
+     "fr": "plein, s'il vous plaît",
+     "de": "Voll tanken, bitte",
+     "es": "Llénelo por favor",
+     "it": "pieno per favore",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "Le",
+      "it": "Il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 15,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "air hose",
+     "fr": "compresseur",
+     "de": "Druckluftgerät",
+     "es": "bomba del aire",
+     "it": "distributore di aria compressa",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 14,
+      "es": 12,
+      "it": 27
+     }
+    },
+    {
+     "en": "forecourt",
+     "fr": "aire de stationnement",
+     "de": "Tankstellenplatz",
+     "es": "/ona de abastecimiento",
+     "it": "area di stazionamento",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 19,
+      "de": 16,
+      "es": 19,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

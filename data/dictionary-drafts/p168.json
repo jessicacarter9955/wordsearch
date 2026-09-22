@@ -1,0 +1,325 @@
+{
+ "page": 168,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • L L I R A V A IL • DIE ARBEIT • EL TRABAJO • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "anchor",
+     "fr": "la présentatrice",
+     "de": "die Nachrichtensprecherin",
+     "es": "la presentadora de las noticias",
+     "it": "la presentatrice",
+     "_pos": [
+      676,
+      257
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teleprompter",
+     "fr": "le télésouffleur",
+     "de": "der Teleprompter",
+     "es": "el teleprom pter",
+     "it": "il gobbo",
+     "_pos": [
+      460,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reporter",
+     "fr": "la reporter",
+     "de": "die Reporterin",
+     "es": "la reportera",
+     "it": "la cronista",
+     "_pos": [
+      244,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nterviewer",
+     "fr": "l'interviewer",
+     "de": "der Interviewer",
+     "es": "el entrevistador",
+     "it": "l'intervistatore",
+     "_pos": [
+      32,
+      261
+     ],
+     "_flags": []
+    },
+    {
+     "en": "film set",
+     "fr": "le décor de cinéma",
+     "de": "das Set",
+     "es": "el plato de rodaje",
+     "it": "il set",
+     "_pos": [
+      677,
+      508
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clapperboard",
+     "fr": "la claquette die Klappe",
+     "es": "la pizarra",
+     "it": "il ciac",
+     "_pos": [
+      462,
+      508
+     ],
+     "_flags": [
+      "missing:de"
+     ]
+    },
+    {
+     "en": "sound boom",
+     "fr": "la perche",
+     "de": "der Mikrophongalgen",
+     "es": "el m icròfono de aire",
+     "it": "la giraffa",
+     "_pos": [
+      248,
+      509
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "actors »les acteurs",
+     "de": "die Schauspieler",
+     "es": "los actores",
+     "it": "gli attori",
+     "_pos": [
+      32,
+      511
+     ],
+     "_flags": [
+      "missing:fr",
+      "en:weird:»les"
+     ]
+    },
+    {
+     "en": "short wave",
+     "fr": "les ondes courtes",
+     "de": "die Kurzwelle",
+     "es": "la onda corta",
+     "it": "l'onda corta",
+     "_pos": [
+      716,
+      584
+     ],
+     "_flags": []
+    },
+    {
+     "en": "radio station",
+     "fr": "la station de radio",
+     "de": "die Rundfunkstation",
+     "es": "la estación de radio",
+     "it": "il canale radiofonico",
+     "_pos": [
+      548,
+      584
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "radio • la radio • das Radio • la radio • la radio",
+   "parts": [
+    "radio",
+    "la radio",
+    "das radio",
+    "la radio",
+    "la radio"
+   ],
+   "entries": [
+    {
+     "en": "sound technician",
+     "fr": "l'ingénieur du son",
+     "de": "der Tonmeister",
+     "es": "el técnico de sonido",
+     "it": "il tecnico del suono",
+     "_pos": [
+      379,
+      626
+     ],
+     "_flags": []
+    },
+    {
+     "en": "microphone",
+     "fr": "le microphone",
+     "de": "das Mikrophon",
+     "es": "el micrófono",
+     "it": "il microfono",
+     "_pos": [
+      210,
+      627
+     ],
+     "_flags": []
+    },
+    {
+     "en": "medium wave",
+     "fr": "les ondes moyennes",
+     "de": "die Mittelwelle",
+     "es": "la onda media",
+     "it": "l'onda media",
+     "_pos": [
+      718,
+      686
+     ],
+     "_flags": []
+    },
+    {
+     "en": "DJ",
+     "fr": "le D .J",
+     "de": "der DJ",
+     "es": "el DI",
+     "it": "il DJ",
+     "_pos": [
+      548,
+      687
+     ],
+     "_flags": [
+      "en:case",
+      "fr:weird:.J",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "frequency",
+     "fr": "la fréquence",
+     "de": "die Frequenz",
+     "es": "la frecuencia",
+     "it": "la frequenza",
+     "_pos": [
+      718,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "broadcast",
+     "fr": "l'émission",
+     "de": "die Sendung",
+     "es": "la transmisión",
+     "it": "la trasmissione",
+     "_pos": [
+      548,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wavelength",
+     "fr": "la longueur d'ondes",
+     "de": "die Wellenlänge",
+     "es": "la longitud de onda",
+     "it": "la lunghezza d'onda",
+     "_pos": [
+      550,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "volume",
+     "fr": "le volume",
+     "de": "die Lautstärke",
+     "es": "el volumen",
+     "it": "il volume",
+     "_pos": [
+      719,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tune (v)",
+     "fr": "régler",
+     "de": "einstellen",
+     "es": "sintonizar",
+     "it": "sintonizzare",
+     "_pos": [
+      720,
+      990
+     ],
+     "_flags": []
+    },
+    {
+     "en": "long wave",
+     "fr": "les grandes ondes",
+     "de": "die Langwelle",
+     "es": "la onda larga",
+     "it": "l'onda lunga",
+     "_pos": [
+      550,
+      991
+     ],
+     "_flags": []
+    },
+    {
+     "en": "recording studio",
+     "fr": "le studio d'enregistrement",
+     "de": "das Tonstudio",
+     "es": "el «.‘studio de grabación",
+     "it": "lo studio di registrazione",
+     "_pos": [
+      37,
+      1061
+     ],
+     "_flags": [
+      "es:weird:«.‘studio"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "m ixage",
+   "pos": [
+    118,
+    644
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "mixannin",
+   "pos": [
+    97,
+    693
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 7,
+  "flagged": 14,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "page": 147,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "EATING OUT ♦ SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "breakfast • le petit déjeuner • das Frühstück • el desayuno • la colazione",
+   "parts": [
+    "breakfast",
+    "le petit déjeuner",
+    "das frühstück",
+    "el desayuno",
+    "la colazione"
+   ],
+   "entries": [
+    {
+     "en": "milk",
+     "fr": "le lait",
+     "de": "die Milch",
+     "es": "la leche",
+     "it": "il latte",
+     "_pos": [
+      56,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cereal",
+     "fr": "les céréales",
+     "de": "die Getreideflocken",
+     "es": "los cereales",
+     "it": "il cereale",
+     "_pos": [
+      148,
+      166
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jam",
+     "fr": "la confiture",
+     "de": "die Konfitüre",
+     "es": "la mermelada",
+     "it": "la marmellata",
+     "_pos": [
+      284,
+      167
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dried fruit",
+     "fr": "les fru ir secs",
+     "de": "das Dörrobst",
+     "es": "la In ita seca",
+     "it": "la frutta secca",
+     "_pos": [
+      409,
+      167
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "ham",
+     "fr": "le jambon",
+     "de": "der Schinken",
+     "es": "el jamón",
+     "it": "il prosciutto",
+     "_pos": [
+      540,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cheese",
+     "fr": "le fromage",
+     "de": "der Käse",
+     "es": "el queso",
+     "it": "il formaggio",
+     "_pos": [
+      645,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crispbread",
+     "fr": "le biscuit scandinave",
+     "de": "das Knäckebrot",
+     "es": "la galleta de centeno",
+     "it": "il pane biscottato",
+     "_pos": [
+      748,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "butter",
+     "fr": "le beurre",
+     "de": "die Butter",
+     "es": "la mantequilla",
+     "it": "il burro",
+     "_pos": [
+      751,
+      588
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breakfast buffet",
+     "fr": "le buffet du petit déjeuner",
+     "de": "das Frühstücks buffet",
+     "es": "el buffet de desavuno",
+     "it": "il buffet della colazione",
+     "_pos": [
+      45,
+      588
+     ],
+     "_flags": []
+    },
+    {
+     "en": "marmalade",
+     "fr": "la confiture d'oranges",
+     "de": "die Orangenmarmelade",
+     "es": "la mermelada de naranja",
+     "it": "la marmellata di agrumi",
+     "_pos": [
+      457,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pâté",
+     "fr": "le pâté",
+     "de": "die Pastete",
+     "es": "el paté",
+     "it": "il pàté",
+     "_pos": [
+      640,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fruit juice",
+     "fr": "le jus de fruir",
+     "de": "der Obstsaft",
+     "es": "el jugo de frutas",
+     "it": "il succo di frutta",
+     "_pos": [
+      66,
+      637
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coffee",
+     "fr": "le café",
+     "de": "der Kaffee",
+     "es": "el café",
+     "it": "I caffè",
+     "_pos": [
+      277,
+      638
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "croissant",
+     "fr": "le croissant",
+     "de": "das Croissant",
+     "es": "el croissant",
+     "it": "il cornetto",
+     "_pos": [
+      522,
+      774
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hot chocolate",
+     "fr": "le chocolat chaud",
+     "de": "die Schokolade",
+     "es": "el chocolate caliente",
+     "it": "la cioccolata calda",
+     "_pos": [
+      620,
+      774
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tea",
+     "fr": "le thé",
+     "de": "der Tee",
+     "es": "el té",
+     "it": "il tè",
+     "_pos": [
+      760,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breakfast table",
+     "fr": "la table du petit déjeuner",
+     "de": "der Frühstückstisch",
+     "es": "la mesa del desayuno",
+     "it": "I tavolo della colazione",
+     "_pos": [
+      45,
+      1076
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "drinks",
+     "fr": "les boissons",
+     "de": "die Getränke",
+     "es": "las bebidas",
+     "it": "le bevande",
+     "_pos": [
+      549,
+      1076
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "i",
+   "pos": [
+    202,
+    246
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 10,
+  "flagged": 8,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,652 @@
+{
+ "page": 119,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "frutti-di-bosco-c-i-meloni",
+   "names": {
+    "en": "deme sand melons",
+    "fr": "les fruits rouges et les melons",
+    "de": "das beerenobst und die melonen",
+    "es": "las bayas y los melones",
+    "it": "i frutti di bosco c i meloni"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "raspberry",
+     "fr": "framboise",
+     "de": "Himbeere",
+     "es": "frambuesa",
+     "it": "lampone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "Fxraw berry",
+     "fr": "fraise",
+     "de": "oe Erdbeere",
+     "es": "Fresa",
+     "it": "a fragola",
+     "_multi": [
+      "en",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "melon",
+     "fr": "melon",
+     "de": "Melone",
+     "es": "melón",
+     "it": "melone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "grapes",
+     "fr": "raisins",
+     "de": "Weintrauben",
+     "es": "uva",
+     "it": "uva",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "redeurrant",
+     "fr": "groseille",
+     "de": "Johannisbeere",
+     "es": "grosella",
+     "it": "ribes rosso",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 13,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "rind",
+     "fr": "écorce",
+     "de": "Schale",
+     "es": "cáscara",
+     "it": "buccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "seed",
+     "fr": "pépin",
+     "de": "Kern",
+     "es": "semilla",
+     "it": "seme",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 4
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "blackcurrant",
+     "fr": "cassis",
+     "de": "schwarze Johannisbeere",
+     "es": "grosella negra",
+     "it": "ribes nero",
+     "_multi": [
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 21,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "Perry",
+     "fr": "canncberge",
+     "de": "ae Preiselbeere",
+     "es": "«ondano rojo",
+     "it": "ossieocco",
+     "_multi": [
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 14,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "flesh",
+     "fr": "pulpe",
+     "de": "Fruchtfleisch",
+     "es": "pulpa",
+     "it": "polpa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 13,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "white currant",
+     "fr": "groseille bianche",
+     "de": "weiße Johannisbeere",
+     "es": "grosella blanca",
+     "it": "ribes bianco",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 19,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "watermelon",
+     "fr": "pastèque",
+     "de": "Wassermelone",
+     "es": "sandía",
+     "it": "anguria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 12,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "Are they ripe?",
+     "fr": "Est-ce qu'ils sont murs?",
+     "de": "Sind sie reif?",
+     "es": "Están maduros?",
+     "it": "Sono maturi?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 18,
+      "de": 11,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "seedless",
+     "fr": "satis pépins",
+     "de": "kernlos",
+     "es": "sin sem illas",
+     "it": "senza semi",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 7,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "sour",
+     "fr": "aigre",
+     "de": "sauer",
+     "es": "amargo",
+     "it": "amaro",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "crisp",
+     "fr": "croquant",
+     "de": "knackig",
+     "es": "fresco",
+     "it": "croccante",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "rhubarb",
+     "fr": "rhubarbe",
+     "de": "Rhabarber",
+     "es": "ruibarbo",
+     "it": "rabarbaro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "cfa-.perry",
+     "fr": "loganberry",
+     "de": "e loganbeere",
+     "es": "frambuesa an",
+     "it": "mora-lampone",
+     "_multi": [
+      "de",
+      "es"
+     ],
+     "_hyphen": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 11,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "May 1 try one?",
+     "fr": "Je peux goûter?",
+     "de": "Könnte ich eine probieren?",
+     "es": "Puedo probar uno?",
+     "it": "Posso assaggiarne uno?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 22,
+      "es": 14,
+      "it": 19
+     }
+    },
+    {
+     "en": "juice",
+     "fr": "jus",
+     "de": "Saft",
+     "es": "jugo",
+     "it": "succo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "rotten",
+     "fr": "pourri",
+     "de": "faul",
+     "es": "podrido",
+     "it": "marcio",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "fiber",
+     "fr": "fibre",
+     "de": "Faser",
+     "es": "fibra",
+     "it": "fibra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "fresh",
+     "fr": "frais",
+     "de": "frisch",
+     "es": "fresco",
+     "it": "fresco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "How long will they keep?",
+     "fr": "Ils se gardent combien de temps?",
+     "de": "Wie lange halten sie sich?",
+     "es": "Hasta cuando durarán?",
+     "it": "Per quanto tempo si mantengono?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 19,
+      "fr": 26,
+      "de": 21,
+      "es": 18,
+      "it": 26
+     }
+    },
+    {
+     "en": "core",
+     "fr": "trognon",
+     "de": "Kerngehäuse",
+     "es": "corazón",
+     "it": "torsolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "pulp",
+     "fr": "pulpe",
+     "de": "Fruchtmark",
+     "es": "pulpa",
+     "it": "polpa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "juicy",
+     "fr": "juteux",
+     "de": "saftig",
+     "es": "jugoso",
+     "it": "sugoso",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "sweet",
+     "fr": "sucré",
+     "de": "süß",
+     "es": "dulce",
+     "it": "dolce",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "fTOseberry",
+     "fr": "groseille à paquereau",
+     "de": "Stachelbeere",
+     "es": "capulín",
+     "it": "uva spina",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 19,
+      "de": 12,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

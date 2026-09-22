@@ -1,0 +1,206 @@
+{
+ "page": 85,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "gardening • le jardinage • die Gartenarbeit • la jardinería • il giardinaggio",
+   "parts": [
+    "gardening",
+    "le jardinage",
+    "die gartenarbeit",
+    "la jardinería",
+    "il giardinaggio"
+   ],
+   "entries": [
+    {
+     "en": "hedge",
+     "fr": "la haie",
+     "de": "die Hecke",
+     "es": "el seto",
+     "it": "la siepe",
+     "_pos": [
+      787,
+      218
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lawn",
+     "fr": "la pelouse",
+     "de": "der Rasen",
+     "es": "el pasto",
+     "it": "il prato",
+     "_pos": [
+      53,
+      246
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flowerbed",
+     "fr": "le parterre",
+     "de": "das Blumenbeet",
+     "es": "el parterre",
+     "it": "l'aiuola",
+     "_pos": [
+      53,
+      363
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stake",
+     "fr": "le tuteur",
+     "de": "die Stange",
+     "es": "la estaca",
+     "it": "il bastoncino",
+     "_pos": [
+      787,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lawnmower",
+     "fr": "la tondeuse",
+     "de": "der Rasenmäher",
+     "es": "la podadora",
+     "it": "il tosaerba",
+     "_pos": [
+      52,
+      495
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mow (v)",
+     "fr": "tondre",
+     "de": "mähen",
+     "es": "cortar el césped",
+     "it": "tagliare l'erba",
+     "_pos": [
+      160,
+      579
+     ],
+     "_flags": []
+    },
+    {
+     "en": "turf {v",
+     "fr": "gazonner",
+     "de": "mit Rasen bedecken",
+     "es": "poner césped",
+     "it": "ricoprire di zolle erbose",
+     "_pos": [
+      50,
+      775
+     ],
+     "_flags": [
+      "en:weird:{v"
+     ]
+    },
+    {
+     "en": "spike (v)",
+     "fr": "piquer",
+     "de": "stechen",
+     "es": "hacer agujeros con el trinche",
+     "it": "inforcare",
+     "_pos": [
+      266,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rake (v)",
+     "fr": "ratisser",
+     "de": "harken",
+     "es": "rastrillar",
+     "it": "rastrellare",
+     "_pos": [
+      480,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rimy",
+     "fr": "railler",
+     "de": "stutzen",
+     "es": "podar",
+     "it": "spuntare",
+     "_pos": [
+      694,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dig (v)",
+     "fr": "bêcher",
+     "de": "graben",
+     "es": "cavar",
+     "it": "scavare",
+     "_pos": [
+      50,
+      1024
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sow (v)",
+     "fr": "semer",
+     "de": "säen",
+     "es": "sembrar",
+     "it": "seminare",
+     "_pos": [
+      264,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "top dress (v)",
+     "fr": "tumor en surface",
+     "de": "mit Kopfdünger düngen",
+     "es": "abonar en la superficie",
+     "it": "concimare a spandimento",
+     "_pos": [
+      478,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water (v)",
+     "fr": "arroser",
+     "de": "gießen",
+     "es": "regar",
+     "it": "annaffiare",
+     "_pos": [
+      694,
+      1029
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 14,
+  "complete_clean": 5,
+  "flagged": 9,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,320 @@
+{
+ "page": 268,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "ambiente",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "header_raw": "E N V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "North pole",
+     "fr": "le pôle nord",
+     "de": "der Nordpol",
+     "es": "el Polo Norte",
+     "it": "il Polo Nord",
+     "_pos": [
+      616,
+      72
+     ],
+     "_flags": [
+      "en:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Arctic orde",
+     "fr": "le cercle polaire arctique",
+     "de": "der nördliche Polarkeis",
+     "es": "el circu lo Polar À rtico",
+     "it": "il circolo polare artico",
+     "_pos": [
+      35,
+      75
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "northern hemisphere",
+     "fr": "Phém isphère nord",
+     "de": "die nördliche Halbkugel",
+     "es": "el hemisferio norte",
+     "it": "l'emisfero settentrionale",
+     "_pos": [
+      718,
+      170
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "tropic of Cancer",
+     "fr": "la tropique du cancer",
+     "de": "der Wendekreis des Krebses",
+     "es": "el trópico de Cáncer",
+     "it": "il tropico del cancro",
+     "_pos": [
+      36,
+      173
+     ],
+     "_flags": []
+    },
+    {
+     "en": "longitude",
+     "fr": "la longitude",
+     "de": "der Langengrad",
+     "es": "la longitud",
+     "it": "la longitudine",
+     "_pos": [
+      718,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "latitude",
+     "fr": "la latitude",
+     "de": "der Breitengrad",
+     "es": "la latitud",
+     "it": "> la latitudine",
+     "_pos": [
+      700,
+      368
+     ],
+     "_flags": [
+      "it:weird:>"
+     ]
+    },
+    {
+     "en": "tropics",
+     "fr": "les tropiques",
+     "de": "die Tropen",
+     "es": "los trópicos",
+     "it": "i tropici",
+     "_pos": [
+      38,
+      419
+     ],
+     "_flags": []
+    },
+    {
+     "en": "southern hemisphere",
+     "fr": "l'hémisphère sud",
+     "de": "die südliche Halbkugel",
+     "es": "el hemisferio sur",
+     "it": "l'emisfero meridionale",
+     "_pos": [
+      720,
+      466
+     ],
+     "_flags": []
+    },
+    {
+     "en": "equator",
+     "fr": "l'équateur",
+     "de": "der Äquator",
+     "es": "el ecuador",
+     "it": "l'equatore",
+     "_pos": [
+      680,
+      563
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tropic of",
+     "fr": "la tropique du capricorne",
+     "de": "der Wendekreis des Steinbocks",
+     "es": "el trópico de Capricornio",
+     "it": "il tropico del Capricorno",
+     "_pos": [
+      40,
+      599
+     ],
+     "_flags": []
+    },
+    {
+     "en": "earthquake",
+     "fr": "le rrcm hlem em",
+     "de": "das Erdbeben",
+     "es": "el terremoto",
+     "it": "il terremoto",
+     "_pos": [
+      732,
+      679
+     ],
+     "_flags": []
+    },
+    {
+     "en": "zones",
+     "fr": "les zones",
+     "de": "die Erdzonen",
+     "es": "las zonas",
+     "it": "le zone",
+     "_pos": [
+      258,
+      680
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vent",
+     "fr": "la cheminée",
+     "de": "der Schlot",
+     "es": "la chimenea",
+     "it": "la fessura",
+     "_pos": [
+      310,
+      729
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lava",
+     "fr": "la lave",
+     "de": "die Lava",
+     "es": "la lava",
+     "it": "la lava",
+     "_pos": [
+      120,
+      747
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ash",
+     "fr": "la cendre",
+     "de": "die Asche",
+     "es": "la ceniza",
+     "it": "la cenere",
+     "_pos": [
+      42,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plate",
+     "fr": "la plaque",
+     "de": "die Platte",
+     "es": "la placa",
+     "it": "la zolla",
+     "_pos": [
+      733,
+      777
+     ],
+     "_flags": []
+    },
+    {
+     "en": "erupt (v)",
+     "fr": "entrer en éruption",
+     "de": "ausbrechen",
+     "es": "hacer erupción",
+     "it": "eruttare",
+     "_pos": [
+      734,
+      875
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chamber",
+     "fr": "la chambre",
+     "de": "die Kammer",
+     "es": "la cámara",
+     "it": "la camera",
+     "_pos": [
+      42,
+      943
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tremor",
+     "fr": "le rrcm blcm cnt",
+     "de": "das Beben",
+     "es": "el temblor",
+     "it": "il tremore",
+     "_pos": [
+      735,
+      973
+     ],
+     "_flags": []
+    },
+    {
+     "en": "magma",
+     "fr": "le magma",
+     "de": "das Magma",
+     "es": "el magma",
+     "it": "il magma",
+     "_pos": [
+      276,
+      975
+     ],
+     "_flags": []
+    },
+    {
+     "en": "volcano",
+     "fr": "le volcan",
+     "de": "der Vulkan",
+     "es": "el volcán",
+     "it": "I vulcano",
+     "_pos": [
+      43,
+      1041
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "crater • le cratère • der Krater • el cráter",
+   "parts": [
+    "crater",
+    "le cratère",
+    "der krater",
+    "el cráter"
+   ],
+   "entries": [
+    {
+     "en": "I cratere",
+     "_pos": [
+      414,
+      1057
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 10,
+  "flagged": 12,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

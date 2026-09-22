@@ -1,0 +1,262 @@
+{
+ "page": 49,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H E A LT H • L A S A N T É . • DIE GESUNDHEIT • L A S A L U D • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "childbirth • la naissance • die Geburt • el parto • il parto",
+   "parts": [
+    "childbirth",
+    "la naissance",
+    "die geburt",
+    "el parto",
+    "il parto"
+   ],
+   "entries": [
+    {
+     "en": "midwife",
+     "fr": "la sage-l em me",
+     "de": "die Hebamme",
+     "es": "la panera",
+     "_pos": [
+      309,
+      130
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "drip",
+     "fr": "la perfusion",
+     "de": "die Tropfinfusion",
+     "es": "el suero",
+     "it": "il gocciolature",
+     "_pos": [
+      32,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "monitor",
+     "fr": "le moniteur",
+     "de": "der Monitor",
+     "es": "el monitor",
+     "it": "il monitor",
+     "_pos": [
+      124,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "catheter",
+     "fr": "le cathéter",
+     "de": "der Katheter",
+     "es": "el catéter",
+     "it": "il catetere",
+     "_pos": [
+      33,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "incubator",
+     "fr": "la couveuse",
+     "de": "der Brutkasten",
+     "es": "la incubadora",
+     "it": "l'incubatrice",
+     "_pos": [
+      458,
+      339
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scales",
+     "fr": "le pèse-bébe",
+     "de": "die Waage",
+     "es": "la báscula",
+     "it": "la bilancia",
+     "_pos": [
+      781,
+      419
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      38,
+      524
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "induce labour (v)",
+      "déclencher l'accouchem ent",
+      "die Geburt einleiten",
+      "in d u cir el parto",
+      "il travaglio indotto forceps",
+      "le forceps",
+      "die Geburtszange",
+      "los fórceps",
+      "il forcipe"
+     ]
+    },
+    {
+     "en": "birth weight",
+     "fr": "le poids de naissance",
+     "de": "das Geburtsgewicht",
+     "es": "el peso al nacer",
+     "it": "il peso alla nascita",
+     "_pos": [
+      462,
+      568
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suction cup",
+     "fr": "la ventouse",
+     "de": "die Saugglocke",
+     "es": "la ventosa",
+     "it": "la ventosa",
+     "_pos": [
+      250,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nursing",
+     "fr": "l'allaitement",
+     "de": "das Stillen",
+     "es": "la lactancia",
+     "it": "l'allatta mento",
+     "_pos": [
+      464,
+      633
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nursing bra",
+     "fr": "le soutien gorge d' allaitement",
+     "de": "der Stillbüstenhalter",
+     "es": "el brassiere para la lactancia",
+     "it": "I reggiseno da allattamento",
+     "_pos": [
+      692,
+      795
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "breast pump",
+     "fr": "la pompe à lait",
+     "de": "die Brustpumpe",
+     "es": "el tiraleches",
+     "it": "la pompa da seno",
+     "_pos": [
+      466,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "assisted delivery",
+     "fr": "l'accouchem cnt assisté",
+     "de": "die assistierte Entbindung",
+     "es": "el parto asistido",
+     "it": "I parto assistito",
+     "_pos": [
+      44,
+      819
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "identity tag",
+     "fr": "le bracelet d'identité",
+     "de": "das Erkennungsetikett",
+     "es": "la pulsera de identificación",
+     "it": "la targhetta d'identità",
+     "_pos": [
+      114,
+      868
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pads",
+     "fr": "les coussinets",
+     "de": "die Einlagen",
+     "es": "los discos protectores",
+     "it": "le coppe",
+     "_pos": [
+      708,
+      1008
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breastfeed (v)",
+     "fr": "donner le sein",
+     "de": "stillen",
+     "es": "amamantar",
+     "it": "allattare al seno",
+     "_pos": [
+      469,
+      1011
+     ],
+     "_flags": []
+    },
+    {
+     "en": "newborn baby",
+     "fr": "le nouveau-né",
+     "de": "das Neugeborene",
+     "es": "el recién nacido",
+     "it": "il neonato",
+     "_pos": [
+      48,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 2,
+  "flagged": 15,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

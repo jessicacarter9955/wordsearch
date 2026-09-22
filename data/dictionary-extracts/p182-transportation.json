@@ -1,0 +1,450 @@
+{
+ "page": 182,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "strade",
+   "names": {
+    "en": "roads",
+    "fr": "les routes",
+    "de": "die straßen",
+    "es": "las carreteras",
+    "it": "le strade"
+   },
+   "entries": [
+    {
+     "en": "highway",
+     "fr": "l autoroute",
+     "de": "Autobahn",
+     "es": "autopista",
+     "it": "autostrada",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 8,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "inside lane",
+     "fr": "file de droite",
+     "de": "rechte Spur",
+     "es": "carril de baja",
+     "it": "corsia interna",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "toll booth",
+     "fr": "poste de péage",
+     "de": "Mautstelle",
+     "es": "caseta de cobro",
+     "it": "casello",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 10,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "middle lane",
+     "fr": "voie centrale",
+     "de": "mittlere Spur",
+     "es": "carril central",
+     "it": "corsia centrale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "road markings",
+     "fr": "signalisations",
+     "de": "Straßenmarkierungen",
+     "es": "señales de piso",
+     "it": "segnaletica orizzontale",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 20,
+      "es": 13,
+      "it": 22
+     }
+    },
+    {
+     "en": "outside lane",
+     "fr": "voie de",
+     "de": "dépassement die Überholspur",
+     "es": "carril",
+     "it": "izquierdo la corsia esterna",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 25,
+      "es": 6,
+      "it": 24
+     }
+    },
+    {
+     "en": "entrance ramp",
+     "fr": "bretelle d' accès",
+     "de": "Zufahrtsstraße",
+     "es": "entrada",
+     "it": "rampa di accesso",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 15,
+      "es": 7,
+      "it": 14
+     }
+    },
+    {
+     "de": "Ausfahrts",
+     "es": "rampa de salida",
+     "it": "rampa di uscita",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "de": 9,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "one-way",
+     "fr": "à sens unique",
+     "de": "Einbahn",
+     "es": "de sentido único",
+     "it": "a senso unico",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 7,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "traffic",
+     "fr": "circulation",
+     "de": "Verkehr",
+     "es": "tránsito",
+     "it": "traffico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "divider",
+     "fr": "Pilot directionnel",
+     "de": "Verkehrsinsel",
+     "es": "línea divisoria",
+     "it": "linca divisoria",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 13,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "overpass",
+     "fr": "autopont",
+     "de": "Überführung",
+     "es": "puente",
+     "it": "cavalcavia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "junction",
+     "fr": "carrefour",
+     "de": "Kreuzung",
+     "es": "crucero",
+     "it": "svincolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "hard shoulder",
+     "fr": "accotement stabilise",
+     "de": "Seitenstreifen",
+     "es": "acotamiento",
+     "it": "corsi ad'emergenza",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 19,
+      "de": 14,
+      "es": 11,
+      "it": 16
+     }
+    },
+    {
+     "en": "traffic light",
+     "fr": "feux",
+     "de": "Verkehrsampel",
+     "es": "semáforo",
+     "it": "semaforo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 4,
+      "de": 13,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "underpass",
+     "fr": "passage inférieur",
+     "de": "Unterführung",
+     "es": "paso a desnivel",
+     "it": "sottopassaggio",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 12,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "median strip",
+     "fr": "terre-plein",
+     "de": "Mittelstreifen",
+     "es": "muro de división",
+     "it": "banchina spartitraffico",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 14,
+      "es": 14,
+      "it": 22
+     }
+    },
+    {
+     "fr": "camion",
+     "de": "Lastwagen",
+     "es": "camión",
+     "it": "camion",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

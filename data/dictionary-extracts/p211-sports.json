@@ -1,0 +1,472 @@
+{
+ "page": 211,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "goal line",
+     "fr": "ligne de but",
+     "de": "Torlinie",
+     "es": "línea de meta",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 11
+     }
+    },
+    {
+     "en": "attack zone",
+     "fr": "zone d'attaque",
+     "de": "Angriffszone",
+     "es": "zona de ataque",
+     "it": "area di attacco",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 12,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "neutral zone",
+     "fr": "zone neutre",
+     "de": "neutrale Zone",
+     "es": "zona neutra!",
+     "it": "area neutrale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 12,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "defending zone",
+     "fr": "zone de défense",
+     "de": "Verteidigungszone",
+     "es": "zona de defensa",
+     "it": "area di difesa",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 17,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "goal keeper",
+     "fr": "gardien de but",
+     "de": "Torwart",
+     "es": "portero",
+     "it": "portiere",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "face-off circle I",
+     "fr": "cercle de mise en jeu",
+     "de": "Anspielkreis",
+     "es": "círculo de face-off",
+     "it": "circolo di confronto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 12,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "goal",
+     "fr": "but",
+     "de": "Tor",
+     "es": "portería",
+     "it": "porta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 3,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "centre circle f",
+     "fr": "cercle centrai",
+     "de": "Mittelkreis",
+     "es": "circu lo central",
+     "it": "cerchio centrale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "glove",
+     "fr": "gam",
+     "de": "Handschuh",
+     "es": "guante",
+     "it": "guanto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "pad",
+     "fr": "protection",
+     "de": "Polster",
+     "es": "hombrera",
+     "it": "parastinchi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 10,
+      "de": 7,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "stick",
+     "fr": "crosse",
+     "de": "Schläger",
+     "es": "palo",
+     "it": "mazza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 8,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "ice skate",
+     "fr": "patin à glace",
+     "de": "Schlittschuh",
+     "es": "patín de cuchilla",
+     "it": "pattino",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 12,
+      "es": 15,
+      "it": 7
+     }
+    },
+    {
+     "en": "ice hockey rink",
+     "fr": "patinoire",
+     "de": "Eisfläche sobre hielo",
+     "es": "pista da hockey su ghiaccio",
+     "_multi": [
+      "en",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 19,
+      "es": 23
+     }
+    }
+   ]
+  },
+  {
+   "slug": "hoekey-sull-erba",
+   "names": {
+    "en": "field hockey",
+    "fr": "le hockey",
+    "de": "das hockey",
+    "es": "el hockey sobre pasto",
+    "it": "l'hoekey sull'erba"
+   },
+   "entries": [
+    {
+     "fr": "palet",
+     "de": "Puck",
+     "es": "disco",
+     "it": "dischetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "hockey stick",
+     "fr": "crosse de hockey",
+     "de": "Hockeyschläger",
+     "es": "palo de hockey",
+     "it": "mazza da hockey",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 14,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "ice hockey player",
+     "fr": "hockeyeur",
+     "de": "Eishockeyspieler",
+     "es": "jugador de hockey sobre hielo",
+     "it": "giocatore di hockey su ghiaccio",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 9,
+      "de": 16,
+      "es": 25,
+      "it": 27
+     }
+    },
+    {
+     "en": "ball",
+     "fr": "halle",
+     "de": "Hockeyball",
+     "es": "pelota",
+     "it": "pallina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "skate (v)",
+     "fr": "patiner",
+     "de": "Schlittschuh laufen",
+     "es": "patinar",
+     "it": "pattinare",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 18,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "hit (v)",
+     "fr": "frapper",
+     "de": "schlagen",
+     "es": "golpear",
+     "it": "colpire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

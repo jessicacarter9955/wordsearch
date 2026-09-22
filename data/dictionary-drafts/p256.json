@@ -1,0 +1,290 @@
+{
+ "page": 256,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISURE • LE TEMPS LIBRE • DIE FREIZEIT • EL O CIO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "photography • la photographie • die Fotografie • la fotografía • la fotografia",
+   "parts": [
+    "photography",
+    "la photographie",
+    "die fotografie",
+    "la fotografía",
+    "la fotografia"
+   ],
+   "entries": [
+    {
+     "en": "aperture dial",
+     "fr": "le réglage de ^ouverture",
+     "de": "der Blendenregler",
+     "es": "el obturador",
+     "it": "il regolatore di esposizione",
+     "_pos": [
+      574,
+      133
+     ],
+     "_flags": [
+      "fr:weird:^ouverture"
+     ]
+    },
+    {
+     "en": "frame counter",
+     "fr": "le compteur de vues",
+     "de": "der Zähler",
+     "es": "el indicador de fotos",
+     "it": "I contafotogrammi",
+     "_pos": [
+      62,
+      149
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "flash",
+     "fr": "le Hash",
+     "de": "der Blitz",
+     "es": "el flash",
+     "_pos": [
+      302,
+      149
+     ],
+     "_flags": [
+      "missing:it",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "filter",
+     "fr": "le filtre",
+     "de": "der Filter",
+     "es": "el filtro",
+     "it": "I filtro",
+     "_pos": [
+      700,
+      264
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "shutter release",
+     "fr": "le déclencheur",
+     "de": "der Ausloser",
+     "es": "el disparador",
+     "it": "il pulsante di scatto",
+     "_pos": [
+      62,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lens cap",
+     "fr": "le bouchon «Tobjecrif",
+     "de": "die Schutzkappe",
+     "es": "la tapa del lente",
+     "it": "I copriobicttivo",
+     "_pos": [
+      701,
+      396
+     ],
+     "_flags": [
+      "fr:weird:«Tobjecrif",
+      "it:case"
+     ]
+    },
+    {
+     "en": "shutter-speed dial",
+     "fr": "le réglage du temps de pose",
+     "de": "die Zeiteinstellscheibe",
+     "es": "lu rueda de la velocidad",
+     "it": "il regolatore del tempo di esposizione",
+     "_pos": [
+      62,
+      427
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lens",
+     "fr": "Tobjecrif",
+     "de": "die Linse",
+     "es": "el lente",
+     "it": "l'obiettivo",
+     "_pos": [
+      592,
+      461
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "SLR camera",
+     "fr": "l'appareil reflex m ono-objectif",
+     "de": "die Spiegelreflexkamera",
+     "es": "la cám ara rèflex",
+     "it": "la macchina fotografica SLR",
+     "_pos": [
+      64,
+      543
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "flash gun",
+     "fr": "le flash compact",
+     "de": "der Elektronenblitz",
+     "es": "el flash electrónico",
+     "it": "il lampeggiatore",
+     "_pos": [
+      62,
+      771
+     ],
+     "_flags": []
+    },
+    {
+     "en": "light meter",
+     "fr": "le posemètre",
+     "de": "der Belichtungsmesser",
+     "es": "el fotómetro",
+     "it": "l'esposimetro",
+     "_pos": [
+      276,
+      772
+     ],
+     "_flags": []
+    },
+    {
+     "en": "zoom lens",
+     "fr": "le zoom",
+     "de": "das Zoom",
+     "es": "el zoom",
+     "it": "lo zoom",
+     "_pos": [
+      488,
+      772
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tripod",
+     "fr": "le trépied",
+     "de": "das Stativ",
+     "es": "el tripié",
+     "it": "il treppiede",
+     "_pos": [
+      702,
+      772
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "types of camera • les types d'appareils piloto • die Fotoapparattypen • los tipos de cámara",
+   "parts": [
+    "types of camera",
+    "les types d'appareils piloto",
+    "die fotoapparattypen",
+    "los tipos de cámara"
+   ],
+   "entries": [
+    {
+     "it": "i tipi di macchina fotorafica",
+     "_pos": [
+      65,
+      865
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "digital camera",
+     "fr": "TapparciI num érique",
+     "de": "die Digitalkamera",
+     "es": "la cámara digital",
+     "it": "la macchina fotografica digitale",
+     "_pos": [
+      64,
+      1017
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "APS camera",
+     "fr": "Tappareil photo A PS",
+     "de": "die Kamera für APS-Film",
+     "es": "la cámara A TS",
+     "it": "la macchina fotografica APS",
+     "_pos": [
+      265,
+      1018
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "instant camera",
+     "fr": "Tappareil instantané",
+     "de": "die Sofortbildkamera",
+     "es": "la cám ara Polaroid",
+     "it": "la macchina fotografica instantánea",
+     "_pos": [
+      474,
+      1018
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "disposable camera",
+     "fr": "Tappareil jetable",
+     "de": "die Einwegkamera",
+     "es": "la cám ara desechable",
+     "it": "la m acchini fotografica usa e getta",
+     "_pos": [
+      689,
+      1018
+     ],
+     "_flags": [
+      "fr:case",
+      "it:short:m"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 2,
+  "flagged": 16,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

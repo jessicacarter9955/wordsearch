@@ -1,0 +1,437 @@
+{
+ "page": 179,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "mestieri",
+   "names": {
+    "en": "occupations",
+    "fr": "les professions",
+    "de": "die berufe",
+    "es": "las profesiones",
+    "it": "i mestieri"
+   },
+   "entries": [
+    {
+     "en": "model",
+     "fr": "maquerre",
+     "de": "Modell",
+     "es": "maqueta",
+     "it": "modello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "lawyer",
+     "fr": "avocat",
+     "de": "Rechtsanwalt",
+     "es": "ahogado",
+     "it": "avvocato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 12,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "accountant",
+     "fr": "comptable",
+     "de": "Wirtschaftsprüfer",
+     "es": "contador",
+     "it": "commercialista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 17,
+      "es": 8,
+      "it": 14
+     }
+    },
+    {
+     "en": "architect",
+     "fr": "architecte",
+     "de": "Architekt",
+     "es": "arquitecto",
+     "it": "architetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "scientist",
+     "fr": "scientifique",
+     "de": "Wissenschaftler",
+     "es": "cien tífico",
+     "it": "scienziato",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 15,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "teacher",
+     "fr": "institutrice",
+     "de": "Lehrerin",
+     "es": "maestra",
+     "it": "insegnante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 8,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "librarian",
+     "fr": "bibliothécaire",
+     "de": "Bibliothekar",
+     "es": "bibliotecario",
+     "it": "bibliotecario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 12,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "receptionist",
+     "fr": "réceptionniste",
+     "de": "Empfangsdame",
+     "es": "recepcionista",
+     "it": "addetta alla ricezione",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 12,
+      "es": 13,
+      "it": 20
+     }
+    },
+    {
+     "en": "mailbag",
+     "fr": "sac postal",
+     "de": "Posttasche",
+     "es": "cartera",
+     "it": "borsa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "mail earner",
+     "fr": "facteur",
+     "de": "Briefträger",
+     "es": "cartero",
+     "it": "postino",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "bus driver",
+     "fr": "conducteur de bus",
+     "de": "Busfahrer",
+     "es": "chófer",
+     "it": "autista",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "truck driver",
+     "fr": "camionneur",
+     "de": "Lastwagenfahrer",
+     "es": "chófer",
+     "it": "camionista",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 15,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "taxi driver",
+     "fr": "chauffeur de raxi",
+     "de": "Taxifahrer",
+     "es": "taxista",
+     "it": "tassista",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "fr": "toque",
+     "de": "Kochmütze",
+     "es": "gorro de cocinero",
+     "it": "cappello",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "de": 9,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "pilot",
+     "fr": "pilote",
+     "de": "Pilot",
+     "es": "piloto",
+     "it": "pilota",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "flight attendant",
+     "fr": "hôtesse de l'air",
+     "de": "Flugbegleiterin",
+     "es": "sobrecargo",
+     "it": "assistente di volo",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 15,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "travel agent",
+     "fr": "agcnr de voyages",
+     "de": "Reisebürokautfrau",
+     "es": "agente de viajes",
+     "it": "agente di viaggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 17,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "chef",
+     "fr": "chef",
+     "de": "Koch",
+     "es": "chef",
+     "it": "cuoco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

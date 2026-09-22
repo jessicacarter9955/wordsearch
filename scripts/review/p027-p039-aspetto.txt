@@ -1,0 +1,387 @@
+====================================================================================================
+== p027 [aspetto] 18 voci, 15 flag, 0 mancanti, 1 leftover, header=A P P E A R A N C E • I.*APPARENCE • DIE ÄUSSERE ERSCHEINUN~
+-- G0 subcat: children's clothing • les vêtements d'enfants • die Kinderkleidung • la ropa de~
+   parts: children's clothing • les vêtements d'enfants • die kinderkleidung • la ropa de niño • gli ~
+-- G1 subcat: baby • le bébé • das Baby • el bebé • ¡I bimbo
+   parts: baby • le bébé • das baby • el bebé • i bimbo
+ 1.0  M snowsuiT | la combinaison d~ | der Schneeanzug | el traje de invi~ | la tutina da neve   
+ 1.1  M undershirt | le tri corde cor~ | das Hemdchen | la camiseta | la canottiera   
+ 1.2  M snap | le bouton-pressi~ | der Druckknopf | el botón | il bottone autom~   
+ 1.3  M onesize | la grenouillère | der Strampelanzug | el mameluco | la tutina   
+ 1.4  M sleeper | le pyjama | der Schlafanzug | el mameluco | il pigiammo   
+ 1.5  M rom per suit | la combinaison-s~ | der Spielanzug | el mameluco sin ~ | la tutina senza ~   
+ 1.6  M bib | le bavoir | das Lätzchen | el babero | il bavaglino   
+ 1.7  M mittens | les moufles | die Babyhandschu~ | los guantes | i guanti   
+ 1.8  M booties | les chaussons | die Babyschuhe | las botas | le scarpette   
+ 1.9  M cloth diaper | la couche éponge | die Stoffwindel | el pañal de felpa | il pannolino di ~   
+ 1.10 M disposable diaper | la couche jetable | die Wegwerfwindel | el pañal desecha~ | il pannolino usa~   
+ 1.11 M plastic underpan~ | la culotte en pl~ | das Gummihöschen | el calzón de plá~ | le mutande di pl~   
+-- G2 subcat: toddler • le petit enfant • das Kleinkind • el niño pequeño • il bambino piccolo
+   parts: toddler • le petit enfant • das kleinkind • el niño pequeño • il bambino piccolo
+ 2.0  M shirt | le t-shirt | das T-Shirt | la playera | la maglietta   
+ 2.1  ⚠ overalls | la salopette | die Latzhose | los panatalones | con peto la salo~   wrap wrap-ambig
+        ALTS: [{'en': 'overalls', 'fr': 'la salopette', 'de': 'die Latzhose', 'es': 'los panatalones con peto', 'it': 'la salopette'}]
+ 2.2  M sun bonnet | le chapeau de so~ | der Sonnenhut | el gorro para el~ | il cappello per ~   
+ 2.3  M skirt | la jupe | der Rock | la falda | la gonna   
+ 2.4  M shorts | le bermuda | die Shorts | los shorts | i pantaloncini   
+ 2.5  M apron | le tablier | die Schürze | el delantal | il grembiulino   
+   LEFT '+' @[192, 315] (riga singola isolata)
+====================================================================================================
+== p028 [aspetto] 27 voci, 18 flag, 1 mancanti, 1 leftover, header=A P P E A R A N C E • L ' A P P A R E N C E • DIE AUSSERE E~
+-- G0 subcat: (nessuna)
+ 0.0  M scarf | l'écharpe | der Schal | la bufanda | la sciarpa   
+ 0.1  M backpack | le sac à dos | der Rucksack | la mochila | lo zaino   
+ 0.2  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['das Kind', 'el niño dress', 'la robe', 'das Kleid', 'el vestido', 'il vestito']
+ 0.3  M toggle | le bouton | der Knebelknopf | el broche | l'olivetta   
+ 0.4  M jeans | le iean | die Jeans | los jeans | i jeans   
+ 0.5  M hood | la capuche | die Kapuze | la capucha | il cappuccio   
+ 0.6  M parka | l'anorak | der Anorak | lacha maría | l'eskimo   
+ 0.7  M galoshes | les bottes de ca~ | die Gummistiefel | las botas de agua | le galosce   
+ 0.8  M sandals | les sandales | die Sandalen | los huaraches | i sandali   
+ 0.9  M winter | l'hiver | der Winter | el invierno | l'inverno   
+ 0.10 ⚠ duffel coat | le d u ffel coat | der Dufflecoat | el abrigo | il montgomery   fr
+ 0.11 M fall | l'automne | der Herbst | el otoño | l'autunno   
+ 0.12 M summer | l'ère | der Sommer | el verano | l'estate   
+ 0.13 M raincoat | l'imperméable | der Regenmantel | el impermeable | l'impermeabile   
+ 0.14 M robe | la robe de chamb~ | der Morgenrock | la bata | la vestaglia   
+ 0.15 M logo | le logo | das Logo | el logotipo | il distintivo   
+ 0.16 M sneakers | les baskets | die Sportschuhe | los tenis | le scarpe da gin~   
+ 0.17 M leggings | les leggings | die Leggings | las mal las | il pantacollant   
+ 0.18 M soccer uniform | la ténue de foot | der Fußballdress | el uniforme del ~ | la tenuta da cal~   
+ 0.19 M warm-up suit | le survêtement | der Trainingsanz~ | los pants | la tuta   
+ 0.20 ⚠ ? | la chemise de nu~ | das Nachthemd | el camisón | la camicia da no~   missing
+ 0.21 ⚠ Is it machine wa~ | 'est lavable en ~ | Ist es waschmasc~ | Se puede lavar c~ | E lavabile in la~   de en es fr it
+ 0.22 M natural fiber | la fibre naturel~ | die Naturfaser | la fibra naturai | la fibra naturale   
+ 0.23 M slippers | les pantoufles | die Hausschuhe | las pantuflas | le pantofole   
+ 0.24 ⚠ Will this fit a ~ | C 'e.si la taill~ | Passt das einem ~ | Le quedará a un ~ | E la taglia gius~   de en es fr it
+ 0.25   synthetic | synthétique | synthetisch | sintético | sintetico   
+ 0.26 M nightwear | les vêtements de~ | die Nachtwàsche | la ropa para dor~ | gli indumenti pe~   
+   LEFT 'il bambino' @[322, 79] (riga singola isolata)
+====================================================================================================
+== p029 [aspetto] 24 voci, 10 flag, 4 mancanti, 1 leftover, header=A P P E A R A N C E ♦ L 'A P P A R I- N C F * DIE ÄUSSERE E~
+-- G0 subcat: men's clothing • les vêtements pour hommes • die Herrenkleidung • la ropa de ca~
+   parts: men's clothing • les vêtements pour hommes • die herrenkleidung • la ropa de caballero • l'~
+ 0.0  M collar | le col | der Kragen | el cuello | il collctto   
+ 0.1  M lapel | le revers | das Revers | la solapa | risvolto   
+ 0.2  M tie | la cravate | die Krawatte | la corbata | la cravatta   
+ 0.3  ⚠ belt | la ceinture | der Gürtel | ul cinturón | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.4  M buttonhole | la boutonnière | das Knopfloch | el ojal | l'asola   
+ 0.5  M cuff | la manchette | die Manschette | el puño | il polsino   
+ 0.6  M jacket | la veste | die Jacke | la chaqueta | la giacca   
+ 0.7  ⚠ ? | ? | die Tasche | el bolsillo | la tasca   missing
+ 0.8  M button | le bouton | der Knopf | el botón | il bottone   
+ 0.9  M pants | le pantalon | die Hose | el saco | i pantaloni   
+ 0.10 ⚠ business suit | le costum e der ~ | ? | el traje | l'abito   missing
+ 0.11 M coat | le manteau | der Mantel | la gabardina | il cappotto   
+ 0.12 M lining | la doublure | das Futter | el forro | la fodera   
+ 0.13 M shirt | la chemise | das Hemd | la camisa | la camicia   
+ 0.14 M bathrobe | le peignoir | der Bademantel | la bata | la vestaglia   
+ 0.15 M tracksuit | le survêtement | der Trainingsanz~ | los pants | la tuta da sport   
+ 0.16   long | long | lang | largo | lungo   
+ 0.17 ⚠ leather shoes | les chaussures e~ | die lederschuhe ~ | ? | le scarpe di cuo~   missing
+ 0.18 M cardigan | le cardigan | die Strickjacke | el cardigan | il cardigan   
+ 0.19 M underwear | les sous-vêtemen~ | die Unterwäsche | la ropa interior | la biancheria in~   
+ 0.20 M raincoat | l''im perm eable | der Regenmantel | el impermeable | l'impermeabile   
+ 0.21   short | court | kurz | corto | corto   
+ 0.22 ⚠ Do you have this~ | Avez-vous ça en ~ | Haben Sie das ei~ | Tiene una talla ~ | Ha una taglia pi~   de en es fr it
+ 0.23 ⚠ May I try this o~ | e peux l'essayer? | Kann ich das anp~ | V ie lo puedo pr~ | Posso provarmelo?   de en es fr it
+   LEFT 'íe' @[824, 494] (riga singola isolata)
+====================================================================================================
+== p030 [aspetto] 18 voci, 16 flag, 1 mancanti, 3 leftover, header=A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ v-neck | l'encolure en V | der V-Ausschnitt | el cuello en V | il collo a V   es fr it
+ 0.1  M crew neck | le col rond | der runde Aussch~ | el cuello redondo | il girocollo   
+ 0.2  M vest | le gilet | die Weste | el chaleco | il gilet   
+ 0.3  M sport coat | la veste île spo~ | das Sportjackett | el saco sport | la giacca sporti~   
+ 0.4  ⚠ blazer | le blazer | der Blazer | el saco «I blazer | ?   es missing
+ 0.5  M t-shirt | le t-shirt | das T-Shirt | la camiseta | la maglietta   
+-- G1 subcat: :'d rJR
+   parts: :'d rjr
+ 1.0  M windbreaker | le coupe-vcnt | die Windjacke | la chamarra | la giacca a vento   
+ 1.1  M sweatshirt | le sweat-shirt | das Sweatshirt | la sudadera | la felpa   
+ 1.2  M parka | l'anorak | der Anorak | el chaquetón | il giaccone   
+ 1.3  M sweatpants | le pantalon de j~ | die Trainingshose | los pants | i pantaloni di f~   
+ 1.4  M sportswear | les vêtements sp~ | die Freizeitklei~ | la ropa casual | il casual   
+ 1.5  M undershirt | le tricot de cor~ | das Unterhemd | la camiseta de t~ | la canottiera   
+ 1.6  M pajamas | le pyjama | der Schlafanzug | la piyama | il pigiama   
+ 1.7  M sweater | le pullover | der Pullover | el suéter | il maglione   
+ 1.8  M socks | les chaussettes | die Socken | los calcetines | i calzini   
+ 1.9  M boxer shorts | le caleçon | die Boxershorts | los boxers | i boxer   
+ 1.10 M bnefs | le slip | der Slip | los calzoncillos | lo slip   
+ 1.11 M shorts | le short | die Shorts | los shorts | i calzoncini   
+   LEFT 'f' @[120, 400] (riga singola isolata)
+   LEFT 'tri «' @[68, 743] (riga singola isolata)
+   LEFT ',' @[100, 743] (riga singola isolata)
+====================================================================================================
+== p031 [aspetto] 17 voci, 7 flag, 2 mancanti, 1 leftover, header=A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG~
+-- G0 subcat: women's clothing • les vêtements pour femmes • die Damenkleidung • la ropa de d~
+   parts: women's clothing • les vêtements pour femmes • die damenkleidung • la ropa de dama • l'abbi~
+ 0.0  ⚠ strapless | sans bretelles | trägerlos | sin tirantes | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 0.1  M neckline | l'encolure | der Ausschnitt | el escote | la scollatura   
+ 0.2  M jacket | la veste | die Jacke | el saco | la giacca   
+ 0.3  M sleeveless | sans manches | ärmellos | sin mangas | senza maniche   
+ 0.4  M seam | la couture | die Naht | la costura | la cucitura   
+ 0.5  M ankle length | long | knöchellang | largo | alla   
+ 0.6  M sleeve | la manche | der Ärmel | la manga | la manica   
+ 0.7  M dress | la robe | das Kleid | el vestido | il vestito   
+ 0.8  M evening dress | la robe du soir | das Abendkleid | traje de noche | l'abito da sera   
+ 0.9  M skirt | la jupe | der Rock | la falda | la gonna   
+ 0.10 M biouse | le chemisier | die Bluse | la blusa | la   
+ 0.11 M knee-length | à genou | knielang | hasta la rodilla | al ginocchio   
+ 0.12 M hem | l'ourlet | der Saum | el dobladillo | l'orlo   
+ 0.13 M pants | le pantalon | die Hose | los pantalones | i pantaloni   
+ 0.14 ⚠ Ics collants | ? | die Strumpfhose | las pantim edias | I collant   en it missing slot-ambig
+        ALTS: [['fr', 'de', 'es', 'it']]
+ 0.15 M shoes | les chaussures | die Schuhe | los zapatos | le scarpe   
+ 0.16   casual | décontracté | leger | casual | casual   
+   LEFT 'spalline' @[658, 234] (riga singola isolata)
+====================================================================================================
+== p032 [aspetto] 25 voci, 12 flag, 3 mancanti, 0 leftover, header=A P P E A R A N C E • l 'APPARENCE • DIE ÄUSSERE ERSCHEINUN~
+-- G0 subcat: wedding • le manage • die Hochzeit
+   parts: wedding • le manage • die hochzeit
+-- G1 subcat: lingerie • la lingerie « die Unterwäsche • la lencería
+   parts: lingerie • la lingerie « die unterwäsche • la lencería
+-- G2 subcat: • la boda • il matrimonio
+   parts: la boda • il matrimonio
+ 2.0  ⚠ ? | la biancheria in~ | ? | ? | ?   missing
+ 2.1  ⚠ strap | la bretelle | der Träger | el tirante | ?   missing
+ 2.2  M veil | le voile | der Schleier | el velo | il velo   
+ 2.3  M lace | la dentelle | die Spitze | el encaje | il pizzo   
+ 2.4  M bouquet | le bouquet | das Bukett | el ramo de flores | il bouquet   
+ 2.5  M camisole | la camisole | das Mieder | la camisola | il corpetto   
+ 2.6  M slip | le caraco | der Unterrock | el tondo | la sottoveste   
+ 2.7  M négligée | le négligé | das Negligé | el negligé | il négligé   
+ 2.8  M train | la traîne | die Schleppe | la cola | lo strascico   
+ 2.9  M garters | la jarretelle | der Strumpfhalter | las ligas | il reggicalze   
+ 2.10 M wedding dress | la robe de mariée | das Hochzeitskle~ | el vestido de no~ | l'abito da sposa   
+ 2.11 M tailored | ajusté | gut geschnitten | entallado | attillato   
+ 2.12 M corset | le corset | das Korsett | el corsé | il busto   
+ 2.13 M panty hose | le collant | die Strumpfhose | las pantim edias | il collant   
+ 2.14 ⚠ stockings | les bas | die Strümpfe | las m edias de l~ | le calze   es
+ 2.15 M bustier | la guêpière | das Bustier | el corsé con lig~ | la guêpière   
+ 2.16 M garter belt | la jarretière | das Strumpfband | la liga | la giarrettiera   
+ 2.17 M halter neck | clos-nu | rückenfrei | con los hombro s~ | allacciato dietr~   
+ 2.18 M sports bra | le soutient-gorg~ | der Sport-BH | til brassiere de~ | il reggiseno spo~   
+ 2.19 M shoulder pad | l'épaulette | das Schulterpols~ | la hombrera | la spallina   
+ 2.20 M underwire | à armature | mit Formbügeln | con varillas | con armatura   
+ 2.21 M waistband | la ceinture | der Rockbund | la cinturilla | il girovita   
+ 2.22 M nightgown | la chemise de nu~ | das Nachthemd | el camisón | la camicia da no~   
+ 2.23 ⚠ underpants | le slip | der Slip | las pantaletas l~ | ?   missing
+ 2.24 M bra | le soutien gorge | der Büstenhalter | el brassiere | il reggiseno   
+====================================================================================================
+== p033 [aspetto] 26 voci, 20 flag, 0 mancanti, 0 leftover, header=A P P E A R A N C E ♦ L' A P P A R E N C E • DIE ÄUSSERE ER~
+-- G0 subcat: accessories • les accessoires • die Accessoires • los accesorios gli accessori
+   parts: accessories • les accessoires • die accessoires • los accesorios gli accessori
+ 0.0  M buckle | la boucle | die Gürtelschnal~ | la hebilla | la fibbia   
+ 0.1  M hand lei | le manche | der Griff | el mango | il manico   
+ 0.2  M cap | la casquette | die Mütze | la gorra | il berretto   
+ 0.3  M scarf | le foulard | das Halstuch | la mascada | il foulard   
+ 0.4  M belt | la ceinture | der Gürtel | el a turón | la cinta   
+ 0.5  M hat | le chapeau | der Hut | el sombrero | il cappello   
+ 0.6  M tip | la pointe | die Spitze | la punta | la punta   
+ 0.7  M tiepin | l'épingle de cra~ | die Krawattennad~ | el alfiler de co~ | il fermacravatta   
+ 0.8  M umbrella | le parapluie | der Regenschirm | el paraguas | l'ombrello   
+ 0.9  M gloves | les gants | die Handschuhe | los guantes | i guanti   
+ 0.10 M handkerchief | le mouchoir | das Taschentuch | el pañuelo | il fazzoletto   
+ 0.11 M bow tie | le nœud papillon | die Fliege | el moño | la farfalla   
+ 0.12 M jewelry | le bijoux | der Schmuck | las jo y as | i gioielli   
+ 0.13 M strand of pearls | le rang de perles | die Perlenkette | el collar de per~ | il filo di porle   
+ 0.14 M brooch | la broche | die Brosche | el prendedor | la spilla   
+ 0.15 ⚠ cufflink | le bouton de man~ | der Manschettenk~ | las m ancuernill~ | il gemello   es
+ 0.16 M pendant | le pendentif | der Anhänger | el colguije | il pendaglio   
+ 0.17 M earring | la boucle d'orei~ | der Ohrring | el arete | l'orecchino   
+ 0.18 M link | le maillon | das Glied | el eslabón | la manila   
+ 0.19 M clasp | le fermoir | der Verschluss | el broche | il fermaglio   
+ 0.20 M ring | la bague | der Ring | el anillo | l'anello   
+ 0.21 M stone | la pierre | der Edelstein | la piedra | la pietra   
+ 0.22 M necklace | le collier | die Halskette | el collar | la collana   
+ 0.23 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['watch', 'la m ontre', 'die Uhr', 'el reloj', "l'orologio da polso jewelry box", 'la boite à bijoux', 'der Schmuckkasten', 'el joyero', 'il cofanetto portagioie']
+ 0.24 M bracelet | le bracelet | das Armband | la pulsera | il bracciale   
+ 0.25 M chain | la chaîne | die Kette | la cadena | la catena   
+====================================================================================================
+== p034 [aspetto] 25 voci, 23 flag, 6 mancanti, 0 leftover, header=A P P E A R A N C E • L'APPARENCE • DIE AUSSERE ERSCHEINUNG~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M shoulder strap | la bretelle | der Schulterriem~ | la correa | la bretella   
+-- G1 subcat: oags • les sacs • die Taschen • las bolsas • le borse
+   parts: oags • les sacs • die taschen • las bolsas • le borse
+ 1.0  M clasp | le fermoir | der Verschluss | el cierre | la cinghia   
+ 1.1  ⚠ handles les poig~ | ? | ? | ? | ?   missing
+ 1.2  M shoulder bag | le sac à bandoul~ | die Umhängetasche | la bolsa | la borsa a traco~   
+ 1.3  M change purse | le porte-monnaie | das Portemonnaie | el monedero | il portamonete   
+ 1.4  M vallet | le portefeuille | die Brieftasche | cartera | il portafoglio   
+ 1.5  M handbag | le sac à main | die Handtasche | la bolsa de mano | labor setta   
+ 1.6  M backpack | le sa ci dos | der Rucksack | la mochila | lo zainetto   
+ 1.7  M briefcase | la serviette | die Aktentasche | el maletín | la valigetta   
+ 1.8  M cuffie bag | le fourre-cuut | die Reisetasche | lo bolsa de viaje | a sacca da viagg~   
+-- G2 subcat: shoes • les chaussures • die Schuhe • los zapatos • le scarpe
+   parts: shoes • les chaussures • die schuhe • los zapatos • le scarpe
+ 2.0  M tongue | la languette | die Zunge | la lengüeta | la lingua   
+ 2.1  ⚠ lace | le lacet | der Schnürsenkel | la agujeta | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 2.2  ⚠ eyelet | r œillet | die Öse | el ojal | occhiello   fr
+ 2.3  M walking boot | le pataugas | der Wanderschuh | la bota de trekk~ | la scarpa da tre~   
+ 2.4  M sneaker | la basket | der Sportschuh | el tenis | la scarpa da gin~   
+ 2.5  ⚠ heel | le raion | der Absatz | el tacón | I tacco   it
+ 2.6  ⚠ sole | la semelle | aie Sohle | ia suela | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it']]
+ 2.7  M flip-flop | la tong | die Strandsandale | chancla | la ciabatta   
+ 2.8  M leather shoe | la chaussure de ~ | der Lederschuh | el zapato de piel | la scarpa di cuo~   
+ 2.9  M ace-up | la chaussure lac~ | der Schnürschuh | el zapato de agu~ | la scarpa con i ~   
+ 2.10 ⚠ slip-on | le m ocassin der~ | ? | el m ocasín | il mocassino   es fr missing
+ 2.11 ⚠ brogan | le richelieu der~ | ? | el zapato de cab~ | la scarpa da uomo   missing
+ 2.12 ⚠ sandal | la sandale die S~ | ? | la sandalia | il sandalo   missing
+ 2.13 M platform shoe | la chaussure à s~ | der Plateauschuh | el zapato de pla~ | lo zatterone   
+ 2.14 M high heel shoe | la chaussure à t~ | der Schuh mit ho~ | el zapato de tac~ | la scarpa con il~   
+====================================================================================================
+== p035 [aspetto] 24 voci, 18 flag, 3 mancanti, 0 leftover, header=A P P E A R A N C E • I APPARENCE • DIE ÄUSSERE ERSCHEINUNG~
+-- G0 subcat: hair • les cheveux • das Haar • el cabello • ¡ capelli
+   parts: hair • les cheveux • das haar • el cabello • capelli
+ 0.0  M comb | le peigne | der Kamm | el peine | il pettine   
+ 0.1  M hairdresser | la coiffeuse | die Friseurin | la estilista | la parrucchiera   
+ 0.2    comb (v) | peigner | kämmen | peinar | pettinare   
+ 0.3  M sink | le lavabo | das Waschbecken | el lavabo | il lavandino   
+ 0.4  M brush | la brosse | die Haarbürste | el cepillo | la spazzola   
+ 0.5  M client | la cliente | die Kundin | la cliente | la cliente   
+ 0.6    brush (v) | brosser | bürsten | cepillar | spazzolare   
+ 0.7    wash (v) | laver | waschen | lavar | lavare   
+ 0.8  M robe | le peignoir | der Frisierumhang | la bata | il grembiule   
+ 0.9  M set (v) | faire une mise e~ | legen | marcar | mettere in piega   
+ 0.10   nnse (v) | rincer | ausspülen | enjuagar | sciacquare   
+ 0.11   cut (v) | couper | schneiden | cortar | tagliare   
+ 0.12 M blowdry (v) | sécher | föhnen | secar con la sec~ | asciugare con il~   
+-- G1 subcat: accessories • les accessoires • die Frisierartikel • los accesorios • gli acces~
+   parts: accessories • les accessoires • die frisierartikel • los accesorios • gli accesori
+ 1.0  ⚠ blow-dryer | le sèche-cheveux | der Föhn | ? | ?   missing
+ 1.1  M hairspray | la laque | das Haarspray | la laca | la lacca   
+ 1.2  M gel | le gel | das Haargel | el gel | il gel   
+ 1.3  M shampoo | le sham poing | das Shampoo | el champú | lo shampoo   
+ 1.4  M conditioner | le conditionneur | die Haarspülung | el acondicionador | il balsama   
+ 1.5  ⚠ ron | à friser | ? | ? | ?   missing slot-ambig
+        ALTS: [['en', 'de'], ['en', 'es'], ['en', 'it']]
+ 1.6  M bobby pin | la pince à cheve~ | die Haarklammer | el pasador | la molletta   
+ 1.7  ⚠ ? | ? | der Lockenstab | las tenazas | l'arricciacapelli   missing
+ 1.8  M headband | le serre-tête | der Haarreif | la diadema | il cerchietto   
+ 1.9  M curler | le bigoudi | der Lockenwickler | el rulo | i bigodini   
+ 1.10 M scissors | les ciseaux | die Schere | las tijeras | le forbici   
+====================================================================================================
+== p036 [aspetto] 33 voci, 25 flag, 2 mancanti, 2 leftover, header=A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG~
+-- G0 subcat: styles • les coiffures • die Frisuren • los estilos • le acconciature
+   parts: styles • les coiffures • die frisuren • los estilos • le acconciature
+ 0.0  M ribbon | le ruban | das Band | el listón | il   
+ 0.1  M pigtails | les couettes | die Schwänzchen | las coletas | i codini   
+ 0.2  ⚠ French braid | Il rouleau | die Hochfrisur | el chongo francés | la piega alla fr~   en fr
+ 0.3  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['bun', 'le', 'chignon', 'der Haarknoten', 'el chongo', 'la crocchia']
+ 0.4  M braid | la natte | der Zopf | la trenza | la treccia   
+ 0.5  M ponytail | la queue de chev~ | der Pferdeschwanz | la cola de cabal~ | la coda di caval~   
+ 0.6    straight | raide | glatt | lacio | lisci   
+ 0.7  ⚠ perm | Li perm anente | die Dauerwelle | la permanente | la permanente   fr
+ 0.8  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['crop', 'la coupe courte', 'der Kurzhaarschnitt', 'el pelo', 'rizado', 'ricci corto', 'la sfumatura alta']
+ 0.9  ⚠ curly | frisé | kraus | ? | ?   missing
+ 0.10 M bob | au carré | der Bubikopf | el príncipe vali~ | il caschetto   
+ 0.11 M roots | les racines | die Wurzeln | las raices | le radici   
+ 0.12 M hair band | la bande de chev~ | das Haarband | la goma del pelo | l'elastico   
+ 0.13   greasy | gras | fettig | graso | grassi   
+ 0.14   dry | sec | trocken | seco | secchi   
+ 0.15   trim (v) | rafraîchir | nachschneiden | despuntar | spuntare   
+ 0.16 M wig | la perruque | die Perücke | la peluca | la parrucca   
+ 0.17 M highlights | les reflets | die Strähnen | las luces | colpi di sole   
+ 0.18   bald | chauve | kahl | calvo | calvo   
+-- G1 subcat: colours • les couleurs • die Haarfarben • los colores • i colori
+   parts: colours • les couleurs • die haarfarben • los colores • i colori
+ 1.0  M barber | le coiffeur | der Herrenfriseur | el peluquero | il barbiere   
+ 1.1    normal | normal | normal | normal | normali   
+-- G2 subcat: A
+   parts: a
+ 2.0  M dandruff | les pellicules | die Schuppen | la caspa | la forfora   
+ 2.1  M scalp | le cuir chevelu | die Kopfhaut | el cuero cabellu~ | il cuoio capellu~   
+ 2.2    red | roux | rot | pelirrojo | rosso   
+ 2.3    auburn | auburn | rotbraun | rojizo | castano   
+ 2.4    brunette | châtain | brünett | castaño | bruno   
+ 2.5    blonde | blond | blond | güero | biondo   
+ 2.6    straighten (v) | décrêper | glätten | alaciar | lisciare   
+ 2.7  M split ends | les fourches | die gespaltenen ~ | la orzitela | le doppie punte   
+ 2.8    white | blanc | weiß | blanco | bianco   
+ 2.9    dyed | teint | gefärbt | teñido | tinto   
+ 2.10   gray | gris | grau | gris | grigio   
+ 2.11 ⚠ black | noir | schwarz | negro »nero | ?   es missing
+   LEFT 'f' @[322, 989] (riga singola isolata)
+   LEFT 'y #11( 2 »' @[358, 990] (riga singola isolata)
+====================================================================================================
+== p037 [aspetto] 19 voci, 13 flag, 0 mancanti, 0 leftover, header=A P P E A R A N C E • I A P P A R E N C E • DIE AUSSERE ERS~
+-- G0 subcat: beauty • la beauté • die Schönheit • la belleza • la bellezza
+   parts: beauty • la beauté • die schönheit • la belleza • la bellezza
+ 0.0  M hair dye | la teinture de c~ | das Haarfärbemit~ | ei tinte para el~ | la tini uro per ~   
+-- G1 subcat: makeup • le maquillage • das Make-up • el m aquillaje • il trucco
+   parts: makeup • le maquillage • das make-up • el m aquillaje • il trucco
+ 1.0  M eyebrow pencil | le crayon à sour~ | der Augenbrauens~ | el lápiz de cejas | la matita per le~   
+ 1.1  M eye shadow | le fard à paupiè~ | der Lidschatten | la sombra de ojos | l'ombretto   
+ 1.2  M eyebrow brush | la brosse à sour~ | das Brauenbürstc~ | el cepillo para ~ | la spazzolino pe~   
+ 1.3  M tweezers | la pince à épiler | die Pinzette | las pinzas | le pinzette   
+ 1.4  ⚠ mascara | le m ascara | die Wimperntusche | el rim el | il mascara   fr
+ 1.5  M lip brush | le pinceau à lèv~ | der Lippenpinsel | el pincel de lab~ | il pennello per ~   
+ 1.6  ⚠ lip gloss | le b rillan t á ~ | das Lipgloss | el brillo de lab~ | lo smalto per le~   fr
+ 1.7  ⚠ eyeliner | Pcyc-liner | der Eyeliner | el delineador | la matita per gl~   fr
+ 1.8  M tip liner | le crayon à lèvr~ | der Lippenkontur~ | el lápiz de labi~ | il marcato re pe~   
+ 1.9  M blusher | le fard à joues | das Puderrouge | el rubor | il fard   
+ 1.10 M concealer | le correcteur | der Korrektursti~ | el lápiz correct~ | il correttore   
+ 1.11 M brush | le pinceau | der Puderpinsel | la brocha | il pennello   
+ 1.12 M mirror | le miroir | der Spiegel | el espejo | lo specchio   
+ 1.13 M foundation | le fond de teint | die Grundierung | la base | il fondotinta   
+ 1.14 ⚠ face powder | la poudre | der Gesichtspuder | el m aquillaje | la cipria   es
+ 1.15 M lipstick | le rouge à lèvres | der Lippenstift | el lápiz labial | il rossetto   
+ 1.16 M powder puff | la houppette | die Puderquaste | la borla | il piumino   
+ 1.17 M compact | le poudrier | die Puderdose | la polvera | il porta cipria   
+====================================================================================================
+== p038 [aspetto] 31 voci, 18 flag, 2 mancanti, 1 leftover, header=A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG~
+-- G0 subcat: toiletries • les accessoires de toilerte • die
+   parts: toiletries • les accessoires de toilerte • die
+-- G1 subcat: beauty treatments • les soins de beauté • die
+   parts: beauty treatments • les soins de beauté • die
+-- G2 subcat: Toilettenartikel • los artículos de tocador • gli articoli
+   parts: toilettenartikel • los artículos de tocador • gli articoli
+ 2.0  ⚠ Schönheitsbehand~ | ? | ? | los tratamientos~ | i trattamenti di~   en missing
+ 2.1  M face pack | le masque de bea~ | die Gesichtsmaske | la mascarilla | la maschera di b~   
+ 2.2  ⚠ sunbed | le lie U .V | die Sonnenbank | la cam a de rayo~ | il lettino solare   fr
+ 2.3  M moisturizer | la crème hydrata~ | die Feuchtigkeit~ | la crema hidrata~ | la crema idratan~   
+ 2.4  M cleanser | le démaquillant | der Reiniger | la crema limpiad~ | il latte deterge~   
+ 2.5  M toner | le tonique | das Gesichtswass~ | el tónico | la lozione tonif~   
+ 2.6  M exfoliate (v) | exfolier | die Haut schälen | exfoliar | esfoliare   
+ 2.7  M facial | le soin du visage | die Gesichtsbeha~ | la limpieza de c~ | il trattamento p~   
+ 2.8  M self-tanning lou~ | l'autobronzant | die Selbstbraunu~ | la crema broncea~ | la crema autoabb~   
+ 2.9  M e aude toilette | l'eau de toilette | das Eau de Toile~ | el agua de colon~ | l'acqua di colon~   
+ 2.10 M perfume | le parfum | das Parfum | perfume | il profumo   
+ 2.11 ⚠ pedicure | la pédicuric | die Pediküre | la p ed iatra | la pedicure   es
+ 2.12 M wax | l'épilation | die Enthaarung | la depilación a ~ | lac eretta   
+ 2.13 M tan | le bronzage | die Sonnenbräune | el bronceado | l'abbronzatura   
+ 2.14 M complexion | le teint | der Teint | el cutis | la carnagione   
+ 2.15   oily | gras | fettig | graso | grasso   
+-- G3 subcat: la manicure
+   parts: la manicure
+-- G4 subcat: la manicura
+   parts: la manicura
+ 4.0  ⚠ manicure | la manicure | ? | ? | ?   missing
+-- G5 subcat: • die Maniküre •
+   parts: die maniküre
+ 5.0  M nail polish remo~ | li dissolvant | der Nagellackent~ | el quitacsm alte | l'acetone   
+ 5.1  M tattoo | le tatouage | die Tätowierung | tatuaje | il tatuaggio   
+ 5.2    fair | clair | hell | claro | chiaro   
+ 5.3    sensitive | sensible | empfindlich | sensible | sensibile   
+ 5.4  M cotton balls | les boules de co~ | die Wattebälkhen | las bolas de alg~ | i batuffoli di o~   
+ 5.5    hypoallergenic | hypoallergénique | hypoallergen | hipoalcrgcnico | ipoallergenico   
+ 5.6    dark | foncé | dunkel | moreno | scuro   
+ 5.7  M nail polish | le vernis à ongl~ | der Nagellack | esmalte de uñas | lo smalto per un~   
+ 5.8  M nail file | la lime à ongles | die Nagelfeile | la lim a de uñas | la limetta   
+ 5.9  ⚠ nail scissors | les ciseaux à on~ | die Nagelschere | las tijeras de u~ | le forbicine per~   wrap
+ 5.10 M antiwrinkle | antirides | Antifalten | anttam igas | antirughe   
+ 5.11 M shade | le ton | der Farbton | el tono | la tonalità   
+ 5.12   dry | sec | trocken | soco | secco   
+ 5.13 M nail clippers | le coupe-ongles | der Nagelknipser | d cortaúñas | it tagliaunghie   
+   LEFT 'da toeletta' @[464, 118] (riga singola isolata)
+====================================================================================================
+== p039 [aspetto] PAGINA DIVISORIA / SENZA VOCI

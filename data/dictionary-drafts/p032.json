@@ -1,0 +1,356 @@
+{
+ "page": 32,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • l 'APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "wedding • le manage • die Hochzeit",
+   "parts": [
+    "wedding",
+    "le manage",
+    "die hochzeit"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "lingerie • la lingerie « die Unterwäsche • la lencería",
+   "parts": [
+    "lingerie",
+    "la lingerie « die unterwäsche",
+    "la lencería"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• la boda • il matrimonio",
+   "parts": [
+    "la boda",
+    "il matrimonio"
+   ],
+   "entries": [
+    {
+     "fr": "la biancheria intima",
+     "_pos": [
+      36,
+      102
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "strap",
+     "fr": "la bretelle",
+     "de": "der Träger",
+     "es": "el tirante",
+     "_pos": [
+      416,
+      113
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "veil",
+     "fr": "le voile",
+     "de": "der Schleier",
+     "es": "el velo",
+     "it": "il velo",
+     "_pos": [
+      728,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lace",
+     "fr": "la dentelle",
+     "de": "die Spitze",
+     "es": "el encaje",
+     "it": "il pizzo",
+     "_pos": [
+      545,
+      145
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bouquet",
+     "fr": "le bouquet",
+     "de": "das Bukett",
+     "es": "el ramo de flores",
+     "it": "il bouquet",
+     "_pos": [
+      726,
+      275
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camisole",
+     "fr": "la camisole",
+     "de": "das Mieder",
+     "es": "la camisola",
+     "it": "il corpetto",
+     "_pos": [
+      378,
+      399
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slip",
+     "fr": "le caraco",
+     "de": "der Unterrock",
+     "es": "el tondo",
+     "it": "la sottoveste",
+     "_pos": [
+      208,
+      400
+     ],
+     "_flags": []
+    },
+    {
+     "en": "négligée",
+     "fr": "le négligé",
+     "de": "das Negligé",
+     "es": "el negligé",
+     "it": "il négligé",
+     "_pos": [
+      38,
+      402
+     ],
+     "_flags": []
+    },
+    {
+     "en": "train",
+     "fr": "la traîne",
+     "de": "die Schleppe",
+     "es": "la cola",
+     "it": "lo strascico",
+     "_pos": [
+      788,
+      405
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garters",
+     "fr": "la jarretelle",
+     "de": "der Strumpfhalter",
+     "es": "las ligas",
+     "it": "il reggicalze",
+     "_pos": [
+      168,
+      564
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wedding dress",
+     "fr": "la robe de mariée",
+     "de": "das Hochzeitskleid",
+     "es": "el vestido de novia",
+     "it": "l'abito da sposa",
+     "_pos": [
+      548,
+      603
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailored",
+     "fr": "ajusté",
+     "de": "gut geschnitten",
+     "es": "entallado",
+     "it": "attillato",
+     "_pos": [
+      696,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "corset",
+     "fr": "le corset",
+     "de": "das Korsett",
+     "es": "el corsé",
+     "it": "il busto",
+     "_pos": [
+      564,
+      685
+     ],
+     "_flags": []
+    },
+    {
+     "en": "panty hose",
+     "fr": "le collant",
+     "de": "die Strumpfhose",
+     "es": "las pantim edias",
+     "it": "il collant",
+     "_pos": [
+      380,
+      694
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stockings",
+     "fr": "les bas",
+     "de": "die Strümpfe",
+     "es": "las m edias de liguero",
+     "it": "le calze",
+     "_pos": [
+      210,
+      695
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "bustier",
+     "fr": "la guêpière",
+     "de": "das Bustier",
+     "es": "el corsé con liguero",
+     "it": "la guêpière",
+     "_pos": [
+      40,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garter belt",
+     "fr": "la jarretière",
+     "de": "das Strumpfband",
+     "es": "la liga",
+     "it": "la giarrettiera",
+     "_pos": [
+      564,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "halter neck",
+     "fr": "clos-nu",
+     "de": "rückenfrei",
+     "es": "con los hombro sal aire",
+     "it": "allacciato dietro il collo",
+     "_pos": [
+      697,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sports bra",
+     "fr": "le soutient-gorge sport",
+     "de": "der Sport-BH",
+     "es": "til brassiere deportivo",
+     "it": "il reggiseno sportivo",
+     "_pos": [
+      698,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shoulder pad",
+     "fr": "l'épaulette",
+     "de": "das Schulterpolster",
+     "es": "la hombrera",
+     "it": "la spallina",
+     "_pos": [
+      565,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "underwire",
+     "fr": "à armature",
+     "de": "mit Formbügeln",
+     "es": "con varillas",
+     "it": "con armatura",
+     "_pos": [
+      699,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waistband",
+     "fr": "la ceinture",
+     "de": "der Rockbund",
+     "es": "la cinturilla",
+     "it": "il girovita",
+     "_pos": [
+      566,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nightgown",
+     "fr": "la chemise de nuit",
+     "de": "das Nachthemd",
+     "es": "el camisón",
+     "it": "la camicia da notte",
+     "_pos": [
+      382,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "underpants",
+     "fr": "le slip",
+     "de": "der Slip",
+     "es": "las pantaletas lo slip",
+     "_pos": [
+      212,
+      997
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "bra",
+     "fr": "le soutien gorge",
+     "de": "der Büstenhalter",
+     "es": "el brassiere",
+     "it": "il reggiseno",
+     "_pos": [
+      44,
+      998
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 13,
+  "flagged": 12,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

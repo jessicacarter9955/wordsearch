@@ -1,0 +1,245 @@
+{
+ "page": 214,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "actions • Ies actions • die Aktionen • las acciones • le azioni",
+   "parts": [
+    "actions",
+    "ies actions",
+    "die aktionen",
+    "las acciones",
+    "le azioni"
+   ],
+   "entries": [
+    {
+     "en": "jump (v)",
+     "fr": "saurer",
+     "de": "springen",
+     "es": "saltar",
+     "it": "saltare",
+     "_pos": [
+      572,
+      321
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shoot (v)",
+     "fr": "tirer",
+     "de": "schießen",
+     "es": "tirar",
+     "it": "tirare",
+     "_pos": [
+      396,
+      323
+     ],
+     "_flags": []
+    },
+    {
+     "en": "throw (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "tirare",
+     "_pos": [
+      32,
+      325
+     ],
+     "_flags": []
+    },
+    {
+     "en": "catch (v)",
+     "fr": "arrraper",
+     "de": "fangen",
+     "es": "cachar",
+     "it": "acchiappare",
+     "_pos": [
+      215,
+      325
+     ],
+     "_flags": [
+      "fr:rep:arrraper"
+     ]
+    },
+    {
+     "en": "dunk (v)",
+     "fr": "faire un dunk",
+     "de": "einen Dunk spielen",
+     "es": "marcar",
+     "it": "segnare",
+     "_pos": [
+      684,
+      599
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dribble (v)",
+     "fr": "faire rebondir",
+     "de": "springen lassen",
+     "es": "botar",
+     "it": "rimbalzare",
+     "_pos": [
+      493,
+      601
+     ],
+     "_flags": []
+    },
+    {
+     "en": "block /",
+     "fr": "bloquer",
+     "de": "blocken",
+     "es": "bloquear",
+     "it": "bloccare",
+     "_pos": [
+      311,
+      602
+     ],
+     "_flags": [
+      "en:weird:/"
+     ]
+    },
+    {
+     "en": "cover (v)",
+     "fr": "marquer",
+     "de": "decken",
+     "es": "marcar",
+     "it": "marcare",
+     "_pos": [
+      80,
+      604
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "volleyball • le volley • der Volleyball • cl vóleibol • la pallavolo",
+   "parts": [
+    "volleyball",
+    "le volley",
+    "der volleyball",
+    "el vóleibol",
+    "la pallavolo"
+   ],
+   "entries": [
+    {
+     "en": "block v",
+     "fr": "bloquer",
+     "de": "blocken",
+     "es": "bloquear",
+     "it": "contrastare",
+     "_pos": [
+      56,
+      720
+     ],
+     "_flags": [
+      "en:short:v"
+     ]
+    },
+    {
+     "en": "referee",
+     "fr": "l'arbitre",
+     "de": "der Schiedsrichter",
+     "es": "el árbitro",
+     "it": "l'arbitro",
+     "_pos": [
+      754,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "net",
+     "fr": "le filet",
+     "de": "das Netz",
+     "es": "la red",
+     "it": "la rete",
+     "_pos": [
+      57,
+      836
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knee support",
+     "fr": "la genouillère",
+     "de": "der Knieschützer",
+     "es": "la rodillera",
+     "it": "la ginocchiera",
+     "_pos": [
+      746,
+      911
+     ],
+     "_flags": []
+    },
+    {
+     "en": "m anchette",
+     "fr": "baggern",
+     "de": "recib ir",
+     "es": "difendere",
+     "_pos": [
+      59,
+      999
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig",
+      "en:short:m"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "court",
+     "fr": "le terrain",
+     "de": "das Spielfeld",
+     "es": "la cancha",
+     "it": "il campo",
+     "_pos": [
+      162,
+      1062
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 14,
+  "complete_clean": 2,
+  "flagged": 12,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

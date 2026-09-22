@@ -1,0 +1,687 @@
+{
+ "page": 53,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "casa",
+   "names": {
+    "en": "house",
+    "fr": "la maison",
+    "de": "das haus",
+    "es": "la casa",
+    "it": "la casa"
+   },
+   "entries": [
+    {
+     "en": "roof",
+     "fr": "toir",
+     "de": "Dach",
+     "es": "tejado",
+     "it": "tetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "chimney",
+     "fr": "cheminée",
+     "de": "Schornstein",
+     "es": "chimenea",
+     "it": "camino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "dormer window",
+     "fr": "chien assis",
+     "de": "Mansardenfenster",
+     "es": "ventana de la buhardilla",
+     "it": "abbaino",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 16,
+      "es": 21,
+      "it": 7
+     }
+    },
+    {
+     "en": "gutter",
+     "fr": "go urti è re",
+     "de": "Dachrinne",
+     "es": "canalón",
+     "it": "grondai«!",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "tile",
+     "fr": "tuile",
+     "de": "Dachziegel",
+     "es": "teja",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 4
+     }
+    },
+    {
+     "en": "wall",
+     "fr": "mur",
+     "de": "Mauer",
+     "es": "pared",
+     "it": "muro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "eaves",
+     "fr": "avant-toit",
+     "de": "Dachvorsprung",
+     "es": "«alero",
+     "it": "nmnHa",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 13,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "shutter",
+     "fr": "voler",
+     "de": "Fensterladen",
+     "es": "postigo",
+     "it": "persiana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 12,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "de": "Vordach",
+     "es": "porche",
+     "it": "portico",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "window",
+     "fr": "fenêtre",
+     "de": "Fenster",
+     "es": "ventana",
+     "it": "finestra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "front door",
+     "fr": "porre d 'entree",
+     "de": "Haustür",
+     "es": "puerta principal",
+     "it": "portone",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 7,
+      "es": 15,
+      "it": 7
+     }
+    },
+    {
+     "fr": "agrandissement",
+     "de": "Anbau",
+     "es": "ampliación",
+     "it": "annesso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 14,
+      "de": 5,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "de": "Weg",
+     "es": "camino",
+     "it": "viottolo",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 3,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "basement",
+     "fr": "sous-sol",
+     "de": "Kellergeschoss",
+     "es": "sótano",
+     "it": "seminterrato",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 14,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "row house",
+     "fr": "attenante",
+     "de": "Reihenhaus",
+     "es": "condominio horizontal",
+     "it": "a schiera",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 10,
+      "es": 20,
+      "it": 8
+     }
+    },
+    {
+     "en": "garage",
+     "fr": "garage",
+     "de": "Garage",
+     "es": "cochera",
+     "it": "garage",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "floor",
+     "fr": "étage",
+     "de": "Stockwerk",
+     "es": "piso",
+     "it": "piano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 9,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "burglar alarm",
+     "fr": "alarme",
+     "de": "Alarmanlaqe",
+     "es": "alarm a antirrobo",
+     "it": "allarme antifurto",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 11,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "rent (v)",
+     "fr": "louer",
+     "de": "mieten",
+     "es": "rentar",
+     "it": "affittare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "single-family",
+     "fr": "individuelle",
+     "de": "Einzelhaus",
+     "es": "solo",
+     "it": "unifamiliare",
+     "_multi": [],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 10,
+      "es": 4,
+      "it": 12
+     }
+    },
+    {
+     "en": "townhouse",
+     "fr": "maison de deux étages",
+     "de": "dreistöckige Haus",
+     "es": "casa de la ciudad",
+     "it": "casa di città",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 18,
+      "de": 16,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "attic",
+     "fr": "grenier",
+     "de": "Dachboden",
+     "es": "ático",
+     "it": "attico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "courtyard",
+     "fr": "cour",
+     "de": "Hof",
+     "es": "patio",
+     "it": "l cortile",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 3,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "mailbox",
+     "fr": "boite aux lettres",
+     "de": "Briefkasten",
+     "es": "buzón",
+     "it": "cassetta per le lettere",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 15,
+      "de": 11,
+      "es": 5,
+      "it": 20
+     }
+    },
+    {
+     "en": "rent",
+     "fr": "lover",
+     "de": "Miete",
+     "es": "renta",
+     "it": "affitto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "duplex",
+     "fr": "mitoyenne",
+     "de": "Doppelhaus",
+     "es": "duplex",
+     "it": "bitamiliare",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 10,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "bungalow",
+     "fr": "pavillon",
+     "de": "Bungalow",
+     "es": "vivienda de una pianta",
+     "it": "villino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 19,
+      "it": 7
+     }
+    },
+    {
+     "en": "room",
+     "fr": "chambre",
+     "de": "Zimmer",
+     "es": "cuarto",
+     "it": "stanza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "porch light",
+     "fr": "lampe d'entrée",
+     "de": "Haustürlampe",
+     "es": "luz del porche",
+     "it": "luce del portico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 12,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "landlord",
+     "fr": "propriétaire",
+     "de": "Vermieter",
+     "es": "propietario",
+     "it": "padrone di casa",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 9,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "tenant",
+     "fr": "locataire",
+     "de": "Mieter",
+     "es": "inquilino",
+     "it": "inquilino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 6,
+      "es": 9,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

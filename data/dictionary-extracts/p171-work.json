@@ -1,0 +1,373 @@
+{
+ "page": 171,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "fattoria",
+   "names": {
+    "en": "far mi",
+    "fr": "la ferme",
+    "de": "der bauernhof",
+    "es": "la granja",
+    "it": "la fattoria"
+   },
+   "entries": [
+    {
+     "en": "farmland",
+     "fr": "terres cultivées",
+     "de": "Ackerland",
+     "es": "tierras J e labranza",
+     "it": "terreno aarieolo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 9,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "farmyard",
+     "fr": "cour de terme",
+     "de": "Hof",
+     "es": "corral",
+     "it": "aia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 3,
+      "es": 6,
+      "it": 3
+     }
+    },
+    {
+     "en": "outbuilding",
+     "fr": "dependence",
+     "de": "Nebengebäude",
+     "es": "cobertizo",
+     "it": "capanno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 12,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "farmhouse",
+     "fr": "maison d' habitation",
+     "de": "Bauernhaus",
+     "es": "casa de labranza",
+     "it": "casolare",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 10,
+      "es": 14,
+      "it": 8
+     }
+    },
+    {
+     "en": "field",
+     "fr": "champ",
+     "de": "Feld",
+     "es": "campo",
+     "it": "campo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "farmer",
+     "fr": "fermier",
+     "de": "Bauer",
+     "es": "granjero",
+     "it": "agricoltore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 5,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "barn",
+     "fr": "grange",
+     "de": "Scheune",
+     "es": "granero",
+     "it": "granaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "vegetable garden",
+     "fr": "potager",
+     "de": "Gemüsegarten",
+     "es": "huerto",
+     "it": "Corto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 7,
+      "de": 12,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "hedge",
+     "fr": "haie",
+     "de": "Hecke",
+     "es": "seto",
+     "it": "siepe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "fence",
+     "fr": "clôture",
+     "de": "Zaun",
+     "es": "cerca",
+     "it": "recinto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 4,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "pasture",
+     "fr": "prc",
+     "de": "Weide",
+     "es": "pasto",
+     "it": "pascolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 3,
+      "de": 5,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "livestock",
+     "fr": "bestiaux",
+     "de": "Vieh",
+     "es": "ganado",
+     "it": "bestiame",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 4,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "de": "Tor",
+     "es": "puerta",
+     "it": "cancello",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 3,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "cultivator",
+     "fr": "cultivateur",
+     "de": "Kultivator",
+     "es": "cultivador",
+     "it": "aratro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 6
+     }
+    },
+    {
+     "en": "tractor",
+     "fr": "tracteur",
+     "de": "Traktor",
+     "es": "et tractor",
+     "it": "trattore",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "combine",
+     "fr": "moissonneuse-batteuse",
+     "de": "Mähdrescher",
+     "es": "cosechadora",
+     "it": "mietitrebbia",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 20,
+      "de": 11,
+      "es": 11,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,435 @@
+{
+ "page": 77,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "decorazione",
+   "names": {
+    "en": "decorating",
+    "fr": "la décoration",
+    "de": "das tapezieren",
+    "es": "la decoración",
+    "it": "la decorazione"
+   },
+   "entries": [
+    {
+     "en": "wallpaper brush",
+     "fr": "brosse à tapisser",
+     "de": "Tapezierbürste",
+     "es": "brocha de tapicero",
+     "it": "spazzola",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 15,
+      "de": 14,
+      "es": 16,
+      "it": 8
+     }
+    },
+    {
+     "en": "decorator",
+     "fr": "Tapissier décorateur",
+     "de": "Tapezierer",
+     "es": "pintor",
+     "it": "decoratore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 19,
+      "de": 10,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "scissors",
+     "fr": "ciseaux",
+     "de": "Tapezierschere",
+     "es": "tijeras",
+     "it": "forbici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "pasting table",
+     "fr": "table à encoller",
+     "de": "Tapeziertisch",
+     "es": "mesa de encolar",
+     "it": "tavolo da lavoro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 13,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "wallpaper",
+     "fr": "papier peint",
+     "de": "Tapete",
+     "es": "papel tapiz",
+     "it": "carta da parati",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 6,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "craft knife",
+     "fr": "cutter",
+     "de": "Tapeziermesser",
+     "es": "cúter",
+     "it": "coltello da pacchi",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 14,
+      "es": 5,
+      "it": 16
+     }
+    },
+    {
+     "en": "pasting bmsh",
+     "fr": "brosse à encoller",
+     "de": "Kleisterbürste",
+     "es": "brocha de encolar",
+     "it": "pennello da colla",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 14,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "wallpaper paste",
+     "fr": "colle à tapisser",
+     "de": "Tapetenkleister",
+     "es": "pega mento para tapizar",
+     "it": "colla da parati",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 15,
+      "es": 20,
+      "it": 13
+     }
+    },
+    {
+     "en": "stepladder",
+     "fr": "Pesca beau",
+     "de": "Trittleiter",
+     "es": "escalera de mano",
+     "it": "scala a pioli",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 11,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "plumb line",
+     "fr": "fil à plomb",
+     "de": "Senkblei",
+     "es": "plomada",
+     "it": "filo a piombo",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "bucket",
+     "fr": "scau",
+     "de": "Eimer",
+     "es": "cubeta",
+     "it": "secchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "scraper",
+     "fr": "grattoir",
+     "de": "Spachtel",
+     "es": "espátula",
+     "it": "raschietto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "wallpaper (v)",
+     "fr": "tapisser",
+     "de": "tapezieren",
+     "es": "tapizar",
+     "it": "tappezzare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "strip (v)",
+     "fr": "décoller",
+     "de": "abziehen",
+     "es": "despegar",
+     "it": "staccare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "fill (v)",
+     "fr": "mastiquer",
+     "de": "spachteln",
+     "es": "rellenar",
+     "it": "otturare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "sand (v)",
+     "fr": "poncer",
+     "de": "schmirgeln",
+     "es": "lijar",
+     "it": "scartavetrare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 13
+     }
+    },
+    {
+     "en": "plaster (v)",
+     "fr": "plâtrer",
+     "de": "verputzen",
+     "es": "enyesar",
+     "it": "intonacare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "hang (v)",
+     "fr": "poser",
+     "de": "anbringen",
+     "es": "empapelar",
+     "it": "incollare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "tile (v)",
+     "fr": "carreler",
+     "de": "kacheln",
+     "es": "poner azulejos",
+     "it": "piastrellare",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 7,
+      "es": 13,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

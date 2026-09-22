@@ -1,0 +1,259 @@
+{
+ "page": 218,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S ♦ GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "strokes • les coups »die Schläge • los golpes • i colpi",
+   "parts": [
+    "strokes",
+    "les coups »die schläge",
+    "los golpes",
+    "i colpi"
+   ],
+   "entries": [
+    {
+     "en": "ballboy",
+     "fr": "le ram asscur de balles",
+     "de": "der Balljunge",
+     "es": "el recogebolas",
+     "it": "il raccattapalle",
+     "_pos": [
+      76,
+      188
+     ],
+     "_flags": []
+    },
+    {
+     "en": "serve",
+     "fr": "le service",
+     "de": "der Aufschlag",
+     "es": "el servicio",
+     "it": "il servizio",
+     "_pos": [
+      462,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "volley",
+     "fr": "la voilée",
+     "de": "der Volley",
+     "es": "la volea",
+     "it": "il palleggio",
+     "_pos": [
+      674,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "serve (v)",
+     "fr": "servir",
+     "de": "aufschlagen",
+     "es": "sacar",
+     "it": "battere il servigio",
+     "_pos": [
+      138,
+      303
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lob",
+     "fr": "le lob",
+     "de": "der Lob",
+     "es": "el globo",
+     "it": "la schiacciata",
+     "_pos": [
+      676,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "return",
+     "fr": "le retour",
+     "de": "der Return",
+     "es": "el resto",
+     "it": "il ritorno",
+     "_pos": [
+      464,
+      498
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tennis shoes",
+     "fr": "les tennis",
+     "de": "die Tennisschuh",
+     "es": "los tenis",
+     "it": "le scarpe da tennis",
+     "_pos": [
+      331,
+      648
+     ],
+     "_flags": []
+    },
+    {
+     "en": "backhand",
+     "fr": "le revers",
+     "de": "die Rückhand",
+     "es": "el revés",
+     "it": "il rovescio",
+     "_pos": [
+      678,
+      727
+     ],
+     "_flags": []
+    },
+    {
+     "en": "forehand",
+     "fr": "le coup droit",
+     "de": "die Vorhand",
+     "es": "el derecho",
+     "it": "il dritto",
+     "_pos": [
+      464,
+      728
+     ],
+     "_flags": []
+    },
+    {
+     "en": "player",
+     "fr": "le joueur",
+     "de": "der Tennisspieler",
+     "es": "el jugador",
+     "it": "il giocatore",
+     "_pos": [
+      40,
+      762
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "racquet games • les jeux Je raquette • die Schlägerspiele • los juegos de raqueta • i giochi con I3 racchetta",
+   "parts": [
+    "racquet games",
+    "les jeux je raquette",
+    "die schlägerspiele",
+    "los juegos de raqueta",
+    "i giochi con i3 racchetta"
+   ],
+   "entries": [
+    {
+     "en": "shuttlecock",
+     "fr": "le volant",
+     "de": "der Federball",
+     "es": "el gallo",
+     "it": "il volano",
+     "_pos": [
+      186,
+      827
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bat",
+     "fr": "la raquette",
+     "de": "der Tischtennisschläger",
+     "es": "la raqueta la racchetta",
+     "_pos": [
+      316,
+      827
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "racquetball",
+     "fr": "le racquetball",
+     "de": "der Racquetball",
+     "es": "el racketbaJI",
+     "it": "il racquetball",
+     "_pos": [
+      680,
+      1022
+     ],
+     "_flags": []
+    },
+    {
+     "en": "squash ® le squash",
+     "de": "das Squash",
+     "es": "el squash",
+     "it": "lo squash",
+     "_pos": [
+      466,
+      1023
+     ],
+     "_flags": [
+      "missing:fr",
+      "en:weird:®"
+     ]
+    },
+    {
+     "en": "table tennis",
+     "fr": "le tennis de table",
+     "de": "das Tischtennis",
+     "es": "el ping-pong",
+     "it": "il ping pong",
+     "_pos": [
+      254,
+      1024
+     ],
+     "_flags": []
+    },
+    {
+     "en": "badminton",
+     "fr": "le badminton",
+     "de": "das Badminton",
+     "es": "el bádm inton",
+     "it": "il badminton",
+     "_pos": [
+      40,
+      1025
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "la schiacciata",
+   "pos": [
+    262,
+    154
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "S i",
+   "pos": [
+    111,
+    672
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 2,
+  "flagged": 14,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 2
+ }
+}

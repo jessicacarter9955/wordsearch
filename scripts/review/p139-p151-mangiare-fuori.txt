@@ -1,0 +1,329 @@
+====================================================================================================
+== p139 [mangiare-fuori] 19 voci, 11 flag, 3 mancanti, 2 leftover, header=E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • COMER F~
+-- G0 subcat: café • le café • das Café • la cafetería • il caffè
+   parts: café • le café • das café • la cafetería • il caffè
+ 0.0  M umbrella | le parasol | der Sonnensch | la sombrilla | l'ombrellone   
+ 0.1  M awning | le store | die Markise | el toldo | la tenda   
+ 0.2  M menu | le menu | die Speisekarte | la carta | il menù   
+ 0.3  ⚠ T R V & 1 ! K æÀ | ? | ? | ? | ?   en missing
+ 0.4  M terrace café | la terrasse de c~ | das Terrassencafe | la terraza | il bar con terra~   
+ 0.5  M server | le serveur | der Kellner | el mesero | il cameriere   
+ 0.6  M coffee machine | le percolateur | die Kaffeemaschi~ | la máquina del c~ | la macchina del ~   
+ 0.7  M table | la table | der Tisch | la mesa | il tavolo   
+ 0.8  ⚠ J | ? | ? | ? | ?   en missing
+-- G1 subcat: 2
+ 1.0  M sidewalk café | la rerrasse de c~ | das Straßencafe | la cafetería con~ | il bar all'aperto   
+ 1.1  M snack bar | le snack | die Snackbar | el har | lo snack bar   
+-- G2 subcat: coffee • le café « de r Kaffee • el café • il caffè
+   parts: coffee • le café « de r kaffee • el café • il caffè
+ 2.0  ⚠ coffee with cream | le crème | der Kaffee mit M~ | el café con leche | ?   missing
+ 2.1  M black coffee | le noir | der schwarze Kaf~ | el café solo | il caffè nero   
+ 2.2  M cocoa powder | le chocolat en p~ | das Kakaopulver | la cocoa | la polvere di ca~   
+ 2.3  M froth | la mousse | der Schaum | la espuma | la schiuma   
+ 2.4  M filter coffee | le café fi Irre | der Filterkaffee | el café de cafet~ | il caffè filtrato   
+ 2.5  M espresso | l'ex presso | der Espresso | el expreso | l'espresso   
+ 2.6  M cappuccino | le cappuccino | der Cappuccino | el cappuccino | il cappuccino   
+ 2.7  M iced coffee | le café glacé | der Eiskaffee | el café con hielo | il caffè freddo   
+   LEFT "»7 * * ' .1" @[774, 560] (riga singola isolata)
+   LEFT 'Ì' @[796, 566] (riga singola isolata)
+====================================================================================================
+== p140 [mangiare-fuori] 22 voci, 19 flag, 2 mancanti, 0 leftover, header=EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMF.R FUERA ~
+-- G0 subcat: rea • le thé • der Tee • el té • il tè
+   parts: rea • le thé • der tee • el té • il tè
+ 0.0  M herbal tea | la tisane | der Kräutertee | el té de hierbas | il tè alle erbe   
+-- G1 subcat: green tea • le thé verr • der grüne Tee
+   parts: green tea • le thé verr • der grüne tee
+ 1.0  M camomile tea | la camomille | der Kamillentee | la manzanilla | la camomilla   
+ 1.1  ⚠ ? | ? | ? | el té verde | il tè verde   missing
+ 1.2  M iced tea | le thé glacé | der Eistee | el té con hielo | il tè freddo   
+ 1.3  ⚠ mint tea | l'infusion de me~ | der Pfefferminzt~ | la m enta polco | il tc alla menta   es
+ 1.4  M tea with lemon | le thé au citron | der Tee mit Zitr~ | el té con limón | il rè al limone   
+ 1.5  M black tea | le thé narure | der schwarze Tee | el té sólo | il tè nero   
+ 1.6  ⚠ s a with milk | le thé au lau | der Tee mit Milch | el té con leche | il tè con latte   en
+ 1.7  ⚠ chocolate milksh~ | le m ilk-shake a~ | der Schokoladenm~ | la m alteada de ~ | il frappé al cio~   es fr
+-- G2 subcat: - ces and milkshakes • les jus et m ilk-shakes • die Säfte und Milchshakes • lo~
+   parts: ce sand milkshakes • les jus et m ilk-shakes • die säfte und milchshakes • los jugos y las ~
+ 2.0  ⚠ strawberry milks~ | le m ilk-shake à~ | der Erdbeermilch~ | la malteada de f~ | I frappé alle fr~   fr it
+ 2.1  ⚠ coffee milkshake | le m ilk-shake a~ | der Kaffeemilchs~ | la m alteada de ~ | il frappé al caf~   es fr
+ 2.2  M tomato juice | le jus de tomate | der Tomatensaft | el jugo de tomate | il succo di pomo~   
+ 2.3  M pineapple juice | le jus d'ananas | der Ananassaft | el jugo de pina | il succo d'ananas   
+ 2.4  M apple juice | le jus de pomme | der Apfelsaft | el jugo de manza~ | il succo di mela   
+ 2.5  ⚠ clange juice | le rus d'orange | der >3ogensaft | el | ago de naranja s~   de
+ 2.6  ⚠ food | la nourriture | ? | ? | ?   missing
+-- G3 subcat: das Essen • la comida • il cibo
+   parts: das essen • la comida • il cibo
+ 3.0  M scoop | la bou li | die Kugel | la boia | la pallina   
+ 3.1  M brown bread | le pain his | das Graubrot | el pan integral | il pane integrale   
+ 3.2  M pastry | la pâtisserie | das Gebäck | el pan dulce | la pasta   
+ 3.3  M ice cream | la giace | das Eis | el helado | il gelato   
+ 3.4  M salad | la salade | der Salat | la ensalada | l'insalata   
+ 3.5  M toasted sandwich | le sandwich gril~ | der getoastete S~ | el sandwich tost~ | il tramezzino to~   
+====================================================================================================
+== p141 [mangiare-fuori] 21 voci, 11 flag, 6 mancanti, 3 leftover, header=EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA •~
+-- G0 subcat: bar • le bar • die Bar • el bar • il bar
+   parts: bar • le bar • die bar • el bar • il bar
+ 0.0  ⚠ glasses | les verres | die Glaser | las copas | ?   missing
+ 0.1  M dispenser | la mesure | das Maß | el medidor óptico | misurino   
+ 0.2  ⚠ cash register | la caisse | die Kasse | lu caja | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.3  M bartender | le barman | der Barkeeper | el barman | il barista   
+ 0.4  M beer tap | la pompe à hiere | der Zapfhahn | la llave de cerv~ | lo spillatore di~   
+ 0.5  M coffee machine | le percolateur | die Kaffeemaschi~ | la cafetera | la macchina da c~   
+ 0.6  ⚠ 1 M J hl | » > 7 | ? | ? | ?   en fr missing slot-ambig
+        ALTS: [['en', 'de'], ['en', 'es'], ['en', 'it']]
+ 0.7  ⚠ J | tj | í | ? | ?   de en missing slot-ambig
+        ALTS: [['en', 'fr', 'es'], ['en', 'fr', 'it'], ['en', 'de', 'es']]
+ 0.8  ⚠ ? | ? | ? | ? | i   missing
+ 0.9  M bar stool | le rabouret de b~ | der Barhocker | la silla | lo sgabello   
+ 0.10 M ashtray | le cendrier | der Aschbecher | el cenicero | il posacenere   
+ 0.11 ⚠ coaster I | le dessous de ve~ | der Untersetzer | el posavasos | il sottobicchiere   en
+ 0.12 M bar | le comptoir | die Theke | la barra | il banco   
+ 0.13 ⚠ ? | le seau à glace | der Eiskübel | la cham panera | I portaghiaccio   it missing
+ 0.14 M stirrer | l'agitateur | der Cocktailnihr~ | el agitador | il miscelatore   
+ 0.15 M bottle opener | l'ouv rc-bourcil~ | der Flaschenöffn~ | el destapador | l'apribottiglie   
+ 0.16 M tongs | les pinces | die Eiszange | las pinzas | le pinze   
+ 0.17 M lever | le levier | der Hebel | la palanca | la leva   
+ 0.18 M measure | le verre gradué | der Messbecher | el medidor | il misurino   
+ 0.19 M corkscrew | le tire-bouchon | der Korkenzieher | el sacacorchos | il cavatappi   
+ 0.20 ⚠ cocktail shaker | le shaker à «coc~ | der Cocktailshak~ | la coctelera | lo shaker   fr
+   LEFT 'W' @[178, 444] (riga singola isolata)
+   LEFT 'J' @[215, 484] (riga singola isolata)
+   LEFT 'i~k k « a r ®' @[194, 490] (riga singola isolata)
+====================================================================================================
+== p142 [mangiare-fuori] 23 voci, 17 flag, 1 mancanti, 0 leftover, header=EATING OUT - SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA •~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M ce cube | le glaçon | der Eiswürfel | el cúbito de hie~ | il cubetto di gh~   
+ 0.1  M pitcher | le pichet | der Krug | la jarra | la brocca   
+-- G1 subcat: Í
+   parts: í
+ 1.0  ⚠ scotch and water | le scotch à Peau | der Scotch mit W~ | el w hiskey esco~ | il whisky con ac~   es
+ 1.1  M gin and ionie | le gin tonic | der Gin Tonic | el gin tonic | il gin tonic   
+ 1.2  M rum and coke | le rhum coca | der Rum mit Cola | la cuba Ubre | il rum con coca ~   
+ 1.3  M vodka and orange | la vodka à l'ora~ | der Wodka mit Or~ | el desarmador | la vodka all'ara~   
+ 1.4  M beer | la bière | das Bier | la cerveza | la birra   
+ 1.5  M wine | le vin | der Wein | ei vino | il vino   
+ 1.6  M cocktail | le cocktail | der Cocktail | el cóctel | il cocktail   
+ 1.7  ⚠ martini | le m artini | der Martini | el m artini | il martini   es fr
+ 1.8  ⚠ ice and lemon | citron er glaçons | Eis und Zitrone | ? | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'es'], ['en', 'fr', 'it'], ['en', 'de', 'es']]
+ 1.9    double | double | doppelt | doble | doppio   
+ 1.10   single | simple | einfach | sencillo | singolo   
+ 1.11 M without ice | sans glaçons | ohne Eis | sin hielo | liscio   
+ 1.12 M with ce | avec des glaçons | mit Eis | con hielo | con ghiaccio   
+ 1.13 M measure | la mesure | das Maß | la medida | la misura   
+ 1.14 M a shot | un coup | ein Schuss | un trago | un bicchiere   
+-- G2 subcat: bar snacks • les amuse-gueule • die Knabbereien • la botana • gli stuzzichini
+   parts: bar snacks • les amuse-gueule • die knabbereien • la botana • gli stuzzichini
+ 2.0  M cashews | les noix de cajou | die Cashewnüsse | las nueces de la~ | gli anacardi   
+ 2.1  M peanuts | les cacahouètes | die Erdnüsse | los cacahuetes | le noccioline   
+ 2.2  M almonds | les amandes | die Mandeln | las almendras | le mandarle   
+ 2.3  M olives | les olives | die Oliven | las aceitunas | le olive   
+ 2.4  M potato chips | les chips | die Kartoffelchi~ | las papas fritas | le patatine   
+ 2.5  M nuts | les noix | die Nüsse | los frutos secos | le noccioline   
+====================================================================================================
+== p143 [mangiare-fuori] 28 voci, 11 flag, 2 mancanti, 2 leftover, header=EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA •~
+-- G0 subcat: restaurant • le restaurant • das Restaurant • el restaurante • ¡I ristorante
+   parts: restaurant • le restaurant • das restaurant • el restaurante • i ristorante
+ 0.0  ⚠ nonsmoking secti~ | la partie non fu~ | der Nicht rauche~ | el área J e no t~ | la zona non fuma~   es
+ 0.1  M napkin | la servierte | die Serviette | la servilleta | il tovagliolo   
+ 0.2  M assistant chef | le commis | der Hilfskoch | el ayudante ilei~ | l'aiuto cuoco   
+ 0.3  ⚠ place setting | le couvert | das Gedeck | el cubierto | I coperto   it
+ 0.4  M glass | le verre | das Glas | la copa | il bicchiere   
+ 0.5  M chef | le chef Je cuisi~ | der Küchenchef | el chef | il cuoco   
+ 0.6  M tray | le plateau | das Tablett | la charola | vassoio   
+ 0.7  ⚠ kitchen | la cuisine | ? | la cucina | ?   missing
+ 0.8  ⚠ ? | ? | die Küche | la cocina | ?   missing
+ 0.9  M server | le garçon | der Kellner | ti mesero | il cameriere   
+ 0.10 ⚠ lunch menu | le menu J u déje~ | das Mittagsmenü | el m enú de la c~ | il menù del pran~   es fr
+ 0.11 M specials | les spécialités | die Spezialitäten | los platillos de~ | i piatti del gio~   
+ 0.12 M price | le prix | der Preis | el precio | il prezzo   
+ 0.13 M smoking section | la partie fumeurs | der Raucherberei~ | el área de fumar | la zona fumatori   
+ 0.14 M öp | le pourboire | das Trinkgeld | la propina | la mancia   
+ 0.15 M customer | le client | der Kunde | el cliente | l cliente   
+ 0.16 ⚠ dinner menu | le menu du soir | das Abendmenü | ci m enu de la c~ | il menù della ce~   es
+ 0.17 M à la carte | à la carte | à la carte | a la carta | a la carte   
+ 0.18 M check | l'addition | die Rechnung | la cuenta | il conto   
+ 0.19 ⚠ service charge i~ | Service compris | Bedienung inbegr~ | sen icio incluido | servizio compreso   fr
+ 0.20 M buffet | le buffer | das Buffet | el buffet | il buffet   
+ 0.21 M salt | le sel | das Salz | la sal | l sale   
+ 0.22 M wine list | la carte des vins | die Weinkarte | la lista de vinos | la lista dei vini   
+ 0.23 M dessert cart | le plateau à des~ | der Dessertwagen | el carrito de lo~ | il carrello dei ~   
+ 0.24 M receipt | le reçu | die Quittung | el recibo | la ricevuta   
+ 0.25 M service charge n~ | service non comp~ | ohne Bedienung | servid o no incl~ | servizio non com~   
+ 0.26 M bar | le bar | die Bar | el bar | il bar   
+ 0.27 M pepper | le poivre | der Pfeffer | la pimienta | il pepe   
+   LEFT 'i' @[288, 187] (riga singola isolata)
+   LEFT "T'a" @[72, 538] (riga singola isolata)
+====================================================================================================
+== p144 [mangiare-fuori] 20 voci, 18 flag, 0 mancanti, 0 leftover, header=E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • C O M E~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M menu | la carie | die Speisekarte | la carta | il menù   
+ 0.1  ⚠ child's meal | le menu cTenfant | die Kinderportion | el m enu para ni~ | il menù per bamb~   es
+ 0.2    pay (v) | payer | bezahlen | pagar | pagare   
+ 0.3    order (v) | commander | bestellen | ordenar | ordinare   
+ 0.4  ⚠ A table for two.~ | Une table pour d~ | Einen Tisch für ~ | Una mesa para do~ | Un tavolo per du~   de en es fr it
+-- G1 subcat: c o u rs e s • le s p la t s • die Gänge • lo s p la to s • le p o rta te
+   parts: courses • les plats • die gänge • lo s p la tos • le portate
+ 1.0  ⚠ Can I see the me~ | La carte/1.i car~ | Die Speisekarte/~ | cPodría ver la ç~ | Posso vedere il ~   de en es fr it
+ 1.1  M soup | la soupe | die Suppe | la sopa | la minestra   
+ 1.2  M appetizer | l'entrée | die Vorspeise | la entrada | l'antipasto   
+ 1.3  ⚠ apéritif | Raperini | der Aperitif | el aperitivo | l'aperitivo   fr
+ 1.4  ⚠ Is there a prix ~ | Avez-vous un men~ | Haben Sie ein Ta~ | H ay menú del di~ | C'è un menù a pr~   de en es fr it
+ 1.5  ⚠ Do you have any ~ | Avez vous des pl~ | Haben Sie vegeta~ | lle n e platos v~ | Avete dei piatti~   de en es fr it
+ 1.6  ⚠ Could I have the~ | L 'addition/un r~ | Könnte ich bitte~ | Me podría traer ~ | Posso avere il c~   de en es fr it
+ 1.7  M side order | l'accompagnement | die Beilage | el acompañamiento | il contorno   
+ 1.8  M main course | le plat principal | das Hauptgericht | el plato princip~ | il piatto princi~   
+ 1.9  M coffee spoon | la cuiller à café | der Kaffeelöffel | la cucharilla de~ | il cucchiaino da~   
+ 1.10 M fork | la fourchette | die Gabel | el tenedor | la forchetta   
+ 1.11 ⚠ Can we pay separ~ | Pouvons-nous pay~ | Können wir getre~ | Podemos pagar po~ | Possiamo pagare ~   de en es fr it
+ 1.12 ⚠ Where are the re~ | O ù sont les toi~ | Wosind die Toile~ | Dónde están los ~ | Dove sono i bagn~   de en es fr it
+ 1.13 M coffee | le café | der Kaffee | el café | il caffè   
+ 1.14 M dessert | le dessert | der Nachtisch | el postre | il dessert   
+====================================================================================================
+== p145 [mangiare-fuori] 21 voci, 12 flag, 2 mancanti, 0 leftover, header=E A T IN G OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUE~
+-- G0 subcat: fast food • la restauration rapide • der Schnellimbiss • la comida rápida • il ~
+   parts: fast food • la restauration rapide • der schnellimbiss • la comida rápida • il fast food
+ 0.0  M straw | la paille | der Strohhalm | el popote | la cannuccia   
+ 0.1  M pizzena | la pizzeria | die Pizzeria | la pizzeria | la pizzeria   
+ 0.2  M burger | le hamburger | der Hamburger | la hamburguesa | l'hamburger   
+ 0.3  M soft drink | la boisson non-a~ | das alkoholfreie~ | el refresco | la bibita   
+ 0.4  ⚠ fast food restau~ | le restaurant ra~ | die Imbissstube | el restaurant de~ | il fastfood   de
+ 0.5  ⚠ French fries | les frites | die Pommes frites | las papas fritas | le patate fritte   en
+ 0.6  ⚠ menu | la carte | die $peisekarte | el menù | il menù   de
+ 0.7  M paper napkin | la serviette en ~ | die Papierservie~ | la servilleta de~ | il tovagliolo di~   
+ 0.8  M eat in | manger sur place | hier essen | para comer en el~ | mangiare sul pos~   
+ 0.9  M tray | le plateau | das Tablett | la charola | il vassoio   
+ 0.10 M carry out | à emporter | zum Mitnehmen | para llevar | da portarvi a   
+ 0.11 M burger meal | le hamburger ave~ | der Hamburger mi~ | la hamburguesa c~ | il pasto con ham~   
+ 0.12 ⚠ canned drink | la boisson en bo~ | das Dosengetränk | el refresco en l~ | ?   missing
+ 0.13 M reheat y | réchauffer | aufwärmen | recalentar | riscaldare   
+ 0.14 ⚠ price list | le tarif | die Preisliste | la lista de prec | ?   missing
+ 0.15 ⚠ pizza | la pizza | die Pizza | la pizz3 | la pizza   es
+ 0.16 M ketchup | le ketchup | der Tomatenketch~ | la catsup | la salsa di pomo~   
+ 0.17 ⚠ Can I have that ~ | À emporter, s'il~ | Ich mochte das m~ | M e lo pone para~ | Me lo dà da port~   en es fr it
+ 0.18 ⚠ Do you deliver? | Est-ce que vous ~ | Liefern Sie ins ~ | Entregan a domic~ | Consegnate a dom~   de en es fr it
+ 0.19 M delivery | la livraison à d~ | die Lieferung in~ | la entrega a dom~ | la consegna a do~   
+ 0.20 ⚠ hot dog stand | le marchand de h~ | der Imbissstand | el puesto | il venditore amb~   de
+====================================================================================================
+== p146 [mangiare-fuori] 23 voci, 19 flag, 3 mancanti, 1 leftover, header=E A T IN G O U T • SORTIR MANGER • AUSW ÄRTS ESSEN • C O M ~
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ sausage | la saucisse | die Wurst | la salchicha | Wurstel   it
+ 0.1  M mustard | la moutarde | der Senf | la mostaza | la senape   
+ 0.2  M bun | le petit pan | das Brötchen | el hollo | il panino   
+ 0.3  M veglie burger | le hamburger vég~ | der vegetarische~ | la hamburguesa v~ | l'hamburger vege~   
+ 0.4  M hot dog | le hot-dog | das HotDog | el hot dog | l'hot dog   
+ 0.5  M chicken burger | le hamburger au ~ | der Chìckenburger | la hamburguesa d~ | l'hamburger di p~   
+ 0.6  M hamburger | le hamburger | der Hamburger | la hamburguesa | l'hamburger   
+ 0.7  ⚠ filling | la garniture | die Füllung | el relleno | I ripieno   it
+ 0.8  M wrap | le taco | das gefüllte Fla~ | el taco | la piadina   
+ 0.9  M open face sandwi~ | le canapé | das belegte Brot | el sandwich abie~ | il tramezzino ap~   
+ 0.10 M club sandwich | le sandwich mixte | der Klubsandwich | el club sandwich | il tramezzino a ~   
+ 0.11 M sub | le sandwich | der Sandwich | el bocadillo | il tramezzino   
+ 0.12 ⚠ sweet | sucré | süß | dulce | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 0.13   savory | salé | salzig | salado | salato   
+ 0.14 ⚠ sauce | la sauce | die Soße | la salsa | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.15 M topping | la garniture | der Pizzabelag | los ingredientes | il condimento   
+ 0.16 M chicken nuggets | les beignets de ~ | die Hähnchenstüc~ | los nuggets de p~ | i bocconcini di ~   
+ 0.17 M kabob | le kébab | der Kebab | el alambre | il kebab   
+ 0.18 M crepes | les crêpes | die Crêpes | la crèpe | la crèpe   
+ 0.19 ⚠ fried chicken | le poulet fnr | das gebratene Hä~ | ? | il pollo fritto   de missing
+ 0.20 M pizza | la pizza | die Pizza | la pizza | la pizza   
+ 0.21 M ribs | les côtes | die Rippen | las costillas | le costolette   
+ 0.22 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['fish and chips', 'le poisson avec des frites', 'der Brattisch mit Pommes fntes', 'el pescado con papas', 'ritas', 'il pesce con patatine']
+   LEFT 'p _ . dolce' @[774, 606] (riga singola isolata)
+====================================================================================================
+== p147 [mangiare-fuori] 18 voci, 8 flag, 0 mancanti, 1 leftover, header=EATING OUT ♦ SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA •~
+-- G0 subcat: breakfast • le petit déjeuner • das Frühstück • el desayuno • la colazione
+   parts: breakfast • le petit déjeuner • das frühstück • el desayuno • la colazione
+ 0.0  M milk | le lait | die Milch | la leche | il latte   
+ 0.1  M cereal | les céréales | die Getreidefloc~ | los cereales | il cereale   
+ 0.2  M jam | la confiture | die Konfitüre | la mermelada | la marmellata   
+ 0.3  ⚠ dried fruit | les fru ir secs | das Dörrobst | la In ita seca | la frutta secca   es
+ 0.4  M ham | le jambon | der Schinken | el jamón | il prosciutto   
+ 0.5  M cheese | le fromage | der Käse | el queso | il formaggio   
+ 0.6  M crispbread | le biscuit scand~ | das Knäckebrot | la galleta de ce~ | il pane biscotta~   
+ 0.7  M butter | le beurre | die Butter | la mantequilla | il burro   
+ 0.8  M breakfast buffet | le buffet du pet~ | das Frühstücks b~ | el buffet de des~ | il buffet della ~   
+ 0.9  M marmalade | la confiture d'o~ | die Orangenmarme~ | la mermelada de ~ | la marmellata di~   
+ 0.10 M pâté | le pâté | die Pastete | el paté | il pàté   
+ 0.11 M fruit juice | le jus de fruir | der Obstsaft | el jugo de frutas | il succo di frut~   
+ 0.12 ⚠ coffee | le café | der Kaffee | el café | I caffè   it
+ 0.13 M croissant | le croissant | das Croissant | el croissant | il cornetto   
+ 0.14 M hot chocolate | le chocolat chaud | die Schokolade | el chocolate cal~ | la cioccolata ca~   
+ 0.15 M tea | le thé | der Tee | el té | il tè   
+ 0.16 ⚠ breakfast table | la table du peti~ | der Frühstücksti~ | la mesa del desa~ | I tavolo della c~   it
+ 0.17 M drinks | les boissons | die Getränke | las bebidas | le bevande   
+   LEFT 'i' @[202, 246] (riga singola isolata)
+====================================================================================================
+== p148 [mangiare-fuori] 20 voci, 16 flag, 1 mancanti, 0 leftover, header=E A T IN G OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUE~
+-- G0 subcat: (nessuna)
+ 0.0  M blood sausage | le boudin | die Blutwurst | la morcilla | il sanguinaccio   
+ 0.1  ⚠ tomato | la toniate | die Tornate | el ji tomate | I pomodoro   it
+ 0.2  M toast | le toast | der Toast | el pan tostado | il pane tostato   
+ 0.3  M sausage | la saucisse | das Würstchen | la salchicha | la salsiccia   
+ 0.4  M ned egg | l'ceuf sur le pi~ | das Spiegelei | el huevo estrell~ | l'uovo fritto   
+ 0.5  M bacon | le bacon | der Frühstückssp~ | el tocino | la pancetta   
+ 0.6  ⚠ English breakfast | le périt déjeune~ | das englische Fr~ | el desayuno ingl~ | la colazione all~   en
+ 0.7  M bread | le pain | das Brot | el pan | il pane   
+ 0.8  M brioche | la brioche | die Brioche | el pan dulce | la brioche   
+ 0.9  ⚠ yolk | le jaune d'œ uf | das Eigelb | la yema | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.10 M scrambled eggs | les œufs brouill~ | das Rührei | los huevos revue~ | le uova strapazz~   
+ 0.11 M soft-boiled egg | l'œ uf à la coque | das gekochteEi | el huevo tibio | l'uovo alla coque   
+ 0.12 ⚠ French toast | le pain perdu | das in Eigebrate~ | el pan francés | il pane fritto a~   en
+ 0.13 M smoked herring | le skippers | die Raucherherin~ | los arenques ahu~ | le aringhe affum~   
+ 0.14 M whipped cream | la crème | die Sahne | la crema | la   
+ 0.15 ⚠ fruit yogurt | le vaourt a u x ~ | der Früchtejoghu~ | el yogurt de fru~ | lo yogurt alla f~   fr
+ 0.16 M fresh fruit | les fruits | das Obst | la fruta tresca | la frutta fresca   
+ 0.17 M oatmeal | le porridge | der Porridge | la avena | il porridge   
+ 0.18 ⚠ waffles | les gaufres | die Waffeln | los w affles | i waffle   es
+ 0.19 M crepes | les crêpes | die Pfannkuchen | las crêpas | le crêpes   
+====================================================================================================
+== p149 [mangiare-fuori] 17 voci, 17 flag, 0 mancanti, 1 leftover, header=E A T IN G O U T • S O R T IR M A N G E R • AUSWÄRTS ESSEN ~
+-- G0 subcat: dinner • le repas • die Hauptmahlzeit • la co m id a p rin c ip a l • la cena
+   parts: dinner • le repas • die hauptmahlzeit • la comida principal • la cena
+ 0.0  M soup | le potage | die Suppe | la sopa | la minestra   
+ 0.1  M broth | le bouillon | die Brühe | el caldo | lo zuppa   
+ 0.2  M stew | le ragoût | der Eintopf | el guiso | lo stufato   
+ 0.3  M curried lamb | le cu rrv | das Curry | el curry | il curry   
+ 0.4  M roast | le rôti | der Braten | el asado | l'arrosto   
+ 0.5  M pie | la tourte | die Pastete | la empanada | il pasticcio   
+ 0.6  M soufflé | le soufflé | das Soufflé | el soufflé | il soufflé   
+ 0.7  M kabob | le chiche-kébah | der Schaschlik | la brocheta | lo spiedino   
+ 0.8  M noodles | les nouilles | die Nudeln | los fideos | i taglierini   
+-- G1 subcat: J IJM 'I
+   parts: j ijm 'i
+ 1.0  M meatballs | les bou lenes de~ | die Fleischklöße | las albóndigas | le polpette   
+ 1.1  M omelette | l'omelette | das Omelett | la om elette | la frittata   
+ 1.2  M stir fry | le sauté | das Schnellbratg~ | el revuelto | la frittura   
+ 1.3  M pasta | les pâtes | die Nudeln | la pasta | la pasta   
+ 1.4  M rice | le riz | der Reis | el arroz | il riso   
+ 1.5  M tossed salad | la salade compos~ | der gemischte Sa~ | la ensalada mixta | l'insalata mista   
+ 1.6  M green salad | la salade verte | der grüne Salat | la ensalada verde | l'insalata verde   
+ 1.7  M dressing | la vinaigrette | die Salatsoße | el aderezo | il condimento   
+   LEFT '4' @[830, 323] (riga singola isolata)
+====================================================================================================
+== p150 [mangiare-fuori] 16 voci, 16 flag, 0 mancanti, 0 leftover, header=E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • COMER F~
+-- G0 subcat: techniques • la préparation • die Zubereitung • las técnicas • i metodi
+   parts: techniques • la préparation • die zubereitung • las técnicas • i metodi
+ 0.0    stuffed | farci | gefüllt | relleno | imbottito   
+ 0.1  M in sauce | en sauce | in Soße | en salsa | al sugo   
+ 0.2  ⚠ grilled | grillé | gegrillt | a In plancha | alla griglia   es
+ 0.3    marinated | marine | mariniert | adobado | marinato   
+ 0.4  M poached | poche | poch ieri | escalfado | affogato   
+ 0.5  M mashed | en purée | püriert | hecho puré | schiacciato   
+ 0.6  M baked | cuit | gebacken | al horno | cotto al forno   
+ 0.7  M pan fried | sauté | kurzgebraten | frito con poco a~ | fritto in padella   
+ 0.8  ⚠ fried | frit | gebraten | Into | fritto   es
+ 0.9  M pickled | macéré | eingelegt | en vinagre | sottaceto   
+ 0.10   smoked | fumé | geräuchert | ahumado | affumicato   
+ 0.11 M deep fried | frit | fnttiert | frito con mucho ~ | fritto in olio a~   
+ 0.12 M in syrup | au sirop | in Saft | en almíbar | allo sciroppo   
+ 0.13   dressed | assaisonné | angemacht | sazonado | condito   
+ 0.14 M steamed | cuit à la vapeur | gedämpft | al vapor | al vapore   
+ 0.15   cured | séché | getrocknet | curado | seccato   
+====================================================================================================
+== p151 [mangiare-fuori] PAGINA DIVISORIA / SENZA VOCI

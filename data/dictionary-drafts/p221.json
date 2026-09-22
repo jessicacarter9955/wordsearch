@@ -1,0 +1,300 @@
+{
+ "page": 221,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS ■ L E S S P O R T S • DER SPORT • L O S D E P O R T E S • G il SPORT",
+ "groups": [
+  {
+   "names_raw": "track and field • l'athlétisme • die Leichtathletik • el atletismo • l'atletica",
+   "parts": [
+    "track and field",
+    "l'athlétisme",
+    "die leichtathletik",
+    "el atletismo",
+    "l'atletica"
+   ],
+   "entries": [
+    {
+     "en": "lane",
+     "fr": "It coulo ir",
+     "de": "die Bahn",
+     "es": "el carril",
+     "it": "la corsia",
+     "_pos": [
+      48,
+      108
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "track",
+     "fr": "la piste",
+     "de": "die Rennbahn",
+     "es": "la pista",
+     "it": "la pista",
+     "_pos": [
+      164,
+      109
+     ],
+     "_flags": []
+    },
+    {
+     "en": "finish line",
+     "fr": "lu ligne d'arrivée",
+     "de": "die Ziellinie",
+     "es": "la línea de meta",
+     "it": "il traguardo",
+     "_pos": [
+      487,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "starting line",
+     "fr": "la ligne de départ",
+     "de": "die Startlinie",
+     "es": "la línea de salida",
+     "it": "la linea di partenza",
+     "_pos": [
+      740,
+      113
+     ],
+     "_flags": []
+    },
+    {
+     "en": "field",
+     "fr": "le terrain",
+     "de": "das Feld",
+     "es": "el campo",
+     "it": "il campo",
+     "_pos": [
+      409,
+      508
+     ],
+     "_flags": []
+    },
+    {
+     "en": "athlete",
+     "fr": "l'athlète",
+     "de": "die Leichtathletin",
+     "es": "la atleta",
+     "it": "l'atleta",
+     "_pos": [
+      418,
+      620
+     ],
+     "_flags": []
+    },
+    {
+     "en": "starting blocks!",
+     "fr": "Ic bloc de départ",
+     "de": "der Startblock",
+     "es": "el cajón de salida",
+     "it": "la pedana di partenza",
+     "_pos": [
+      46,
+      682
+     ],
+     "_flags": [
+      "en:weird:blocks!",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "sprinter",
+     "fr": "le sprinter",
+     "de": "der Sprinter",
+     "es": "e les primer",
+     "it": "il velocista",
+     "_pos": [
+      46,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "discus",
+     "fr": "le disque",
+     "de": "das Diskuswerfen",
+     "es": "el lanzamiento de disco",
+     "it": "il lancio del disco",
+     "_pos": [
+      258,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shotput",
+     "fr": "le lancement du poids",
+     "de": "das Kugelstoßen",
+     "es": "el lanzamiento de bala",
+     "it": "il lancio del peso",
+     "_pos": [
+      462,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "javelin",
+     "fr": "le javelot",
+     "de": "das Speerwerfen",
+     "es": "el lanzamiento de jabalina",
+     "it": "I laricio del giavellotto",
+     "_pos": [
+      676,
+      787
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "race",
+     "fr": "la course",
+     "de": "das Rennen",
+     "es": "la carrera",
+     "it": "la gara",
+     "_pos": [
+      60,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "record",
+     "fr": "le record",
+     "de": "der Rekord",
+     "es": "el récord",
+     "it": "il primato",
+     "_pos": [
+      178,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "photo finish",
+     "fr": "le photo-finish",
+     "de": "das Fotofinish",
+     "es": "la foto final",
+     "it": "il fotofinish",
+     "_pos": [
+      352,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pole vault",
+     "fr": "le saut à la perche",
+     "de": "der Stabhochsprung",
+     "es": "el salto con pértiga",
+     "it": "il salto con l'asta",
+     "_pos": [
+      496,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "time",
+     "fr": "le temps",
+     "de": "die Zeit",
+     "es": "el tiempo",
+     "it": "il tempo",
+     "_pos": [
+      59,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "break a record (v)",
+     "fr": "battre un record",
+     "de": "einen Rekord brechen",
+     "es": "batir un récord",
+     "it": "battere un primato",
+     "_pos": [
+      178,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "marathon",
+     "fr": "le marathon",
+     "de": "der Marathon",
+     "es": "lama ratón",
+     "it": "la maratona",
+     "_pos": [
+      350,
+      981
+     ],
+     "_flags": []
+    },
+    {
+     "en": "personal best",
+     "fr": "le record personnel",
+     "de": "die persönliche Bestleistung",
+     "es": "la marca personal",
+     "it": "il primato personale",
+     "_pos": [
+      496,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stopwatch",
+     "fr": "le chronomètre",
+     "de": "die Stoppuhr",
+     "es": "el cronòm etro",
+     "it": "il cronometro",
+     "_pos": [
+      683,
+      1033
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "J ,",
+   "pos": [
+    314,
+    741
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "fi",
+   "pos": [
+    390,
+    744
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 8,
+  "flagged": 12,
+  "missing_lang": 0,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

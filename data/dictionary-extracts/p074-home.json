@@ -1,0 +1,438 @@
+{
+ "page": 74,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "tecniche",
+   "names": {
+    "en": "techniques",
+    "fr": "les techniques",
+    "de": "die fertigkeiten",
+    "es": "las técnicas",
+    "it": "le tecniche"
+   },
+   "entries": [
+    {
+     "en": "hammer (v)",
+     "fr": "marteler",
+     "de": "hámmem",
+     "es": "clavar",
+     "it": "martellare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "drill (v)",
+     "fr": "percer",
+     "de": "bohren",
+     "es": "taladrar",
+     "it": "forare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "saw (v)",
+     "fr": "scier",
+     "de": "sagen",
+     "es": "serrar",
+     "it": "segare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "cut (v)",
+     "fr": "découper",
+     "de": "schneiden",
+     "es": "cortar",
+     "it": "tagliare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "solder",
+     "fr": "soudure",
+     "de": "Lötzinn",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7
+     }
+    },
+    {
+     "en": "tum (v)",
+     "fr": "tourner",
+     "de": "drechseln",
+     "es": "tornear",
+     "it": "tornire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "carve (v)",
+     "fr": "sculpter",
+     "de": "schnitzen",
+     "es": "tallar",
+     "it": "incidere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "solder (v)",
+     "fr": "souder",
+     "de": "löten",
+     "es": "soldar",
+     "it": "saldare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "hardwood",
+     "fr": "bois dur",
+     "de": "Hartholz",
+     "es": "madera noble",
+     "it": "legno duro",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "medium density fìberboard",
+     "fr": "médium",
+     "de": "MDF-Platte",
+     "es": "tablero de densidad media",
+     "it": "MDF",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 23,
+      "fr": 6,
+      "de": 9,
+      "es": 22,
+      "it": 3
+     }
+    },
+    {
+     "en": "plywood",
+     "fr": "contreplaqué",
+     "de": "Sperrholz",
+     "es": "contrachapado",
+     "it": "compensato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 9,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "cable",
+     "fr": "câble",
+     "de": "Kabel",
+     "es": "cable",
+     "it": "cavo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "chipboard",
+     "fr": "aggloméré",
+     "de": "Spanholz",
+     "es": "aglomerado",
+     "it": "truciolato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "varnish",
+     "fr": "vernis",
+     "de": "Lack",
+     "es": "barniz",
+     "it": "lacca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "stainless steel",
+     "fr": "inox",
+     "de": "rostfreie Stahl",
+     "es": "acero inoxidable",
+     "it": "acciaio inossidabile",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 4,
+      "de": 14,
+      "es": 15,
+      "it": 19
+     }
+    },
+    {
+     "en": "galvanized",
+     "fr": "galvanisé",
+     "de": "galvanisiert",
+     "es": "galvanizado",
+     "it": "zincato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 12,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "woodstain",
+     "fr": "couleur pour bois",
+     "de": "Beize",
+     "es": "tinte para madera",
+     "it": "mordente per legno",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 5,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "sorrwood",
+     "fr": "buts tendre",
+     "de": "Weichholz",
+     "es": "madera de pino",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 9,
+      "es": 12
+     }
+    },
+    {
+     "en": "metal",
+     "fr": "métal",
+     "de": "Metall",
+     "es": "metal",
+     "it": "metallo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "wood",
+     "fr": "bois",
+     "de": "Holz",
+     "es": "madera",
+     "it": "legno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

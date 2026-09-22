@@ -1,0 +1,451 @@
+{
+ "page": 139,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "caffè",
+   "names": {
+    "en": "café",
+    "fr": "le café",
+    "de": "das café",
+    "es": "la cafetería",
+    "it": "il caffè"
+   },
+   "entries": [
+    {
+     "en": "umbrella",
+     "fr": "parasol",
+     "de": "Sonnensch",
+     "es": "sombrilla",
+     "it": "ombrellone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "awning",
+     "fr": "store",
+     "de": "Markise",
+     "es": "toldo",
+     "it": "tenda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "menu",
+     "fr": "menu",
+     "de": "Speisekarte",
+     "es": "carta",
+     "it": "menù",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 11,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "T R V & 1 ! K æÀ",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8
+     }
+    },
+    {
+     "en": "terrace café",
+     "fr": "terrasse de café",
+     "de": "Terrassencafe",
+     "es": "terraza",
+     "it": "bar con terrazza",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 13,
+      "es": 7,
+      "it": 14
+     }
+    },
+    {
+     "en": "server",
+     "fr": "serveur",
+     "de": "Kellner",
+     "es": "mesero",
+     "it": "cameriere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "coffee machine",
+     "fr": "percolateur",
+     "de": "Kaffeemaschine",
+     "es": "máquina del café",
+     "it": "macchina del caffè",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 14,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "table",
+     "fr": "table",
+     "de": "Tisch",
+     "es": "mesa",
+     "it": "tavolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "J",
+     "_multi": [],
+     "_grid_len": {
+      "en": 1
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "sidewalk café",
+     "fr": "rerrasse de café",
+     "de": "Straßencafe",
+     "es": "cafetería con mesas fuera",
+     "it": "bar all'aperto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 12,
+      "es": 22,
+      "it": 12
+     }
+    },
+    {
+     "en": "snack bar",
+     "fr": "snack",
+     "de": "Snackbar",
+     "es": "har",
+     "it": "snack bar",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 8,
+      "es": 3,
+      "it": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "coffee with cream",
+     "fr": "crème",
+     "de": "Kaffee mit Milch",
+     "es": "café con leche",
+     "_multi": [
+      "en",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 5,
+      "de": 14,
+      "es": 12
+     }
+    },
+    {
+     "en": "black coffee",
+     "fr": "noir",
+     "de": "schwarze Kaffee",
+     "es": "café solo",
+     "it": "caffè nero",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 4,
+      "de": 14,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "cocoa powder",
+     "fr": "chocolat en poudre",
+     "de": "Kakaopulver",
+     "es": "cocoa",
+     "it": "polvere di cacao",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 11,
+      "es": 5,
+      "it": 14
+     }
+    },
+    {
+     "en": "froth",
+     "fr": "mousse",
+     "de": "Schaum",
+     "es": "espuma",
+     "it": "schiuma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "filter coffee",
+     "fr": "café fi Irre",
+     "de": "Filterkaffee",
+     "es": "café de cafetera eléctrica",
+     "it": "caffè filtrato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 12,
+      "es": 23,
+      "it": 13
+     }
+    },
+    {
+     "en": "espresso",
+     "fr": "ex presso",
+     "de": "Espresso",
+     "es": "expreso",
+     "it": "espresso",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "cappuccino",
+     "fr": "cappuccino",
+     "de": "Cappuccino",
+     "es": "cappuccino",
+     "it": "cappuccino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "iced coffee",
+     "fr": "café glacé",
+     "de": "Eiskaffee",
+     "es": "café con hielo",
+     "it": "caffè freddo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 9,
+      "es": 12,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

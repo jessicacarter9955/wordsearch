@@ -1,0 +1,357 @@
+{
+ "page": 130,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "pane-e-le-farine",
+   "names": {
+    "en": "breads and flours",
+    "fr": "les pains et la farine",
+    "de": "das brot und das mehl",
+    "es": "el pan y las harinas",
+    "it": "il pane e le farine"
+   },
+   "entries": [
+    {
+     "en": "sliced bread",
+     "fr": "pain tranché",
+     "de": "Scheibenbrot",
+     "es": "pan de caja",
+     "it": "oane affettato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 12,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "poppy seeds",
+     "fr": "graines de pavot",
+     "de": "Mohn",
+     "es": "sem illas de amapola",
+     "it": "semi di papavero",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 4,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "French bread",
+     "fr": "baguette",
+     "de": "Baguette",
+     "es": "baguette",
+     "it": "filone",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "r",
+     "fr": "pain de seigle",
+     "de": "Roggenbrot",
+     "es": "pan de centeno",
+     "it": "pane di segale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 1,
+      "fr": 12,
+      "de": 10,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "bakery",
+     "fr": "boulangerie",
+     "de": "Bäckerei",
+     "es": "panadería",
+     "it": "panificio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": "fare-il-pane",
+   "names": {
+    "en": "making bread",
+    "fr": "faire du pain",
+    "de": "brot backen",
+    "es": "haciendo pan",
+    "it": "fare il pane"
+   },
+   "entries": [
+    {
+     "en": "white flour",
+     "fr": "farine blanche",
+     "de": "Weizenmehl",
+     "es": "harina blanca",
+     "it": "farina bianca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 10,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "whole-wheat flour",
+     "fr": "farine complète",
+     "de": "Roggenmehl",
+     "es": "harina morena",
+     "it": "farina integrale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 14,
+      "de": 10,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "stone-ground flour",
+     "fr": "farine brute",
+     "de": "Vollkornmehl",
+     "es": "harina integral",
+     "it": "farina integrale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 11,
+      "de": 12,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "yeast",
+     "fr": "levure",
+     "de": "Hefe",
+     "es": "levadura",
+     "it": "illi evito",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "dough",
+     "fr": "paré",
+     "de": "Teig",
+     "es": "masa",
+     "it": "pasta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "sift (v)",
+     "fr": "tamiser",
+     "de": "sieben",
+     "es": "cernir",
+     "it": "setacciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "mix (v)",
+     "fr": "mélanger",
+     "de": "verrühren",
+     "es": "mezclar",
+     "it": "mescolare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "knead (v)",
+     "fr": "pétrir",
+     "de": "kneten",
+     "es": "amasar",
+     "it": "impastare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "bake (v)",
+     "fr": "faire cuir au four",
+     "de": "backen",
+     "es": "hornear",
+     "it": "cuocere al forno",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 15,
+      "de": 6,
+      "es": 7,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

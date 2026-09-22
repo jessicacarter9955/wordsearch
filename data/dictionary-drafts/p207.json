@@ -1,0 +1,375 @@
+{
+ "page": 207,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "football • le football américain • der Football • el fútbol americano • il football americano",
+   "parts": [
+    "football",
+    "le football américain",
+    "der football",
+    "el fútbol americano",
+    "il football americano"
+   ],
+   "entries": [
+    {
+     "en": "sideline",
+     "fr": "la ligne de touche",
+     "de": "die Seitenlinie",
+     "es": "la línea de banda",
+     "it": "la linea laterale",
+     "_pos": [
+      260,
+      143
+     ],
+     "_flags": []
+    },
+    {
+     "en": "referee",
+     "fr": "le juge de ligne",
+     "de": "der Linienrichter",
+     "es": "el juez de línea",
+     "it": "il giudice di linea",
+     "_pos": [
+      422,
+      145
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goa lIme",
+     "fr": "la ligne de bur",
+     "de": "die Torlinie",
+     "es": "la línea de gol",
+     "it": "la linea del gol",
+     "_pos": [
+      678,
+      146
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le poteau",
+     "de": "der Torpfosten",
+     "es": "el poste del aporte ria",
+     "it": "'",
+     "_pos": [
+      78,
+      159
+     ],
+     "_flags": [
+      "missing:en",
+      "it:short:'"
+     ]
+    },
+    {
+     "en": "football field",
+     "es": "el campo",
+     "_pos": [
+      310,
+      504
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "If terrain",
+     "de": "das Spielfeld I campo",
+     "_pos": [
+      400,
+      505
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:es",
+      "missing:it",
+      "en:case"
+     ]
+    },
+    {
+     "en": "end zone",
+     "fr": "la zone de fond",
+     "de": "die Endzone",
+     "es": "la zona final",
+     "it": "il fondo campo",
+     "_pos": [
+      766,
+      507
+     ],
+     "_flags": []
+    },
+    {
+     "en": "football",
+     "fr": "le ballon",
+     "de": "der Football",
+     "es": "el balón",
+     "it": "il pallone",
+     "_pos": [
+      248,
+      552
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pads",
+     "fr": "les protections",
+     "de": "das Polster",
+     "es": "las rodilleras",
+     "it": "le ginocchiere",
+     "_pos": [
+      455,
+      555
+     ],
+     "_flags": []
+    },
+    {
+     "en": "helmet",
+     "fr": "le casque",
+     "de": "der Helm",
+     "es": "el casco",
+     "it": "il casco",
+     "_pos": [
+      636,
+      555
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cleat",
+     "fr": "la botte",
+     "de": "der Stiefel",
+     "es": "los tenis",
+     "it": "lo scarpino",
+     "_pos": [
+      198,
+      667
+     ],
+     "_flags": []
+    },
+    {
+     "en": "football player",
+     "fr": "le joueur de football",
+     "de": "der Footballspieler",
+     "es": "el jugador",
+     "it": "il giocatore",
+     "_pos": [
+      50,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tackle (v)",
+     "fr": "tacler",
+     "de": "angreifen",
+     "es": "taclear",
+     "it": "placcare",
+     "_pos": [
+      283,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pass (v)",
+     "fr": "faire une passe",
+     "de": "den Ball abgeben",
+     "es": "pasar",
+     "it": "passare",
+     "_pos": [
+      489,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "catch (v)",
+     "fr": "attraper",
+     "de": "fangen",
+     "es": "atrapar",
+     "it": "prendere",
+     "_pos": [
+      694,
+      802
+     ],
+     "_flags": []
+    },
+    {
+     "en": "time out",
+     "fr": "le temps mort",
+     "de": "die Auszeit",
+     "es": "el tiempo fuera",
+     "it": "il time-out",
+     "_pos": [
+      64,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "team",
+     "fr": "l'équipe",
+     "de": "die Mannschaft",
+     "es": "el equipo",
+     "it": "la squadra",
+     "_pos": [
+      287,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "defense",
+     "fr": "la défense",
+     "de": "die Verteidigung",
+     "es": "la defensa",
+     "it": "la difesa",
+     "_pos": [
+      416,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cheerleader",
+     "fr": "la majorette",
+     "de": "der Cheerleader",
+     "es": "lapo dis ta",
+     "it": "la cheerleader",
+     "_pos": [
+      549,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W hat is the score?",
+     "fr": "Où en est le m atch?",
+     "de": "Wie ist der Stand?",
+     "es": "Cóm o van?",
+     "it": "A quanto stanno?",
+     "_pos": [
+      682,
+      884
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:score?",
+      "en:case",
+      "fr:short:m",
+      "fr:weird:atch?",
+      "fr:case",
+      "de:weird:Stand?",
+      "es:weird:van?",
+      "es:case",
+      "it:weird:stanno?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "fumble",
+     "fr": "la prise de ballon maladroite",
+     "de": "das unsichere Fangen des Balls",
+     "es": "el balón perdido",
+     "it": "il fumble",
+     "_pos": [
+      64,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "attack",
+     "fr": "l'attaque",
+     "de": "der Angriff",
+     "es": "el ataque",
+     "it": "l'attacco",
+     "_pos": [
+      286,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "score",
+     "fr": "le score",
+     "de": "der Spielstand",
+     "es": "la puntuación",
+     "it": "il punteggio",
+     "_pos": [
+      416,
+      981
+     ],
+     "_flags": []
+    },
+    {
+     "en": "touchdown",
+     "fr": "le but",
+     "de": "der Touchdown",
+     "es": "el intento",
+     "it": "il touch-down",
+     "_pos": [
+      548,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W ho is winning?",
+     "fr": "Q ui cst-ce qui gagne?",
+     "de": "Wer gewinnt?",
+     "es": "Q uién va ganando?",
+     "it": "Chi vince?",
+     "_pos": [
+      682,
+      983
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:winning?",
+      "en:case",
+      "fr:short:Q",
+      "fr:weird:gagne?",
+      "fr:case",
+      "de:weird:gewinnt?",
+      "es:short:Q",
+      "es:weird:ganando?",
+      "es:case",
+      "it:weird:vince?",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "il palo della porta",
+   "pos": [
+    93,
+    208
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 10,
+  "flagged": 15,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,607 @@
+{
+ "page": 238,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "tights",
+     "fr": "collant",
+     "de": "Strumpfhose",
+     "es": "leotardos",
+     "it": "collant",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "push-up",
+     "fr": "traction",
+     "de": "Liegestütz",
+     "es": "flexión",
+     "it": "flessioni",
+     "_multi": [],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 10,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "lunge",
+     "fr": "fente en avant",
+     "de": "Ausfall",
+     "es": "flexión con estiramiento",
+     "it": "stiramento",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 12,
+      "de": 7,
+      "es": 22,
+      "it": 10
+     }
+    },
+    {
+     "en": "stretch",
+     "fr": "étirement",
+     "de": "Strecken",
+     "es": "estiramiento",
+     "it": "stretching",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "dumbbell",
+     "fr": "haltère",
+     "de": "Hantel",
+     "es": "pesa",
+     "it": "manubrio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "leg press",
+     "fr": "fraction pour les jambes",
+     "de": "Beinstütz",
+     "es": "ejercicios de piernas",
+     "it": "pressa per le gambe",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 21,
+      "de": 9,
+      "es": 19,
+      "it": 16
+     }
+    },
+    {
+     "en": "bicep curl",
+     "fr": "exercise pour les biceps",
+     "de": "Bizepsübung",
+     "es": "ejercicio de bíceps",
+     "it": "aizate con il manubrio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 21,
+      "de": 11,
+      "es": 17,
+      "it": 19
+     }
+    },
+    {
+     "en": "sit-up",
+     "fr": "redressement assis",
+     "de": "Rumpfheben",
+     "es": "abdominal",
+     "it": "addominali",
+     "_multi": [
+      "fr"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 17,
+      "de": 10,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "squat",
+     "fr": "flexion de jambes",
+     "de": "Kniebeuge",
+     "es": "ponerse en cuclillas",
+     "it": "squat",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 15,
+      "de": 9,
+      "es": 18,
+      "it": 5
+     }
+    },
+    {
+     "en": "weight bar",
+     "fr": "barre à poids",
+     "de": "Gewichthantel",
+     "es": "barra de pesas",
+     "it": "bilanciere",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 13,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "running shoes",
+     "fr": "baskets",
+     "de": "Trainings schuhe",
+     "es": "zapatillas",
+     "it": "scarponcini",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 15,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "vest",
+     "fr": "maillot",
+     "de": "Hemd",
+     "es": "camiseta",
+     "it": "maglietta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 4,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "aerobics",
+     "fr": "acrobic",
+     "de": "Aerobic",
+     "es": "aerobics",
+     "it": "ginnastica aerobica",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 18
+     }
+    },
+    {
+     "en": "jogging",
+     "fr": "logging",
+     "de": "Jogging",
+     "es": "jogging",
+     "it": "footing",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "weight training",
+     "fr": "Pentraînemenr poids et haltères",
+     "de": "Kraft training",
+     "es": "levantamiento de pesas",
+     "it": "addestramento ai pesi",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 28,
+      "de": 13,
+      "es": 20,
+      "it": 19
+     }
+    },
+    {
+     "en": "chest press",
+     "fr": "Pexcrcice pour la poitrine",
+     "de": "Brustübung",
+     "es": "ejercid o s pectorales",
+     "it": "pressa per pettorali",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 23,
+      "de": 10,
+      "es": 19,
+      "it": 18
+     }
+    },
+    {
+     "en": "circuit training",
+     "fr": "entrainem ent en circuit",
+     "de": "Zirkeltraining",
+     "es": "labia de gimnasia",
+     "it": "allemamento in circuito",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 21,
+      "de": 14,
+      "es": 15,
+      "it": 21
+     }
+    },
+    {
+     "en": "Pilâtes",
+     "fr": "exercices Pilâtes",
+     "de": "Pilâtes-Übungen",
+     "es": "pilâtes",
+     "it": "pilâtes",
+     "_multi": [
+      "fr"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 14,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "extend (v)",
+     "fr": "étendre",
+     "de": "ausstrecken",
+     "es": "estirar",
+     "it": "stendere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "jog in place (v)",
+     "fr": "jogger sur place",
+     "de": "auf der Stelle joggen",
+     "es": "correr en parada",
+     "it": "correre sul posto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 18,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "tram (v)",
+     "fr": "s'entraîner",
+     "de": "trainieren",
+     "es": "entrenar",
+     "it": "allenarsi",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "jumping rope",
+     "fr": "saut à la corde",
+     "de": "Seilspringen",
+     "es": "saltar a la comba",
+     "it": "saltare con la corda",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "boxerase",
+     "fr": "aérohoxe",
+     "de": "Boxgymnastik",
+     "es": "gim nasia prepugiiistica",
+     "it": "ginnastica prepugiiistica",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 12,
+      "es": 22,
+      "it": 24
+     }
+    },
+    {
+     "en": "pull up (v)",
+     "fr": "tirer",
+     "de": "hochziehen",
+     "es": "levantar",
+     "it": "sollevare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "flex (v)",
+     "fr": "fléchir",
+     "de": "beugen",
+     "es": "flexio n ar",
+     "it": "flettere",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "warm up (v)",
+     "fr": "s'échauffer",
+     "de": "sich aufwärmen",
+     "es": "calentar",
+     "it": "riscaldarsi",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 13,
+      "es": 8,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

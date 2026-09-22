@@ -1,0 +1,615 @@
+{
+ "page": 226,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "styles",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6
+     }
+    },
+    {
+     "it": "gli",
+     "_multi": [],
+     "_grid_len": {
+      "it": 3
+     }
+    },
+    {
+     "en": "breaststroke",
+     "fr": "brasse",
+     "de": "Brustschwimmen",
+     "es": "pecho",
+     "it": "rana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 14,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "ont crawl",
+     "fr": "crawl",
+     "de": "Kraulen",
+     "es": "crol",
+     "it": "lu stile libero",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "en": "stroke",
+     "fr": "nage",
+     "de": "Zug",
+     "es": "brazada",
+     "it": "bracciata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 3,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "kick",
+     "fr": "coup de pied",
+     "de": "Stoß",
+     "es": "patada",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 5,
+      "es": 6
+     }
+    },
+    {
+     "en": "butterfly",
+     "fr": "papillon",
+     "de": "Butterfly",
+     "es": "mariposa",
+     "it": "farfalla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "backstroke",
+     "fr": "nage sur le clos",
+     "de": "Rückenschwimmen",
+     "es": "dorso",
+     "it": "dorso scuba diving",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 15,
+      "es": 5,
+      "it": 16
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "air cylinder",
+     "fr": "bouteille d'air",
+     "de": "Druckluftflasche",
+     "es": "tanque",
+     "it": "bombola",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 16,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "wetsuit",
+     "fr": "combinaison de plongée",
+     "de": "Taucheranzug",
+     "es": "traje de buzo",
+     "it": "tuta subacquea",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 20,
+      "de": 12,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "snorkel",
+     "fr": "tuba",
+     "de": "Schnorchel",
+     "es": "tubo",
+     "it": "boccaglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 10,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "mask",
+     "fr": "masque",
+     "de": "Tauchermaske",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 12
+     }
+    },
+    {
+     "en": "I regulator",
+     "fr": "régulateur",
+     "de": "Lungenautomat el visor",
+     "es": "regulador",
+     "it": "regolatore",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 20,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "fr": "ceinture de plomb",
+     "de": "Bleigürtel",
+     "es": "cinturón ile pesas",
+     "it": "cintura do pesi",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 15,
+      "de": 10,
+      "es": 16,
+      "it": 13
+     }
+    },
+    {
+     "fr": "palme",
+     "de": "Schwimmflosse",
+     "es": "aleta",
+     "it": "pinna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "de": 13,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "shallow end",
+     "fr": "petit bassin",
+     "de": "flache Ende",
+     "es": "zona poco profunda",
+     "it": "parte bassa",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 10,
+      "es": 16,
+      "it": 10
+     }
+    },
+    {
+     "en": "water polo",
+     "fr": "water-polo",
+     "de": "Wasserball",
+     "es": "vvaterpolo",
+     "it": "pallanuoto",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "cramp",
+     "fr": "crampe",
+     "de": "Krampf",
+     "es": "calambre",
+     "it": "crampo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "racing dive",
+     "fr": "départ plongé",
+     "de": "Startsprung",
+     "es": "clavado de salida",
+     "it": "tuffo di rincorsa",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 11,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "lockers",
+     "fr": "casiers",
+     "de": "Schließfächer",
+     "es": "taquillas",
+     "it": "armadietti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "dive",
+     "fr": "plongeon",
+     "de": "Sprung",
+     "es": "clavado",
+     "it": "tuffo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "drown (v)",
+     "fr": "sc noyer",
+     "de": "ertrinken",
+     "es": "ahogarse",
+     "it": "annegare",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "lifeguard",
+     "fr": "maître nageur",
+     "de": "Bademeister",
+     "es": "salvavidas",
+     "it": "bagnino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 11,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "deep end",
+     "fr": "grand bassin",
+     "de": "tiefe Ende",
+     "es": "zona profunda",
+     "it": "parte profonda",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "synchronized swimming",
+     "fr": "nage synchronisée",
+     "de": "Synchronschwimmen",
+     "es": "nado sincronizado",
+     "it": "nuoto sincronizzato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 16,
+      "de": 17,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "tread water (v)",
+     "fr": "nager sur place",
+     "de": "Wasser treten",
+     "es": "hacer agua",
+     "it": "tenersi a galla",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 12,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "high dive",
+     "fr": "plongeon de haut vol",
+     "de": "Turmsprung",
+     "es": "clavado",
+     "it": "tuffo alto",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "de": 10,
+      "es": 7,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

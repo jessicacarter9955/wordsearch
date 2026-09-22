@@ -1,0 +1,496 @@
+{
+ "page": 148,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "blood sausage",
+     "fr": "boudin",
+     "de": "Blutwurst",
+     "es": "morcilla",
+     "it": "sanguinaccio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 9,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "tomato",
+     "fr": "toniate",
+     "de": "Tornate",
+     "es": "ji tomate",
+     "it": "pomodoro",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "toast",
+     "fr": "toast",
+     "de": "Toast",
+     "es": "pan tostado",
+     "it": "pane tostato",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "sausage",
+     "fr": "saucisse",
+     "de": "Würstchen",
+     "es": "salchicha",
+     "it": "salsiccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "ned egg",
+     "fr": "ceuf sur le piar",
+     "de": "Spiegelei",
+     "es": "huevo estrellado",
+     "it": "uovo fritto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 9,
+      "es": 15,
+      "it": 10
+     }
+    },
+    {
+     "en": "bacon",
+     "fr": "bacon",
+     "de": "Frühstücksspeck",
+     "es": "tocino",
+     "it": "pancetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 15,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "English breakfast",
+     "fr": "périt déjeuner anglais",
+     "de": "englische Frühstück",
+     "es": "desayuno inglés",
+     "it": "colazione all'inglese",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 20,
+      "de": 18,
+      "es": 14,
+      "it": 19
+     }
+    },
+    {
+     "en": "bread",
+     "fr": "pain",
+     "de": "Brot",
+     "es": "pan",
+     "it": "pane",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 3,
+      "it": 4
+     }
+    },
+    {
+     "en": "brioche",
+     "fr": "brioche",
+     "de": "Brioche",
+     "es": "pan dulce",
+     "it": "brioche",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "yolk",
+     "fr": "jaune d'œ uf",
+     "de": "Eigelb",
+     "es": "yema",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 6,
+      "es": 4
+     }
+    },
+    {
+     "en": "scrambled eggs",
+     "fr": "œufs brouillés",
+     "de": "Rührei",
+     "es": "huevos revueltos",
+     "it": "uova strapazzate",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 6,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "soft-boiled egg",
+     "fr": "œ uf à la coque",
+     "de": "gekochteEi",
+     "es": "huevo tibio",
+     "it": "uovo alla coque",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 10,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "French toast",
+     "fr": "pain perdu",
+     "de": "in Eigebratene Brot",
+     "es": "pan francés",
+     "it": "pane fritto all'uovo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 17,
+      "es": 10,
+      "it": 17
+     }
+    },
+    {
+     "en": "smoked herring",
+     "fr": "skippers",
+     "de": "Raucherheringe",
+     "es": "arenques ahum ados",
+     "it": "aringhe affumicate",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 14,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "whipped cream",
+     "fr": "crème",
+     "de": "Sahne",
+     "es": "crema",
+     "it": "la",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 2
+     }
+    },
+    {
+     "en": "fruit yogurt",
+     "fr": "vaourt a u x fruits",
+     "de": "Früchtejoghurt",
+     "es": "yogurt de frutas",
+     "it": "yogurt alla frutta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 14,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "fresh fruit",
+     "fr": "fruits",
+     "de": "Obst",
+     "es": "fruta tresca",
+     "it": "frutta fresca",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 4,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "oatmeal",
+     "fr": "porridge",
+     "de": "Porridge",
+     "es": "avena",
+     "it": "porridge",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "waffles",
+     "fr": "gaufres",
+     "de": "Waffeln",
+     "es": "w affles",
+     "it": "waffle",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "crepes",
+     "fr": "crêpes",
+     "de": "Pfannkuchen",
+     "es": "crêpas",
+     "it": "crêpes",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,342 @@
+{
+ "page": 199,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • I F TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "bipiane",
+     "fr": "le biplan",
+     "de": "der Doppeldecker",
+     "es": "el biplano",
+     "it": "il biplano",
+     "_pos": [
+      674,
+      221
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glider",
+     "fr": "le planeur",
+     "de": "das Segelflugzeug",
+     "es": "el planeador",
+     "it": "l'aliante",
+     "_pos": [
+      472,
+      221
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ultralight",
+     "fr": "l'U .L .M",
+     "de": "das Ultraleichtflugzeug",
+     "es": "el ultraligero",
+     "it": "l'aereo biposto",
+     "_pos": [
+      267,
+      222
+     ],
+     "_flags": [
+      "fr:weird:.L",
+      "fr:weird:.M",
+      "fr:case"
+     ]
+    },
+    {
+     "de": "der Propeller",
+     "es": "la hélice",
+     "it": "l'elica",
+     "_pos": [
+      266,
+      321
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "light aircraft",
+     "fr": "l'avion léger",
+     "de": "das Leichtflugzeug",
+     "es": "la avioneta",
+     "it": "l'aereo da diporto",
+     "_pos": [
+      366,
+      418
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seaplane",
+     "fr": "l'hydravion",
+     "de": "das Wasserflugzeug",
+     "es": "el hidroavión",
+     "it": "l'idrovolante",
+     "_pos": [
+      675,
+      418
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hot-air balloon",
+     "fr": "la montgolfière",
+     "de": "der Heißluftballon",
+     "es": "el globo aerostático",
+     "it": "la mongolfiera",
+     "_pos": [
+      36,
+      420
+     ],
+     "_flags": []
+    },
+    {
+     "en": "supersonic jet",
+     "fr": "l'avion supersonique",
+     "de": "das Überschallflugzeug",
+     "es": "avión supersónico",
+     "it": "l'aereo supersonico",
+     "_pos": [
+      434,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pnvate jet",
+     "fr": "le jet privé",
+     "de": "der Privatjet",
+     "es": "el je t privado",
+     "it": "l'aereo privato",
+     "_pos": [
+      38,
+      618
+     ],
+     "_flags": [
+      "es:short:t"
+     ]
+    },
+    {
+     "en": "rotor blade",
+     "fr": "la pale de rotor",
+     "de": "das Rotorb! att",
+     "_pos": [
+      324,
+      645
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "de:weird:Rotorb!"
+     ]
+    },
+    {
+     "en": "missile",
+     "fr": "le missile",
+     "de": "die Rakete",
+     "es": "el mi sil",
+     "_pos": [
+      677,
+      650
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "fighter plane",
+     "fr": "le chasseur",
+     "de": "das Jagdflugzeug",
+     "es": "el caza",
+     "it": "l'aereo da caccia",
+     "_pos": [
+      607,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bomber",
+     "fr": "le bombardier",
+     "de": "das Bombenflugzeug",
+     "es": "el avión de bombardeo",
+     "it": "il bombardiere",
+     "_pos": [
+      324,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "helicopter",
+     "fr": "l'hélicoptère",
+     "de": "der Hubschrauber",
+     "es": "el helicóptero",
+     "it": "l'elicottero",
+     "_pos": [
+      40,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "carry-on luggage",
+     "fr": "les bagages à main",
+     "de": "das Handgepäck",
+     "es": "el equipaje de mano",
+     "it": "il bagaglio a mano",
+     "_pos": [
+      666,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "economy class",
+     "fr": "la classe économique",
+     "de": "die Economydass",
+     "es": "lada se turista",
+     "it": "la classe economica",
+     "_pos": [
+      478,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "land (v)",
+     "fr": "atterrir",
+     "de": "landen",
+     "es": "aterrizar",
+     "it": "atterrare",
+     "_pos": [
+      348,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "take off (v)",
+     "fr": "décoller",
+     "de": "starten",
+     "es": "despegar",
+     "it": "decollare",
+     "_pos": [
+      205,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pilot",
+     "fr": "le piloro",
+     "de": "der Pilot",
+     "es": "el piloto",
+     "it": "il pilota",
+     "_pos": [
+      54,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seatbelt",
+     "fr": "la ceinture de sécurité",
+     "de": "der Sicherheitsgurt",
+     "es": "el cm turón de seguridad",
+     "it": "la cintura di sicurezza",
+     "_pos": [
+      666,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "altitude",
+     "fr": "l'altitude",
+     "de": "die Höhe",
+     "es": "la altitud",
+     "it": "la quota",
+     "_pos": [
+      348,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "business class",
+     "fr": "la classe affaires",
+     "de": "die Businessdass",
+     "es": "la clase preferente",
+     "it": "la business class",
+     "_pos": [
+      478,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "copilot",
+     "fr": "le copi lore",
+     "de": "der Kopilot",
+     "es": "el copiloto",
+     "it": "il copilot3",
+     "_pos": [
+      54,
+      981
+     ],
+     "_flags": [
+      "it:num:copilot3"
+     ]
+    },
+    {
+     "en": "fly V",
+     "fr": "voler",
+     "de": "fliegen",
+     "es": "volar",
+     "it": "volare",
+     "_pos": [
+      206,
+      983
+     ],
+     "_flags": [
+      "en:short:V",
+      "en:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "i",
+   "pos": [
+    384,
+    373
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 5,
+  "flagged": 19,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 0
+ }
+}

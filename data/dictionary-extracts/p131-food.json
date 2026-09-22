@@ -1,0 +1,686 @@
+{
+ "page": 131,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "slice",
+     "fr": "tranche",
+     "de": "Scheibe",
+     "es": "rebanada",
+     "it": "fetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "loaf",
+     "fr": "pain",
+     "de": "Laib",
+     "es": "hogaza",
+     "it": "filone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "crust",
+     "fr": "croûte",
+     "de": "Kruste",
+     "es": "corteza",
+     "it": "crosta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "multigrain bread",
+     "fr": "pain complet",
+     "de": "Mehrkornbrot",
+     "es": "pan con grano",
+     "it": "pane di granaio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 11,
+      "de": 12,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "whole-wheat bread",
+     "fr": "pain de son",
+     "de": "Vollkornbrot",
+     "es": "pan integral",
+     "it": "pane integrale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 9,
+      "de": 12,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "brown bread",
+     "fr": "pain bis",
+     "de": "Graubrot",
+     "es": "pan negro",
+     "it": "pane nero",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "fìat bread",
+     "fr": "pain plat",
+     "de": "Fladenbrot",
+     "es": "pan sin levadura",
+     "it": "schiacciata",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "sourdough bread",
+     "fr": "pain au levain",
+     "de": "Sauerteigbrot",
+     "es": "pan fermentado",
+     "it": "pane aspro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 13,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "soda bread",
+     "fr": "pam à la bicarbonate de soude",
+     "de": "Sodabrot",
+     "es": "pan al bicarbonato sódico",
+     "it": "pane lievitato con bicarbonato di sodio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 24,
+      "de": 8,
+      "es": 22,
+      "it": 34
+     }
+    },
+    {
+     "en": "com bread",
+     "fr": "pain de mais",
+     "de": "Maisbrot",
+     "es": "pan de maíz",
+     "it": "pane di mais",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "fruit bread",
+     "fr": "pain aux raisins secs",
+     "de": "Rosinenbrot",
+     "es": "pan de frutas",
+     "it": "pane alla frutta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 11,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "roll",
+     "fr": "petit pain",
+     "de": "Brötchen",
+     "es": "panecillo",
+     "it": "filoncino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "bun",
+     "fr": "périr pain rond",
+     "de": "weiche Brötchen",
+     "es": "bollo",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 13,
+      "de": 14,
+      "es": 5
+     }
+    },
+    {
+     "en": "bagel",
+     "fr": "petit pain américain",
+     "de": "Hefebrotchen",
+     "es": "dona",
+     "it": "ciambella",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 18,
+      "de": 12,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "enspbread",
+     "fr": "biscuit scandinave",
+     "de": "Knäckebrot",
+     "es": "pan danés",
+     "it": "crackers",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "pita bread",
+     "fr": "pita",
+     "de": "Pitabrot",
+     "es": "pita",
+     "it": "pita",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 8,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "naan bread",
+     "fr": "naan",
+     "de": "Naan",
+     "es": "naan",
+     "it": "naan",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "eeded bread",
+     "fr": "pam aux graines",
+     "de": "Kömerbrot",
+     "es": "pan con semillas",
+     "it": "pane con semi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 9,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "slicer",
+     "fr": "machine à couper",
+     "de": "Brotschneider",
+     "es": "reban ador",
+     "it": "affettatrice",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 14,
+      "de": 13,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "breadcrumbs",
+     "fr": "chapelure",
+     "de": "Paniermehl",
+     "es": "pan molido",
+     "it": "briciole",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 10,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "prove (v)",
+     "fr": "lever",
+     "de": "gehen lassen",
+     "es": "levar",
+     "it": "lievitare",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 11,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "all-purpose flour",
+     "fr": "farine sans levure",
+     "de": "Mehl ohne Backpulver",
+     "es": "I a harina blanca",
+     "it": "farina semplice",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 16,
+      "de": 18,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "self-rising flour",
+     "fr": "farine avec la levure",
+     "de": "Mehl mit Backpulver",
+     "es": "harina con levadura",
+     "it": "farina autolievitante",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 18,
+      "de": 17,
+      "es": 17,
+      "it": 20
+     }
+    },
+    {
+     "en": "baker",
+     "fr": "boulanger",
+     "de": "Bäcker",
+     "es": "panadero",
+     "it": "panettiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "glaze (v)",
+     "fr": "glacer",
+     "de": "glasieren",
+     "es": "glasear",
+     "it": "glassare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "flute",
+     "fr": "Hüte",
+     "de": "Flöte",
+     "es": "barra",
+     "it": "filoncino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "nse (v)",
+     "fr": "sc lever",
+     "de": "aufgehen",
+     "es": "subir",
+     "it": "crescere",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 8,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "bread flour",
+     "fr": "farine traitée",
+     "de": "anqereicherte Mehl",
+     "es": "harina para pan",
+     "it": "farina per il pane",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 17,
+      "es": 13,
+      "it": 15
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

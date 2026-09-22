@@ -1,0 +1,501 @@
+{
+ "page": 126,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "cork",
+     "fr": "bouchon",
+     "de": "Korken",
+     "es": "corcho",
+     "it": "tannn",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "sunflower oil",
+     "fr": "huile de tournesol",
+     "de": "Sonnenblumenöl",
+     "es": "aceite de girasol",
+     "it": "folio di semi di girasole",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 14,
+      "es": 15,
+      "it": 21
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "walnut oil",
+     "fr": "huile de noix",
+     "de": "Walnussöl",
+     "es": "aceite de nueces",
+     "it": "olio di noce",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 9,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "grapeseed oil",
+     "fr": "huile de pépins de raisin",
+     "de": "Traubenkernöl",
+     "es": "aceite dese mil las de uva",
+     "it": "olio di semi d'uva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 21,
+      "de": 13,
+      "es": 21,
+      "it": 14
+     }
+    },
+    {
+     "en": "almond oil",
+     "fr": "huile d'amande",
+     "de": "Mandelöl",
+     "es": "aceite de almendras",
+     "it": "olio di mandorla",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 8,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "sesame seed oil",
+     "fr": "huile de sésame",
+     "de": "Sesamöl",
+     "es": "aceite de sésamo",
+     "it": "olio di sesamo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 7,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "hazelnut oil",
+     "fr": "huile de noisette",
+     "de": "Haselnussöl",
+     "es": "aceite de avellanas",
+     "it": "olio di noccioline",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 11,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "olive oil",
+     "fr": "huile d' olive",
+     "de": "Olivenöl",
+     "es": "aceite de oliva",
+     "it": "olio d'oliva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 8,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "herbs",
+     "fr": "herbes",
+     "de": "Krauter",
+     "es": "hierbas",
+     "it": "erbe aromatiche",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 14
+     }
+    },
+    {
+     "en": "flavored oil",
+     "fr": "huile parfumée",
+     "de": "aromatischeÖl",
+     "es": "aceite aromatizado",
+     "it": "olio aromatizzato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 13,
+      "es": 17,
+      "it": 16
+     }
+    }
+   ]
+  },
+  {
+   "slug": "oli",
+   "names": {
+    "en": "oils",
+    "fr": "les huiles",
+    "de": "die öle",
+    "es": "los aceites",
+    "it": "gli oli"
+   },
+   "entries": []
+  },
+  {
+   "slug": "confetture",
+   "names": {
+    "en": "sweet spreads",
+    "fr": "ics produits à tartiner",
+    "de": "der süße aufstrich",
+    "es": "las conservas dulces",
+    "it": "le confetture"
+   },
+   "entries": [
+    {
+     "en": "honeycomb",
+     "fr": "gâteau de miel",
+     "de": "Honigwabe",
+     "es": "panal",
+     "it": "favo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 9,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "set honey",
+     "fr": "miei solide",
+     "de": "feste Honig",
+     "es": "miel cristal izada",
+     "it": "miele condensato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "lar",
+     "fr": "pot",
+     "de": "Glas el tarro",
+     "it": "barattolo",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "lemon curd",
+     "fr": "pâle à rartiner au citron",
+     "de": "Zitronenaufstrich",
+     "es": "crema de limón",
+     "it": "crema al limone",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 21,
+      "de": 17,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "raspberry jam",
+     "fr": "confiture de framboises",
+     "de": "Himbeerkonfiture",
+     "es": "mermelada de frambuesa",
+     "it": "marmellata di lamponi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 21,
+      "de": 16,
+      "es": 20,
+      "it": 19
+     }
+    },
+    {
+     "en": "marmalade",
+     "fr": "confiture d'oranges",
+     "de": "Orangenmarmelade",
+     "es": "mermelada de naranja",
+     "it": "marmellata di agrumi",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 16,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "clear honey",
+     "fr": "ici liquide",
+     "de": "flüssige Honig",
+     "es": "mi e ilíquida",
+     "it": "miele sciolto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 13,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "maple syrup",
+     "fr": "sirop d",
+     "de": "Ahornsi",
+     "es": "m iei dt",
+     "it": "sciroppi",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

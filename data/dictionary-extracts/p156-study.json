@@ -1,0 +1,433 @@
+{
+ "page": 156,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "scienza",
+   "names": {
+    "en": "science",
+    "fr": "la science",
+    "de": "die wissenschaft",
+    "es": "las ciencias",
+    "it": "la scienza"
+   },
+   "entries": [
+    {
+     "en": "crucible",
+     "fr": "creuset",
+     "de": "Tiegel",
+     "es": "crisol",
+     "it": "crogiolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "bunsen burner",
+     "fr": "bec Bunsen",
+     "de": "Bunsenbrenner",
+     "es": "m echero Bunsen",
+     "it": "becco Bunsen",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 13,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "weight",
+     "fr": "poids",
+     "de": "Gewicht",
+     "es": "pesa",
+     "it": "peso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "laboratory",
+     "fr": "laboratoire",
+     "de": "Labor",
+     "es": "laboratorio",
+     "it": "laboratorio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 5,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "scales",
+     "fr": "balance",
+     "de": "Laborwaage",
+     "es": "báscula",
+     "it": "bilancia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "spring balance",
+     "fr": "balance a ressort",
+     "de": "Federwaage",
+     "es": "balanza de muelle",
+     "it": "bilancia a molla",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 10,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "tripod",
+     "fr": "trépied",
+     "de": "Dreifuß",
+     "es": "trípode",
+     "it": "treppiede",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "test tube",
+     "fr": "éprouvette",
+     "de": "Reagenzglas",
+     "es": "tubo de ensayo",
+     "it": "provetta",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 11,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "clamp stand",
+     "fr": "statit",
+     "de": "Stativ",
+     "es": "poste",
+     "it": "sostegno del morsetto",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 19
+     }
+    },
+    {
+     "en": "glass bottle",
+     "fr": "bouteille",
+     "de": "Glasflasche",
+     "es": "frasco de cristal",
+     "it": "bottiglia di vetro",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 11,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "rack",
+     "fr": "support",
+     "de": "Gestell",
+     "es": "portatubos",
+     "it": "rastrelliera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "clamp",
+     "fr": "pince",
+     "de": "Klammer",
+     "es": "brazo",
+     "it": "morsetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "stopper",
+     "fr": "bouchon",
+     "de": "Stöpsel",
+     "es": "tapón",
+     "it": "tappo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "funnel",
+     "fr": "entonnoir",
+     "de": "Trichter",
+     "es": "embudo",
+     "it": "imbuto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "timer",
+     "fr": "chronométré",
+     "de": "Zeitmesser",
+     "es": "cronòm etro",
+     "it": "cronometro",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "beaker",
+     "fr": "fiole",
+     "de": "Kolben",
+     "es": "matraz",
+     "it": "ampolla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "petn dish",
+     "fr": "boite de Pétri",
+     "de": "Petrischale",
+     "es": "cápsula de Petri",
+     "it": "capsula di Petri",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 11,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "experiment",
+     "fr": "expérience",
+     "de": "Versuch",
+     "es": "experimento",
+     "it": "esperimento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 7,
+      "es": 11,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

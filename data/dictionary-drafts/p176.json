@@ -1,0 +1,386 @@
+{
+ "page": 176,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • I I T R A V A I I • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "materials • les m atériaux • das Material • los m ateriales • i materiali",
+   "parts": [
+    "materials",
+    "les matériaux",
+    "das material",
+    "los materia les",
+    "i materiali"
+   ],
+   "entries": [
+    {
+     "en": "cinder block",
+     "fr": "le bloc de béton",
+     "de": "der Betonblock",
+     "es": "el bloque de hormigón",
+     "it": "il blocco di calcestruzzo",
+     "_pos": [
+      663,
+      268
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roof tile",
+     "fr": "la tuile « der Dachziegel",
+     "es": "la teja",
+     "it": "la tegola",
+     "_pos": [
+      459,
+      269
+     ],
+     "_flags": [
+      "missing:de",
+      "fr:weird:«"
+     ]
+    },
+    {
+     "en": "timber",
+     "fr": "le bois",
+     "de": "das Bauholz",
+     "es": "la madera",
+     "it": "il legno",
+     "_pos": [
+      242,
+      269
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oriek",
+     "fr": "la brique",
+     "de": "der Ziegelstein",
+     "es": "el ladrillo",
+     "it": "'! mattone",
+     "_pos": [
+      26,
+      270
+     ],
+     "_flags": [
+      "it:weird:'!"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "tools • les outils • die Werkzeuge • las herram ientas • gli attrezzi",
+   "parts": [
+    "tools",
+    "les outils",
+    "die werkzeuge",
+    "las herram ientas",
+    "gli attrezzi"
+   ],
+   "entries": [
+    {
+     "en": "mortar",
+     "fr": "le mortier",
+     "de": "1er Mörtel",
+     "es": "la argamasa",
+     "it": "la malta",
+     "_pos": [
+      27,
+      371
+     ],
+     "_flags": [
+      "de:num:1er"
+     ]
+    },
+    {
+     "en": "handle",
+     "fr": "le manche",
+     "de": "der Stiel",
+     "es": "el mango",
+     "it": "il manico",
+     "_pos": [
+      554,
+      436
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sledgehammer",
+     "fr": "le marteau de forgeron",
+     "de": "der Vorschlaghammer",
+     "es": "el mazo",
+     "it": "la mazza",
+     "_pos": [
+      460,
+      552
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pickax - la pioche",
+     "de": "die Spitzhacke",
+     "es": "el zapapico",
+     "it": "il piccone",
+     "_pos": [
+      624,
+      553
+     ],
+     "_flags": [
+      "missing:fr",
+      "en:short:-"
+     ]
+    },
+    {
+     "en": "shovel",
+     "fr": "la pelle",
+     "de": "die Schaufel",
+     "es": "la pala",
+     "it": "la pala",
+     "_pos": [
+      760,
+      553
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spirit level",
+     "fr": "le niveau à bulle",
+     "de": "die Wasserwaage",
+     "es": "el nivel",
+     "it": "la livella",
+     "_pos": [
+      244,
+      554
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trowel",
+     "fr": "la truelle",
+     "de": "die Kelle",
+     "es": "la paleta",
+     "it": "la cazzuola",
+     "_pos": [
+      28,
+      554
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roadwork",
+     "fr": "les travaux » die Straßenarbeiten",
+     "_pos": [
+      462,
+      640
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "fr:weird:»"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "machinery • les machines • die Maschinen",
+   "parts": [
+    "machinery",
+    "les machines",
+    "die maschinen"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• las obras viales • i lavori stradali",
+   "parts": [
+    "las obras viales",
+    "i lavori stradali"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• la m aquinaria • i macchinari",
+   "parts": [
+    "la m aquinaria",
+    "i macchinari"
+   ],
+   "entries": [
+    {
+     "en": "tarmac",
+     "fr": "le macadam goudronné",
+     "de": "der Asphalt",
+     "es": "el asfalto",
+     "it": "il catrame",
+     "_pos": [
+      461,
+      704
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cone",
+     "fr": "le cône",
+     "de": "der Leitkegel",
+     "es": "el cono",
+     "it": "il birillo",
+     "_pos": [
+      557,
+      837
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dump truck",
+     "fr": "le tombereau",
+     "de": "der Kipper",
+     "es": "el camión de volteo",
+     "it": "il camion con cassone ribaltabile",
+     "_pos": [
+      230,
+      855
+     ],
+     "_flags": []
+    },
+    {
+     "en": "steam roller",
+     "fr": "le rouleau compresseur",
+     "de": "die Walze",
+     "es": "la aplanadora",
+     "it": "il rullo compressore",
+     "_pos": [
+      30,
+      856
+     ],
+     "_flags": []
+    },
+    {
+     "en": "support",
+     "fr": "le support",
+     "de": "die Stütze",
+     "es": "el",
+     "_pos": [
+      298,
+      914
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "",
+     "fr": "fII j ' resurfacing le revêtement",
+     "de": "der Neubelag",
+     "es": "el revestimiento pola mecánica",
+     "it": "la riasfalta tura",
+     "_pos": [
+      612,
+      965
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "fr:short:j",
+      "fr:short:'"
+     ],
+     "_alts": [
+      {
+       "en": "■ fII",
+       "fr": "j ' resurfacing le revêtement",
+       "de": "der Neubelag",
+       "es": "el revestim iento pola mecánica",
+       "it": "la riasfalta tura"
+      },
+      {
+       "en": "■ fII j",
+       "fr": "' resurfacing le revêtement",
+       "de": "der Neubelag",
+       "es": "el revestim iento pola mecánica",
+       "it": "la riasfalta tura"
+      }
+     ]
+    },
+    {
+     "en": "pneumatic drill",
+     "fr": "le m arteau-piqueur",
+     "de": "der Pressluftbohrer",
+     "es": "el martillo neumático",
+     "it": "il martello pneumatico",
+     "_pos": [
+      464,
+      1003
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "mechanical digger",
+     "fr": "la pelle mécanique",
+     "de": "der Bagger",
+     "es": "la",
+     "_pos": [
+      732,
+      1019
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "hook",
+     "fr": "le crochet",
+     "de": "der Haken",
+     "es": "el gancho",
+     "it": "il gancio",
+     "_pos": [
+      26,
+      1023
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "l'escavatrice meccanica",
+     "_pos": [
+      734,
+      1087
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "crane",
+     "fr": "la grue",
+     "de": "der Kran",
+     "es": "la grúa",
+     "it": "la gru",
+     "_pos": [
+      116,
+      1089
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 2,
+  "flagged": 21,
+  "missing_lang": 6,
+  "leftovers": 0,
+  "subcats": 5
+ }
+}

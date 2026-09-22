@@ -1,0 +1,586 @@
+{
+ "page": 261,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "altri-lavori-artigianali",
+   "names": {
+    "en": "other crafts",
+    "fr": "les autres arts",
+    "de": "andere kunstfertigkeiten",
+    "es": "las otras maniialidades",
+    "it": "altri lavori artigianali"
+   },
+   "entries": [
+    {
+     "en": "ink",
+     "fr": "encre",
+     "de": "Druckfarbe",
+     "es": "tinta",
+     "it": "inchiostro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 10,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "sketch",
+     "fr": "croquis",
+     "de": "Skizze",
+     "es": "boceto",
+     "it": "schizzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "sketchbook",
+     "fr": "carnet à croquis",
+     "de": "Skizzenblock",
+     "es": "bloc de dibujo",
+     "it": "blocco per schizzi",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 12,
+      "es": 12,
+      "it": 16
+     }
+    },
+    {
+     "en": "charcoal",
+     "fr": "fusain",
+     "de": "Kohlestift",
+     "es": "carboncillo",
+     "it": "carboncino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 10,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "pencil",
+     "fr": "crayon",
+     "de": "Bleistift",
+     "es": "lápiz",
+     "it": "matita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "engraving",
+     "fr": "gravure",
+     "de": "Gravieren",
+     "es": "grabado",
+     "it": "incisione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "printing",
+     "fr": "imprimerie",
+     "de": "Drucken",
+     "es": "impresión",
+     "it": "stampa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 7,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "drawing",
+     "fr": "dessin",
+     "de": "Zeichnen",
+     "es": "dibujo",
+     "it": "disegno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "chisel",
+     "fr": "burin",
+     "de": "Meißel",
+     "es": "cincel",
+     "it": "scalpello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "mallet",
+     "fr": "maillet",
+     "de": "Schlegel",
+     "es": "mazo",
+     "it": "martello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "stone",
+     "fr": "pierre",
+     "de": "Stein",
+     "es": "piedra",
+     "it": "pietra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "wood",
+     "fr": "bois",
+     "de": "Holz",
+     "es": "madera",
+     "it": "legno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "modeling tool",
+     "fr": "spatule",
+     "de": "Modellierholz",
+     "es": "herramienta para modelar",
+     "it": "attrezzo per modellare",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 13,
+      "es": 22,
+      "it": 20
+     }
+    },
+    {
+     "en": "potter's wheel",
+     "fr": "tour de potier",
+     "de": "Drehscheibe",
+     "es": "tomo de alfarero",
+     "it": "tornio dava saio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 11,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "woodworking",
+     "fr": "sculpture sur bols",
+     "de": "Holzarbeit",
+     "es": "talla en madera",
+     "it": "falegnameria",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 16,
+      "de": 10,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "sculpting",
+     "fr": "sculpture",
+     "de": "Bildhauerei",
+     "es": "escultura",
+     "it": "scultura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "day",
+     "fr": "argile",
+     "de": "Ton",
+     "es": "arcilla",
+     "it": "argilla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 3,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "cardboard",
+     "fr": "Ir can o n",
+     "de": "Pappe",
+     "es": "cartulina",
+     "it": "cartone",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 5,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "glue",
+     "fr": "colle",
+     "de": "Klebstoff",
+     "es": "pegamento",
+     "it": "colla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 9,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "pottery",
+     "fr": "poterie",
+     "de": "Töpferei",
+     "es": "cerámica",
+     "it": "lacer amica",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "collage",
+     "fr": "collage",
+     "de": "Collage",
+     "es": "collage",
+     "it": "collage",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "model-making",
+     "fr": "m odélism e",
+     "de": "Modellbau",
+     "es": "m odelism o",
+     "it": "modellismo",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "origami",
+     "fr": "origam i",
+     "de": "Origami",
+     "es": "papiroflexia",
+     "it": "lungarni",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "papier-màché",
+     "fr": "papier mâche",
+     "de": "Papiermaché",
+     "es": "papel m achó",
+     "it": "cartapesta",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "lewelry making",
+     "fr": "joaillerie",
+     "de": "Juwelierarbeit",
+     "es": "orfebrería",
+     "it": "oreficeria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 10,
+      "de": 14,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

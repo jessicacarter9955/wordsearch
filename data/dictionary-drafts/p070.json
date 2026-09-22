@@ -1,0 +1,394 @@
+{
+ "page": 70,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N * • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "playing • le jeu • das Spielen • los juegos • il gioco",
+   "parts": [
+    "playing",
+    "le jeu",
+    "das spielen",
+    "los juegos",
+    "il gioco"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "safety • la sécurité • die",
+   "parts": [
+    "safety",
+    "la sécurité",
+    "die"
+   ],
+   "entries": [
+    {
+     "_pos": [
+      676,
+      108
+     ],
+     "_flags": [
+      "oriz:7p"
+     ],
+     "_parts": [
+      "Sicherheit",
+      "la seguridad",
+      "la sicurezza child latches",
+      "la serrure de sécurité",
+      "die Kindersicherung",
+      "el cierre de seguridad",
+      "il fermo di sicurezza"
+     ]
+    },
+    {
+     "en": "doli",
+     "fr": "la poupée",
+     "de": "die Puppe",
+     "es": "la muñeca",
+     "it": "lo bambola",
+     "_pos": [
+      94,
+      122
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dollhouse",
+     "fr": "la maison Je poupée",
+     "de": "das Puppenhaus",
+     "es": "la casa de muñecas",
+     "it": "la casa delle bambole",
+     "_pos": [
+      250,
+      287
+     ],
+     "_flags": []
+    },
+    {
+     "en": "playhouse",
+     "fr": "la maison pliante",
+     "de": "das Spielhaus",
+     "es": "la casa de juguete",
+     "it": "la casa da gioco",
+     "_pos": [
+      462,
+      287
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spiffed toy",
+     "fr": "le jouet en peluche",
+     "de": "das Kuscheltier",
+     "es": "el muñeco de peluche",
+     "it": "il giocattolo di pezza",
+     "_pos": [
+      34,
+      288
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baby monitor",
+     "fr": "le moniteur",
+     "de": "die Babysprechanlage",
+     "es": "el intercom unicador",
+     "it": "la trasmittente",
+     "_pos": [
+      676,
+      320
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teddy bear",
+     "fr": "Tours en peluche",
+     "de": "der Teddy",
+     "es": "el oso de peluche",
+     "it": "l'orsacchiotto",
+     "_pos": [
+      248,
+      371
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "toy",
+     "fr": "le jouet",
+     "de": "das Spielzeug",
+     "es": "el juguete",
+     "it": "il giocattolo",
+     "_pos": [
+      248,
+      452
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ball",
+     "fr": "la balle",
+     "de": "der Ball",
+     "es": "la pelota",
+     "it": "la palla",
+     "_pos": [
+      362,
+      452
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stair gate",
+     "fr": "la barrière d'cscalier",
+     "de": "das Treppengitter",
+     "es": "la barrera de seguridad",
+     "it": "lo sbarramento",
+     "_pos": [
+      678,
+      535
+     ],
+     "_flags": []
+    },
+    {
+     "en": "playpen",
+     "fr": "le pare",
+     "de": "der Laufstall",
+     "es": "el corral",
+     "it": "il box",
+     "_pos": [
+      434,
+      551
+     ],
+     "_flags": []
+    },
+    {
+     "en": "voy basket",
+     "fr": "le panier à jouets",
+     "de": "der Spielzeugkorb",
+     "es": "el cesto de los juguetes",
+     "it": "il cesto dei giocattoli",
+     "_pos": [
+      37,
+      552
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "going out • la sorrie • das Ausgehen • el paseo • la passeggiata",
+   "parts": [
+    "going out",
+    "la sorrie",
+    "das ausgehen",
+    "el paseo",
+    "la passeggiata"
+   ],
+   "entries": [
+    {
+     "en": "eating",
+     "fr": "le manger",
+     "it": "il pasto",
+     "_pos": [
+      36,
+      626
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "• das Essen • la comida",
+   "parts": [
+    "das essen",
+    "la comida"
+   ],
+   "entries": [
+    {
+     "en": "hood",
+     "fr": "la capote",
+     "de": "das Verdeck",
+     "es": "la capota",
+     "it": "la capote",
+     "_pos": [
+      613,
+      667
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stroller",
+     "fr": "la poussette",
+     "de": "der Sportwagen",
+     "es": "la carriola",
+     "it": "il passeggino",
+     "_pos": [
+      250,
+      833
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baby buggy",
+     "fr": "le landau",
+     "de": "der Kinderwagen",
+     "es": "la carriola",
+     "it": "la carrozzina",
+     "_pos": [
+      464,
+      833
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      36,
+      834
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "'»gh chair",
+      "la chaise haute",
+      "der Kinderstuhl",
+      "la periquera",
+      "il seggiolone nipple",
+      "la retine",
+      "der Sauger",
+      "el chupón",
+      "la Tettarella"
+     ]
+    },
+    {
+     "en": "diaper",
+     "fr": "la couche",
+     "de": "die Windel",
+     "es": "el pañal",
+     "it": "il pannolino",
+     "_pos": [
+      594,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drinking cup",
+     "fr": "la tasse",
+     "de": "der Babybecher",
+     "es": "la taza",
+     "_pos": [
+      122,
+      949
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "diaper bag",
+     "fr": "le sac",
+     "de": "die Babytasche",
+     "es": "la pañalera",
+     "it": "la borsa dei ricambi",
+     "_pos": [
+      466,
+      1048
+     ],
+     "_flags": []
+    },
+    {
+     "en": "front pack",
+     "fr": "le porte-bebé",
+     "de": "die Babytrageschlinge",
+     "es": "la cangurera",
+     "it": "il marsupio",
+     "_pos": [
+      680,
+      1048
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bassinet",
+     "fr": "le couffin",
+     "de": "das Tragebeuchen",
+     "es": "el bam bineto",
+     "it": "la culla portatile",
+     "_pos": [
+      252,
+      1049
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bottle",
+     "fr": "le biberon",
+     "de": "die Babyflasche",
+     "es": "la marnila",
+     "it": "il biberon",
+     "_pos": [
+      36,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "?",
+   "pos": [
+    332,
+    658
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "1",
+   "pos": [
+    378,
+    658
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "la tazza per bere",
+   "pos": [
+    90,
+    1015
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 4,
+  "flagged": 19,
+  "missing_lang": 2,
+  "leftovers": 3,
+  "subcats": 4
+ }
+}

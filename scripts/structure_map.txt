@@ -1,0 +1,326 @@
+page	header	sub	nlines
+1	—	—	36
+2	—	—	1
+3	—	—	64
+4	—	—	85
+5	—	—	161
+6	—	—	110
+7	—	—	152
+8	—	—	102
+9	—	—	5
+10	P EO P LE • I F.S GENIS • DIE MENSCHEN • L A GENTE • LE PERSONE	body • le corps • der Körper • el cuerpo • ¡I corpo	91
+11	P EO P LE • L E S GENS • DIE MENSCHEN • L A GENTE • LE PERSONE	—	75
+12	P E O P LE • LES GENS • DIE MENSCHEN • L A GENTE • LE PERSONE	face • le visage • das Gesicht • la cara • la faccia	84
+13	PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE	—	124
+14	PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE	—	81
+15	PEO PLE • LES GENS • DIE MENSCHEN • L A GENTE • LE PERSONE	skeleton • le squelette • das Skelett • el esqueleto • lo scheletro	130
+16	PEO PLE ■ LES GENS • DIE MENSCHEN • LA G E N T E • LE PERSONE	—	75
+17	PEO PLE • I FS G E N S • DIE MENSCHEN • L A G E N T E • LE PERSONE	head • la tête • der Kopf • la cabeza • la testa	95
+18	P EO P LE • LES GENS • DIE MENSCHEN • I A GENTE • LE PERSONE	—	112
+19	PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE	—	80
+20	P EO P LE • L E S G E N S • DIE MENSCHEN • L A G E N T E • LE PERSONE	family • la famille • die Familie • la familia • la fam iglia	50
+21	PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE	—	130
+22	PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE	relationships • les relations • die Beziehungen • las relaciones	67
+23	PEO PLE • LES GF NS • DIE MENSCHEN • LA GENTE • LE PERSONE	emotions • les émotions • die Gefühle • las emociones • le emozioni	85
+24	PEO PLE • ! ES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE	life events • les événements de la vie • die Ereignisse des Lebens	95
+25	PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE	celebrations • les fetes • die Feste • las celebraciones • le celebrazioni	60
+26	—	—	5
+27	A P P E A R A N C E • I.*APPARENCE • DIE ÄUSSERE ERSCHEINUNG • l.A APARIENCIA • L’ASPETTO	—	87
+28	A P P E A R A N C E • L ’ A P P A R E N C E • DIE AUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO	—	122
+29	men's clothing • les vêtements pour hommes • die Herrenkleidung	—	120
+30	A P P E A R A N C E • L’APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L’ASPETTO	blazer • le blazer • der Blazer	70
+31	A P P E A R A N C E • L’APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO	—	81
+32	A P P E A R A N C E • l 'APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L’ASPETTO	—	118
+33	A P P E A R A N C E • L’ A P P A R E N C E • DIE ÄUSSERE ERSCHEINUNG • L A A P A R IE N C IA • L'ASPETTO	accessories • les accessoires • die Accessoires • los accesorios	105
+34	A P P E A R A N C E • L'APPARENCE • DIE AUSSERE ERSCHEINUNG • l.A APARIENCIA • L’ASPETTO	cuffie bag • le fourre-cuut • die	104
+35	A P P E A R A N C E • I APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO	hair • les cheveux • das Haar • el cabello • ¡ capelli	82
+36	A P P E A R A N C E • L’APPARENCE • DIE ÄUSSERE ERSCHEINUNG • LA APARIENCIA • L’ASPETTO	styles • les coiffures • die Frisuren • los estilos • le acconciature	131
+37	A P P E A R A N C E • I A P P A R E N C E • DIE AUSSERE ERSCHEINUNG • LA APARIENCIA • L'ASPETTO	beauty • la beauté • die Schönheit • la belleza • la bellezza	83
+38	A P P E A R A N C E • L’APPARENCE • DIE ÄUSSERE ERSCHEINUNG • L A APARIENCIA • L'AS PETTO	beauty treatments • les soins de beauté • die	143
+39	—	—	5
+40	H E A LT H • LA SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE	illness • la maladie • die Krankheit • la enfermedad • la malattia	139
+41	H EA LTH • LA SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE	doctor • le médecin • der Arzt • el doctor • il medico	90
+42	H E A LT H • I.A SANTÉ • DIE GESUNDHEIT • L A S A L U D • LA SALUTE	injury • la blessure • die Verletzung • la lesión • la ferita	103
+43	H EA LTH • I A S A N T É • DIE GESUNDHEIT • LA SALUD • LA SALUTE	first aid • les premiers secours • die erste Hilfe • los primeros	103
+44	H EA LTH • I.A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE	—	109
+45	H EA LTH • L A S A N T É • DIE GESUNDHEIT • L A S A L U D • LA SALUTE	departments • les services • die Abteilungen • los servicios • i reparti	93
+46	H EA LTH • LA S A N T É • DIE GESUNDHEIT • LA S A L U D • LA SALUTE	dentist • le dentiste • der Zahnarzt • el dentista • il dentista	140
+47	H E A LT H • I A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE	optician • l’opticien • der Augenoptiker • el óptico • l'ottico	124
+48	H EA LTH • LA SANTÉ • DIE GESUMDHEIT • LA SALUD • LA SALUTE	pregnancy • la grossesse • die Schwangerschaft • el embarazo	160
+49	H E A LT H • L A S A N T É . • DIE GESUNDHEIT • L A S A L U D • LA SALUTE	childbirth • la naissance • die Geburt • el parto • il parto	62
+50	H EA LTH • I A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE	—	33
+51	H E A LT H • L A S A N T E • DIE GESUNDHEIT • L A S A L U D • LA SALUTE	—	81
+52	—	—	0
+53	HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA	house • la maison • das Haus • la casa • la casa	157
+54	HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA	e n tra n c e • l'e n tré e • der Eingang • la entrada • l’in g resso	58
+55	H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA	internal systems • les systèmes domestiques • die Hausanschlüsse	116
+56	HOME • L A MAISON • DAS HAUS • LA CASA • LA CASA	plumbing • la plomberie • die Installation • la fontanería	155
+57	HOME • I.A MAISON • DAS HAUS • LA CASA • LA CASA	living room • le salon • das Wohnzimmer • la sala	58
+58	HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA	—	65
+59	H O M E • I .A M A IS O N • DAS HAUS • L A C A S A • LA CASA	dining room • la salle à manger • das Esszimmer	135
+60	H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA	crockery and cutlery • la v a is s e lle et le s c o u v e r t s • das Geschirr und das Besteck	90
+61	H O M E • L A M A IS O N • DAS HAUS • L A CASA • LA CASA	kitchen • la cuisine • die Küche • la cocina • la cucina	93
+62	H O M E • I A M A IS O N • DAS HAUS * I.A C A S A • LA CASA	—	123
+63	H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA	kitchenware • les ustensiles de cuisine • die Küchengeräte	123
+64	H O M E • T.A M A IS O N • DAS HAUS • I A C A S A • IA CASA	lid • le couvercle • der Deckel	98
+65	HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA	bedroom • la chambre • das Schlafzimmer • la recámara	73
+66	HOME • I A MAISON • DAS HAUS • LA CASA • LA CASA	bed linen • le linge de lir • die Bettwäsche	125
+67	H O M E • LA M A IS O N • DAS HAUS • L A C A S A • LA CASA	bathroom • la salle de bain • das Badezimmer • el baño	115
+68	HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA	—	89
+69	HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA	—	74
+70	H O M E • L A M A IS O N * • DAS HAUS • L A C A S A • LA CASA	playing • le jeu • das Spielen	99
+71	H O M E - I A M A IS O N • DAS HAUS • L A C A S A • LA CASA	utility room • la buanderie • der Allzweckraum • la lavandería	99
+72	HOME • L A MAISON • DAS HAUS • LA CASA • LA CASA	detergent • le detergent • das	72
+73	H O M E • I A M A IS O N • DAS HAUS • LA CASA • LA CASA	w orkshop • l’atelier • die Heimwerkstatt • el taller • il laboratorio	83
+74	H O M E • L A M A IS O N • DAS HAUS • L A CASA • LA CASA	techniques • les techniques • die Fertigkeiten • las técnicas • le tecniche	83
+75	H O M E • I .A M A IS O N • DAS HAUS • L A C A S A • LA CASA	toolbox • la boîte à o u tils • der Werkzeugkasten • la caja de las	108
+76	HOME • I A MAISON • DAS HAUS • l.A CASA • LA CASA	—	85
+77	H O M E • L A M A IS O N • DAS HAUS • LA CASA • LA CASA	decorating • la décoration • das Tapezieren • la decoración	73
+78	HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA	—	138
+79	HOME • I .A MAISON • DAS HAUS • LA CASA • LA CASA	garden • le jardin • der Garten • el jardín	46
+80	H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA	—	92
+81	H O M E • LA M A IS O N • DAS HAUS • L A CASA • LA CASA	garden plants • les plantes de jardin • die Gartenpflanzen	47
+82	H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA	—	51
+83	H O M E • I A M A IS O N • DAS HAUS • L A C A S A • LA CASA	gardening tools • les outils de jardin • die Gartengeräte	78
+84	H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA	—	105
+85	H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA	gardening • le jardinage • die Gartenarbeit • la jardinería	52
+86	H O M E • L A M A IS O N • DAS HAUS • I.A C A S A • LA CASA	train (v) • palisser • ziehen	114
+87	—	—	5
+88	S ER V IC ES • I F S S E R V IC E S • DIE DIENSTLEISTUNGEN • L O S S E R V IC IO S • I SERVIZI	em ergency services • les services d’urgence • die Notdienste	121
+89	S ER V IC ES • I HS SERVICES • DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI	fire department • les pompiers • die Feuerwehr • los bomberos • i vigili del	98
+90	S ER V IC ES • LES SERVICES • DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI	bank • la banque • die Bank • el banco • la banca	150
+91	S ER V IC ES • I ES SERVICES • DIE DIENSTLEISTUNGEN • EOS SERVICIOS • I SERVIZI	—	125
+92	S ER V IC ES • I I s S E R V IC E S • DIE DIENSTLEISTUNGEN • L O S S E R V IC IO S • I SERVIZI	communications • les communications • die Kommunikation	133
+93	S ER V IC ES • LES SERVICES • DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI	—	124
+94	S ER V IC ES • 1 R S S E R V I C E S • DIE DIENSTLEISTUNGEN • L O S S E R V IC IO S • I SERVIZI	hotel • l’hôtel • das Hotel • el hotel • l'albergo	78
+95	S ER V IC ES • LES SERVICES • DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI	services • les services • die Dienstleistungen • los servicios • i S ervizi	74
+96	—	—	5
+97	S H O P P IN G • LES C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI	shopping mall • le centre commercial • das Einkaufszentrum	109
+98	S H O P P IN G • I ES C O U R S E S • DER EINKAUF • L A S C O M P R A S • GLI ACQUISTI	department store • le grand magasin • das Kaufhaus • las tiendas departamentales • il grande magazzino	61
+99	S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LA S C O M P R A S • GLI ACQUISTI	superm arket • le supermarché • der Supermarkt • el supermercado	62
+100	S H O P P IN G • I F.S C O U R S E S • DER EINKAUF • LAS C O M P R A S • G II ACQUISTI	—	81
+101	SHOPPING • LUS COURSES • DER EINKAUF • LAS COMPRAS • GLI ACQUISTI	chemist • la pharmacie • die Apotheke • la farmacia • la farmacia	86
+102	S H O P P IN G • I FS C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI	—	155
+103	S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI	flohst • le fleuriste • das Blumengeschäft • la florería • il fioraio	68
+104	S H O P P IN G • LES C O U R S E S • DER EINKAUF • LAS COMPRAS • GLI ACQUISTI	vase • le vase • die	82
+105	S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI	newsstand • le marchand de journaux • der Zeitungshändler	62
+106	S H O P P IN G • 1 ES C O U R S E S • DER EINKAUF • I.AS C O M P R A S • GLI ACQUISTI	candy store • le confiseur • der Konditor • la dulcería	107
+107	S H O P P IN G • L L S C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI	other stores • les autres magasins • andere Geschäfte	49
+108	S H O P P IN G • I ES C O U R S E S • DER EINKAUF • L A S C O M P R A S • GLI ACQUISTI	—	72
+109	—	—	5
+110	F O O D • I A N O U R R I T U R E • DIE NAHRUNGSMITTEL • L O S A U M E N T O S • IL CIBO	meat • la viande • das Fleisch • la carne • la carne	110
+111	F O O D • L A N O U R R I T U R E • DIE NAHRUNGSMITTEL • L O S A L IM E N T O S • IL CIBO	cuts • les morceaux de viande • die Fleischsorten • los cortes • i tagli	110
+112	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO	english • français • deutsch • español • italiano	74
+113	FOOD • I.A NOURRITURE • DIE NAHRUNGSMITTEL • 1.0$ ALIMENTOS • IL CIBO	I seafood • les fruits de mer • die Meeresfrüchte • el marisco • i frutti di mare	136
+114	F O O D • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	vegetables I • les légumes 1 • das Gemüse	94
+115	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	arugula • la roquette • die	48
+116	FOOD • I A N OUR RITI IRK • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO	vegetables 2 • les légumes 2 • das Gemüse 2 • las verduras 2	144
+117	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	—	85
+118	FOOD • LA NOURRIT! R F • DIE NAHRUNGSMITTEL • LA COMIDA • IL CIBO	fruit I • le fruit 1 • das Obst 1 • la fruta 1 • la frutta 1	72
+119	F O O D • I .A N O U R R IT U R E • DIE NAHRUNGSMITTEL • L O S A U M E N T O S • IL CIBO	Demes and melons • les fruits rouges et les melons • das Beerenobst und die	146
+120	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • [.OS AUMENTOS • I l CIBO	—	92
+121	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	—	149
+122	FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	—	115
+123	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • l.OS AUMENTOS • IL CIBO	—	93
+124	FOOD • I .A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO	herbs and spices • les herbes et les épices • die Kräuter und Gewürze	84
+125	F O O D • L A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	—	67
+126	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	—	95
+127	F O O D • I .A N O U R R IT U R E • DIE NAHRUNGSMITTEL • L O S A L IM E N T O S • IL CIBO	—	107
+128	dairy products • les produits laitiers • die Milchprodukte • los	—	83
+129	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO	butter • le beurre • die Butter	139
+130	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	breads and flours • les pains et la farine • das Brot und das Mehl	54
+131	FOOD • LA \ OU R R IT U R 1 • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	—	117
+132	cakes and desserts • les g âteau x et les desserts • Kuchen und	Nachspeisen • la rep o stería • i dolci e i dessert	112
+133	FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO	—	85
+134	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	delicatessen • la charcuterie • die Feinkost • la charcutería • la salumeria	70
+135	FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	—	80
+136	FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO	drinks • les boissons • die Getränke • las bebidas • le bevande	86
+137	FO O D • I.A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO	alcoholic drinks • les boissons alcoolisées • die alkoholischen Getränke • las bebidas alcohólicas • le bevande	75
+138	—	—	5
+139	E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI	—	78
+140	EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMF.R FUERA • MANGIARE FUORI	rea • le thé • der Tee • el té • il tè	93
+141	EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • MANGIARE FUORI	bar • le bar • die Bar • el bar • il bar	94
+142	EATING OUT - SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • MANGIARE FUORI	—	81
+143	EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • MANGIARE FUORI	restaurant • le restaurant • das Restaurant • el restaurante	138
+144	E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • C O M E R HUERA • M ANGIARE FUORI	—	78
+145	E A T IN G OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI	fast food • la restauration rapide • der Schnellimbiss • la comida	98
+146	E A T IN G O U T • SORTIR MANGER • AUSW ÄRTS ESSEN • C O M E R FUERA • MANGIARE FUORI	—	89
+147	EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI	breakfast • le petit déjeuner • das Frühstück • el desayuno	87
+148	E A T IN G OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI	brioche • la brioche • die	85
+149	E A T IN G O U T • S O R T IR M A N G E R • AUSWÄRTS ESSEN • C O M E R F U E R A • M ANGIARE FUORI	dinner • le repas • die Hauptmahlzeit • la co m id a p rin c ip a l • la cena	48
+150	E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI	techniques • la préparation • die Zubereitung • las técnicas • i metodi	42
+151	—	—	5
+152	STUDY • L’É T U D E • DAS LERNEN • EL E S T U D IO • LO STUDIO	school • l’école • die Schule • la escuela • la scuola	117
+153	STUDY • L’ÉTUDE • DAS LERNEN • EL ESTl .'DIO • LO STUDIO	—	104
+154	STUDY • L’ÉTUDE • DAS LERNEN • EI. ESTUDIO • LO STUDIO	math • les mathématiques • die Mathematik • las matemáticas	114
+155	S T U D Y • L* É T U D E • DAS LERNEN • E I . E S T U D IO • LO STUDIO	unes • le s lig n e s • d ie Linien • la s lin e a s • le lin e e	148
+156	S T U D Y • [ É T U D E • DAS LERNEN • E L E S T U D IO • LO STUDIO	science • la science • die Wissenschaft • las ciencias • la scienza	73
+157	STUDY * L’É T U D E • DAS LERNEN • EL E S T U D I O • LO STUDIO	—	102
+158	STUDY • L’ÉTUDE • DAS LERNEN • EL ESTUDIO • LO STUDIO	college • l’enseignement supérieur • die Hochschule • la enseñanza	130
+159	STUDY • L’É T U D E • DAS LERNEN • E L E S T U D IO • LO STUDIO	lecture hall • la salle de cours • der Hörsaal • el auditorio	135
+160	—	—	5
+161	W O R K • l.E T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	office I • le bureau I • das Büro 1 • la oficina 1 • l'ufficio 1	133
+162	W O R K • L E T R AVA II • DIE ARBEIT • EL T R A B A J O • IL LAVORO	office supplies • les fournitures de bureau • der Bürobedarf • la papelería • gli articoli	107
+163	W O R K • LK T R A V A IL • DIE ARBEIT • I:L T R A B A J O • IL LAVORO	office 2 • le bureau 2 • das Büro 2 • la oficina 2 • l'ufficio 2	92
+164	W O R K • LH TRAVAIL • DIE ARBEIT • EL TRABAJO • IL LAVORO	business • les affaires • das Geschäft • los negocios • gli affari	113
+165	W O R K • I K T R AVA 11 • DIE ARBEIT • EL T R A B A JO • IL LAVORO	com puter • l’ordinateur • der Computer • la computadora • il computer	117
+166	WORK • LF. TRAVAIL • DIE ARBEIT • EL TRABAJO • IL LAVORO	desktop • ic bureau • das Desktop • el escritorio • il desktop	150
+167	W O R K • I H T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	media • les médias • die Medien • los medios de comunicación	96
+168	W O R K • L L I R A V A IL • DIE ARBEIT • EL TRABAJO • IL LAVORO	—	94
+169	W O R K • I I T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	law • le droit • das Recht • el derecho • la legge	96
+170	W O R K • LE T R A V A IL • DIE ARBEIT • El. T R A B A JO • IL LAVORO	—	113
+171	WORK • l,E TRAVAIL • DIE ARBEIT • EL TRABAIO • IL LAVORO	farm I • la ferme 1 • der Bauernhof 1 • la granja 1 • la fattoria 1	77
+172	W O R K • L E T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	types of farms • les exploitations agricoles • die landwirtschaftlichen Betriebe • los tipos de granja • i tipi di fattoria	89
+173	W O R K • L F T R AVAII. • DIE ARBEIT • E L T R A B A JO * IL LAVORO	farm 2 • la ferme 2 • der Bauernhof 2 • la granja 2 • la fattoria 2	40
+174	WORK • LE PRAVA 11 • DIE ARBEIT • EL TRABAJO • IL LAVORO	livestock • le bétail • das Vieh • el ganado • ¡I bestiame	60
+175	W O R K • L E T R A V A IL • DIE ARBEIT • FT. T R A B A J O • IL LAVORO	construction • la construction • der Bau • la construcción • l’edilizia	82
+176	W O R K • I I T R A V A I I • DIE ARBEIT • E L T R A B A J O • IL LAVORO	materials • les m atériaux • das Material • los m ateriales • i materiali	89
+177	W O R K • LI-: T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	—	63
+178	W O R K • I F T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	—	62
+179	W O R K . L E T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	—	66
+180	W O R K • LH T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO	—	53
+181	—	—	5
+182	T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI	roads • les routes • die Straßen • las carreteras • le strade	93
+183	T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	—	122
+184	—	bus • le bus • der Bus • el autobus • l'autobus	53
+185	T R A N S P O R T A T IO N • I .E T R A N S P O R T • DER VERKEHR • F l.T R A N S P O R T E • I TRASPORTI	—	70
+186	T R A N S P O R T A T IO N • T F T R A N S P O R T • DER VERKEHR • E L TRANSPORTE • I TRASPORTI	car I • la voiture 1 • das Auto 1 • el carro 1 • l'automobile 1	91
+187	T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI	types • les modèles • die Wagentypen • los modelos • i tipi	109
+188	T R A N S P O R T A T IO N • L L T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI	car 2 • la voiture 2 • das Auto 2 • el carro 2 • l'automobile 2	98
+189	T R A N S P O R T A T IO N • I F T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI	controls • les commandes • die Armaturen • los controles • i comandi	83
+190	T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VERKEHR • E I. T R A N S P O R T E • I TRASPORTI	car 3 • la voiture 3 • das Auto 3 • el carro 3 • l'automobile 3	90
+191	T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI	—	139
+192	T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	motorcycle • la moto • das Motorrad • la motocicleta	94
+193	T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	clothing • les vêtements • die Kleidung • el equipo • l'abbigliamento	66
+194	T R A N S P O R T A T IO N • L E TRANSPORT • DER VERKEHR	—	90
+195	T R A N S P O R T A T IO N • LF. TRANSPORT • DER VERKEHR • KL TRANSPORTE • I TRASPORTI	pump • la pompe • die	165
+196	T R A N S P O R T A T IO N • LE T R A N S P O R T • DER VERKEHR • L L TRANSPORTE • I TRASPORTI	train • le train • der Zug • el tren • il treno	67
+197	T R A N S P O R T A T IO N • I F T R A N S P O R T • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	—	136
+198	T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • KI. TRANSPORTE • I TRASPORTI	aircraft • Pavion • das Flugzeug • el avión • l'aeroplano	125
+199	T R A N S P O R T A T IO N • I F TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	bipiane • le biplan • der	96
+200	—	airport • l’aéroport • der Flughafen • el aeropuerto • l'aeroporto	112
+201	T R A N S P O R T A T IO N • L E TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	—	85
+202	T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	ship • le navire • das Schiff • el barco • la nave	127
+203	—	I R A N S P O R T • DER VERKEHR • E L IR A N S P O R T E • I TRASPORTI	68
+204	T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	port • le port • der Hafen • el puerto • ¡I porto	78
+205	T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI	—	80
+206	—	—	23
+207	SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	football • le football américain • der Football • el fútbol americano	115
+208	SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	rugby • le rugby • das Rugby • el rugby • ¡I rugby	55
+209	SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	soccer • le football • der Fußball • el fútbol • il calcio	60
+210	SP O R TS • I I S S P O R T S • DER SPORT • LOS DEPORTES • GU SPORT	—	133
+211	SPO R TS • LES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT	hockey • le hockey • das Hockey • el hockey • l'hoekey	89
+212	SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	cricket • le cricket • das Kricket • el criquet • il cricket	84
+213	SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	basketball • le basket • der Basketball • el baloncesto	102
+214	SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	actions • Ies actions • die Aktionen • las acciones • le azioni	55
+215	SPORTS • LLS SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT	baseball • le baseball • der Baseball • el béisbol	77
+216	SP O R TS • LES S P O R T S • DER SPORT • L O S D E P O R T E S • 6LI SPORT	—	64
+217	S P O R T S • LES S P O R T S • DER SPORT • L O S DEPORTES • GLI SPORT	tennis • le tennis • das Tennis • el tenis • il tennis	141
+218	SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	—	62
+219	SPORTS • I FS SPORTS • DER SPORT • T O S DEPORTES • GLI SPORT	golf • le golf • das Golf • el golf • ¡I golf	54
+220	SP O R TS • L K S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	equipment • l'équipement • die Ausrüstung • el equipo	129
+221	SP O R TS ■ L E S S P O R T S • DER SPORT • L O S D E P O R T E S • G il SPORT	track and field • l’athlétisme • die Leichtathletik • el atletismo • l’atletica	95
+222	S P O R T S • I ES S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	—	112
+223	SP O R TS • I ES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT	ludo • le judo • das Judo	48
+224	SPO R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORI	actions • les actions • die Techniken • los m ovim ientos • le mosse	108
+225	SP O R TS • I FS S P O R T S • DER SPORT • L O S D E P O R T E S • GU SPORT	swimming • la natation • der Schwimmsport • la natación • il nuoto	69
+226	SP O R TS • I .ES S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	styles • les styles • die Schwimmstile • los estilos • gli stili	112
+227	SPO R TS • L E S S P O R T S • DER SPORT • LOS DEPORTES • GLI SPORT	sailing • la voile • der Segelsport • la vela • la vela	83
+228	SP O R TS • LES S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	watersports • les sports aquatiques • der Wassersport • los deportes acuáticos • gli sport acquatici	127
+229	SP O R TS • I KS SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT	—	101
+230	SPO R TS • L E S SPORTS • DER SPORT • LOS DEPORTES • GLI SPOR I	events • Ics courses • die Veranstaltungen • las modalidades • le corse	90
+231	SPO R TS • L h S S P O R T S - DER SPORT • L O S DEPORTES • GLI SPORT	fishing • la peche • der Angelsport • la pesca • la pesca	60
+232	SP O R TS • I HS SPORTS • DER SPORT • L O S DEPORTES • GU SPORT	—	87
+233	SP O R TS • LES S P O R T S • DER SPORT • LOS DEPORTES • GL! SPORT	skiing • le sk i • der Skisport • el esquí • lo sci	58
+234	SP O R TS • I BS S P O R T S • DER SPORT • LOS DEPORTES » GLI SPORT	—	97
+235	SPORTS • I ES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT	other sports • les antres sports • die anderen Sportarten • los otros	36
+236	SPO R TS • LES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT	rally driving • le rallye • das	98
+237	SPO R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	fitness • le conditionnement physique • die Fitness • la forma fisica	55
+238	SPO R TS • LU S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT	exercises • les exercices • die Übungen • los ejercicios	117
+239	—	—	5
+240	LEIS U R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O	theater • le théâtre • das Theater • el teatro • ¡I teatro	134
+241	LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O	—	128
+242	LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O	orchestra • l’orchestre • das Orchester • la orquesta • l'orchestra	125
+243	LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL T EM P O LIB ER O	woodwind • les bois • die Holzblasinstrumente • el viento-madera • gli strumenti a fiato	78
+244	LEISU R E • LE T E M P S UBRE • DIE FREIZEIT • EL O C IO • IL TEMPO LIBERO	concert • le concert • das Konzert • el concierto • il concerto	84
+245	LEISU R E • L E TEMPS LIBRE • DIE FREIZEIT • E L O C IO • IL TEMPO UBERO	musical styles • les styles de musique • die Musikstile • los estilos musicales • gli stili musicali	56
+246	LEISU R E • I.E TEMPS UBRE • DIE FREIZEIT • EL O C IO • IL TEMPO LIBERO	sightseeing • le tourisme • die Besichtigungstour • el turismo	106
+247	LEISU R E • T F. T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO	attractions • les attractions • die Sehenswürdigkeiten • los lugares de interés • i luoghi d'interesse	58
+248	LEISU R E • Lfc T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO	outdoor activities • les activités de plein air • die Aktivitäten im Freien	48
+249	LEISU R E • L E T E M P S I IR R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO	activities • les activités • die Aktivitäten • las actividades • le attività	55
+250	LEISU R E • L E T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO	beach • la plage • der Strand • la playa • la spiaggia	30
+251	LEISU R E • L E T E M P S U B R E • DIE FREIZEIT • E L O C IO • Il TEMPO LIBERO	—	74
+252	LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIBER O	camping • le camping • das Camping • el camping	124
+253	LEISU R E • LE TEM PS LIBR E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O	—	66
+254	LEISU R E • l.E TEMPS L IB R E • DIE FREIZEIT • E l. O C IO • IL TEMPO LIBERO	home entertainm ent • les distractions à la maison • die Privatunter­	68
+255	LEISU R E • L E T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO	—	150
+256	LEISURE • LE TEMPS LIBRE • DIE FREIZEIT • EL O CIO • IL TEMPO LIBERO	photography • la photographie • die Fotografie • la fotografía	70
+257	LEISU R E • LE TEM PS LIBR E • D IE F R E IZ E IT • EL O C IO • IL TEM PO LIB ER O	photograph (v) • photographier • fotografieren • fotografiar • fotografare	92
+258	LEISU R E • LE TEM PS LIB R E • D IE F R E IZ E IT • EL O C IO • IL TEM P O LIBER O	games • les jeux • die Spiele • los juegos • i giochi	76
+259	LEISU R E • LE TEM PS LIB R E • D IE F R E IZ E IT • EL O C IO • IL T EM P O LIB ER O	—	167
+260	LEIS U R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL T EM P O LIB ER O	arts and crafts I • les arts et métiers 1 • das Kunsthandwerk 1	85
+261	LEISU R E • LE TEM PS LIBR E • DIE FREIZEIT • EL O C IO • IL TEM P O LIB ER O	other crafts • les autres arts • andere Kunstfertigkeiten • las otras maniialidades • altri lavori artigianali	102
+262	LEISU R E • I H T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO	arts and crafts 2 • les arts et métiers 2 • das Kunsthandwerk 2	97
+263	LEISU R E • L E T E M P S LIBRE • DIE FREIZEIT • EL OCIO • IL TEMPO LIBERO	—	126
+264	—	—	7
+265	E N V IR O N M E N T • T.’ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	space • l’espace • der Weltraum • el espado • lo spazio	129
+266	EN V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • E L M E D IO AMBIENTE • LAM BIENTE	space exploration • l’exploration spatiale • die Raumforschung	77
+267	E N V IR O N M E N T • L’ENVIRONNEMENT • DIE UMWELT • EL MF.DIO AMBIENTE • LAM BIENTE	Earth • la terre • die Erde • la Tierra • la Terra	74
+268	E N V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	volcano • le volcan • der Vulkan • el volcán • ¡I vulcano	101
+269	E N V IR O N M E N T • L’ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • LAM BIENTE	landscape • le paysage • die Landschaft • el paisaje • ¡I paesaggio	44
+270	E N V IR O N M E N T • L'EN V IRO N N EM EN T • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	plain • la plaine • die Ebene	42
+271	E N V IR O N M E N T • L’ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	—	148
+272	E N V IR O N M E N T • L’ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • LAM BIENTE	ram • la pluie • der Regen • la llu via	38
+273	E N V IR O N M E N T • L’ENVIRONNEMENT • DIE UMWELT • E L MEDIO AMBIENTE • LAM BIENTE	rocks • les roches • das Gestein • las rocas • le rocce	126
+274	EN V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • EL MEDIO A M B IE N T E • L AMBIENTE	minerals • les minéraux • die Mineralien	68
+275	E N V IR O N M E N T • I .'ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	—	80
+276	EN V IR O N M E N T • L ’ENVIRONNEMENT • DIE UMWELT • E L MEDIO A M RI ENTE • L'AMBIENTE	—	88
+277	EN V IR O N M E N T • L’ENVIRONNEMENT • DIE UMWELT • 1£L M E D IO AMBIENTE • L’AMBIENTE	animals 2 • les animaux 2 • die Tiere 2 • los animales 2 • gli animali 2	63
+278	E N V IR O N M E N T • L’ENVIRONNEMENT • DIE UMWELT • EL M E D IO AMBIENTE • L'AMBIENTE	goose • l’oie • die Gans	77
+279	animals 3 • les animaux 3 • die Tiere 3 • los animales 3 • gli animali 3	amphibians • les amphibiens • die Amphibien • los anfibios • gli anfibi	66
+280	E N V IR O N M E N T • l 'E N V IR O N N E M E N T • DIE UMWELT • E L M E D IO A M B IE N T E • L'AMBIENTF	—	112
+281	E N V IR O N M E N T • 1.'ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	—	78
+282	E N V IR O N M E N T • U EN V I R O N N H M K NT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	flowering plant • la piante à fleurs • die blühende Pflanze	90
+283	E N V IR O N M E N T • L ’ E N V IR O N N E M K N T • DIE UMWELT • FT, M E D IO A M B IE N T E • L’AMBIENTE	town • la ville • die Stadt • la ciudad • la città	80
+284	EN V IR O N M E N T • L 'E N V IR O N N E M E N T • DIE UMWELT • E l M E D IO A M B IE N T E • L’AMBIENTE	buildings • les bâtiments • die Gebäude • los edificios • gli edifici	86
+285	E N V IR O N M E N T • ['ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • L'AMBIENTE	church • l'église • die Kirche	78
+286	E N V IR O N M E N T • L'ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • LAM BIENTE	Ics styles • die Baustile • los estilos	51
+287	—	—	10
+288	R E FE R E N C E • I N F O R M A T I O N • DIE INFORMATION • L O S D A T O S • I DATI	time • l’heure • die Uhrzeit • el tiempo • l'ora	123
+289	REFERENCE • L’I N F O R M A T I O N • DIE INFORMATION • L O S D A TO S • I DATI	night and day • la nuit et le jour • die Nacht und der Tag • la noche y	91
+290	REFERENCE • L’I N F O R M A T I O N • DIE INFORMATION • LO S D A T O S • I DATI	calendar • le calendrier • der Kalender • el calendario • il calendario	137
+291	R E F E R E N C E • L’INFORMATION • DIE INFORMATION • LOS DATOS • I DATI	years • les ans • die Jahre • los años • gli anni	64
+292	R E FE R E N C E • L’ IN F O R M A T IO N • DIE INFORMATION • L O S D A T O S • I DATI	numbers • les nombres • die Zahlen • los números • i numeri	106
+293	R E FE R E N C E • L’INFORMATION • DIE INFORMATION • LOS DATOS • I DATI	—	115
+294	R EFE R E N C E • L 'IN F O R M A T IO N • DIE INFORMATION • L O S D A T O S • I DATI	—	106
+295	R E FE R E N C E • L 'IN F O R M A T IO N • DIE INFORMATION • L O S D A T O S • I DAfl	capacity • la capacité • das Fassungsvermögen • la capacidad • la capacita	91
+296	R E F E R E N C E • L 'IN F O R M A T IO N • DIE INFORMATION • L O S D A T O S • I DATI	—	71
+297	R E FE R E N C E • L 'IN F O R M A T IO N • DIE INFORMATION • L O S D A T O S • I DATI	—	59
+298	REFERENCE • L’I N F O R M A T I O N • DIE INFORMATION • L O S D A T O S • I DATI	—	68
+299	R E F E R E N C E • L'INFORMATION • DIE INFORMATION • LOS DATOS • I DATI	—	96
+300	REFERENCE • L’INFORMATION • DIE INFORMATION • LOS DATOS • I DATI	Europe • l’Europe • Europa • Europa • l'Europa	174
+301	R E F E R E N C E • L’INFORMATION • DIE INFORMATION • LOS DATOS • I DATI	Africa • l’Afrique • Afrika • Àfrica • l'Africa	160
+302	REFERENCE • L’INFORMATION • DIE INFORMATION • LOS DATOS • I DATI	Asia • l’Asie • Asien • Asia • l'Asia	73
+303	REFERENCE • L’INFORMATION • DIE INFORMATION • LOS DATOS • I DAII	—	54
+304	particles and antonyms • particules et antonymes • Partikeln und	Antonyme • partículas y antónimos • particelle e antonim i	206
+305	R E FE R E N C E • L’ IN F O R M A T IO N • DIE INFORMATION • L O S D A T O S • I DATI	—	202
+306	useful phrases • phrases utiles • praktische Redewendungen	—	182
+307	REFERENCE • L’INFORMATION • DIE INFORMATION • LOS DATOS • I DATI	—	203
+308	SPA N ISH IN D E X • IN D E X E S P A G N O L • SPANISCHES REGISTER • ÍN D IC E E S P A Ñ O L • INDICE SPAGNOLO	Spanish index • index espagnol • spanisches Register • índice	360
+309	SPA N ISH IN D E X • IN D E X E S P A G N O L • SPANISCHES REGISTER • IN D IC E E S P A Ñ O L • INDICE SPAGNOLO	—	388
+310	SPA N ISH IN D E X • IN D E X E S P A G N O L • SPANISCHES REGISTER • ÍN D IC E E S P A Ñ O L • INDICE SPAGNOLO	—	386
+311	SPA N ISH IN D E X • IN D E X E S P A G N O L • SPANISCHES REGISTER • IN D IC E E S P A Ñ O L • INDICE 5PAGN 0L0	—	388
+312	SPA N ISH IN D E X • INDEX ESPAGNOL • SPANISCHES REGISTER • ÍNDICE ESPAÑOL • INDICE SPAGNOLO	—	383
+313	SPA N ISH IN D E X • INDEX ESPAGNOL • SPANISCHES REGISTER • INDICE ESPAÑOL • INDICE SPAGNOLO	—	384
+314	SPA N ISH IN D E X • IN D E X E S P A G N O L • SPANISCHES REGISTER • ÍN D IC E E S P A Ñ O L • INDICE SPAGNOLO	—	379
+315	SPA N ISH IN D E X • IN D E X E S P A G N O l * SPANISCHES REGISTER • ÍN D IC E E S P A Ñ O L • INDICE SPAGNOLO	—	382
+316	SPA N ISH IN D E X • IN D E X ESPAGNOL • SPANISCHES REGISTER • IN D IC E ESPAÑOL ■ INDICE SPAGNOLO	—	383
+317	SPA N ISH IN D E X • IN D E X ESPAGNOL • SPANISCHES REGISTER • INDICE ESPAÑOL • INDICE SPAGNOLO	—	379
+318	SPANISH INDEX • INDEX ESPAGNOL • SPANISCHES REGISTER • ÍNDICE ESPAÑOL • INDICE SPAGNOLO	—	381
+319	5PA N ISH IN D E X • IN D K X E S P A G N O L • SPANISCHES REGISTER • ÍNDICE ESPAÑOL • INDICE SPAGNOLO	—	387
+320	SPANISH INDEX • INDEX ESPAGNOL • SPANISCHES REGISTER • INDICE ESPAÑOL • INDICE SPAGNOLO	—	386
+321	SPA N ISH IN D E X • IN D I X E S P A G N O L • SPANISCHES REGISTER • IN D IC E ES P A Ñ O L. • INDICE SPAGNOLO	—	381
+322	SPA N ISH IN D E X • IN D E X E S P A G N O L • SPANISCHES REGISTER • ÍN D IC E E S P A Ñ O L • INDICE SPAGNOLO	—	376
+323	—	SPA N ISH IN D E X • IN D E X E S P A G N O I • SPANISCHES REGISTER • IN D IC E E S P A Ñ O L • INDICE SPAGNOLO	24
+324	A C K N O W L E D G M E N T S • R E M E R C IE M E N T S • DANK • A G R A D E C IM IE N T O S • RINGRAZIAM ENTI	acknowledgm ents • remerciements • Dank • agradecimientos	158
+325	ENGLISH • FRENCH • GERMAN • SPANISH • ITALIAN	—	41

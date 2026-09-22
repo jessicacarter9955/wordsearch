@@ -1,0 +1,585 @@
+{
+ "page": 152,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "scuola",
+   "names": {
+    "en": "school",
+    "fr": "l'école",
+    "de": "die schule",
+    "es": "la escuela",
+    "it": "la scuola"
+   },
+   "entries": [
+    {
+     "en": "teacher",
+     "fr": "institutrice",
+     "de": "Lehrerin",
+     "es": "maestra",
+     "it": "insegnante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 8,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "chalkboard",
+     "fr": "tableau",
+     "de": "Tafel",
+     "es": "pizarrón",
+     "it": "lavagna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 5,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "schoolboy",
+     "fr": "écolier",
+     "de": "Schuljunge",
+     "es": "colegial",
+     "it": "scolaro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 10,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "school uniform",
+     "fr": "uniforme",
+     "de": "Schuluniform",
+     "es": "uniforme",
+     "it": "divisa scolastica",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 12,
+      "es": 8,
+      "it": 16
+     }
+    },
+    {
+     "en": "pupil",
+     "fr": "I'eleve",
+     "de": "Schüler",
+     "es": "alumno",
+     "it": "alunno",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "desk",
+     "fr": "pupitre",
+     "de": "Pult",
+     "es": "pupitre",
+     "it": "banco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "book bag",
+     "fr": "cartable",
+     "de": "Schultasche",
+     "es": "mochila",
+     "it": "cartella",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "chalk",
+     "fr": "craie",
+     "de": "Kreide",
+     "es": "gis",
+     "it": "gesso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 3,
+      "it": 5
+     }
+    },
+    {
+     "en": "schoolgirl",
+     "fr": "èco!ièrc",
+     "de": "Schulmädchen",
+     "es": "colegiala",
+     "it": "scolara",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "classroom",
+     "fr": "salle de classe",
+     "de": "Klassenzimmer",
+     "es": "salón",
+     "it": "aula",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 13,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "physics",
+     "fr": "physique",
+     "de": "Physik",
+     "es": "física",
+     "it": "fìsica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "La",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "history",
+     "fr": "histoire",
+     "de": "Geschichte",
+     "es": "historia",
+     "it": "storia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "art",
+     "fr": "art",
+     "de": "Kunst",
+     "es": "arte",
+     "it": "arte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    }
+   ]
+  },
+  {
+   "slug": "attività",
+   "names": {
+    "en": "activities",
+    "fr": "les activités",
+    "de": "die aktivitäten",
+    "es": "las actividades",
+    "it": "le attività"
+   },
+   "entries": [
+    {
+     "en": "chemistry",
+     "fr": "chimie",
+     "de": "Chemie",
+     "es": "química",
+     "it": "chimica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "geography",
+     "fr": "géographie",
+     "de": "Erdkunde",
+     "es": "geografía",
+     "it": "geografia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "music",
+     "fr": "musique",
+     "de": "Musik",
+     "es": "m ùsica",
+     "it": "musica",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "write (v)",
+     "fr": "écrire",
+     "de": "schreiben",
+     "es": "escribir",
+     "it": "scrivere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "read (v)",
+     "fr": "lire",
+     "de": "lesen",
+     "es": "leer",
+     "it": "leggere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "math",
+     "fr": "mathématiques",
+     "de": "Mathematik",
+     "es": "m atem áticas",
+     "it": "matematica",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 13,
+      "de": 10,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "biology",
+     "fr": "biologie",
+     "de": "Biologie",
+     "es": "labio logia",
+     "it": "biologia",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "literature",
+     "fr": "littérature",
+     "de": "Literatur",
+     "es": "literatura",
+     "it": "letteratura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 9,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "physical education",
+     "fr": "éducation physique",
+     "de": "Sport",
+     "es": "educación física",
+     "it": "educazione fisica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 17,
+      "de": 5,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "languages",
+     "fr": "langues",
+     "de": "Sprachen",
+     "es": "idiomas",
+     "it": "lingue",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "science",
+     "fr": "sciences",
+     "de": "Naturwissenschaft",
+     "es": "ciencia",
+     "it": "scienza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 17,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "draw (v)",
+     "fr": "dessiner",
+     "de": "zeichnen",
+     "es": "dibujar",
+     "it": "disegnare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "spell (v)",
+     "fr": "épeler",
+     "de": "buchstabieren",
+     "es": "deletrear",
+     "it": "scandire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 13,
+      "es": 9,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

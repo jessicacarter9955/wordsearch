@@ -1,0 +1,262 @@
+{
+ "page": 94,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES • 1 R S S E R V I C E S • DIE DIENSTLEISTUNGEN • L O S S E R V IC IO S • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "hotel • l'hôtel • das Hotel • el hotel • l'albergo lobby • le hall • die Empfangshalle • el lobby • l'ingresso",
+   "parts": [
+    "hotel",
+    "l'hôtel",
+    "das hotel",
+    "el hotel",
+    "l'albergo lobby",
+    "le hall",
+    "die empfangshalle",
+    "el lobby",
+    "l'ingresso"
+   ],
+   "entries": [
+    {
+     "en": "guest",
+     "fr": "le client",
+     "de": "der Gast",
+     "es": "el huésped",
+     "it": "l'ospite",
+     "_pos": [
+      56,
+      171
+     ],
+     "_flags": []
+    },
+    {
+     "en": "room key",
+     "fr": "la clef de la chambre",
+     "de": "der Zimmerschlüssel",
+     "es": "la llave de la habitación",
+     "it": "la chiave della eamera",
+     "_pos": [
+      352,
+      171
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pigeonhole",
+     "fr": "le casier",
+     "de": "das Fach",
+     "es": "la casilla",
+     "it": "la casella",
+     "_pos": [
+      786,
+      171
+     ],
+     "_flags": []
+    },
+    {
+     "en": "messages",
+     "fr": "les messages",
+     "de": "die Nachrichten",
+     "es": "los mensajes",
+     "it": "i messaggi",
+     "_pos": [
+      670,
+      172
+     ],
+     "_flags": []
+    },
+    {
+     "en": "receptionist",
+     "fr": "la réceptionniste",
+     "de": "die Empfangsdame",
+     "es": "la recepcionista",
+     "it": "\"addetta alla ricezior",
+     "_pos": [
+      764,
+      291
+     ],
+     "_flags": [
+      "it:weird:\"addetta"
+     ]
+    },
+    {
+     "en": "register",
+     "fr": "le registre",
+     "de": "das Gästebuch",
+     "es": "el registro",
+     "it": "il registro",
+     "_pos": [
+      763,
+      385
+     ],
+     "_flags": []
+    },
+    {
+     "en": "counter",
+     "fr": "U com ptoir",
+     "de": "der Schalter",
+     "es": "el mostrador",
+     "it": "il banco",
+     "_pos": [
+      764,
+      485
+     ],
+     "_flags": [
+      "fr:short:U",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "reception",
+     "fr": "la réception",
+     "de": "der Empfang",
+     "es": "la recepción- la ricezione",
+     "_pos": [
+      62,
+      584
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "luggage",
+     "fr": "les bagages",
+     "de": "das Gepäck",
+     "es": "el equipaje",
+     "it": "il bagaglio",
+     "_pos": [
+      302,
+      634
+     ],
+     "_flags": []
+    },
+    {
+     "en": "luggage rack",
+     "fr": "le diable",
+     "de": "der Kofferkuli",
+     "es": "el diablito",
+     "it": "il carrello",
+     "_pos": [
+      302,
+      733
+     ],
+     "_flags": []
+    },
+    {
+     "en": "room number",
+     "fr": "le numéro de chambre",
+     "de": "die Zimmernummer",
+     "es": "el número de la habitación",
+     "it": "il numero della caméra",
+     "_pos": [
+      670,
+      750
+     ],
+     "_flags": []
+    },
+    {
+     "en": "porter",
+     "fr": "le porteur",
+     "de": "der Hoteldiener",
+     "es": "el botones",
+     "it": "il facchino",
+     "_pos": [
+      58,
+      782
+     ],
+     "_flags": []
+    },
+    {
+     "en": "escaltor",
+     "fr": "l'ascenseur",
+     "de": "der Fahrstuhl",
+     "es": "el elevador",
+     "it": "l'ascensore",
+     "_pos": [
+      402,
+      783
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "rooms • les chambres • die Zimmer • los habitaciones • le camere",
+   "parts": [
+    "rooms",
+    "les chambres",
+    "die zimmer",
+    "los habitaciones",
+    "le camere"
+   ],
+   "entries": [
+    {
+     "en": "single room",
+     "fr": "la chambre simple",
+     "de": "das Einzelzimmer",
+     "es": "la habitación sencilla",
+     "it": "la camera singola",
+     "_pos": [
+      58,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "twin room",
+     "fr": "la chambre à deux lirs",
+     "de": "das Zweibettzimmer",
+     "es": "la habitación con dos cam as individuales",
+     "it": "la camera a due letti",
+     "_pos": [
+      486,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "private bathroom",
+     "fr": "la salle de bain privée",
+     "de": "das Privatbadezimmer",
+     "es": "el baño privado",
+     "it": "il bagno privato",
+     "_pos": [
+      702,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "double room",
+     "fr": "la chambre double",
+     "de": "das Doppelzimmer",
+     "es": "la habitación doble",
+     "it": "la camera doppia",
+     "_pos": [
+      272,
+      1015
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 7,
+  "flagged": 10,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

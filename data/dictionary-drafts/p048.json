@@ -1,0 +1,439 @@
+{
+ "page": 48,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H EA LTH • LA SANTÉ • DIE GESUMDHEIT • LA SALUD • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "pregnancy • la grossesse • die Schwangerschaft • el embarazo • la gravidanza",
+   "parts": [
+    "pregnancy",
+    "la grossesse",
+    "die schwangerschaft",
+    "el embarazo",
+    "la gravidanza"
+   ],
+   "entries": [
+    {
+     "en": "cervix",
+     "fr": "le col de l'utérus",
+     "de": "der Gebärmutterhals",
+     "es": "el cuello uterino",
+     "it": "cervice",
+     "_pos": [
+      749,
+      135
+     ],
+     "_flags": []
+    },
+    {
+     "en": "umbilical cord",
+     "fr": "le cordon ombilical",
+     "de": "die Nabelschnur",
+     "es": "el cordón umbilical",
+     "it": "il cordone ombelicale",
+     "_pos": [
+      485,
+      136
+     ],
+     "_flags": []
+    },
+    {
+     "en": "placenta",
+     "fr": "le placenta",
+     "de": "die Plazenta",
+     "es": "la placenta",
+     "it": "la n la rp n ta",
+     "_pos": [
+      646,
+      136
+     ],
+     "_flags": [
+      "it:short:n"
+     ]
+    },
+    {
+     "en": "nurse",
+     "fr": "l'infirmière",
+     "de": "die Krankenschwester",
+     "es": "la enfermera",
+     "it": "l'infermiera",
+     "_pos": [
+      62,
+      185
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pregnancy test",
+     "fr": "le test de grossesse",
+     "de": "der Schwangerschaftstest",
+     "es": "la prueba del embarazo",
+     "it": "il test di gravidanza",
+     "_pos": [
+      195,
+      218
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scan",
+     "fr": "l'échographie",
+     "de": "die Ultraschallaufnahme",
+     "es": "el ultrasonido",
+     "it": "l'ecografia",
+     "_pos": [
+      287,
+      300
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "l'utérus",
+     "de": "die Gebärmutter",
+     "es": "el Útero",
+     "it": "l'utero",
+     "_pos": [
+      487,
+      512
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "ultrasound",
+     "fr": "les ultrasons",
+     "de": "der Ultraschall",
+     "es": "el ultrasonido",
+     "it": "l'ultrasuono",
+     "_pos": [
+      64,
+      627
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fetus",
+     "fr": "le fœtus",
+     "de": "der Fetus",
+     "es": "el feto",
+     "it": "il feto",
+     "_pos": [
+      582,
+      627
+     ],
+     "_flags": []
+    },
+    {
+     "en": "breech",
+     "fr": "par le siège",
+     "de": "Steiß",
+     "es": "de espaldas",
+     "it": "podalico",
+     "_pos": [
+      756,
+      691
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dilation",
+     "fr": "la dilatation",
+     "de": "die Erweiterung",
+     "es": "la dilatación",
+     "it": "la dilatazione",
+     "_pos": [
+      470,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stitches",
+     "fr": "les points de suture",
+     "de": "die Naht",
+     "es": "las puntadas",
+     "it": "i punti",
+     "_pos": [
+      606,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ovulation",
+     "fr": "l'ovulation",
+     "de": "der Eisprung",
+     "es": "la ovulación",
+     "it": "l'ovulazione",
+     "_pos": [
+      78,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "antenatal",
+     "fr": "prénatal",
+     "de": "vorgeburtlich",
+     "es": "prenatal",
+     "it": "prenatale",
+     "_pos": [
+      210,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "amniotic fluid",
+     "fr": "le liquide am niotique",
+     "de": "das Fruchtwasser",
+     "es": "el líquido am niotico",
+     "it": "il liquido amniotico",
+     "_pos": [
+      316,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "delivery",
+     "fr": "l'accouchement",
+     "de": "die Entbindung",
+     "es": "el parto",
+     "it": "il parto",
+     "_pos": [
+      606,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "premature",
+     "fr": "prématuré",
+     "de": "vorzeitig",
+     "es": "prematuro",
+     "it": "prematuro",
+     "_pos": [
+      756,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trim ester",
+     "fr": "le trimestre",
+     "de": "das Trimester",
+     "es": "el trimestre",
+     "it": "il trimestre",
+     "_pos": [
+      211,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "conception",
+     "fr": "la conception",
+     "de": "die Empfängnis",
+     "es": "la concepción",
+     "it": "la concezione",
+     "_pos": [
+      78,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "amniocentesis",
+     "fr": "l'am niocentèse",
+     "de": "die Amniozentese",
+     "es": "la am niocentesis",
+     "it": "l'amniocentesi",
+     "_pos": [
+      317,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "epidural",
+     "fr": "la péridurale",
+     "de": "die Periduralanästhesie",
+     "es": "la epidural",
+     "it": "Pepidurale",
+     "_pos": [
+      470,
+      790
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "gynecologist",
+     "fr": "le gynécologue",
+     "de": "der Gynäkologe",
+     "es": "el ginecólogo",
+     "it": "il ginecologo",
+     "_pos": [
+      756,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "birth",
+     "fr": "la naissance",
+     "de": "die Geburt",
+     "es": "el nacimiento",
+     "it": "la nascita",
+     "_pos": [
+      607,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pregnant",
+     "fr": "enceinte",
+     "de": "schwanger",
+     "es": "embarazada",
+     "it": "incinta",
+     "_pos": [
+      78,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "embryo",
+     "fr": "l'embryon",
+     "de": "der Embryo",
+     "es": "el embrión",
+     "it": "l'embrione",
+     "_pos": [
+      212,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "contraction",
+     "fr": "la contraction",
+     "de": "die Wehe",
+     "es": "la contracción",
+     "it": "la contrazione",
+     "_pos": [
+      317,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cesarean section",
+     "fr": "la césarienne",
+     "de": "der Kaiserschnitt",
+     "es": "la cesárea",
+     "it": "il l aglio cesareo",
+     "_pos": [
+      470,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "obstetrician",
+     "fr": "l'obstétricien",
+     "de": "der Geburtshelfer",
+     "es": "el obstetra",
+     "it": "l'ostetrico",
+     "_pos": [
+      756,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "miscarriage",
+     "fr": "la fausse couche",
+     "de": "die Fehlgeburt",
+     "es": "el aborto espontáneo",
+     "it": "l'aborto spontaneo",
+     "_pos": [
+      608,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "womb",
+     "fr": "l'utérus",
+     "de": "die Gebärmutter",
+     "es": "la matriz",
+     "it": "il grembo",
+     "_pos": [
+      212,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "break w ater (v)",
+     "fr": "perdre les eaux",
+     "de": "das Fruchtwasser gehtab",
+     "es": "rom per aguas",
+     "it": "rompere le acque",
+     "_pos": [
+      318,
+      986
+     ],
+     "_flags": [
+      "en:short:w"
+     ]
+    },
+    {
+     "en": "episiotomy",
+     "fr": "l'épisiotom ie",
+     "de": "der Dammschnitt",
+     "es": "la episiotom ia",
+     "it": "l'episiotom ia",
+     "_pos": [
+      472,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "expectant",
+     "fr": "enceinte",
+     "de": "schwanger",
+     "es": "embarazada",
+     "it": "in stato interessante",
+     "_pos": [
+      78,
+      987
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 33,
+  "complete_clean": 24,
+  "flagged": 9,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

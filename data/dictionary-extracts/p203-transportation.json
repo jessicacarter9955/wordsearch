@@ -1,0 +1,409 @@
+{
+ "page": 203,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "altre-imbarcazioni",
+   "names": {
+    "en": "other ships",
+    "fr": "autres bateaux",
+    "de": "andere schiffe",
+    "es": "otras embarcaciones",
+    "it": "altre imbarcazioni"
+   },
+   "entries": [
+    {
+     "en": "outboard motor",
+     "fr": "hors-bord",
+     "de": "Außenbordmotor",
+     "es": "motor fuera borda",
+     "it": "motore fuoribordo",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 8,
+      "de": 15,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "'",
+     "it": "i",
+     "_multi": [],
+     "_grid_len": {
+      "en": 0,
+      "it": 1
+     }
+    },
+    {
+     "en": "” inflatable dinghy",
+     "fr": "dinghy pneumatique",
+     "de": "Schlauchboot",
+     "es": "zodiac",
+     "it": "gommone",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 17,
+      "de": 12,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "hydrofoil",
+     "fr": "Phydroptère",
+     "de": "Tragflügelboot",
+     "es": "hidrodeslizador",
+     "it": "aliscafo",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 14,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "ferryboat",
+     "fr": "ferry",
+     "de": "Fähre",
+     "es": "ferry",
+     "it": "traghetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "hovercraft",
+     "fr": "aéroglisseur",
+     "de": "Luftkissenboot",
+     "es": "acrodeslizador",
+     "it": "hovcrcraft",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 14,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "tugboat",
+     "fr": "remorqueur",
+     "de": "Schleppdampfer",
+     "es": "remolcador",
+     "it": "rimorchiatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 14,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "catamaran",
+     "fr": "catamaran",
+     "de": "Katamaran",
+     "es": "catam arán",
+     "it": "catamarano",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "yacht",
+     "fr": "yacht",
+     "de": "Jacht",
+     "es": "yate",
+     "it": "yacht",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "hold",
+     "fr": "cale",
+     "de": "Frachtraum",
+     "es": "bodega",
+     "it": "stiva",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 10,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "rigging",
+     "fr": "gréement",
+     "de": "Takelung",
+     "es": "jarcias",
+     "it": "sartiamet",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "sailboat",
+     "fr": "voilier",
+     "de": "Segelboot",
+     "es": "barco de vela",
+     "it": "barca a vela",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 9,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "container ship",
+     "fr": "navire porte-conteneurs",
+     "de": "Containerschiff",
+     "es": "barco carguero",
+     "it": "nave porta container",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 21,
+      "de": 15,
+      "es": 13,
+      "it": 18
+     }
+    },
+    {
+     "en": "submarine",
+     "fr": "sous-marin",
+     "de": "U-Boot",
+     "es": "submarino",
+     "it": "sottomarino",
+     "_multi": [],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 5,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "battleship",
+     "fr": "navire de guerre",
+     "de": "Kriegsschiff",
+     "es": "barco de guerra",
+     "it": "nave da guerra",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 12,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "aircraft carrier",
+     "fr": "porte avions",
+     "de": "Flugzeugträger",
+     "es": "portaaviones",
+     "it": "portaerei",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 11,
+      "de": 14,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "oil tanker",
+     "fr": "pétrolier",
+     "de": "Öltanker",
+     "es": "buque tanque",
+     "it": "petroliera",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 11,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

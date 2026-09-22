@@ -1,0 +1,259 @@
+{
+ "page": 57,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "salotto",
+   "names": {
+    "en": "living room",
+    "fr": "le salon",
+    "de": "das wohnzimmer",
+    "es": "la sala",
+    "it": "i salotto"
+   },
+   "entries": [
+    {
+     "en": "painting",
+     "fr": "tableau",
+     "de": "Gemälde",
+     "es": "cuadro",
+     "it": "quadro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "frame",
+     "fr": "cadre",
+     "de": "Bilderrahmen",
+     "es": "marco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 12,
+      "es": 5
+     }
+    },
+    {
+     "en": "lamp",
+     "fr": "lampe",
+     "de": "Lampe",
+     "es": "lámpara",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 7
+     }
+    },
+    {
+     "en": "wall light",
+     "fr": "applique",
+     "de": "Wandlampe",
+     "es": "arbotante",
+     "it": "anniiniitf»",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "clock",
+     "fr": "pendule",
+     "de": "Uhr",
+     "es": "reloj",
+     "it": "orologio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 3,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "ceiling",
+     "fr": "plafond",
+     "de": "Decke",
+     "es": "techo",
+     "it": "soffitto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 5,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "cabinet",
+     "fr": "vitrine",
+     "de": "Vitrine",
+     "es": "vitrina",
+     "it": "armadictto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "sofa",
+     "fr": "canapé",
+     "de": "Sofa",
+     "es": "sofá",
+     "it": "divano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "pillow",
+     "fr": "coussin",
+     "de": "Sofakissen",
+     "es": "cojín",
+     "it": "cuscino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "coffee table",
+     "fr": "table basse",
+     "de": "Couchtisch",
+     "es": "mesa de centro",
+     "it": "tavolino",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 10,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "floor",
+     "fr": "sol",
+     "de": "Fußboden",
+     "es": "piso",
+     "it": "pavimento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 9,
+      "es": 4,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

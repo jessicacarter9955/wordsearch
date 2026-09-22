@@ -1,0 +1,235 @@
+{
+ "page": 193,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • EL TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "ty p e s • Ics types • die Typen • los tipos",
+   "parts": [
+    "ty p e s",
+    "ics types",
+    "die typen",
+    "los tipos"
+   ],
+   "entries": [
+    {
+     "en": "leathers",
+     "fr": "le vêtement en cuir",
+     "de": "der Lederanzug",
+     "es": "el traje de cuero",
+     "it": "la tuta di pelle",
+     "_pos": [
+      338,
+      79
+     ],
+     "_flags": []
+    },
+    {
+     "en": "visor",
+     "fr": "la visière",
+     "de": "das Visier",
+     "es": "la visera",
+     "it": "a visiera",
+     "_pos": [
+      34,
+      81
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reflector strap",
+     "fr": "la bande fluorescente",
+     "de": "der Leuchtstreifen",
+     "es": "la cinta reflectante",
+     "it": "la fascia rifrangente",
+     "_pos": [
+      36,
+      195
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kneepad",
+     "fr": "la genouillère",
+     "de": "der Knieschützer",
+     "es": "la rodillera",
+     "it": "il paraginocchio",
+     "_pos": [
+      340,
+      195
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      518,
+      301
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "racing bike",
+      "la moro de course",
+      "die Rennmaschine",
+      "la moto de carreras",
+      "la moto da corsa windshield",
+      "le pare-brise",
+      "die Windschutzscheibe",
+      "el parabrisas",
+      "il parabrezza"
+     ]
+    },
+    {
+     "en": "clothing",
+     "fr": "les vêtements",
+     "de": "die Kleidung",
+     "es": "el equipo",
+     "it": "l'abbigliamento",
+     "_pos": [
+      86,
+      409
+     ],
+     "_flags": []
+    },
+    {
+     "en": "headlight",
+     "fr": "le phare",
+     "de": "der Scheinwerfer",
+     "es": "el faro",
+     "it": "il proiettore",
+     "_pos": [
+      232,
+      442
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suspension",
+     "fr": "la suspension",
+     "de": "die Aufhängung",
+     "es": "la suspensión",
+     "it": "rammnrti77atnrc",
+     "_pos": [
+      232,
+      556
+     ],
+     "_flags": [
+      "it:num:rammnrti77atnrc"
+     ]
+    },
+    {
+     "en": "mudguard",
+     "fr": "le garde-bouc",
+     "de": "das Schutzblech",
+     "es": "la salpicadera",
+     "it": "il parafango",
+     "_pos": [
+      392,
+      556
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tourer",
+     "fr": "la moto routière",
+     "de": "der Tourer",
+     "es": "la moto de carretera",
+     "it": "la moto da turismo",
+     "_pos": [
+      520,
+      564
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      522,
+      777
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "dirt bike",
+      "la m oro tout-rerrain",
+      "das Geländemotorrad",
+      "la m otocross",
+      "la moto da cross stand",
+      "la béquille",
+      "der Motorradstander",
+      "el soporte",
+      "il cavalletto"
+     ]
+    },
+    {
+     "en": "tire",
+     "fr": "le pneu",
+     "de": "der Reifen",
+     "es": "la llanta",
+     "it": "il pneumatico",
+     "_pos": [
+      388,
+      1000
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "l'essieu",
+     "de": "die Achse",
+     "es": "el eje",
+     "it": "l'asse",
+     "_pos": [
+      262,
+      1017
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "la pédale de frein",
+     "de": "das Bremspedal",
+     "es": "el pedal de los frenos",
+     "it": "il pedale del freno",
+     "_pos": [
+      46,
+      1018
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "scooter",
+     "fr": "le scooter",
+     "de": "der Roller",
+     "es": "la vespa",
+     "it": "la vespa",
+     "_pos": [
+      522,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 6,
+  "flagged": 9,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "page": 79,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • I . A MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "garden features",
+     "fr": "les ornements de jardin",
+     "de": "die Gartenornamente",
+     "es": "los adornos para el jardín",
+     "it": "gli ornamenti oggetti per giardini",
+     "_pos": [
+      702,
+      85
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "garden • le jardin • der Garten • el jardín • il giardino",
+   "parts": [
+    "garden",
+    "le jardin",
+    "der garten",
+    "el jardín",
+    "il giardino"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "garden styles • Ics styles de jardin • die Gartentypen • los estilos de jardín",
+   "parts": [
+    "garden styles",
+    "ics styles de jardin",
+    "die gartentypen",
+    "los estilos de jardín"
+   ],
+   "entries": [
+    {
+     "it": "i tipi di giardino",
+     "_pos": [
+      60,
+      163
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "roof garden",
+     "fr": "le jardin sur le toir",
+     "de": "der Dachgarten",
+     "es": "el jardín en la azotea",
+     "it": "I giardino pensile",
+     "_pos": [
+      488,
+      316
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "hanging basket",
+     "fr": "le panier sus pendu",
+     "de": "die Blumenampel",
+     "es": "la cesta colgante",
+     "it": "il cesto sospeso",
+     "_pos": [
+      700,
+      417
+     ],
+     "_flags": []
+    },
+    {
+     "en": "patio garden",
+     "fr": "le patio",
+     "de": "der Patio",
+     "es": "el patio con jardín",
+     "it": "il giardino a patio",
+     "_pos": [
+      58,
+      528
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rock garden",
+     "fr": "la rocaille",
+     "de": "der Steingarten",
+     "es": "la rocalla",
+     "it": "I giardino di pietra",
+     "_pos": [
+      486,
+      598
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "fr": "la enredadera",
+     "it": "il graticcio",
+     "_pos": [
+      700,
+      732
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "formai garden",
+     "fr": "le jardin à la française",
+     "de": "der architektonische Garten",
+     "es": "el jardín clásico",
+     "it": "il giardino all'italiana",
+     "_pos": [
+      56,
+      810
+     ],
+     "_flags": []
+    },
+    {
+     "en": "courtyard",
+     "fr": "la cour",
+     "de": "der Hof",
+     "es": "el patio",
+     "it": "I cortile",
+     "_pos": [
+      484,
+      813
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "English garden",
+     "fr": "le jardin paysan",
+     "de": "der Bauerngarten",
+     "es": "el jardín campestre",
+     "it": "il giardino all'inglese",
+     "_pos": [
+      54,
+      1024
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "herb garden",
+     "fr": "le jardin d'herbes aromatiques",
+     "de": "der Krautergarten",
+     "es": "el jardín de plantas herbáceas",
+     "it": "il giardino di erbe",
+     "_pos": [
+      269,
+      1026
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water garden",
+     "fr": "le jardin d'eau",
+     "de": "der Wassergarten",
+     "es": "el jardín acuático",
+     "it": "il giardino acquatico",
+     "_pos": [
+      483,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arbor",
+     "fr": "la pergola",
+     "de": "die Pergola",
+     "es": "la pérgola",
+     "it": "la pergola",
+     "_pos": [
+      698,
+      1029
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "A",
+   "pos": [
+    789,
+    189
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 13,
+  "complete_clean": 0,
+  "flagged": 13,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

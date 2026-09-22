@@ -1,0 +1,240 @@
+{
+ "page": 65,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "bedroom • la chambre • das Schlafzimmer • la recámara • la camera da letto",
+   "parts": [
+    "bedroom",
+    "la chambre",
+    "das schlafzimmer",
+    "la recámara",
+    "la camera da letto"
+   ],
+   "entries": [
+    {
+     "en": "wardrobe",
+     "fr": "l'armoire",
+     "de": "der Kleiderschrank",
+     "es": "el armario",
+     "it": "l'armadio",
+     "_pos": [
+      56,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bedside lamp",
+     "fr": "la lampe de chevet",
+     "de": "die Nachttischlampe",
+     "es": "la lam para del buró",
+     "it": "la lampadina",
+     "_pos": [
+      56,
+      300
+     ],
+     "_flags": []
+    },
+    {
+     "en": "headboard",
+     "fr": "la tête de lit",
+     "de": "das Kopfende",
+     "es": "la cabecera",
+     "it": "la testata",
+     "_pos": [
+      54,
+      416
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nightstand",
+     "fr": "la table de nuit",
+     "de": "der Nachttisch",
+     "es": "el buró",
+     "it": "il comodino",
+     "_pos": [
+      54,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chest of drawers",
+     "fr": "la commode",
+     "de": "die Kommode",
+     "es": "la cómoda",
+     "it": "il cassettone",
+     "_pos": [
+      53,
+      648
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le tiroir",
+     "de": "die Schublade",
+     "es": "el cajón",
+     "it": "il cassetto",
+     "_pos": [
+      274,
+      766
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "le lit",
+     "de": "das Bett",
+     "es": "Id cama",
+     "it": "il letto",
+     "_pos": [
+      400,
+      766
+     ],
+     "_flags": [
+      "missing:en",
+      "es:case"
+     ]
+    },
+    {
+     "fr": "le matelas",
+     "de": "die Matratze",
+     "es": "el colchón",
+     "it": "il materasso",
+     "_pos": [
+      540,
+      768
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "le couvre-lit",
+     "de": "die Tagesdecke",
+     "es": "la colcha",
+     "it": "ii copriletto",
+     "_pos": [
+      678,
+      770
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "l‘oreiller",
+     "de": "das Kopfkissen",
+     "es": "la almohada",
+     "it": "il guanciale",
+     "_pos": [
+      796,
+      771
+     ],
+     "_flags": [
+      "missing:fr",
+      "slot-ambig",
+      "en:weird:l‘oreiller"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "hot-water bottle",
+     "fr": "la bouillotte",
+     "de": "die Wärmflasche",
+     "es": "la bolsa de agua caliente",
+     "it": "la borsa calda",
+     "_pos": [
+      48,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clock radio",
+     "fr": "le radio réveil",
+     "de": "der Radiowecker",
+     "es": "la radio despertador",
+     "it": "la radiosveglia",
+     "_pos": [
+      220,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "alarm dock",
+     "fr": "le réveil",
+     "de": "der Wecker",
+     "es": "el reloj despertador",
+     "it": "la sveglia",
+     "_pos": [
+      392,
+      999
+     ],
+     "_flags": []
+    },
+    {
+     "en": "box of tissues",
+     "fr": "la boîte de kleenex",
+     "de": "die Papiertaschentuchschachtel",
+     "es": "la caja de pañuelos desee h a bles",
+     "it": "la scatola di fazzoletti™",
+     "_pos": [
+      562,
+      1000
+     ],
+     "_flags": [
+      "es:short:h",
+      "it:weird:fazzoletti™"
+     ]
+    },
+    {
+     "_pos": [
+      736,
+      1002
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "coat hanger",
+      "le",
+      "cintre",
+      "der Kleiderbügel",
+      "el gancho",
+      "la gruccia"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 5,
+  "flagged": 10,
+  "missing_lang": 5,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

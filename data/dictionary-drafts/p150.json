@@ -1,0 +1,232 @@
+{
+ "page": 150,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "E A T IN G O U T • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • M ANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "techniques • la préparation • die Zubereitung • las técnicas • i metodi",
+   "parts": [
+    "techniques",
+    "la préparation",
+    "die zubereitung",
+    "las técnicas",
+    "i metodi"
+   ],
+   "entries": [
+    {
+     "en": "stuffed",
+     "fr": "farci",
+     "de": "gefüllt",
+     "es": "relleno",
+     "it": "imbottito",
+     "_pos": [
+      32,
+      305
+     ],
+     "_flags": []
+    },
+    {
+     "en": "in sauce",
+     "fr": "en sauce",
+     "de": "in Soße",
+     "es": "en salsa",
+     "it": "al sugo",
+     "_pos": [
+      248,
+      306
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grilled",
+     "fr": "grillé",
+     "de": "gegrillt",
+     "es": "a In plancha",
+     "it": "alla griglia",
+     "_pos": [
+      464,
+      307
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "marinated",
+     "fr": "marine",
+     "de": "mariniert",
+     "es": "adobado",
+     "it": "marinato",
+     "_pos": [
+      680,
+      308
+     ],
+     "_flags": []
+    },
+    {
+     "en": "poached",
+     "fr": "poche",
+     "de": "poch ieri",
+     "es": "escalfado",
+     "it": "affogato",
+     "_pos": [
+      32,
+      537
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mashed",
+     "fr": "en purée",
+     "de": "püriert",
+     "es": "hecho puré",
+     "it": "schiacciato",
+     "_pos": [
+      248,
+      539
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baked",
+     "fr": "cuit",
+     "de": "gebacken",
+     "es": "al horno",
+     "it": "cotto al forno",
+     "_pos": [
+      463,
+      540
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pan fried",
+     "fr": "sauté",
+     "de": "kurzgebraten",
+     "es": "frito con poco aceite",
+     "it": "fritto in padella",
+     "_pos": [
+      679,
+      543
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fried",
+     "fr": "frit",
+     "de": "gebraten",
+     "es": "Into",
+     "it": "fritto",
+     "_pos": [
+      30,
+      788
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "pickled",
+     "fr": "macéré",
+     "de": "eingelegt",
+     "es": "en vinagre",
+     "it": "sottaceto",
+     "_pos": [
+      246,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "smoked",
+     "fr": "fumé",
+     "de": "geräuchert",
+     "es": "ahumado",
+     "it": "affumicato",
+     "_pos": [
+      462,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deep fried",
+     "fr": "frit",
+     "de": "fnttiert",
+     "es": "frito con mucho aceite",
+     "it": "fritto in olio abbondante",
+     "_pos": [
+      678,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "in syrup",
+     "fr": "au sirop",
+     "de": "in Saft",
+     "es": "en almíbar",
+     "it": "allo sciroppo",
+     "_pos": [
+      30,
+      1037
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dressed",
+     "fr": "assaisonné",
+     "de": "angemacht",
+     "es": "sazonado",
+     "it": "condito",
+     "_pos": [
+      245,
+      1039
+     ],
+     "_flags": []
+    },
+    {
+     "en": "steamed",
+     "fr": "cuit à la vapeur",
+     "de": "gedämpft",
+     "es": "al vapor",
+     "it": "al vapore",
+     "_pos": [
+      461,
+      1040
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cured",
+     "fr": "séché",
+     "de": "getrocknet",
+     "es": "curado",
+     "it": "seccato",
+     "_pos": [
+      677,
+      1041
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 0,
+  "flagged": 16,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

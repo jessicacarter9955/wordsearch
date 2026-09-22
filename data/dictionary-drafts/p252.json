@@ -1,0 +1,347 @@
+{
+ "page": 252,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL TEM P O LIBER O",
+ "groups": [
+  {
+   "names_raw": "camping • le camping • das Camping • el camping il campeggio",
+   "parts": [
+    "camping",
+    "le camping",
+    "das camping",
+    "el camping il campeggio"
+   ],
+   "entries": [
+    {
+     "en": "restrooms",
+     "fr": "les toilettes",
+     "de": "die Toiletten",
+     "es": "los baños",
+     "_pos": [
+      269,
+      103
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "waste disposal",
+     "fr": "les poubelles",
+     "de": "die Mülleimer",
+     "es": "el contenedor de la basura",
+     "it": "rifuti",
+     "_pos": [
+      380,
+      108
+     ],
+     "_flags": []
+    },
+    {
+     "en": "showers",
+     "fr": "es douches",
+     "de": "die Duschen",
+     "es": "las regaderas",
+     "it": "le docce",
+     "_pos": [
+      560,
+      111
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electric hook-up",
+     "fr": "le branchement électrique",
+     "de": "der Stromanschluss",
+     "es": "el punto eléctrico",
+     "it": "la presa di corrente",
+     "_pos": [
+      692,
+      112
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camper",
+     "fr": "la caravane",
+     "de": "der Wohnwagen",
+     "es": "la roulotte",
+     "it": "la roulotte",
+     "_pos": [
+      753,
+      541
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rope",
+     "fr": "la corde",
+     "de": "die Zeltspannleine",
+     "es": "la cuerda",
+     "it": "la corda",
+     "_pos": [
+      528,
+      541
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le double toit",
+     "de": "das Überdach",
+     "es": "el toldo",
+     "it": "il telo protettivo",
+     "_pos": [
+      237,
+      556
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "le piquet",
+     "de": "der Hering",
+     "es": "la estaca",
+     "it": "il piolo",
+     "_pos": [
+      402,
+      557
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "campsite",
+     "fr": "le terrain de camping",
+     "de": "der Campingplatz",
+     "es": "el cam ping",
+     "it": "il campeggio",
+     "_pos": [
+      56,
+      638
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camp (v)",
+     "fr": "camper",
+     "de": "zelten",
+     "es": "acampar",
+     "it": "campeggiare",
+     "_pos": [
+      70,
+      686
+     ],
+     "_flags": []
+    },
+    {
+     "en": "site",
+     "fr": "remplacement",
+     "de": "der Zeltplatz",
+     "es": "el lugar",
+     "it": "il posteggio",
+     "_pos": [
+      304,
+      687
+     ],
+     "_flags": []
+    },
+    {
+     "en": "picnic bench",
+     "fr": "le banc à pique-nique",
+     "de": "die Picknickbank",
+     "es": "la mesa de picnic",
+     "it": "il tavola da picnic",
+     "_pos": [
+      502,
+      688
+     ],
+     "_flags": []
+    },
+    {
+     "en": "charcoal",
+     "fr": "le charbon de bois",
+     "de": "die Holzkohle",
+     "es": "el carbón vegetal",
+     "it": "la carbonella",
+     "_pos": [
+      707,
+      689
+     ],
+     "_flags": []
+    },
+    {
+     "en": "managers office",
+     "fr": "le bureau du chef",
+     "de": "die Campingplatzverwaltung",
+     "es": "la oBcina del director",
+     "it": "l'ufficio del direttore",
+     "_pos": [
+      70,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pitch a tent (v)",
+     "fr": "monter une tente",
+     "de": "ein Zelt aufschlagen",
+     "es": "poner una tienda",
+     "it": "piantare una tenda",
+     "_pos": [
+      304,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hammock",
+     "fr": "le hamac",
+     "de": "die Hängematte",
+     "es": "la hamaca",
+     "it": "l'amaca",
+     "_pos": [
+      502,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "firelighter",
+     "fr": "l'allum e-feu",
+     "de": "der Feueranzünder",
+     "es": "la pastilla para fogatas",
+     "it": "l'esca per il fuoco",
+     "_pos": [
+      707,
+      787
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sites available",
+     "fr": "les emplacements de libre",
+     "de": "Zeltplätze frei",
+     "es": "hay lugares libres",
+     "it": "le piazzole disponibili",
+     "_pos": [
+      70,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tent pole",
+     "fr": "le mât",
+     "de": "die Zeltstange",
+     "es": "el tubo de la tienda",
+     "it": "il palo",
+     "_pos": [
+      304,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camper van",
+     "fr": "l'autocaravanc",
+     "de": "das Wohnmobil",
+     "es": "el cam per",
+     "it": "il camper",
+     "_pos": [
+      502,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "light a Tire (v)",
+     "fr": "allumer un feu",
+     "de": "ein Feuer machen",
+     "es": "encender una fogata",
+     "it": "accendere un fuoco",
+     "_pos": [
+      706,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "full",
+     "fr": "complet",
+     "de": "voll",
+     "es": "lleno",
+     "it": "completo",
+     "_pos": [
+      70,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cot",
+     "fr": "le lit de camp",
+     "de": "das Faltbett",
+     "es": "el catre de campaña",
+     "it": "il lettino da campeggio",
+     "_pos": [
+      304,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trailer",
+     "fr": "la remorque",
+     "de": "der Anhänger",
+     "es": "el remolque",
+     "it": "il rimorchio",
+     "_pos": [
+      502,
+      983
+     ],
+     "_flags": []
+    },
+    {
+     "en": "campfire",
+     "fr": "le feu de camp",
+     "de": "das Lagerfeuer",
+     "es": "la fogata",
+     "it": "il fuoco",
+     "_pos": [
+      706,
+      984
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "- n v ? lw",
+   "pos": [
+    602,
+    471
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 14,
+  "flagged": 11,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

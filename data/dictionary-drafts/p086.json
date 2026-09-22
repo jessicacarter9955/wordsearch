@@ -1,0 +1,370 @@
+{
+ "page": 86,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • I.A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "cane",
+     "fr": "la canne",
+     "de": "der Stock",
+     "es": "la caña",
+     "it": "la canna",
+     "_pos": [
+      810,
+      86
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deadhead (v)",
+     "fr": "enlever les fleurs fanées",
+     "de": "köpfen",
+     "es": "quitar las flores m uertas",
+     "it": "togliere fiori appassiti",
+     "_pos": [
+      252,
+      300
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "spray (v)",
+     "fr": "rociar",
+     "_pos": [
+      466,
+      300
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "train (v)",
+     "fr": "palisser",
+     "de": "ziehen",
+     "es": "guiar",
+     "it": "far crescere",
+     "_pos": [
+      38,
+      301
+     ],
+     "_flags": []
+    },
+    {
+     "en": "asperger",
+     "fr": "sprühen spruzzare",
+     "_pos": [
+      531,
+      301
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "cutting",
+     "fr": "la coupe",
+     "de": "der Ableger",
+     "es": "el esqueje",
+     "it": "la talea",
+     "_pos": [
+      412,
+      366
+     ],
+     "_flags": []
+    },
+    {
+     "en": "graft (v)",
+     "fr": "greffer",
+     "de": "pfropfen",
+     "es": "injertar",
+     "it": "innestare",
+     "_pos": [
+      40,
+      548
+     ],
+     "_flags": []
+    },
+    {
+     "en": "propagate (v)",
+     "fr": "propager",
+     "de": "vermehren",
+     "es": "propagai",
+     "it": "propagare",
+     "_pos": [
+      252,
+      548
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prune (v)",
+     "fr": "élaguer",
+     "de": "beschneiden",
+     "es": "podar",
+     "it": "potare",
+     "_pos": [
+      471,
+      549
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stake (v)",
+     "fr": "mettre un tuteur",
+     "de": "hochbinden",
+     "es": "apuntalar",
+     "it": "legare a un bastoncino",
+     "_pos": [
+      682,
+      549
+     ],
+     "_flags": []
+    },
+    {
+     "en": "weed (v)",
+     "fr": "désherber",
+     "de": "jäten",
+     "es": "escardar",
+     "it": "sradicare le erbacce",
+     "_pos": [
+      254,
+      814
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mulch (v)",
+     "fr": "pailler",
+     "de": "mulchen",
+     "es": "cubrir la tierra",
+     "it": "concimare",
+     "_pos": [
+      468,
+      814
+     ],
+     "_flags": []
+    },
+    {
+     "en": "transplant (v)",
+     "fr": "transplanter",
+     "de": "umpflanzen",
+     "es": "transplantar",
+     "it": "trapiantare",
+     "_pos": [
+      39,
+      814
+     ],
+     "_flags": []
+    },
+    {
+     "en": "harvest (v)",
+     "fr": "récolter",
+     "de": "ernten",
+     "es": "cosechar",
+     "it": "raccogliere",
+     "_pos": [
+      682,
+      814
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seedling",
+     "fr": "le semis",
+     "de": "der Sämling",
+     "es": "el plantón",
+     "it": "il semenzale",
+     "_pos": [
+      626,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cultivate (v)",
+     "fr": "cultiver",
+     "de": "züchten",
+     "es": "cultivar",
+     "it": "coltivare",
+     "_pos": [
+      52,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "landscape (v)",
+     "fr": "dessiner",
+     "de": "gestalten",
+     "es": "diseñar",
+     "it": "architettare",
+     "_pos": [
+      160,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fertilize (v)",
+     "fr": "fertiliser",
+     "de": "düngen",
+     "es": "abonar",
+     "it": "concimare",
+     "_pos": [
+      297,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sieve (v)",
+     "fr": "tamiser",
+     "de": "sieben",
+     "es": "cribar",
+     "it": "setacciare",
+     "_pos": [
+      398,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "organic",
+     "fr": "biologique",
+     "de": "biodynamisch",
+     "es": "orgánico",
+     "it": "biologico",
+     "_pos": [
+      493,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "subsoil",
+     "fr": "le sous-sol",
+     "de": "der Untergrund",
+     "es": "el subsuelo",
+     "it": "il sottosuolo",
+     "_pos": [
+      736,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fertilizer",
+     "fr": "l'engrais",
+     "de": "der Dünger",
+     "es": "el abono",
+     "it": "il concime",
+     "_pos": [
+      626,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "weedkiller",
+     "fr": "l'herbicide",
+     "de": "der Unkrautvernichter",
+     "es": "el herbicida",
+     "it": "il diserbante",
+     "_pos": [
+      736,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tend (v)",
+     "fr": "soigner",
+     "de": "hegen",
+     "es": "cuidar",
+     "it": "curare",
+     "_pos": [
+      52,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pot (v)",
+     "fr": "mettre en pot",
+     "de": "emtopfen",
+     "es": "planUr en tiesto",
+     "it": "invasare",
+     "_pos": [
+      160,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pick (v)",
+     "fr": "cueillir",
+     "de": "pflücken",
+     "es": "arrancar",
+     "it": "cogliere",
+     "_pos": [
+      297,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aerate (v)",
+     "fr": "retourner",
+     "de": "auflockern",
+     "es": "airear",
+     "it": "aerare",
+     "_pos": [
+      398,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drainage",
+     "fr": "le drainage",
+     "de": "die Entwässerung",
+     "es": "el drenaje",
+     "it": "losco io",
+     "_pos": [
+      494,
+      996
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 7,
+  "flagged": 21,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

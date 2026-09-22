@@ -1,0 +1,318 @@
+{
+ "page": 107,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "altri-negozi",
+   "names": {
+    "en": "other stores",
+    "fr": "les autres magasins",
+    "de": "andere geschäfte",
+    "es": "las otras tiendas",
+    "it": "gli altri negozi"
+   },
+   "entries": [
+    {
+     "en": "bakery",
+     "fr": "boulangerie",
+     "de": "Bäckerei",
+     "es": "panadería",
+     "it": "panificio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "cake shop",
+     "fr": "pâtisserie",
+     "de": "Konditorei",
+     "es": "confitería",
+     "it": "pasticceria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "butcher shop",
+     "fr": "boucherie",
+     "de": "Metzgerei",
+     "es": "cam iceria",
+     "it": "macelleria",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "fish counter",
+     "fr": "poissonnerie",
+     "de": "Fischgeschäft",
+     "es": "pescadería",
+     "it": "pescheria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 13,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "produce stand",
+     "fr": "marchand de légumes",
+     "de": "Gemüseladen",
+     "es": "verdulería",
+     "it": "fruttivendolo",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 17,
+      "de": 11,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "grocery store",
+     "fr": "épicerie",
+     "de": "Lebensmittelgeschäft",
+     "es": "abarrotes",
+     "it": "drogheria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 8,
+      "de": 20,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "shoe store",
+     "fr": "magasin de chaussures",
+     "de": "Schuhgeschäft",
+     "es": "zapatería",
+     "it": "negozio di calzature",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 19,
+      "de": 13,
+      "es": 9,
+      "it": 18
+     }
+    },
+    {
+     "en": "hardware store",
+     "fr": "quincaillerie",
+     "de": "Eisenwaren handlung",
+     "es": "ferretería",
+     "it": "negozio di ferramenta",
+     "_multi": [
+      "en",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 18,
+      "es": 10,
+      "it": 19
+     }
+    },
+    {
+     "en": "antique store",
+     "fr": "magasin d'antiquités",
+     "de": "Antiquitätenladen",
+     "es": "tienda de antigüedades",
+     "it": "negozio di antiquariato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 17,
+      "es": 20,
+      "it": 21
+     }
+    },
+    {
+     "en": "gift store",
+     "fr": "boutique de cadeaux",
+     "de": "Geschenkartikel laden",
+     "es": "tienda de regalos",
+     "it": "negozio di articoli da regalo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 20,
+      "es": 15,
+      "it": 25
+     }
+    },
+    {
+     "en": "travel agency",
+     "fr": "agence de voyage",
+     "de": "Reisebüro",
+     "es": "agencia de viajes",
+     "it": "agenzia di viaggi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 9,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "jewelry store",
+     "fr": "bijouterie",
+     "de": "Juweliergeschäft",
+     "es": "joyería",
+     "it": "gioielleria",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 16,
+      "es": 7,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

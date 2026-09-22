@@ -1,0 +1,590 @@
+{
+ "page": 158,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "università",
+   "names": {
+    "en": "college",
+    "fr": "l'enseignement supérieur",
+    "de": "die hochschule",
+    "es": "la enseñanza superior",
+    "it": "l'università"
+   },
+   "entries": [
+    {
+     "en": "admissions office",
+     "fr": "secrétariat",
+     "de": "Sekretariat",
+     "es": "secretaria",
+     "it": "ufficio iscrizioni",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 17
+     }
+    },
+    {
+     "en": "playing field",
+     "fr": "Terrain de sport",
+     "de": "Sportplatz",
+     "es": "campo deportivo",
+     "it": "campo sportivo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 10,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "dining room",
+     "fr": "restaurant",
+     "de": "universitaire die Mensa",
+     "es": "comedor",
+     "it": "refettorio",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 21,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "residence hall",
+     "fr": "résidence universitaire",
+     "de": "Studentenheim",
+     "es": "residencia estudiantil",
+     "it": "casa dello studente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 22,
+      "de": 13,
+      "es": 21,
+      "it": 17
+     }
+    },
+    {
+     "en": "card catalogue",
+     "fr": "catalogue",
+     "de": "Katalog",
+     "es": "catálogo",
+     "it": "catalogo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "health center",
+     "fr": "service de samé",
+     "de": "Gesundheitsfürsorge",
+     "es": "centro de salud",
+     "it": "ambulatorio",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 19,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "campus",
+     "fr": "campus",
+     "de": "Campus",
+     "es": "cam pus",
+     "it": "campus",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "librarian",
+     "fr": "bibliothécaire",
+     "de": "Bibliothekarin",
+     "es": "bibliotecaria",
+     "it": "bibliotecaria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 14,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "checkout desk",
+     "fr": "service de prêt",
+     "de": "Ausleihe",
+     "es": "mostrador de préstam os",
+     "it": "banco prestiti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 8,
+      "es": 20,
+      "it": 13
+     }
+    },
+    {
+     "en": "renew (v)",
+     "fr": "renouveler",
+     "de": "verlängern",
+     "es": "renovar",
+     "it": "rinnovare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 10,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "inquiries",
+     "fr": "renseignements",
+     "de": "Auskunft",
+     "es": "información",
+     "it": "banco informazioni",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 8,
+      "es": 11,
+      "it": 17
+     }
+    },
+    {
+     "en": "library card",
+     "fr": "carte de lecteur",
+     "de": "Leserausweis",
+     "es": "credencial",
+     "it": "tesserino",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 12,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "bookshelf",
+     "fr": "rayons",
+     "de": "Bücherregal",
+     "es": "librero",
+     "it": "scaffale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "book",
+     "fr": "livre",
+     "de": "Buch",
+     "es": "libro",
+     "it": "libro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "borrow (v)",
+     "fr": "emprunter",
+     "de": "ausleihen",
+     "es": "coger prestado",
+     "it": "prendere in prestito",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 9,
+      "es": 13,
+      "it": 18
+     }
+    },
+    {
+     "en": "reading room",
+     "fr": "salle de lecture",
+     "de": "Lesesaal",
+     "es": "sala de lecturas",
+     "it": "sala di lettura",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 8,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "periodical",
+     "fr": "périodique",
+     "de": "Periodikum",
+     "es": "periódico",
+     "it": "periodico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "reserve (v)",
+     "fr": "réserver",
+     "de": "vorbestellen",
+     "es": "reservar",
+     "it": "prenotare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 12,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "title",
+     "fr": "tirre",
+     "de": "Titel",
+     "es": "título",
+     "it": "titolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "reading list",
+     "fr": "ouvrages recommandés",
+     "de": "Literaturliste",
+     "es": "lista de lecturas",
+     "it": "lista dei libri",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 19,
+      "de": 14,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "journal",
+     "fr": "revue",
+     "de": "Zeitschrift",
+     "es": "revista",
+     "it": "rivista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "aisle",
+     "fr": "couloir",
+     "de": "Gang",
+     "es": "pasillo",
+     "it": "corsia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "loan",
+     "fr": "prêt",
+     "de": "Ausleihe",
+     "es": "préstamo",
+     "it": "prestito",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "due date",
+     "fr": "date de retour",
+     "de": "Ruckgabedatum",
+     "es": "fecha de devolución",
+     "it": "data di restituzione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 13,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "library",
+     "fr": "bibliothèque",
+     "de": "Bibliothek",
+     "es": "biblioteca",
+     "it": "biblioteca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

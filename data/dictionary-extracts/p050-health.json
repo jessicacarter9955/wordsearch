@@ -1,0 +1,217 @@
+{
+ "page": 50,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "terapie-alternative",
+   "names": {
+    "en": "alternative therapy",
+    "fr": "les thérapies alternatives",
+    "de": "die Alternativtherapien",
+    "es": "las terapias alternativas",
+    "it": "le terapie alternative"
+   },
+   "entries": [
+    {
+     "en": "teacher",
+     "fr": "maître",
+     "de": "Lehrer",
+     "es": "profesor",
+     "it": "allenatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "massage",
+     "fr": "massage",
+     "de": "Massage",
+     "es": "masaje",
+     "it": "massaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "shiatsu",
+     "fr": "shiatsu",
+     "de": "Shiatsu",
+     "es": "shiatsu",
+     "it": "shiatsu",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "mat",
+     "fr": "tapis",
+     "de": "Matte",
+     "es": "colchoneta",
+     "it": "tappetino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 5,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "chiropractic",
+     "fr": "chiropractie",
+     "de": "Chiropraktik",
+     "es": "quiropráctica",
+     "it": "chiropratica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "osteopathy",
+     "fr": "ostéopathie",
+     "de": "Osteopathie",
+     "es": "osteopatia",
+     "it": "osteopatia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "reflexology",
+     "fr": "réflexologie",
+     "de": "Reflexzonenmassage",
+     "es": "reflexoîogia",
+     "it": "riflessologia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 18,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "meditation",
+     "fr": "méditation",
+     "de": "Meditation",
+     "es": "meditación",
+     "it": "meditazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "yoga",
+     "fr": "yoga",
+     "de": "Yoga",
+     "es": "yoga",
+     "it": "yoga",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Voce 'yoga' ricostruita dal leftover (riga EN isolata; articoli standard)."
+}

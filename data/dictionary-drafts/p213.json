@@ -1,0 +1,297 @@
+{
+ "page": 213,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "basketball • le basket • der Basketball • el baloncesto • la pallacanestro",
+   "parts": [
+    "basketball",
+    "le basket",
+    "der basketball",
+    "el baloncesto",
+    "la pallacanestro"
+   ],
+   "entries": [
+    {
+     "en": "sideline",
+     "fr": "la ligne de touche",
+     "de": "die Seitenlinie",
+     "es": "la línea de banda",
+     "it": "la linea laterale",
+     "_pos": [
+      49,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "referee",
+     "fr": "Parbirrc",
+     "de": "der Schiedsrichter",
+     "es": "el árbitro",
+     "it": "l'arbitro",
+     "_pos": [
+      294,
+      152
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "center circle",
+     "fr": "le cercle central",
+     "de": "der Mittelkreis",
+     "es": "el circu lo central",
+     "it": "il dischetto",
+     "_pos": [
+      426,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "free-throw Ime",
+     "fr": "la ligne de lancer franc",
+     "de": "die Freiwurflinie",
+     "es": "la línea de tiro libre",
+     "it": "la linea di tiro libero",
+     "_pos": [
+      576,
+      153
+     ],
+     "_flags": []
+    },
+    {
+     "en": "endline",
+     "fr": "la ligne de bout",
+     "de": "die Endlinie",
+     "es": "la línea de fondo",
+     "it": "la linea di fondo",
+     "_pos": [
+      752,
+      154
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Y i centerline",
+     "fr": "la ligne de centre",
+     "de": "die Mittellinie",
+     "es": "la línea central",
+     "it": "la linea di centro",
+     "_pos": [
+      536,
+      630
+     ],
+     "_flags": [
+      "wrap",
+      "en:case"
+     ]
+    },
+    {
+     "en": "court",
+     "fr": "le terrain",
+     "de": "das Spielfeld",
+     "es": "la cancha",
+     "it": "il campo",
+     "_pos": [
+      276,
+      643
+     ],
+     "_flags": []
+    },
+    {
+     "en": "i three point line",
+     "fr": "la ligne de trois points",
+     "de": "die D reip u n ktlin ic",
+     "es": "la línea de tres puntos",
+     "it": "la linea dei tre punti",
+     "_pos": [
+      718,
+      646
+     ],
+     "_flags": [
+      "de:short:u",
+      "de:short:n"
+     ]
+    },
+    {
+     "en": "backboard",
+     "fr": "le panneau",
+     "de": "das Korbbrett",
+     "es": "el tablero",
+     "it": "il tabellone",
+     "_pos": [
+      415,
+      676
+     ],
+     "_flags": []
+    },
+    {
+     "en": "number",
+     "fr": "le numéro",
+     "de": "die Spielernummer",
+     "es": "el número",
+     "it": "il numero",
+     "_pos": [
+      292,
+      725
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pass",
+     "fr": "la passe",
+     "de": "der Pass",
+     "es": "el pase",
+     "it": "il passaggio",
+     "_pos": [
+      636,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "throw in",
+     "fr": "la rentrée",
+     "de": "der Einwurf",
+     "es": "el saque de banda",
+     "it": "la rimessa",
+     "_pos": [
+      738,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ball",
+     "fr": "le ballon",
+     "de": "der Basketball",
+     "es": "el balón",
+     "it": "il pallone",
+     "_pos": [
+      46,
+      821
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hoop",
+     "fr": "l'anneau",
+     "de": "der Korbring",
+     "es": "el aro",
+     "it": "l'anello",
+     "_pos": [
+      296,
+      831
+     ],
+     "_flags": []
+    },
+    {
+     "en": "foul",
+     "fr": "la faute",
+     "de": "das Foul",
+     "es": "la falta",
+     "it": "il fallo",
+     "_pos": [
+      635,
+      891
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jump ball",
+     "fr": "l'entre-deux",
+     "de": "der Schiedsnchterball",
+     "es": "el salto entre dos",
+     "it": "il tiro in sospensione",
+     "_pos": [
+      738,
+      892
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le hict",
+     "de": "das Netz",
+     "es": "la red",
+     "it": "la rete",
+     "_pos": [
+      328,
+      955
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "rebound",
+     "fr": "le rebond",
+     "de": "der Rebound",
+     "es": "el rebote",
+     "it": "il rimbalzo",
+     "_pos": [
+      635,
+      990
+     ],
+     "_flags": []
+    },
+    {
+     "en": "out of bounds",
+     "fr": "hors jeu",
+     "de": "aus",
+     "es": "fuera de banda",
+     "it": "fuori campo",
+     "_pos": [
+      738,
+      990
+     ],
+     "_flags": []
+    },
+    {
+     "en": "basket",
+     "fr": "le panier",
+     "de": "erKort",
+     "es": "la canasta",
+     "it": "il canestro",
+     "_pos": [
+      412,
+      1038
+     ],
+     "_flags": []
+    },
+    {
+     "en": "basketball player",
+     "fr": "le joueur de basket",
+     "de": "der Basketballspieler",
+     "es": "el jugador de baiom esto",
+     "it": "il giocatore di pallacenestro",
+     "_pos": [
+      46,
+      1052
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 12,
+  "flagged": 9,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

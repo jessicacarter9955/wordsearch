@@ -1,0 +1,328 @@
+{
+ "page": 118,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRIT! R F • DIE NAHRUNGSMITTEL • LA COMIDA • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "fruit I • le fruit 1 • das Obst 1 • la fruta 1 • la frutta 1 citrus fruit • les agrumes • die Zitrusfrüchte",
+   "parts": [
+    "fruit i",
+    "le fruit",
+    "das obst",
+    "la fruta",
+    "la frutta 1 citrus fruit",
+    "les agrumes",
+    "die zitrusfrüchte"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "stone fruit • les fruits à noyau • das Steinobst",
+   "parts": [
+    "stone fruit",
+    "les fruits à noyau",
+    "das steinobst"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• los cítricos • gli agrumi",
+   "parts": [
+    "los cítricos",
+    "gli agrumi"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• la fruta con hueso • la frutta con nocciolo",
+   "parts": [
+    "la fruta con hueso",
+    "la frutta con nocciolo"
+   ],
+   "entries": [
+    {
+     "en": "orange",
+     "fr": "l'orange",
+     "de": "die Orange",
+     "es": "la naranja",
+     "it": "l'arancio",
+     "_pos": [
+      46,
+      316
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clementine",
+     "fr": "la clémentine",
+     "de": "die Klementine",
+     "es": "la mandarina clementina",
+     "it": "la clementina",
+     "_pos": [
+      252,
+      316
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peach",
+     "fr": "la pêche",
+     "de": "der Pfirsich",
+     "es": "el durazno",
+     "it": "la pesca",
+     "_pos": [
+      472,
+      332
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nectarine",
+     "fr": "la nectarine",
+     "de": "die Nektarine",
+     "es": "la nectarina",
+     "it": "la pesca noce",
+     "_pos": [
+      686,
+      332
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pulp",
+     "fr": "la peau",
+     "de": "bianche die weiße",
+     "es": "Haut",
+     "it": "l api ella scorza interna",
+     "_pos": [
+      211,
+      365
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "es:case"
+     ],
+     "_alts": [
+      {
+       "en": "pulp",
+       "fr": "la peau",
+       "de": "bianche die weiße",
+       "es": "Haut la piel",
+       "it": "la scorza interna"
+      },
+      {
+       "en": "pulp",
+       "fr": "la peau",
+       "de": "bianche die weiße",
+       "es": "Haut la piel la scorza",
+       "it": "interna"
+      }
+     ]
+    },
+    {
+     "en": "apricot",
+     "fr": "l'abricot",
+     "de": "die Aprikose",
+     "es": "el chabacano",
+     "it": "l'albicocca",
+     "_pos": [
+      472,
+      514
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plum",
+     "fr": "la prune",
+     "de": "die Pflaume",
+     "es": "la ciruela",
+     "it": "la prugna",
+     "_pos": [
+      615,
+      514
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cherry",
+     "fr": "la cerise",
+     "de": "die Kirsche",
+     "es": "la cereza",
+     "it": "la ciliegia",
+     "_pos": [
+      757,
+      514
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tángelo",
+     "fr": "le tángelo",
+     "de": "die Tángelo",
+     "es": "el ugli",
+     "it": "il mapo",
+     "_pos": [
+      46,
+      529
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grapefruit",
+     "fr": "le pamplemousse",
+     "de": "die Grapefruit",
+     "es": "la toronja",
+     "it": "il pompeimo",
+     "_pos": [
+      259,
+      529
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apple",
+     "fr": "la pomme",
+     "de": "der Apfel",
+     "es": "la manzana",
+     "it": "la mela",
+     "_pos": [
+      684,
+      610
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le quartier",
+     "de": "die Rippe",
+     "es": "el gajo",
+     "it": "lo spicchio",
+     "_pos": [
+      238,
+      612
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "pear",
+     "fr": "la poire",
+     "de": "die Birne",
+     "es": "la pera",
+     "it": "la pera",
+     "_pos": [
+      474,
+      635
+     ],
+     "_flags": []
+    },
+    {
+     "en": "satsurria",
+     "fr": "la satsuma",
+     "de": "die Satsuma",
+     "es": "la m andarina satsum a",
+     "it": "il satsuma",
+     "_pos": [
+      260,
+      710
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "tangerine",
+     "fr": "la mandarine",
+     "de": "die Mandarine",
+     "es": "la m andarina il mandarino",
+     "_pos": [
+      47,
+      726
+     ],
+     "_flags": [
+      "missing:it",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "zest",
+     "fr": "le zeste",
+     "de": "die Schale",
+     "es": "la cáscara",
+     "it": "la buccia",
+     "_pos": [
+      233,
+      810
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lime",
+     "fr": "le cirròn vert",
+     "de": "die Limone",
+     "es": "la lima",
+     "it": "la limetta",
+     "_pos": [
+      47,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lemon",
+     "fr": "le citron",
+     "de": "die Zitrone",
+     "es": "el limón",
+     "it": "il limone",
+     "_pos": [
+      47,
+      1038
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kumquat",
+     "fr": "le kum quat",
+     "de": "die Kumquat",
+     "es": "la naranja vhina",
+     "it": "l'arancino cinese",
+     "_pos": [
+      260,
+      1038
+     ],
+     "_flags": []
+    },
+    {
+     "en": "basket of fruit",
+     "fr": "la corbeille de fruits",
+     "de": "der Obstkorb",
+     "es": "el frutero",
+     "it": "il cestino rii frutta",
+     "_pos": [
+      474,
+      1055
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 1,
+  "flagged": 19,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

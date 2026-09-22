@@ -1,0 +1,375 @@
+{
+ "page": 141,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • MANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "bar • le bar • die Bar • el bar • il bar",
+   "parts": [
+    "bar",
+    "le bar",
+    "die bar",
+    "el bar",
+    "il bar"
+   ],
+   "entries": [
+    {
+     "en": "glasses",
+     "fr": "les verres",
+     "de": "die Glaser",
+     "es": "las copas",
+     "_pos": [
+      52,
+      132
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "dispenser",
+     "fr": "la mesure",
+     "de": "das Maß",
+     "es": "el medidor óptico",
+     "it": "misurino",
+     "_pos": [
+      153,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cash register",
+     "fr": "la caisse",
+     "de": "die Kasse",
+     "es": "lu caja",
+     "_pos": [
+      304,
+      134
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "bartender",
+     "fr": "le barman",
+     "de": "der Barkeeper",
+     "es": "el barman",
+     "it": "il barista",
+     "_pos": [
+      441,
+      135
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beer tap",
+     "fr": "la pompe à hiere",
+     "de": "der Zapfhahn",
+     "es": "la llave de cerveza",
+     "it": "lo spillatore di birra",
+     "_pos": [
+      571,
+      135
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coffee machine",
+     "fr": "le percolateur",
+     "de": "die Kaffeemaschine",
+     "es": "la cafetera",
+     "it": "la macchina da caffè",
+     "_pos": [
+      728,
+      136
+     ],
+     "_flags": []
+    },
+    {
+     "en": "1 M J hl",
+     "fr": "» > 7",
+     "_pos": [
+      204,
+      444
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:num:1",
+      "en:short:M",
+      "en:short:J",
+      "fr:weird:»",
+      "fr:weird:>",
+      "fr:num:7"
+     ],
+     "_alts": [
+      [
+       "en",
+       "de"
+      ],
+      [
+       "en",
+       "es"
+      ],
+      [
+       "en",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "J",
+     "fr": "tj",
+     "de": "í",
+     "_pos": [
+      168,
+      473
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:short:J",
+      "en:case",
+      "de:short:í"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "es"
+      ],
+      [
+       "en",
+       "fr",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es"
+      ]
+     ]
+    },
+    {
+     "it": "i",
+     "_pos": [
+      122,
+      473
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "bar stool",
+     "fr": "le rabouret de bar",
+     "de": "der Barhocker",
+     "es": "la silla",
+     "it": "lo sgabello",
+     "_pos": [
+      214,
+      747
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ashtray",
+     "fr": "le cendrier",
+     "de": "der Aschbecher",
+     "es": "el cenicero",
+     "it": "il posacenere",
+     "_pos": [
+      342,
+      748
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coaster I",
+     "fr": "le dessous de verre",
+     "de": "der Untersetzer",
+     "es": "el posavasos",
+     "it": "il sottobicchiere",
+     "_pos": [
+      448,
+      748
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "bar",
+     "fr": "le comptoir",
+     "de": "die Theke",
+     "es": "la barra",
+     "it": "il banco",
+     "_pos": [
+      664,
+      750
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le seau à glace",
+     "de": "der Eiskübel",
+     "es": "la cham panera",
+     "it": "I portaghiaccio",
+     "_pos": [
+      91,
+      763
+     ],
+     "_flags": [
+      "missing:en",
+      "it:case"
+     ]
+    },
+    {
+     "en": "stirrer",
+     "fr": "l'agitateur",
+     "de": "der Cocktailnihrer",
+     "es": "el agitador",
+     "it": "il miscelatore",
+     "_pos": [
+      757,
+      867
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bottle opener",
+     "fr": "l'ouv rc-bourcillc",
+     "de": "der Flaschenöffner",
+     "es": "el destapador",
+     "it": "l'apribottiglie",
+     "_pos": [
+      42,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tongs",
+     "fr": "les pinces",
+     "de": "die Eiszange",
+     "es": "las pinzas",
+     "it": "le pinze",
+     "_pos": [
+      426,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lever",
+     "fr": "le levier",
+     "de": "der Hebel",
+     "es": "la palanca",
+     "it": "la leva",
+     "_pos": [
+      260,
+      913
+     ],
+     "_flags": []
+    },
+    {
+     "en": "measure",
+     "fr": "le verre gradué",
+     "de": "der Messbecher",
+     "es": "el medidor",
+     "it": "il misurino",
+     "_pos": [
+      756,
+      966
+     ],
+     "_flags": []
+    },
+    {
+     "en": "corkscrew",
+     "fr": "le tire-bouchon",
+     "de": "der Korkenzieher",
+     "es": "el sacacorchos",
+     "it": "il cavatappi",
+     "_pos": [
+      42,
+      1061
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cocktail shaker",
+     "fr": "le shaker à «cocktails",
+     "de": "der Cocktailshaker",
+     "es": "la coctelera",
+     "it": "lo shaker",
+     "_pos": [
+      432,
+      1064
+     ],
+     "_flags": [
+      "fr:weird:«cocktails"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "W",
+   "pos": [
+    178,
+    444
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "J",
+   "pos": [
+    215,
+    484
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "i~k k « a r ®",
+   "pos": [
+    194,
+    490
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 10,
+  "flagged": 11,
+  "missing_lang": 6,
+  "leftovers": 3,
+  "subcats": 1
+ }
+}

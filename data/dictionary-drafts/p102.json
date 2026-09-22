@@ -1,0 +1,493 @@
+{
+ "page": 102,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • I FS C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "measuring spoon",
+     "fr": "la cuiller pour mesurer",
+     "de": "der Messlöffel",
+     "es": "la su i liara medidora",
+     "it": "il cucchiaio misuratore",
+     "_pos": [
+      388,
+      88
+     ],
+     "_flags": []
+    },
+    {
+     "en": "instructions",
+     "fr": "le mode d' emploi",
+     "de": "die Gebrauchsanweisung",
+     "es": "el modo de empleo",
+     "it": "le istruzioni v",
+     "_pos": [
+      643,
+      88
+     ],
+     "_flags": [
+      "it:short:v"
+     ]
+    },
+    {
+     "en": "inhaler",
+     "fr": "l'inhalateur",
+     "de": "der Inhalierstift",
+     "es": "el inhalador",
+     "it": "l'inalatore",
+     "_pos": [
+      676,
+      249
+     ],
+     "_flags": []
+    },
+    {
+     "en": "syrup",
+     "fr": "le sirop",
+     "de": "der Saft",
+     "es": "el jarabe",
+     "it": "lo sciroppo",
+     "_pos": [
+      452,
+      253
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pill",
+     "fr": "la pilule",
+     "de": "die Pille",
+     "es": "la píldora",
+     "it": "la pillola",
+     "_pos": [
+      239,
+      254
+     ],
+     "_flags": []
+    },
+    {
+     "en": "capsule",
+     "fr": "la capsule",
+     "de": "die Kapsel",
+     "es": "la cápsula",
+     "it": "la pasticca",
+     "_pos": [
+      34,
+      256
+     ],
+     "_flags": []
+    },
+    {
+     "en": "suppository",
+     "fr": "le suppositoire",
+     "de": "das Zäpfchen",
+     "es": "el supositorio",
+     "it": "la supposta",
+     "_pos": [
+      678,
+      401
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gel",
+     "fr": "le gel",
+     "de": "das Gel",
+     "es": "el gel",
+     "it": "il gel",
+     "_pos": [
+      462,
+      402
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ointment",
+     "fr": "la pommade",
+     "de": "die Salbe",
+     "es": "la pomada",
+     "it": "l'unguento",
+     "_pos": [
+      242,
+      403
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cream",
+     "fr": "la crème",
+     "de": "die Creme",
+     "es": "la crema",
+     "it": "la crema",
+     "_pos": [
+      35,
+      404
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eye dropper",
+     "fr": "le compte-gouttes",
+     "de": "der Tropfer",
+     "es": "el gotero",
+     "it": "il contagocce",
+     "_pos": [
+      172,
+      470
+     ],
+     "_flags": []
+    },
+    {
+     "en": "needle",
+     "fr": "l'aiguillc",
+     "de": "die Nadel",
+     "es": "la aguja",
+     "it": "l'ago",
+     "_pos": [
+      404,
+      502
+     ],
+     "_flags": []
+    },
+    {
+     "en": "» %",
+     "fr": "MSB",
+     "_pos": [
+      308,
+      509
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:weird:»",
+      "en:weird:%",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "powder",
+     "fr": "la poudre",
+     "de": "der Puder",
+     "es": "los polvos",
+     "it": "la polvere",
+     "_pos": [
+      688,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "synnge",
+     "fr": "la seringue",
+     "de": "die Spritze",
+     "es": "la jeringa",
+     "it": "la siringa",
+     "_pos": [
+      250,
+      618
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eye drops",
+     "fr": "les gouttes",
+     "de": "die 'ropfen",
+     "es": "las gotas",
+     "it": "le gocce",
+     "_pos": [
+      36,
+      619
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spray",
+     "fr": "le spray",
+     "de": "der Spray",
+     "es": "el spray",
+     "it": "lo spray",
+     "_pos": [
+      464,
+      621
+     ],
+     "_flags": []
+    },
+    {
+     "en": "painkiller",
+     "fr": "l'analgésique",
+     "de": "das Schmerzmittel",
+     "es": "el analgésico",
+     "it": "l'antidolorifico",
+     "_pos": [
+      710,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "disposable",
+     "fr": "jetable",
+     "de": "Wegwerf",
+     "es": "desechable",
+     "it": "monouso",
+     "_pos": [
+      384,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "medicine",
+     "fr": "le médicament",
+     "de": "das Medikament",
+     "es": "el medicamento",
+     "it": "la medicina",
+     "_pos": [
+      523,
+      700
+     ],
+     "_flags": []
+    },
+    {
+     "en": "multivitamins",
+     "fr": "le médicament multivitamine",
+     "de": "das Multivitaminmittel",
+     "es": "el complejo vitamínico",
+     "it": "la multivitamina",
+     "_pos": [
+      173,
+      701
+     ],
+     "_flags": []
+    },
+    {
+     "en": "iron",
+     "fr": "le fer",
+     "de": "das Eisen",
+     "es": "el hierro",
+     "it": "il ferro",
+     "_pos": [
+      51,
+      702
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sedative",
+     "fr": "le sédatif",
+     "de": "das Beruhigungsmittei",
+     "es": "el calmante",
+     "it": "il sedativo",
+     "_pos": [
+      710,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "laxative",
+     "fr": "le laxatif",
+     "de": "das Abführmittel",
+     "es": "el laxante",
+     "it": "il lassativo",
+     "_pos": [
+      524,
+      799
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soluble",
+     "fr": "soluble",
+     "de": "löslich",
+     "es": "soluble",
+     "it": "solubile",
+     "_pos": [
+      384,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "side-effects",
+     "fr": "les effets secondaires",
+     "de": "die Nebenwirkungen",
+     "es": "los efectos secundarios",
+     "it": "gli effetti collaterali",
+     "_pos": [
+      174,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "calcium",
+     "fr": "le calcium",
+     "de": "das Kalzium",
+     "es": "el calcio",
+     "it": "il calcio",
+     "_pos": [
+      52,
+      801
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sleeping pill",
+     "fr": "le somnifère",
+     "de": "die Schlaftablette",
+     "es": "el somnífero",
+     "it": "il sonnifero",
+     "_pos": [
+      710,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diarrhea",
+     "fr": "la diarrhée",
+     "de": "der Durchfall",
+     "es": "la diarrea",
+     "it": "la diarrea",
+     "_pos": [
+      525,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "expiration date",
+     "fr": "la date d' expiration",
+     "de": "das Verfallsdatum",
+     "es": "la fecha de caducidad",
+     "it": "la data di scadenza",
+     "_pos": [
+      174,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dosage",
+     "fr": "la posologie",
+     "de": "die Dosierung",
+     "es": "la dosis",
+     "it": "il dosaggio",
+     "_pos": [
+      384,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "magnesium",
+     "fr": "le magnésium",
+     "de": "das Magnesium",
+     "es": "el magnesio",
+     "it": "il magnesio",
+     "_pos": [
+      53,
+      900
+     ],
+     "_flags": []
+    },
+    {
+     "en": "anti-inflammatory",
+     "fr": "I'anti-inflam m atoirc",
+     "de": "der Entzundungshemmer",
+     "es": "el anti inflamatorio",
+     "it": "Tantinfiammatorio",
+     "_pos": [
+      712,
+      996
+     ],
+     "_flags": [
+      "fr:short:m",
+      "fr:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "medication",
+     "fr": "la médication",
+     "de": "die Verordnung",
+     "es": "la medicación",
+     "it": "il medicamento",
+     "_pos": [
+      386,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "throat lozenge",
+     "fr": "pastille pour la gorge",
+     "de": "die Halspastille",
+     "es": "la pastilla para la garganta",
+     "it": "la pasticca per la gola",
+     "_pos": [
+      526,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "travel sickness pills",
+     "fr": "les cachets antinaupathiques",
+     "de": "die Reisekrankheitstabletten",
+     "es": "las pildoras para el mareo",
+     "it": "le pasticche per il mal d'auto",
+     "_pos": [
+      175,
+      999
+     ],
+     "_flags": []
+    },
+    {
+     "en": "insulin",
+     "fr": "l'insuline",
+     "de": "das Insulin",
+     "es": "la insulina",
+     "it": "l'insulina",
+     "_pos": [
+      54,
+      1000
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "> >",
+   "pos": [
+    274,
+    558
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 37,
+  "complete_clean": 19,
+  "flagged": 18,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 0
+ }
+}

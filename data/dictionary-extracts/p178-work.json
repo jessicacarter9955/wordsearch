@@ -1,0 +1,405 @@
+{
+ "page": 178,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "dentist",
+     "fr": "dentiste",
+     "de": "Zahnärztin",
+     "es": "dentista",
+     "it": "dentista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "doctor",
+     "fr": "docteur",
+     "de": "Arzt",
+     "es": "médico",
+     "it": "medico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "optician",
+     "fr": "opticien",
+     "de": "Optiker",
+     "es": "optom etrist«",
+     "it": "ottico",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 11,
+      "it": 6
+     }
+    },
+    {
+     "en": "estate agent",
+     "fr": "agent immobilier",
+     "de": "Immobilienmaklerin",
+     "es": "agente inmobiliario",
+     "it": "agente immobiliare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 18,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "farmer",
+     "fr": "fermier",
+     "de": "Bauer",
+     "es": "agricultor",
+     "it": "agricoltore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 5,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "vet",
+     "fr": "vétérinaire",
+     "de": "Tierarztin",
+     "es": "veterinaria",
+     "it": "veterinaria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 11,
+      "de": 10,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "nurse",
+     "fr": "infirmière",
+     "de": "Krankenschwester",
+     "es": "enfermera",
+     "it": "infermiera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 16,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "pharmacist",
+     "fr": "pharmacienne",
+     "de": "Apothekerin",
+     "es": "farmacéutica",
+     "it": "farmacista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 11,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "identity card",
+     "fr": "badge",
+     "de": "Abzeichen",
+     "es": "placa de identificación",
+     "it": "distintivo",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 5,
+      "de": 9,
+      "es": 21,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "security guard",
+     "fr": "garde",
+     "de": "Wächter",
+     "es": "guardia de seguridad",
+     "it": "guardia di sicurezza",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 5,
+      "de": 7,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "fisherman",
+     "fr": "pêcheur",
+     "de": "Fischer",
+     "es": "pescador",
+     "it": "pescatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "uniform",
+     "fr": "uniforme",
+     "de": "Uniform",
+     "es": "uniforme",
+     "it": "divisa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "machine gun",
+     "fr": "mirra i lieuse",
+     "de": "Maschinen gewehr",
+     "es": "metralleta",
+     "it": "mitragliatrice",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 15,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "fireman",
+     "fr": "pompier",
+     "de": "Feuerwehrmann",
+     "es": "bombero",
+     "it": "vigile del fuoco",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 13,
+      "es": 7,
+      "it": 14
+     }
+    },
+    {
+     "en": "policeman",
+     "fr": "policier",
+     "de": "Polizist",
+     "es": "policía",
+     "it": "poliziotto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "soldier",
+     "fr": "soldat",
+     "de": "Soldat",
+     "es": "soldado",
+     "it": "soldato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "sailor",
+     "fr": "marin",
+     "de": "Seemann",
+     "es": "marino",
+     "it": "marinaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

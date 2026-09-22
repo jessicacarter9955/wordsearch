@@ -1,0 +1,383 @@
+{
+ "page": 254,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "intrattenimenti-in-casa",
+   "names": {
+    "en": "home entertainment",
+    "fr": "les distractions à la maison",
+    "de": "die privatunter haltung",
+    "es": "el entretenimiento en el hogar",
+    "it": "gli intrattenimenti in casa"
+   },
+   "entries": [
+    {
+     "en": "D VD",
+     "fr": "D V D",
+     "de": "DVD-Piatte",
+     "es": "disco de D V D",
+     "it": "disco DVD",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 9,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "personal CD player",
+     "fr": "baladeur C D",
+     "de": "Discman",
+     "es": "discm an",
+     "it": "lettore di CD portatile",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 10,
+      "de": 7,
+      "es": 7,
+      "it": 20
+     }
+    },
+    {
+     "en": "mini disc recorder",
+     "fr": "enregistreur m inidisk",
+     "de": "Minidiskrekorder",
+     "es": "grabadora de m inidisks",
+     "it": "lettore di mini disk",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 20,
+      "de": 16,
+      "es": 20,
+      "it": 17
+     }
+    },
+    {
+     "en": "MP3 player",
+     "fr": "baladeur M P3",
+     "de": "MP3-Spieler",
+     "es": "lector de M P3",
+     "it": "lettore di MP3",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 10,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "D VD player",
+     "fr": "lecteur D V D",
+     "de": "DVD-Spieler",
+     "es": "reproductor de D V D",
+     "it": "lettore di DVD",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 10,
+      "es": 16,
+      "it": 12
+     }
+    },
+    {
+     "en": "record player",
+     "fr": "tourne-disque",
+     "de": "Plattenspieler",
+     "es": "tocadiscos",
+     "it": "giradischi",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 14,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "player",
+     "fr": "lecteur C D",
+     "de": "CD-Spieler",
+     "es": "lector de discos com pactos",
+     "it": "lettore di CD",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 23,
+      "it": 11
+     }
+    },
+    {
+     "en": "speaker",
+     "fr": "baffle",
+     "de": "Box",
+     "es": "bocina",
+     "it": "altoparlante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 3,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "radio",
+     "fr": "radio",
+     "de": "Radio",
+     "es": "radio",
+     "it": "radio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "amplifier",
+     "fr": "amplificateur",
+     "de": "Verstärker",
+     "es": "amplificador",
+     "it": "amplificatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "speaker stand",
+     "fr": "supporr",
+     "de": "Ständer",
+     "es": "pie de la bocina",
+     "it": "supporto per l'altoparlante",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 7,
+      "es": 13,
+      "it": 24
+     }
+    },
+    {
+     "en": "headphones",
+     "fr": "écouteurs",
+     "de": "Kopfhörer",
+     "es": "audífonos",
+     "it": "cuffie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "stereo rack",
+     "fr": "étagère",
+     "de": "Rack",
+     "es": "mueble",
+     "it": "supporto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 4,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "stereo system",
+     "fr": "chaîne hi-fi",
+     "de": "Hi-Fi-Anlage",
+     "es": "equipo de alta fidelidad",
+     "it": "impianto stereo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 10,
+      "es": 21,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

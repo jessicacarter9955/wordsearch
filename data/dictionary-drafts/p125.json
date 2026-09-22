@@ -1,0 +1,286 @@
+{
+ "page": 125,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "F O O D • L A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "herbs • les herbes • die Kräuter • las hierbas",
+   "parts": [
+    "herbs",
+    "les herbes",
+    "die kräuter",
+    "las hierbas"
+   ],
+   "entries": [
+    {
+     "en": "fennel seeds",
+     "fr": "les graines de fenouil",
+     "de": "die Fenchelsamen",
+     "es": "las sem illas dt1 hinojo",
+     "it": "i semi di finocchio",
+     "_pos": [
+      344,
+      119
+     ],
+     "_flags": [
+      "es:num:dt1"
+     ]
+    },
+    {
+     "en": "cinnamon",
+     "fr": "la cannelle",
+     "de": "der Zimt",
+     "es": "la canela",
+     "it": "la cannella",
+     "_pos": [
+      35,
+      270
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parsley",
+     "fr": "le persil",
+     "de": "die Petersilie",
+     "es": "el perejil",
+     "it": "il prezzemolo",
+     "_pos": [
+      717,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bay leaf",
+     "fr": "la feuille de laurier",
+     "de": "das Lorbeerblatt",
+     "es": "el laurel",
+     "it": "l'alloro",
+     "_pos": [
+      546,
+      299
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fennel",
+     "fr": "le fenouil",
+     "de": "der Fenchel",
+     "es": "el hinojo",
+     "it": "il finocchio",
+     "_pos": [
+      206,
+      301
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lemon grass",
+     "fr": "la citronnelle",
+     "de": "das Zitronengras",
+     "es": "la dtronela",
+     "it": "la ci trancila",
+     "_pos": [
+      38,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sage",
+     "fr": "la sauge",
+     "de": "der Salbei",
+     "es": "la salvia",
+     "it": "la salvia",
+     "_pos": [
+      720,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thyme",
+     "fr": "le thym",
+     "de": "der Thymian",
+     "es": "el tomillo",
+     "it": "il timo",
+     "_pos": [
+      550,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mint",
+     "fr": "la menthe",
+     "de": "die Minze",
+     "es": "la menta",
+     "it": "la menta",
+     "_pos": [
+      380,
+      546
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chives",
+     "fr": "la ciboulette",
+     "de": "der Schnittlauch",
+     "es": "los cebollinos",
+     "it": "l'erba",
+     "_pos": [
+      208,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "en": "girofle",
+     "de": "die Gewürznelke",
+     "es": "los davos",
+     "it": "i chiodi di garofano",
+     "_pos": [
+      40,
+      615
+     ],
+     "_flags": [
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "marjoram",
+     "fr": "la marjolaine",
+     "de": "der Majoran",
+     "es": "la mejorana",
+     "it": "la maggiorana",
+     "_pos": [
+      382,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tarragon",
+     "fr": "l'estragon",
+     "de": "der Estragon",
+     "es": "el estragón",
+     "it": "il dragoncello",
+     "_pos": [
+      211,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "star anise",
+     "fr": "l'anis étoilé",
+     "de": "der Sternarnis",
+     "es": "el anís estrellado",
+     "it": "l'anice stellato",
+     "_pos": [
+      41,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Basilikum",
+     "fr": "la albahaca",
+     "it": "il basilico",
+     "_pos": [
+      552,
+      808
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "en:case"
+     ]
+    },
+    {
+     "en": "rosemary",
+     "fr": "le rom .inn",
+     "de": "der Rosmarin",
+     "es": "el romero",
+     "it": "I rosmarino",
+     "_pos": [
+      726,
+      1020
+     ],
+     "_flags": [
+      "fr:weird:.inn",
+      "it:case"
+     ]
+    },
+    {
+     "en": "coriander",
+     "fr": "la coriandre",
+     "de": "der Koriander « e l cilantro",
+     "it": "il coriandolo",
+     "_pos": [
+      384,
+      1022
+     ],
+     "_flags": [
+      "missing:es",
+      "de:weird:«"
+     ]
+    },
+    {
+     "en": "oregano",
+     "fr": "l'origan",
+     "de": "der Oregano",
+     "es": "el orégano",
+     "it": "l'origano",
+     "_pos": [
+      214,
+      1024
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rnger",
+     "fr": "le gingembre",
+     "de": "der Ingwer",
+     "es": "el 'engibre",
+     "it": "lo zenzero",
+     "_pos": [
+      44,
+      1026
+     ],
+     "_flags": []
+    },
+    {
+     "es": "el eneldo",
+     "it": "l'aneto",
+     "_pos": [
+      555,
+      1038
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 0,
+  "flagged": 20,
+  "missing_lang": 4,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "page": 127,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "F O O D • I .A N O U R R IT U R E • DIE NAHRUNGSMITTEL • L O S A L IM E N T O S • IL CIBO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "bottle",
+     "fr": "la bouteille",
+     "de": "die Flasche",
+     "es": "la botella",
+     "it": "la bottiglia",
+     "_pos": [
+      493,
+      83
+     ],
+     "_flags": []
+    },
+    {
+     "en": "condiment sand spreads",
+     "fr": "les condiments",
+     "de": "die Würzen",
+     "es": "io s c o n d im e n t o s",
+     "it": "condimenti e cibi da spalmare",
+     "_pos": [
+      24,
+      84
+     ],
+     "_flags": [
+      "es:short:s",
+      "es:short:c",
+      "es:short:n",
+      "es:short:t"
+     ]
+    },
+    {
+     "en": "balsamic vinegar",
+     "fr": "le vinaigre balsamique",
+     "de": "der Gewurzessig",
+     "es": "el vinagre balsámico",
+     "_pos": [
+      354,
+      148
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "cider vinegar",
+     "fr": "le vinaigre de cidre",
+     "de": "der Apfelweinessig",
+     "es": "el vinagre de sidra",
+     "it": "l'aceto di sidro",
+     "_pos": [
+      154,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "English mustard",
+     "fr": "la moutarde anglaise",
+     "de": "der englische Senf",
+     "es": "la mostaza inglesa",
+     "it": "la senape",
+     "_pos": [
+      707,
+      197
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "ketchup",
+     "fr": "le ketchup",
+     "de": "der Ketchup",
+     "es": "la catsup",
+     "it": "il ketchup",
+     "_pos": [
+      536,
+      323
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mayonnaise",
+     "fr": "la mayonnaise",
+     "de": "die Majonäse",
+     "es": "la mayonesa",
+     "it": "la maionese",
+     "_pos": [
+      26,
+      330
+     ],
+     "_flags": []
+    },
+    {
+     "en": "French mustard",
+     "fr": "ln m outarde française",
+     "de": "der französische Senf",
+     "es": "la mostaza francesa",
+     "it": "la mostarda",
+     "_pos": [
+      708,
+      410
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "wholegrain mustard",
+     "fr": "la moutarde en grains",
+     "de": "der grobe Senf",
+     "es": "la mostaza en grano",
+     "it": "la mostarda con semi",
+     "_pos": [
+      708,
+      608
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le vinaigre de viti",
+     "de": "der Weinessig",
+     "es": "el vinagre de vino",
+     "it": "l'aceto di vino",
+     "_pos": [
+      386,
+      608
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "sauce",
+     "fr": "la sauce",
+     "de": "die Soße",
+     "es": "la salsa",
+     "it": "la salsa",
+     "_pos": [
+      562,
+      608
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le vinaigre tic malt",
+     "de": "der Malzessig",
+     "es": "el vinagre de malta",
+     "it": "l'aceto di malto",
+     "_pos": [
+      212,
+      609
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "chutney",
+     "fr": "le chutney",
+     "de": "das Chutney",
+     "es": "el chutney",
+     "it": "il chutney",
+     "_pos": [
+      27,
+      627
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      197,
+      691
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "vinegar",
+      "le vinaigre",
+      "der Essig",
+      "el vinagre",
+      "l'aceto sealed jar",
+      "le bocal scellé",
+      "das Einmachglas",
+      "el tarro herm ético",
+      "il barattolo a chiusura ermetica"
+     ]
+    },
+    {
+     "en": "vegetable oil",
+     "fr": "l'huile végétale",
+     "de": "das Pflanzenöl",
+     "es": "el aceite vegetal",
+     "it": "l'olio vegetale",
+     "_pos": [
+      553,
+      739
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cañóla oil",
+     "fr": "l'huile de colza",
+     "de": "das Rapsöl",
+     "es": "el aceite de colza",
+     "it": "l'olio di colza",
+     "_pos": [
+      702,
+      740
+     ],
+     "_flags": []
+    },
+    {
+     "en": "corn oil",
+     "fr": "l'huile de mais",
+     "de": "das Maiskeimol",
+     "es": "el aceite de maíz",
+     "it": "l'olio di mais",
+     "_pos": [
+      554,
+      838
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coid-pressed oil",
+     "fr": "l'huile pressée à froid",
+     "de": "das kaltgepresste Öl",
+     "es": "el aceite de presión",
+     "it": "en frió l'olio spremuto a freddo",
+     "_pos": [
+      702,
+      838
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "coid-pressed oil",
+       "fr": "l'huile pressée à froid",
+       "de": "das kaltgepresste Öl",
+       "es": "el aceite de presión en frió",
+       "it": "l'olio spremuto a freddo"
+      }
+     ]
+    },
+    {
+     "en": "peanut oil",
+     "fr": "l'huile d'arachide",
+     "de": "das Erdnussöl",
+     "es": "el aceite ele",
+     "it": "cacahuete l'olio di arachide",
+     "_pos": [
+      555,
+      937
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "peanut oil",
+       "fr": "l'huile d'arachide",
+       "de": "das Erdnussöl",
+       "es": "el aceite ele cacahuete",
+       "it": "l'olio di arachide"
+      }
+     ]
+    },
+    {
+     "en": "preserved fruit",
+     "fr": "les fruits en bocaux",
+     "de": "das eingemachte Obst",
+     "es": "la Fruta en conserva",
+     "it": "la conserva di frutta",
+     "_pos": [
+      370,
+      1003
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "chocolate spread",
+     "fr": "la pâte à tartiner au chocolat",
+     "de": "der Schokoladenautstrich",
+     "es": "el chocolate para untar",
+     "it": "la cioccolata spalmarle",
+     "_pos": [
+      198,
+      1004
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peanut butter",
+     "fr": "le beurre de cacahouètes",
+     "de": "die Erdnussbutter",
+     "es": "la crema de cacahuete",
+     "it": "il burro di arachidi",
+     "_pos": [
+      30,
+      1005
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "balsamico",
+   "pos": [
+    398,
+    213
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "vinegar",
+   "pos": [
+    416,
+    591
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 4,
+  "flagged": 18,
+  "missing_lang": 3,
+  "leftovers": 2,
+  "subcats": 0
+ }
+}

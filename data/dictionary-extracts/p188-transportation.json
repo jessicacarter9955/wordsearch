@@ -1,0 +1,425 @@
+{
+ "page": 188,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "handle",
+     "fr": "poignée",
+     "de": "Türgriff",
+     "es": "manija",
+     "it": "maniglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "headrest",
+     "fr": "repose-tête",
+     "de": "Kopfstütze",
+     "es": "reposacabezas",
+     "it": "poggiatesta",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "door lock",
+     "fr": "verrouillage",
+     "de": "Türverriegelung",
+     "es": "seguro",
+     "it": "sicura",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 15,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "armrest",
+     "fr": "accoudoir",
+     "de": "Armstütze",
+     "es": "reposabrazos",
+     "it": "bracciolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 9,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "backseat",
+     "fr": "siège arrière",
+     "de": "Rücksitz",
+     "es": "asiento trasero",
+     "it": "sedile posteriore",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 8,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "èk",
+     "_multi": [],
+     "_grid_len": {
+      "en": 2
+     }
+    },
+    {
+     "it": "I",
+     "_multi": [],
+     "_grid_len": {
+      "it": 1
+     }
+    },
+    {
+     "en": "accelerator",
+     "fr": "accélérateur",
+     "de": "Gaspedal",
+     "es": "acelerador",
+     "it": "acceleratore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 8,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "brake",
+     "fr": "frein",
+     "de": "Bremse",
+     "es": "freno",
+     "it": "freno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "automatic",
+     "fr": "automatique",
+     "de": "mit Automatik",
+     "es": "automático",
+     "it": "automatico",
+     "_multi": [
+      "de"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 12,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "four-dcor",
+     "fr": "à quatre portes",
+     "de": "viertürig",
+     "es": "de cuatro puertas",
+     "it": "a quattro porte",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 9,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "two door",
+     "fr": "à deux portes",
+     "de": "zweitürig",
+     "es": "dos puertas",
+     "it": "a due porte",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "air-conditioning",
+     "fr": "climatisation",
+     "de": "Klimaanlage",
+     "es": "aire acondicionado",
+     "it": "aria condizionata",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 11,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "clutch",
+     "fr": "embrayage",
+     "de": "Kupplung",
+     "es": "embrague",
+     "it": "frizione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "ignition",
+     "fr": "allumage",
+     "de": "Zündung",
+     "es": "encendido",
+     "it": "accensione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "three-door",
+     "fr": "à trois portes",
+     "de": "dreitürig",
+     "es": "de tres puertas",
+     "it": "a tre porte",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 9,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "manual",
+     "fr": "manuel",
+     "de": "mit Handschaltung",
+     "es": "manual",
+     "it": "manuale",
+     "_multi": [
+      "de"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 16,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "Can 1 park here?",
+     "fr": "O n peut se garer ici?",
+     "de": "Kann ich hier parken?",
+     "es": "Se puede estacionar aquí?",
+     "it": "Posso parcheggiare qui?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 17,
+      "es": 21,
+      "it": 20
+     }
+    },
+    {
+     "en": "W here is the parking lot?",
+     "fr": "O ù est le parking?",
+     "de": "Wo ist hier ein Parkplatz?",
+     "es": "D ónde hay un estacionamiento?",
+     "it": "Dov'è il parcheggio?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 14,
+      "de": 21,
+      "es": 25,
+      "it": 16
+     }
+    },
+    {
+     "en": "Can you tell me the way to ...?",
+     "fr": "Pouvez-vous m'indiquer la route p o u r...?",
+     "de": "Wie komme ich nach...?",
+     "es": "M e puede decir cómo se va a ...?",
+     "it": "Può indicarmi la strada per...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 30,
+      "de": 15,
+      "es": 21,
+      "it": 23
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,578 @@
+{
+ "page": 236,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "race-ear driver",
+     "fr": "coureur automobile",
+     "de": "Rennfahrer",
+     "es": "ul piloto ele carreras",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 10,
+      "es": 19
+     }
+    },
+    {
+     "en": "motorbike racing",
+     "fr": "course de m oro",
+     "de": "Motorradrennen",
+     "es": "moto ciclismo",
+     "it": "motociclismo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 12,
+      "de": 14,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "motocross",
+     "fr": "motocross",
+     "de": "Motocross",
+     "es": "m otocross",
+     "it": "motocross",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "auto racing",
+     "fr": "course automobile",
+     "de": "det Rennsport",
+     "es": "automovilismo",
+     "it": "automobilismo",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 12,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "rally driving",
+     "fr": "rallye",
+     "de": "Rallyefahren",
+     "es": "rally",
+     "it": "rally",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "Stick",
+     "fr": "crosse",
+     "de": "Lacrosseschläger",
+     "es": "palo",
+     "it": "mazza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 16,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "foil",
+     "fr": "fleurer",
+     "de": "Florett",
+     "es": "florete",
+     "it": "fioretto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "mask",
+     "fr": "masque",
+     "de": "Maske",
+     "es": "máscara",
+     "it": "maschera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "skateboard",
+     "fr": "planche à roulettes",
+     "de": "Skateboard",
+     "es": "lapa tineta",
+     "it": "tavola da skateboard",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 10,
+      "es": 10,
+      "it": 18
+     }
+    },
+    {
+     "en": "rollerskate",
+     "fr": "patin à roulettes",
+     "de": "Rollschuh",
+     "es": "patín de ruedas",
+     "it": "pattino a rotelle",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 9,
+      "es": 13,
+      "it": 15
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "fencing",
+     "fr": "Pósenme",
+     "de": "Fechten",
+     "es": "esgrima",
+     "it": "scherma",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "lacrosse",
+     "fr": "lacrosse",
+     "de": "Lacrosse",
+     "es": "lacrosse",
+     "it": "lacrosse",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "roller-skating",
+     "fr": "patinage à roulettes",
+     "de": "Rollschuhfahren",
+     "es": "patinaje",
+     "it": "pattinaggio a rotelle",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 15,
+      "es": 8,
+      "it": 19
+     }
+    },
+    {
+     "en": "skateboarding",
+     "fr": "planche à roulettes",
+     "de": "Skateboard fahren",
+     "es": "andar en patineta",
+     "it": "skate board",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 16,
+      "es": 15,
+      "it": 10
+     }
+    },
+    {
+     "en": "target",
+     "fr": "cible",
+     "de": "Zielscheibe",
+     "es": "diana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 11,
+      "es": 5
+     }
+    },
+    {
+     "en": "bow",
+     "fr": "arc",
+     "de": "Bogen",
+     "es": "arco",
+     "it": "arco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "arrow",
+     "fr": "flèche",
+     "de": "Pfeil",
+     "es": "flecha",
+     "it": "freccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "quiver",
+     "fr": "carquois",
+     "de": "Kocher",
+     "es": "carcaj",
+     "it": "faretra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "target shooting",
+     "fr": "tir à cible",
+     "de": "Scheibenschießen",
+     "es": "uro",
+     "it": "tiro ni bersaglio",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 9,
+      "de": 17,
+      "es": 3,
+      "it": 15
+     }
+    },
+    {
+     "en": "archery",
+     "fr": "n r à Parc",
+     "de": "Bogenschießen",
+     "es": "tiro con arco",
+     "it": "tiro con l'arco",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "bowling ball",
+     "fr": "houle de",
+     "de": "how ling die Bowlingkugel",
+     "es": "hola de boliche",
+     "it": "palla da bowling",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 22,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "snooker",
+     "fr": "billard",
+     "de": "Snooker",
+     "es": "billar",
+     "it": "snooker",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "pool",
+     "fr": "billard américain",
+     "de": "Poolbillard",
+     "es": "pool",
+     "it": "biliardo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 16,
+      "de": 11,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "bowling",
+     "fr": "bowling",
+     "de": "Bowling",
+     "es": "boliche",
+     "it": "bowling",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

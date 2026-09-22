@@ -1,0 +1,320 @@
+{
+ "page": 188,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • L L T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "car 2 • la voiture 2 • das Auto 2 • el carro 2 • l'automobile 2 interior • l'intérieur • die Innenausstattung • el interior • l'interno",
+   "parts": [
+    "car",
+    "la voiture",
+    "das auto",
+    "el carro",
+    "l'automobile 2 interior",
+    "l'intérieur",
+    "die innenausstattung",
+    "el interior",
+    "l'interno"
+   ],
+   "entries": [
+    {
+     "en": "handle",
+     "fr": "la poignée",
+     "de": "der Türgriff",
+     "es": "la manija",
+     "it": "la maniglia",
+     "_pos": [
+      766,
+      151
+     ],
+     "_flags": []
+    },
+    {
+     "en": "headrest",
+     "fr": "le repose-tête",
+     "de": "die Kopfstütze",
+     "es": "el reposacabezas",
+     "it": "il poggiatesta",
+     "_pos": [
+      406,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "door lock",
+     "fr": "le verrouillage",
+     "de": "die Türverriegelung",
+     "es": "el seguro",
+     "it": "la sicura",
+     "_pos": [
+      584,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "armrest",
+     "fr": "l'accoudoir",
+     "de": "die Armstütze",
+     "es": "el reposabrazos",
+     "it": "il bracciolo",
+     "_pos": [
+      256,
+      154
+     ],
+     "_flags": []
+    },
+    {
+     "en": "backseat",
+     "fr": "le siège arrière",
+     "de": "der Rücksitz",
+     "es": "el asiento trasero",
+     "it": "il sedile posteriore",
+     "_pos": [
+      40,
+      155
+     ],
+     "_flags": []
+    },
+    {
+     "en": "èk",
+     "_pos": [
+      73,
+      418
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "it": "I",
+     "_pos": [
+      371,
+      470
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "it:case"
+     ]
+    },
+    {
+     "en": "accelerator",
+     "fr": "l'accélérateur",
+     "de": "das Gaspedal",
+     "es": "el acelerador",
+     "it": "l'acceleratore",
+     "_pos": [
+      708,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brake",
+     "fr": "le frein",
+     "de": "die Bremse",
+     "es": "el freno",
+     "it": "il freno",
+     "_pos": [
+      562,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "automatic",
+     "fr": "automatique",
+     "de": "mit Automatik",
+     "es": "automático",
+     "it": "automatico",
+     "_pos": [
+      397,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "four-dcor",
+     "fr": "à quatre portes",
+     "de": "viertürig",
+     "es": "de cuatro puertas",
+     "it": "a quattro porte",
+     "_pos": [
+      210,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "two door",
+     "fr": "à deux portes",
+     "de": "zweitürig",
+     "es": "dos puertas",
+     "it": "a due porte",
+     "_pos": [
+      59,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "air-conditioning",
+     "fr": "la climatisation",
+     "de": "die Klimaanlage",
+     "es": "el aire acondicionado",
+     "it": "l'aria condizionata",
+     "_pos": [
+      708,
+      891
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clutch",
+     "fr": "l'embrayage",
+     "de": "die Kupplung",
+     "es": "el embrague",
+     "it": "la frizione",
+     "_pos": [
+      562,
+      892
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ignition",
+     "fr": "l'allumage",
+     "de": "die Zündung",
+     "es": "el encendido",
+     "it": "l'accensione",
+     "_pos": [
+      398,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "three-door",
+     "fr": "à trois portes",
+     "de": "dreitürig",
+     "es": "de tres puertas",
+     "it": "a tre porte",
+     "_pos": [
+      60,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "manual",
+     "fr": "manuel",
+     "de": "mit Handschaltung",
+     "es": "manual",
+     "it": "manuale",
+     "_pos": [
+      210,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can 1 park here?",
+     "fr": "O n peut se garer ici?",
+     "de": "Kann ich hier parken?",
+     "es": "Se puede estacionar aquí?",
+     "it": "Posso parcheggiare qui?",
+     "_pos": [
+      646,
+      990
+     ],
+     "_flags": [
+      "en:num:1",
+      "en:weird:here?",
+      "en:case",
+      "fr:short:n",
+      "fr:weird:ici?",
+      "fr:case",
+      "de:weird:parken?",
+      "es:weird:aquí?",
+      "es:case",
+      "it:weird:qui?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "W here is the parking lot?",
+     "fr": "O ù est le parking?",
+     "de": "Wo ist hier ein Parkplatz?",
+     "es": "D ónde hay un estacionamiento?",
+     "it": "Dov'è il parcheggio?",
+     "_pos": [
+      401,
+      992
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:lot?",
+      "en:case",
+      "fr:short:ù",
+      "fr:weird:parking?",
+      "fr:case",
+      "de:weird:Parkplatz?",
+      "es:weird:estacionamiento?",
+      "es:case",
+      "it:weird:parcheggio?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Can you tell me the way to ...?",
+     "fr": "Pouvez-vous m'indiquer la route p o u r...?",
+     "de": "Wie komme ich nach...?",
+     "es": "M e puede decir cómo se va a ...?",
+     "it": "Può indicarmi la strada per...?",
+     "_pos": [
+      60,
+      993
+     ],
+     "_flags": [
+      "en:weird:...?",
+      "en:case",
+      "fr:short:p",
+      "fr:short:u",
+      "fr:weird:r...?",
+      "fr:case",
+      "de:weird:nach...?",
+      "es:short:M",
+      "es:weird:...?",
+      "es:case",
+      "it:weird:per...?",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 13,
+  "flagged": 7,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

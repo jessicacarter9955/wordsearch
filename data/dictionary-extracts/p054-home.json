@@ -1,0 +1,419 @@
+{
+ "page": 54,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "apartment",
+     "fr": "appartement",
+     "de": "Wohnung",
+     "es": "departamento",
+     "it": "appartamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 7,
+      "es": 12,
+      "it": 12
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "entrance",
+     "fr": "entrée",
+     "de": "Eingang",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 7
+     }
+    },
+    {
+     "fr": "in g resso",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'"
+     },
+     "_grid_len": {
+      "fr": 8
+     }
+    },
+    {
+     "en": "balcony",
+     "fr": "balcon",
+     "de": "Balkon",
+     "es": "balcón",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6
+     }
+    },
+    {
+     "en": "landing",
+     "fr": "palier",
+     "de": "Treppenabsatz",
+     "es": "descanso",
+     "it": "pianerottolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 13,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "hand rail",
+     "fr": "main cor nanti",
+     "de": "Geländer",
+     "es": "pasamanos",
+     "it": "ringhierà",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "banister",
+     "fr": "rampe",
+     "de": "Treppengeländer",
+     "es": "barandal",
+     "it": "corrimano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 15,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "staircase",
+     "fr": "i'cscalier",
+     "de": "Treppe",
+     "es": "escalera",
+     "it": "scale",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "apartment block",
+     "fr": "immeuble",
+     "de": "Wohnblock",
+     "es": "edificio",
+     "it": "caseggiato",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "hallway",
+     "fr": "vesribnle",
+     "de": "Dieie",
+     "es": "vestibolo",
+     "it": "entrata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 5,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "intercom",
+     "fr": "interphone",
+     "de": "Sprechanlage",
+     "es": "interfono",
+     "it": "citofono",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 12,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "door knocker",
+     "fr": "marteau de porte",
+     "de": "Türklopfer",
+     "es": "aldaba",
+     "it": "battente",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 10,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "doorbell",
+     "fr": "sonnette",
+     "de": "Türklingel",
+     "es": "timbre",
+     "it": "campanello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 10,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "doormat",
+     "fr": "paillasson",
+     "de": "Fußabtreter",
+     "es": "tapete",
+     "it": "zerbino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 12,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "key",
+     "fr": "Jet",
+     "de": "Schlüssel",
+     "es": "llave",
+     "it": "chiave",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "elevator",
+     "fr": "ascenseur",
+     "de": "Fahrstuhl",
+     "es": "elevador",
+     "it": "ascensore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "bolt",
+     "fr": "verrou",
+     "de": "Türriegel",
+     "es": "cerrojo",
+     "it": "chiavistello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 9,
+      "es": 7,
+      "it": 12
+     }
+    },
+    {
+     "en": "lock",
+     "fr": "serrure",
+     "de": "Schloss",
+     "es": "cerradura",
+     "it": "serratura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "door chain",
+     "fr": "chaîne de >ùreté",
+     "de": "Türkette",
+     "es": "cadena",
+     "it": "catenella",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 8,
+      "es": 6,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

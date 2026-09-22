@@ -1,0 +1,608 @@
+{
+ "page": 56,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "lever",
+     "fr": "manette",
+     "de": "Hebel",
+     "es": "palanca",
+     "it": "leva",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "outlet",
+     "fr": "sortie",
+     "de": "Auslass",
+     "es": "salida",
+     "it": "uscita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "gasket",
+     "fr": "joint",
+     "de": "Dichtung",
+     "es": "junta",
+     "it": "guarnizione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 8,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "insulation",
+     "fr": "isolation",
+     "de": "Isolierung",
+     "es": "aislamiento",
+     "it": "isolamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 10,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "supply pipe",
+     "fr": "conduite",
+     "de": "d'a menée die Zuleitung",
+     "es": "toma del",
+     "it": "agua il tubo dell'acqua",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 19,
+      "es": 7,
+      "it": 19
+     }
+    },
+    {
+     "en": "shutoff valve",
+     "fr": "robinet de sectionnement",
+     "de": "Absperrhahn",
+     "es": "llave de paso",
+     "it": "rubinetto di arresto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 22,
+      "de": 11,
+      "es": 11,
+      "it": 18
+     }
+    },
+    {
+     "en": "tank",
+     "fr": "réservoir",
+     "de": "Kessel",
+     "es": "tanque",
+     "it": "serbatoio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "overflow pipe",
+     "fr": "trop-plein",
+     "de": "Überlauf",
+     "es": "tubo de desagüe",
+     "it": "l tubo di troppopieno",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 8,
+      "es": 13,
+      "it": 18
+     }
+    },
+    {
+     "en": "waste disposal unit",
+     "fr": "broyeur d'ordures",
+     "de": "Müllschlucker",
+     "es": "triturador de basuras",
+     "it": "macinature di rifiuti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 15,
+      "de": 13,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "dram",
+     "fr": "tuyau d‘écoulement",
+     "de": "Abfluss",
+     "es": "desagüe",
+     "it": "scolo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 16,
+      "de": 7,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "drain valve",
+     "fr": "robinet de purge",
+     "de": "Ablasshahn",
+     "es": "llave del desagüe",
+     "it": "rubinetto di scarico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 10,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "ater chamber",
+     "fr": "chambre d'eau",
+     "de": "rtasserraum",
+     "es": "tanque del agua",
+     "it": "dell'acqua",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "tank",
+     "fr": "chasse d' eau",
+     "de": "Spülkasten",
+     "es": "depósito",
+     "it": "cassetta",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 10,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "thermostat",
+     "fr": "thermostat",
+     "de": "Thermostat",
+     "es": "termostato",
+     "it": "û termostato",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "bowl",
+     "fr": "cuver te",
+     "de": "Becken",
+     "es": "taza",
+     "it": "tazza",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 6,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "heating element",
+     "fr": "résistance",
+     "de": "Heizelement",
+     "es": "resistencia",
+     "it": "elemento riscaldante",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 10,
+      "de": 11,
+      "es": 11,
+      "it": 19
+     }
+    },
+    {
+     "fr": "tuyau d' écoulement",
+     "de": "Abflussrohr",
+     "es": "desagüe",
+     "it": "tubo di scolo",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 16,
+      "de": 11,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "Dumer",
+     "fr": "brûleur à gaz",
+     "de": "Gasbrenner",
+     "es": "quemador",
+     "it": "ruciatore a gas",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 10,
+      "es": 8,
+      "it": 13
+     }
+    },
+    {
+     "en": "lid",
+     "fr": "couvercle",
+     "de": "Deckel",
+     "es": "tapa",
+     "it": "coperchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 6,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "bottle",
+     "fr": "bouteille",
+     "de": "Flasche",
+     "es": "botella",
+     "it": "bottiglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "pedal",
+     "fr": "pédale",
+     "de": "Trethebel",
+     "es": "pedal",
+     "it": "pedale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "organic waste",
+     "fr": "déchets bios",
+     "de": "Bio-Abfall",
+     "es": "desperdicios orgánicos",
+     "it": "rifiuti organici",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 9,
+      "es": 21,
+      "it": 15
+     }
+    },
+    {
+     "en": "sorting unit",
+     "fr": "boîte de rri",
+     "de": "Abfallsortiereinheit",
+     "es": "armario para clasificar la basura",
+     "it": "unità di smistamento",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 20,
+      "es": 29,
+      "it": 18
+     }
+    },
+    {
+     "en": "trash can",
+     "fr": "poubelle",
+     "de": "Abfalleimer",
+     "es": "cubo de la basura",
+     "it": "pattumiera",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "recycling bin",
+     "fr": "boîte à déchets reciclables",
+     "de": "Recyclingbehälter",
+     "es": "cubo para reciclar",
+     "it": "secchio di riciclaggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 24,
+      "de": 17,
+      "es": 16,
+      "it": 20
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

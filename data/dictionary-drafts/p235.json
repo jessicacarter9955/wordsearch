@@ -1,0 +1,160 @@
+{
+ "page": 235,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPORTS • I ES SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "other sports • les antres sports • die anderen Sportarten • los otros deportes • gli altri sport",
+   "parts": [
+    "other sports",
+    "les antres sports",
+    "die anderen sportarten",
+    "los otros deportes",
+    "gli altri sport"
+   ],
+   "entries": [
+    {
+     "en": "hang-glider",
+     "fr": "le deltaplane",
+     "de": "der Drachen",
+     "es": "el ala delta",
+     "it": "il deltaplane",
+     "_pos": [
+      458,
+      150
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parachute",
+     "fr": "le parachute",
+     "de": "der Fallschirm",
+     "es": "el paracaídas",
+     "it": "il paracadute",
+     "_pos": [
+      458,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Fading",
+     "fr": "le vol plané",
+     "de": "das Segelfliegen",
+     "es": "el vuelo sin motor",
+     "it": "il volo senza motore",
+     "_pos": [
+      46,
+      295
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "hang-gliding",
+     "fr": "le deltaplane",
+     "de": "das Drachenfliegen",
+     "es": "el vuelo con ala delta",
+     "it": "il volo in deltaplano",
+     "_pos": [
+      611,
+      298
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rock climbing",
+     "fr": "IVsealade",
+     "de": "das Klettern",
+     "es": "la escalada",
+     "it": "l'alpinismo in parete",
+     "_pos": [
+      44,
+      721
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "parachuting",
+     "fr": "le parachutisme",
+     "de": "das Fallschirmspringen",
+     "es": "el paracaidism o",
+     "it": "il paracadutismo",
+     "_pos": [
+      327,
+      723
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parasailing",
+     "fr": "le parapente",
+     "de": "das Gleitschirmfliegen",
+     "es": "el parapente",
+     "it": "il parapendio",
+     "_pos": [
+      610,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skydiving",
+     "fr": "le saut en chute libre",
+     "de": "das Fallschirmspringen",
+     "es": "el paracaidism o en caída libre",
+     "it": "il paracadutismo libero",
+     "_pos": [
+      42,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rappeling",
+     "fr": "le rappel",
+     "de": "das Abseilen",
+     "es": "el rappel",
+     "it": "la cordata",
+     "_pos": [
+      326,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bungee lumping",
+     "fr": "le saut à Eclasrique",
+     "de": "das Bungeejumping",
+     "es": "el salto bungee",
+     "it": "il bungee jumping",
+     "_pos": [
+      610,
+      1036
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 10,
+  "complete_clean": 2,
+  "flagged": 8,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,338 @@
+{
+ "page": 79,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "garden features",
+     "fr": "ornements de jardin",
+     "de": "Gartenornamente",
+     "es": "adornos para el jardín",
+     "it": "ornamenti oggetti per giardini",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 15,
+      "es": 19,
+      "it": 27
+     }
+    }
+   ]
+  },
+  {
+   "slug": "giardino",
+   "names": {
+    "en": "garden",
+    "fr": "le jardin",
+    "de": "der garten",
+    "es": "el jardín",
+    "it": "il giardino"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "it": "tipi di giardino",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "it": "i"
+     },
+     "_grid_len": {
+      "it": 14
+     }
+    },
+    {
+     "en": "roof garden",
+     "fr": "jardin sur le toir",
+     "de": "Dachgarten",
+     "es": "jardín en la azotea",
+     "it": "giardino pensile",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 10,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "hanging basket",
+     "fr": "panier sus pendu",
+     "de": "Blumenampel",
+     "es": "cesta colgante",
+     "it": "cesto sospeso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 11,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "patio garden",
+     "fr": "patio",
+     "de": "Patio",
+     "es": "patio con jardín",
+     "it": "giardino a patio",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 5,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "rock garden",
+     "fr": "rocaille",
+     "de": "Steingarten",
+     "es": "rocalla",
+     "it": "giardino di pietra",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 16
+     }
+    },
+    {
+     "fr": "enredadera",
+     "it": "graticcio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "formai garden",
+     "fr": "jardin à la française",
+     "de": "architektonische Garten",
+     "es": "jardín clásico",
+     "it": "giardino all'italiana",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 22,
+      "es": 13,
+      "it": 19
+     }
+    },
+    {
+     "en": "courtyard",
+     "fr": "cour",
+     "de": "Hof",
+     "es": "patio",
+     "it": "cortile",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 3,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "English garden",
+     "fr": "jardin paysan",
+     "de": "Bauerngarten",
+     "es": "jardín campestre",
+     "it": "giardino all'inglese",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 12,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "herb garden",
+     "fr": "jardin d'herbes aromatiques",
+     "de": "Krautergarten",
+     "es": "jardín de plantas herbáceas",
+     "it": "giardino di erbe",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 24,
+      "de": 13,
+      "es": 24,
+      "it": 14
+     }
+    },
+    {
+     "en": "water garden",
+     "fr": "jardin d'eau",
+     "de": "Wassergarten",
+     "es": "jardín acuático",
+     "it": "giardino acquatico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 12,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "arbor",
+     "fr": "pergola",
+     "de": "Pergola",
+     "es": "pérgola",
+     "it": "pergola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

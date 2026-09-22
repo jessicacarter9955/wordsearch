@@ -1,0 +1,332 @@
+{
+ "page": 112,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "fish • le poisson • der Fisch • el pescado • ¡I pesce",
+   "parts": [
+    "fish",
+    "le poisson",
+    "der fisch",
+    "el pescado",
+    "i pesce"
+   ],
+   "entries": [
+    {
+     "en": "peeled shnmp",
+     "fr": "les crevettes décortiquées",
+     "de": "die geschälten Garnelen",
+     "es": "los camarones pelados",
+     "it": "i gamberi sgusciati",
+     "_pos": [
+      95,
+      130
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rainbow trout",
+     "fr": "la rruite arc-en-ciel",
+     "de": "die Regenbogenforelle",
+     "es": "la trucha arco ins",
+     "it": "la trota",
+     "_pos": [
+      760,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "red mullet",
+     "fr": "le rouget barbet",
+     "de": "die rote Meeräsche",
+     "es": "el salmonete",
+     "_pos": [
+      422,
+      131
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "halibut fillets",
+     "fr": "les filets de flétan",
+     "de": "die Heilbuttfilets",
+     "es": "los filotes de mero",
+     "_pos": [
+      550,
+      131
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "ice",
+     "fr": "la glace",
+     "de": "das Eís",
+     "es": "el hielo",
+     "it": "il ghiaccio",
+     "_pos": [
+      62,
+      244
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skate wings",
+     "fr": "les ailes de raie",
+     "de": "die Rochenflügel",
+     "es": "las aletas de raya",
+     "it": "le pinne di razza",
+     "_pos": [
+      778,
+      246
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fish seller",
+     "fr": "la poissonnerie",
+     "de": "das Fischgeschäft",
+     "es": "la pescadería",
+     "it": "la pescheria",
+     "_pos": [
+      116,
+      490
+     ],
+     "_flags": []
+    },
+    {
+     "en": "monkfish",
+     "fr": "la lotte",
+     "de": "die Quappe",
+     "es": "el rape",
+     "it": "la rana pcscatricc",
+     "_pos": [
+      63,
+      636
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mackerel",
+     "fr": "le maquereau",
+     "it": "lo sgombro",
+     "_pos": [
+      226,
+      638
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "swordfish",
+     "fr": "l'espadon",
+     "de": "der Schwertfisch",
+     "es": "el pez espada",
+     "it": "il pesce spada",
+     "_pos": [
+      570,
+      638
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trout",
+     "fr": "la rruite",
+     "de": "die Forelle",
+     "es": "la trucha la trota",
+     "_pos": [
+      401,
+      638
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "• die Makrele • 1j caballa",
+   "parts": [
+    "die makrele",
+    "1j caballa"
+   ],
+   "entries": [
+    {
+     "en": "Dover sole",
+     "fr": "la sole",
+     "de": "die Seezunge",
+     "es": "el lenguado",
+     "it": "la sogliola",
+     "_pos": [
+      64,
+      766
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "lemon sole",
+     "fr": "la limande sole",
+     "de": "die Rotzunge",
+     "es": "la platija",
+     "it": "la sogliola limanria",
+     "_pos": [
+      232,
+      766
+     ],
+     "_flags": []
+    },
+    {
+     "en": "haddock",
+     "fr": "l'aiglefin",
+     "de": "der Schellfisch",
+     "es": "abadejo",
+     "it": "l'eglefino",
+     "_pos": [
+      401,
+      767
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skate",
+     "fr": "la raie",
+     "de": "der Rochen",
+     "es": "la raya",
+     "it": "la razza",
+     "_pos": [
+      740,
+      767
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sardine",
+     "fr": "la sardine",
+     "de": "die Sardine",
+     "es": "la sardina",
+     "it": "la sardina",
+     "_pos": [
+      570,
+      768
+     ],
+     "_flags": []
+    },
+    {
+     "en": "silver hake",
+     "fr": "le merlan",
+     "de": "der Weißfisch",
+     "es": "la pescadilla",
+     "it": "il merlango",
+     "_pos": [
+      62,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sea bass",
+     "fr": "le bar",
+     "de": "der Seebarsch",
+     "es": "la lubina",
+     "it": "la spigola",
+     "_pos": [
+      284,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salmon",
+     "fr": "le saumon",
+     "de": "der Lachs",
+     "es": "el salmón",
+     "it": "il salmone",
+     "_pos": [
+      571,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sea bream",
+     "fr": "la daurade",
+     "de": "der Seebrassen",
+     "es": "el besugo",
+     "it": "l'abramidc",
+     "_pos": [
+      380,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tuna",
+     "fr": "le thon",
+     "de": "der Tunfisch",
+     "es": "el atún",
+     "it": "il tonno",
+     "_pos": [
+      571,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cod",
+     "fr": "la morue",
+     "de": "der Kabelau",
+     "es": "el bacalao",
+     "it": "il merluzzo",
+     "_pos": [
+      64,
+      1029
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "í",
+   "pos": [
+    759,
+    682
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "1",
+   "pos": [
+    798,
+    691
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 4,
+  "flagged": 18,
+  "missing_lang": 4,
+  "leftovers": 2,
+  "subcats": 2
+ }
+}

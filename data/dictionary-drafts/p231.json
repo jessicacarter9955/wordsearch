@@ -1,0 +1,246 @@
+{
+ "page": 231,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS • L h S S P O R T S - DER SPORT • L O S DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "fishing • la peche • der Angelsport • la pesca • la pesca",
+   "parts": [
+    "fishing",
+    "la pêche",
+    "der angelsport",
+    "la pesca",
+    "la pesca"
+   ],
+   "entries": [
+    {
+     "en": "barb",
+     "fr": "le barbillon",
+     "de": "der Widerhaken",
+     "es": "la punta",
+     "it": "l'uncino",
+     "_pos": [
+      250,
+      130
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eye",
+     "fr": "l'œ illet",
+     "de": "das Öhr",
+     "es": "el ojo",
+     "it": "l'occhiello",
+     "_pos": [
+      374,
+      130
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "U",
+   "parts": [
+    "u"
+   ],
+   "entries": [
+    {
+     "en": "sinker",
+     "fr": "le plomb",
+     "de": "das Gewicht",
+     "es": "el plomo",
+     "it": "l peso",
+     "_pos": [
+      37,
+      227
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fishhook",
+     "fr": "l'hameçon",
+     "de": "der Angelhaken",
+     "es": "el anzuelo",
+     "it": "l'amo",
+     "_pos": [
+      250,
+      228
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bait",
+     "fr": "l'amorce",
+     "de": "der Köder",
+     "es": "el cebo",
+     "it": "l'esca",
+     "_pos": [
+      476,
+      229
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oat",
+     "fr": "le flotteur",
+     "de": "die Pose",
+     "es": "I flotador",
+     "it": "il galleggiante",
+     "_pos": [
+      38,
+      309
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "landing net",
+     "fr": "Pépuiseue",
+     "de": "der Kescher",
+     "es": "la red para recoger",
+     "it": "la retina",
+     "_pos": [
+      680,
+      359
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "fly",
+     "fr": "la mouche",
+     "de": "die Fliege",
+     "es": "la mosca",
+     "it": "la mosca",
+     "_pos": [
+      476,
+      361
+     ],
+     "_flags": []
+    },
+    {
+     "en": "IÀJ Iure",
+     "fr": "Pappar",
+     "de": "der Köderhaken",
+     "es": "el señuelo",
+     "it": "l'esca",
+     "_pos": [
+      268,
+      437
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "keep net",
+     "fr": "la bourriche",
+     "de": "der Setzkescher",
+     "es": "la red para las capturas",
+     "it": "la rete da pesca",
+     "_pos": [
+      373,
+      542
+     ],
+     "_flags": []
+    },
+    {
+     "en": "line",
+     "fr": "la ligne",
+     "de": "die Schnur",
+     "es": "el sedal",
+     "it": "la lenza",
+     "_pos": [
+      236,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tackle box",
+     "fr": "la boite d' équipement",
+     "de": "der Spinnericasten",
+     "es": "la caia de aparejos",
+     "it": "la scatola degli attrezzi",
+     "_pos": [
+      36,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fishing rod",
+     "fr": "la canne à pêche",
+     "de": "die Angelrute",
+     "es": "la caña de pescar",
+     "it": "I3 canna da pesca",
+     "_pos": [
+      480,
+      574
+     ],
+     "_flags": [
+      "it:num:I3",
+      "it:case"
+     ]
+    },
+    {
+     "en": "reel",
+     "fr": "le moulinet",
+     "de": "die Rolle",
+     "es": "el carrete",
+     "it": "il mulinello",
+     "_pos": [
+      617,
+      574
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waders",
+     "fr": "les bottes de pêche",
+     "de": "die Watstiefel",
+     "es": "las botas altas de goma",
+     "it": "gli stivaloni di gomma",
+     "_pos": [
+      712,
+      575
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fisherman",
+     "fr": "le pêcheur",
+     "de": "der Angler",
+     "es": "el pescador de caña",
+     "it": "il pescatore",
+     "_pos": [
+      36,
+      1064
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 3,
+  "flagged": 13,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

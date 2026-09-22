@@ -1,0 +1,257 @@
+{
+ "page": 269,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "macro_slug": "ambiente",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "paesaggio",
+   "names": {
+    "en": "landscape",
+    "fr": "le paysage",
+    "de": "die landschaft",
+    "es": "el paisaje",
+    "it": "i paesaggio"
+   },
+   "entries": [
+    {
+     "en": "mountain",
+     "fr": "montagne",
+     "de": "Berg",
+     "es": "montaña",
+     "it": "montagna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 4,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "slope",
+     "fr": "pente",
+     "de": "Hang",
+     "es": "ladera",
+     "it": "pendice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "bank",
+     "fr": "rive",
+     "de": "Ufer",
+     "es": "orilla",
+     "it": "riva",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "glacier",
+     "fr": "glacier",
+     "de": "Gletscher",
+     "es": "glaciar",
+     "it": "ghiacciaio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 9,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "fr": "rivière",
+     "de": "Fluss",
+     "es": "no",
+     "it": "fiume",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 7,
+      "de": 5,
+      "es": 2,
+      "it": 5
+     }
+    },
+    {
+     "en": "rapids",
+     "fr": "rapides",
+     "de": "Stromschnellen",
+     "es": "rápidos",
+     "it": "rapide",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 14,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "rocks",
+     "fr": "rochers",
+     "de": "Felsen",
+     "es": "rocas",
+     "it": "rocce",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "valley",
+     "fr": "vallée",
+     "de": "Tal",
+     "es": "valle",
+     "it": "valle",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 3,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "hill",
+     "fr": "colline",
+     "de": "Hügel",
+     "es": "colina",
+     "it": "collina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "gorge",
+     "fr": "gorge",
+     "de": "Schlucht",
+     "es": "desfiladero",
+     "it": "gola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 11,
+      "it": 4
+     }
+    },
+    {
+     "en": "cave",
+     "fr": "caverne",
+     "de": "Höhle",
+     "es": "cueva",
+     "it": "caverna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 5,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

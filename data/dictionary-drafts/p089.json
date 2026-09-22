@@ -1,0 +1,358 @@
+{
+ "page": 89,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES • I HS SERVICES • DIE DIENSTLEISTUNGEN • LOS SERVICIOS • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "fire department • les pompiers • die Feuerwehr • los bomberos • i vigili del fuoco",
+   "parts": [
+    "fire department",
+    "les pompiers",
+    "die feuerwehr",
+    "los bomberos",
+    "i vigili del fuoco"
+   ],
+   "entries": [
+    {
+     "en": "helmet",
+     "fr": "la casque",
+     "de": "der Schutzhelm",
+     "es": "el casco",
+     "it": "il casco",
+     "_pos": [
+      700,
+      86
+     ],
+     "_flags": []
+    },
+    {
+     "en": "smoke",
+     "fr": "la fumée",
+     "de": "der Rauch",
+     "es": "el hum o",
+     "it": "il fumo",
+     "_pos": [
+      440,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hose",
+     "fr": "le túyau",
+     "de": "der Schlauch",
+     "es": "la manguera",
+     "it": "l'idrante",
+     "_pos": [
+      540,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cherry picker",
+     "fr": "la nacelle",
+     "de": "der Auslegerkorb",
+     "es": "la cesta",
+     "it": "la gabbia",
+     "_pos": [
+      440,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water jet",
+     "fr": "le jet d' eau",
+     "de": "der Wasserstrahl",
+     "es": "el chorro de agua",
+     "it": "il getto d'acqua",
+     "_pos": [
+      540,
+      334
+     ],
+     "_flags": []
+    },
+    {
+     "en": "firefighters",
+     "fr": "les sapeurs-pompiers",
+     "de": "die Feuerwehrleute",
+     "es": "los bomberos",
+     "it": "i vigili del fuoco",
+     "_pos": [
+      675,
+      335
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boom",
+     "fr": "la fiòche",
+     "de": "der Ausleger",
+     "es": "el brazo",
+     "it": "il braccio",
+     "_pos": [
+      440,
+      433
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ladder",
+     "fr": "l'échelle",
+     "de": "die Leiter",
+     "es": "la escalera",
+     "it": "la scala",
+     "_pos": [
+      542,
+      433
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cab",
+     "fr": "la cabine",
+     "de": "die Fahrerkabine",
+     "es": "laca bina",
+     "_pos": [
+      675,
+      434
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "fire",
+     "fr": "l'incendie",
+     "de": "der Brand",
+     "es": "el incendio",
+     "it": "l'incendio",
+     "_pos": [
+      26,
+      533
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fire escape",
+     "fr": "l'escalier de secours",
+     "de": "die Feuertreppe",
+     "es": "la escalera de incendios",
+     "it": "la scala di sicurezza",
+     "_pos": [
+      240,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fire engine",
+     "fr": "la voiture de pompiers",
+     "de": "das Löschfahrzeug",
+     "es": "el carro de bom beros",
+     "it": "l'autopompa",
+     "_pos": [
+      456,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fire station",
+     "fr": "le poste d'incendie",
+     "de": "die Feuerwache",
+     "es": "la estación de bomberos",
+     "it": "la caserma dei vigili del fuoco",
+     "_pos": [
+      26,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fire extinguisher",
+     "fr": "l'extincteur",
+     "de": "der Feuerlöscher",
+     "es": "el extintor",
+     "it": "l'estintore",
+     "_pos": [
+      542,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fire alarm",
+     "fr": "l'avertisseur d'incendie",
+     "de": "der Feuermelder",
+     "es": "la alarm a contra incendios",
+     "it": "l'allarme antincendio",
+     "_pos": [
+      193,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ax",
+     "fr": "la hache",
+     "de": "das Beil",
+     "es": "el hacha",
+     "it": "l'ascia",
+     "_pos": [
+      370,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hydrant",
+     "fr": "la borne d'incendie",
+     "de": "der Hydrant",
+     "es": "la bomba de agua",
+     "it": "l'idrante",
+     "_pos": [
+      714,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "smoke alarm",
+     "fr": "le détecteur de fumée",
+     "de": "der Rauchmelder",
+     "es": "ei detector de hum o",
+     "it": "l'allarme antifumo",
+     "_pos": [
+      28,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "There's been an accident",
+     "fr": "1! y a eu un accident",
+     "de": "Es i stein Unfall passiert",
+     "es": "H a habido un accidente",
+     "it": "Cè stato un incidente",
+     "_pos": [
+      562,
+      995
+     ],
+     "_flags": [
+      "en:case",
+      "fr:weird:1!",
+      "es:short:H",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Call the police!",
+     "fr": "Appelez la police!",
+     "de": "Rufen Sie die Polizei!",
+     "es": "Llam e a la policía!",
+     "it": "Chiamate la polizia!",
+     "_pos": [
+      728,
+      995
+     ],
+     "_flags": [
+      "en:weird:police!",
+      "en:case",
+      "fr:weird:police!",
+      "fr:case",
+      "de:weird:Polizei!",
+      "es:weird:policía!",
+      "es:case",
+      "it:weird:polizia!",
+      "it:case"
+     ]
+    },
+    {
+     "en": "There's a fire at",
+     "fr": "U y a un incendie à",
+     "de": "Esbrennt in",
+     "es": "Ha y un incendio en",
+     "it": "Cè un incendio a",
+     "_pos": [
+      413,
+      996
+     ],
+     "_flags": [
+      "en:case",
+      "fr:short:U",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "I need the police/fire department/ambulance",
+     "fr": "1.a policc/ks pompiers/unc ambulance, s'il vous plaît",
+     "de": "Die Polizei/die Feuerwehr/einen Krankenwagen, bitte",
+     "es": "Necesito la policia/los bomberos/una ambulancia",
+     "it": "Ho bisogno della polizia/tlei vigili del fuoco/di un'ambulanza",
+     "_pos": [
+      42,
+      996
+     ],
+     "_flags": [
+      "en:weird:police/fire",
+      "en:weird:department/ambulance",
+      "en:case",
+      "fr:weird:1.a",
+      "fr:weird:policc/ks",
+      "fr:weird:pompiers/unc",
+      "fr:weird:ambulance,",
+      "de:weird:Polizei/die",
+      "de:weird:Feuerwehr/einen",
+      "de:weird:Krankenwagen,",
+      "es:weird:policia/los",
+      "es:weird:bomberos/una",
+      "es:case",
+      "it:weird:polizia/tlei",
+      "it:weird:fuoco/di",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "F I R E",
+   "pos": [
+    244,
+    788
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 6,
+  "flagged": 16,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

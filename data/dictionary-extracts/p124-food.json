@@ -1,0 +1,461 @@
+{
+ "page": 124,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "erbe-aromatiche-e-le-spezie",
+   "names": {
+    "en": "herbs and spices",
+    "fr": "les herbes et les épices",
+    "de": "die kräuter und gewürze",
+    "es": "las hierbas y las especias",
+    "it": "le erbe aromatiche e le spezie"
+   },
+   "entries": []
+  },
+  {
+   "slug": "spezie",
+   "names": {
+    "en": "spices",
+    "fr": "les épices",
+    "de": "die gewürze",
+    "es": "las especias",
+    "it": "le spezie"
+   },
+   "entries": [
+    {
+     "en": "vanilla",
+     "fr": "vanille",
+     "de": "Vanille",
+     "es": "vainilla",
+     "it": "vaniglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "nutmeg",
+     "fr": "noix de muscade",
+     "de": "Muskatnuss",
+     "es": "nuez moscada",
+     "it": "noce moscata",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 10,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "mace",
+     "fr": "macis",
+     "de": "Muskatblüte",
+     "es": "macis",
+     "it": "macis",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 11,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "turmeric",
+     "fr": "curcuma",
+     "de": "Kurkuma",
+     "es": "cùrcum a",
+     "it": "curcuma",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "cumin",
+     "fr": "cumin",
+     "de": "Kreuzkummel",
+     "es": "comino",
+     "it": "cumino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "bouquet gami",
+     "fr": "bouquet gam i",
+     "de": "Kräutermischung",
+     "es": "ramillete aromático",
+     "it": "mazzetto odoroso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 15,
+      "es": 18,
+      "it": 15
+     }
+    },
+    {
+     "en": "allspice",
+     "fr": "poivre de la Jamaïque",
+     "de": "Piment",
+     "es": "pimienta de Jamaica",
+     "it": "pepe della Giamaica",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 6,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "peppercorn",
+     "fr": "grain de poivre",
+     "de": "Pfeffer korn",
+     "es": "pimienta en grano",
+     "it": "grano di pepe",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 11,
+      "es": 15,
+      "it": 11
+     }
+    },
+    {
+     "en": "fenugreek",
+     "fr": "fenugrec",
+     "de": "Bockshomklee",
+     "es": "heno gnego",
+     "it": "fieno greco",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 12,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "chili",
+     "fr": "piment",
+     "de": "Chili",
+     "es": "chile piquín",
+     "it": "peperoncino rosso",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 11,
+      "it": 16
+     }
+    },
+    {
+     "en": "whole",
+     "fr": "en morceaux",
+     "de": "ganz",
+     "es": "entero",
+     "it": "intero",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "crushed",
+     "fr": "écrasé",
+     "de": "zerstoßen",
+     "es": "machacado",
+     "it": "tritato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "saffron",
+     "fr": "safran",
+     "de": "Safran",
+     "es": "azafrán",
+     "it": "zafferano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "cardamom",
+     "fr": "cardam om e",
+     "de": "Kardamom",
+     "es": "carda mono",
+     "it": "cardamomo",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "curry powder",
+     "fr": "poudre de curry",
+     "de": "Currypulver",
+     "es": "curry en polvo",
+     "it": "polvere di curry",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "ground",
+     "fr": "en poudre",
+     "de": "gemahlen",
+     "es": "molido",
+     "it": "macinato",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "paprika",
+     "fr": "paprika",
+     "de": "Paprika",
+     "es": "pimentón",
+     "it": "paprica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "flakes",
+     "fr": "en flocons",
+     "de": "geraspelt",
+     "es": "a hojuelas",
+     "it": "a scaglie",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "garlic",
+     "fr": "Tail",
+     "de": "Knoblauch",
+     "es": "ajo",
+     "it": "aglio",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 9,
+      "es": 3,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

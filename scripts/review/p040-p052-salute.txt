@@ -1,0 +1,346 @@
+====================================================================================================
+== p040 [salute] 31 voci, 19 flag, 0 mancanti, 0 leftover, header=H E A LT H • LA SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALU~
+-- G0 subcat: illness • la maladie • die Krankheit • la enfermedad • la malattia
+   parts: illness • la maladie • die krankheit • la enfermedad • la malattia
+ 0.0  M cough | la roux | der Husten | la tos | la tosse   
+ 0.1  M headache | le mal de tête | die Kopfschmerzen | el dolor de cabe~ | il mal di testa   
+ 0.2  M nosebleed | le saignement de~ | das Nasenbluten | la hemorragia na~ | l'emorragia nasa~   
+ 0.3  M fever | la fièvre | das Fieber | la fiebre | il febbre   
+ 0.4  M the flu | la grippe | die Grippe | la gripe | l'influenza   
+ 0.5  M sneeze | l'éternuement | das Niesen | el estornudo | lo starnuto   
+ 0.6  M cold | le rhume | die Erkältung | el resfriado | il raffreddore   
+ 0.7  M inhaler | l'inhalateur | der Inhalationsa~ | el inhalador | l'inalatore   
+ 0.8  M the chickenpox | la varicelle | die Windpocken | la varicela | la varicella   
+ 0.9  M rash | l'éruption | der Hautausschlag | el sarpullido | lo sfogo   
+ 0.10 M asthma | l'asthme | das Asthma | el asma | l'asma   
+ 0.11 M cramps | les crampes | die Krämpfe | los calam bres | i crampi   
+ 0.12 M nausea | la nausée | die Übelkeit | la náusea | la nausea   
+ 0.13 M heart attack | la crise cardiaq~ | der Herzinfarkt | el atâque cardia~ | l'infarto   
+ 0.14 M diabetes | le diabète | die Zuckerkrankh~ | la diabetes | il diabete   
+ 0.15 M eczema | l'eczéma | das Ekzem | el eccema | l'eczema   
+ 0.16 M chill | le refroidisseme~ | die Verkühlung | el resfriado | l'infreddatura   
+ 0.17 M vomit (v) | vomir | sich übergeben | vomitar | vomitare   
+ 0.18 M diarrhea | la diarrhée | der Durchfall | la diarrea | la diarrea   
+ 0.19 M stroke | l'attaque | der Schlaganfall | la aplopejia | l'apoplessia   
+ 0.20 ⚠ hay fever | le rhume des foi~ | der Heuschnupfen | I3 fiebre del he~ | la febbre da fie~   es
+ 0.21 M infection | l'infection | die Infektion | la infección | l'infezione   
+ 0.22 ⚠ stomach ache | le m al d'esrom ~ | die Magenschmerz~ | el dolor de estó~ | il mal di stomaco   fr
+ 0.23 M epilepsy | l'épilepsie | die Epilepsie | la epilepsia | l'epilessia   
+ 0.24 M measles | la rougeole | die Masern | el sarampión | il morbillo   
+ 0.25 M allergy | l'allergie | die Allergie | la alergia | l'allergia   
+ 0.26 M mumps | les oreillons | der Mumps | las paperas | gli orecchioni   
+ 0.27 ⚠ blood pressure | la Tension | der Blutdruck | !a presión arter~ | la pressione del~   es fr
+ 0.28 M virus | le virus | der Virus | el virus | il virus   
+ 0.29 ⚠ famt / | s'évanouir | in Ohnmacht fall~ | desmayar se | svenire   en
+ 0.30 M migraine | la migraine | die Migräne | la migraña | l'emicrania   
+====================================================================================================
+== p041 [salute] 18 voci, 9 flag, 0 mancanti, 0 leftover, header=H EA LTH • LA SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE
+-- G0 subcat: doctor • le médecin • der Arzt • el doctor • il medico consultation • la consul~
+   parts: doctor • le médecin • der arzt • el doctor • il medico consultation • la consultation • die~
+ 0.0  ⚠ height bar | la toise | der Körpergrößen~ | el m etió | il misuratore di~   es
+ 0.1  ⚠ x-ray viewer | la lampe de radio | der Röntgenbildb~ | el lector de ray~ | il negatoscopio   es
+ 0.2  M doctor | le médecin | der Arzt | el doctor | il medico   
+ 0.3  ⚠ nurse | l'infirmière | die Krankenschwe~ | la enfermera | L'infermiera   it
+ 0.4  M patient | la patiente | die Patientin | la paciente | la paziente   
+ 0.5  M prescription | l'ordonnance | das Rezept | la receta | la riretta   
+ 0.6  M scales | la balance | die Personenwaage | la báscula | la bilancia   
+ 0.7  M medical examinat~ | l'examen médical | die Untersuchung | el examen módico | la visita medica   
+ 0.8  M appointment | le rendez-vous | der Termin | la cita | l'appuntamento   
+ 0.9  ⚠ oiood pressure g~ | le sphygm otensi~ | der Blutdruckmes~ | el indicador par~ | il misuratore di~   es
+ 0.10 M inoculation | l'inoculation | die Impfung | la inoculación | l'inoculazione   
+ 0.11 M doctor's office | le cabinet | das Sprechzimmer | la consulta | l'ambulatorio   
+ 0.12 M thermometer | le thermomètre | das Thermometer | el termómetro | il termometro   
+ 0.13 M waiting room | la salle d'atten~ | der Warte raum | la sala de espera | la sal ad'attesa   
+ 0.14 ⚠ 1 need to see a ~ | 'ai besoin de vo~ | Ich muss einen A~ | Ne ce sito ver a~ | Ho bisogno di ve~   en es it
+ 0.15 ⚠ It hurts here | 'ai mal ici | Es tut hier weh | M e duele aquí | Ho un dolor equi   en es it
+ 0.16 M cuff | le manchon | die Luftmanschet~ | el brazal | il manicotto   
+ 0.17 M stethoscope | le stéthoscope | das Stethoskop | el estetoscopio | lo stetoscopio   
+====================================================================================================
+== p042 [salute] 25 voci, 18 flag, 0 mancanti, 0 leftover, header=H E A LT H • I.A SANTÉ • DIE GESUNDHEIT • L A S A L U D • L~
+-- G0 subcat: injury • la blessure • die Verletzung • la lesión • la ferita
+   parts: injury • la blessure • die verletzung • la lesión • la ferita
+ 0.0  ⚠ neck brace | la m inerve | die Halskrawatte | el collarín | il collare   fr
+ 0.1  M sling | l'écharpe | die Schlinge | el cabestrillo | la fascia a   
+ 0.2  M whiplash | le coup du lapin | das Schleudertra~ | el tirón en el c~ | il colpo di frus~   
+ 0.3  M fracture | la fracture | die Fraktur | la fractura | la frattura   
+ 0.4  M sprain | l'entorse | die Verstauchung | la torcedura | la slogatura   
+ 0.5  M splinter | l'écharde | der Splitter | la astilla | la scheggia   
+ 0.6  M bruise | la contusion | die Prellung | el moretón | il livido   
+ 0.7  M graze | l'écorchure | die Abschürfung | la raspada | la sbucciatura   
+ 0.8  M cut | la coupure | der Schnitt | la cortada | il taglio   
+ 0.9  M sting | la piqûre | der Stich | la picadura | la puntura   
+ 0.10 M bum | la brûlure | die Brandwunde | la quemadura | l'ustione   
+ 0.11 M sunburn | le coup de soleil | der Sonnenbrand | la ardida | la scottatura   
+ 0.12 M bite | la morsure | der Biss | el mordisco | il morso   
+ 0.13 ⚠ W ill he/she be ~ | Est-ce qu'íl/c l~ | Wird er/sie es g~ | cSe pondrá bien!' | Si rimetterà?   de en es fr it
+ 0.14 M concussion | la commotion cér~ | die Gehirnerschü~ | la conmoción | la commozione   
+ 0.15 M hemorrhage | l'hémorragie | die Blutung | la hemorragia | l'emorragia   
+ 0.16 M accident | l'accident | der Unfall | el accidente | l'incidente   
+ 0.17 M head injury | traumatisme crân~ | die Kopfverletzu~ | la lesión en la ~ | la ferita alla t~   
+ 0.18 ⚠ Please call an a~ | Appelez une am b~ | Rufen Sie bitte ~ | Por favor llam e~ | Chiami un'ambula~   en es fr it
+ 0.19 M blister | l'ampoule | die Blase | la ampolla | la vescica   
+ 0.20 M emergency | l'urgence | der Notfall | la emergencia | l'emergenza   
+ 0.21 ⚠ W here does it h~ | O ù avez-vous ma~ | Wo haben Sie Sch~ | D ónde le duele? | Dove le fa male?   de en es fr it
+ 0.22 M eleetne shock | le choc électriq~ | der elektrische ~ | el shock eléctri~ | la scossa elettr~   
+ 0.23 M poisoning | l'empoisonnement | die Vergiftung | el envenenamiento | l'avvelenamento   
+ 0.24 M wound | la blessure | die Wunde | la herida | la ferita   
+====================================================================================================
+== p043 [salute] 22 voci, 11 flag, 1 mancanti, 0 leftover, header=H EA LTH • I A S A N T É • DIE GESUNDHEIT • LA SALUD • LA S~
+-- G0 subcat: first aid • les premiers secours • die erste Hilfe • los primeros auxilios • il~
+   parts: first aid • les premiers secours • die erste hilfe • los primeros auxilios • il pronto socc~
+ 0.0  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['ointment', 'In pommade', 'die Salbe', 'la pomada', 'la pomata adhesive bandage', 'le pansement', 'das Pflaster', 'la tirita', 'il cerotto']
+ 0.1  M antiseptic wipe | la serviette ant~ | das Desinfektion~ | la toallita anti~ | la salvietta ant~   
+ 0.2  M tweezers | la pince fine | die Pinzette | las pinzas | le pinzette   
+ 0.3  M safety pin | l épingle de sûr~ | die Sicherheitsn~ | el seguro | la spilla da bal~   
+ 0.4  M scissors | les ciseaux | die Schere | las tijeras | le forbici   
+ 0.5  M bandage | le bandage | die Bandage | la venda | la benda   
+ 0.6  M antiseptie | l'antiseptique | das Antiseptikum | el desinfectante | il disinfettante   
+ 0.7  M painkillers | ics analgésiques | die Schmerztable~ | los analgésicos | gli antidolarifi~   
+ 0.8  M first aid kit | la trousse de pr~ | der Erste-Hilfe-~ | el botiquín | la cassetta di p~   
+ 0.9  ⚠ gauze | la gaze | die Gaze | la gasa | ?   missing
+ 0.10 M adhesive tape | le sparadrap | das Leukoplast | la tela adhesiva | il nastro adesivo   
+ 0.11 M dressing | le pansement | der Verband | el vendaje | la bendatura   
+ 0.12 M splint | l'attelle | die Schiene | la tablilla | la stecca   
+ 0.13 ⚠ Can you help? | Est-ce que vous ~ | Können Sie mir h~ | M e puede ayudar? | Può aiutarmi?   de en es fr it
+ 0.14 M pulse | le pouls | der Puls | el pulso | le pulsazioni   
+ 0.15   choke (v) | étouffer | ersticken | ahogarse | soffocare   
+ 0.16 M shock | le choc | der Schock | el shock | lo shock   
+ 0.17 ⚠ Do you know firs~ | Pouvez-vous donn~ | Beherrschen Sie ~ | Sabe prim eros a~ | Sa dare pronto s~   de en es fr it
+ 0.18 M breathing | la respiration | die Atmung | la respiración | la respirazione   
+ 0.19   stenle | stérile | steril | estéril | sterile   
+ 0.20 M unconscious | sans connaissance | bewusstlos | inconsciente | privo di sensi   
+ 0.21 M resuscitation | la réanimation | die Wiederbelebu~ | la re animación | la rianimazione   
+====================================================================================================
+== p044 [salute] 23 voci, 14 flag, 0 mancanti, 1 leftover, header=H EA LTH • I.A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE
+-- G0 subcat: hospital l'hôpital • das Krankenhaus • el hospital • l'ospedale
+   parts: hospital l'hôpital • das krankenhaus • el hospital • l'ospedale
+ 0.0  M surgeon | le chirurgien | der Chirurg | el cirujano | il chirurgo   
+ 0.1  M chart | la courbe | die Patiententab~ | la gráfica del p~ | la scheda del pa~   
+ 0.2  M blood test | l'analyse de sang | die Blutuntersuc~ | el análisis de s~ | l'analisi del sa~   
+ 0.3  M nurse | l'infirm ierc | die Krankenschwe~ | la enfermera | l'infermiera   
+ 0.4  M anesthetist | 'anesthésiste | der Anästhesist | el anestesista | l'anestetista   
+ 0.5  M injection | l'injection | die Spritze | la inyección | l'iniezione   
+ 0.6  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['operating room', "la salle d 'opération", 'der Operationssaal', 'el quirófano', 'la sala operatoria gumey', 'le chario r', 'die fahrbare Liege', 'la cam illa', 'la lettiga']
+ 0.7  M call button | le bouton d' app~ | der Rufknopf | el timbre | il pulsante di c~   
+ 0.8  M x-ray | la radio | die Röntgenaufna~ | la radiografía | la radiografia   
+ 0.9  M emergency room | la salle îles ur~ | die Notaufnahme | la sala de urgen~ | la sala emergenze   
+ 0.10 M ward | la salle | die Krankenhauss~ | la planta | il reparto   
+ 0.11 M wheelchair | la chaise roulan~ | der Rollstuhl | la silla de rued~ | la sedia a rotel~   
+ 0.12 M scan | la scanographie | der CT-Scan | el ultrasonido | l'ecografia   
+ 0.13 ⚠ Operation | l'operation | die Operation | la operación | l'operazione   en
+ 0.14 M discharged | renvoyé | entlassen | dado de alta | dimesso   
+ 0.15 M 'visiting hours | les heures de vi~ | die Besuchszeiten | las horas de vis~ | l'orario delle v~   
+ 0.16 ⚠ maternity ward | la m nterniré | die Entbindungss~ | la sala de mater~ | il reparto mater~   fr
+ 0.17 M intensive care u~ | le service de so~ | die Intensivstat~ | la unidad de cui~ | il reparto di cu~   
+ 0.18   admitted | admis | aufgenommen | internado | ricoverato   
+ 0.19 M clinic | la clinique | die Klinik | la clin ica | la clinica   
+ 0.20 M children's ward | la pédiatrie | die Kinderstation | la saia de pedia~ | il reparto pedia~   
+ 0.21 M private room | la chambre privée | das Privatzimmer | la habitación pr~ | la camera privata   
+ 0.22 M outpatient | le malade en con~ | der ambulante Pa~ | el paciente exte~ | il paziente este~   
+   LEFT 'g' @[184, 414] (riga singola isolata)
+====================================================================================================
+== p045 [salute] 24 voci, 14 flag, 2 mancanti, 0 leftover, header=H EA LTH • L A S A N T É • DIE GESUNDHEIT • L A S A L U D •~
+-- G0 subcat: services
+   parts: services
+-- G1 subcat: los servicios
+   parts: los servicios
+-- G2 subcat: • die Abteilungen •
+   parts: die abteilungen
+ 2.0  ⚠ departments | les | ? | ? | ?   missing
+ 2.1  ⚠ ? | ? | ? | ? | i reparti   missing
+ 2.2  M orthopedics | l'orrhopédic | die Orthopädie | la ortopedia | l'ortopedia   
+ 2.3  M gynecology | la gynécologie | die Gynäkologie | la ginecología | la ginecologia   
+ 2.4  M cardiology | la cardiologie | die Kardiologie | la cardiología | la cardiologia   
+ 2.5  ⚠ Ear. N ose, and ~ | I'O .R .L | die HNO-Abteilung | la o torri non a~ | l'otorinolaringo~   en fr
+ 2.6  M pediatrics | la pédiatrie | die Pädiatrie | la pediatría | la pediatria   
+ 2.7  M radiology | la radiologie | die Radiologie | la radiología | la radiologia   
+ 2.8  M dermatology | la dermatologic | die Dermatologie | la dermatología | la dermatologia   
+ 2.9  M physiotherapy | la kinésithérapie | die Physiotherap~ | la fisioterapia | la fisioterapia   
+ 2.10 M ophthalmology | l'ophralm ologie | die Ophthalmolog~ | la oftalmología | l'oftalmologia   
+ 2.11 M psychiatry | la psychiatrie | die Psychiatrie | la psiquiatría | la psichiatria   
+ 2.12 M surgery | la chirurgie | die Chirurgie | la d rugía | la chirurgia   
+ 2.13 M maternity | la maternité | die Entbindungss~ | la maternidad | la maternità   
+ 2.14 M pathology | la pathologic | die Pathologie | la patología | la patologia   
+ 2.15 M result | le résultat | das Ergebnis | el resultado | il risultato   
+ 2.16 M plastic surgery | la chirurgie est~ | die plastische C~ | la cin ig ia plá~ | la chirurgia pla~   
+ 2.17 M neurology | la neurologie | die Neurologie | la neurología | la neurologia   
+ 2.18 M urology | l'urologie | die Urologie | lauro logia | l'urologia   
+ 2.19 M consultant | le speda liste | der Facharzt | el especialista | lu specialista   
+ 2.20 M test | l'analyse | die Untersuchung | el análisis | l'analisi   
+ 2.21 M referral | l'orientation d'~ | die Überweisung | la referenda | mandare da uno s~   
+ 2.22 M endocrinology | l'endocrinologie | die Endokrinolog~ | la endocrinología | l'endocrinologia   
+ 2.23 M oncology | l'oncologie | die Ontologie | la oncología | l'oncologia   
+====================================================================================================
+== p046 [salute] 27 voci, 15 flag, 3 mancanti, 3 leftover, header=H EA LTH • LA S A N T É • DIE GESUNDHEIT • LA S A L U D • L~
+-- G0 subcat: dentist • le dentiste • der Zahnarzt • el dentista • il dentista tooth • la den~
+   parts: dentist • le dentiste • der zahnarzt • el dentista • il dentista tooth • la dent • der zahn~
+-- G1 subcat: check-up • la visite de contróle • der Check-up • la revisión • il controllo
+   parts: check-up • la visite de contrôle • der check-up • la revisión • il controllo
+ 1.0  ⚠ ? | ? | ? | ? | il dente   missing
+ 1.1  ⚠ enamel | l'cm ail | der Zahnschmelz | el esmalte | 10 smalto   it
+ 1.2  M gum | la gencive | das Zahnfleisch | la encía | la gengiva   
+ 1.3  ⚠ reflector | la lampe | die Behandlungs | lampe | la lam para la l~   wrap wrap-ambig
+        ALTS: [{'en': 'reflector', 'fr': 'In lampe', 'de': 'die Behandlungs', 'es': 'lampe la lam para', 'it': 'la lampada'}, {'en': 'reflector', 'fr': 'In lampe', 'de': 'die Behandlungs lampe', 'es': 'la lam para', 'it': 'la lampada'}]
+ 1.4  M probe | la sonde | die Sonde | la sonda | la sonda   
+ 1.5  ⚠ nerve | le nerf | der Nerv | el nervio | 11 nervo   it
+ 1.6  M root | la racine | die Zahnwurzel | la raíz | la radice   
+ 1.7  M incisor | l'incisive | der Schneidezahn | el incisivo | l'incisivo   
+ 1.8  ⚠ premolar | la prémolaire | der vordere | Backenzahn el pr~ | il premolare   es wrap wrap-ambig
+        ALTS: [{'en': 'premolar', 'fr': 'la prém olaire', 'de': 'der vordere Backenzahn', 'es': 'el prem olar', 'it': 'il premolare'}]
+ 1.9  M canine | la canine | der Eckzahn | el colmillo | il canino   
+ 1.10 ⚠ ? | la molaire | der Backenzahn | la muela | il molare   missing
+ 1.11 M basin | le crachoir | das Speibecken | el lavabo | la sputacchiera   
+ 1.12 M dentist's chair | le fauteuil de d~ | der Patientenstu~ | el sillón del de~ | la poltrona da d~   
+ 1.13 ⚠ toothache | ia ragt de dents | die Zahnschmerzen | el dolor de m ue~ | il mal di denti   es
+ 1.14 M drill | la fraise | der Bohrer | el tomo del dent~ | il trapano   
+ 1.15 M plaque | la plaque | der Zahnbelag | la placa bacteri~ | la placca   
+ 1.16 ⚠ dentai floss | le ITI dem aire | die Zahnseide | el hilo dental | il filo dentale   fr
+ 1.17 M braces | l'appareil denta~ | die Zahnspange | los frenos | l'apparecchio co~   
+ 1.18 M floss (v) | utiliser le fil ~ | mit Zahnseide re~ | usar el Itilo de~ | usare il filo de~   
+ 1.19 M brush (v) | brosser | bürsten | cepillarse los d~ | spazzolare   
+ 1.20 M decay | la carie | die Karies | la caries | lac arie   
+ 1.21 ⚠ extraction | l'extraction die~ | ? | ? | ?   missing
+ 1.22 M filling | le plombage | die Zahnfüllung | el empaste | l'otturazione   
+ 1.23 M crown | la couronne | die Krone | la corona | la corona   
+ 1.24 ⚠ dentai x ray | la radio dentaire | die Röntgen aufn~ | los ravos x dent~ | la radio grafia ~   en es
+ 1.25 M x-ray film | la radio | das Rontgenbild | la radiografía | la pellicola rad~   
+ 1.26 M dentures | le denrier | die Zahnprothese | la dentadura pos~ | la dentiera   
+   LEFT '}' @[152, 280] (riga singola isolata)
+   LEFT 'apron' @[528, 347] (riga singola isolata)
+   LEFT 'le bavoir' @[578, 347] (riga singola isolata)
+====================================================================================================
+== p047 [salute] 27 voci, 13 flag, 3 mancanti, 1 leftover, header=H E A LT H • I A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SAL~
+-- G0 subcat: optician • l'opticien • der Augenoptiker • el óptico • l'ottico
+   parts: optician • l'opticien • der augenoptiker • el óptico • l'ottico
+ 0.0  M frame | la monture | das Brillengeste~ | la montura | la montatura   
+ 0.1  M lens | le verre | das Glas | el cristal | la lente   
+ 0.2  ⚠ case | Perni | das Futteral | el estuche | la custodia   fr
+ 0.3  M sunglasses | les lunettes de ~ | die Sonnenbrille | los lentes obscu~ | gli occhiali da ~   
+ 0.4  M glasses | les lunettes | die Brille | los lentes | gli occhiali   
+ 0.5  M cleaning fluid | la solution nett~ | das Reinigungsmi~ | el líquido limpi~ | la soluzione per~   
+ 0.6  M disinfectant sol~ | la solution dési~ | das Desinfektion~ | la solución desi~ | la soluzione dis~   
+ 0.7  ⚠ Pétui à lentilles | ? | der Kontaktlinse~ | el estuche para ~ | la custodia per ~   en missing slot-ambig
+        ALTS: [['fr', 'de', 'es', 'it']]
+ 0.8  M contad lenses | les lentilles de~ | die Kontaktlinsen | los pupilentes | le lenti a conta~   
+ 0.9  ⚠ retest | Pcxam en de la v~ | der Sehtest | el camen de ojos | l'esame della vi~   fr
+ 0.10 M astigmatism | l'astigmatisme | der Astigmatismus | el astigmatismo | l'astigmatismo   
+ 0.11 M vision | la vue | die Sehkraft | la vista | la vista   
+-- G1 subcat: eye • l'œil • das Auge • el ojo • l'occhio
+   parts: eye • l'œil • das auge • el ojo • l'occhio
+ 1.0  M eyelid | la paupière | das Lid | el párpado | la palpebra   
+ 1.1  M eyebrow | le sourcil | die Augenbraue | la ceja | il sopracciglio   
+ 1.2  M farsighted | la presbytie | die Weitsichtigk~ | la liiperm etrop~ | la presbiopia   
+ 1.3  M diopter | la dioptrie | die Dioptrie | la dioptría | la diottria   
+ 1.4  M eyelash | le cil | die Wimper | la pestaña | il ciglia   
+ 1.5  M pupil | la pupille | die Pupille | la pupila | la pupilla   
+ 1.6  ⚠ nearsighted | la m yopic | die Kurzsichtigk~ | la m iopia | la miopia   es fr
+ 1.7  M tear | la larme | die Träne | la làgrim a | la lacrima   
+ 1.8  M retina | la rétine | die Netzhaut | la retina | retina   
+ 1.9  ⚠ cl iris | l'iride | ? | ? | ?   missing
+ 1.10 M lens | le cristallin | die Linse | el cristalino | la lente   
+ 1.11   bifocal | bifocal | Bifokal | bifocal | bifocale   
+ 1.12 M cataract | la cataracte | der graue Star | la catarata | l la cataratta   
+ 1.13 ⚠ ? | le nerf optique | der Sehnerv | el nervio óptico | il nervo ottico   missing
+ 1.14 M cornea | la cornée | die Hornhaut | la córnea | la cornea   
+   LEFT 'nerve' @[440, 994] (riga singola isolata)
+====================================================================================================
+== p048 [salute] 33 voci, 9 flag, 1 mancanti, 0 leftover, header=H EA LTH • LA SANTÉ • DIE GESUMDHEIT • LA SALUD • LA SALUTE
+-- G0 subcat: pregnancy • la grossesse • die Schwangerschaft • el embarazo • la gravidanza
+   parts: pregnancy • la grossesse • die schwangerschaft • el embarazo • la gravidanza
+ 0.0  M cervix | le col de l'utér~ | der Gebärmutterh~ | el cuello uterino | cervice   
+ 0.1  M umbilical cord | le cordon ombili~ | die Nabelschnur | el cordón umbili~ | il cordone ombel~   
+ 0.2  ⚠ placenta | le placenta | die Plazenta | la placenta | la n la rp n ta   it
+ 0.3  M nurse | l'infirmière | die Krankenschwe~ | la enfermera | l'infermiera   
+ 0.4  M pregnancy test | le test de gross~ | der Schwangersch~ | la prueba del em~ | il test di gravi~   
+ 0.5  M scan | l'échographie | die Ultraschalla~ | el ultrasonido | l'ecografia   
+ 0.6  ⚠ ? | l'utérus | die Gebärmutter | el Útero | l'utero   missing
+ 0.7  M ultrasound | les ultrasons | der Ultraschall | el ultrasonido | l'ultrasuono   
+ 0.8  M fetus | le fœtus | der Fetus | el feto | il feto   
+ 0.9  M breech | par le siège | Steiß | de espaldas | podalico   
+ 0.10 M dilation | la dilatation | die Erweiterung | la dilatación | la dilatazione   
+ 0.11 M stitches | les points de su~ | die Naht | las puntadas | i punti   
+ 0.12 M ovulation | l'ovulation | der Eisprung | la ovulación | l'ovulazione   
+ 0.13   antenatal | prénatal | vorgeburtlich | prenatal | prenatale   
+ 0.14 M amniotic fluid | le liquide am ni~ | das Fruchtwasser | el líquido am ni~ | il liquido amnio~   
+ 0.15 M delivery | l'accouchement | die Entbindung | el parto | il parto   
+ 0.16   premature | prématuré | vorzeitig | prematuro | prematuro   
+ 0.17 M trim ester | le trimestre | das Trimester | el trimestre | il trimestre   
+ 0.18 M conception | la conception | die Empfängnis | la concepción | la concezione   
+ 0.19 M amniocentesis | l'am niocentèse | die Amniozentese | la am niocentesis | l'amniocentesi   
+ 0.20 ⚠ epidural | la péridurale | die Periduralanä~ | la epidural | Pepidurale   it
+ 0.21 M gynecologist | le gynécologue | der Gynäkologe | el ginecólogo | il ginecologo   
+ 0.22 M birth | la naissance | die Geburt | el nacimiento | la nascita   
+ 0.23   pregnant | enceinte | schwanger | embarazada | incinta   
+ 0.24 M embryo | l'embryon | der Embryo | el embrión | l'embrione   
+ 0.25 M contraction | la contraction | die Wehe | la contracción | la contrazione   
+ 0.26 M cesarean section | la césarienne | der Kaiserschnitt | la cesárea | il l aglio cesar~   
+ 0.27 M obstetrician | l'obstétricien | der Geburtshelfer | el obstetra | l'ostetrico   
+ 0.28 M miscarriage | la fausse couche | die Fehlgeburt | el aborto espont~ | l'aborto spontan~   
+ 0.29 M womb | l'utérus | die Gebärmutter | la matriz | il grembo   
+ 0.30 ⚠ break w ater (v) | perdre les eaux | das Fruchtwasser~ | rom per aguas | rompere le acque   en
+ 0.31 M episiotomy | l'épisiotom ie | der Dammschnitt | la episiotom ia | l'episiotom ia   
+ 0.32 M expectant | enceinte | schwanger | embarazada | in stato interes~   
+====================================================================================================
+== p049 [salute] 17 voci, 15 flag, 1 mancanti, 0 leftover, header=H E A LT H • L A S A N T É . • DIE GESUNDHEIT • L A S A L U~
+-- G0 subcat: childbirth • la naissance • die Geburt • el parto • il parto
+   parts: childbirth • la naissance • die geburt • el parto • il parto
+ 0.0  ⚠ midwife | la sage-l em me | die Hebamme | la panera | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.1  M drip | la perfusion | die Tropfinfusion | el suero | il gocciolature   
+ 0.2  M monitor | le moniteur | der Monitor | el monitor | il monitor   
+ 0.3  M catheter | le cathéter | der Katheter | el catéter | il catetere   
+ 0.4  M incubator | la couveuse | der Brutkasten | la incubadora | l'incubatrice   
+ 0.5  M scales | le pèse-bébe | die Waage | la báscula | la bilancia   
+ 0.6  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['induce labour (v)', "déclencher l'accouchem ent", 'die Geburt einleiten', 'in d u cir el parto', 'il travaglio indotto forceps', 'le forceps', 'die Geburtszange', 'los fórceps', 'il forcipe']
+ 0.7  M birth weight | le poids de nais~ | das Geburtsgewic~ | el peso al nacer | il peso alla nas~   
+ 0.8  M suction cup | la ventouse | die Saugglocke | la ventosa | la ventosa   
+ 0.9  M nursing | l'allaitement | das Stillen | la lactancia | l'allatta mento   
+ 0.10 ⚠ nursing bra | le soutien gorge~ | der Stillbüstenh~ | el brassiere par~ | I reggiseno da a~   it
+ 0.11 M breast pump | la pompe à lait | die Brustpumpe | el tiraleches | la pompa da seno   
+ 0.12 ⚠ assisted delivery | l'accouchem cnt ~ | die assistierte ~ | el parto asistido | I parto assistito   it
+ 0.13 M identity tag | le bracelet d'id~ | das Erkennungset~ | la pulsera de id~ | la targhetta d'i~   
+ 0.14 M pads | les coussinets | die Einlagen | los discos prote~ | le coppe   
+ 0.15 M breastfeed (v) | donner le sein | stillen | amamantar | allattare al seno   
+ 0.16 M newborn baby | le nouveau-né | das Neugeborene | el recién nacido | il neonato   
+====================================================================================================
+== p050 [salute] 8 voci, 8 flag, 1 mancanti, 1 leftover, header=H EA LTH • I A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE
+-- G0 subcat: alternative therapy • les thérapies alternatives • die Alternativtherapien • la~
+   parts: alternative therapy • les thérapies alternatives • die alternativtherapien • las terapias a~
+ 0.0  M teacher | le maître | der Lehrer | el profesor | l'allenatore   
+ 0.1  M massage | le massage | die Massage | el masaje | il massaggio   
+ 0.2  M shiatsu | le shiatsu | das Shiatsu | el shiatsu | lo shiatsu   
+ 0.3  ⚠ ? | le tapis | die Matte | la colchoneta | il tappetino   missing
+ 0.4  M chiropractic | la chiropractie | die Chiropraktik | la quiropráctica | la chiropratica   
+ 0.5  M osteopathy | l'ostéopathie | die Osteopathie | la osteopatia | l'osteopatia   
+ 0.6  ⚠ reflexology | la rcflcxio lo g~ | die Reflexzonenm~ | la reflexoîogia | la riflessologia   fr
+ 0.7  M meditation | la méditation | die Meditation | la meditación | la meditazione   
+   LEFT 'yoga' @[64, 805] (riga singola isolata)
+====================================================================================================
+== p051 [salute] 21 voci, 16 flag, 1 mancanti, 0 leftover, header=H E A LT H • L A S A N T E • DIE GESUNDHEIT • L A S A L U D~
+-- G0 subcat: (nessuna)
+ 0.0  M counselor | le conseiller | der Berater | el terapeuta | l'assistente soc~   
+ 0.1  M acupuncture | l'acuponcture | die Akupunktur | la acupuntura | l'agopuntura   
+ 0.2  ⚠ ? | ? | ? | el re iki | il reiki   missing
+ 0.3  ⚠ hypnotherapy | Phypnothérapic | die Hypnotherapie | la hipnoter3pia | l'ipnositerapia   es fr
+ 0.4  M ayurvéda | la médecine ayur~ | das Ayurveda | la ayurvéda | la medicina aiur~   
+ 0.5  M group therapy | la thérapie de g~ | die Gruppenthera~ | la terapia de gr~ | la terapia di gr~   
+ 0.6  M essential oils | les huiles essen~ | die ätherischen ~ | los aceites esen~ | gli oli essenzia~   
+ 0.7  M homeopathy | l'homéopathie | die Homöopathie | la homeopatía | l'omeopatia   
+ 0.8  M acupressure | l'acupression | die Akupressur | la acupresión | l'agopressionc   
+ 0.9  M aromatherapy | l'arom athérapie | die Aromatherapie | la aroma terapia | l'aromaterapia   
+ 0.10 M herbalism | l'herboristerie | die Kräuterheilk~ | el herbolario | l'erbalismo   
+ 0.11 M therapist | la thérapeute | die Therapeutin | la terapeuta | la terapista   
+ 0.12 ⚠ herb | H ierbe | das Heilkraut | la hierba | l'erba   fr
+ 0.13 ⚠ relaxation | la relaxation | die Entspannung | I3 relajación | il rilassamento   es
+ 0.14 ⚠ naturopathy | la naturopathic | die Naturheilkun~ | la naturopati3 | la naturopatia   es
+ 0.15 M crystal healing | la guérison par ~ | die Kristalither~ | la cristalotcrap~ | la cristallotera~   
+ 0.16 M supplement | le supplément | die Ergänzung | el suplemento | l'integratore   
+ 0.17 M stress | le stress | der Stress | el estrés | lo stress   
+ 0.18 M feng shui | le feng shui | das Feng Shui | el feng shui | ÍI feng shui   
+ 0.19 M hydrotherapy | l'hydrothérapie | die Wasserbehand~ | la hidroterapia | l'idroterapia   
+ 0.20 M psychotherapy | la psychothérapie | die Psychotherap~ | la psicoterapia | la psicoterapia   
+====================================================================================================
+== p052 [salute] PAGINA DIVISORIA / SENZA VOCI

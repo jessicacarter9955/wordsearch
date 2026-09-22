@@ -1,0 +1,571 @@
+{
+ "page": 207,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "football-americano",
+   "names": {
+    "en": "football",
+    "fr": "le football américain",
+    "de": "der football",
+    "es": "el fútbol americano",
+    "it": "il football americano"
+   },
+   "entries": [
+    {
+     "en": "sideline",
+     "fr": "ligne de touche",
+     "de": "Seitenlinie",
+     "es": "línea de banda",
+     "it": "linea laterale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 11,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "referee",
+     "fr": "juge de ligne",
+     "de": "Linienrichter",
+     "es": "juez de línea",
+     "it": "giudice di linea",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 13,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "goa lIme",
+     "fr": "ligne de bur",
+     "de": "Torlinie",
+     "es": "línea de gol",
+     "it": "linea del gol",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 8,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "fr": "poteau",
+     "de": "Torpfosten",
+     "es": "poste del aporte ria",
+     "it": "'",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 10,
+      "es": 17,
+      "it": 0
+     }
+    },
+    {
+     "en": "football field",
+     "es": "campo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 13,
+      "es": 5
+     }
+    },
+    {
+     "en": "If terrain",
+     "de": "Spielfeld I campo",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 9,
+      "de": 15
+     }
+    },
+    {
+     "en": "end zone",
+     "fr": "zone de fond",
+     "de": "Endzone",
+     "es": "zona final",
+     "it": "fondo campo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 7,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "football",
+     "fr": "ballon",
+     "de": "Football",
+     "es": "balón",
+     "it": "pallone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "pads",
+     "fr": "protections",
+     "de": "Polster",
+     "es": "rodilleras",
+     "it": "ginocchiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 11,
+      "de": 7,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "helmet",
+     "fr": "casque",
+     "de": "Helm",
+     "es": "casco",
+     "it": "casco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "cleat",
+     "fr": "botte",
+     "de": "Stiefel",
+     "es": "tenis",
+     "it": "scarpino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "los",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "football player",
+     "fr": "joueur de football",
+     "de": "Footballspieler",
+     "es": "jugador",
+     "it": "giocatore",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 15,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "tackle (v)",
+     "fr": "tacler",
+     "de": "angreifen",
+     "es": "taclear",
+     "it": "placcare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "pass (v)",
+     "fr": "faire une passe",
+     "de": "Ball abgeben",
+     "es": "pasar",
+     "it": "passare",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 13,
+      "de": 11,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "catch (v)",
+     "fr": "attraper",
+     "de": "fangen",
+     "es": "atrapar",
+     "it": "prendere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "time out",
+     "fr": "temps mort",
+     "de": "Auszeit",
+     "es": "tiempo fuera",
+     "it": "time-out",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_hyphen": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "team",
+     "fr": "équipe",
+     "de": "Mannschaft",
+     "es": "equipo",
+     "it": "squadra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "defense",
+     "fr": "défense",
+     "de": "Verteidigung",
+     "es": "defensa",
+     "it": "difesa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "cheerleader",
+     "fr": "majorette",
+     "de": "Cheerleader",
+     "es": "lapo dis ta",
+     "it": "cheerleader",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "W hat is the score?",
+     "fr": "Où en est le m atch?",
+     "de": "Wie ist der Stand?",
+     "es": "Cóm o van?",
+     "it": "A quanto stanno?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 14,
+      "es": 7,
+      "it": 13
+     }
+    },
+    {
+     "en": "fumble",
+     "fr": "prise de ballon maladroite",
+     "de": "unsichere Fangen des Balls",
+     "es": "balón perdido",
+     "it": "fumble",
+     "_multi": [
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 23,
+      "de": 23,
+      "es": 12,
+      "it": 6
+     }
+    },
+    {
+     "en": "attack",
+     "fr": "attaque",
+     "de": "Angriff",
+     "es": "ataque",
+     "it": "attacco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "score",
+     "fr": "score",
+     "de": "Spielstand",
+     "es": "puntuación",
+     "it": "punteggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 10,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "touchdown",
+     "fr": "but",
+     "de": "Touchdown",
+     "es": "intento",
+     "it": "touch-down",
+     "_multi": [],
+     "_hyphen": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 3,
+      "de": 9,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "W ho is winning?",
+     "fr": "Q ui cst-ce qui gagne?",
+     "de": "Wer gewinnt?",
+     "es": "Q uién va ganando?",
+     "it": "Chi vince?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 10,
+      "es": 14,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

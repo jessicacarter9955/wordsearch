@@ -1,0 +1,485 @@
+{
+ "page": 166,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "WORK • LF. TRAVAIL • DIE ARBEIT • EL TRABAJO • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "desktop • ic bureau • das Desktop • el escritorio • il desktop",
+   "parts": [
+    "desktop",
+    "ic bureau",
+    "das desktop",
+    "el escritorio",
+    "il desktop"
+   ],
+   "entries": [
+    {
+     "en": "font",
+     "fr": "la polite",
+     "de": "die Schriftart",
+     "es": "la fuente",
+     "it": "il carattere",
+     "_pos": [
+      454,
+      126
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nenubar",
+     "fr": "Li barre de menus",
+     "de": "der Menübalken",
+     "es": "la barra del m enù",
+     "it": "a barra del menu",
+     "_pos": [
+      24,
+      129
+     ],
+     "_flags": [
+      "fr:case",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "file",
+     "fr": "le fichier",
+     "de": "die Datei",
+     "es": "el archivo",
+     "it": "il file",
+     "_pos": [
+      714,
+      143
+     ],
+     "_flags": []
+    },
+    {
+     "en": "icon",
+     "fr": "Bicóne",
+     "de": "das Symbol",
+     "es": "el icono",
+     "it": "l'icona",
+     "_pos": [
+      544,
+      177
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "toolbar",
+     "fr": "la barre d'outils",
+     "de": "die »Verkzeugleiste",
+     "es": "la barra de herra mientas",
+     "it": "la barra degli strumenti",
+     "_pos": [
+      26,
+      245
+     ],
+     "_flags": [
+      "de:weird:»Verkzeugleiste"
+     ]
+    },
+    {
+     "en": "scrollbar",
+     "fr": "la barre de défilement",
+     "de": "der Scrollbalken",
+     "es": "la barra de desplazamiento",
+     "it": "la barra di scorrimento",
+     "_pos": [
+      544,
+      259
+     ],
+     "_flags": []
+    },
+    {
+     "en": "folder",
+     "fr": "le dossier",
+     "de": "der Ordner",
+     "es": "la carpeta",
+     "it": "la cartella",
+     "_pos": [
+      716,
+      259
+     ],
+     "_flags": []
+    },
+    {
+     "en": "window",
+     "fr": "la fenêtre",
+     "de": "das Fenster",
+     "es": "la ventana",
+     "it": "la finestra",
+     "_pos": [
+      546,
+      360
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wallpaper",
+     "fr": "le papier peint",
+     "de": "die Tapete",
+     "es": "el fondo",
+     "it": "lo sfondo",
+     "_pos": [
+      28,
+      379
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trash",
+     "fr": "la poubelle",
+     "de": "der Papierkorb",
+     "es": "el basurero",
+     "it": "il cestino",
+     "_pos": [
+      718,
+      392
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "email • le courrier électronique • die E-Mail",
+   "parts": [
+    "email",
+    "le courrier électronique",
+    "die e-mail"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "Internet • Pinternet • das Internet • el internet",
+   "parts": [
+    "internet",
+    "pinternet",
+    "das internet",
+    "el internet"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• el correo electrónico • la posta elettronica",
+   "parts": [
+    "el correo electrónico",
+    "la posta elettronica"
+   ],
+   "entries": [
+    {
+     "en": "Internet",
+     "_pos": [
+      29,
+      499
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:case"
+     ]
+    },
+    {
+     "en": "browser",
+     "fr": "le navigateur",
+     "de": "der Browser",
+     "es": "el navegador",
+     "it": "il browser",
+     "_pos": [
+      326,
+      536
+     ],
+     "_flags": []
+    },
+    {
+     "en": "email address",
+     "fr": "l'adresse de courrier électronique",
+     "de": "die E-Mail-Adresse",
+     "es": "la dirección de correo electrónico",
+     "it": "l'indirizzo di posta elettronica",
+     "_pos": [
+      554,
+      542
+     ],
+     "_flags": []
+    },
+    {
+     "en": "DORLING K1NDERSLEY",
+     "fr": "BIRDSOFBRITAINANOEUROPI",
+     "de": "»rerwU~+m~ahi",
+     "_pos": [
+      90,
+      589
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:num:K1NDERSLEY",
+      "en:case",
+      "fr:case",
+      "de:weird:»rerwU~+m~ahi"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "es"
+      ],
+      [
+       "en",
+       "fr",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es"
+      ]
+     ]
+    },
+    {
+     "en": "inbox",
+     "fr": "la boîte de réception",
+     "de": "die Inbox",
+     "es": "la bandeja de entrada",
+     "it": "la posta in arrivo",
+     "_pos": [
+      326,
+      643
+     ],
+     "_flags": []
+    },
+    {
+     "en": "website",
+     "fr": "le sire web",
+     "de": "die Web-Site",
+     "es": "el sitio web",
+     "it": "il sito web",
+     "_pos": [
+      326,
+      744
+     ],
+     "_flags": []
+    },
+    {
+     "en": "WORTH",
+     "fr": "DK BOOKS",
+     "_pos": [
+      46,
+      792
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:case",
+      "fr:case"
+     ],
+     "_alts": [
+      [
+       "en",
+       "de"
+      ],
+      [
+       "en",
+       "es"
+      ],
+      [
+       "en",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "browse (v)",
+     "fr": "naviguer",
+     "de": "browsen",
+     "es": "navegar",
+     "it": "la navigazione",
+     "_pos": [
+      31,
+      845
+     ],
+     "_flags": []
+    },
+    {
+     "en": "save (v)",
+     "fr": "sauvegarder",
+     "de": "sichern",
+     "es": "guardar",
+     "it": "salvare",
+     "_pos": [
+      772,
+      891
+     ],
+     "_flags": []
+    },
+    {
+     "en": "send (v)",
+     "fr": "envoyer",
+     "de": "senden",
+     "es": "enviar",
+     "it": "spedire",
+     "_pos": [
+      680,
+      891
+     ],
+     "_flags": []
+    },
+    {
+     "en": "download (v)",
+     "fr": "télécharger",
+     "de": "herunterladen",
+     "es": "bajar",
+     "it": "scaricare",
+     "_pos": [
+      520,
+      892
+     ],
+     "_flags": []
+    },
+    {
+     "en": "log on (v)",
+     "fr": "entrer",
+     "de": "einloggen",
+     "es": "entrar en el sistema",
+     "it": "collegarsi",
+     "_pos": [
+      370,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "service provider",
+     "fr": "le fournisseur d'accès",
+     "de": "der Serviceprovider",
+     "es": "el proveedor de servicios",
+     "it": "il fornitore di servizi",
+     "_pos": [
+      144,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "connect (v)",
+     "fr": "connecter",
+     "de": "verbinden",
+     "es": "conectar",
+     "it": "collegare",
+     "_pos": [
+      46,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "search (v)",
+     "fr": "chercher",
+     "de": "suchen",
+     "es": "buscar",
+     "it": "cercare",
+     "_pos": [
+      774,
+      990
+     ],
+     "_flags": []
+    },
+    {
+     "en": "receive (v)",
+     "fr": "recevoir",
+     "de": "erhalten",
+     "es": "recibir",
+     "it": "ricevere",
+     "_pos": [
+      682,
+      991
+     ],
+     "_flags": []
+    },
+    {
+     "en": "attachment",
+     "fr": "le documenr attaché",
+     "de": "der Anhang",
+     "es": "el documento adjunto",
+     "it": "T'allegato",
+     "_pos": [
+      522,
+      991
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "online",
+     "fr": "en ligne",
+     "de": "online",
+     "es": "en línea",
+     "it": "in rete",
+     "_pos": [
+      370,
+      992
+     ],
+     "_flags": []
+    },
+    {
+     "en": "email account",
+     "fr": "le compte de courrier électronique",
+     "de": "das E Mail-Konto",
+     "es": "la cuenta de correo",
+     "it": "l'account di posta elettronica",
+     "_pos": [
+      144,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "install (v)",
+     "fr": "installer",
+     "de": "installieren",
+     "es": "instalar",
+     "it": "installare",
+     "_pos": [
+      48,
+      995
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "C M U n i M t U 1",
+   "pos": [
+    47,
+    799
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 30,
+  "complete_clean": 5,
+  "flagged": 25,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 4
+ }
+}

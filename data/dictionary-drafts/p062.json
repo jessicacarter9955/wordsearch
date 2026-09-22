@@ -1,0 +1,401 @@
+{
+ "page": 62,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • I A M A IS O N • DAS HAUS * I.A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "refrigerator",
+     "fr": "le frig id aire",
+     "de": "der Kühlschrank",
+     "es": "el refrigerador",
+     "it": "il frigorifero",
+     "_pos": [
+      464,
+      99
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ice maker",
+     "fr": "le freezer",
+     "de": "das Eisfach",
+     "es": "la máquina de los hielos",
+     "it": "il fabbrica ghiaccio",
+     "_pos": [
+      34,
+      101
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stove",
+     "fr": "la table de cuisson",
+     "de": "das Kochfeld",
+     "es": "la hornilla",
+     "it": "la piastra",
+     "_pos": [
+      600,
+      109
+     ],
+     "_flags": []
+    },
+    {
+     "en": "freeze (v)",
+     "fr": "congeler",
+     "de": "emitieren",
+     "es": "congelar",
+     "it": "congelare",
+     "_pos": [
+      737,
+      110
+     ],
+     "_flags": []
+    },
+    {
+     "en": "draining board",
+     "fr": "l'égouttoir",
+     "de": "das Abtropfbrett",
+     "es": "‘ el escurridor",
+     "it": "il gocciolatoio",
+     "_pos": [
+      595,
+      211
+     ],
+     "_flags": [
+      "es:weird:‘"
+     ]
+    },
+    {
+     "en": "defrost (v)",
+     "fr": "décongeler",
+     "de": "auftauen",
+     "es": "descongelar",
+     "it": "scongelare",
+     "_pos": [
+      738,
+      211
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shelf",
+     "fr": "la clayette",
+     "de": "der Rost",
+     "es": "la charola",
+     "it": "la mensola",
+     "_pos": [
+      465,
+      217
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eezer",
+     "fr": "e congélateur",
+     "de": "das Gefrierfach",
+     "es": "el congelador",
+     "it": "I congelatore",
+     "_pos": [
+      34,
+      299
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "burner",
+     "fr": "le brûleur",
+     "de": "der Brenner",
+     "es": "el quemador",
+     "it": "il fornello",
+     "_pos": [
+      601,
+      313
+     ],
+     "_flags": []
+    },
+    {
+     "en": "steam (v)",
+     "fr": "cuire à la vapeur",
+     "de": "dampfen",
+     "es": "cocer al vapor",
+     "it": "cuocere al vapore",
+     "_pos": [
+      738,
+      313
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crisper",
+     "fr": "le bac à légumes",
+     "de": "das Gemüsefach",
+     "es": "el cajón de las verduras",
+     "it": "il cassetto per la verdura",
+     "_pos": [
+      466,
+      349
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garbage can",
+     "fr": "la poubelle",
+     "de": "der Mülleimer",
+     "es": "el bote de basura",
+     "it": "la pattumiera",
+     "_pos": [
+      601,
+      415
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sauté (v)",
+     "fr": "sauter",
+     "de": "anbraten",
+     "es": "saltear",
+     "it": "saltare in padella",
+     "_pos": [
+      738,
+      415
+     ],
+     "_flags": []
+    },
+    {
+     "en": "e'ngerator-freezer",
+     "fr": "le réfrigérateur-congélateur",
+     "de": "der Gefrier-Kuhlschrank",
+     "es": "e! refrigerador congelador",
+     "it": "il frig ocongela tore",
+     "_pos": [
+      37,
+      481
+     ],
+     "_flags": [
+      "es:weird:e!"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "cooking • la cuisine • das Kochen • cocinar • cucinare",
+   "parts": [
+    "cooking",
+    "la cuisine",
+    "das kochen",
+    "cocinar",
+    "cucinare"
+   ],
+   "entries": [
+    {
+     "en": "peel (v)",
+     "fr": "éplucher",
+     "de": "schälen",
+     "es": "pelar",
+     "it": "sbucciare",
+     "_pos": [
+      36,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slice (v)",
+     "fr": "couper",
+     "de": "schneiden",
+     "es": "cortar",
+     "it": "affettare",
+     "_pos": [
+      208,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grate (v)",
+     "fr": "râper",
+     "de": "reiben",
+     "es": "rallar",
+     "it": "grattugiare",
+     "_pos": [
+      378,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pour (v)",
+     "fr": "verser",
+     "de": "gießen",
+     "es": "vaciar",
+     "it": "versare",
+     "_pos": [
+      550,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mix (v)",
+     "fr": "mélanger",
+     "de": "verrühren",
+     "es": "mezclar",
+     "it": "mescolare",
+     "_pos": [
+      722,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boil (v)",
+     "fr": "bouillir",
+     "de": "kochen",
+     "es": "hervir",
+     "it": "bollire",
+     "_pos": [
+      208,
+      861
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fry (v)",
+     "fr": "frire",
+     "de": "braten",
+     "es": "freír",
+     "it": "friggere",
+     "_pos": [
+      380,
+      861
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roll (v)",
+     "fr": "abaisser à rouleau",
+     "de": "ausrollen",
+     "es": "amasar con el rodillo",
+     "it": "spianare",
+     "_pos": [
+      543,
+      861
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stir (v)",
+     "fr": "remuer",
+     "de": "rühren",
+     "es": "remover",
+     "it": "rimestare",
+     "_pos": [
+      723,
+      861
+     ],
+     "_flags": []
+    },
+    {
+     "en": "«wtiísk (v)",
+     "fr": "bartre",
+     "de": "schlagen",
+     "es": "batir",
+     "it": "sbattere",
+     "_pos": [
+      38,
+      862
+     ],
+     "_flags": [
+      "en:weird:«wtiísk"
+     ]
+    },
+    {
+     "en": "poach (v)",
+     "fr": "pocher",
+     "de": "pochieren",
+     "es": "escalfar",
+     "it": "affogare",
+     "_pos": [
+      209,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "s-mmer (v)",
+     "fr": "mijoter",
+     "de": "socheln lassen",
+     "es": "cocer a fuego lento",
+     "it": "cuocere a fuoco lento",
+     "_pos": [
+      38,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bake (v)",
+     "fr": "cuire au four",
+     "de": "backen",
+     "es": "hornear",
+     "it": "cuocere al forno",
+     "_pos": [
+      380,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "roast (v)",
+     "fr": "rôtir",
+     "de": "braten",
+     "es": "asar",
+     "it": "arrostire",
+     "_pos": [
+      552,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gnll /",
+     "fr": "griller",
+     "de": "grillen",
+     "es": "asar a la parrilla",
+     "it": "cuocere alla griglia",
+     "_pos": [
+      723,
+      1027
+     ],
+     "_flags": [
+      "en:weird:/"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 5,
+  "flagged": 24,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

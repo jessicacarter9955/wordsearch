@@ -1,0 +1,533 @@
+{
+ "page": 127,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "bottle",
+     "fr": "bouteille",
+     "de": "Flasche",
+     "es": "botella",
+     "it": "bottiglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "condiment sand spreads",
+     "fr": "condiments",
+     "de": "Würzen",
+     "es": "io s c o n d im e n t o s",
+     "it": "condimenti e cibi da spalmare",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 10,
+      "de": 6,
+      "es": 14,
+      "it": 25
+     }
+    },
+    {
+     "en": "balsamic vinegar",
+     "fr": "vinaigre balsamique",
+     "de": "Gewurzessig",
+     "es": "vinagre balsámico",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 18,
+      "de": 11,
+      "es": 16
+     }
+    },
+    {
+     "en": "cider vinegar",
+     "fr": "vinaigre de cidre",
+     "de": "Apfelweinessig",
+     "es": "vinagre de sidra",
+     "it": "aceto di sidro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 14,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "English mustard",
+     "fr": "moutarde anglaise",
+     "de": "englische Senf",
+     "es": "mostaza inglesa",
+     "it": "senape",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 13,
+      "es": 14,
+      "it": 6
+     }
+    },
+    {
+     "en": "ketchup",
+     "fr": "ketchup",
+     "de": "Ketchup",
+     "es": "catsup",
+     "it": "ketchup",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "mayonnaise",
+     "fr": "mayonnaise",
+     "de": "Majonäse",
+     "es": "mayonesa",
+     "it": "maionese",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "French mustard",
+     "fr": "ln m outarde française",
+     "de": "französische Senf",
+     "es": "mostaza francesa",
+     "it": "mostarda",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 19,
+      "de": 16,
+      "es": 15,
+      "it": 8
+     }
+    },
+    {
+     "en": "wholegrain mustard",
+     "fr": "moutarde en grains",
+     "de": "grobe Senf",
+     "es": "mostaza en grano",
+     "it": "mostarda con semi",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 16,
+      "de": 9,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "fr": "vinaigre de viti",
+     "de": "Weinessig",
+     "es": "vinagre de vino",
+     "it": "aceto di vino",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 14,
+      "de": 9,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "sauce",
+     "fr": "sauce",
+     "de": "Soße",
+     "es": "salsa",
+     "it": "salsa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "fr": "vinaigre tic malt",
+     "de": "Malzessig",
+     "es": "vinagre de malta",
+     "it": "aceto di malto",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 15,
+      "de": 9,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "chutney",
+     "fr": "chutney",
+     "de": "Chutney",
+     "es": "chutney",
+     "it": "chutney",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "vegetable oil",
+     "fr": "huile végétale",
+     "de": "Pflanzenöl",
+     "es": "aceite vegetal",
+     "it": "olio vegetale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 10,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "cañóla oil",
+     "fr": "huile de colza",
+     "de": "Rapsöl",
+     "es": "aceite de colza",
+     "it": "olio di colza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 6,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "corn oil",
+     "fr": "huile de mais",
+     "de": "Maiskeimol",
+     "es": "aceite de maíz",
+     "it": "olio di mais",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 10,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "coid-pressed oil",
+     "fr": "huile pressée à froid",
+     "de": "kaltgepresste Öl",
+     "es": "aceite de presión",
+     "it": "en frió l'olio spremuto a freddo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 15,
+      "es": 15,
+      "it": 26
+     }
+    },
+    {
+     "en": "peanut oil",
+     "fr": "huile d'arachide",
+     "de": "Erdnussöl",
+     "es": "aceite ele",
+     "it": "cacahuete l'olio di arachide",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 9,
+      "es": 9,
+      "it": 24
+     }
+    },
+    {
+     "en": "preserved fruit",
+     "fr": "fruits en bocaux",
+     "de": "eingemachte Obst",
+     "es": "Fruta en conserva",
+     "it": "conserva di frutta",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 15,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "chocolate spread",
+     "fr": "pâte à tartiner au chocolat",
+     "de": "Schokoladenautstrich",
+     "es": "chocolate para untar",
+     "it": "cioccolata spalmarle",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 23,
+      "de": 20,
+      "es": 18,
+      "it": 19
+     }
+    },
+    {
+     "en": "peanut butter",
+     "fr": "beurre de cacahouètes",
+     "de": "Erdnussbutter",
+     "es": "crema de cacahuete",
+     "it": "burro di arachidi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 19,
+      "de": 13,
+      "es": 16,
+      "it": 15
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

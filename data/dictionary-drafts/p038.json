@@ -1,0 +1,466 @@
+{
+ "page": 38,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • L'APPARENCE • DIE ÄUSSERE ERSCHEINUNG • L A APARIENCIA • L'AS PETTO",
+ "groups": [
+  {
+   "names_raw": "toiletries • les accessoires de toilerte • die",
+   "parts": [
+    "toiletries",
+    "les accessoires de toilerte",
+    "die"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "beauty treatments • les soins de beauté • die",
+   "parts": [
+    "beauty treatments",
+    "les soins de beauté",
+    "die"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "Toilettenartikel • los artículos de tocador • gli articoli",
+   "parts": [
+    "toilettenartikel",
+    "los artículos de tocador",
+    "gli articoli"
+   ],
+   "entries": [
+    {
+     "en": "Schönheitsbehandlungen",
+     "es": "los tratamientos de belleza",
+     "it": "i trattamenti di bellezza",
+     "_pos": [
+      40,
+      98
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "en:case"
+     ]
+    },
+    {
+     "en": "face pack",
+     "fr": "le masque de beauté",
+     "de": "die Gesichtsmaske",
+     "es": "la mascarilla",
+     "it": "la maschera di bellezza",
+     "_pos": [
+      40,
+      165
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sunbed",
+     "fr": "le lie U .V",
+     "de": "die Sonnenbank",
+     "es": "la cam a de rayos ultravioletas",
+     "it": "il lettino solare",
+     "_pos": [
+      254,
+      259
+     ],
+     "_flags": [
+      "fr:short:U",
+      "fr:weird:.V"
+     ]
+    },
+    {
+     "en": "moisturizer",
+     "fr": "la crème hydratante",
+     "de": "die Feuchtigkeitscreme",
+     "es": "la crema hidratante",
+     "it": "la crema idratante",
+     "_pos": [
+      727,
+      313
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cleanser",
+     "fr": "le démaquillant",
+     "de": "der Reiniger",
+     "es": "la crema limpiadora",
+     "it": "il latte detergente",
+     "_pos": [
+      466,
+      315
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toner",
+     "fr": "le tonique",
+     "de": "das Gesichtswasser",
+     "es": "el tónico",
+     "it": "la lozione tonificante",
+     "_pos": [
+      598,
+      315
+     ],
+     "_flags": []
+    },
+    {
+     "en": "exfoliate (v)",
+     "fr": "exfolier",
+     "de": "die Haut schälen",
+     "es": "exfoliar",
+     "it": "esfoliare",
+     "_pos": [
+      256,
+      423
+     ],
+     "_flags": []
+    },
+    {
+     "en": "facial",
+     "fr": "le soin du visage",
+     "de": "die Gesichtsbehandlung",
+     "es": "la limpieza de cutis",
+     "it": "il trattamento per il viso",
+     "_pos": [
+      44,
+      425
+     ],
+     "_flags": []
+    },
+    {
+     "en": "self-tanning louon",
+     "fr": "l'autobronzant",
+     "de": "die Selbstbraunungsoeme",
+     "es": "la crema bronceadura",
+     "it": "la crema autoabbronzante",
+     "_pos": [
+      468,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "e aude toilette",
+     "fr": "l'eau de toilette",
+     "de": "das Eau de Toilette",
+     "es": "el agua de colonia",
+     "it": "l'acqua di colonia",
+     "_pos": [
+      733,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "perfume",
+     "fr": "le parfum",
+     "de": "das Parfum",
+     "es": "perfume",
+     "it": "il profumo",
+     "_pos": [
+      637,
+      568
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pedicure",
+     "fr": "la pédicuric",
+     "de": "die Pediküre",
+     "es": "la p ed iatra",
+     "it": "la pedicure",
+     "_pos": [
+      258,
+      602
+     ],
+     "_flags": [
+      "es:short:p"
+     ]
+    },
+    {
+     "en": "wax",
+     "fr": "l'épilation",
+     "de": "die Enthaarung",
+     "es": "la depilación a la cera",
+     "it": "lac eretta",
+     "_pos": [
+      46,
+      604
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tan",
+     "fr": "le bronzage",
+     "de": "die Sonnenbräune",
+     "es": "el bronceado",
+     "it": "l'abbronzatura",
+     "_pos": [
+      722,
+      681
+     ],
+     "_flags": []
+    },
+    {
+     "en": "complexion",
+     "fr": "le teint",
+     "de": "der Teint",
+     "es": "el cutis",
+     "it": "la carnagione",
+     "_pos": [
+      484,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oily",
+     "fr": "gras",
+     "de": "fettig",
+     "es": "graso",
+     "it": "grasso",
+     "_pos": [
+      588,
+      683
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "la manicure",
+   "parts": [
+    "la manicure"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "la manicura",
+   "parts": [
+    "la manicura"
+   ],
+   "entries": [
+    {
+     "en": "manicure",
+     "fr": "la manicure",
+     "_pos": [
+      46,
+      684
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "• die Maniküre •",
+   "parts": [
+    "die maniküre"
+   ],
+   "entries": [
+    {
+     "en": "nail polish remover",
+     "fr": "li dissolvant",
+     "de": "der Nagellackentferner",
+     "es": "el quitacsm alte",
+     "it": "l'acetone",
+     "_pos": [
+      216,
+      726
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tattoo",
+     "fr": "le tatouage",
+     "de": "die Tätowierung",
+     "es": "tatuaje",
+     "it": "il tatuaggio",
+     "_pos": [
+      723,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fair",
+     "fr": "clair",
+     "de": "hell",
+     "es": "claro",
+     "it": "chiaro",
+     "_pos": [
+      486,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sensitive",
+     "fr": "sensible",
+     "de": "empfindlich",
+     "es": "sensible",
+     "it": "sensibile",
+     "_pos": [
+      589,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cotton balls",
+     "fr": "les boules de coton",
+     "de": "die Wattebälkhen",
+     "es": "las bolas de algodón",
+     "it": "i batuffoli di ovatta",
+     "_pos": [
+      724,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hypoallergenic",
+     "fr": "hypoallergénique",
+     "de": "hypoallergen",
+     "es": "hipoalcrgcnico",
+     "it": "ipoallergenico",
+     "_pos": [
+      590,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dark",
+     "fr": "foncé",
+     "de": "dunkel",
+     "es": "moreno",
+     "it": "scuro",
+     "_pos": [
+      486,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nail polish",
+     "fr": "le vernis à ongles",
+     "de": "der Nagellack",
+     "es": "esmalte de uñas",
+     "it": "lo smalto per unghie",
+     "_pos": [
+      260,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nail file",
+     "fr": "la lime à ongles",
+     "de": "die Nagelfeile",
+     "es": "la lim a de uñas",
+     "it": "la limetta",
+     "_pos": [
+      48,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nail scissors",
+     "fr": "les ciseaux à ongles",
+     "de": "die Nagelschere",
+     "es": "las tijeras de uñas",
+     "it": "le forbicine per le unghie",
+     "_pos": [
+      49,
+      964
+     ],
+     "_flags": [
+      "wrap"
+     ]
+    },
+    {
+     "en": "antiwrinkle",
+     "fr": "antirides",
+     "de": "Antifalten",
+     "es": "anttam igas",
+     "it": "antirughe",
+     "_pos": [
+      725,
+      975
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shade",
+     "fr": "le ton",
+     "de": "der Farbton",
+     "es": "el tono",
+     "it": "la tonalità",
+     "_pos": [
+      592,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dry",
+     "fr": "sec",
+     "de": "trocken",
+     "es": "soco",
+     "it": "secco",
+     "_pos": [
+      488,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nail clippers",
+     "fr": "le coupe-ongles",
+     "de": "der Nagelknipser",
+     "es": "d cortaúñas",
+     "it": "it tagliaunghie",
+     "_pos": [
+      344,
+      978
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "da toeletta",
+   "pos": [
+    464,
+    118
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 31,
+  "complete_clean": 13,
+  "flagged": 18,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 6
+ }
+}

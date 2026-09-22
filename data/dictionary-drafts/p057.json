@@ -1,0 +1,181 @@
+{
+ "page": 57,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • I.A MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "living room • le salon • das Wohnzimmer • la sala • ¡I salotto",
+   "parts": [
+    "living room",
+    "le salon",
+    "das wohnzimmer",
+    "la sala",
+    "i salotto"
+   ],
+   "entries": [
+    {
+     "en": "painting",
+     "fr": "le tableau",
+     "de": "das Gemälde",
+     "es": "el cuadro",
+     "it": "il quadro",
+     "_pos": [
+      234,
+      140
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frame",
+     "fr": "le cadre",
+     "de": "der Bilderrahmen",
+     "es": "el marco",
+     "_pos": [
+      380,
+      141
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "lamp",
+     "fr": "la lampe",
+     "de": "die Lampe",
+     "es": "la lámpara",
+     "_pos": [
+      528,
+      142
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "wall light",
+     "fr": "l'applique",
+     "de": "die Wandlampe",
+     "es": "el arbotante",
+     "it": "l'anniiniitf»",
+     "_pos": [
+      673,
+      143
+     ],
+     "_flags": [
+      "it:weird:l'anniiniitf»"
+     ]
+    },
+    {
+     "en": "clock",
+     "fr": "la pendule",
+     "de": "die Uhr",
+     "es": "el reloj",
+     "it": "l'orologio",
+     "_pos": [
+      803,
+      143
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ceiling",
+     "fr": "le plafond",
+     "de": "die Decke",
+     "es": "el techo",
+     "it": "il soffitto",
+     "_pos": [
+      54,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cabinet",
+     "fr": "la vitrine",
+     "de": "die Vitrine",
+     "es": "la vitrina",
+     "it": "l'armadictto",
+     "_pos": [
+      54,
+      439
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sofa",
+     "fr": "le canapé",
+     "de": "das Sofa",
+     "es": "el sofá",
+     "it": "il divano",
+     "_pos": [
+      54,
+      635
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pillow",
+     "fr": "le coussin",
+     "de": "das Sofakissen",
+     "es": "el cojín",
+     "it": "il cuscino",
+     "_pos": [
+      53,
+      751
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coffee table",
+     "fr": "la table basse",
+     "de": "der Couchtisch",
+     "es": "la mesa de centro",
+     "it": "il tavolino",
+     "_pos": [
+      53,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "floor",
+     "fr": "le sol",
+     "de": "der Fußboden",
+     "es": "el piso",
+     "it": "il pavimento",
+     "_pos": [
+      52,
+      996
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 11,
+  "complete_clean": 7,
+  "flagged": 4,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

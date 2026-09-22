@@ -1,0 +1,240 @@
+{
+ "page": 11,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "P EO P LE • L E S GENS / • DIE MENSCHEN • L A GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "back",
+     "fr": "le dos",
+     "de": "der Rücken",
+     "es": "la espalda",
+     "it": "la schiena",
+     "_pos": [
+      653,
+      148
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nape",
+     "fr": "la nuque",
+     "de": "der Nacken",
+     "es": "la nuca",
+     "it": "la nuca",
+     "_pos": [
+      412,
+      160
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shoulder",
+     "fr": "l'épaule",
+     "de": "die Schulter",
+     "es": "el hombro",
+     "it": "la spalla",
+     "_pos": [
+      206,
+      199
+     ],
+     "_flags": []
+    },
+    {
+     "en": "armpit",
+     "fr": "'aisselle",
+     "de": "die Achselhöhle",
+     "es": "la axila",
+     "it": "'ascella",
+     "_pos": [
+      710,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "arm",
+     "fr": "le bras",
+     "de": "der Arm",
+     "es": "el brazo",
+     "it": "il braccio",
+     "_pos": [
+      174,
+      308
+     ],
+     "_flags": []
+    },
+    {
+     "en": "elbow",
+     "fr": "le coude",
+     "de": "der Ellbogen",
+     "es": "el codo",
+     "it": "il gomito",
+     "_pos": [
+      124,
+      413
+     ],
+     "_flags": []
+    },
+    {
+     "en": "small of back",
+     "fr": "le creux des reins",
+     "de": "das Kreuz",
+     "es": "la zona lumbar",
+     "it": "le reni",
+     "_pos": [
+      714,
+      432
+     ],
+     "_flags": []
+    },
+    {
+     "en": "IT",
+     "it": "i '.Ueu",
+     "_pos": [
+      498,
+      493
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "slot-ambig",
+      "en:case",
+      "it:weird:'.Ueu"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "it"
+      ],
+      [
+       "de",
+       "it"
+      ],
+      [
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "wrist",
+     "fr": "le poignet",
+     "de": "das Handgelenk",
+     "es": "la muñeca",
+     "it": "il polso",
+     "_pos": [
+      75,
+      526
+     ],
+     "_flags": []
+    },
+    {
+     "en": "buttock",
+     "fr": "la fesse",
+     "de": "die Hinterbacke",
+     "es": "la nalga",
+     "it": "la natica",
+     "_pos": [
+      670,
+      638
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hand",
+     "fr": "la main",
+     "de": "die Hand",
+     "es": "la mano",
+     "it": "la mano",
+     "_pos": [
+      164,
+      709
+     ],
+     "_flags": []
+    },
+    {
+     "en": "calf",
+     "fr": "le mollet",
+     "de": "die Wade",
+     "es": "la pantorrilla",
+     "it": "polpaccio",
+     "_pos": [
+      692,
+      770
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ankle",
+     "fr": "la cheville",
+     "de": "der Knöchel",
+     "es": "el tobillo",
+     "it": "la caviglia",
+     "_pos": [
+      204,
+      870
+     ],
+     "_flags": []
+    },
+    {
+     "en": "heel",
+     "fr": "le talon",
+     "de": "die Ferse",
+     "es": "el talón",
+     "it": "il tallone",
+     "_pos": [
+      690,
+      921
+     ],
+     "_flags": []
+    },
+    {
+     "en": "female",
+     "fr": "la femme",
+     "de": "die Frau",
+     "es": "la mujer",
+     "it": "la donna",
+     "_pos": [
+      236,
+      1018
+     ],
+     "_flags": []
+    },
+    {
+     "en": "male",
+     "fr": "l'homme",
+     "de": "der Mann",
+     "es": "el hombre",
+     "it": "l'uomo",
+     "_pos": [
+      478,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 9,
+  "flagged": 7,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

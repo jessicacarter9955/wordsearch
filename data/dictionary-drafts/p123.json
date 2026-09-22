@@ -1,0 +1,307 @@
+{
+ "page": 123,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • l.OS AUMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "beans and peas • les haricots et les pois • die Bohnen und die Erbsen • los frijoles y los chícharos",
+   "parts": [
+    "beans and peas",
+    "les haricots et les pois",
+    "die bohnen und die erbsen",
+    "los frijoles y los chícharos"
+   ],
+   "entries": [
+    {
+     "it": "i fagioli e i piselli",
+     "_pos": [
+      21,
+      101
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "fava beans",
+     "fr": "les fèves",
+     "de": "die Saubohnen",
+     "es": "las habas",
+     "it": "le fave",
+     "_pos": [
+      703,
+      257
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aduki beans",
+     "fr": "les ad zu k is",
+     "de": "dieAdzuki bohnen",
+     "es": "el frijol morado",
+     "it": "i fagioli aduki",
+     "_pos": [
+      533,
+      259
+     ],
+     "_flags": [
+      "fr:short:k"
+     ]
+    },
+    {
+     "en": "kidney beans",
+     "fr": "les haricots rongés",
+     "de": "die roten Bohnen",
+     "es": "el frijol rojo",
+     "it": "i fagioli di Spagna",
+     "_pos": [
+      362,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "en": "navy beans",
+     "fr": "les haricots blancs",
+     "de": "die weißen Bohnen",
+     "es": "el frijol blanco chico",
+     "it": "i fagioli bianchi",
+     "_pos": [
+      192,
+      261
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lima beans",
+     "fr": "les gros haricûts blancs",
+     "de": "die Mondbohnen",
+     "es": "el frijol blanco",
+     "it": "i fagioli cannellini",
+     "_pos": [
+      22,
+      263
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flageolet beans",
+     "fr": "les flageolets",
+     "de": "die französischen Bohnen",
+     "es": "el frijol flageolet",
+     "it": "i fagioli nani",
+     "_pos": [
+      706,
+      471
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mung beans",
+     "fr": "les haricots mung",
+     "de": "die Mungbohnen",
+     "es": "el frijol m ung",
+     "it": "i fagioli mung",
+     "_pos": [
+      535,
+      472
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "pinto beans",
+     "fr": "les haricots pinto",
+     "de": "die Pintobohnen",
+     "es": "el frijol pinto",
+     "it": "i fagioli borlotti",
+     "_pos": [
+      365,
+      473
+     ],
+     "_flags": []
+    },
+    {
+     "en": "black eyed peas",
+     "fr": "les haricots à œil noir",
+     "de": "die Teparybohnen",
+     "es": "el frijol do ojo negro",
+     "it": "i fagioli dall'occhio nero",
+     "_pos": [
+      194,
+      475
+     ],
+     "_flags": []
+    },
+    {
+     "en": "soybeans",
+     "fr": "les graines de so3",
+     "de": "die Sojabohnen",
+     "es": "la semilla de soja",
+     "it": "i semi di soia",
+     "_pos": [
+      24,
+      476
+     ],
+     "_flags": [
+      "fr:num:so3"
+     ]
+    },
+    {
+     "en": "chick peas",
+     "fr": "les pois chiches",
+     "de": "die Kichererbsen",
+     "es": "los garbanzos",
+     "it": "i ceci",
+     "_pos": [
+      537,
+      686
+     ],
+     "_flags": []
+    },
+    {
+     "en": "split peas",
+     "fr": "les pois cassés",
+     "de": "die getrockneten Erbsen",
+     "it": "i piselli spaccati",
+     "_pos": [
+      707,
+      686
+     ],
+     "_flags": [
+      "missing:es"
+     ]
+    },
+    {
+     "en": "peas",
+     "fr": "les petits pois",
+     "de": "die grünen Erbsen",
+     "es": "los chícharos",
+     "it": "i piselli",
+     "_pos": [
+      368,
+      687
+     ],
+     "_flags": []
+    },
+    {
+     "en": "red lentils",
+     "fr": "les lentilles rouges",
+     "de": "die roten Linsen",
+     "es": "la lenteja roja",
+     "it": "le lenticchie rosse",
+     "_pos": [
+      196,
+      688
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brown lentils",
+     "fr": "les lentilles",
+     "de": "die braunen Unsen",
+     "es": "la lenteja castellana",
+     "it": "le lenticchie marroni",
+     "_pos": [
+      26,
+      690
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "seeds • les graines • die Körner • las sem illas • i semi",
+   "parts": [
+    "seeds",
+    "les graines",
+    "die körner",
+    "las sem illas",
+    "i semi"
+   ],
+   "entries": [
+    {
+     "en": "sesame seed",
+     "fr": "la graine de sésame",
+     "de": "das Sesamkorn",
+     "es": "la semilla de sésamo",
+     "it": "il seme di sesamo",
+     "_pos": [
+      541,
+      963
+     ],
+     "_flags": []
+    },
+    {
+     "en": "caraway",
+     "fr": "la graine de carvi",
+     "de": "der Kümmel",
+     "es": "el carvi",
+     "it": "il seme di carvi",
+     "_pos": [
+      370,
+      965
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mustard seed",
+     "fr": "le grain tie moutarde",
+     "de": "das Senfkorn",
+     "es": "la semilla de mostaza",
+     "it": "il seme di mostarda",
+     "_pos": [
+      200,
+      966
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pumpkin seed",
+     "fr": "la graine de potiron",
+     "de": "der Kurbiskern",
+     "es": "la pepita de calabaza",
+     "it": "il seme di zucca",
+     "_pos": [
+      30,
+      967
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sunflower seed",
+     "fr": "la grame de tournesol",
+     "de": "der Sonnenblumenkern",
+     "es": "la semilla de girasol",
+     "it": "il seme di girasole",
+     "_pos": [
+      116,
+      1065
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 0,
+  "flagged": 21,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

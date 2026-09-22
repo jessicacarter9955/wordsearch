@@ -1,0 +1,631 @@
+{
+ "page": 228,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "sport-acquatici",
+   "names": {
+    "en": "watersports",
+    "fr": "les sports aquatiques",
+    "de": "der wassersport",
+    "es": "los deportes acuáticos",
+    "it": "gli sport acquatici"
+   },
+   "entries": [
+    {
+     "en": "oar",
+     "fr": "rame",
+     "de": "Ruder",
+     "es": "remo",
+     "it": "remo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "rower",
+     "fr": "rameur",
+     "de": "Ruderer",
+     "es": "remero",
+     "it": "rematore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "kayak",
+     "fr": "kayak",
+     "de": "Kajak",
+     "es": "fI I r it V íiíf",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 11
+     }
+    },
+    {
+     "en": "paddle",
+     "fr": "pagaie",
+     "de": "Paddel",
+     "es": "remo",
+     "it": "pagaia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "row (v)",
+     "fr": "ramer",
+     "de": "rudern",
+     "es": "rem ai",
+     "it": "remare",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "surfboard",
+     "fr": "planche",
+     "de": "Surfbrett",
+     "es": "tabla de su rf",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 9,
+      "es": 11
+     }
+    },
+    {
+     "en": "sail",
+     "fr": "voile",
+     "de": "Segei",
+     "es": "vela",
+     "it": "vela",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "windsurfer",
+     "fr": "planchiste",
+     "de": "Windsurfer",
+     "es": "w indsurfista",
+     "it": "windsurf",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "surfing",
+     "fr": "surf",
+     "de": "Wellenreiten",
+     "es": "surfing",
+     "it": "surfing",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 12,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "waterskiing",
+     "fr": "ski nautique",
+     "de": "Wasserski",
+     "es": "esquí acuático",
+     "it": "sci d'acqua",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 9,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "speedboating",
+     "fr": "moto nautisme",
+     "de": "Schnellbootsport",
+     "es": "carrera de lanchas",
+     "it": "corsa in motoscafo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 16,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "footstrap",
+     "fr": "bride",
+     "de": "Fußschlaufe",
+     "es": "an tapara el pie",
+     "it": "presa per il piede",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 12,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "board",
+     "fr": "planche",
+     "de": "Surfbrett",
+     "es": "tabi.i",
+     "it": "tavola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "rafting",
+     "fr": "rafting",
+     "de": "Rafting",
+     "es": "ratting",
+     "it": "rafting",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "jet-skiing",
+     "fr": "jet-ski",
+     "de": "Wassermotonadsporl",
+     "es": "moto acuática",
+     "it": "acquascooter",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 18,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "windsurfing",
+     "fr": "planche à voile",
+     "de": "Windsurfing",
+     "es": "w indsurf",
+     "it": "windsurfing",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "crew",
+     "fr": "équipage",
+     "de": "Crew",
+     "es": "tripulación",
+     "it": "equipaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 4,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "wind",
+     "fr": "vent",
+     "de": "Wind",
+     "es": "viento",
+     "it": "vento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "surf",
+     "fr": "écume",
+     "de": "Brandung",
+     "es": "rompiente",
+     "it": "cresta dell'onda",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 8,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "sheet",
+     "fr": "écoute",
+     "de": "Schot",
+     "es": "escota",
+     "it": "scotta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "centerboard",
+     "fr": "dérive",
+     "de": "Schwert",
+     "es": "orza",
+     "it": "centro della tavola",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 7,
+      "es": 4,
+      "it": 17
+     }
+    },
+    {
+     "en": "waterskier",
+     "fr": "skieur nautique",
+     "de": "Wasserskifahrer",
+     "es": "esquiador acuático",
+     "it": "sciatore d'acqua",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 15,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "surfer",
+     "fr": "surfeur",
+     "de": "Surfer",
+     "es": "surfista",
+     "it": "surfista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "wave",
+     "fr": "vague",
+     "de": "Welle",
+     "es": "ola",
+     "it": "onda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 3,
+      "it": 4
+     }
+    },
+    {
+     "en": "rudder",
+     "fr": "gouvernail",
+     "de": "Ruder",
+     "es": "timón",
+     "it": "timone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "tack (v)",
+     "fr": "louvoyer",
+     "de": "aufkreuzen",
+     "es": "virar",
+     "it": "bordeggiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 10,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "rapids",
+     "fr": "rapides",
+     "de": "Wildwasser",
+     "es": "rápidos",
+     "it": "rapide",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "capsize (v)",
+     "fr": "chavirer",
+     "de": "kentern",
+     "es": "volcar",
+     "it": "capovolgersi",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 6,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

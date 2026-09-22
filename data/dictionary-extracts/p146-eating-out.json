@@ -1,0 +1,505 @@
+{
+ "page": 146,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "sausage",
+     "fr": "saucisse",
+     "de": "Wurst",
+     "es": "salchicha",
+     "it": "Wurstel",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 5,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "mustard",
+     "fr": "moutarde",
+     "de": "Senf",
+     "es": "mostaza",
+     "it": "senape",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "bun",
+     "fr": "petit pan",
+     "de": "Brötchen",
+     "es": "hollo",
+     "it": "panino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 8,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "veglie burger",
+     "fr": "hamburger végé tanen",
+     "de": "vegetarische Hamburger",
+     "es": "hamburguesa vegetariana",
+     "it": "hamburger vegetariano",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 21,
+      "es": 22,
+      "it": 20
+     }
+    },
+    {
+     "en": "hot dog",
+     "fr": "hot-dog",
+     "de": "HotDog",
+     "es": "hot dog",
+     "it": "hot dog",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "chicken burger",
+     "fr": "hamburger au poulet",
+     "de": "Chìckenburger",
+     "es": "hamburguesa de pollo",
+     "it": "hamburger di pollo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 13,
+      "es": 18,
+      "it": 16
+     }
+    },
+    {
+     "en": "hamburger",
+     "fr": "hamburger",
+     "de": "Hamburger",
+     "es": "hamburguesa",
+     "it": "hamburger",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "filling",
+     "fr": "garniture",
+     "de": "Füllung",
+     "es": "relleno",
+     "it": "ripieno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "wrap",
+     "fr": "taco",
+     "de": "gefüllte Fladenbrot",
+     "es": "taco",
+     "it": "piadina",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 18,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "open face sandwich",
+     "fr": "canapé",
+     "de": "belegte Brot",
+     "es": "sandwich abierto",
+     "it": "tramezzino aperto",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 6,
+      "de": 11,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "club sandwich",
+     "fr": "sandwich mixte",
+     "de": "Klubsandwich",
+     "es": "club sandwich",
+     "it": "tramezzino a strati",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 12,
+      "es": 12,
+      "it": 17
+     }
+    },
+    {
+     "en": "sub",
+     "fr": "sandwich",
+     "de": "Sandwich",
+     "es": "bocadillo",
+     "it": "tramezzino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "sweet",
+     "fr": "sucré",
+     "de": "süß",
+     "es": "dulce",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5
+     }
+    },
+    {
+     "en": "savory",
+     "fr": "salé",
+     "de": "salzig",
+     "es": "salado",
+     "it": "salato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "sauce",
+     "fr": "sauce",
+     "de": "Soße",
+     "es": "salsa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5
+     }
+    },
+    {
+     "en": "topping",
+     "fr": "garniture",
+     "de": "Pizzabelag",
+     "es": "ingredientes",
+     "it": "condimento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "chicken nuggets",
+     "fr": "beignets de poulet",
+     "de": "Hähnchenstückchen",
+     "es": "nuggets de pollo",
+     "it": "bocconcini di pollo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 17,
+      "es": 14,
+      "it": 17
+     }
+    },
+    {
+     "en": "kabob",
+     "fr": "kébab",
+     "de": "Kebab",
+     "es": "alambre",
+     "it": "kebab",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "crepes",
+     "fr": "crêpes",
+     "de": "Crêpes",
+     "es": "crèpe",
+     "it": "crèpe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "fried chicken",
+     "fr": "poulet fnr",
+     "de": "gebratene Hähnchen « e l pollo trito",
+     "it": "pollo fritto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 29,
+      "it": 11
+     }
+    },
+    {
+     "en": "pizza",
+     "fr": "pizza",
+     "de": "Pizza",
+     "es": "pizza",
+     "it": "pizza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "ribs",
+     "fr": "côtes",
+     "de": "Rippen",
+     "es": "costillas",
+     "it": "costolette",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 9,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

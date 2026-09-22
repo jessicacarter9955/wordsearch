@@ -1,0 +1,334 @@
+{
+ "page": 136,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "drinks • les boissons • die Getränke • las bebidas • le bevande water • P eau • das Wasser ■ el agua • l'acqua",
+   "parts": [
+    "drinks",
+    "les boissons",
+    "die getränke",
+    "las bebidas",
+    "le bevande water",
+    "p eau",
+    "das wasser",
+    "el agua",
+    "l'acqua"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "hot drinks • les boissons chaudes • die",
+   "parts": [
+    "hot drinks",
+    "les boissons chaudes",
+    "die"
+   ],
+   "entries": [
+    {
+     "en": "heißen Getränke",
+     "es": "las bebidas calientes",
+     "it": "le bevande calde",
+     "_pos": [
+      554,
+      137
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de"
+     ]
+    },
+    {
+     "en": "bottled water",
+     "fr": "l'eau en bouteille",
+     "de": "das Flaschenwasser",
+     "es": "el agua embotellada",
+     "it": "l'acqua in bottiglia",
+     "_pos": [
+      36,
+      165
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sparkling",
+     "fr": "gazeux",
+     "de": "mit Kohlensäure",
+     "es": "con gas",
+     "it": "frizzante",
+     "_pos": [
+      187,
+      198
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teabag",
+     "fr": "le sachet de thé",
+     "de": "der Teebeutel",
+     "es": "la bolsita de té",
+     "it": "la bustina di tè",
+     "_pos": [
+      564,
+      200
+     ],
+     "_flags": []
+    },
+    {
+     "en": "loose leaf tea",
+     "fr": "les feuilles de thé",
+     "de": "die Teeblätter el té en hoja il tè sciolto",
+     "_pos": [
+      758,
+      200
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "tap water",
+     "fr": "l'eau du robinet",
+     "de": "das Leitungswasser",
+     "es": "el agua de la llave",
+     "it": "l'acqua dal rubinetto",
+     "_pos": [
+      340,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "noncarbonated",
+     "fr": "non gazeux",
+     "de": "ohne Kohlensäure",
+     "es": "sin gas",
+     "it": "liscia",
+     "_pos": [
+      295,
+      331
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      552,
+      350
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "tea",
+      "le thè",
+      "der Tee",
+      "el té",
+      "il tè beans",
+      "les grains",
+      "die Bohnen",
+      "los granos",
+      "i chicchi"
+     ]
+    },
+    {
+     "en": "ground coffee",
+     "fr": "le café moulu",
+     "de": "der gemahlene Kaffee",
+     "es": "el café molido",
+     "it": "il caffè macinato",
+     "_pos": [
+      741,
+      383
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tonic water",
+     "fr": "le tonic",
+     "de": "das Toniewater la tònica",
+     "it": "l'acqua tonica",
+     "_pos": [
+      381,
+      495
+     ],
+     "_flags": [
+      "missing:es"
+     ]
+    },
+    {
+     "en": "coffee",
+     "fr": "le café",
+     "de": "der Kaffee",
+     "es": "el café",
+     "it": "il cafté",
+     "_pos": [
+      552,
+      548
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hot chocolate",
+     "fr": "le chocolat chaud",
+     "de": "die heiße Schokolade",
+     "es": "el chocolate caliente",
+     "it": "il cioccolato caldo",
+     "_pos": [
+      552,
+      698
+     ],
+     "_flags": []
+    },
+    {
+     "en": "malted drink",
+     "fr": "la boisson maltée",
+     "de": "das Malzgetränk",
+     "es": "la bebida m aìteada",
+     "it": "la bevanda",
+     "_pos": [
+      724,
+      699
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "soda water",
+     "fr": "le soda",
+     "de": "das Sodawasser",
+     "es": "la soda",
+     "it": "la soda",
+     "_pos": [
+      380,
+      714
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mineral water",
+     "fr": "l'eau minérale",
+     "de": "das Mineralwasser",
+     "es": "el agua mineral",
+     "it": "l'acqua minerale",
+     "_pos": [
+      36,
+      745
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "soft drinks • les boissons non alcoolisées • die alkoholfreien Getränke • los refrescos • le",
+   "parts": [
+    "soft drinks",
+    "les boissons non alcoolisées",
+    "die alkoholfreien getränke",
+    "los refrescos",
+    "le"
+   ],
+   "entries": [
+    {
+     "en": "straw",
+     "fr": "la paille",
+     "de": "der Strohhalm",
+     "es": "el popote",
+     "it": "la cannuccia",
+     "_pos": [
+      331,
+      846
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "I",
+   "parts": [
+    "i"
+   ],
+   "entries": [
+    {
+     "en": "tornato juice",
+     "fr": "le jus de tornare",
+     "de": "der Tomatensaft",
+     "es": "el jugo de tomate",
+     "it": "il succo di pomodoro",
+     "_pos": [
+      35,
+      1027
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grape juice",
+     "fr": "le jus de raisin",
+     "de": "der Traubensaft",
+     "es": "el jugo de uva",
+     "it": "il succo d'uva",
+     "_pos": [
+      207,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lemonade",
+     "fr": "la limonade",
+     "de": "die Limonade",
+     "es": "la limonada",
+     "it": "la limonata",
+     "_pos": [
+      380,
+      1029
+     ],
+     "_flags": []
+    },
+    {
+     "en": "orangeade",
+     "fr": "l'orangeade",
+     "de": "die Orangeade",
+     "es": "la naranjada",
+     "it": "la spremuta d'arancia",
+     "_pos": [
+      552,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cola",
+     "fr": "le coca",
+     "de": "die Cola",
+     "es": "la cola",
+     "it": "lac oca",
+     "_pos": [
+      724,
+      1030
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 3,
+  "flagged": 18,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

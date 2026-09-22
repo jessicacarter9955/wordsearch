@@ -1,0 +1,374 @@
+{
+ "page": 208,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "rugby",
+   "names": {
+    "en": "rugby",
+    "fr": "le rugby",
+    "de": "das rugby",
+    "es": "el rugby",
+    "it": "i rugby"
+   },
+   "entries": [
+    {
+     "en": "flag",
+     "fr": "drapeau",
+     "de": "Fahne",
+     "es": "bandera",
+     "it": "bandierina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "dead ball line",
+     "fr": "ligne de ballon mort",
+     "de": "Feldauslinie",
+     "es": "línea de fondo",
+     "it": "linea di palla morta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 17,
+      "de": 12,
+      "es": 12,
+      "it": 17
+     }
+    },
+    {
+     "en": "in-goal area",
+     "fr": "surface de but",
+     "de": "Torraum",
+     "es": "zona de marca",
+     "it": "area della porta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 7,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "touch line",
+     "fr": "ligne de touche",
+     "de": "Seitenlinie",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 11
+     }
+    },
+    {
+     "en": "goal",
+     "fr": "but",
+     "de": "Tor",
+     "es": "portería",
+     "it": "porla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 3,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "rugby field",
+     "fr": "terrain de rugby",
+     "de": "Spielfeld",
+     "es": "campo de rugby",
+     "it": "campo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 9,
+      "es": 12,
+      "it": 5
+     }
+    },
+    {
+     "fr": "ballon",
+     "de": "Rugbyball",
+     "es": "balón",
+     "it": "pallone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "throw V",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "tirare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "rugby uniform",
+     "fr": "maillot de rugby",
+     "de": "Rugbytrikot",
+     "es": "uniforme de m gb'",
+     "it": "camicetta da rugby",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 11,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "try",
+     "fr": "Tessa i",
+     "de": "Versùch",
+     "es": "intento",
+     "it": "meta",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "tackle (v)",
+     "fr": "rader",
+     "de": "angreifen",
+     "es": "taclear",
+     "it": "placcare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "pass (v)",
+     "fr": "faire une passe",
+     "de": "Ball abgeben",
+     "es": "pasar",
+     "it": "passare",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 13,
+      "de": 11,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "kick (v)",
+     "fr": "botter",
+     "de": "kicken",
+     "es": "patear",
+     "it": "calciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "player",
+     "fr": "joueur",
+     "de": "Rugbyspieler",
+     "es": "jugador",
+     "it": "giocatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 12,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "scrum",
+     "fr": "mêlée",
+     "de": "Gedränge",
+     "es": "cerrada",
+     "it": "mischia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "ruck",
+     "fr": "inéléc ouverte",
+     "de": "offene Gedränge",
+     "es": "abierta",
+     "it": "ruck",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 13,
+      "de": 14,
+      "es": 7,
+      "it": 4
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,396 @@
+{
+ "page": 222,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "S P O R T S • I ES S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "bar",
+     "fr": "la barre",
+     "de": "die Latte",
+     "es": "la barra",
+     "it": "la sbarra",
+     "_pos": [
+      302,
+      70
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bacon",
+     "fr": "le bâton",
+     "de": "der Stab",
+     "es": "el relevo",
+     "it": "I testimone",
+     "_pos": [
+      38,
+      72
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "hurdles",
+     "fr": "les haies",
+     "de": "der Hürdenlauf",
+     "es": "la carrera de vallas",
+     "it": "la corsa a ostacoli",
+     "_pos": [
+      674,
+      250
+     ],
+     "_flags": []
+    },
+    {
+     "en": "high jump",
+     "fr": "le saur en hauteur",
+     "de": "der Hochsprung",
+     "es": "el salto de altura",
+     "it": "I salto in alto",
+     "_pos": [
+      248,
+      251
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "long jump",
+     "fr": "le saut en longueur",
+     "de": "der Weitsprung",
+     "es": "el salto de longitud",
+     "it": "il salto in lungo",
+     "_pos": [
+      462,
+      251
+     ],
+     "_flags": []
+    },
+    {
+     "en": "relay race",
+     "fr": "le relais",
+     "de": "der Staffellauf",
+     "es": "la carrera de relevos",
+     "it": "la staffetta",
+     "_pos": [
+      36,
+      252
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "gymnastics • la gymnastique • das Turnen • la gimnasia • la ginnastica",
+   "parts": [
+    "gymnastics",
+    "la gymnastique",
+    "das turnen",
+    "la gimnasia",
+    "la ginnastica"
+   ],
+   "entries": [
+    {
+     "en": "gymnast",
+     "fr": "la gymnaste",
+     "de": "die Turnerin",
+     "es": "la gimnasta",
+     "it": "la ginnasta",
+     "_pos": [
+      462,
+      399
+     ],
+     "_flags": []
+    },
+    {
+     "en": "springboard",
+     "fr": "le tremplin",
+     "de": "das Sprungbrett",
+     "es": "el trampolín",
+     "it": "la pedana elastica",
+     "_pos": [
+      180,
+      416
+     ],
+     "_flags": []
+    },
+    {
+     "en": "borse",
+     "fr": "le cheval",
+     "de": "das Pferd",
+     "es": "el caballo",
+     "it": "il cavallo",
+     "_pos": [
+      38,
+      532
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beam",
+     "fr": "la poutre",
+     "de": "der Schwebebalken",
+     "es": "la viga de equilibrio",
+     "it": "la trave",
+     "_pos": [
+      464,
+      545
+     ],
+     "_flags": []
+    },
+    {
+     "en": "somersault",
+     "fr": "les alto",
+     "de": "der Salto",
+     "es": "el salto m ortai",
+     "it": "la capriola",
+     "_pos": [
+      250,
+      547
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "ribbon",
+     "fr": "le drapeau",
+     "de": "das Gymnastikband",
+     "es": "el listón",
+     "it": "il nastro",
+     "_pos": [
+      541,
+      580
+     ],
+     "_flags": []
+    },
+    {
+     "en": "y",
+     "it": "I",
+     "_pos": [
+      729,
+      596
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "slot-ambig",
+      "it:case"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "it"
+      ],
+      [
+       "de",
+       "it"
+      ],
+      [
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "rhythmic gymnastics",
+     "fr": "la gymnastique rythmique",
+     "de": "die rhythmische Gymnastik",
+     "es": "la gimnasia ritm ica",
+     "it": "la ginnastica ritmica",
+     "_pos": [
+      662,
+      774
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cartwheel",
+     "fr": "la cabriole",
+     "de": "die Bodenakrobatik",
+     "es": "la voltereta la ruota",
+     "_pos": [
+      465,
+      775
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "floor exercises",
+     "fr": "les exercises au sol",
+     "de": "das Bodenturnen los ejercidosdepisolaginnasticaacorpo libero",
+     "_pos": [
+      252,
+      776
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "vault",
+     "fr": "le saur",
+     "de": "der Sprung",
+     "es": "el salto",
+     "it": "il salto",
+     "_pos": [
+      38,
+      777
+     ],
+     "_flags": []
+    },
+    {
+     "en": "silver",
+     "fr": "l'argent",
+     "de": "das Silber",
+     "es": "la plata",
+     "it": "l'argento",
+     "_pos": [
+      778,
+      872
+     ],
+     "_flags": []
+    },
+    {
+     "en": "medals",
+     "fr": "les médailles",
+     "de": "die Medaillen",
+     "es": "las m edallas",
+     "it": "le medaglie",
+     "_pos": [
+      628,
+      873
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "rings",
+     "fr": "les anneaux",
+     "de": "die Ringe",
+     "es": "las argollas",
+     "it": "gli anelli",
+     "_pos": [
+      464,
+      874
+     ],
+     "_flags": []
+    },
+    {
+     "en": "asymmetric bars",
+     "fr": "les barres asymétriques",
+     "de": "der Stufenbarren",
+     "es": "las barras asim étricas",
+     "it": "le sbarre asimmetriche",
+     "_pos": [
+      246,
+      875
+     ],
+     "_flags": []
+    },
+    {
+     "en": "horizontal bar",
+     "fr": "la barre fixe",
+     "de": "das Reck",
+     "es": "la barra fija",
+     "it": "la sbarra",
+     "_pos": [
+      54,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bronze",
+     "fr": "le bronze",
+     "de": "die Bronze",
+     "es": "el bronce",
+     "it": "il bronzo",
+     "_pos": [
+      779,
+      971
+     ],
+     "_flags": []
+    },
+    {
+     "en": "podium",
+     "fr": "le podium",
+     "de": "das Siegerpodium",
+     "es": "el podio",
+     "it": "il podio",
+     "_pos": [
+      465,
+      972
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gold",
+     "fr": "l'or",
+     "de": "das Gold",
+     "es": "el oro",
+     "it": "l'oro",
+     "_pos": [
+      628,
+      972
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pommel horse",
+     "fr": "le cheval d'arçons",
+     "de": "das Seitpferd",
+     "es": "el caballo con arcos",
+     "it": "il cavallo",
+     "_pos": [
+      247,
+      973
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parallel bars",
+     "fr": "Ies barres parallèles",
+     "de": "der Barren",
+     "es": "las barras paralelas",
+     "it": "le parallele",
+     "_pos": [
+      55,
+      974
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 11,
+  "flagged": 16,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

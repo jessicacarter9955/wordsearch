@@ -1,0 +1,371 @@
+{
+ "page": 58,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "mirror",
+     "fr": "miroir",
+     "de": "Spiegel",
+     "es": "eî espejo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 8
+     }
+    },
+    {
+     "en": "vase",
+     "fr": "vase",
+     "de": "Vase",
+     "es": "larron",
+     "it": "vaso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "mantelpiece",
+     "fr": "ta bierre de cheminée",
+     "de": "Kaminsims",
+     "es": "repisa de la chimenea",
+     "it": "mensola del caminetto",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 18,
+      "de": 9,
+      "es": 18,
+      "it": 19
+     }
+    },
+    {
+     "en": "net curtain",
+     "fr": "brise-bise",
+     "de": "Gardine",
+     "es": "visillo",
+     "it": "tendina",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "curtain",
+     "fr": "rideau",
+     "de": "Vorhang",
+     "es": "cortina",
+     "it": "tenda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "fireplace",
+     "fr": "cheminée",
+     "de": "Kamin",
+     "es": "chimenea",
+     "it": "caminetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "screen",
+     "fr": "garde-feu",
+     "de": "Kamingitter",
+     "es": "biombo",
+     "it": "parafuoco",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 11,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "roller blind",
+     "fr": "store",
+     "de": "Rollo",
+     "es": "estor",
+     "it": "avvolgibile",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "venenan blind",
+     "fr": "store vénitien",
+     "de": "Jalousie",
+     "es": "persiana",
+     "it": "veneziana",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "armchair",
+     "fr": "fauteuil",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8
+     }
+    },
+    {
+     "en": "molding",
+     "fr": "moulure",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7
+     }
+    },
+    {
+     "en": "it »",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 2
+     }
+    },
+    {
+     "en": "candle",
+     "fr": "bougie",
+     "de": "Kerze",
+     "es": "vela",
+     "it": "candela",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 7
+     }
+    },
+    {
+     "en": "bookshelf",
+     "fr": "bibliothèque",
+     "de": "Bücherregal",
+     "es": "librero",
+     "it": "libreria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "sofabed",
+     "fr": "Ic canape-lit",
+     "de": "Bettcouch",
+     "es": "sofá-cam a",
+     "it": "divano letto",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "rug",
+     "fr": "tapis",
+     "de": "Teppich",
+     "es": "tapete",
+     "it": "tappeto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "study",
+     "fr": "bureau",
+     "de": "Arbeitszimmer",
+     "es": "estudio",
+     "it": "studio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 13,
+      "es": 7,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

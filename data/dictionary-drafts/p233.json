@@ -1,0 +1,210 @@
+{
+ "page": 233,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • LES S P O R T S • DER SPORT • LOS DEPORTES • GL! SPORT",
+ "groups": [
+  {
+   "names_raw": "skiing • le sk i • der Skisport • el esquí • lo sci",
+   "parts": [
+    "skiing",
+    "le ski",
+    "der skisport",
+    "el esquí",
+    "lo sci"
+   ],
+   "entries": [
+    {
+     "en": "ski slope",
+     "fr": "la pente de ski",
+     "de": "der Skihang",
+     "es": "la pista",
+     "it": "la pista da sci",
+     "_pos": [
+      354,
+      113
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chairlift",
+     "fr": "le télésiège",
+     "de": "der Sessellift",
+     "es": "la telesilla",
+     "it": "la seggiovia",
+     "_pos": [
+      796,
+      115
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cable car",
+     "fr": "la télécabine",
+     "de": "der Kabinenlift",
+     "es": "la góndola",
+     "it": "la funivia",
+     "_pos": [
+      53,
+      259
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ski suit",
+     "fr": "la combinaison de ski",
+     "de": "der Skianzug",
+     "es": "el traje de es qui",
+     "it": "la tuta da sci",
+     "_pos": [
+      52,
+      506
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ski pole",
+     "fr": "le bâton de ski",
+     "de": "der Skistock",
+     "es": "el bastón",
+     "it": "il bastone da sci",
+     "_pos": [
+      52,
+      768
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ski run",
+     "fr": "la piste de ski",
+     "de": "die Skipiste",
+     "es": "la pista de esquí",
+     "it": "la pista da sci",
+     "_pos": [
+      638,
+      771
+     ],
+     "_flags": []
+    },
+    {
+     "de": "der Handschuh",
+     "es": "el guante",
+     "it": "il guanto",
+     "_pos": [
+      515,
+      803
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "ski boot",
+     "fr": "la chaussure de ski",
+     "de": "der Skistiefel",
+     "es": "la bota de esquí",
+     "it": "lo scarpone da sci",
+     "_pos": [
+      382,
+      851
+     ],
+     "_flags": []
+    },
+    {
+     "en": "safety barrier",
+     "fr": "la barrière de sécurité",
+     "de": "die Sicherheitssperre",
+     "es": "la barrera de seguridad",
+     "it": "la transenna di sicurezza",
+     "_pos": [
+      717,
+      869
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ski",
+     "fr": "le ski",
+     "de": "der Ski",
+     "es": "el esquí",
+     "it": "lo sci",
+     "_pos": [
+      515,
+      901
+     ],
+     "_flags": []
+    },
+    {
+     "en": "edge",
+     "fr": "la carre",
+     "de": "die Kante",
+     "es": "el canto",
+     "it": "la lama",
+     "_pos": [
+      510,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skier",
+     "fr": "la skieuse",
+     "de": "die Skiläuferin",
+     "es": "la esquiadora",
+     "it": "la sciatrice",
+     "_pos": [
+      52,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tip",
+     "fr": "la pointe",
+     "de": "die Spitze",
+     "es": "la punta",
+     "it": "la punta",
+     "_pos": [
+      585,
+      1049
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "¡",
+   "pos": [
+    813,
+    771
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "i",
+   "pos": [
+    798,
+    856
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 13,
+  "complete_clean": 6,
+  "flagged": 7,
+  "missing_lang": 1,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

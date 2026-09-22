@@ -1,0 +1,251 @@
+{
+ "page": 225,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • I FS S P O R T S • DER SPORT • L O S D E P O R T E S • GU SPORT",
+ "groups": [
+  {
+   "names_raw": "swimming • la natation • der Schwimmsport • la natación • il nuoto e q u ip m e n t • l'équipement • die Ausrüstung • el equipo • l'attrezzatura",
+   "parts": [
+    "swimming",
+    "la natation",
+    "der schwimmsport",
+    "la natación",
+    "il nuoto e q u ip m e n t",
+    "l'équipement",
+    "die ausrüstung",
+    "el equipo",
+    "l'attrezzatura"
+   ],
+   "entries": [
+    {
+     "en": "nose clip",
+     "fr": "la pince pour Ic nez",
+     "de": "die Nasenklemme",
+     "es": "la pinza para la nariz",
+     "it": "la molletta per il naso",
+     "_pos": [
+      360,
+      182
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swim band",
+     "fr": "la brassière",
+     "de": "der Schwimmflügel",
+     "es": "el flotador de brazo",
+     "it": "il bracciolo",
+     "_pos": [
+      48,
+      296
+     ],
+     "_flags": []
+    },
+    {
+     "en": "goggles",
+     "fr": "les lunettes protectrices",
+     "de": "die Schwimmbrille",
+     "es": "los goggles",
+     "it": "gli occhialetti",
+     "_pos": [
+      226,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kickboard",
+     "fr": "la planche",
+     "de": "das Schwimmfloß",
+     "es": "la tabla",
+     "it": "la tavoletta",
+     "_pos": [
+      494,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swimsuit",
+     "fr": "le maillot de bain",
+     "de": "der Badeanzug",
+     "es": "el traje de baño",
+     "it": "il costume da bagno",
+     "_pos": [
+      684,
+      297
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swimming cap",
+     "fr": "le bonnet de natation",
+     "de": "die Badekappe",
+     "es": "la gorra",
+     "it": "la cuffia",
+     "_pos": [
+      780,
+      363
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lane",
+     "fr": "le couloir",
+     "de": "die Bahn",
+     "es": "el carril",
+     "it": "la corsia",
+     "_pos": [
+      48,
+      428
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water",
+     "fr": "I'cau",
+     "de": "das Wasser",
+     "es": "el agua",
+     "it": "l'acqua",
+     "_pos": [
+      48,
+      526
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "trunks",
+     "fr": "Ic slip de bain",
+     "de": "die Badehose",
+     "es": "el traje de bañd",
+     "it": "il costume da bagno",
+     "_pos": [
+      785,
+      577
+     ],
+     "_flags": [
+      "wrap",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "starting block",
+     "fr": "le plot de départ",
+     "de": "der Startblock",
+     "es": "el cajón de salida",
+     "it": "il podio di partenza",
+     "_pos": [
+      48,
+      641
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swimming pool",
+     "fr": "la piscine",
+     "de": "das Schwimmbecken",
+     "es": "la alberca",
+     "it": "la piscina",
+     "_pos": [
+      182,
+      740
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diver",
+     "fr": "le plongeur",
+     "de": "der Springer",
+     "es": "el clavadista",
+     "it": "il tuffatore",
+     "_pos": [
+      304,
+      772
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diving board",
+     "fr": "le tremplin",
+     "de": "das Sprungbrett",
+     "es": "el trampolín",
+     "it": "I trampolino",
+     "_pos": [
+      84,
+      772
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "swimmer",
+     "fr": "le nageur",
+     "de": "der Schwimmer",
+     "es": "el nadador",
+     "it": "il nuotatore",
+     "_pos": [
+      616,
+      822
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dive (v)",
+     "fr": "plonger",
+     "de": "springen",
+     "es": "tirarse un clavado",
+     "it": "tuffarsi",
+     "_pos": [
+      49,
+      1050
+     ],
+     "_flags": []
+    },
+    {
+     "en": "swim (v)",
+     "fr": "nager",
+     "de": "schwimmen",
+     "es": "nadar",
+     "it": "nuotare",
+     "_pos": [
+      333,
+      1051
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tum",
+     "fr": "le tour",
+     "de": "die Kehre",
+     "es": "el giro",
+     "it": "la giravolta",
+     "_pos": [
+      616,
+      1052
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 4,
+  "flagged": 13,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "page": 45,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H EA LTH • L A S A N T É • DIE GESUNDHEIT • L A S A L U D • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "services",
+   "parts": [
+    "services"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "los servicios",
+   "parts": [
+    "los servicios"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• die Abteilungen •",
+   "parts": [
+    "die abteilungen"
+   ],
+   "entries": [
+    {
+     "en": "departments",
+     "fr": "les",
+     "_pos": [
+      38,
+      84
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "it": "i reparti",
+     "_pos": [
+      478,
+      84
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "orthopedics",
+     "fr": "l'orrhopédic",
+     "de": "die Orthopädie",
+     "es": "la ortopedia",
+     "it": "l'ortopedia",
+     "_pos": [
+      462,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gynecology",
+     "fr": "la gynécologie",
+     "de": "die Gynäkologie",
+     "es": "la ginecología",
+     "it": "la ginecologia",
+     "_pos": [
+      674,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cardiology",
+     "fr": "la cardiologie",
+     "de": "die Kardiologie",
+     "es": "la cardiología",
+     "it": "la cardiologia",
+     "_pos": [
+      251,
+      281
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Ear. N ose, and Throat",
+     "fr": "I'O .R .L",
+     "de": "die HNO-Abteilung",
+     "es": "la o torri non a ri neologia",
+     "it": "l'otorinolaringologia",
+     "_pos": [
+      40,
+      281
+     ],
+     "_flags": [
+      "en:weird:Ear.",
+      "en:short:N",
+      "en:weird:ose,",
+      "en:case",
+      "fr:weird:.R",
+      "fr:weird:.L",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "pediatrics",
+     "fr": "la pédiatrie",
+     "de": "die Pädiatrie",
+     "es": "la pediatría",
+     "it": "la pediatria",
+     "_pos": [
+      464,
+      525
+     ],
+     "_flags": []
+    },
+    {
+     "en": "radiology",
+     "fr": "la radiologie",
+     "de": "die Radiologie",
+     "es": "la radiología",
+     "it": "la radiologia",
+     "_pos": [
+      676,
+      525
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dermatology",
+     "fr": "la dermatologic",
+     "de": "die Dermatologie",
+     "es": "la dermatología",
+     "it": "la dermatologia",
+     "_pos": [
+      252,
+      526
+     ],
+     "_flags": []
+    },
+    {
+     "en": "physiotherapy",
+     "fr": "la kinésithérapie",
+     "de": "die Physiotherapie",
+     "es": "la fisioterapia",
+     "it": "la fisioterapia",
+     "_pos": [
+      40,
+      526
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ophthalmology",
+     "fr": "l'ophralm ologie",
+     "de": "die Ophthalmologie",
+     "es": "la oftalmología",
+     "it": "l'oftalmologia",
+     "_pos": [
+      678,
+      786
+     ],
+     "_flags": []
+    },
+    {
+     "en": "psychiatry",
+     "fr": "la psychiatrie",
+     "de": "die Psychiatrie",
+     "es": "la psiquiatría",
+     "it": "la psichiatria",
+     "_pos": [
+      466,
+      787
+     ],
+     "_flags": []
+    },
+    {
+     "en": "surgery",
+     "fr": "la chirurgie",
+     "de": "die Chirurgie",
+     "es": "la d rugía",
+     "it": "la chirurgia",
+     "_pos": [
+      42,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "maternity",
+     "fr": "la maternité",
+     "de": "die Entbindungsstation",
+     "es": "la maternidad",
+     "it": "la maternità",
+     "_pos": [
+      254,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pathology",
+     "fr": "la pathologic",
+     "de": "die Pathologie",
+     "es": "la patología",
+     "it": "la patologia",
+     "_pos": [
+      602,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "result",
+     "fr": "le résultat",
+     "de": "das Ergebnis",
+     "es": "el resultado",
+     "it": "il risultato",
+     "_pos": [
+      757,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plastic surgery",
+     "fr": "la chirurgie esthétique",
+     "de": "die plastische Chirurgie",
+     "es": "la cin ig ia plástica",
+     "it": "la chirurgia plastica",
+     "_pos": [
+      380,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "neurology",
+     "fr": "la neurologie",
+     "de": "die Neurologie",
+     "es": "la neurología",
+     "it": "la neurologia",
+     "_pos": [
+      59,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "urology",
+     "fr": "l'urologie",
+     "de": "die Urologie",
+     "es": "lauro logia",
+     "it": "l'urologia",
+     "_pos": [
+      208,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "consultant",
+     "fr": "le speda liste",
+     "de": "der Facharzt",
+     "es": "el especialista",
+     "it": "lu specialista",
+     "_pos": [
+      758,
+      982
+     ],
+     "_flags": []
+    },
+    {
+     "en": "test",
+     "fr": "l'analyse",
+     "de": "die Untersuchung",
+     "es": "el análisis",
+     "it": "l'analisi",
+     "_pos": [
+      602,
+      983
+     ],
+     "_flags": []
+    },
+    {
+     "en": "referral",
+     "fr": "l'orientation d'un parient",
+     "de": "die Überweisung",
+     "es": "la referenda",
+     "it": "mandare da uno specialista",
+     "_pos": [
+      381,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "endocrinology",
+     "fr": "l'endocrinologie",
+     "de": "die Endokrinologie",
+     "es": "la endocrinología",
+     "it": "l'endocrinologia",
+     "_pos": [
+      208,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oncology",
+     "fr": "l'oncologie",
+     "de": "die Ontologie",
+     "es": "la oncología",
+     "it": "l'oncologia",
+     "_pos": [
+      60,
+      985
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 10,
+  "flagged": 14,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

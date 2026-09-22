@@ -1,0 +1,207 @@
+{
+ "page": 173,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • L F T R AVAII. • DIE ARBEIT • E L T R A B A JO * IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "farm 2 • la ferme 2 • der Bauernhof 2 • la granja 2 • la fattoria 2 crops • Ics cultures • die Feldfrüchte • los cultivos • le colture",
+   "parts": [
+    "farm",
+    "la ferme",
+    "der bauernhof",
+    "la granja",
+    "la fattoria 2 crops",
+    "ics cultures",
+    "die feldfrüchte",
+    "los cultivos",
+    "le colture"
+   ],
+   "entries": [
+    {
+     "en": "wheat",
+     "fr": "le blé",
+     "de": "der Weizen",
+     "es": "el trigo",
+     "it": "il grano",
+     "_pos": [
+      40,
+      326
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      256,
+      327
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "corn",
+      "le mais",
+      "der Mais",
+      "él m aíz",
+      "il granturco baie",
+      "la balle",
+      "der Ballen",
+      "b paca",
+      "la balia"
+     ]
+    },
+    {
+     "en": "sunflower",
+     "fr": "le rournesnl",
+     "de": "die Sonnenblume",
+     "es": "el girasol",
+     "it": "il girasole",
+     "_pos": [
+      40,
+      559
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hay",
+     "fr": "le foin",
+     "de": "das Heu",
+     "es": "el heno",
+     "it": "il fieno",
+     "_pos": [
+      254,
+      561
+     ],
+     "_flags": []
+    },
+    {
+     "en": "alfalfa",
+     "fr": "la luzerne",
+     "de": "die Luzerne",
+     "es": "b alfalfa - I'alfalfa",
+     "_pos": [
+      470,
+      562
+     ],
+     "_flags": [
+      "missing:it",
+      "es:short:b",
+      "es:short:-"
+     ]
+    },
+    {
+     "en": "tobacco",
+     "fr": "le rabac",
+     "de": "der Tabak",
+     "es": "el tabaco",
+     "it": "il tabacco",
+     "_pos": [
+      685,
+      563
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rice",
+     "fr": "le riz",
+     "de": "der Reis",
+     "es": "el arroz",
+     "it": "il riso",
+     "_pos": [
+      39,
+      792
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tea",
+     "fr": "le thé",
+     "de": "der Tee",
+     "es": "el té",
+     "it": "il té",
+     "_pos": [
+      254,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "coffee",
+     "fr": "le café",
+     "de": "der Kaffee",
+     "es": "el café",
+     "it": "il caffè",
+     "_pos": [
+      470,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flax",
+     "fr": "le lin",
+     "de": "der Flachs",
+     "es": "el lino",
+     "it": "il lino",
+     "_pos": [
+      38,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sugarcane",
+     "fr": "canne à sucre",
+     "de": "das Zuckerrohr",
+     "es": "la caña de azúcar",
+     "it": "la canna da zucchero",
+     "_pos": [
+      252,
+      1026
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cotton",
+     "fr": "le coton",
+     "de": "die Baumwolle",
+     "es": "el algodón",
+     "it": "il cotone",
+     "_pos": [
+      469,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scarecrow",
+     "fr": "l'épouvantail",
+     "de": "die Vogelscheuche",
+     "es": "el espantapájaros",
+     "it": "lu spaventapasseri",
+     "_pos": [
+      684,
+      1028
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 13,
+  "complete_clean": 0,
+  "flagged": 13,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,631 @@
+{
+ "page": 106,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "confettiere",
+   "names": {
+    "en": "candy store",
+    "fr": "le confiseur",
+    "de": "der konditor",
+    "es": "la dulcería",
+    "it": "il confettiere"
+   },
+   "entries": [
+    {
+     "en": "snack bar",
+     "fr": "friandise",
+     "de": "Nascherei",
+     "es": "barrita",
+     "it": "tavoletta spuntino",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 9,
+      "es": 7,
+      "it": 17
+     }
+    },
+    {
+     "en": "potato chips",
+     "fr": "chips",
+     "de": "Chips",
+     "es": "papas fritas",
+     "it": "patatine",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 5,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "milk chocolate",
+     "fr": "chocolat au lait",
+     "de": "Milchschokolade",
+     "es": "chocolate de leche",
+     "it": "cioccolato al latte",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 15,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "caramel",
+     "fr": "caramel",
+     "de": "Karamell",
+     "es": "caramelo",
+     "it": "caramello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "box of chocolates",
+     "fr": "boite de chocolats",
+     "de": "Schachtel Pralinen",
+     "es": "caja de chocolates",
+     "it": "scatola di cioccolatini",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 16,
+      "de": 17,
+      "es": 16,
+      "it": 21
+     }
+    },
+    {
+     "en": "dark chocolate",
+     "fr": "chocolat noir",
+     "de": "bittere Schokolade",
+     "es": "chocolate negro",
+     "it": "cioccolato amaro",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 17,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "truffle",
+     "fr": "truffe",
+     "de": "Trüffel",
+     "es": "trufa",
+     "it": "tartufo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "white chocolate",
+     "fr": "chocolat blanc",
+     "de": "weiße Schokolade",
+     "es": "chocolate blanco",
+     "it": "cioccolato bianco",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 13,
+      "de": 16,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "cookie",
+     "fr": "biscuit",
+     "de": "Keks",
+     "es": "galleta",
+     "it": "biscotto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "pick and mix",
+     "fr": "bonbons assortis",
+     "de": "bunte Mischung",
+     "es": "dulces a grand",
+     "it": "caramelle assortite",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 13,
+      "es": 12,
+      "it": 18
+     }
+    },
+    {
+     "en": "hard candy",
+     "fr": "bonbons",
+     "de": "Bonbons",
+     "es": "caramelos duros",
+     "it": "caramelle",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 7,
+      "es": 14,
+      "it": 9
+     }
+    },
+    {
+     "en": "candy store",
+     "fr": "confiserie",
+     "de": "Süßwarengeschäft",
+     "es": "dulcería",
+     "it": "negozio di dolciumi",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 17,
+      "es": 8,
+      "it": 17
+     }
+    }
+   ]
+  },
+  {
+   "slug": "dolciumi",
+   "names": {
+    "en": "confectionery",
+    "fr": "hi confiserie",
+    "de": "die süßwaren",
+    "es": "los dulces",
+    "it": "i dolciumi"
+   },
+   "entries": [
+    {
+     "en": "hard candy",
+     "fr": "bonbons",
+     "de": "Bonbons",
+     "es": "caramelos duros",
+     "it": "caramelle",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 7,
+      "es": 14,
+      "it": 9
+     }
+    },
+    {
+     "en": "lollipop",
+     "fr": "sucette",
+     "de": "Lutscher",
+     "es": "paleta",
+     "it": "lecca lecca",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "chocolate bar",
+     "fr": "tablette de chocolat",
+     "de": "Tafel Schokolade",
+     "es": "tablilla de chocolate",
+     "it": "tavoletta di cioccolata",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 15,
+      "es": 19,
+      "it": 21
+     }
+    },
+    {
+     "en": "chocolate",
+     "fr": "chocolat",
+     "de": "Praline",
+     "es": "chocolate",
+     "it": "cioccolatino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "marshmallow",
+     "fr": "guimauve",
+     "de": "Marshmallow",
+     "es": "malva risco",
+     "it": "caramella gommosa",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 11,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "mint",
+     "fr": "bonbon a la menthe",
+     "de": "Pfefferminz",
+     "es": "pastilla de menta",
+     "it": "mentina",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 15,
+      "de": 11,
+      "es": 15,
+      "it": 7
+     }
+    },
+    {
+     "en": "toffee",
+     "fr": "caramel",
+     "de": "Toffee",
+     "es": "toffee",
+     "it": "caramella mou",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "nougat",
+     "fr": "nougat",
+     "de": "Nugat",
+     "es": "turrón",
+     "it": "torrone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "gumdrop",
+     "fr": "bonbon au fruir",
+     "de": "Fruchtgummi",
+     "es": "lago mita",
+     "it": "caramella alla frutta",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 11,
+      "es": 8,
+      "it": 19
+     }
+    },
+    {
+     "en": "licorice",
+     "fr": "réglisse",
+     "de": "Lakritze",
+     "es": "regaliz",
+     "it": "liquirizia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "chewing gum",
+     "fr": "chewing gum",
+     "de": "Kaugummi",
+     "es": "chicle",
+     "it": "gomma da masticare",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 8,
+      "es": 6,
+      "it": 16
+     }
+    },
+    {
+     "en": "jellybean",
+     "fr": "dragée à la gelée",
+     "de": "Geleebonbon",
+     "es": "caramelo blando",
+     "it": "caramella di gelatina",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 11,
+      "es": 14,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

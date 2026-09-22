@@ -1,0 +1,402 @@
+{
+ "page": 22,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "macro_slug": "persone",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "relazioni",
+   "names": {
+    "en": "relationships",
+    "fr": "les relations",
+    "de": "die Beziehungen",
+    "es": "las relaciones",
+    "it": "i rapporti"
+   },
+   "entries": [
+    {
+     "en": "manager",
+     "fr": "chef",
+     "de": "Chef",
+     "es": "jefe",
+     "it": "capo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "assistant",
+     "fr": "assistante",
+     "de": "Assistentin",
+     "es": "asistente",
+     "it": "assistente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 11,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "business partner",
+     "fr": "associée",
+     "de": "Geschäftspartner",
+     "es": "socia",
+     "it": "partner di affari",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 8,
+      "de": 16,
+      "es": 5,
+      "it": 15
+     }
+    },
+    {
+     "en": "employer",
+     "fr": "employeuse",
+     "de": "Arbeitgeberin",
+     "es": "empresaria",
+     "it": "datrice di lavoro",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 13,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "employee",
+     "fr": "employé",
+     "de": "Arbeitnehmer",
+     "es": "empleado",
+     "it": "dipendente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 12,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "colleague",
+     "fr": "collègue",
+     "de": "Kollege",
+     "es": "com pañero",
+     "it": "collega",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "office",
+     "fr": "bureau",
+     "de": "Büro",
+     "es": "oficina",
+     "it": "ufficio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "neighbor",
+     "fr": "voisin",
+     "de": "Nachbar",
+     "es": "vecino",
+     "it": "vicino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "friend",
+     "fr": "ami",
+     "de": "Freund",
+     "es": "amigo",
+     "it": "amico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "acquaintance",
+     "fr": "connaissance",
+     "de": "Bekannte",
+     "es": "conocido",
+     "it": "conoscente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "pen pal",
+     "fr": "correspondant",
+     "de": "Brieffreund",
+     "es": "amigo por correspondencia",
+     "it": "amico di penna",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 11,
+      "es": 23,
+      "it": 12
+     }
+    },
+    {
+     "en": "boyfriend",
+     "fr": "petit ami",
+     "de": "Freund",
+     "es": "novio",
+     "it": "ragazzo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "girlfriend",
+     "fr": "petite amie",
+     "de": "Freundin",
+     "es": "novia",
+     "it": "ragazza",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "fiancé",
+     "fr": "fiancé",
+     "de": "Verlobte",
+     "es": "prometido",
+     "it": "fidanzato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "fiancée",
+     "fr": "fiancée",
+     "de": "Verlobte",
+     "es": "prometida",
+     "it": "fidanzata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "couple",
+     "fr": "couple",
+     "de": "Paar",
+     "es": "pareja",
+     "it": "coppia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "engaged couple",
+     "fr": "fiancés",
+     "de": "Verlobten",
+     "es": "pareja",
+     "it": "fidanzati",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 7,
+      "de": 9,
+      "es": 6,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "employer/employee: figure femminile (Arbeitgeberin, employeuse) → es 'la empresaria', it 'la datrice di lavoro'."
+}

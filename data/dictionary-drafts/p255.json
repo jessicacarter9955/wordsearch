@@ -1,0 +1,450 @@
+{
+ "page": 255,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • L E T E M P S L IB R E • DIE FREIZEIT • E L O C IO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "screen",
+     "fr": "l'écran",
+     "de": "der Bildschirm",
+     "es": "la pantalla",
+     "it": "lo schermo",
+     "_pos": [
+      403,
+      75
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eyecup",
+     "fr": "l'œ illeton",
+     "de": "die Okularmuschel",
+     "es": "el borde del ocular",
+     "it": "l'oculare",
+     "_pos": [
+      594,
+      91
+     ],
+     "_flags": []
+    },
+    {
+     "en": "videoupe",
+     "fr": "la vidéocassette",
+     "de": "die Videokassette",
+     "es": "el videocasete",
+     "it": "la videocassetta",
+     "_pos": [
+      128,
+      109
+     ],
+     "_flags": []
+    },
+    {
+     "en": "satellite dish",
+     "fr": "l'antenne parabolique",
+     "de": "die Satellitenschüssel",
+     "es": "la antena parabólica",
+     "it": "l'antenna parabolica",
+     "_pos": [
+      612,
+      304
+     ],
+     "_flags": []
+    },
+    {
+     "en": "camcorder",
+     "fr": "le caméscope",
+     "de": "der Camcorder",
+     "es": "la cámara de video",
+     "it": "la videocamera",
+     "_pos": [
+      354,
+      305
+     ],
+     "_flags": []
+    },
+    {
+     "en": "VCR",
+     "fr": "le magnétoscope",
+     "de": "der Videorekorder",
+     "es": "la videocasetera",
+     "it": "il videoregistratore",
+     "_pos": [
+      32,
+      306
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "pause",
+     "fr": "la pause",
+     "de": "die Pause",
+     "es": "la pausa",
+     "_pos": [
+      661,
+      369
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "fast forward",
+     "fr": "l'avance rapide",
+     "de": "der Vorlauf",
+     "es": "el avance rápido",
+     "it": "l'avanzamento veloce",
+     "_pos": [
+      475,
+      369
+     ],
+     "_flags": []
+    },
+    {
+     "en": "record",
+     "fr": "l'enregistrement",
+     "de": "die Aufnahme",
+     "es": "el botón para grabar",
+     "it": "la registrazione",
+     "_pos": [
+      748,
+      369
+     ],
+     "_flags": []
+    },
+    {
+     "en": "console",
+     "fr": "la console",
+     "de": "das Pult",
+     "es": "la consola",
+     "it": "la console",
+     "_pos": [
+      332,
+      370
+     ],
+     "_flags": []
+    },
+    {
+     "en": "widescreen television",
+     "fr": "la télévision 16/9ème",
+     "de": "der Breitbildfernseher",
+     "es": "la televisión de pantalla panoràm ica",
+     "it": "il televisore a schermo largo",
+     "_pos": [
+      32,
+      372
+     ],
+     "_flags": [
+      "fr:weird:16/9ème"
+     ]
+    },
+    {
+     "en": "volume",
+     "fr": "le volume",
+     "de": "die Lautstärke",
+     "es": "el volumen",
+     "it": "il volume",
+     "_pos": [
+      462,
+      517
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stop",
+     "fr": "Parrei",
+     "de": "der Stop",
+     "es": "el stop",
+     "it": "lo stop",
+     "_pos": [
+      785,
+      615
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "rewind",
+     "fr": "le retour rapide",
+     "de": "der Rücklauf",
+     "es": "el botón para rebobinar",
+     "it": "il riawolgim crito",
+     "_pos": [
+      478,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "controller",
+     "fr": "la commande",
+     "de": "der Steuerhebel",
+     "es": "los controles",
+     "it": "il comando",
+     "_pos": [
+      85,
+      634
+     ],
+     "_flags": []
+    },
+    {
+     "de": "das Abspielen",
+     "es": "el play",
+     "it": "il play",
+     "_pos": [
+      654,
+      648
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "remote control",
+     "fr": "la télécommande",
+     "de": "die Fernbedienung",
+     "es": "el control rem oto",
+     "it": "il telecomando",
+     "_pos": [
+      524,
+      714
+     ],
+     "_flags": []
+    },
+    {
+     "en": "video game",
+     "fr": "le jeu vidéo",
+     "de": "das Videospiel",
+     "es": "el video juego",
+     "it": "I videogioco",
+     "_pos": [
+      34,
+      733
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "tum off the television (v)",
+     "fr": "éteindre ta télévision",
+     "de": "den Fernseher abschalten",
+     "es": "apagar la televisión",
+     "it": "spegnere la televisione",
+     "_pos": [
+      688,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pay-per-view channel",
+     "fr": "la chaîne à péage",
+     "de": "der Pay-Kanal",
+     "es": "el canal de pago por evento",
+     "it": "il canale a pagamento",
+     "_pos": [
+      496,
+      780
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cable television",
+     "fr": "la télévision par câble",
+     "de": "das Kabelfernsehen",
+     "es": "la televisión por cable",
+     "it": "la televisione via cavo",
+     "_pos": [
+      328,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "feature film",
+     "fr": "le film",
+     "de": "der Spielfilm",
+     "es": "la película",
+     "it": "il lungometraggio",
+     "_pos": [
+      198,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "C D",
+     "fr": "le C D",
+     "de": "die CD-Platte",
+     "es": "el disco com pacto",
+     "it": "il compact dise",
+     "_pos": [
+      49,
+      782
+     ],
+     "_flags": [
+      "en:short:C",
+      "en:case",
+      "fr:short:C",
+      "fr:case"
+     ]
+    },
+    {
+     "en": "turn on the television (v)",
+     "fr": "allumer la télévision",
+     "de": "den Fernseher einschalten",
+     "es": "encender la televisión",
+     "it": "accendere la televisione",
+     "_pos": [
+      498,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tune the radio (v)",
+     "fr": "régler la radio",
+     "de": "das Radio einstellen",
+     "es": "sintonizar la radio",
+     "it": "sintonizzare la radio",
+     "_pos": [
+      688,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "programme",
+     "fr": "le programme",
+     "de": "das Programm",
+     "es": "el programa",
+     "it": "il programma",
+     "_pos": [
+      329,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "advertisement",
+     "fr": "la publicité",
+     "de": "die Werbung",
+     "es": "el anuncio",
+     "it": "la pubblicità",
+     "_pos": [
+      198,
+      880
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cassette tape",
+     "fr": "la cassette",
+     "de": "die Kassette",
+     "es": "el casete",
+     "it": "l'audiocassetta",
+     "_pos": [
+      50,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "watch television (v)",
+     "fr": "regarder ta télévision",
+     "de": "femsehen",
+     "es": "ver la televisión",
+     "it": "guardare la televisione",
+     "_pos": [
+      498,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stereo",
+     "fr": "stéréo",
+     "de": "stereo",
+     "es": "estéreo",
+     "it": "stereo",
+     "_pos": [
+      689,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "change channels (v)",
+     "fr": "changer de chaîne",
+     "de": "den Kanal wechseln",
+     "es": "cambiar de canal",
+     "it": "cambiare canale",
+     "_pos": [
+      330,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "digital",
+     "fr": "numérique",
+     "de": "digital",
+     "es": "digital",
+     "it": "digitale",
+     "_pos": [
+      199,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cassette player",
+     "fr": "le lecteur cassettes",
+     "de": "der Kassettenrekorder",
+     "es": "la casetera",
+     "it": "il mangianastri",
+     "_pos": [
+      50,
+      979
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 33,
+  "complete_clean": 13,
+  "flagged": 20,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

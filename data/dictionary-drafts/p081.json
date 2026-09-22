@@ -1,0 +1,229 @@
+{
+ "page": 81,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • LA M A IS O N • DAS HAUS • L A CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "garden plants • les plantes de jardin • die Gartenpflanzen • las plantas de jardín • le piante da giardino",
+   "parts": [
+    "garden plants",
+    "les plantes de jardin",
+    "die gartenpflanzen",
+    "las plantas de jardín",
+    "le piante da giardino"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "types of plants • les genres de plantes • die Pflanzenarten • los tipos de plantas • i tipi di piante",
+   "parts": [
+    "types of plants",
+    "les genres de plantes",
+    "die pflanzenarten",
+    "los tipos de plantas",
+    "i tipi di piante"
+   ],
+   "entries": [
+    {
+     "en": "perennial",
+     "fr": "vivace",
+     "de": "mehrjährig",
+     "es": "perenne",
+     "it": "perenne",
+     "_pos": [
+      486,
+      355
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bulb",
+     "fr": "le bulbe",
+     "de": "die Zwiebel",
+     "es": "el bulbo",
+     "it": "il bulbo",
+     "_pos": [
+      700,
+      355
+     ],
+     "_flags": []
+    },
+    {
+     "en": "annual",
+     "fr": "annuel",
+     "de": "einjährig",
+     "es": "anual",
+     "it": "annuale",
+     "_pos": [
+      56,
+      355
+     ],
+     "_flags": []
+    },
+    {
+     "en": "biennial",
+     "fr": "bisannuel",
+     "de": "zweijährig",
+     "es": "bienal",
+     "it": "biennale",
+     "_pos": [
+      272,
+      355
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fern",
+     "fr": "la fougère",
+     "de": "der Farn",
+     "es": "el helécho",
+     "it": "la felce",
+     "_pos": [
+      57,
+      587
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bamboo",
+     "fr": "le bambou",
+     "de": "der Bambus",
+     "es": "el bambú",
+     "it": "il bambù",
+     "_pos": [
+      488,
+      587
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cattail",
+     "fr": "le jonc",
+     "de": "die Binse",
+     "es": "el i unco",
+     "it": "il giunco",
+     "_pos": [
+      272,
+      587
+     ],
+     "_flags": []
+    },
+    {
+     "en": "weeds",
+     "fr": "les mauvaises herbes",
+     "de": "das Unkraut",
+     "es": "las malas hierbas",
+     "it": "le erbacce",
+     "_pos": [
+      702,
+      587
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water plant",
+     "fr": "la piante aquatique",
+     "de": "die Wasserpflanze",
+     "es": "la pianta acuática",
+     "it": "la pianta acquatica",
+     "_pos": [
+      272,
+      818
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tree",
+     "fr": "l'arbre",
+     "de": "der Baum",
+     "es": "el árbol",
+     "it": "l'albero",
+     "_pos": [
+      486,
+      818
+     ],
+     "_flags": []
+    },
+    {
+     "en": "herb",
+     "fr": "l'herbe",
+     "de": "das Kraut",
+     "es": "la Inerba",
+     "it": "le erbe aromatica",
+     "_pos": [
+      58,
+      819
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "evergreen",
+     "fr": "à feuilles persistantes",
+     "de": "immergrün",
+     "es": "de hoja perenne",
+     "it": "sempreverde",
+     "_pos": [
+      488,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "palm",
+     "fr": "le palmier",
+     "de": "die Palme",
+     "es": "la palmera",
+     "it": "la palma",
+     "_pos": [
+      58,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "conifer",
+     "fr": "le conifère",
+     "de": "der Nadelbaum",
+     "es": "la conífera",
+     "it": "la conifera",
+     "_pos": [
+      273,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deciduous",
+     "fr": "à feuilles caduques",
+     "de": "der Laubbaum",
+     "es": "de hoja caduca",
+     "it": "a foglie caduche",
+     "_pos": [
+      702,
+      1033
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 0,
+  "flagged": 15,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

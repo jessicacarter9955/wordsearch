@@ -1,0 +1,274 @@
+{
+ "page": 41,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H EA LTH • LA SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "doctor • le médecin • der Arzt • el doctor • il medico consultation • la consultation • die Konsultation • la consulta • la visita",
+   "parts": [
+    "doctor",
+    "le médecin",
+    "der arzt",
+    "el doctor",
+    "il medico consultation",
+    "la consultation",
+    "die konsultation",
+    "la consulta",
+    "la visita"
+   ],
+   "entries": [
+    {
+     "en": "height bar",
+     "fr": "la toise",
+     "de": "der Körpergrößenmesser",
+     "es": "el m etió",
+     "it": "il misuratore di altezza",
+     "_pos": [
+      646,
+      117
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "x-ray viewer",
+     "fr": "la lampe de radio",
+     "de": "der Röntgenbildbetrachter",
+     "es": "el lector de rayos X",
+     "it": "il negatoscopio",
+     "_pos": [
+      357,
+      167
+     ],
+     "_flags": [
+      "es:short:X"
+     ]
+    },
+    {
+     "en": "doctor",
+     "fr": "le médecin",
+     "de": "der Arzt",
+     "es": "el doctor",
+     "it": "il medico",
+     "_pos": [
+      76,
+      183
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nurse",
+     "fr": "l'infirmière",
+     "de": "die Krankenschwester",
+     "es": "la enfermera",
+     "it": "L'infermiera",
+     "_pos": [
+      751,
+      215
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "patient",
+     "fr": "la patiente",
+     "de": "die Patientin",
+     "es": "la paciente",
+     "it": "la paziente",
+     "_pos": [
+      442,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prescription",
+     "fr": "l'ordonnance",
+     "de": "das Rezept",
+     "es": "la receta",
+     "it": "la riretta",
+     "_pos": [
+      222,
+      313
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scales",
+     "fr": "la balance",
+     "de": "die Personenwaage",
+     "es": "la báscula",
+     "it": "la bilancia",
+     "_pos": [
+      758,
+      460
+     ],
+     "_flags": []
+    },
+    {
+     "en": "medical examination",
+     "fr": "l'examen médical",
+     "de": "die Untersuchung",
+     "es": "el examen módico",
+     "it": "la visita medica",
+     "_pos": [
+      732,
+      582
+     ],
+     "_flags": []
+    },
+    {
+     "en": "appointment",
+     "fr": "le rendez-vous",
+     "de": "der Termin",
+     "es": "la cita",
+     "it": "l'appuntamento",
+     "_pos": [
+      574,
+      583
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oiood pressure gauge",
+     "fr": "le sphygm otensiom être",
+     "de": "der Blutdruckmesser",
+     "es": "el indicador para m edir b presión",
+     "it": "il misuratore di pressione",
+     "_pos": [
+      50,
+      609
+     ],
+     "_flags": [
+      "es:short:m",
+      "es:short:b"
+     ]
+    },
+    {
+     "en": "inoculation",
+     "fr": "l'inoculation",
+     "de": "die Impfung",
+     "es": "la inoculación",
+     "it": "l'inoculazione",
+     "_pos": [
+      733,
+      681
+     ],
+     "_flags": []
+    },
+    {
+     "en": "doctor's office",
+     "fr": "le cabinet",
+     "de": "das Sprechzimmer",
+     "es": "la consulta",
+     "it": "l'ambulatorio",
+     "_pos": [
+      574,
+      681
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thermometer",
+     "fr": "le thermomètre",
+     "de": "das Thermometer",
+     "es": "el termómetro",
+     "it": "il termometro",
+     "_pos": [
+      734,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waiting room",
+     "fr": "la salle d'attente",
+     "de": "der Warte raum",
+     "es": "la sala de espera",
+     "it": "la sal ad'attesa",
+     "_pos": [
+      576,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "1 need to see a doctor",
+     "fr": "'ai besoin de voir un médecin",
+     "de": "Ich muss einen Arzt sprechen",
+     "es": "Ne ce sito ver aun doctor",
+     "it": "Ho bisogno di vedere un medico",
+     "_pos": [
+      574,
+      886
+     ],
+     "_flags": [
+      "en:num:1",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "It hurts here",
+     "fr": "'ai mal ici",
+     "de": "Es tut hier weh",
+     "es": "M e duele aquí",
+     "it": "Ho un dolor equi",
+     "_pos": [
+      574,
+      984
+     ],
+     "_flags": [
+      "en:case",
+      "es:short:M",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "cuff",
+     "fr": "le manchon",
+     "de": "die Luftmanschette",
+     "es": "el brazal",
+     "it": "il manicotto",
+     "_pos": [
+      362,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stethoscope",
+     "fr": "le stéthoscope",
+     "de": "das Stethoskop",
+     "es": "el estetoscopio",
+     "it": "lo stetoscopio",
+     "_pos": [
+      54,
+      1034
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 9,
+  "flagged": 9,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

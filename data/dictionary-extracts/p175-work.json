@@ -1,0 +1,413 @@
+{
+ "page": 175,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "edilizia",
+   "names": {
+    "en": "construction",
+    "fr": "la construction",
+    "de": "der bau",
+    "es": "la construcción",
+    "it": "l'edilizia"
+   },
+   "entries": [
+    {
+     "en": "window",
+     "fr": "fenêtre",
+     "de": "Fenster",
+     "es": "ventana",
+     "it": "finestra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "ladder",
+     "fr": "échelle",
+     "de": "Leiter",
+     "es": "escalera",
+     "it": "scala",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "pallet",
+     "fr": "palette",
+     "de": "Palette",
+     "es": "tan ma",
+     "it": "pallet",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "scaffolding",
+     "fr": "échafaudage das Gerüst",
+     "de": "cl andam io",
+     "it": "im palcatura",
+     "_multi": [
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 20,
+      "de": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "IjL iO i",
+     "fr": "fri",
+     "de": "Si",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 2
+     }
+    },
+    {
+     "fr": "? l",
+     "de": "mm'",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "fr": 1,
+      "de": 2
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "construction site",
+     "fr": "chantier",
+     "de": "Baustelle",
+     "es": "obra",
+     "it": "cantiere",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 8,
+      "de": 9,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "wall",
+     "fr": "mur",
+     "de": "Mauer",
+     "es": "pared",
+     "it": "muro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "lintel",
+     "fr": "linteau",
+     "de": "Sturz",
+     "es": "dintel",
+     "it": "architrave",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "forklift",
+     "fr": "chariot de levage",
+     "de": "Gabelstapler",
+     "es": "montacargas",
+     "it": "carrello elevatore",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 12,
+      "es": 11,
+      "it": 17
+     }
+    },
+    {
+     "en": "beam",
+     "fr": "poutre",
+     "de": "Balken",
+     "es": "viga de madera",
+     "it": "trave",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 12,
+      "it": 5
+     }
+    },
+    {
+     "en": "toolbeit",
+     "fr": "ceinrure à outils",
+     "de": "Werkzeuggürtel",
+     "es": "cinturón de las herram ientas",
+     "it": "cintura per gli attrezzi",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 15,
+      "de": 14,
+      "es": 25,
+      "it": 21
+     }
+    },
+    {
+     "en": "hard hai",
+     "fr": "casque de sécurité",
+     "de": "Schutzhelm",
+     "es": "casco",
+     "it": "casco",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 10,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "girder",
+     "fr": "poutre",
+     "de": "Träger",
+     "es": "viga de acero",
+     "it": "trave",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 11,
+      "it": 5
+     }
+    },
+    {
+     "en": "cement",
+     "fr": "ciment",
+     "de": "Zement",
+     "es": "cemento",
+     "it": "cemento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "cernent mixer",
+     "fr": "bétonnière",
+     "de": "Betonmischmaschine",
+     "es": "mezcladora de cemento",
+     "it": "betonier«!",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 10,
+      "de": 18,
+      "es": 19,
+      "it": 8
+     }
+    },
+    {
+     "en": "construction worker",
+     "fr": "maçon",
+     "de": "Bauarbeiter",
+     "es": "albañil",
+     "it": "muratore",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 5,
+      "de": 11,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "build (v)",
+     "fr": "construire",
+     "de": "bauen",
+     "es": "construir",
+     "it": "costruire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 5,
+      "es": 9,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

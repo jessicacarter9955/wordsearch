@@ -1,0 +1,624 @@
+{
+ "page": 224,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "mosse",
+   "names": {
+    "en": "actions",
+    "fr": "les actions",
+    "de": "die techniken",
+    "es": "los m ovim ientos",
+    "it": "le mosse"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "pin",
+     "fr": "Pim m obilisation",
+     "de": "Fesseln",
+     "es": "inmovilización",
+     "it": "caduta",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 15,
+      "de": 7,
+      "es": 14,
+      "it": 6
+     }
+    },
+    {
+     "en": "throw",
+     "fr": "projection",
+     "de": "Wurf",
+     "es": "derribo",
+     "it": "proiezione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 4,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "hold",
+     "fr": "prise",
+     "de": "Griff",
+     "es": "agarre",
+     "it": "presa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "fall",
+     "fr": "chute",
+     "de": "Fallen",
+     "es": "caída",
+     "it": "scivolata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "strike",
+     "fr": "coup",
+     "de": "Angriff",
+     "es": "golpe",
+     "it": "colpo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "punch",
+     "fr": "coup de poing",
+     "de": "Stoß",
+     "es": "puñetazo",
+     "it": "pugno",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 5,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "kick",
+     "fr": "coup de pied",
+     "de": "Seitfußstoß",
+     "es": "patada",
+     "it": "calcio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 10,
+      "de": 13,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "block",
+     "fr": "blocage",
+     "de": "Block",
+     "es": "bloqueo",
+     "it": "parata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "chop",
+     "fr": "coup",
+     "de": "Hieb",
+     "es": "golpe",
+     "it": "colpo di taglio",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 13
+     }
+    },
+    {
+     "en": "jump",
+     "fr": "saut",
+     "de": "Sprung",
+     "es": "salto",
+     "it": "salto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "black belt",
+     "fr": "ceinture noire",
+     "de": "schwarze Gürtel",
+     "es": "cinturón negro",
+     "it": "cintura nera",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 14,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "capoeira",
+     "fr": "capoeira",
+     "de": "Capoeira",
+     "es": "capoeira",
+     "it": "capoeira",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "fist",
+     "fr": "poing",
+     "de": "Faust",
+     "es": "puño",
+     "it": "pugno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "boxing ring",
+     "fr": "ring",
+     "de": "Boxring",
+     "es": "ring",
+     "it": "ring",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 4,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "round",
+     "fr": "round",
+     "de": "Runde",
+     "es": "round",
+     "it": "round",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "sumo wrestling",
+     "fr": "sumo",
+     "de": "Sumo",
+     "es": "sumo",
+     "it": "sumo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "self-defense",
+     "fr": "autodéfense",
+     "de": "Selbstverteidigung",
+     "es": "defensa personal",
+     "it": "autodifesa",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 18,
+      "es": 15,
+      "it": 10
+     }
+    },
+    {
+     "en": "knockout",
+     "fr": "knock-out",
+     "de": "Knockout",
+     "es": "K .O",
+     "it": "k.o",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 2,
+      "it": 2
+     }
+    },
+    {
+     "en": "boxing gloves",
+     "fr": "gants de boxe",
+     "de": "Boxhandschuhe",
+     "es": "guantes de boxeo",
+     "it": "guanti",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 13,
+      "es": 14,
+      "it": 6
+     }
+    },
+    {
+     "en": "bout",
+     "fr": "combat",
+     "de": "Kampf",
+     "es": "combate",
+     "it": "incontro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "punching bag",
+     "fr": "punching-bag",
+     "de": "Sandsack",
+     "es": "saco de arena",
+     "it": "sacco",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 8,
+      "es": 11,
+      "it": 5
+     }
+    },
+    {
+     "en": "martial arts",
+     "fr": "arts martiaux",
+     "de": "Kampfsportarten",
+     "es": "artes m arciales",
+     "it": "arti marziali",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 15,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "tal-chi",
+     "fr": "tai chi",
+     "de": "Tai Chi",
+     "es": "tai-chi",
+     "it": "tai-chi",
+     "_multi": [
+      "fr",
+      "de"
+     ],
+     "_hyphen": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "mouth guard",
+     "fr": "protège-dents",
+     "de": "Mundschutz",
+     "es": "protegedientes",
+     "it": "l paradenti",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "Sparring",
+     "fr": "entraînement",
+     "de": "Sparren",
+     "es": "entrenamiento",
+     "it": "alicnamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 7,
+      "es": 13,
+      "it": 11
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

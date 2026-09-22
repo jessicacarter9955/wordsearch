@@ -1,0 +1,231 @@
+{
+ "page": 82,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "cactus",
+     "fr": "le cactus",
+     "de": "der Kaktus",
+     "es": "el cactus",
+     "it": "il cactus",
+     "_pos": [
+      676,
+      263
+     ],
+     "_flags": []
+    },
+    {
+     "en": "succulent",
+     "fr": "la piante grasse",
+     "de": "die Fettpflanze",
+     "es": "la pianta suculenta",
+     "it": "la pianta grassa",
+     "_pos": [
+      462,
+      265
+     ],
+     "_flags": []
+    },
+    {
+     "en": "alpine",
+     "fr": "la plance alpestre",
+     "de": "die Alpenpflanze",
+     "es": "la pianta alpestre",
+     "it": "le piante da roccia",
+     "_pos": [
+      248,
+      266
+     ],
+     "_flags": []
+    },
+    {
+     "en": "topiary",
+     "fr": "la topiairc",
+     "de": "der Formschnitt",
+     "es": "las plantas podadas con form as",
+     "it": "l'arte topiaria",
+     "_pos": [
+      34,
+      268
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shade plant",
+     "fr": "la plante d' ombre",
+     "de": "die Schattenpflanze",
+     "es": "la planta de",
+     "_pos": [
+      611,
+      363
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "potted plant",
+     "fr": "la plante en pot",
+     "de": "die Topfpflanze",
+     "es": "la planta de maceta",
+     "it": "la pianta cia vaso",
+     "_pos": [
+      249,
+      365
+     ],
+     "_flags": []
+    },
+    {
+     "en": "climber",
+     "fr": "la plante grimpante",
+     "de": "die Kletterpflanze",
+     "es": "la pianta trepadora",
+     "it": "la pianta rampicante",
+     "_pos": [
+      35,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flowering shrub",
+     "fr": "l'arbuste à fleurs",
+     "de": "der Zierstrauch",
+     "es": "el arbusto de flor",
+     "it": "i3 pianta da fiore",
+     "_pos": [
+      37,
+      632
+     ],
+     "_flags": [
+      "it:num:i3"
+     ]
+    },
+    {
+     "en": "ground cover",
+     "fr": "ü couverture du sol",
+     "de": "der Bodendecker",
+     "es": "Li planta para cubrir",
+     "it": "sudo a pianta copriterreno",
+     "_pos": [
+      40,
+      880
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "fr:short:ü",
+      "es:case"
+     ],
+     "_alts": [
+      {
+       "en": "ground cover",
+       "fr": "ü couverture du sol",
+       "de": "der Bodendecker",
+       "es": "Li planta para cubrir sudo",
+       "it": "3 pianta copriterreno"
+      },
+      {
+       "en": "ground cover",
+       "fr": "ü couverture du sol",
+       "de": "der Bodendecker Li planta para cubrir",
+       "es": "sudo",
+       "it": "3 pianta copriterreno"
+      }
+     ]
+    },
+    {
+     "en": "grass",
+     "fr": "l'herbe",
+     "de": "das Gras",
+     "es": "el pasto",
+     "it": "l'erba",
+     "_pos": [
+      750,
+      1006
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ornemental",
+     "fr": "Zier",
+     "de": "om am cntal",
+     "es": "ornamentale",
+     "_pos": [
+      610,
+      1025
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig",
+      "fr:case"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "fr": "la piante ram pante",
+     "de": "die Kriechpflanze",
+     "es": "la planta trepadora",
+     "it": "la pianta rampicante",
+     "_pos": [
+      313,
+      1026
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "H'nmhra",
+   "pos": [
+    730,
+    394
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 12,
+  "complete_clean": 2,
+  "flagged": 10,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 0
+ }
+}

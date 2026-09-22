@@ -1,0 +1,510 @@
+{
+ "page": 145,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "macro_slug": "mangiare-fuori",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "fast-food",
+   "names": {
+    "en": "fast food",
+    "fr": "la restauration rapide",
+    "de": "der schnellimbiss",
+    "es": "la comida rápida",
+    "it": "il fast food"
+   },
+   "entries": [
+    {
+     "en": "straw",
+     "fr": "paille",
+     "de": "Strohhalm",
+     "es": "popote",
+     "it": "cannuccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "pizzena",
+     "fr": "pizzeria",
+     "de": "Pizzeria",
+     "es": "pizzeria",
+     "it": "pizzeria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "burger",
+     "fr": "hamburger",
+     "de": "Hamburger",
+     "es": "hamburguesa",
+     "it": "hamburger",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 9,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "soft drink",
+     "fr": "boisson non-alcoolisée",
+     "de": "alkoholfreie Getränk",
+     "es": "refresco",
+     "it": "bibita",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 20,
+      "de": 19,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "fast food restaurant",
+     "fr": "restaurant rapide",
+     "de": "Imbissstube",
+     "es": "restaurant de hamburguesas",
+     "it": "fastfood",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 16,
+      "de": 11,
+      "es": 24,
+      "it": 8
+     }
+    },
+    {
+     "en": "French fries",
+     "fr": "frites",
+     "de": "Pommes frites",
+     "es": "papas fritas",
+     "it": "patate fritte",
+     "_multi": [
+      "en",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 12,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "menu",
+     "fr": "carte",
+     "de": "$peisekarte",
+     "es": "menù",
+     "it": "menù",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "paper napkin",
+     "fr": "serviette en papier",
+     "de": "Papierserviette",
+     "es": "servilleta de papel",
+     "it": "tovagliolo di carta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 17,
+      "de": 15,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "eat in",
+     "fr": "manger sur place",
+     "de": "hier essen",
+     "es": "para comer en el local",
+     "it": "mangiare sul posto",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 14,
+      "de": 9,
+      "es": 18,
+      "it": 16
+     }
+    },
+    {
+     "en": "tray",
+     "fr": "plateau",
+     "de": "Tablett",
+     "es": "charola",
+     "it": "vassoio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "carry out",
+     "fr": "à emporter",
+     "de": "zum Mitnehmen",
+     "es": "para llevar",
+     "it": "da portarvi a",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 12,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "burger meal",
+     "fr": "hamburger avec des frites",
+     "de": "Hamburger mit Pommes frites",
+     "es": "hamburguesa con papas fritas",
+     "it": "pasto con hamburger",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 22,
+      "de": 24,
+      "es": 25,
+      "it": 17
+     }
+    },
+    {
+     "en": "canned drink",
+     "fr": "boisson en boîte",
+     "de": "Dosengetränk",
+     "es": "refresco en lata",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 12,
+      "es": 14
+     }
+    },
+    {
+     "en": "reheat y",
+     "fr": "réchauffer",
+     "de": "aufwärmen",
+     "es": "recalentar",
+     "it": "riscaldare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "price list",
+     "fr": "tarif",
+     "de": "Preisliste",
+     "es": "lista de prec",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 10,
+      "es": 11
+     }
+    },
+    {
+     "en": "pizza",
+     "fr": "pizza",
+     "de": "Pizza",
+     "es": "pizz3",
+     "it": "pizza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "ketchup",
+     "fr": "ketchup",
+     "de": "Tomatenketchup",
+     "es": "catsup",
+     "it": "salsa di pomodoro",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 6,
+      "it": 15
+     }
+    },
+    {
+     "en": "Can I have that to go. please?",
+     "fr": "À emporter, s'il vous plaît",
+     "de": "Ich mochte das mitnehmen",
+     "es": "M e lo pone para llevar?",
+     "it": "Me lo dà da portar via?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 22,
+      "fr": 21,
+      "de": 21,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "Do you deliver?",
+     "fr": "Est-ce que vous livrez à dom icile?",
+     "de": "Liefern Sie ins Haus?",
+     "es": "Entregan a domicilio?",
+     "it": "Consegnate a domocilio?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 12,
+      "fr": 27,
+      "de": 17,
+      "es": 18,
+      "it": 20
+     }
+    },
+    {
+     "en": "delivery",
+     "fr": "livraison à domicile",
+     "de": "Lieferung ins Haus",
+     "es": "entrega a domicilio",
+     "it": "consegna a domicilio",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 16,
+      "es": 17,
+      "it": 18
+     }
+    },
+    {
+     "en": "hot dog stand",
+     "fr": "marchand de hor-dogs",
+     "de": "Imbissstand",
+     "es": "puesto",
+     "it": "venditore ambulante",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 17,
+      "de": 11,
+      "es": 6,
+      "it": 18
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

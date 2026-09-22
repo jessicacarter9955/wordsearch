@@ -1,0 +1,392 @@
+{
+ "page": 260,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEIS U R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL T EM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": "arts and crafts I • les arts et métiers 1 • das Kunsthandwerk 1 • las manualidades 1 • arte e artigianato 1",
+   "parts": [
+    "art sand craft si",
+    "les arts et métiers",
+    "das kunsthandwerk",
+    "las manualidades",
+    "arte e artigianato"
+   ],
+   "entries": [
+    {
+     "en": "paints",
+     "fr": "les couleurs pinturas",
+     "es": "la vernice",
+     "_pos": [
+      695,
+      115
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "• die Farben • las",
+   "parts": [
+    "die farben",
+    "las"
+   ],
+   "entries": [
+    {
+     "en": "easel",
+     "fr": "le chevalet",
+     "de": "die Staffelei",
+     "es": "el caballete",
+     "it": "I cavalletto",
+     "_pos": [
+      574,
+      149
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "painting",
+     "fr": "le tableau",
+     "de": "das Gemälde",
+     "es": "n I « « / !",
+     "_pos": [
+      274,
+      151
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig",
+      "es:short:n",
+      "es:weird:«",
+      "es:weird:/",
+      "es:weird:!",
+      "es:case"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "artist",
+     "fr": "l'artiste peintre",
+     "de": "die Künstlerin",
+     "es": "la pintora",
+     "it": "l'artista",
+     "_pos": [
+      56,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "canvas",
+     "fr": "la toile",
+     "de": "die Leinwand",
+     "es": "el lienzo",
+     "it": "la tela",
+     "_pos": [
+      575,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oil paints",
+     "fr": "les couleurs à ri mile",
+     "de": "die Ölfarben",
+     "es": "las pintura sal óleo",
+     "it": "i colon ad olio",
+     "_pos": [
+      696,
+      298
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brush",
+     "fr": "le pinceau",
+     "de": "der Pinsel",
+     "es": "el pincel",
+     "it": "il pennello",
+     "_pos": [
+      598,
+      412
+     ],
+     "_flags": []
+    },
+    {
+     "en": "watercolors",
+     "fr": "la couleur à Peau",
+     "de": "die Aquarellfarbe",
+     "es": "las acuarelas",
+     "it": "gli acquarelli",
+     "_pos": [
+      696,
+      493
+     ],
+     "_flags": []
+    },
+    {
+     "en": "palette",
+     "fr": "la palette",
+     "de": "die Palette",
+     "es": "la paleta",
+     "it": "la tavolozza",
+     "_pos": [
+      600,
+      527
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "lililí",
+   "parts": [
+    "lililí"
+   ],
+   "entries": [
+    {
+     "en": "pastels",
+     "fr": "les pastels",
+     "de": "die Pastellstifte",
+     "es": "los pasteles",
+     "it": "i pastelli",
+     "_pos": [
+      698,
+      642
+     ],
+     "_flags": []
+    },
+    {
+     "en": "painting",
+     "fr": "la peinture",
+     "de": "die Malerei",
+     "es": "la pintura",
+     "it": "la pittura",
+     "_pos": [
+      59,
+      659
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "colors • les couleurs • die Farben • los colores • i colori",
+   "parts": [
+    "colors",
+    "les couleurs",
+    "die farben",
+    "los colores",
+    "i colori"
+   ],
+   "entries": [
+    {
+     "en": "green",
+     "fr": "vert",
+     "de": "grün",
+     "es": "verde",
+     "it": "verde",
+     "_pos": [
+      541,
+      807
+     ],
+     "_flags": []
+    },
+    {
+     "en": "red",
+     "fr": "rouge",
+     "de": "rot",
+     "es": "rojo",
+     "it": "rosso",
+     "_pos": [
+      60,
+      807
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blue",
+     "fr": "bleu",
+     "de": "blau",
+     "es": "azul",
+     "it": "blu",
+     "_pos": [
+      220,
+      807
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yellow",
+     "fr": "jaune",
+     "de": "gelb",
+     "es": "amarillo",
+     "it": "giallo",
+     "_pos": [
+      378,
+      807
+     ],
+     "_flags": []
+    },
+    {
+     "en": "acrylic paint",
+     "fr": "l'acrylique",
+     "de": "die Acrylfarbe",
+     "es": "la pintura acrilica",
+     "it": "i colori acrilici",
+     "_pos": [
+      698,
+      822
+     ],
+     "_flags": []
+    },
+    {
+     "en": "orange",
+     "fr": "orange",
+     "de": "orange",
+     "es": "naranja",
+     "it": "arancione",
+     "_pos": [
+      60,
+      920
+     ],
+     "_flags": []
+    },
+    {
+     "en": "white",
+     "fr": "blanc",
+     "de": "weiß",
+     "es": "blanco",
+     "it": "bianco",
+     "_pos": [
+      378,
+      924
+     ],
+     "_flags": []
+    },
+    {
+     "en": "purple",
+     "fr": "violet",
+     "de": "lila",
+     "es": "morado",
+     "it": "viola",
+     "_pos": [
+      222,
+      924
+     ],
+     "_flags": []
+    },
+    {
+     "en": "black",
+     "fr": "noir",
+     "de": "schwarz",
+     "es": "negro",
+     "it": "nero",
+     "_pos": [
+      540,
+      926
+     ],
+     "_flags": []
+    },
+    {
+     "en": "poster paint",
+     "fr": "la gouache",
+     "de": "die Plakatfarbe",
+     "es": "la tèm pera",
+     "it": "la tempera",
+     "_pos": [
+      700,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brown",
+     "fr": "marron",
+     "de": "braun",
+     "es": "mar ron",
+     "it": "marrone",
+     "_pos": [
+      382,
+      1038
+     ],
+     "_flags": []
+    },
+    {
+     "en": "indigo",
+     "fr": "indigo",
+     "de": "indigoblau",
+     "es": "azul añil",
+     "it": "indaco",
+     "_pos": [
+      540,
+      1038
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gray",
+     "fr": "gris",
+     "de": "grau",
+     "es": "gris",
+     "it": "grigio",
+     "_pos": [
+      60,
+      1038
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pink",
+     "fr": "rose",
+     "de": "rosa",
+     "es": "rosa",
+     "it": "rosa",
+     "_pos": [
+      222,
+      1038
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "y",
+   "pos": [
+    102,
+    495
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 3,
+  "flagged": 22,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 4
+ }
+}

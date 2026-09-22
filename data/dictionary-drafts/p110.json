@@ -1,0 +1,316 @@
+{
+ "page": 110,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "F O O D • I A N O U R R I T U R E • DIE NAHRUNGSMITTEL • L O S A U M E N T O S • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "meat • la viande • das Fleisch • la carne • la carne",
+   "parts": [
+    "meat",
+    "la viande",
+    "das fleisch",
+    "la carne",
+    "la carne"
+   ],
+   "entries": [
+    {
+     "en": "butcher",
+     "fr": "le boucher",
+     "de": "der Metzger",
+     "es": "el carnicero",
+     "it": "il macellaio",
+     "_pos": [
+      592,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "meat hook",
+     "fr": "l'allonge",
+     "de": "der Fleischerhaken",
+     "es": "el gancho",
+     "it": "I gancio",
+     "_pos": [
+      728,
+      133
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "lamb",
+     "fr": "l'agneau",
+     "de": "das Lamm",
+     "es": "el cordero",
+     "it": "l'agnello",
+     "_pos": [
+      474,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scales",
+     "fr": "la balance",
+     "de": "die Waage",
+     "es": "la báscula",
+     "it": "la bilancia",
+     "_pos": [
+      810,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knife sharpener",
+     "fr": "le fusil",
+     "de": "der Messerschärfer",
+     "es": "el afilador",
+     "it": "raffilacoltelli",
+     "_pos": [
+      631,
+      280
+     ],
+     "_flags": []
+    },
+    {
+     "en": "liver",
+     "fr": "le foie",
+     "de": "die Leber",
+     "es": "el hígado",
+     "it": "il fegato",
+     "_pos": [
+      600,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bacon",
+     "fr": "le bacon",
+     "de": "der Speck",
+     "es": "el tocino",
+     "it": "la pancetta",
+     "_pos": [
+      76,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sausages",
+     "fr": "les saucisses",
+     "de": "die Würstchen",
+     "es": "las salchichas",
+     "it": "le salsicce",
+     "_pos": [
+      325,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "venison",
+     "fr": "la venaison",
+     "de": "das Wild",
+     "es": "el venado",
+     "it": "il cervo",
+     "_pos": [
+      263,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "offal",
+     "fr": "les abats",
+     "de": "die Innereien",
+     "es": "las asaduras",
+     "it": "le frattaglie",
+     "_pos": [
+      444,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "red meat",
+     "fr": "la viande rouge",
+     "de": "das rote Fleisch",
+     "es": "la carne roja",
+     "it": "la carne rossa",
+     "_pos": [
+      771,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pork",
+     "fr": "le porc",
+     "de": "das Schweinefleisch",
+     "es": "el cerdo",
+     "it": "il maiale",
+     "_pos": [
+      90,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "free range",
+     "fr": "de ferme",
+     "de": "aus Freilandhaltung",
+     "es": "de granja",
+     "it": "ruspante",
+     "_pos": [
+      586,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lean meat",
+     "fr": "la viande maigre",
+     "de": "das magere Fleisch",
+     "es": "laca me magra",
+     "it": "la carne magra",
+     "_pos": [
+      772,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cured",
+     "fr": "salé",
+     "de": "gepökelt",
+     "es": "curado",
+     "it": "trattato",
+     "_pos": [
+      444,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "organic",
+     "fr": "naturel",
+     "de": "biologisch kontrolliert",
+     "es": "orgánico",
+     "it": "biologico",
+     "_pos": [
+      586,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rabbit",
+     "fr": "le lapin",
+     "de": "das Kaninchen",
+     "es": "el conejo",
+     "it": "il coniglio",
+     "_pos": [
+      264,
+      889
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beef",
+     "fr": "le bœuf",
+     "de": "das Rindfleisch",
+     "es": "la vaca",
+     "it": "l manzo",
+     "_pos": [
+      90,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cooked meat",
+     "fr": "la viande cuite",
+     "de": "das gekochte Fleisch",
+     "es": "el fiambre",
+     "it": "la carne cotta",
+     "_pos": [
+      772,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tongue",
+     "fr": "Ja langue de bœuf",
+     "de": "die Zunge",
+     "es": "la lengua",
+     "it": "la lingua",
+     "_pos": [
+      264,
+      987
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "smoked",
+     "fr": "fumé",
+     "de": "geräuchert",
+     "es": "ahumado",
+     "it": "affumicato",
+     "_pos": [
+      445,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "white meat",
+     "fr": "la viande blanche",
+     "de": "das weiße Fleisch",
+     "es": "la carne blanca",
+     "it": "la carne bianca",
+     "_pos": [
+      586,
+      987
+     ],
+     "_flags": []
+    },
+    {
+     "en": "veal",
+     "fr": "le veau",
+     "de": "das Kalbfleisch",
+     "es": "la temerà",
+     "it": "il vitello",
+     "_pos": [
+      90,
+      988
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 17,
+  "flagged": 6,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

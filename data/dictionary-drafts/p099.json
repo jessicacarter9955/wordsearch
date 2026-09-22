@@ -1,0 +1,229 @@
+{
+ "page": 99,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LA S C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "superm arket • le supermarché • der Supermarkt • el supermercado • ¡I superm ercato",
+   "parts": [
+    "supermarket",
+    "le supermarché",
+    "der supermarkt",
+    "el supermercado",
+    "i supermercato"
+   ],
+   "entries": [
+    {
+     "en": "checkout counter",
+     "fr": "le tapis roulant",
+     "de": "das Laufband",
+     "es": "la banda transportadora",
+     "it": "il nastro convogliatore",
+     "_pos": [
+      392,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cashier",
+     "fr": "le caissier",
+     "de": "der Kassierer",
+     "es": "el cajero",
+     "it": "il cassiere",
+     "_pos": [
+      648,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "offers",
+     "fr": "les promotions",
+     "de": "die Angebote",
+     "es": "las ofertas",
+     "it": "le offerte",
+     "_pos": [
+      768,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aisle",
+     "fr": "l'allée",
+     "de": "der Gang",
+     "es": "el pasillo",
+     "it": "il passaggio",
+     "_pos": [
+      57,
+      163
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shelf",
+     "fr": "l'etagere",
+     "de": "das Warenregal",
+     "es": "el estante",
+     "it": "lo scaffale",
+     "_pos": [
+      232,
+      164
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customer",
+     "fr": "le d ien t",
+     "de": "der Kunde",
+     "es": "el cliente",
+     "it": "il cliente",
+     "_pos": [
+      430,
+      693
+     ],
+     "_flags": [
+      "fr:short:t"
+     ]
+    },
+    {
+     "en": "cash registe",
+     "fr": "la caisse",
+     "de": "die Kasse",
+     "es": "la caja",
+     "it": "la cassa",
+     "_pos": [
+      536,
+      694
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Checkout",
+     "fr": "la caisse",
+     "de": "die Kasse",
+     "es": "la caja",
+     "it": "la cassa",
+     "_pos": [
+      57,
+      694
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "shopping bag",
+     "fr": "la sac à provisions",
+     "de": "die Einkaufstasche",
+     "es": "la bolsa",
+     "it": "la busta della spesa",
+     "_pos": [
+      708,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "groceries",
+     "fr": "les provisions",
+     "de": "die Lebensmittel",
+     "es": "la compra",
+     "it": "la spesa",
+     "_pos": [
+      404,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handle",
+     "fr": "l'anse",
+     "de": "der Henkel",
+     "es": "el asa",
+     "it": "il manico",
+     "_pos": [
+      536,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bar code",
+     "fr": "le code barres",
+     "de": "der Strichkode",
+     "es": "el código de barras",
+     "it": "il codice a barre",
+     "_pos": [
+      690,
+      860
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grocery cart",
+     "fr": "le caddie",
+     "de": "der Einkaufswagen",
+     "es": "el carrito",
+     "it": "il carrello",
+     "_pos": [
+      56,
+      1056
+     ],
+     "_flags": []
+    },
+    {
+     "en": "basket",
+     "fr": "le panier",
+     "de": "der Einkaufskorb",
+     "es": "la canasta",
+     "it": "il cestino",
+     "_pos": [
+      426,
+      1058
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scanner",
+     "fr": "le lecteur optique",
+     "de": "der Scanner",
+     "es": "el escáner",
+     "it": "il lettore ottico",
+     "_pos": [
+      654,
+      1058
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "7808631",
+   "pos": [
+    730,
+    843
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 5,
+  "flagged": 10,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

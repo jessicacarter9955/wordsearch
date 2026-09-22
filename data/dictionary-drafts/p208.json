@@ -1,0 +1,237 @@
+{
+ "page": 208,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS • L E S S P O R T S • DER SPORT • L O S D E P O R T E S • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "rugby • le rugby • das Rugby • el rugby • ¡I rugby",
+   "parts": [
+    "rugby",
+    "le rugby",
+    "das rugby",
+    "el rugby",
+    "i rugby"
+   ],
+   "entries": [
+    {
+     "en": "flag",
+     "fr": "le drapeau",
+     "de": "die Fahne",
+     "es": "la bandera",
+     "it": "la bandierina",
+     "_pos": [
+      552,
+      110
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dead ball line",
+     "fr": "la ligne de ballon mort",
+     "de": "die Feldauslinie",
+     "es": "la línea de fondo",
+     "it": "la linea di palla morta",
+     "_pos": [
+      663,
+      110
+     ],
+     "_flags": []
+    },
+    {
+     "en": "in-goal area",
+     "fr": "la surface de but",
+     "de": "der Torraum",
+     "es": "la zona de marca",
+     "it": "l'area della porta",
+     "_pos": [
+      168,
+      111
+     ],
+     "_flags": []
+    },
+    {
+     "en": "touch line",
+     "fr": "la ligne de touche",
+     "de": "die Seitenlinie",
+     "_pos": [
+      300,
+      111
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "goal",
+     "fr": "le but",
+     "de": "das Tor",
+     "es": "la portería",
+     "it": "la porla",
+     "_pos": [
+      34,
+      113
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rugby field",
+     "fr": "le terrain de rugby",
+     "de": "das Spielfeld",
+     "es": "el campo de rugby",
+     "it": "il campo",
+     "_pos": [
+      36,
+      505
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le ballon",
+     "de": "der Rugbyball",
+     "es": "el balón",
+     "it": "il pallone",
+     "_pos": [
+      118,
+      554
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "throw V",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "tirare",
+     "_pos": [
+      674,
+      568
+     ],
+     "_flags": [
+      "en:short:V",
+      "en:case"
+     ]
+    },
+    {
+     "en": "rugby uniform",
+     "fr": "le maillot de rugby",
+     "de": "das Rugbytrikot",
+     "es": "el uniforme de m gb'",
+     "it": "la camicetta da rugby",
+     "_pos": [
+      146,
+      669
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "try",
+     "fr": "Tessa i",
+     "de": "der Versùch",
+     "es": "el intento",
+     "it": "la meta",
+     "_pos": [
+      676,
+      782
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "tackle (v)",
+     "fr": "rader",
+     "de": "angreifen",
+     "es": "taclear",
+     "it": "placcare",
+     "_pos": [
+      464,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pass (v)",
+     "fr": "faire une passe",
+     "de": "den Ball abgeben",
+     "es": "pasar",
+     "it": "passare",
+     "_pos": [
+      252,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kick (v)",
+     "fr": "botter",
+     "de": "kicken",
+     "es": "patear",
+     "it": "calciare",
+     "_pos": [
+      38,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "player",
+     "fr": "le joueur",
+     "de": "der Rugbyspieler",
+     "es": "el jugador",
+     "it": "il giocatore",
+     "_pos": [
+      387,
+      832
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scrum",
+     "fr": "la mêlée",
+     "de": "das Gedränge",
+     "es": "la cerrada",
+     "it": "la mischia",
+     "_pos": [
+      466,
+      1061
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ruck",
+     "fr": "la inéléc ouverte",
+     "de": "das offene Gedränge",
+     "es": "la abierta",
+     "it": "il ruck",
+     "_pos": [
+      40,
+      1063
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 3,
+  "flagged": 13,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

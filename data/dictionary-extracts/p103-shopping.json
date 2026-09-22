@@ -1,0 +1,347 @@
+{
+ "page": 103,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "fioraio",
+   "names": {
+    "en": "flohst",
+    "fr": "le fleuriste",
+    "de": "das blumengeschäft",
+    "es": "la florería",
+    "it": "il fioraio"
+   },
+   "entries": [
+    {
+     "en": "gladiolus",
+     "fr": "glaïeul",
+     "de": "Gladiole",
+     "es": "gladiola",
+     "it": "gladiolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "flowers",
+     "fr": "fleurs",
+     "de": "Blumen",
+     "es": "flores",
+     "it": "fiori",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "ins",
+     "fr": "iris",
+     "de": "Iris",
+     "es": "ms",
+     "it": "iris",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 4,
+      "es": 2,
+      "it": 4
+     }
+    },
+    {
+     "en": "lily",
+     "fr": "lis",
+     "de": "Lilie",
+     "es": "azucena",
+     "it": "giglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "acacia",
+     "fr": "acacia",
+     "de": "Akazie",
+     "es": "acacia",
+     "it": "acacia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "daisy",
+     "fr": "marguerite",
+     "de": "Margerite",
+     "es": "margarita",
+     "it": "margherita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "carnation",
+     "fr": "œillet",
+     "de": "Nelke",
+     "es": "clavel",
+     "it": "garofano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "chrysanthemum",
+     "fr": "chrysanthème",
+     "de": "Chrysantheme",
+     "es": "crisantemo",
+     "it": "crisantemo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 12,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "gypsophila",
+     "fr": "gypsophile",
+     "de": "Schleierkraut",
+     "es": "nube",
+     "it": "gipsofila",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 13,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "potted plant",
+     "fr": "plante en pot",
+     "de": "Topfpflanze",
+     "es": "maceta",
+     "it": "pianta da vaso",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "freesia",
+     "fr": "freesia",
+     "de": "Freesie",
+     "es": "fresia",
+     "it": "fresia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "rose",
+     "fr": "rose",
+     "de": "Rose",
+     "es": "rosa",
+     "it": "rosa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "foliage",
+     "fr": "feuillage",
+     "de": "Blätter",
+     "es": "follaje",
+     "it": "fogliame",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "stocks",
+     "fr": "giroflée",
+     "de": "Levkoje",
+     "es": "alhelí",
+     "it": "violacciocca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 7,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "gerbera",
+     "fr": "gerbera",
+     "de": "Gerbera",
+     "es": "gerbera",
+     "it": "gerbera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

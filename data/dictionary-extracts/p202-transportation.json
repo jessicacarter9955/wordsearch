@@ -1,0 +1,636 @@
+{
+ "page": 202,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "nave",
+   "names": {
+    "en": "ship",
+    "fr": "le navire",
+    "de": "das schiff",
+    "es": "el barco",
+    "it": "la nave"
+   },
+   "entries": [
+    {
+     "en": "radar",
+     "fr": "radar",
+     "de": "Radar",
+     "es": "radar",
+     "it": "radar",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "funnel",
+     "fr": "cheminée",
+     "de": "Schornstein",
+     "es": "chimenea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 11,
+      "es": 8
+     }
+    },
+    {
+     "en": "quarterdeck",
+     "fr": "pont arrière",
+     "de": "Achterdeck",
+     "es": ".de«izar",
+     "it": "casseremo",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 10,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "radio antenna",
+     "fr": "antenne radio",
+     "de": "Funkantenne",
+     "es": "antena de radio",
+     "it": "antenna della radin",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 11,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "deck",
+     "fr": "pont",
+     "de": "Deck",
+     "es": "cubierta",
+     "it": "ponte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "prow",
+     "fr": "proue",
+     "de": "Bug",
+     "es": "proa",
+     "it": "prua",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 3,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "propeller",
+     "fr": "hélice",
+     "de": "Schiffsschraube",
+     "es": "hélice",
+     "it": "elica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 15,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "Plimsoll mar kI",
+     "fr": "marque de flottaison",
+     "de": "Hochstlademarke",
+     "es": "línea de flotación",
+     "it": "marca di bordo libero",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 15,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "porthole",
+     "fr": "bublot",
+     "de": "Bullauge",
+     "es": "ojo de buey",
+     "it": "oblò",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 8,
+      "es": 9,
+      "it": 4
+     }
+    },
+    {
+     "en": "hull",
+     "fr": "coque",
+     "de": "Rumpf",
+     "es": "casco",
+     "it": "scafo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "lifeboat i",
+     "fr": "canot de sauvetage",
+     "de": "Rettungsboot",
+     "es": "bote salvavidas",
+     "it": "lancia di salvataggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 12,
+      "es": 14,
+      "it": 19
+     }
+    },
+    {
+     "en": "keel i",
+     "fr": "quille",
+     "de": "Kiel",
+     "es": "quilla",
+     "it": "chiglia",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "ocean liner",
+     "fr": "paquebot",
+     "de": "Ozeandampfer",
+     "es": "transatlántico",
+     "it": "nave da crociera",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 12,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "dock",
+     "fr": "dock",
+     "de": "Dock",
+     "es": "muelle",
+     "it": "bacino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "windlass",
+     "fr": "guindeau",
+     "de": "Ankerwinde",
+     "es": "cabrestante",
+     "it": "mulinello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 10,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "captain",
+     "fr": "capitaine",
+     "de": "Kapitän",
+     "es": "c-1 capitán",
+     "it": "capitano",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "porr",
+     "fr": "port",
+     "de": "Hafen",
+     "es": "puerto",
+     "it": "porto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "bridge",
+     "fr": "passerelle de commandement",
+     "de": "Kommandobrücke",
+     "es": "puente",
+     "it": "ponte di comando",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 24,
+      "de": 14,
+      "es": 6,
+      "it": 14
+     }
+    },
+    {
+     "en": "engine room",
+     "fr": "salle des moteurs",
+     "de": "Maschinenraum",
+     "es": "sala de m áquinas",
+     "it": "sala macchine",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 13,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "speedboat",
+     "fr": "runabout",
+     "de": "Rennboot",
+     "es": "lancha de motor",
+     "it": "motoscafo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 8,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "gangway",
+     "fr": "passerelle",
+     "de": "Landungsbrücke",
+     "es": "pasarela",
+     "it": "passerella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 14,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "anchor",
+     "fr": "ancre",
+     "de": "Anker",
+     "es": "ancla",
+     "it": "ancora",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "rowboat",
+     "fr": "barque",
+     "de": "Ruderboot",
+     "es": "barca de remos",
+     "it": "labo rea a remi",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "bollard",
+     "fr": "bollard",
+     "de": "Poller",
+     "es": "noray",
+     "it": "colonna d'ormeggio",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 16
+     }
+    },
+    {
+     "en": "canoe",
+     "fr": "canoë",
+     "de": "Kanu",
+     "es": "piragua",
+     "it": "canoa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "cabin",
+     "fr": "cabine",
+     "de": "Kabine",
+     "es": "camarote",
+     "it": "cabina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "galley",
+     "fr": "cuisine",
+     "de": "Kombüse",
+     "es": "cocina",
+     "it": "cucina di bordo",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 13
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,349 @@
+{
+ "page": 140,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMF.R FUERA ♦ MANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "rea • le thé • der Tee • el té • il tè",
+   "parts": [
+    "rea",
+    "le thé",
+    "der tee",
+    "el té",
+    "il tè"
+   ],
+   "entries": [
+    {
+     "en": "herbal tea",
+     "fr": "la tisane",
+     "de": "der Kräutertee",
+     "es": "el té de hierbas",
+     "it": "il tè alle erbe",
+     "_pos": [
+      32,
+      117
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "green tea • le thé verr • der grüne Tee",
+   "parts": [
+    "green tea",
+    "le thé verr",
+    "der grüne tee"
+   ],
+   "entries": [
+    {
+     "en": "camomile tea",
+     "fr": "la camomille",
+     "de": "der Kamillentee",
+     "es": "la manzanilla",
+     "it": "la camomilla",
+     "_pos": [
+      308,
+      181
+     ],
+     "_flags": []
+    },
+    {
+     "es": "el té verde",
+     "it": "il tè verde",
+     "_pos": [
+      609,
+      197
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de"
+     ]
+    },
+    {
+     "en": "iced tea",
+     "fr": "le thé glacé",
+     "de": "der Eistee",
+     "es": "el té con hielo",
+     "it": "il tè freddo",
+     "_pos": [
+      726,
+      378
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mint tea",
+     "fr": "l'infusion de menthe",
+     "de": "der Pfefferminztee",
+     "es": "la m enta polco",
+     "it": "il tc alla menta",
+     "_pos": [
+      544,
+      379
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "tea with lemon",
+     "fr": "le thé au citron",
+     "de": "der Tee mit Zitrone",
+     "es": "el té con limón",
+     "it": "il rè al limone",
+     "_pos": [
+      368,
+      379
+     ],
+     "_flags": []
+    },
+    {
+     "en": "black tea",
+     "fr": "le thé narure",
+     "de": "der schwarze Tee",
+     "es": "el té sólo",
+     "it": "il tè nero",
+     "_pos": [
+      211,
+      380
+     ],
+     "_flags": []
+    },
+    {
+     "en": "s a with milk",
+     "fr": "le thé au lau",
+     "de": "der Tee mit Milch",
+     "es": "el té con leche",
+     "it": "il tè con latte",
+     "_pos": [
+      16,
+      381
+     ],
+     "_flags": [
+      "en:short:s"
+     ]
+    },
+    {
+     "en": "chocolate milkshake",
+     "fr": "le m ilk-shake au chocolat",
+     "de": "der Schokoladenmilchshake",
+     "es": "la m alteada de chocolate",
+     "it": "il frappé al cioccolato",
+     "_pos": [
+      571,
+      479
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "- ces and milkshakes • les jus et m ilk-shakes • die Säfte und Milchshakes • los jugos y las malteadas • le spremute e i frappe",
+   "parts": [
+    "ce sand milkshakes",
+    "les jus et m ilk-shakes",
+    "die säfte und milchshakes",
+    "los jugos y las malteadas",
+    "le spremute e i frappe"
+   ],
+   "entries": [
+    {
+     "en": "strawberry milkshake",
+     "fr": "le m ilk-shake à la fraise",
+     "de": "der Erdbeermilchshake",
+     "es": "la malteada de fresa",
+     "it": "I frappé alle fragole",
+     "_pos": [
+      506,
+      594
+     ],
+     "_flags": [
+      "fr:short:m",
+      "it:case"
+     ]
+    },
+    {
+     "en": "coffee milkshake",
+     "fr": "le m ilk-shake au café",
+     "de": "der Kaffeemilchshake",
+     "es": "la m alteada de café",
+     "it": "il frappé al caffè",
+     "_pos": [
+      553,
+      711
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "tomato juice",
+     "fr": "le jus de tomate",
+     "de": "der Tomatensaft",
+     "es": "el jugo de tomate",
+     "it": "il succo di pomodoro",
+     "_pos": [
+      402,
+      712
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pineapple juice",
+     "fr": "le jus d'ananas",
+     "de": "der Ananassaft",
+     "es": "el jugo de pina",
+     "it": "il succo d'ananas",
+     "_pos": [
+      274,
+      712
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apple juice",
+     "fr": "le jus de pomme",
+     "de": "der Apfelsaft",
+     "es": "el jugo de manzana",
+     "it": "il succo di mela",
+     "_pos": [
+      144,
+      713
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clange juice",
+     "fr": "le rus d'orange",
+     "de": "der >3ogensaft",
+     "es": "el",
+     "it": "ago de naranja succo d'arancia",
+     "_pos": [
+      18,
+      714
+     ],
+     "_flags": [
+      "de:weird:>3ogensaft"
+     ]
+    },
+    {
+     "en": "food",
+     "fr": "la nourriture",
+     "_pos": [
+      20,
+      780
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "das Essen • la comida • il cibo",
+   "parts": [
+    "das essen",
+    "la comida",
+    "il cibo"
+   ],
+   "entries": [
+    {
+     "en": "scoop",
+     "fr": "la bou li",
+     "de": "die Kugel",
+     "es": "la boia",
+     "it": "la pallina",
+     "_pos": [
+      616,
+      826
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brown bread",
+     "fr": "le pain his",
+     "de": "das Graubrot",
+     "es": "el pan integral",
+     "it": "il pane integrale",
+     "_pos": [
+      198,
+      862
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pastry",
+     "fr": "la pâtisserie",
+     "de": "das Gebäck",
+     "es": "el pan dulce",
+     "it": "la pasta",
+     "_pos": [
+      688,
+      1043
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ice cream",
+     "fr": "la giace",
+     "de": "das Eis",
+     "es": "el helado",
+     "it": "il gelato",
+     "_pos": [
+      516,
+      1044
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salad",
+     "fr": "la salade",
+     "de": "der Salat",
+     "es": "la ensalada",
+     "it": "l'insalata",
+     "_pos": [
+      308,
+      1044
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toasted sandwich",
+     "fr": "le sandwich grillé",
+     "de": "der getoastete Sandwich",
+     "es": "el sandwich tostado",
+     "it": "il tramezzino tostato",
+     "_pos": [
+      20,
+      1045
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 22,
+  "complete_clean": 3,
+  "flagged": 19,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

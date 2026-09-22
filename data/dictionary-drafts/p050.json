@@ -1,0 +1,144 @@
+{
+ "page": 50,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H EA LTH • I A SANTÉ • DIE GESUNDHEIT • LA SALUD • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "alternative therapy • les thérapies alternatives • die Alternativtherapien • las terapias alternativas • le terapie alternative",
+   "parts": [
+    "alternative therapy",
+    "les thérapies alternatives",
+    "die alternativtherapien",
+    "las terapias alternativas",
+    "le terapie alternative"
+   ],
+   "entries": [
+    {
+     "en": "teacher",
+     "fr": "le maître",
+     "de": "der Lehrer",
+     "es": "el profesor",
+     "it": "l'allenatore",
+     "_pos": [
+      636,
+      170
+     ],
+     "_flags": []
+    },
+    {
+     "en": "massage",
+     "fr": "le massage",
+     "de": "die Massage",
+     "es": "el masaje",
+     "it": "il massaggio",
+     "_pos": [
+      700,
+      366
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shiatsu",
+     "fr": "le shiatsu",
+     "de": "das Shiatsu",
+     "es": "el shiatsu",
+     "it": "lo shiatsu",
+     "_pos": [
+      700,
+      644
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le tapis",
+     "de": "die Matte",
+     "es": "la colchoneta",
+     "it": "il tappetino",
+     "_pos": [
+      485,
+      825
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "chiropractic",
+     "fr": "la chiropractie",
+     "de": "die Chiropraktik",
+     "es": "la quiropráctica",
+     "it": "la chiropratica",
+     "_pos": [
+      62,
+      1035
+     ],
+     "_flags": []
+    },
+    {
+     "en": "osteopathy",
+     "fr": "l'ostéopathie",
+     "de": "die Osteopathie",
+     "es": "la osteopatia",
+     "it": "l'osteopatia",
+     "_pos": [
+      274,
+      1036
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reflexology",
+     "fr": "la rcflcxio lo g ic",
+     "de": "die Reflexzonenmassage",
+     "es": "la reflexoîogia",
+     "it": "la riflessologia",
+     "_pos": [
+      487,
+      1037
+     ],
+     "_flags": [
+      "fr:short:g"
+     ]
+    },
+    {
+     "en": "meditation",
+     "fr": "la méditation",
+     "de": "die Meditation",
+     "es": "la meditación",
+     "it": "la meditazione",
+     "_pos": [
+      700,
+      1038
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "yoga",
+   "pos": [
+    64,
+    805
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 8,
+  "complete_clean": 0,
+  "flagged": 8,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,590 @@
+{
+ "page": 240,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "teatro",
+   "names": {
+    "en": "theater",
+    "fr": "le théâtre",
+    "de": "das theater",
+    "es": "el teatro",
+    "it": "i teatro"
+   },
+   "entries": [
+    {
+     "en": "curtain",
+     "fr": "rideau",
+     "de": "Vorhang",
+     "es": "telón",
+     "it": "sipario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "wings",
+     "fr": "coulisses",
+     "de": "Kulisse",
+     "es": "bastidores",
+     "it": "quinte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 7,
+      "es": 10,
+      "it": 6
+     }
+    },
+    {
+     "en": "set",
+     "fr": "décor",
+     "de": "Bühnenbild",
+     "es": "escenografía",
+     "it": "I3 scenografia",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "audience",
+     "fr": "public",
+     "de": "Publikum",
+     "es": "público",
+     "it": "pubblico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "orchestra",
+     "fr": "orchestre",
+     "de": "Orchester",
+     "es": "orquesta",
+     "it": "orchestra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "seat",
+     "fr": "fauteuil",
+     "de": "Sitzplatz",
+     "es": "butaca",
+     "it": "poltrona",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "upper balcony",
+     "fr": "deuxième galerie",
+     "de": "zweite Rang",
+     "es": "platea alta",
+     "it": "seconda galleria",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 10,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "director",
+     "fr": "metteur en scène la première",
+     "de": "Regisseur",
+     "es": "director",
+     "it": "regista",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 24,
+      "de": 9,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "play",
+     "fr": "pièce de théâtre",
+     "de": "Theaterstück",
+     "es": "obra",
+     "it": "opera teatrale",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 14,
+      "de": 12,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "de": "Premiere",
+     "es": "estreno",
+     "it": "prima",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "de": 8,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "row",
+     "fr": "rangée",
+     "de": "Reihe",
+     "es": "tila",
+     "it": "fila",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "box",
+     "fr": "loge",
+     "de": "Loge",
+     "es": "palco",
+     "it": "palco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "producer",
+     "fr": "metteur en scène l'entracte",
+     "de": "Regisseur",
+     "es": "productor",
+     "it": "produttore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 23,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "cast",
+     "fr": "distribution",
+     "de": "Besetzung",
+     "es": "reparto",
+     "it": "cast",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 12,
+      "de": 9,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "de": "Pause",
+     "es": "entreacto",
+     "it": "intervallo",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "de": 5,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "mezzanine",
+     "fr": "corbeille",
+     "de": "erste Rang",
+     "es": "platea",
+     "it": "galleria",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "balcony",
+     "fr": "balcon",
+     "de": "Balkon",
+     "es": "galena",
+     "it": "balconata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "actor",
+     "fr": "acteur",
+     "de": "Schauspieler",
+     "es": "actor",
+     "it": "attore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 12,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "script",
+     "fr": "texte",
+     "de": "Rollenheft",
+     "es": "guión",
+     "it": "copione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "program",
+     "fr": "programme",
+     "de": "Programm",
+     "es": "programa",
+     "it": "programma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "orchestra",
+     "fr": "seats l'orchestre",
+     "de": "Parkett",
+     "es": "butacas",
+     "it": "generales le poltrone di platea",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "las"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 7,
+      "es": 7,
+      "it": 27
+     }
+    },
+    {
+     "en": "aisle",
+     "fr": "Tal lee",
+     "de": "Gang",
+     "es": "pasillo",
+     "it": "corridoio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "backdrop",
+     "fr": "toile de fond",
+     "de": "Prospekt",
+     "es": "telón de fondo",
+     "it": "fondale",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 8,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "actress",
+     "fr": "actrice",
+     "de": "Schauspielerin",
+     "es": "actriz",
+     "it": "attrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "orchestra pit",
+     "fr": "fosse d'orchestre",
+     "de": "Orchestergraben",
+     "es": "foso de la orquesta",
+     "it": "golfo mistico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 15,
+      "es": 16,
+      "it": 12
+     }
+    },
+    {
+     "en": "seating",
+     "fr": "places",
+     "de": "Bestuhlung",
+     "es": "butacas",
+     "it": "poltrone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

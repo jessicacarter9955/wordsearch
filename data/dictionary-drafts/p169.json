@@ -1,0 +1,308 @@
+{
+ "page": 169,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • I I T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "law • le droit • das Recht • el derecho • la legge",
+   "parts": [
+    "law",
+    "le droit",
+    "das recht",
+    "el derecho",
+    "la legge"
+   ],
+   "entries": [
+    {
+     "en": "bailiff",
+     "fr": "l'huissier de tribunal",
+     "de": "der Gerichtsdiener",
+     "es": "ei guardia",
+     "it": "la guardia",
+     "_pos": [
+      137,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "witness",
+     "fr": "le témoin",
+     "_pos": [
+      357,
+      133
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "it"
+      ],
+      [
+       "fr",
+       "it"
+      ],
+      [
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "judge",
+     "fr": "le juge",
+     "de": "der Richter",
+     "es": "el juez",
+     "it": "il giudice",
+     "_pos": [
+      488,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lawyer",
+     "fr": "l'avocat",
+     "de": "der Rechtsanwalt",
+     "es": "el abogado",
+     "it": "l'avvocato",
+     "_pos": [
+      67,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jury",
+     "fr": "le jury",
+     "de": "die Geschworenen",
+     "es": "el jurado",
+     "it": "la giuria",
+     "_pos": [
+      26,
+      382
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jury box",
+     "fr": "le banc des jurés",
+     "de": "die Geschworenenbank",
+     "es": "la tribuna del jurado",
+     "it": "il banco della giuria",
+     "_pos": [
+      26,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "courtroom",
+     "fr": "la salle de tribunal",
+     "de": "der Gerichtssaal",
+     "es": "la sala del tribunal",
+     "it": "l'aula del tribunale",
+     "_pos": [
+      26,
+      714
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prosecution",
+     "fr": "l'accusation!",
+     "de": "die Staatsanwaltschaft",
+     "es": "la acusación",
+     "it": "il pubblico ministero",
+     "_pos": [
+      392,
+      716
+     ],
+     "_flags": [
+      "fr:weird:l'accusation!"
+     ]
+    },
+    {
+     "en": "court officiai",
+     "fr": "le greffier",
+     "de": "der Protokollführer",
+     "es": "el auditor",
+     "it": "il cancelliere",
+     "_pos": [
+      616,
+      716
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lawyer's office",
+     "fr": "le cabinet",
+     "de": "das Anwaltsbüro",
+     "es": "el bufete",
+     "it": "lo studio dell'awoeato",
+     "_pos": [
+      40,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "summons",
+     "fr": "l'assignation",
+     "de": "die Vorladung",
+     "es": "la citación",
+     "it": "la citazione",
+     "_pos": [
+      250,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "w nt",
+     "fr": "l'acte judiciaire",
+     "de": "die Verfügung",
+     "es": "la orden judicial",
+     "it": "l'ordine",
+     "_pos": [
+      485,
+      799
+     ],
+     "_flags": [
+      "en:short:w"
+     ]
+    },
+    {
+     "en": "court case",
+     "fr": "la cause",
+     "de": "der Rechtsfall",
+     "es": "el juicio",
+     "it": "il procedimento",
+     "_pos": [
+      728,
+      800
+     ],
+     "_flags": []
+    },
+    {
+     "en": "legal advice",
+     "fr": "le conseil juridique",
+     "de": "die Rechtsberatung",
+     "es": "la asesoría luridica",
+     "it": "la consulenza legale",
+     "_pos": [
+      40,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "statement",
+     "fr": "la déposition",
+     "de": "die Aussage",
+     "es": "la declaración",
+     "it": "la dichiarazione",
+     "_pos": [
+      250,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "court date",
+     "fr": "la date du procès",
+     "de": "der Gerichtstermin",
+     "es": "la fecha del juicio",
+     "it": "la data di comparizione",
+     "_pos": [
+      485,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "charge",
+     "fr": "l'accusation",
+     "de": "die Anklage",
+     "es": "el cargo",
+     "it": "l'imputazione",
+     "_pos": [
+      728,
+      900
+     ],
+     "_flags": []
+    },
+    {
+     "en": "client",
+     "fr": "le client",
+     "de": "der Klient",
+     "es": "el cliente",
+     "it": "il cliente",
+     "_pos": [
+      40,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "warrant",
+     "fr": "le mandat",
+     "de": "der Haftbefehl",
+     "es": "la orden judicial",
+     "it": "il mandato",
+     "_pos": [
+      250,
+      998
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plea",
+     "fr": "le plaidoyer",
+     "de": "das Plädoyer",
+     "es": "cóm o se declara el acusado",
+     "it": "la petizione",
+     "_pos": [
+      484,
+      999
+     ],
+     "_flags": []
+    },
+    {
+     "en": "accused",
+     "fr": "l'accusé",
+     "de": "der Angeklagte",
+     "es": "el acusado",
+     "it": "l'accusato",
+     "_pos": [
+      728,
+      1000
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 14,
+  "flagged": 7,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

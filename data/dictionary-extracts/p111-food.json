@@ -1,0 +1,585 @@
+{
+ "page": 111,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "tagli",
+   "names": {
+    "en": "cuts",
+    "fr": "les morceaux de viande",
+    "de": "die fleischsorten",
+    "es": "los cortés",
+    "it": "i tagli"
+   },
+   "entries": [
+    {
+     "en": "ham",
+     "fr": "jambon",
+     "de": "Schinken",
+     "es": "jamón",
+     "it": "prosciutto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 10
+     }
+    },
+    {
+     "en": "rump steak",
+     "fr": "rumsteck",
+     "de": "Rumpsteak",
+     "es": "filete de cadera",
+     "it": "bistecca di culaccio",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 14,
+      "it": 18
+     }
+    },
+    {
+     "en": "fillet",
+     "fr": "filet",
+     "de": "Filet",
+     "es": "solomillo",
+     "it": "filetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "ground beef",
+     "fr": "viande hachée",
+     "de": "Hackfleisch",
+     "es": "carne molida",
+     "it": "carne macinata",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 11,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "rasher",
+     "fr": "tranche de lard",
+     "de": "Speckscheibe",
+     "es": "rebanada",
+     "it": "fettarind la couenne die Schwarte la corteza la cotenna",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 12,
+      "es": 8,
+      "it": 47
+     }
+    },
+    {
+     "en": "slice",
+     "fr": "tranche",
+     "de": "Scheibe",
+     "es": "rebanada",
+     "it": "fetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "kidney",
+     "fr": "rognon",
+     "de": "Niere",
+     "es": "riñón",
+     "it": "rognone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "fat",
+     "fr": "gras",
+     "de": "Fett",
+     "es": "grasa",
+     "it": "grasso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "de": "Knochen",
+     "es": "hueso",
+     "it": "osso",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "de": 7,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "heart",
+     "fr": "cœ ur",
+     "de": "Herz",
+     "es": "c! corazón",
+     "it": "cuore",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "joint",
+     "fr": "gigot",
+     "de": "Keule",
+     "es": "asado",
+     "it": "arrosto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "chop",
+     "fr": "côtelette",
+     "de": "Kotelett",
+     "es": "chuleta",
+     "it": "costoletta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "rib",
+     "fr": "côte de bœuf",
+     "de": "Rippenstück",
+     "es": "costilla",
+     "it": "costata",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 11,
+      "de": 11,
+      "es": 8,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": "pollo",
+   "names": {
+    "en": "poultry",
+    "fr": "la volaille",
+    "de": "das geflügel",
+    "es": "las avés",
+    "it": "il pollo"
+   },
+   "entries": [
+    {
+     "en": "game",
+     "fr": "gibier",
+     "de": "Wild",
+     "es": "carne de caza",
+     "it": "cacciagione",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "breast",
+     "fr": "blanc",
+     "de": "Brust",
+     "es": "pechuga",
+     "it": "petto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "skin",
+     "fr": "peau",
+     "de": "Haut",
+     "es": "piel",
+     "it": "pelle",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "leg",
+     "fr": "cuisse",
+     "de": "Bein",
+     "es": "pierna",
+     "it": "zampa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "dressed chicken",
+     "fr": "poulet prépare",
+     "de": "bratfertige Huhn",
+     "es": "pollo preparado",
+     "it": "pollo preparato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 13,
+      "de": 15,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "thigh",
+     "fr": "cuisse",
+     "de": "Schenkel",
+     "es": "muslo",
+     "it": "coscia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "quail",
+     "fr": "caille",
+     "de": "Wachtel",
+     "es": "codorniz",
+     "it": "quaglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "pheasant",
+     "fr": "faisan",
+     "de": "Fasan",
+     "es": "faisán",
+     "it": "fagiano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "wing",
+     "fr": "aile",
+     "de": "Flügel",
+     "es": "ala",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 6,
+      "es": 3
+     }
+    },
+    {
+     "en": "chicken",
+     "fr": "poulet",
+     "de": "Hähnchen",
+     "es": "pollo",
+     "it": "pollo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "duck",
+     "fr": "canard",
+     "de": "Ente",
+     "es": "pato",
+     "it": "anatra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "turkey",
+     "fr": "dinde",
+     "de": "Pute",
+     "es": "pavo",
+     "it": "tacchino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

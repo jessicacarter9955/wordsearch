@@ -1,0 +1,591 @@
+{
+ "page": 252,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "restrooms",
+     "fr": "toilettes",
+     "de": "Toiletten",
+     "es": "baños",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 5
+     }
+    },
+    {
+     "en": "waste disposal",
+     "fr": "poubelles",
+     "de": "Mülleimer",
+     "es": "contenedor de la basura",
+     "it": "rifuti",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 9,
+      "de": 9,
+      "es": 20,
+      "it": 6
+     }
+    },
+    {
+     "en": "showers",
+     "fr": "es douches",
+     "de": "Duschen",
+     "es": "regaderas",
+     "it": "docce",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "electric hook-up",
+     "fr": "branchement électrique",
+     "de": "Stromanschluss",
+     "es": "punto eléctrico",
+     "it": "presa di corrente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 21,
+      "de": 14,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "camper",
+     "fr": "caravane",
+     "de": "Wohnwagen",
+     "es": "roulotte",
+     "it": "roulotte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "rope",
+     "fr": "corde",
+     "de": "Zeltspannleine",
+     "es": "cuerda",
+     "it": "corda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 14,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "fr": "double toit",
+     "de": "Überdach",
+     "es": "toldo",
+     "it": "telo protettivo",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 10,
+      "de": 8,
+      "es": 5,
+      "it": 14
+     }
+    },
+    {
+     "fr": "piquet",
+     "de": "Hering",
+     "es": "estaca",
+     "it": "piolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "campsite",
+     "fr": "terrain de camping",
+     "de": "Campingplatz",
+     "es": "cam ping",
+     "it": "campeggio",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 16,
+      "de": 12,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "camp (v)",
+     "fr": "camper",
+     "de": "zelten",
+     "es": "acampar",
+     "it": "campeggiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "site",
+     "fr": "remplacement",
+     "de": "Zeltplatz",
+     "es": "lugar",
+     "it": "posteggio",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 12,
+      "de": 9,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "picnic bench",
+     "fr": "banc à pique-nique",
+     "de": "Picknickbank",
+     "es": "mesa de picnic",
+     "it": "tavola da picnic",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 12,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "charcoal",
+     "fr": "charbon de bois",
+     "de": "Holzkohle",
+     "es": "carbón vegetal",
+     "it": "carbonella",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 9,
+      "es": 13,
+      "it": 10
+     }
+    },
+    {
+     "en": "managers office",
+     "fr": "bureau du chef",
+     "de": "Campingplatzverwaltung",
+     "es": "oBcina del director",
+     "it": "ufficio del direttore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 22,
+      "es": 17,
+      "it": 19
+     }
+    },
+    {
+     "en": "pitch a tent (v)",
+     "fr": "monter une tente",
+     "de": "Zelt aufschlagen",
+     "es": "poner una tienda",
+     "it": "piantare una tenda",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "ein"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 15,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "hammock",
+     "fr": "hamac",
+     "de": "Hängematte",
+     "es": "hamaca",
+     "it": "amaca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "firelighter",
+     "fr": "allum e-feu",
+     "de": "Feueranzünder",
+     "es": "pastilla para fogatas",
+     "it": "esca per il fuoco",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 13,
+      "es": 19,
+      "it": 14
+     }
+    },
+    {
+     "en": "sites available",
+     "fr": "emplacements de libre",
+     "de": "Zeltplätze frei",
+     "es": "hay lugares libres",
+     "it": "piazzole disponibili",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 19,
+      "de": 14,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "tent pole",
+     "fr": "mât",
+     "de": "Zeltstange",
+     "es": "tubo de la tienda",
+     "it": "palo",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 3,
+      "de": 10,
+      "es": 14,
+      "it": 4
+     }
+    },
+    {
+     "en": "camper van",
+     "fr": "autocaravanc",
+     "de": "Wohnmobil",
+     "es": "cam per",
+     "it": "camper",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "light a Tire (v)",
+     "fr": "allumer un feu",
+     "de": "Feuer machen",
+     "es": "encender una fogata",
+     "it": "accendere un fuoco",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "ein"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 11,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "full",
+     "fr": "complet",
+     "de": "voll",
+     "es": "lleno",
+     "it": "completo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 4,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "cot",
+     "fr": "lit de camp",
+     "de": "Faltbett",
+     "es": "catre de campaña",
+     "it": "lettino da campeggio",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 8,
+      "es": 14,
+      "it": 18
+     }
+    },
+    {
+     "en": "trailer",
+     "fr": "remorque",
+     "de": "Anhänger",
+     "es": "remolque",
+     "it": "rimorchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "campfire",
+     "fr": "feu de camp",
+     "de": "Lagerfeuer",
+     "es": "fogata",
+     "it": "fuoco",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 10,
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

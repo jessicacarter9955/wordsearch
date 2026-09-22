@@ -1,0 +1,465 @@
+{
+ "page": 53,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "house • la maison • das Haus • la casa • la casa",
+   "parts": [
+    "house",
+    "la maison",
+    "das haus",
+    "la casa",
+    "la casa"
+   ],
+   "entries": [
+    {
+     "en": "roof",
+     "fr": "le toir",
+     "de": "das Dach",
+     "es": "el tejado",
+     "it": "il tetto",
+     "_pos": [
+      339,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chimney",
+     "fr": "la cheminée",
+     "de": "der Schornstein",
+     "es": "la chimenea",
+     "it": "I camino",
+     "_pos": [
+      522,
+      130
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "dormer window",
+     "fr": "le chien assis",
+     "de": "das Mansardenfenster",
+     "es": "la ventana de la buhardilla",
+     "it": "l'abbaino",
+     "_pos": [
+      686,
+      131
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gutter",
+     "fr": "la go urti è re",
+     "de": "die Dachrinne",
+     "es": "el canalón",
+     "it": "la grondai«!",
+     "_pos": [
+      239,
+      160
+     ],
+     "_flags": [
+      "fr:short:è",
+      "it:weird:grondai«!"
+     ]
+    },
+    {
+     "en": "tile",
+     "fr": "la tuile",
+     "de": "der Dachziegel",
+     "es": "la teja",
+     "_pos": [
+      792,
+      221
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "wall",
+     "fr": "le mur",
+     "de": "die Mauer",
+     "es": "la pared",
+     "it": "il muro",
+     "_pos": [
+      51,
+      255
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eaves",
+     "fr": "l'avant-toit",
+     "de": "der Dachvorsprung",
+     "es": "el «alero",
+     "it": "la nmnHa",
+     "_pos": [
+      178,
+      257
+     ],
+     "_flags": [
+      "es:weird:«alero"
+     ]
+    },
+    {
+     "en": "shutter",
+     "fr": "le voler",
+     "de": "der Fensterladen",
+     "es": "el postigo",
+     "it": "la persiana",
+     "_pos": [
+      765,
+      360
+     ],
+     "_flags": []
+    },
+    {
+     "de": "das Vordach",
+     "es": "el porche",
+     "it": "il portico",
+     "_pos": [
+      802,
+      524
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "window",
+     "fr": "la fenêtre",
+     "de": "das Fenster",
+     "es": "la ventana",
+     "it": "la finestra",
+     "_pos": [
+      49,
+      664
+     ],
+     "_flags": []
+    },
+    {
+     "en": "front door",
+     "fr": "la porre d 'entree",
+     "de": "die Haustür",
+     "es": "la puerta principal",
+     "it": "il portone",
+     "_pos": [
+      558,
+      669
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "l'agrandissement",
+     "de": "der Anbau",
+     "es": "la ampliación",
+     "it": "l'annesso",
+     "_pos": [
+      250,
+      684
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "de": "der Weg",
+     "es": "el camino",
+     "it": "il viottolo",
+     "_pos": [
+      466,
+      701
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "basement",
+     "fr": "le sous-sol",
+     "de": "das Kellergeschoss",
+     "es": "el sótano",
+     "it": "il seminterrato",
+     "_pos": [
+      63,
+      780
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "basement •",
+       "fr": "le sous-sol",
+       "de": "das Kellergeschoss",
+       "es": "el sótano",
+       "it": "il seminterrato"
+      }
+     ]
+    },
+    {
+     "en": "row house",
+     "fr": "attenante",
+     "de": "Reihenhaus",
+     "es": "condominio horizontal",
+     "it": "a schiera",
+     "_pos": [
+      208,
+      781
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garage",
+     "fr": "le garage",
+     "de": "die Garage",
+     "es": "la cochera",
+     "it": "il garage",
+     "_pos": [
+      372,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "floor",
+     "fr": "l'étage",
+     "de": "das Stockwerk",
+     "es": "el piso",
+     "it": "il piano",
+     "_pos": [
+      485,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "burglar alarm",
+     "fr": "l'alarme",
+     "de": "die Alarmanlaqe",
+     "es": "la alarm a antirrobo",
+     "it": "l'allarme antifurto",
+     "_pos": [
+      621,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rent (v)",
+     "fr": "louer",
+     "de": "mieten",
+     "es": "rentar",
+     "it": "affittare",
+     "_pos": [
+      778,
+      785
+     ],
+     "_flags": []
+    },
+    {
+     "en": "single-family",
+     "fr": "individuelle",
+     "de": "Einzelhaus",
+     "es": "solo",
+     "it": "unifamiliare",
+     "_pos": [
+      62,
+      878
+     ],
+     "_flags": []
+    },
+    {
+     "en": "townhouse",
+     "fr": "la maison de deux étages",
+     "de": "das dreistöckige Haus",
+     "es": "la casa de la ciudad",
+     "it": "la casa di città",
+     "_pos": [
+      208,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "attic",
+     "fr": "le grenier",
+     "de": "der Dachboden",
+     "es": "el ático",
+     "it": "l'attico",
+     "_pos": [
+      371,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "courtyard",
+     "fr": "la cour",
+     "de": "der Hof",
+     "es": "el patio",
+     "it": "l cortile",
+     "_pos": [
+      485,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mailbox",
+     "fr": "la boite aux lettres",
+     "de": "der Briefkasten",
+     "es": "el buzón",
+     "it": "la cassetta per le lettere",
+     "_pos": [
+      620,
+      883
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rent",
+     "fr": "le lover",
+     "de": "die Miete",
+     "es": "la renta",
+     "it": "l'affitto",
+     "_pos": [
+      777,
+      884
+     ],
+     "_flags": []
+    },
+    {
+     "en": "duplex",
+     "fr": "mitoyenne",
+     "de": "Doppelhaus",
+     "es": "duplex",
+     "it": "bitamiliare",
+     "_pos": [
+      62,
+      976
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bungalow",
+     "fr": "la pavillon",
+     "de": "der Bungalow",
+     "es": "la vivienda de una pianta",
+     "it": "il villino",
+     "_pos": [
+      208,
+      978
+     ],
+     "_flags": []
+    },
+    {
+     "en": "room",
+     "fr": "la chambre",
+     "de": "das Zimmer",
+     "es": "el cuarto",
+     "it": "la stanza",
+     "_pos": [
+      370,
+      979
+     ],
+     "_flags": []
+    },
+    {
+     "en": "porch light",
+     "fr": "la lampe d'entrée",
+     "de": "die Haustürlampe",
+     "es": "la luz del porche",
+     "it": "la luce del portico",
+     "_pos": [
+      484,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "landlord",
+     "fr": "le propriétaire",
+     "de": "der Vermieter",
+     "es": "el propietario",
+     "it": "il padrone di casa",
+     "_pos": [
+      620,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tenant",
+     "fr": "le locataire",
+     "de": "der Mieter",
+     "es": "el inquilino",
+     "it": "l'inquilino",
+     "_pos": [
+      776,
+      981
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "la tegola",
+   "pos": [
+    764,
+    286
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "che",
+   "pos": [
+    839,
+    508
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "§",
+   "pos": [
+    125,
+    788
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 31,
+  "complete_clean": 17,
+  "flagged": 14,
+  "missing_lang": 4,
+  "leftovers": 3,
+  "subcats": 1
+ }
+}

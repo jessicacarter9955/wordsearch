@@ -1,0 +1,261 @@
+{
+ "page": 22,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "relationships • les relations • die Beziehungen • las relaciones • i rapporti",
+   "parts": [
+    "relationships",
+    "les relations",
+    "die beziehungen",
+    "las relaciones",
+    "i rapporti"
+   ],
+   "entries": [
+    {
+     "en": "manager",
+     "fr": "le chef",
+     "de": "der Chef",
+     "es": "el jefe",
+     "it": "il capo",
+     "_pos": [
+      46,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "assistant",
+     "fr": "l'assistante",
+     "de": "die Assistentin",
+     "es": "la asistente",
+     "_pos": [
+      180,
+      151
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "business partner",
+     "fr": "l'associ cc",
+     "de": "die Geschäftspartner",
+     "es": "la socia",
+     "it": "il partner di",
+     "_pos": [
+      282,
+      153
+     ],
+     "_flags": []
+    },
+    {
+     "en": "employer",
+     "fr": "l'employeuse",
+     "de": "die Arbeitgeberin",
+     "es": "la empresario",
+     "_pos": [
+      450,
+      155
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "employee",
+     "fr": "l'employé",
+     "de": "der Arbeitnehmer",
+     "es": "el empleado",
+     "_pos": [
+      592,
+      156
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "colleague",
+     "fr": "le collègue",
+     "de": "der Kollege",
+     "es": "el com pañero",
+     "it": "il collega",
+     "_pos": [
+      778,
+      159
+     ],
+     "_flags": []
+    },
+    {
+     "en": "office",
+     "fr": "le bureau",
+     "de": "das Büro",
+     "es": "la oficina",
+     "it": "l'ufficio",
+     "_pos": [
+      212,
+      635
+     ],
+     "_flags": []
+    },
+    {
+     "en": "neighbor",
+     "fr": "le voisin",
+     "de": "der Nachbar",
+     "es": "el vecino",
+     "it": "il vicino",
+     "_pos": [
+      40,
+      845
+     ],
+     "_flags": []
+    },
+    {
+     "en": "friend",
+     "fr": "l'ami",
+     "de": "der Freund",
+     "es": "el amigo",
+     "it": "l'amico",
+     "_pos": [
+      252,
+      848
+     ],
+     "_flags": []
+    },
+    {
+     "en": "acquaintance",
+     "fr": "la connaissance",
+     "de": "der Bekannte",
+     "es": "el conocido",
+     "it": "il conoscente",
+     "_pos": [
+      452,
+      851
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pen pal",
+     "fr": "le correspondant",
+     "de": "der Brieffreund",
+     "es": "el amigo por correspondencia",
+     "it": "l'amico di penna",
+     "_pos": [
+      675,
+      853
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boyfriend",
+     "fr": "le périr ami",
+     "de": "der Freund",
+     "es": "el novio",
+     "it": "il ragazzo",
+     "_pos": [
+      38,
+      918
+     ],
+     "_flags": []
+    },
+    {
+     "en": "girlfriend",
+     "fr": "la petite amie",
+     "de": "die Freundin",
+     "es": "la novia",
+     "it": "la ragazza",
+     "_pos": [
+      334,
+      922
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fiancé",
+     "fr": "le fiancé",
+     "de": "der Verlobte",
+     "es": "el prometido",
+     "it": "il fidanzato",
+     "_pos": [
+      471,
+      924
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fiancée",
+     "fr": "la fiancée",
+     "de": "die Verlobte",
+     "es": "la prometida",
+     "it": "la fidanzata",
+     "_pos": [
+      775,
+      943
+     ],
+     "_flags": []
+    },
+    {
+     "en": "couple",
+     "fr": "le couple",
+     "de": "das Paar",
+     "es": "la pareja",
+     "it": "la coppia",
+     "_pos": [
+      38,
+      1067
+     ],
+     "_flags": []
+    },
+    {
+     "en": "engaged couple",
+     "fr": "les fiancés",
+     "de": "die Verlobten",
+     "es": "la pareja",
+     "it": "i fidanzati",
+     "_pos": [
+      477,
+      1073
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 6,
+  "flagged": 11,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

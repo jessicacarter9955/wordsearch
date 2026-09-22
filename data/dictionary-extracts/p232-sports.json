@@ -1,0 +1,478 @@
+{
+ "page": 232,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "freshwater fishing",
+     "fr": "pêche en eau douce",
+     "de": "Süßwasserangeln",
+     "es": "pesca en agua dulce",
+     "it": "pesca in acqua dolce",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 15,
+      "de": 16,
+      "es": 16,
+      "it": 17
+     }
+    },
+    {
+     "en": "fly fishing",
+     "fr": "pêche à la mouche",
+     "de": "Fliegenangeln",
+     "es": "pesca con mosca",
+     "it": "pesca con la mosca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 13,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "deep sea fishing",
+     "fr": "pêche hauturière",
+     "de": "Hochseefischerei",
+     "es": "pesca de altura",
+     "it": "pesca I alto mare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 15,
+      "de": 16,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "sport fishing",
+     "fr": "pêche sportive",
+     "de": "Sportangeln",
+     "es": "pesca deportiva",
+     "it": "pesca sportiva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 11,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "surfeastmg",
+     "fr": "pêche au lancer en mer",
+     "de": "Brandungsangeln",
+     "es": "pesca en la o n lla",
+     "it": "pesca dalla riva",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 15,
+      "es": 14,
+      "it": 14
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "catch (v)",
+     "fr": "attraper",
+     "de": "fangen",
+     "es": "atrapar",
+     "it": "prendere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "reel in (v)",
+     "fr": "ramener",
+     "de": "einholen",
+     "es": "recoger",
+     "it": "tirare con il mulinello",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 20
+     }
+    },
+    {
+     "en": "net (v)",
+     "fr": "prendre au filet",
+     "de": "mit dem Netz fangen",
+     "es": "atrapar con la red",
+     "it": "pescare con la rete",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 14,
+      "de": 16,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "release (v)",
+     "fr": "lâcher",
+     "de": "loslassen",
+     "es": "soltar",
+     "it": "rilasciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "cast (v)",
+     "fr": "lancer",
+     "de": "auswerfen",
+     "es": "lanzar",
+     "it": "lanciare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "creel",
+     "fr": "panier de pêche",
+     "de": "Fischkorb",
+     "es": "nasa",
+     "it": "nassa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 13,
+      "de": 9,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "rain clothes",
+     "fr": "imperméable",
+     "de": "Regenhaut",
+     "es": "ropa impermeable",
+     "it": "impermeabile",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 9,
+      "es": 15,
+      "it": 12
+     }
+    },
+    {
+     "en": "tackle",
+     "fr": "matériel de pêche",
+     "de": "Angelgeräte",
+     "es": "aparejos",
+     "it": "1‘attrezzatura",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 15,
+      "de": 11,
+      "es": 8,
+      "it": 13
+     }
+    },
+    {
+     "en": "fishing license",
+     "fr": "permis de pêche",
+     "de": "Angelschein",
+     "es": "licencia de pesca",
+     "it": "licenza di pesca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 13,
+      "de": 11,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "bait (v)",
+     "fr": "amorcer",
+     "de": "ködern",
+     "es": "cebar",
+     "it": "fornire di esca",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 13
+     }
+    },
+    {
+     "en": "spearfishing",
+     "fr": "poche sous-marine",
+     "de": "Speerfischen",
+     "es": "pesca con arpón",
+     "it": "pesca con la fiocina",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 12,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "spool",
+     "fr": "tambour",
+     "de": "Rolle",
+     "es": "carrete",
+     "it": "bobina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "pole",
+     "fr": "perche",
+     "de": "Stake",
+     "es": "pértiga",
+     "it": "paio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "marine fishing",
+     "fr": "pêche maritime",
+     "de": "Seefischerei",
+     "es": "pesca en alta mar",
+     "it": "pesca in mare",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 12,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "bite (v)",
+     "fr": "mordre",
+     "de": "anbeißen",
+     "es": "picar",
+     "it": "abboccare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

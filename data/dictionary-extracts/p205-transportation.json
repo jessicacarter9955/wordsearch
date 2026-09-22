@@ -1,0 +1,421 @@
+{
+ "page": 205,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "moonng",
+     "fr": "amarres",
+     "de": "Verankerung",
+     "es": "punto de amarre",
+     "it": "ormeggio",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 13,
+      "it": 8
+     }
+    },
+    {
+     "en": "fishing boat",
+     "fr": "bateau de pêche",
+     "de": "Fischerboot",
+     "es": "barco pesquero",
+     "it": "barca da pesca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "manna",
+     "fr": "marina",
+     "de": "Marina",
+     "es": "puerto deportivo",
+     "it": "porto turistico",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 15,
+      "it": 14
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "harbor",
+     "fr": "port",
+     "de": "Hafen",
+     "es": "puerto",
+     "it": "porto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "shipyard",
+     "fr": "chantier naval",
+     "de": "Werft",
+     "es": "astillero",
+     "it": "cantiere navale",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 13,
+      "de": 5,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "jetty",
+     "fr": "jetée",
+     "de": "Landungssteg",
+     "es": "espigón",
+     "it": "molo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 12,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "lantern",
+     "fr": "feu",
+     "de": "Laterne",
+     "es": "lámpara",
+     "it": "luce",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 3,
+      "de": 7,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "board (v)",
+     "fr": "embarquer",
+     "de": "an Bord gehen",
+     "es": "embarcar",
+     "it": "imbarcare",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 11,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "dry dock",
+     "fr": "cale sèche",
+     "de": "Trockendock",
+     "es": "dique seco",
+     "it": "bacino di carenaggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 18
+     }
+    },
+    {
+     "en": "coast guard",
+     "fr": "garde-côte",
+     "de": "Küstenwache",
+     "es": "guardacostas",
+     "it": "guardacoste",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 11,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "disembark (v)",
+     "fr": "débarquer",
+     "de": "von Bord gehen",
+     "es": "desembarcar",
+     "it": "sbarcare",
+     "_multi": [
+      "en",
+      "de"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 12,
+      "es": 11,
+      "it": 8
+     }
+    },
+    {
+     "en": "m oor (v)",
+     "fr": "mouiller",
+     "de": "festmachen",
+     "es": "amarrar",
+     "it": "ormeggiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 10,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "harbormaster",
+     "fr": "capitaine de port",
+     "de": "Hafenmeister",
+     "es": "capitán del puerto",
+     "it": "capitano di porto",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 12,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "set sail (v)",
+     "fr": "prendre la mer",
+     "de": "auslaufen",
+     "es": "zarpar",
+     "it": "salpare",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "dock (v)",
+     "fr": "se m ettre «à quai",
+     "de": "anlegen",
+     "es": "atracar",
+     "it": "entrare in bacino",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 13,
+      "de": 7,
+      "es": 7,
+      "it": 15
+     }
+    },
+    {
+     "en": "drop anchor (v)",
+     "fr": "jeter Tañere",
+     "de": "Anker werfen",
+     "es": "anclar",
+     "it": "mollare l'ancora",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 6,
+      "it": 14
+     }
+    },
+    {
+     "en": "buoy",
+     "fr": "bouée",
+     "de": "Boje",
+     "es": "boya",
+     "it": "labo a",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "ghthouse",
+     "fr": "phare",
+     "de": "Leuchtturm",
+     "es": "faro",
+     "it": "faro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 10,
+      "es": 4,
+      "it": 4
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

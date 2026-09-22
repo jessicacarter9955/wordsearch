@@ -1,0 +1,289 @@
+{
+ "page": 124,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • I . A NOURRITURE • DIE NAHRUNGSMITTEL • LOS AUMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "herbs and spices • les herbes et les épices • die Kräuter und Gewürze • las hierbas y las especias • le erbe aromatiche e le spezie",
+   "parts": [
+    "herbs and spices",
+    "les herbes et les épices",
+    "die kräuter und gewürze",
+    "las hierbas y las especias",
+    "le erbe aromatiche e le spezie"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "spices • les épices • die Gewürze • las especias • le spezie",
+   "parts": [
+    "spices",
+    "les épices",
+    "die gewürze",
+    "las especias",
+    "le spezie"
+   ],
+   "entries": [
+    {
+     "en": "vanilla",
+     "fr": "la vanille",
+     "de": "die Vanille",
+     "es": "la vainilla",
+     "it": "la vaniglia",
+     "_pos": [
+      58,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nutmeg",
+     "fr": "la noix de muscade",
+     "de": "die Muskatnuss",
+     "es": "la nuez moscada",
+     "it": "la noce moscata",
+     "_pos": [
+      228,
+      260
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mace",
+     "fr": "le macis",
+     "de": "die Muskatblüte",
+     "es": "la macis",
+     "it": "I macis",
+     "_pos": [
+      400,
+      261
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "turmeric",
+     "fr": "le curcuma",
+     "de": "die Kurkuma",
+     "es": "la cùrcum a",
+     "it": "la curcuma",
+     "_pos": [
+      570,
+      261
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cumin",
+     "fr": "le cumin",
+     "de": "der Kreuzkummel",
+     "es": "el comino",
+     "it": "il cumino",
+     "_pos": [
+      740,
+      261
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "K J",
+   "parts": [
+    "k j"
+   ],
+   "entries": [
+    {
+     "en": "bouquet gami",
+     "fr": "le bouquet gam i",
+     "de": "die Kräutermischung",
+     "es": "el ramillete aromático",
+     "it": "il mazzetto odoroso",
+     "_pos": [
+      59,
+      424
+     ],
+     "_flags": []
+    },
+    {
+     "en": "allspice",
+     "fr": "le poivre de la Jamaïque",
+     "de": "der Piment",
+     "es": "la pimienta de Jamaica",
+     "it": "il pepe della Giamaica",
+     "_pos": [
+      228,
+      425
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peppercorn",
+     "fr": "le grain de poivre",
+     "de": "das Pfeffer korn",
+     "es": "la pimienta en grano",
+     "it": "il grano di pepe",
+     "_pos": [
+      400,
+      425
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fenugreek",
+     "fr": "le fenugrec",
+     "de": "der Bockshomklee",
+     "es": "el heno gnego",
+     "it": "il fieno greco",
+     "_pos": [
+      570,
+      425
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chili",
+     "fr": "le piment",
+     "de": "der Chili",
+     "es": "el chile piquín",
+     "it": "il peperoncino rosso",
+     "_pos": [
+      742,
+      426
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whole",
+     "fr": "en morceaux",
+     "de": "ganz",
+     "es": "entero",
+     "it": "intero",
+     "_pos": [
+      58,
+      539
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crushed",
+     "fr": "écrasé",
+     "de": "zerstoßen",
+     "es": "machacado",
+     "it": "tritato",
+     "_pos": [
+      228,
+      540
+     ],
+     "_flags": []
+    },
+    {
+     "en": "saffron",
+     "fr": "le safran",
+     "de": "der Safran",
+     "es": "el azafrán",
+     "it": "lo zafferano",
+     "_pos": [
+      400,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cardamom",
+     "fr": "la cardam om e",
+     "de": "der Kardamom",
+     "es": "el carda mono",
+     "it": "I cardamomo",
+     "_pos": [
+      571,
+      590
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "curry powder",
+     "fr": "la poudre de curry",
+     "de": "das Currypulver",
+     "es": "el curry en polvo",
+     "it": "la polvere di curry",
+     "_pos": [
+      740,
+      590
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ground",
+     "fr": "en poudre",
+     "de": "gemahlen",
+     "es": "molido",
+     "it": "macinato",
+     "_pos": [
+      630,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "paprika",
+     "fr": "le paprika",
+     "de": "der Paprika",
+     "es": "el pimentón",
+     "it": "la paprica",
+     "_pos": [
+      742,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flakes",
+     "fr": "en flocons",
+     "de": "geraspelt",
+     "es": "a hojuelas",
+     "it": "a scaglie",
+     "_pos": [
+      630,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garlic",
+     "fr": "Tail",
+     "de": "der Knoblauch",
+     "es": "el ajo",
+     "it": "l'aglio",
+     "_pos": [
+      742,
+      1017
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 3,
+  "flagged": 16,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

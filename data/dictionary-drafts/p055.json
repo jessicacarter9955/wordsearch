@@ -1,0 +1,406 @@
+{
+ "page": 55,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "internal systems • les systèmes domestiques • die Hausanschlüsse • las instalaciones internas • i sistemi interni",
+   "parts": [
+    "internal systems",
+    "les systèmes domestiques",
+    "die hausanschlüsse",
+    "las instalaciones internas",
+    "i sistemi interni"
+   ],
+   "entries": [
+    {
+     "en": "blade",
+     "fr": "Laite",
+     "de": "der Flügel",
+     "es": "el aspa",
+     "it": "la pala",
+     "_pos": [
+      538,
+      138
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "Ventilator",
+     "es": "el ventilador",
+     "it": "il ventilatore",
+     "_pos": [
+      694,
+      296
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "en:case"
+     ]
+    },
+    {
+     "en": "portable heater",
+     "fr": "le convcctcur",
+     "de": "der Heizlüfter",
+     "es": "el calentador de convección",
+     "it": "la stufa a convezione",
+     "_pos": [
+      698,
+      429
+     ],
+     "_flags": []
+    },
+    {
+     "en": "space heater",
+     "fr": "l'appareil de chauffage",
+     "de": "der Heizofen",
+     "es": "el calentador",
+     "it": "la stufa",
+     "_pos": [
+      483,
+      446
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      60,
+      461
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "radiator",
+      "le radiateur",
+      "der Heizkörper",
+      "el radiador",
+      "il calorifero electricity",
+      "l'é le ctricité",
+      "die Elektrizität",
+      "la e le ctricid a d",
+      "l'elettricità"
+     ]
+    },
+    {
+     "en": "hot",
+     "fr": "sous tension",
+     "de": "geladen",
+     "es": "con",
+     "_pos": [
+      745,
+      518
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "filament",
+     "fr": "le filament",
+     "de": "der Glühfaden",
+     "es": "filamento",
+     "it": "il filamento",
+     "_pos": [
+      168,
+      546
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ground",
+     "fr": "la mise à la terre",
+     "de": "die Erdung",
+     "es": "la toma de tierra",
+     "it": "la messa a terra",
+     "_pos": [
+      270,
+      546
+     ],
+     "_flags": []
+    },
+    {
+     "en": "prong",
+     "fr": "la broche",
+     "de": "der Pol",
+     "es": "la clavija",
+     "it": "il piedino",
+     "_pos": [
+      537,
+      632
+     ],
+     "_flags": []
+    },
+    {
+     "en": "neutral",
+     "fr": "neutre",
+     "de": "neutral",
+     "es": "neutro",
+     "it": "neutro",
+     "_pos": [
+      765,
+      645
+     ],
+     "_flags": []
+    },
+    {
+     "en": "threads",
+     "fr": "le culot",
+     "de": "die Fassung",
+     "es": "el portalám paras",
+     "it": "l'attacco",
+     "_pos": [
+      168,
+      651
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wires",
+     "fr": "les fils",
+     "de": "die Leitung",
+     "es": "los cables",
+     "it": "i fili",
+     "_pos": [
+      696,
+      724
+     ],
+     "_flags": []
+    },
+    {
+     "en": "light bulb",
+     "fr": "l'ampoule",
+     "de": "die Birne",
+     "es": "el foco",
+     "it": "la lampadina",
+     "_pos": [
+      60,
+      725
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plug",
+     "fr": "la prise",
+     "de": "der Stecker",
+     "es": "el enchufe",
+     "it": "la spina",
+     "_pos": [
+      382,
+      725
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fuse",
+     "fr": "le fusible",
+     "de": "die Sicherung",
+     "es": "el fusible",
+     "it": "l fusibile",
+     "_pos": [
+      232,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "socket",
+     "fr": "la prise de courant",
+     "de": "die Steckdose",
+     "es": "el enchufe",
+     "it": "la presa",
+     "_pos": [
+      386,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "direct current",
+     "fr": "le courant contim i",
+     "de": "der Gleichstrom",
+     "es": "la corriente continua",
+     "it": "la corrente continua",
+     "_pos": [
+      551,
+      789
+     ],
+     "_flags": []
+    },
+    {
+     "en": "voltage",
+     "fr": "la tension",
+     "de": "die Spannung",
+     "es": "el voltaje",
+     "it": "la tensione",
+     "_pos": [
+      76,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "transformer",
+     "fr": "le transformateur",
+     "de": "der Transformator",
+     "es": "el transformador",
+     "it": "il trasformatore",
+     "_pos": [
+      728,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fuse box",
+     "fr": "la boîte à fusibles",
+     "de": "der Sicherungskasten",
+     "es": "la caja de los fusibles",
+     "it": "la vafvoliera",
+     "_pos": [
+      232,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "amp",
+     "fr": "l'ampère",
+     "de": "das Ampère",
+     "es": "el amperio",
+     "it": "l'ampere",
+     "_pos": [
+      76,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "switch",
+     "fr": "l'interrupteur",
+     "de": "der Schalter",
+     "es": "el interruptor",
+     "it": "l'interruttore",
+     "_pos": [
+      387,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electric meter",
+     "fr": "le com pteur d électricité",
+     "de": "der Stromzähler",
+     "es": "el contador de la luz",
+     "it": "il contatore di corrente",
+     "_pos": [
+      552,
+      888
+     ],
+     "_flags": []
+    },
+    {
+     "en": "household current",
+     "fr": "le réseau d'électricité",
+     "de": "das Stromnetz",
+     "es": "el suministro de",
+     "it": "electricidad l'alimentazione di rete",
+     "_pos": [
+      728,
+      889
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "household current",
+       "fr": "le réseau d'électricité",
+       "de": "das Stromnetz",
+       "es": "el sum inistro de electricidad",
+       "it": "l'alimentazione di rete"
+      }
+     ]
+    },
+    {
+     "en": "generator",
+     "fr": "la génératrice",
+     "de": "der Generator",
+     "es": "el generador",
+     "it": "il generatore",
+     "_pos": [
+      232,
+      984
+     ],
+     "_flags": []
+    },
+    {
+     "en": "power",
+     "fr": "le courant",
+     "de": "der Strom",
+     "es": "la comiente eléctrica",
+     "it": "l'elettricità",
+     "_pos": [
+      76,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "alternating current",
+     "fr": "le courant alternatif",
+     "de": "der Wechselstrom",
+     "es": "la co ni ente alterna",
+     "it": "la corrente alternata",
+     "_pos": [
+      388,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "power outage",
+     "fr": "la coupure de courant",
+     "de": "der Stromausfall",
+     "es": "el corte de luz",
+     "it": "l'interruzione di corrente",
+     "_pos": [
+      552,
+      986
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "m É illW P il",
+   "pos": [
+    256,
+    406
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 11,
+  "flagged": 17,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

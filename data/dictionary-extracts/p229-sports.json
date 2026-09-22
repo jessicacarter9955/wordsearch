@@ -1,0 +1,488 @@
+{
+ "page": 229,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "nding cap",
+     "fr": "bombe",
+     "de": "Reithelm",
+     "es": "gorra de montar",
+     "it": "cappello da equitazione",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 8,
+      "es": 13,
+      "it": 21
+     }
+    },
+    {
+     "en": "mane",
+     "fr": "crinière",
+     "de": "Mähne",
+     "es": "crin",
+     "it": "criniera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 5,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "rider",
+     "fr": "cavalier",
+     "de": "Reiter",
+     "es": "jinete",
+     "it": "fantino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "reins",
+     "fr": "rênes",
+     "de": "Zügel",
+     "es": "riendas",
+     "it": "redini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "saddle",
+     "fr": "selle",
+     "de": "Sattel",
+     "es": "siila de montar",
+     "it": "sella",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 13,
+      "it": 5
+     }
+    },
+    {
+     "en": "horse",
+     "fr": "cheval",
+     "de": "Pferd",
+     "es": "caballo",
+     "it": "cavallo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "jodhpurs",
+     "fr": "jodhpur",
+     "de": "Reithose",
+     "es": "pantalón de montar",
+     "it": "pantaloni da equitazione",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 16,
+      "it": 22
+     }
+    },
+    {
+     "en": "tail",
+     "fr": "queue",
+     "de": "Schweif",
+     "es": "cola",
+     "it": "coda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "cinch",
+     "fr": "sangle",
+     "de": "Sattelgurt",
+     "es": "cincha",
+     "it": "cinghia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 10,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "riding boot -- '",
+     "fr": "botte",
+     "de": "Reitstiefel",
+     "es": "bota de montar",
+     "it": "stivale da equitazione",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 11,
+      "es": 12,
+      "it": 20
+     }
+    },
+    {
+     "en": "stirrup",
+     "fr": "étrier",
+     "de": "Steigbügel",
+     "es": "estribo",
+     "it": "staffa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "hoof",
+     "fr": "sabor",
+     "de": "Huf",
+     "es": "casco",
+     "it": "zoccolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 3,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "pommel",
+     "fr": "pommeau",
+     "de": "Vorderzwiesel",
+     "es": "borrén",
+     "it": "nomo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 13,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "browband",
+     "fr": "fron rail",
+     "de": "Stirnriemen",
+     "es": "frontalera",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 10
+     }
+    },
+    {
+     "en": "noseband",
+     "fr": "m userolle",
+     "de": "Nasenriemen",
+     "es": "muserola",
+     "it": "cinghia nasale",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 8,
+      "it": 13
+     }
+    },
+    {
+     "en": "bu",
+     "fr": "mors",
+     "de": "Kandare",
+     "es": "freno",
+     "it": "morso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 2,
+      "fr": 4,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "seat",
+     "fr": "siège",
+     "de": "Sitz",
+     "es": "silla",
+     "it": "sedile",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "bndle",
+     "fr": "bride",
+     "de": "Zaumzeug",
+     "es": "brida",
+     "it": "briglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "horseshoe",
+     "fr": "ter à cheval",
+     "de": "Hufeisen",
+     "es": "herradura",
+     "it": "ferro da cavallo",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 8,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "sidesaddle",
+     "fr": "selle de femme",
+     "de": "Damensattel",
+     "es": "silla de montar de escaramuza",
+     "it": "sella da signora",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 11,
+      "es": 25,
+      "it": 14
+     }
+    },
+    {
+     "en": "riding crop",
+     "fr": "cravache",
+     "de": "Reitgerte",
+     "es": "I3 fusta",
+     "it": "frustino",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

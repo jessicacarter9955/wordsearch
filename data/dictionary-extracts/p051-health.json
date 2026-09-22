@@ -1,0 +1,499 @@
+{
+ "page": 51,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "terapie-alternative",
+   "names": {
+    "en": "alternative therapy",
+    "fr": "les thérapies alternatives",
+    "de": "die Alternativtherapien",
+    "es": "las terapias alternativas",
+    "it": "le terapie alternative"
+   },
+   "entries": [
+    {
+     "en": "counselor",
+     "fr": "conseiller",
+     "de": "Berater",
+     "es": "terapeuta",
+     "it": "assistente socio-psicologico",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 7,
+      "es": 9,
+      "it": 26
+     }
+    },
+    {
+     "en": "acupuncture",
+     "fr": "acuponcture",
+     "de": "Akupunktur",
+     "es": "acupuntura",
+     "it": "agopuntura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "reiki",
+     "fr": "reiki",
+     "de": "Reiki",
+     "es": "re iki",
+     "it": "reiki",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "hypnotherapy",
+     "fr": "hypnothérapie",
+     "de": "Hypnotherapie",
+     "es": "hipnoterapia",
+     "it": "ipnoterapia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 13,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "ayurveda",
+     "fr": "médecine ayurvédique",
+     "de": "Ayurveda",
+     "es": "ayurvéda",
+     "it": "medicina aiurvedica",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 19,
+      "de": 8,
+      "es": 8,
+      "it": 18
+     }
+    },
+    {
+     "en": "group therapy",
+     "fr": "thérapie de groupe",
+     "de": "Gruppentherapie",
+     "es": "terapia de grupo",
+     "it": "terapia di gruppo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 15,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "essential oils",
+     "fr": "huiles essentielles",
+     "de": "ätherischen Öle",
+     "es": "aceites esenciales",
+     "it": "oli essenziali",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 14,
+      "es": 17,
+      "it": 13
+     }
+    },
+    {
+     "en": "homeopathy",
+     "fr": "homéopathie",
+     "de": "Homöopathie",
+     "es": "homeopatía",
+     "it": "omeopatia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "acupressure",
+     "fr": "acupression",
+     "de": "Akupressur",
+     "es": "acupresión",
+     "it": "agopressione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 10,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "aromatherapy",
+     "fr": "aromathérapie",
+     "de": "Aromatherapie",
+     "es": "aromaterapia",
+     "it": "aromaterapia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 13,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "herbalism",
+     "fr": "herboristerie",
+     "de": "Kräuterheilkunde",
+     "es": "herbolario",
+     "it": "erbalismo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 16,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "therapist",
+     "fr": "thérapeute",
+     "de": "Therapeutin",
+     "es": "terapeuta",
+     "it": "terapista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 11,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "herb",
+     "fr": "herbe",
+     "de": "Heilkraut",
+     "es": "hierba",
+     "it": "erba",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 9,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "relaxation",
+     "fr": "relaxation",
+     "de": "Entspannung",
+     "es": "relajación",
+     "it": "rilassamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "naturopathy",
+     "fr": "naturopathie",
+     "de": "Naturheilkuncie",
+     "es": "naturopatía",
+     "it": "naturopatia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 15,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "crystal healing",
+     "fr": "guérison par cristaux",
+     "de": "Kristalitherapie",
+     "es": "cristalotcrapia",
+     "it": "cristalloterapia",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 19,
+      "de": 16,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "supplement",
+     "fr": "supplément",
+     "de": "Ergänzung",
+     "es": "suplemento",
+     "it": "integratore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "stress",
+     "fr": "stress",
+     "de": "Stress",
+     "es": "estrés",
+     "it": "stress",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "feng shui",
+     "fr": "feng shui",
+     "de": "Feng Shui",
+     "es": "feng shui",
+     "it": "feng shui",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "hydrotherapy",
+     "fr": "hydrothérapie",
+     "de": "Wasserbehandlung",
+     "es": "hidroterapia",
+     "it": "idroterapia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 16,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "psychotherapy",
+     "fr": "psychothérapie",
+     "de": "Psychotherapie",
+     "es": "psicoterapia",
+     "it": "psicoterapia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 14,
+      "es": 12,
+      "it": 12
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Continuazione terapie alternative (nessun titolo pagina)."
+}

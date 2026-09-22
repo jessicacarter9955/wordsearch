@@ -1,0 +1,228 @@
+{
+ "page": 115,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "Brussels sprout",
+     "fr": "le chou de Bruxelles",
+     "de": "der Rosenkohl",
+     "es": "la col de bruselas",
+     "it": "il cavolino di Bruxelles",
+     "_pos": [
+      669,
+      226
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "radicchio",
+     "fr": "le radicchio",
+     "de": "der Radicchio",
+     "es": "el radicchio",
+     "it": "il radicchio",
+     "_pos": [
+      458,
+      228
+     ],
+     "_flags": []
+    },
+    {
+     "en": "watercress",
+     "fr": "le cresson",
+     "de": "die Brunnenkresse » el berro",
+     "it": "il crescione",
+     "_pos": [
+      245,
+      228
+     ],
+     "_flags": [
+      "missing:es",
+      "de:weird:»"
+     ]
+    },
+    {
+     "en": "arugula",
+     "fr": "la roquette",
+     "de": "die Rauke",
+     "es": "la roqueta",
+     "it": "la rucóla",
+     "_pos": [
+      33,
+      231
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kale",
+     "fr": "le chou trisé",
+     "de": "der Grünkohl",
+     "es": "la col rizada",
+     "it": "il cavolo verde",
+     "_pos": [
+      248,
+      504
+     ],
+     "_flags": []
+    },
+    {
+     "en": "endive",
+     "fr": "la chicorée",
+     "de": "die Endivie",
+     "es": "la escarola",
+     "it": "l'indivia",
+     "_pos": [
+      671,
+      505
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sorrei",
+     "fr": "Voseille",
+     "de": "der Garten Sauerampfer",
+     "es": "la acedera",
+     "it": "l'acetosa",
+     "_pos": [
+      460,
+      506
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "swiss chard",
+     "fr": "la berte",
+     "de": "der Mangold",
+     "es": "la acelga",
+     "it": "la bietola",
+     "_pos": [
+      36,
+      509
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bok choy",
+     "fr": "le chou chinois",
+     "de": "der Chinakohl",
+     "es": "la acelga china",
+     "it": "la bieta",
+     "_pos": [
+      673,
+      751
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kohlrabi",
+     "fr": "le chou-rave",
+     "de": "der Kohlrabi",
+     "es": "el colinabo",
+     "it": "il cavolo rapa",
+     "_pos": [
+      462,
+      752
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spinach",
+     "fr": "les épinards",
+     "de": "der Spinat",
+     "es": "la espinaca",
+     "it": "gli spinaci",
+     "_pos": [
+      250,
+      754
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dandelion",
+     "fr": "le pissenlit",
+     "de": "der Löwenzahn",
+     "es": "el diente de león",
+     "it": "il dente di Icone",
+     "_pos": [
+      38,
+      756
+     ],
+     "_flags": []
+    },
+    {
+     "en": "young cabbage",
+     "fr": "le chou précoce",
+     "de": "der Frühkohl",
+     "es": "la berza",
+     "it": "la verza",
+     "_pos": [
+      676,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cabbage",
+     "fr": "le chou",
+     "de": "der Kohl",
+     "es": "la col",
+     "it": "il cavolo",
+     "_pos": [
+      464,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "broccoli",
+     "fr": "le brocoli",
+     "de": "der Brokkoli",
+     "es": "el brocoli",
+     "it": "il broccolo",
+     "_pos": [
+      252,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lettuce",
+     "fr": "la laitue",
+     "de": "der Salat",
+     "es": "la lechuga",
+     "it": "la lattuga",
+     "_pos": [
+      40,
+      1035
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 0,
+  "flagged": 16,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

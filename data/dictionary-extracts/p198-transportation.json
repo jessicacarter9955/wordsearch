@@ -1,0 +1,586 @@
+{
+ "page": 198,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "nose",
+     "fr": "nez",
+     "de": "Bug",
+     "es": "n ari",
+     "it": "muso",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 3,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "cockpit",
+     "fr": "cockpit",
+     "de": "Cockpit",
+     "es": "laca bina de pilotaje",
+     "it": "cabina di pilotaggio",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "engine",
+     "fr": "lb réacteur",
+     "de": "Triebwerk",
+     "es": "motor",
+     "it": "motore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "wing",
+     "fr": "aile",
+     "de": "Tragfläche",
+     "es": "ala",
+     "it": "ala",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 10,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "fuselage",
+     "fr": "fuselage",
+     "de": "Rumpf",
+     "es": "fuselaje",
+     "it": "fusoliera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "tail",
+     "fr": "queue",
+     "de": "Heck",
+     "es": "cola",
+     "it": "coda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "rudder",
+     "fr": "gouverne",
+     "de": "Seitenruder",
+     "es": "timón",
+     "it": "timone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 11,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "nosewheel",
+     "fr": "roue de nez",
+     "de": "Bugfahrwerk",
+     "es": "tren delantero",
+     "it": "ruota anteriore",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 11,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "tailplane",
+     "fr": "empennage",
+     "de": "Höhenleitwerk",
+     "es": "estabilizador",
+     "it": "stabilizzatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 13,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "fr": "sortie",
+     "de": "Ausgang",
+     "es": "salida",
+     "it": "uscita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "fr": "train d'atterrissage",
+     "de": "Hauptfahrwerk",
+     "es": "tren de aterrizaje",
+     "it": "carrello d'attcrraggio",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 18,
+      "de": 13,
+      "es": 16,
+      "it": 20
+     }
+    },
+    {
+     "en": "L a i 1er on",
+     "de": "Querruder",
+     "es": "alerón",
+     "it": "alettone",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "fr": "dérive",
+     "de": "Seitenleitwerk",
+     "es": "aleta",
+     "it": "aletta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 14,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": "cabina",
+   "names": {
+    "en": "cabin",
+    "fr": "la cabine",
+    "de": "die kabine",
+    "es": "laca bina",
+    "it": "la cabina"
+   },
+   "entries": [
+    {
+     "en": "emergency exit",
+     "fr": "sortie de secours",
+     "de": "Notausgang",
+     "es": "salida de emergencia",
+     "it": "uscita di emergenza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 10,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "flight attendant",
+     "fr": "hôtesse dt l'air",
+     "de": "Flugbegleiterin",
+     "es": "sobrecargo",
+     "it": "assistente di volo",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 15,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "overhead bin",
+     "fr": "easier à bagages",
+     "de": "Gepäckfach",
+     "es": "com partim ento portaequipajes",
+     "it": "corriDartimentn oortabannnii",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 10,
+      "es": 27,
+      "it": 27
+     }
+    },
+    {
+     "en": "air vent",
+     "fr": "ventilateur",
+     "de": "Luftdüse",
+     "es": "ventilador",
+     "it": "ventola per l'aria",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 8,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "window",
+     "fr": "hublot",
+     "de": "Fenster",
+     "es": "ventanilla",
+     "it": "finestrino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "reading light",
+     "fr": "liseuse",
+     "de": "Leselampe",
+     "es": "luz de lectura",
+     "it": "luce di lettura",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 9,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "seat",
+     "fr": "siège",
+     "de": "Sitz",
+     "es": "asiento",
+     "it": "sedile",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "row",
+     "fr": "rangée",
+     "de": "Reihe",
+     "es": "fila",
+     "it": "fila",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "armrest",
+     "fr": "accoudoir",
+     "de": "Armlehne",
+     "es": "descansahrazos",
+     "it": "bracciolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 14,
+      "it": 9
+     }
+    },
+    {
+     "en": "seat back",
+     "fr": "dossier",
+     "de": "Rückenlehne",
+     "es": "respaldo",
+     "it": "schienale",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 11,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "fr": "couloir",
+     "de": "Gang",
+     "es": "pasillo",
+     "it": "corridoio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "fr": "tablette",
+     "de": "Klapptisch",
+     "es": "mesa plegable",
+     "it": "vassoio",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 8,
+      "de": 10,
+      "es": 12,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,423 @@
+{
+ "page": 159,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "STUDY • L'É T U D E ♦ DAS LERNEN • E L E S T U D IO • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "professor",
+     "fr": "l'assistant",
+     "de": "der Dozent",
+     "es": "el profesor",
+     "it": "il docente",
+     "_pos": [
+      282,
+      80
+     ],
+     "_flags": []
+    },
+    {
+     "en": "undergraduate",
+     "fr": "l'étudiant",
+     "de": "der Student",
+     "es": "el estudiante",
+     "it": "lo studente universitario",
+     "_pos": [
+      32,
+      81
+     ],
+     "_flags": []
+    },
+    {
+     "en": "graduate",
+     "fr": "la licenciée",
+     "de": "dip Graríiiipftp",
+     "es": "la",
+     "_pos": [
+      546,
+      82
+     ],
+     "_flags": [
+      "missing:it",
+      "de:rep:Graríiiipftp"
+     ]
+    },
+    {
+     "en": "lecture hall",
+     "fr": "la salle de cours",
+     "de": "der Hörsaal",
+     "es": "el auditorio",
+     "it": "l'aula",
+     "_pos": [
+      33,
+      347
+     ],
+     "_flags": []
+    },
+    {
+     "en": "graduation ceremony",
+     "fr": "la cérémonie de la remise des diplômes",
+     "de": "die Graduierungsfeier",
+     "es": "la ceremonia de graduación",
+     "it": "la consegna delle lauree",
+     "_pos": [
+      464,
+      347
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "schools • les écoles • die Fachhochschulen • las escuelas • le scuole",
+   "parts": [
+    "schools",
+    "les écoles",
+    "die fachhochschulen",
+    "las escuelas",
+    "le scuole"
+   ],
+   "entries": [
+    {
+     "en": "model",
+     "fr": "le modèle",
+     "de": "das Modell",
+     "es": "la modelo",
+     "it": "lo modella",
+     "_pos": [
+      216,
+      498
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "Wh",
+   "parts": [
+    "wh"
+   ],
+   "entries": [
+    {
+     "en": "art school",
+     "fr": "l'école des beaux ans",
+     "de": "die Kunsthochschule",
+     "es": "la escuela de Bellas A rtes",
+     "it": "la scuola d'arte",
+     "_pos": [
+      33,
+      613
+     ],
+     "_flags": []
+    },
+    {
+     "en": "music school",
+     "fr": "le Conservatoire",
+     "de": "die Musikhochschule",
+     "es": "el conservatorio",
+     "it": "il conservatorio",
+     "_pos": [
+      321,
+      614
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "dance school",
+     "fr": "l'école de danse",
+     "de": "die Tanzakademie",
+     "es": "la academia de danza",
+     "it": "l'accademia di danza",
+     "_pos": [
+      608,
+      614
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scholarship",
+     "fr": "la bourse",
+     "de": "das Stipendium",
+     "es": "la beca",
+     "it": "la borsa di studio",
+     "_pos": [
+      54,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "research",
+     "fr": "la recherche",
+     "de": "die Forschung",
+     "es": "la investigación",
+     "it": "la ricerca",
+     "_pos": [
+      214,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dissertation",
+     "fr": "la dissertation",
+     "de": "die Examensarbeit",
+     "es": "la tesina",
+     "it": "la dissertazione",
+     "_pos": [
+      354,
+      697
+     ],
+     "_flags": []
+    },
+    {
+     "en": "medicine",
+     "fr": "la médecine",
+     "de": "die Medizin",
+     "es": "la medicina",
+     "it": "la medicina",
+     "_pos": [
+      525,
+      698
+     ],
+     "_flags": []
+    },
+    {
+     "en": "economics",
+     "fr": "les sciences économiques",
+     "de": "die Wirtschaftswissenschaft",
+     "es": "las ciencias económ icas",
+     "it": "l'economia",
+     "_pos": [
+      673,
+      698
+     ],
+     "_flags": []
+    },
+    {
+     "en": "master's degree",
+     "fr": "la maîtrise",
+     "de": "der Magister",
+     "es": "la mes tri a",
+     "it": "il master",
+     "_pos": [
+      214,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diploma",
+     "fr": "le diplom e",
+     "de": "das Diplom",
+     "es": "el diploma",
+     "it": "il diploma",
+     "_pos": [
+      53,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "department",
+     "fr": "rU .F .R",
+     "de": "der Fachbereich",
+     "es": "el departamento",
+     "it": "l dipartimento",
+     "_pos": [
+      354,
+      797
+     ],
+     "_flags": [
+      "fr:weird:.F",
+      "fr:weird:.R"
+     ]
+    },
+    {
+     "en": "zoology",
+     "fr": "la zoologie",
+     "de": "die Zoologie",
+     "es": "la zoología",
+     "it": "la zoologia",
+     "_pos": [
+      526,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "political science",
+     "fr": "les sciences politiques",
+     "de": "die Politologie",
+     "es": "la política",
+     "it": "la politica",
+     "_pos": [
+      673,
+      798
+     ],
+     "_flags": []
+    },
+    {
+     "en": "doctorate",
+     "fr": "le doctorar",
+     "de": "die Promotion",
+     "es": "el doctorado",
+     "it": "il dottorato",
+     "_pos": [
+      214,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "law",
+     "fr": "le droit",
+     "de": "die Rechtswissenschaft",
+     "es": "el derecho",
+     "it": "il diritto",
+     "_pos": [
+      354,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "degree",
+     "fr": "la licence",
+     "de": "der akademische Grad",
+     "es": "la carrera",
+     "it": "la laurea",
+     "_pos": [
+      54,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "physics",
+     "fr": "la physique",
+     "de": "die Physik",
+     "es": "la física",
+     "it": "la fisica",
+     "_pos": [
+      526,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "literature",
+     "fr": "la littérature",
+     "de": "die Literaiur",
+     "es": "la literatura",
+     "it": "la letteratura",
+     "_pos": [
+      673,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "postgraduate",
+     "fr": "de troisième cycle",
+     "de": "postgradual",
+     "es": "posgrado",
+     "it": "di perfezionamento",
+     "_pos": [
+      54,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thesis",
+     "fr": "la thèse",
+     "de": "die Dissertation",
+     "es": "la tesis",
+     "it": "la tesi",
+     "_pos": [
+      215,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "engineering",
+     "fr": "les études d'ingénieur",
+     "de": "der Maschinenbau",
+     "es": "la ingeniería",
+     "it": "l'ingegneria",
+     "_pos": [
+      354,
+      996
+     ],
+     "_flags": []
+    },
+    {
+     "en": "philosophy",
+     "fr": "la philosophic",
+     "de": "die Philosophie",
+     "es": "la filosofía",
+     "it": "la filosofia",
+     "_pos": [
+      526,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "art history",
+     "fr": "l'histoire d'art",
+     "de": "die Kunstgeschichte",
+     "es": "la historia del arte",
+     "it": "la storia dell'arte",
+     "_pos": [
+      673,
+      997
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "I O",
+   "pos": [
+    391,
+    566
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "”",
+   "pos": [
+    457,
+    566
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 17,
+  "flagged": 12,
+  "missing_lang": 1,
+  "leftovers": 2,
+  "subcats": 2
+ }
+}

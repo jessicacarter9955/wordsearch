@@ -1,0 +1,403 @@
+{
+ "page": 143,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "EATING OUT • SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • MANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "restaurant • le restaurant • das Restaurant • el restaurante • ¡I ristorante",
+   "parts": [
+    "restaurant",
+    "le restaurant",
+    "das restaurant",
+    "el restaurante",
+    "i ristorante"
+   ],
+   "entries": [
+    {
+     "en": "nonsmoking section",
+     "fr": "la partie non fumeurs",
+     "de": "der Nicht raucherbereich",
+     "es": "el área J e no turnar",
+     "it": "la zona non fumatori",
+     "_pos": [
+      48,
+      147
+     ],
+     "_flags": [
+      "es:short:J"
+     ]
+    },
+    {
+     "en": "napkin",
+     "fr": "la servierte",
+     "de": "die Serviette",
+     "es": "la servilleta",
+     "it": "il tovagliolo",
+     "_pos": [
+      48,
+      262
+     ],
+     "_flags": []
+    },
+    {
+     "en": "assistant chef",
+     "fr": "le commis",
+     "de": "der Hilfskoch",
+     "es": "el ayudante ilei ch ef",
+     "it": "l'aiuto cuoco",
+     "_pos": [
+      48,
+      379
+     ],
+     "_flags": []
+    },
+    {
+     "en": "place setting",
+     "fr": "le couvert",
+     "de": "das Gedeck",
+     "es": "el cubierto",
+     "it": "I coperto",
+     "_pos": [
+      358,
+      530
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "glass",
+     "fr": "le verre",
+     "de": "das Glas",
+     "es": "la copa",
+     "it": "il bicchiere",
+     "_pos": [
+      780,
+      533
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chef",
+     "fr": "le chef Je cuisine",
+     "de": "der Küchenchef",
+     "es": "el chef",
+     "it": "il cuoco",
+     "_pos": [
+      358,
+      629
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tray",
+     "fr": "le plateau",
+     "de": "das Tablett",
+     "es": "la charola",
+     "it": "vassoio",
+     "_pos": [
+      780,
+      649
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kitchen",
+     "fr": "la cuisine",
+     "es": "la cucina",
+     "_pos": [
+      48,
+      727
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:it"
+     ]
+    },
+    {
+     "de": "die Küche",
+     "es": "la cocina",
+     "_pos": [
+      183,
+      728
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "server",
+     "fr": "le garçon",
+     "de": "der Kellner",
+     "es": "ti mesero",
+     "it": "il cameriere",
+     "_pos": [
+      528,
+      730
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lunch menu",
+     "fr": "le menu J u déjeuner",
+     "de": "das Mittagsmenü",
+     "es": "el m enú de la com ida",
+     "it": "il menù del pranzo",
+     "_pos": [
+      64,
+      792
+     ],
+     "_flags": [
+      "fr:short:J",
+      "fr:short:u",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "specials",
+     "fr": "les spécialités",
+     "de": "die Spezialitäten",
+     "es": "los platillos del día",
+     "it": "i piatti del giorno",
+     "_pos": [
+      222,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "price",
+     "fr": "le prix",
+     "de": "der Preis",
+     "es": "el precio",
+     "it": "il prezzo",
+     "_pos": [
+      392,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "smoking section",
+     "fr": "la partie fumeurs",
+     "de": "der Raucherbereich",
+     "es": "el área de fumar",
+     "it": "la zona fumatori",
+     "_pos": [
+      495,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "öp",
+     "fr": "le pourboire",
+     "de": "das Trinkgeld",
+     "es": "la propina",
+     "it": "la mancia",
+     "_pos": [
+      686,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "customer",
+     "fr": "le client",
+     "de": "der Kunde",
+     "es": "el cliente",
+     "it": "l cliente",
+     "_pos": [
+      790,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dinner menu",
+     "fr": "le menu du soir",
+     "de": "das Abendmenü",
+     "es": "ci m enu de la cena",
+     "it": "il menù della cena",
+     "_pos": [
+      64,
+      892
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "à la carte",
+     "fr": "à la carte",
+     "de": "à la carte",
+     "es": "a la carta",
+     "it": "a la carte",
+     "_pos": [
+      222,
+      894
+     ],
+     "_flags": []
+    },
+    {
+     "en": "check",
+     "fr": "l'addition",
+     "de": "die Rechnung",
+     "es": "la cuenta",
+     "it": "il conto",
+     "_pos": [
+      392,
+      895
+     ],
+     "_flags": []
+    },
+    {
+     "en": "service charge included",
+     "fr": "Service compris",
+     "de": "Bedienung inbegriffen",
+     "es": "sen icio incluido",
+     "it": "servizio compreso",
+     "_pos": [
+      494,
+      896
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "buffet",
+     "fr": "le buffer",
+     "de": "das Buffet",
+     "es": "el buffet",
+     "it": "il buffet",
+     "_pos": [
+      686,
+      897
+     ],
+     "_flags": []
+    },
+    {
+     "en": "salt",
+     "fr": "le sel",
+     "de": "das Salz",
+     "es": "la sal",
+     "it": "l sale",
+     "_pos": [
+      790,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wine list",
+     "fr": "la carte des vins",
+     "de": "die Weinkarte",
+     "es": "la lista de vinos",
+     "it": "la lista dei vini",
+     "_pos": [
+      63,
+      991
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dessert cart",
+     "fr": "le plateau à desserts",
+     "de": "der Dessertwagen",
+     "es": "el carrito de los postres",
+     "it": "il carrello dei dolci",
+     "_pos": [
+      222,
+      993
+     ],
+     "_flags": []
+    },
+    {
+     "en": "receipt",
+     "fr": "le reçu",
+     "de": "die Quittung",
+     "es": "el recibo",
+     "it": "la ricevuta",
+     "_pos": [
+      392,
+      994
+     ],
+     "_flags": []
+    },
+    {
+     "en": "service charge not included",
+     "fr": "service non compris",
+     "de": "ohne Bedienung",
+     "es": "servid o no incluido",
+     "it": "servizio non compreso",
+     "_pos": [
+      494,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bar",
+     "fr": "le bar",
+     "de": "die Bar",
+     "es": "el bar",
+     "it": "il bar",
+     "_pos": [
+      685,
+      995
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pepper",
+     "fr": "le poivre",
+     "de": "der Pfeffer",
+     "es": "la pimienta",
+     "it": "il pepe",
+     "_pos": [
+      789,
+      996
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "i",
+   "pos": [
+    288,
+    187
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "T'a",
+   "pos": [
+    72,
+    538
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 17,
+  "flagged": 11,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

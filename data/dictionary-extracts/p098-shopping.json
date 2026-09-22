@@ -1,0 +1,395 @@
+{
+ "page": 98,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "macro_slug": "acquisti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "grande-magazzino",
+   "names": {
+    "en": "department store",
+    "fr": "le grand magasin",
+    "de": "das kaufhaus",
+    "es": "las tiendas departamentales",
+    "it": "il grande magazzino"
+   },
+   "entries": [
+    {
+     "en": "womenswear",
+     "fr": "vêtement pour femmes",
+     "de": "Damenoberbekleidung",
+     "es": "ropa de dama",
+     "it": "abbigliamento da donna",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 19,
+      "es": 10,
+      "it": 20
+     }
+    },
+    {
+     "en": "menswear",
+     "fr": "vêtements pour hommes",
+     "de": "Herrenbekleidung",
+     "es": "ropa de caballero",
+     "it": "abbigliamento da uomo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 19,
+      "de": 16,
+      "es": 15,
+      "it": 19
+     }
+    },
+    {
+     "en": "lingerie",
+     "fr": "lingerie",
+     "de": "Damenwäsche",
+     "es": "lencería",
+     "it": "biancheria intima",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 16
+     }
+    },
+    {
+     "en": "perfumes",
+     "fr": "parfumerie",
+     "de": "Parfümerie",
+     "es": "perfumería",
+     "it": "profumeria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "notions",
+     "fr": "mercerie",
+     "de": "Kurzwaren",
+     "es": "lamer ce ria",
+     "it": "merceria",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "linens",
+     "fr": "linge de maison",
+     "de": "Wasche",
+     "es": "blancos",
+     "it": "biancheria",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 6,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "home furnishings",
+     "fr": "ameublement",
+     "de": "Möbel",
+     "es": "m obiliano para el hogar",
+     "it": "arreda mento perla casa",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 11,
+      "de": 5,
+      "es": 20,
+      "it": 20
+     }
+    },
+    {
+     "en": "cosmetics",
+     "fr": "beauté",
+     "de": "Schönheitspflege",
+     "es": "cosm éticos",
+     "it": "bellezza",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 16,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "electronics",
+     "fr": "électroménager",
+     "de": "Elektroartikel",
+     "es": "aparatos eléctricos",
+     "it": "articoli elettronici",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 14,
+      "es": 18,
+      "it": 19
+     }
+    },
+    {
+     "en": "china",
+     "fr": "porcelaine",
+     "de": "Porzellan",
+     "es": "vajillas",
+     "it": "porcellana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "lighting",
+     "fr": "éclairage",
+     "de": "Lampen",
+     "es": "iluminación",
+     "it": "illuminazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 6,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "kitchenware",
+     "fr": "vaisselle",
+     "de": "Küchengeräte",
+     "es": "artículos de cocina",
+     "it": "articoli da cucina",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 12,
+      "es": 17,
+      "it": 16
+     }
+    },
+    {
+     "en": "stationery",
+     "fr": "papererie",
+     "de": "Scheibwaren",
+     "es": "papelería",
+     "it": "cancelleria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "groceries",
+     "fr": "alimentation",
+     "de": "Lebensmittelabteilung",
+     "es": "abarrotes",
+     "it": "reparto alimentan",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 21,
+      "es": 9,
+      "it": 16
+     }
+    },
+    {
+     "en": "sportswear",
+     "fr": "articles de sport",
+     "de": "Sportartikel",
+     "es": "artículos deportivos",
+     "it": "articoli sportivi",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 12,
+      "es": 19,
+      "it": 16
+     }
+    },
+    {
+     "en": "toys",
+     "fr": "jouets",
+     "de": "Spielwaren",
+     "es": "juguetería",
+     "it": "giocattoli",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

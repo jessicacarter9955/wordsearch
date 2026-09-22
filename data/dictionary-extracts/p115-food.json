@@ -1,0 +1,384 @@
+{
+ "page": 115,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "Brussels sprout",
+     "fr": "chou de Bruxelles",
+     "de": "Rosenkohl",
+     "es": "col de bruselas",
+     "it": "cavolino di Bruxelles",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 15,
+      "de": 9,
+      "es": 13,
+      "it": 19
+     }
+    },
+    {
+     "en": "radicchio",
+     "fr": "radicchio",
+     "de": "Radicchio",
+     "es": "radicchio",
+     "it": "radicchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "watercress",
+     "fr": "cresson",
+     "de": "Brunnenkresse » el berro",
+     "it": "crescione",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 20,
+      "it": 9
+     }
+    },
+    {
+     "en": "arugula",
+     "fr": "roquette",
+     "de": "Rauke",
+     "es": "roqueta",
+     "it": "rucóla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "kale",
+     "fr": "chou trisé",
+     "de": "Grünkohl",
+     "es": "col rizada",
+     "it": "cavolo verde",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 8,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "endive",
+     "fr": "chicorée",
+     "de": "Endivie",
+     "es": "escarola",
+     "it": "indivia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "sorrei",
+     "fr": "Voseille",
+     "de": "Garten Sauerampfer",
+     "es": "acedera",
+     "it": "acetosa",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 17,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "swiss chard",
+     "fr": "berte",
+     "de": "Mangold",
+     "es": "acelga",
+     "it": "bietola",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "bok choy",
+     "fr": "chou chinois",
+     "de": "Chinakohl",
+     "es": "acelga china",
+     "it": "bieta",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 9,
+      "es": 11,
+      "it": 5
+     }
+    },
+    {
+     "en": "kohlrabi",
+     "fr": "chou-rave",
+     "de": "Kohlrabi",
+     "es": "colinabo",
+     "it": "cavolo rapa",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "spinach",
+     "fr": "épinards",
+     "de": "Spinat",
+     "es": "espinaca",
+     "it": "spinaci",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "la",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "dandelion",
+     "fr": "pissenlit",
+     "de": "Löwenzahn",
+     "es": "diente de león",
+     "it": "dente di Icone",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "young cabbage",
+     "fr": "chou précoce",
+     "de": "Frühkohl",
+     "es": "berza",
+     "it": "verza",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "cabbage",
+     "fr": "chou",
+     "de": "Kohl",
+     "es": "col",
+     "it": "cavolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 4,
+      "es": 3,
+      "it": 6
+     }
+    },
+    {
+     "en": "broccoli",
+     "fr": "brocoli",
+     "de": "Brokkoli",
+     "es": "brocoli",
+     "it": "broccolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "lettuce",
+     "fr": "laitue",
+     "de": "Salat",
+     "es": "lechuga",
+     "it": "lattuga",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,544 @@
+{
+ "page": 68,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "fr": "luffa",
+     "de": "Luffaschwamm",
+     "es": "zacate",
+     "it": "luffa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "de": 12,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "vA A",
+     "fr": "Vi",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 3,
+      "fr": 2
+     }
+    },
+    {
+     "en": "N",
+     "_multi": [],
+     "_grid_len": {
+      "en": 1
+     }
+    },
+    {
+     "en": "pumice stone",
+     "fr": "l.i pierre ponce",
+     "de": "Bimsstein",
+     "es": "piedra pómez",
+     "it": "pomice",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 9,
+      "es": 11,
+      "it": 6
+     }
+    },
+    {
+     "en": "back brush",
+     "fr": "brosse pour le dos",
+     "de": "Ruckenburste",
+     "es": "cepillo para la espalda",
+     "it": "spazzola",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 12,
+      "es": 20,
+      "it": 8
+     }
+    },
+    {
+     "en": "sponge",
+     "fr": "l éponge",
+     "de": "Schwamm",
+     "es": "esponja",
+     "it": "spugna",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "deodorant",
+     "fr": "déodorant",
+     "de": "Deo",
+     "es": "desodorante",
+     "it": "deodorante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 3,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "soap dish",
+     "fr": "porte-savon",
+     "de": "Seifenschale",
+     "es": "jabonera",
+     "it": "portasapone",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 12,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "shower gel",
+     "fr": "pel douche",
+     "de": "Duschgel",
+     "es": "shampoo para el cuerpo",
+     "it": "doectaschiuma",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 8,
+      "es": 19,
+      "it": 13
+     }
+    },
+    {
+     "en": "soap",
+     "fr": "savon",
+     "de": "Seife",
+     "es": "jabón",
+     "it": "sapone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "face cream",
+     "fr": "crème pour le visage",
+     "de": "Gesichtscreme",
+     "es": "lacre mapa rala cara",
+     "it": "crema per il viso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 13,
+      "es": 17,
+      "it": 14
+     }
+    },
+    {
+     "en": "bubble bath",
+     "fr": "bain moussant",
+     "de": "Schaumbad",
+     "es": "gel de baño",
+     "it": "bagnoschiuma",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 9,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "and towel",
+     "fr": "ia serv ierte",
+     "de": "aas Handtuch",
+     "es": "« toalla de mano",
+     "it": "\"asciugamano piccolo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 11,
+      "es": 12,
+      "it": 18
+     }
+    },
+    {
+     "en": "bath towel",
+     "fr": "serviette de bain",
+     "de": "Badetuch",
+     "es": "toalla de baño",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 8,
+      "es": 12
+     }
+    },
+    {
+     "en": "body lotion",
+     "fr": "lotion pour le corps",
+     "de": "Korperlotion",
+     "es": "crema para el cuerpo",
+     "it": "lozione per il corpo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 12,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "talcum powder",
+     "fr": "talé",
+     "de": "Körperpuder",
+     "es": "talco",
+     "it": "talco",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 4,
+      "de": 11,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "towels",
+     "fr": "serviertes",
+     "de": "Handtücher",
+     "es": "toallas",
+     "it": "asciugamani",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 10,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "bathrobe",
+     "fr": "peignoir",
+     "de": "Bademantel",
+     "es": "bata",
+     "it": "accappatoio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 10,
+      "es": 4,
+      "it": 11
+     }
+    }
+   ]
+  },
+  {
+   "slug": "rasatura",
+   "names": {
+    "en": "shaving",
+    "fr": "le rasage",
+    "de": "das rasieren",
+    "es": "el afeitado",
+    "it": "la rasatura"
+   },
+   "entries": [
+    {
+     "en": "electric razor",
+     "fr": "rasoir électrique",
+     "de": "Elektrorasierer",
+     "es": "rasuradura",
+     "it": "rasoio elettrico",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 15,
+      "es": 10,
+      "it": 15
+     }
+    },
+    {
+     "en": "razor biade",
+     "fr": "lame de rasoir",
+     "de": "Rasierklinge",
+     "es": "hoja de afeitar",
+     "it": "lametta",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "shaving cream",
+     "fr": "mousse araser",
+     "de": "Rasierschaum",
+     "es": "espuma de afeitar",
+     "it": "schiuma da barba",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 12,
+      "es": 15,
+      "it": 14
+     }
+    },
+    {
+     "en": "disposable razor",
+     "fr": "rasoir jetable",
+     "de": "Einwegrasierei",
+     "es": "navaja de afeitar desec.hablt",
+     "it": "rasoio monouso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 14,
+      "es": 25,
+      "it": 13
+     }
+    },
+    {
+     "en": "aftershave",
+     "fr": "Latter-shave",
+     "de": "Rasierwasser",
+     "es": "aftershave",
+     "it": "dopobarba",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 12,
+      "es": 10,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

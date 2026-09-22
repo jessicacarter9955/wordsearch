@@ -1,0 +1,411 @@
+{
+ "page": 247,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "luoghi-d-interesse",
+   "names": {
+    "en": "attractions",
+    "fr": "les attractions",
+    "de": "die sehenswürdigkeiten",
+    "es": "los lugares de interés",
+    "it": "i luoghi d'interesse"
+   },
+   "entries": [
+    {
+     "en": "famous njin",
+     "fr": "ruine célèbre",
+     "de": "berühmte Ruine",
+     "es": "ruina famosa",
+     "it": "rovina famosa",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 13,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "exhibition",
+     "fr": "exposition",
+     "de": "Ausstellung",
+     "es": "exposk ión",
+     "it": "esposizione",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "painting",
+     "fr": "tableau",
+     "de": "Gemälde",
+     "es": "cuadro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 6
+     }
+    },
+    {
+     "en": "exhibit",
+     "fr": "objet exposé",
+     "de": "Ausstellungsstück",
+     "es": "muestra",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 17,
+      "es": 7
+     }
+    },
+    {
+     "en": "historic building",
+     "fr": "monument historique",
+     "de": "historische Gebäude",
+     "es": "édifie io histórico",
+     "it": "edificio storico",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 18,
+      "de": 18,
+      "es": 17,
+      "it": 15
+     }
+    },
+    {
+     "en": "museum",
+     "fr": "musée",
+     "de": "Museum",
+     "es": "museo",
+     "it": "museo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "monument",
+     "fr": "monument",
+     "de": "Monument",
+     "es": "monumento",
+     "it": "monumento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "art gallery",
+     "fr": "musée d'art",
+     "de": "Kunstgalerie",
+     "es": "galería de arte",
+     "it": "galleria d'arte",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 12,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "national park",
+     "fr": "parc national",
+     "de": "Nationalpark",
+     "es": "parque nacional",
+     "it": "parco nazionale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 12,
+      "es": 14,
+      "it": 14
+     }
+    },
+    {
+     "en": "garden",
+     "fr": "pare",
+     "de": "Park",
+     "es": "jardines",
+     "it": "giardini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 4,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "casino",
+     "fr": "casino",
+     "de": "Kasino",
+     "es": "casino",
+     "it": "casinò",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "information",
+     "_multi": [],
+     "_grid_len": {
+      "en": 11
+     }
+    },
+    {
+     "en": "ornes",
+     "fr": "heures",
+     "de": "Zeiten",
+     "es": "horas",
+     "it": "orari",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "tourist information",
+     "fr": "information touristique",
+     "de": "Touristeninformation",
+     "es": "oficina de información",
+     "it": "ufficio informazioni turistiche",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 22,
+      "de": 20,
+      "es": 20,
+      "it": 29
+     }
+    },
+    {
+     "en": "timetable",
+     "fr": "horaire",
+     "de": "Fahrplan",
+     "es": "horario",
+     "it": "orario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "map",
+     "fr": "plan",
+     "de": "Stadtplan",
+     "es": "mapa",
+     "it": "mappa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 9,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "floor plan",
+     "fr": "plan",
+     "de": "Grundriss",
+     "es": "plano de la planta",
+     "it": "pianta del piano",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 9,
+      "es": 15,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

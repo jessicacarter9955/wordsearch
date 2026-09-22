@@ -1,0 +1,291 @@
+{
+ "page": 194,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • L E TRANSPORT • DER VERKEHR / E L TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "bicycle • la bicyclette • das Fahrrad • la bicicleta • la bicicletta",
+   "parts": [
+    "bicycle",
+    "la bicyclette",
+    "das fahrrad",
+    "la bicicleta",
+    "la bicicletta"
+   ],
+   "entries": [
+    {
+     "en": "saddle",
+     "fr": "la selle",
+     "de": "der Sattel",
+     "es": "el asiento",
+     "it": "il sellino",
+     "_pos": [
+      370,
+      116
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat post",
+     "fr": "le rube porte-selle",
+     "de": "die Sattelstutze",
+     "es": "el poste del asiento",
+     "it": "il tubo reggisella",
+     "_pos": [
+      526,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "water bottle",
+     "fr": "la bouteille d'eau",
+     "de": "die Wasserflasche",
+     "es": "la botella del agu",
+     "it": "la borraccia",
+     "_pos": [
+      742,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "frame",
+     "fr": "le cadre",
+     "de": "der Rahmen",
+     "es": "el cuadro",
+     "it": "il telaio",
+     "_pos": [
+      426,
+      216
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tandem",
+     "fr": "le tandem",
+     "de": "das Tandem",
+     "_pos": [
+      44,
+      287
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "brake",
+     "fr": "le frein",
+     "de": "die Felgenbremse",
+     "es": "el freno",
+     "it": "il freno",
+     "_pos": [
+      304,
+      288
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• el tàndem • il tandem",
+   "parts": [
+    "el tàndem",
+    "il tandem"
+   ],
+   "entries": [
+    {
+     "en": "hub",
+     "fr": "le moyeu",
+     "de": "die Nabe",
+     "es": "el eje",
+     "it": "il mozzo",
+     "_pos": [
+      272,
+      395
+     ],
+     "_flags": []
+    },
+    {
+     "en": "racing bike",
+     "fr": "le vélo de course",
+     "de": "das Rennrad",
+     "es": "la bicicleta de carreras",
+     "it": "la bicicletta da corsa",
+     "_pos": [
+      44,
+      493
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gears",
+     "fr": "les vitesses",
+     "de": "die Gänge",
+     "es": "los cam bios",
+     "it": "le maree",
+     "_pos": [
+      257,
+      510
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tire",
+     "fr": "le pneu",
+     "de": "der Reifen",
+     "es": "la llanta",
+     "it": "il pneumatico",
+     "_pos": [
+      406,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chain",
+     "fr": "la chaîne",
+     "de": "die Fahrradkette",
+     "es": "la cadena",
+     "it": "la catena",
+     "_pos": [
+      600,
+      693
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cog",
+     "fr": "la roue dentée",
+     "de": "das Zahnrad",
+     "es": "la estrella",
+     "it": "la ruota dentata",
+     "_pos": [
+      736,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mountain bike",
+     "fr": "le vélo tour terrain",
+     "de": "das Mountainbike",
+     "es": "la bicicleta de montaña",
+     "it": "la mountain bike",
+     "_pos": [
+      44,
+      756
+     ],
+     "_flags": []
+    },
+    {
+     "en": "helmet",
+     "fr": "le casque",
+     "de": "der Fahrradhelm",
+     "es": "el casco",
+     "it": "il casco",
+     "_pos": [
+      404,
+      824
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "Ai V ^ of 11 !! 41 j j J¡ tk \"di",
+   "parts": [
+    "ai v ^ of 11 !! 41 j j j¡ tk \"di"
+   ],
+   "entries": [
+    {
+     "en": "touring bike",
+     "fr": "le vélo de randonnée",
+     "de": "das Tourenfahrrad",
+     "es": "la bicicleta de paseo",
+     "it": "la bicicletta da turismo",
+     "_pos": [
+      43,
+      1019
+     ],
+     "_flags": []
+    },
+    {
+     "en": "road bike",
+     "fr": "le vélo de ville",
+     "de": "das Straßenrad",
+     "es": "la bicicleta de pista",
+     "it": "la bicicletta da strada",
+     "_pos": [
+      257,
+      1020
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cycle lane",
+     "fr": "la piste cyclable",
+     "de": "der Fahrradweg",
+     "es": "el carril de bicicletas",
+     "it": "la pista ciclabile",
+     "_pos": [
+      551,
+      1055
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "il cerchione",
+   "pos": [
+    308,
+    692
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "f",
+   "pos": [
+    673,
+    840
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "«a",
+   "pos": [
+    647,
+    857
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "I P p",
+   "pos": [
+    702,
+    857
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 9,
+  "flagged": 8,
+  "missing_lang": 1,
+  "leftovers": 4,
+  "subcats": 3
+ }
+}

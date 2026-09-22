@@ -1,0 +1,169 @@
+{
+ "page": 269,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "ambiente",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "header_raw": "E N V IR O N M E N T •L'ENVIRONNEMENT • DIE UMWELT • EL MEDIO AMBIENTE • LAM BIENTE",
+ "groups": [
+  {
+   "names_raw": "landscape • le paysage • die Landschaft • el paisaje • ¡I paesaggio",
+   "parts": [
+    "landscape",
+    "le paysage",
+    "die landschaft",
+    "el paisaje",
+    "i paesaggio"
+   ],
+   "entries": [
+    {
+     "en": "mountain",
+     "fr": "la montagne",
+     "de": "der Berg",
+     "es": "la montaña",
+     "it": "la montagna",
+     "_pos": [
+      46,
+      132
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slope",
+     "fr": "la pente",
+     "de": "der Hang",
+     "es": "la ladera",
+     "it": "la pendice",
+     "_pos": [
+      46,
+      231
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bank",
+     "fr": "la rive",
+     "de": "das Ufer",
+     "es": "la orilla",
+     "it": "la riva",
+     "_pos": [
+      46,
+      329
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glacier",
+     "fr": "le glacier",
+     "de": "der Gletscher",
+     "es": "el glaciar",
+     "it": "il ghiacciaio",
+     "_pos": [
+      684,
+      395
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la rivière",
+     "de": "der Fluss",
+     "es": "el no",
+     "it": "il fiume",
+     "_pos": [
+      46,
+      443
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "rapids",
+     "fr": "les rapides",
+     "de": "die Stromschnellen",
+     "es": "los rápidos",
+     "it": "le rapide",
+     "_pos": [
+      46,
+      525
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rocks",
+     "fr": "les rochers",
+     "de": "die Felsen",
+     "es": "las rocas",
+     "it": "le rocce",
+     "_pos": [
+      46,
+      640
+     ],
+     "_flags": []
+    },
+    {
+     "en": "valley",
+     "fr": "la vallée",
+     "de": "das Tal",
+     "es": "el valle",
+     "it": "la valle",
+     "_pos": [
+      684,
+      723
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hill",
+     "fr": "la colline",
+     "de": "der Hügel",
+     "es": "la colina",
+     "it": "la collina",
+     "_pos": [
+      47,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gorge",
+     "fr": "la gorge",
+     "de": "die Schlucht",
+     "es": "el desfiladero",
+     "it": "la gola",
+     "_pos": [
+      472,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cave",
+     "fr": "la caverne",
+     "de": "die Höhle",
+     "es": "la cueva",
+     "it": "la caverna",
+     "_pos": [
+      684,
+      1034
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 11,
+  "complete_clean": 4,
+  "flagged": 7,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

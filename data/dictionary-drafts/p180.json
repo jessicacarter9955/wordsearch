@@ -1,0 +1,235 @@
+{
+ "page": 180,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • LH T R A V A IL • DIE ARBEIT • E L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "actor",
+     "fr": "le comédien",
+     "de": "der Schauspieler",
+     "es": "el actor",
+     "it": "l'attore",
+     "_pos": [
+      458,
+      328
+     ],
+     "_flags": []
+    },
+    {
+     "en": "singer",
+     "fr": "la chanteuse",
+     "de": "die Sängerin",
+     "es": "la cantante",
+     "it": "la cantante",
+     "_pos": [
+      675,
+      328
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dancer",
+     "fr": "la danseuse",
+     "de": "die Tänzerin",
+     "es": "la bailarina",
+     "it": "lu ballerina",
+     "_pos": [
+      242,
+      329
+     ],
+     "_flags": []
+    },
+    {
+     "en": "musician",
+     "fr": "le musicien",
+     "de": "der Musiker",
+     "es": "el músico",
+     "it": "il musicista",
+     "_pos": [
+      26,
+      330
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sportsman",
+     "fr": "le sportif",
+     "de": "der Sportler",
+     "es": "el deportista",
+     "it": "l'atleta",
+     "_pos": [
+      460,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sculptor",
+     "fr": "le sculpteur",
+     "de": "der Bildhauer",
+     "es": "el escultor",
+     "it": "lo scultore",
+     "_pos": [
+      676,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "en": "barman",
+     "fr": "le barman",
+     "de": "der Barkeeper",
+     "es": "el bar man",
+     "it": "il barista",
+     "_pos": [
+      244,
+      545
+     ],
+     "_flags": []
+    },
+    {
+     "en": "waitress",
+     "fr": "la serveuse",
+     "de": "die Kellnerin",
+     "es": "la mesera",
+     "it": "a cameriera",
+     "_pos": [
+      27,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "en": "notes",
+     "fr": "les notes",
+     "de": "die Notizen",
+     "_pos": [
+      754,
+      611
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "photographer",
+     "fr": "le photographe",
+     "de": "der Fotograf",
+     "es": "el fotógrafo",
+     "it": "il fotografo",
+     "_pos": [
+      244,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "journalist",
+     "fr": "le journaliste",
+     "de": "der Journalist",
+     "es": "el periodista",
+     "it": "il giornalista",
+     "_pos": [
+      678,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "anchor",
+     "fr": "le présentateur",
+     "de": "der Nachrichtensprecher",
+     "es": "el presentador",
+     "it": "l'annunciatore",
+     "_pos": [
+      459,
+      796
+     ],
+     "_flags": []
+    },
+    {
+     "en": "painter",
+     "fr": "la peintre",
+     "de": "die Malerin",
+     "es": "la pintora",
+     "it": "la pittrice",
+     "_pos": [
+      29,
+      797
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailor",
+     "fr": "le couturier",
+     "de": "der Schneider",
+     "es": "el sastre",
+     "it": "il sarto",
+     "_pos": [
+      680,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seamstress",
+     "fr": "la couturière",
+     "de": "die Damenschneiderin",
+     "es": "la modista",
+     "it": "la costumista",
+     "_pos": [
+      464,
+      1047
+     ],
+     "_flags": []
+    },
+    {
+     "en": "designer",
+     "fr": "la dessinatrice",
+     "de": "die Designerà",
+     "es": "la diseñadora",
+     "it": "la disegnatrice",
+     "_pos": [
+      247,
+      1047
+     ],
+     "_flags": []
+    },
+    {
+     "en": "editor",
+     "fr": "la rédactrice",
+     "de": "die Redakteurin",
+     "es": "la redactora",
+     "it": "la redattrice",
+     "_pos": [
+      29,
+      1048
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 0,
+  "flagged": 17,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

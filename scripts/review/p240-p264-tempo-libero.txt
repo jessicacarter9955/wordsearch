@@ -1,0 +1,675 @@
+====================================================================================================
+== p240 [tempo-libero] 26 voci, 10 flag, 2 mancanti, 2 leftover, header=LEIS U R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO •~
+-- G0 subcat: theater • le théâtre • das Theater • el teatro • ¡I teatro
+   parts: theater • le théâtre • das theater • el teatro • i teatro
+ 0.0  M curtain | le rideau | der Vorhang | el telón | il sipario   
+ 0.1  M wings | les coulisses | die Kulisse | los bastidores | le quinte   
+ 0.2  ⚠ set | le décor | das Bühnenbild | la escenografía | I3 scenografia   it
+ 0.3  M audience | le public | das Publikum | el público | il pubblico   
+ 0.4  M orchestra | l'orchestre | das Orchester | la orquesta | l'orchestra   
+ 0.5  M seat | le fauteuil | der Sitzplatz | la butaca | la poltrona   
+ 0.6  M upper balcony | la deuxième gale~ | der zweite Rang | la platea alta | la seconda galle~   
+ 0.7  M director | le metteur en sc~ | der Regisseur | el director | il regista   
+ 0.8  M play | la pièce de théâ~ | das Theaterstück | la obra | l'opera teatrale   
+ 0.9  ⚠ ? | ? | die Premiere | el estreno | la prima   missing
+ 0.10 M row | la rangée | die Reihe | la tila | la fila   
+ 0.11 M box | la loge | die Loge | el palco | il palco   
+ 0.12 M producer | le metteur en sc~ | der Regisseur | el productor | il produttore   
+ 0.13 M cast | la distribution | die Besetzung | el reparto | il cast   
+ 0.14 ⚠ ? | ? | die Pause | el entreacto | l'intervallo   missing
+ 0.15 M mezzanine | la corbeille | der erste Rang | la platea | la galleria   
+ 0.16 M balcony | le balcon | der Balkon | la galena | la balconata   
+ 0.17 M actor | l'acteur | der Schauspieler | el actor | l'attore   
+ 0.18 M script | le texte | das Rollenheft | el guión | il copione   
+ 0.19 M program | le programme | das Programm | el programa | il programma   
+ 0.20 ⚠ orchestra | seats l'orchestre | das Parkett | las butacas | generales le pol~   wrap wrap-ambig
+        ALTS: [{'en': 'orchestra', 'fr': "seats l'orchestre", 'de': 'das Parkett', 'es': 'las butacas generales', 'it': 'le poltrone di platea'}, {'en': 'orchestra seats', 'fr': "l'orchestre", 'de': 'das Parkett', 'es': 'las butacas', 'it': 'generales le poltrone di platea'}]
+ 0.21 ⚠ aisle | Tal lee | der Gang | el pasillo | il corridoio   fr
+ 0.22 M backdrop | la toile de fond | der Prospekt | el telón de fondo | il fondale   
+ 0.23 M actress | l'actrice | die Schauspieler~ | la actriz | l'attrice   
+ 0.24 M orchestra pit | la fosse d'orche~ | der Orchestergra~ | el foso de la or~ | il golfo mistico   
+ 0.25 M seating | les places | die Bestuhlung | las butacas | le poltrone   
+   LEFT 'opening night' @[736, 693] (riga singola isolata)
+   LEFT 'intermissioni' @[736, 791] (riga singola isolata)
+====================================================================================================
+== p241 [tempo-libero] 26 voci, 12 flag, 2 mancanti, 1 leftover, header=LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • ~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M costume | le costume | das Theaterkostüm | el vestuario | il costume   
+ 0.1  M musical | la comédie music~ | das Musical | el musical | il musical   
+ 0.2  M concert | le concert | das Konzert | el concierto | il concerto   
+ 0.3  ⚠ ballet « le ball~ | ? | das Ballett | el ballet | il balletto   en missing
+ 0.4  M soundtrack | la bande sonore | die Tonspur | la banda sonora | la colonna sonora   
+ 0.5  M usher | le placeur | der Platzanweiser | el acomodador | la maschera   
+ 0.6    applaud (v) | applaudir | applaudieren | aplaudir | applaudire   
+ 0.7  M classical music | la musique class~ | die klassische M~ | la música clásica | la musica classi~   
+ 0.8  ⚠ W hat time does ~ | Ç a com m ence à~ | Um wie viel Uhr ~ | A qué hora em pi~ | A che ora inizia?   de en es fr it
+ 0.9  M encore | le bis | die Zugabe | el bis | il bis   
+ 0.10 M musical score | la partition | die Noten | la partitura | la partitura mus~   
+ 0.11 ⚠ opera | l'opéra die Oper | ? | la ópera | l'opera   missing
+-- G1 subcat: movies • le cinema • das Kino • el cine • il cinema
+   parts: movies • le cinéma • das kino • el cine • il cinema
+ 1.0  M comedy | la comédie | die Komödie | la comedia | la commedia   
+ 1.1  M romance | la com edie rom ~ | der Liebesfilm | la película romá~ | il film d'amore   
+ 1.2  M lobby | le foyer | das Foyer | el vestíbulo | l'atrio   
+ 1.3  M popcorn | le pop-corn | das Popcorn | las palom itas | il popcorn   
+ 1.4  M box office | la caisse | die Kasse | la taquilla | la biglietteria   
+ 1.5  M science fiction ~ | le film de scien~ | der Science-fict~ | la película de c~ | il film di fanta~   
+ 1.6  M thriller | le thriller | der Thnller | la película de s~ | il thriller   
+ 1.7  ⚠ poster | l'affiche | das Plakat | el póster | I   it
+ 1.8  M adventure | le film d'aventu~ | der Abenteuerfilm | la película de a~ | il film di avven~   
+ 1.9  M horror movie | le film d 'h o r~ | der Horrorfilm | la película de m~ | il film di orrore   
+ 1.10 M animated movie | le film d' anima~ | der Zeichentrick~ | la película de d~ | il film di anima~   
+ 1.11 ⚠ Western | le western | der Western | la película de v~ | il western   en
+ 1.12 M movie theater | la salle de cine~ | der Kinosaal | el cine | il cinema   
+ 1.13 M screen | l'écran | die Leinwand | la pantalla | lo schermo   
+   LEFT "I'd like two tickets for tonight's performance | Je voudrais deux billets pour la | représentation de ce soir | Ich möchte zwei Karten für die Aufführung heute | Abend | Q uisiera dos entradas para la sesión de esta | noche | Vorrei due biglietti per lo spettacolo di stasera" @[395, 340] (blocco 8 righe non partizionabile)
+====================================================================================================
+== p242 [tempo-libero] 26 voci, 11 flag, 3 mancanti, 0 leftover, header=LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • ~
+-- G0 subcat: orchestra • l'orchestre • das Orchester • la orquesta • l'orchestra strings • l~
+   parts: orchestra • l'orchestre • das orchester • la orquesta • l'orchestra strings • les cordes • ~
+ 0.0  ⚠ harp | la harpe | die Harfe | arpa | Tarpa   it
+ 0.1  ⚠ conductor | le chef d' orche~ | der Dirigent | el director de o~ | I direttore di o~   it
+ 0.2  M double bass | le contrebasse | der Kontrabass | el contrabajo | il contrabbasso   
+ 0.3  M cello | le violoncelle | das Cello | el violoncelo | il violoncello   
+ 0.4  ⚠ ? | le violon | die Geige | el vio lin | il violino   missing
+ 0.5  ⚠ ? | l'alto | die Bratsche | la viola | la viola   missing
+ 0.6  ⚠ ? | ? | das Podium | el podio | il podio   missing
+ 0.7  M score | la partition | die Noten | la partitura | lo spartito   
+ 0.8  M note | la note | die Note | la nota | la nota   
+ 0.9  M staff | la portée | das Liniensystem | el pentágrama | il pentagramma   
+ 0.10 M treble clef | la clé de sol | der Violinschlüs~ | la clave de sol | la chiave di sol   
+ 0.11 ⚠ bass clef | la clé de fa | der Bassschlüssel | la clave de la | la chiave di bas~   de
+ 0.12 ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['« :', 'notation', 'la notation', 'die Notation', 'la notación', "l'annotazione"]
+ 0.13 M piano | le piano | das Klavier | el piano | il pianoforte   
+ 0.14 ⚠ overture | Pou vern i re | die Ouvertüre | la obertura | l'ouverture   fr
+ 0.15 M sonata | la sonate | die Sonate | la sonata | la sonata   
+ 0.16 M rest | le silence | das Pausenzeichen | la pausa | la pausa   
+ 0.17 M sharp | la dièse | das Kreuz | sostenido | il diesis   
+ 0.18 M natural | le bécarre | das Auflösungsze~ | natural | naturale   
+ 0.19 M scale | la gamme | die Tonleiter | la escala | la scala   
+ 0.20 M symphony | la sym phonic | die Symphonie | la sinfonía | la sinfonia   
+ 0.21 M baton | la baguette | der Taktstock | la batura | la bacchetta   
+ 0.22 M instruments | les instruments | die Musikinstrum~ | los instrum entos | gli strumenti   
+ 0.23 M pitch | le ton | die Tonhöhe | el tono | il tono   
+ 0.24 ⚠ flat | le bémol | das B | bemol | il bemolle   de
+ 0.25 M bar | la barre de mesu~ | der Taktstrich | la barra | la battuta   
+====================================================================================================
+== p243 [tempo-libero] 21 voci, 21 flag, 3 mancanti, 1 leftover, header=LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • ~
+-- G0 subcat: woodwind • les bois • die Holzblasinstrumente • el viento-madera • gli strument~
+   parts: woodwind • les bois • die holzblasinstrumente • el viento-madera • gli strumenti a fiato
+ 0.0  ⚠ English horn | le cor anglais | das Englischhorn | el corno inglés | il corno inglese   en
+ 0.1  M piccolo | le piccolo | die Pikkoloflöte | el flautín | il piffero   
+ 0.2  ⚠ ? | ? | die Oboe | el oboe | l'oboe   missing
+ 0.3  ⚠ traversare | ? | die Querflöte | la flauta | il flauto   missing
+ 0.4  M bassoon | le basson | das Fagott | el fagote | il fagotto   
+ 0.5  M saxophone | le saxophone | das Saxophon | el saxofón | il sassofono   
+ 0.6  ⚠ double bassoon | le contrebasson | das Kontrafagott | el contra fagote | I controfagotto   it
+ 0.7  M bass clarinet | la clarinette li~ | die Bassklarmette | el clarinete bajo | il clarinetto ba~   
+ 0.8  ⚠ ? | ? | die Klarinette | el clarinete | il clarinetto   missing
+-- G1 subcat: percussion • la percussion • die Schlaginstrumente • la percusión • la percussi~
+   parts: percussion • la percussion • die schlaginstrumente • la percusión • la percussione
+ 1.0  M snare drum | la caisse claire | die kleine Tromm~ | el tambor pequeño | il tamburo milit~   
+ 1.1  M bongos | les bongos | die Bongos | los bongos | i bongo   
+ 1.2  M kettledrum | la timbale | die Kesselpauke | el timbal | il timpano   
+-- G2 subcat: W
+   parts: w
+ 2.0  ⚠ maracas | les m aracas | die Maracas | las maracas | i maracas   fr
+ 2.1  M tnangle | le triangle | der Triangel | el triángulo | il triangolo   
+ 2.2  M tambourine | le tambour | das Tamburin | el pandero | il tamburino   
+ 2.3  M cymbals | les cymbales | das Becken | los platillos | i cembali   
+ 2.4  M vibraphone | le vibraphone | das Vibraphon | la marimba | il vibrafono   
+-- G3 subcat: brass • les cuivres • die Blechblasinstrumente • el viento-metal • gli ottoni
+   parts: brass • les cuivres • die blechblasinstrumente • el viento-metal • gli ottoni
+ 3.0  M tuba | le tuba | die Tuba | la tuba | la tuba   
+ 3.1  M trombone | le trombone | die Posaune | el trombón de va~ | il trombone   
+ 3.2  ⚠ French horn | le cor | das Horn | el com o de caza | I corno   en it
+ 3.3  M trumpet | la trompette | die Trompete | la trompeta | la tromba   
+   LEFT 'X' @[334, 273] (riga singola isolata)
+====================================================================================================
+== p244 [tempo-libero] 19 voci, 9 flag, 2 mancanti, 0 leftover, header=LEISU R E • LE T E M P S UBRE • DIE FREIZEIT • EL O C IO • ~
+-- G0 subcat: concert • le concert • das Konzert • el concierto • il concerto
+   parts: concert • le concert • das konzert • el concierto • il concerto
+ 0.0  M lead singer | le chanteur | der Leadsänger | el vocalista | il cantante   
+ 0.1  M microphone | le microphone | das Mikrophon | el micrófono | il microfono   
+ 0.2  M drummer | le barreur | der Schlagzeuger | el batterista | il batterista   
+ 0.3  M guitarist | le guitariste | der Gitarrist | el guitarrista | chitarrista   
+ 0.4  M speaker | le haut-parleur | der Lautsprecher | la bocina | l'altoparlante   
+ 0.5  M fans | les fans | die Fans | los fans | i fans   
+ 0.6  M bass guitarist | le bassiste | der Bassgitarrist | el balista | il bassista   
+ 0.7  M lock concert | le concert de ro~ | das Rockkonzert | el concierto de ~ | il concerto rock   
+-- G1 subcat: instruments • les instruments • die Instrumente • los instrumentos • gli strume~
+   parts: instruments • les instruments • die instrumente • los instrumentos • gli strumenti
+ 1.0  M pickup | le pick-up | der Tonabnehmer | la pastilla | il riproduttore ~   
+ 1.1  M neck | le manche | der Hals | el mástil | il manico   
+ 1.2  M tuning peg | la cheville | der Wirbel | la clavija | il piroio   
+ 1.3  M fret | le sillet | der Bund | el traste | il tasto   
+ 1.4  ⚠ string | la corde | die Saite | la cuerda | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 1.5  M bridge | le chevalet | der Steg | el puente | il ponte   
+ 1.6  ⚠ drum | le tambour la co~ | die Trommel | el tambor | ?   missing
+ 1.7  M bass guitar | la hasse | die Bassgitarre | el bajo | il basso   
+ 1.8  M keyboard | le piano électro~ | das Keyboard | el teclado | la tastiera   
+ 1.9  M electric guitar | la giurare élect~ | die elektrische ~ | la guitarra eléc~ | la chitarra elet~   
+ 1.10 M drum kit | la batterie | das Schlagzeug | la batería | la batteria   
+====================================================================================================
+== p245 [tempo-libero] 16 voci, 11 flag, 0 mancanti, 0 leftover, header=LEISU R E • L E TEMPS LIBRE • DIE FREIZEIT • E L O C IO • I~
+-- G0 subcat: musical styles • les styles de musique • die Musikstile • los estilos musicales~
+   parts: musical styles • les styles de musique • die musikstile • los estilos musicales • gli stili~
+ 0.0  ⚠ punk | la m usique punk | die Punkmusik | el punk | il punk   fr
+ 0.1  M blues | le blues | der Blues | el blues | il blues   
+ 0.2  M jazz | le jazz | der Jazz | el ja zz | il jazz   
+ 0.3  M dance | la dance | die Tanzmusik | la música de bai~ | la musica da bal~   
+ 0.4  M pop | la pop | der Pop | el pop | il pop   
+ 0.5  ⚠ folk music | la m usique fo lk | der Folk | la música folkló~ | la musica folk   fr
+ 0.6  ⚠ classical music | la musique class~ | die klassische M~ | la m ùsica clási~ | la musica classi~   es
+ 0.7  ⚠ heavy melai | la heavy m ita i | das Heavymetal | el heavy m etal | l'heavy metal   es fr
+ 0.8  M rap | le rap | der Rap | el rap | il rap   
+ 0.9  M spotlight | le projecteur | der Scheinwerfer | el reflector | il proiettore   
+ 0.10 ⚠ country | la country | die Countrymusic | la m ùsica count~ | il country   es
+ 0.11 M reggae | le reggae | der Reggae | el reggae | il reggae   
+ 0.12 M beat | le bear | derBeat | el ritmo | il ritmo   
+ 0.13 ⚠ melody | la mélodie | die Melodie | la m elodia | la melodia   es
+ 0.14 M lyrics | les paroles | der Text | la letra | il testo   
+ 0.15 M song | la chanson | das Lied | la canción | la canzone   
+====================================================================================================
+== p246 [tempo-libero] 22 voci, 10 flag, 2 mancanti, 2 leftover, header=LEISU R E • I.E TEMPS UBRE • DIE FREIZEIT • EL O C IO • IL ~
+-- G0 subcat: sightseeing • le tourisme • die Besichtigungstour • el turismo • il turism o
+   parts: sightseeing • le tourisme • die besichtigungstour • el turismo • il turismo
+ 0.0  M itinerary | l'itinéraire | die Route | el itinerario | l'itinerario   
+ 0.1  ⚠ open top | à impériale | mit offenem Ober~ | descubierto | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 0.2  ⚠ tour bus | le bus touristiq~ | der Stadtrundfah~ | el autobús turís~ | I pullman turíst~   it
+ 0.3  ⚠ tour guide | la guide | die Fremdenführe~ | la guía turística | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.4  M figurine | la statuette | die Figur | la estatuilla | la statuina   
+ 0.5  M guided tour | la tour guidé | die Führung | la visita guiada | la visita guidata   
+ 0.6  M souvenirs | les souvenirs | die Andenken | los recuerdos | i ricordi   
+ 0.7  M tounst attraction | l'attraction tou~ | die Touristenatt~ | la atracción tur~ | il luogo d'inter~   
+ 0.8    open | ouvert | geöffnet | abierto | aperto   
+ 0.9  M guidebook | le guide | der Reiseführer | la gufa del viaj~ | la guida   
+ 0.10 M camcorder | le caméscope | der Camcorder | la cámara de vid~ | la videocamera   
+ 0.11 M left | à gauche | links | la izquierda | a sinistra   
+ 0.12 ⚠ W here is ...? | O ù e s t...? | Wo ist... ? | Dónde e stá ...?~ | Dovè...?   de en es fr it
+ 0.13   closed | fermé | geschlossen | cerrado | chiuso   
+ 0.14 M film | la pellicule | der Elm | la película | la pellicola   
+ 0.15 ⚠ Can you tell me ~ | Pour aller à ...~ | Können Sie mir s~ | komme? | Podría decirm e ~   de en es fr it wrap
+        ALTS: [{'en': 'Can you tell me the way to ....?', 'fr': "Pour alle r à ..., s'il vous plaît?", 'de': 'Können Sie mir sagen, wie ich nach', 'es': 'komme? ¿Podría decirm e cóm o se va a ...?', 'it': 'Mi può dire come si arriva a...?'}, {'en': 'Can you tell me the way to ....?', 'fr': "Pour alle r à ..., s'il vous plaît?", 'de': 'Können Sie mir sagen, wie ich nach komme?', 'es': '¿Podría decirm e cóm o se va a ...?', 'it': 'Mi può dire come si arriva a...?'}]
+ 0.16 M camera | l'appareil photo | die Kamera | la cámara fotogr~ | la macchina foto~   
+ 0.17 M right | à droite | rechts | la derecha | a destra   
+ 0.18 M admission charge | le prix d' entrée | das Eintrittsgeld | el precio de ent~ | la tariffa d'ing~   
+ 0.19 M batteries | les piles | die Batterien | las pilas | le batterie   
+ 0.20 M directions | les directions | die Richtungsang~ | las indicaciones | le indicazioni   
+ 0.21 M straight ahead | tout droit | geradeaus | recto | dritto   
+   LEFT "I'm lost | Je me suis perdu | Ich habe mich verlaufen" @[739, 790] (blocco 3 righe non risolvibile)
+   LEFT 'Mi sono perso' @[740, 855] (riga singola isolata)
+====================================================================================================
+== p247 [tempo-libero] 17 voci, 15 flag, 3 mancanti, 0 leftover, header=LEISU R E • T F. T E M P S L IB R E • DIE FREIZEIT • E L O ~
+-- G0 subcat: attractions • les attractions • die Sehenswürdigkeiten • los lugares de interés~
+   parts: attractions • les attractions • die sehenswürdigkeiten • los lugares de interés • i luoghi ~
+ 0.0  M famous njin | la ruine célèbre | die berühmte Rui~ | la ruina famosa | la rovina famosa   
+ 0.1  M exhibition | l'exposition | die Ausstellung | la exposk ión | l'esposizione   
+ 0.2  ⚠ painting | le tableau | das Gemälde | el cuadro | ?   missing
+ 0.3  ⚠ exhibit | l'objet exposé | das Ausstellungs~ | la muestra | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.4  M historic building | le monument hist~ | das historische ~ | el édifie io his~ | l'edificio stori~   
+ 0.5  M museum | le musée | das Museum | el museo | il museo   
+ 0.6  M monument | le monument | das Monument | el monumento | il monumento   
+ 0.7  M art gallery | le musée d'art | die Kunstgalerie | la galería de ar~ | la galleria d'ar~   
+ 0.8  M national park | le parc national | der Nationalpark | el parque nacion~ | il parco naziona~   
+ 0.9  M garden | le pare | der Park | los jardines | i giardini   
+ 0.10 M casino | le casino | das Kasino | el casino | il casinò   
+-- G1 subcat: • die Information • la inform ación • l'informazione
+   parts: die information • la inform ación • l'informazione
+-- G2 subcat: l'information
+   parts: l'information
+ 2.0  ⚠ information | ? | ? | ? | ?   missing
+ 2.1  M ornes | les heures | die Zeiten | las horas | gli orari   
+ 2.2  M tourist informat~ | l'information to~ | die Touristeninf~ | la oficina de in~ | l'ufficio inform~   
+ 2.3  M timetable | l'horaire | der Fahrplan | el horario | l'orario   
+ 2.4  M map | le plan | der Stadtplan | el mapa | la mappa   
+ 2.5  M floor plan | le plan | der Grundriss | el plano de la p~ | la pianta del pi~   
+====================================================================================================
+== p248 [tempo-libero] 12 voci, 9 flag, 3 mancanti, 1 leftover, header=LEISU R E • Lfc T E M P S L IB R E • DIE FREIZEIT • E L O C~
+-- G0 subcat: outdoor activities • les activités de plein air • die Aktivitäten im Freien • l~
+   parts: outdoor activities • les activités de plein air • die aktivitäten im freien • las actividad~
+ 0.0  M sundial | le cadran solaire | die Sonnenuhr | el reloj de sol | la meridiana   
+ 0.1  M footpath | le sentier | der Fußweg | el sendero | il sentiero   
+ 0.2  ⚠ café | le café | das Café | ? | ?   missing
+ 0.3  M park | le parc | der Park | el parque | il parco   
+ 0.4  M formai gardens | les jardins à la~ | die Gartenanlagen | los jardines clá~ | il giardino all'~   
+ 0.5  ⚠ ? | le banc | die Bank | la banca | la panchina   missing
+ 0.6  ⚠ ? | ? | das Gras | el pasto | il prato   missing
+ 0.7  M roller coaster | les montagnes ru~ | die Berg-und-Tal~ | la montaña rusa | le montagne russe   
+ 0.8  M fair | la foire | der Jahrmarkt | la feria | il luna park   
+ 0.9  M amusement park | le parc d'attrac~ | der Vergnügungsp~ | el parque de div~ | il parco a tema   
+ 0.10 M wildlife park | la réserve | der Safaripark | el safari park | lo zoosafari   
+ 0.11 M zoo | le zoo | der Zoo | el zoológico | lo zoo   
+   LEFT 'louse' @[548, 719] (riga singola isolata)
+====================================================================================================
+== p249 [tempo-libero] 17 voci, 17 flag, 2 mancanti, 0 leftover, header=LEISU R E • L E T E M P S I IR R E • DIE FREIZEIT • E L O C~
+-- G0 subcat: activities • les activités • die Aktivitäten • las actividades • le attività
+   parts: activities • les activités • die aktivitäten • las actividades • le attività
+ 0.0  M rollerblading | le roller | das Inlinerfahren | el patinaje | il pattinaggio   
+ 0.1  M skateboarding | la planche à rou~ | das Skateboardfa~ | lapa tineta | lo skateboard   
+ 0.2  M jogging | le jogging | das Jogging | el jogging | il footing   
+ 0.3  M cycling | le vélo | das Radfahren | el ciclismo | il ciclismo   
+ 0.4  M hamper | le panier à piqu~ | der Picknickkorb | la canasta | la cesta   
+ 0.5  M riding trail | la piste cavaliè~ | der Reitweg | el sendero para ~ | il sentiero per ~   
+ 0.6  ⚠ rJ | ? | ? | ? | ?   missing
+ 0.7  M hiking | la randonnée | das Wandern | la caminata | l'escursionismo   
+ 0.8  M picnic | le pique-nique | das Picknick | el pienù | il picnic   
+ 0.9  ⚠ horseback riding | I'equitation | das Reiten | la equitación | l'equitazione   fr
+ 0.10 M bird watching | l'observation de~ | das Vogel beobac~ | la ornitología | l'ornitologia   
+-- G1 subcat: playground • le terrain de jeux • der Spielplatz • el área de juegos • il parco~
+   parts: playground • le terrain de jeux • der spielplatz • el área de juegos • il parco giochi
+ 1.0  ⚠ swing | la ha | die Schaukel | ? | l'altalena   missing
+ 1.1  M wading pool | la pataugeoire | das Planschbecken | la alborea de pl~ | la piscina gonfi~   
+ 1.2  M sandbox | le bac à sable | der Sandkasten | el cajón de arena | la fossa di sabb~   
+ 1.3  M climber | la cage à poules | das Klettergerüst | el changuero | la struttura per~   
+ 1.4  M slide | le toboggan | die Rutsche | la resbaladilla | lo scivolo   
+ 1.5  M seesaw | la bascule | die Wippe | el subibaja | il bilanciere   
+====================================================================================================
+== p250 [tempo-libero] 6 voci, 2 flag, 0 mancanti, 0 leftover, header=LEISU R E • L E T E M P S L IB R E • DIE FREIZEIT • E L O C~
+-- G0 subcat: beach • la plage • der Strand • la playa • la spiaggia
+   parts: beach • la plage • der strand • la playa • la spiaggia
+ 0.0  ⚠ hotel | Pilòrci | das Hotel | el hotel | l'albergo   fr
+ 0.1  M beach umbrella | le parasol | der Sonnenschirm | la sombrilla | l'ombrellone   
+ 0.2  M beach hut | la cabine de pla~ | das Strandhausch~ | la caseta | la cabina   
+ 0.3  M sand | le sable | der Sand | la arena | la sabbia   
+ 0.4  M wave | la vague | die Welle | la ola | l'onda   
+ 0.5  ⚠ sunbathe (v) | prendre un bain ~ | sonnenbaden | asolear | prendere I sole   it
+====================================================================================================
+== p251 [tempo-libero] 17 voci, 13 flag, 3 mancanti, 1 leftover, header=LEISU R E • L E T E M P S U B R E • DIE FREIZEIT • E L O C ~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M lifeguard | le maître nageur | der Rettungsschw~ | el salvavidas | il bagnino   
+ 0.1  ⚠ deck chair | le transat asolc~ | ? | la sedia a sdraio | ?   fr missing
+ 0.2  ⚠ promenade | la promenade m a~ | ? | ? | il lungomare   fr missing
+ 0.3  M windbreak | le parc-vent | der Windschutz | la barrera contr~ | il paravento   
+ 0.4  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['lifeguard tower', 'la tour de surveillance', 'der Rettungsturm', 'la torn', 'de vigilancia', 'la torre di sorveglianza']
+-- G1 subcat: • der Liegestuhl • el
+   parts: der liegestuhl • el
+-- G2 subcat: • die Promenade • el paseo
+   parts: die promenade • el paseo
+ 2.0  ⚠ sunblock | l'écran t«na I | der Sonnenblock | la crema protect~ | la crema protett~   fr
+ 2.1  ⚠ suntan lotion | la lotion solaire | die Sonnenmilch | ? | ?   missing
+ 2.2  M sunhat | le chapeau de pl~ | der Sonnenhut | el sombrero para~ | il cappello da s~   
+ 2.3  M sunglasses | les lunettes de ~ | die Sonnenbrille | los lentes obscu~ | gli occhiali da ~   
+-- G3 subcat: • el bronceador • la crema
+   parts: el bronceador • la crema
+ 3.0  M swimsuit | le maillot de ba~ | der Badeanzug | el traje de baño | il costume da   
+ 3.1  M pad | le scau | der Eimer | la cubeta | il secchiello   
+ 3.2  M shovel | la pelle | der Spaten | la pala | la paletta   
+ 3.3  M rubber ring | la bouée | der Schwimmreifen | la llanta | la ciambella   
+ 3.4  M beach ball | le ballon de pla~ | der Wasserball | la pelota de pla~ | il pallone da sp~   
+ 3.5  M sandeasde | le château de sa~ | die Sandburg | el castillo de a~ | il castello di s~   
+ 3.6  M shell | le coquillage | die Muschel | la concha | la conchiglia   
+ 3.7  M beach towel | la serviette de ~ | das Strandtuch | la toalla de pla~ | l'asciugamano da~   
+   LEFT 'abbronzante' @[458, 563] (riga singola isolata)
+====================================================================================================
+== p252 [tempo-libero] 25 voci, 11 flag, 3 mancanti, 1 leftover, header=LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • ~
+-- G0 subcat: camping • le camping • das Camping • el camping il campeggio
+   parts: camping • le camping • das camping • el camping il campeggio
+ 0.0  ⚠ restrooms | les toilettes | die Toiletten | los baños | ?   missing
+ 0.1  M waste disposal | les poubelles | die Mülleimer | el contenedor de~ | rifuti   
+ 0.2  M showers | es douches | die Duschen | las regaderas | le docce   
+ 0.3  M electric hook-up | le branchement é~ | der Stromanschlu~ | el punto eléctri~ | la presa di corr~   
+ 0.4  M camper | la caravane | der Wohnwagen | la roulotte | la roulotte   
+ 0.5  M rope | la corde | die Zeltspannlei~ | la cuerda | la corda   
+ 0.6  ⚠ ? | le double toit | das Überdach | el toldo | il telo protetti~   missing
+ 0.7  ⚠ ? | le piquet | der Hering | la estaca | il piolo   missing
+ 0.8  M campsite | le terrain de ca~ | der Campingplatz | el cam ping | il campeggio   
+ 0.9    camp (v) | camper | zelten | acampar | campeggiare   
+ 0.10 M site | remplacement | der Zeltplatz | el lugar | il posteggio   
+ 0.11 M picnic bench | le banc à pique-~ | die Picknickbank | la mesa de picnic | il tavola da pic~   
+ 0.12 M charcoal | le charbon de bo~ | die Holzkohle | el carbón vegetal | la carbonella   
+ 0.13 M managers office | le bureau du chef | die Campingplatz~ | la oBcina del di~ | l'ufficio del di~   
+ 0.14 M pitch a tent (v) | monter une tente | ein Zelt aufschl~ | poner una tienda | piantare una ten~   
+ 0.15 M hammock | le hamac | die Hängematte | la hamaca | l'amaca   
+ 0.16 M firelighter | l'allum e-feu | der Feueranzünder | la pastilla para~ | l'esca per il fu~   
+ 0.17 M sites available | les emplacements~ | Zeltplätze frei | hay lugares libr~ | le piazzole disp~   
+ 0.18 M tent pole | le mât | die Zeltstange | el tubo de la ti~ | il palo   
+ 0.19 M camper van | l'autocaravanc | das Wohnmobil | el cam per | il camper   
+ 0.20 M light a Tire (v) | allumer un feu | ein Feuer machen | encender una fog~ | accendere un fuo~   
+ 0.21   full | complet | voll | lleno | completo   
+ 0.22 M cot | le lit de camp | das Faltbett | el catre de camp~ | il lettino da ca~   
+ 0.23 M trailer | la remorque | der Anhänger | el remolque | il rimorchio   
+ 0.24 M campfire | le feu de camp | das Lagerfeuer | la fogata | il fuoco   
+   LEFT '- n v ? lw' @[602, 471] (riga singola isolata)
+====================================================================================================
+== p253 [tempo-libero] 17 voci, 13 flag, 1 mancanti, 0 leftover, header=LEISU R E • LE TEM PS LIBR E • DIE FREIZEIT • EL O C IO • I~
+-- G0 subcat: (nessuna)
+ 0.0  M ground cloth | le tapis de sol | der Zeltboden | el suelo aislante | il telo isolante   
+ 0.1  M frame | le cadre | das Gestänge | la estructura | la struttura   
+ 0.2  ⚠ thermos | le Thermos | die Thermosflasc~ | el termo | il thermos   fr
+ 0.3  M backpack | le sac à dos | der Rucksack | la mochila | lo zaino   
+ 0.4  M water bottle | la bouteille d'e~ | die Wasserflasche | la cantimplora | la borraccia   
+ 0.5  M tent | la tente | das Zelt | la tienda de cam~ | la tenda   
+ 0.6  ⚠ ? | ? | das Moskitonetz | el mosquitero | la zanzariera   missing
+ 0.7  M thermal underwear | les sous-vêtemen~ | die Thermowäsche | la ropa térmica | gli indumenti te~   
+ 0.8  M flashlight | la lampe torche | die Taschenlampe | la linterna | la torcia   
+ 0.9  M insect repellent | le spray contre ~ | der Insektenspray | el repelente de ~ | il repellente pe~   
+ 0.10 M sleeping bag | le sac de coucha~ | der Schlafsack | el saco de dormir | il sacco a pelo   
+ 0.11 M rain clothes | l'imperméable | die Regenhaut | la manga | gli indumenti im~   
+ 0.12 M hiking boots | les chaussures d~ | die Wanderschuhe | las butas de tre~ | le scarpe da esc~   
+ 0.13 M sleeping mat | le tapis de so | die Schlafmatte | la esterilla | il materassino   
+ 0.14 M grill | le barbecue | der Grill | la parrilla | la griglia per b~   
+ 0.15 M camp stove | le réchaud | der Gasbrenner | la estufilla | il fornellcTto d~   
+ 0.16 M air mattress | le ma tel at pne~ | die Luftmatratze | la colchoneta | il materassino a~   
+====================================================================================================
+== p254 [tempo-libero] 14 voci, 9 flag, 0 mancanti, 0 leftover, header=LEISU R E • l.E TEMPS L IB R E • DIE FREIZEIT • E l. O C IO~
+-- G0 subcat: home entertainm ent • les distractions à la maison • die Privatunter haltung • ~
+   parts: home entertainment • les distractions à la maison • die privatunter haltung • el entretenim~
+ 0.0  ⚠ D VD | le D V D | die DVD-Piatte | el disco de D V D | il disco DVD   en es fr
+ 0.1  ⚠ personal CD play~ | le baladeur C D | der Discman | el discm an | il lettore di CD~   en fr
+ 0.2  ⚠ mini disc record~ | l'enregistreur m~ | der Minidiskreko~ | la grabadora de ~ | il lettore di mi~   es fr
+ 0.3  ⚠ MP3 player | le baladeur M P3 | der MP3-Spieler | el lector de M P3 | il lettore di MP3   de en es fr it
+ 0.4  ⚠ D VD player | le lecteur D V D | der DVD-Spieler | el reproductor d~ | il lettore di DVD   en es fr
+ 0.5  M record player | le tourne-disque | der Plattenspiel~ | el tocadiscos | il giradischi   
+ 0.6  ⚠ player | le lecteur C D | der CD-Spieler | el lector de dis~ | il lettore di CD   fr
+ 0.7  M speaker | le baffle | die Box | la bocina | l'altoparlante   
+ 0.8  M radio | la radio | das Radio | la radio | la radio   
+ 0.9  M amplifier | l'amplificateur | der Verstärker | el amplificador | l'amplificatore   
+ 0.10 ⚠ speaker stand | le supporr | der Ständer | el pie de la boc~ | il supporto per ~   wrap
+ 0.11 M headphones | les écouteurs | die Kopfhörer | los audífonos | le cuffie   
+ 0.12 M stereo rack | l'étagère | das Rack | el mueble | il supporto   
+ 0.13 M stereo system | la chaîne hi-fi | die Hi-Fi-Anlage | el equipo de alt~ | l'impianto stereo   
+====================================================================================================
+== p255 [tempo-libero] 33 voci, 20 flag, 2 mancanti, 0 leftover, header=LEISU R E • L E T E M P S L IB R E • DIE FREIZEIT • E L O C~
+-- G0 subcat: (nessuna)
+ 0.0  M screen | l'écran | der Bildschirm | la pantalla | lo schermo   
+ 0.1  M eyecup | l'œ illeton | die Okularmuschel | el borde del ocu~ | l'oculare   
+ 0.2  M videoupe | la vidéocassette | die Videokassette | el videocasete | la videocassetta   
+ 0.3  M satellite dish | l'antenne parabo~ | die Satellitensc~ | la antena parabó~ | l'antenna parabo~   
+ 0.4  M camcorder | le caméscope | der Camcorder | la cámara de vid~ | la videocamera   
+ 0.5  ⚠ VCR | le magnétoscope | der Videorekorder | la videocasetera | il videoregistra~   en
+ 0.6  ⚠ pause | la pause | die Pause | la pausa | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.7  M fast forward | l'avance rapide | der Vorlauf | el avance rápido | l'avanzamento ve~   
+ 0.8  M record | l'enregistrement | die Aufnahme | el botón para gr~ | la registrazione   
+ 0.9  M console | la console | das Pult | la consola | la console   
+ 0.10 ⚠ widescreen telev~ | la télévision 16~ | der Breitbildfer~ | la televisión de~ | il televisore a ~   fr
+ 0.11 M volume | le volume | die Lautstärke | el volumen | il volume   
+ 0.12 ⚠ stop | Parrei | der Stop | el stop | lo stop   fr
+ 0.13 M rewind | le retour rapide | der Rücklauf | el botón para re~ | il riawolgim cri~   
+ 0.14 M controller | la commande | der Steuerhebel | los controles | il comando   
+ 0.15 ⚠ ? | ? | das Abspielen | el play | il play   missing
+ 0.16 M remote control | la télécommande | die Fernbedienung | el control rem o~ | il telecomando   
+ 0.17 ⚠ video game | le jeu vidéo | das Videospiel | el video juego | I videogioco   it
+ 0.18 M tum off the tele~ | éteindre ta télé~ | den Fernseher ab~ | apagar la televi~ | spegnere la tele~   
+ 0.19 M pay-per-view cha~ | la chaîne à péage | der Pay-Kanal | el canal de pago~ | il canale a paga~   
+ 0.20 M cable television | la télévision pa~ | das Kabelfernseh~ | la televisión po~ | la televisione v~   
+ 0.21 M feature film | le film | der Spielfilm | la película | il lungometraggio   
+ 0.22 ⚠ C D | le C D | die CD-Platte | el disco com pac~ | il compact dise   en fr
+ 0.23 M turn on the tele~ | allumer la télév~ | den Fernseher ei~ | encender la tele~ | accendere la tel~   
+ 0.24 M tune the radio (~ | régler la radio | das Radio einste~ | sintonizar la ra~ | sintonizzare la ~   
+ 0.25 M programme | le programme | das Programm | el programa | il programma   
+ 0.26 M advertisement | la publicité | die Werbung | el anuncio | la pubblicità   
+ 0.27 M cassette tape | la cassette | die Kassette | el casete | l'audiocassetta   
+ 0.28 M watch television~ | regarder ta télé~ | femsehen | ver la televisión | guardare la tele~   
+ 0.29   stereo | stéréo | stereo | estéreo | stereo   
+ 0.30 M change channels ~ | changer de chaîne | den Kanal wechse~ | cambiar de canal | cambiare canale   
+ 0.31   digital | numérique | digital | digital | digitale   
+ 0.32 M cassette player | le lecteur casse~ | der Kassettenrek~ | la casetera | il mangianastri   
+====================================================================================================
+== p256 [tempo-libero] 18 voci, 16 flag, 2 mancanti, 0 leftover, header=LEISURE • LE TEMPS LIBRE • DIE FREIZEIT • EL O CIO • IL TEM~
+-- G0 subcat: photography • la photographie • die Fotografie • la fotografía • la fotografia
+   parts: photography • la photographie • die fotografie • la fotografía • la fotografia
+ 0.0  ⚠ aperture dial | le réglage de ^o~ | der Blendenregler | el obturador | il regolatore di~   fr
+ 0.1  ⚠ frame counter | le compteur de v~ | der Zähler | el indicador de ~ | I contafotogrammi   it
+ 0.2  ⚠ flash | le Hash | der Blitz | el flash | ?   fr missing
+ 0.3  ⚠ filter | le filtre | der Filter | el filtro | I filtro   it
+ 0.4  M shutter release | le déclencheur | der Ausloser | el disparador | il pulsante di s~   
+ 0.5  ⚠ lens cap | le bouchon «Tobj~ | die Schutzkappe | la tapa del lente | I copriobicttivo   fr it
+ 0.6  M shutter-speed di~ | le réglage du te~ | die Zeiteinstell~ | lu rueda de la v~ | il regolatore de~   
+ 0.7  ⚠ lens | Tobjecrif | die Linse | el lente | l'obiettivo   fr
+ 0.8  ⚠ SLR camera | l'appareil refle~ | die Spiegelrefle~ | la cám ara rèflex | la macchina foto~   en fr
+ 0.9  M flash gun | le flash compact | der Elektronenbl~ | el flash electró~ | il lampeggiatore   
+ 0.10 M light meter | le posemètre | der Belichtungsm~ | el fotómetro | l'esposimetro   
+ 0.11 M zoom lens | le zoom | das Zoom | el zoom | lo zoom   
+ 0.12 M tripod | le trépied | das Stativ | el tripié | il treppiede   
+-- G1 subcat: types of camera • les types d'appareils piloto • die Fotoapparattypen • los tip~
+   parts: types of camera • les types d'appareils piloto • die fotoapparattypen • los tipos de cámara
+ 1.0  ⚠ ? | ? | ? | ? | i tipi di macchi~   missing
+ 1.1  ⚠ digital camera | TapparciI num ér~ | die Digitalkamera | la cámara digital | la macchina foto~   fr
+ 1.2  ⚠ APS camera | Tappareil photo ~ | die Kamera für A~ | la cámara A TS | la macchina foto~   en fr
+ 1.3  ⚠ instant camera | Tappareil instan~ | die Sofortbildka~ | la cám ara Polar~ | la macchina foto~   fr
+ 1.4  ⚠ disposable camera | Tappareil jetable | die Einwegkamera | la cám ara desec~ | la m acchini fot~   fr it
+====================================================================================================
+== p257 [tempo-libero] 25 voci, 19 flag, 2 mancanti, 0 leftover, header=LEISU R E • LE TEM PS LIBR E • D IE F R E IZ E IT • EL O C ~
+-- G0 subcat: photograph photographier
+   parts: photograph photographier
+-- G1 subcat: fotografiar
+   parts: fotografiar
+-- G2 subcat: • fotografieren •
+   parts: fotografieren
+ 2.0  ⚠ (v) | ? | ? | ? | ?   missing
+ 2.1  ⚠ fotografare | ? | ? | ? | ?   missing
+ 2.2  M film spool | le rouleau de pe~ | die Filmspule | el carrete | il rollino   
+ 2.3    develop (v) | développer | entwickeln | revelar | sviluppare   
+ 2.4  M negative | le négatif | das Negativ | el negativo | il negativo   
+ 2.5  M film | la pellicule | der Film | el rollo | la pellicola   
+ 2.6  M focus (v) | mettre au point | einstellen | enfocar | mettere a fuoco   
+ 2.7    landscape | paysage | quer | apaisado | orizzontale   
+ 2.8  M portrait | portrait | hoch | en forma to vert~ | verticale   
+ 2.9  M photo album | l'album de photos | das Fotoalbum | el álbum de fotos | l'album fotograf~   
+ 2.10 M picture frame | le cadre de photo | der Fotorahmen | el portarretratos | la cornice   
+ 2.11 M photograph | la photo | das Foto | la fotografía | la fotografia   
+ 2.12 M viewfinder | le viseur | der Bildsucher | el visor | il mirino   
+ 2.13 M print | l'épreuve | der Abzug | la foto revelada | la fotografìa sv~   
+-- G3 subcat: problems • les problèmes • die Probleme • los problemas • i difetti
+   parts: problems • les problèmes • die probleme • los problemas • i difetti
+ 3.0  M camera case | le sac d'apparei~ | die Kameratasche | la funda de la c~ | l'astuccio   
+ 3.1    mat | mat | matt | mate | opaco   
+ 3.2  M exposure | la pose | die Belichtung | la exposición | l'esposizione   
+ 3.3  ⚠ gloss | b rillian t | Hochglanz | con brillo | lucido   fr
+ 3.4    overexposed | surexposé | überbelichtet | sobreexpuesto | sovraesposto   
+ 3.5    underexposed | sous-exposé | unterbelichtet | subexpuesto | sottoesposto   
+ 3.6  M enlargement | l'agrandissement | die Vergrößerung | la ampliación | l'ingrandimento   
+ 3.7  M darkroom | la chambre noire | die Dunkelkammer | el cuarto oscuro | la camera oscura   
+ 3.8  ⚠ I'd like this fi~ | Pourriez-vous fa~ | Könnten Sie dies~ | M e gustaría rev~ | Vorrei far svilu~   de en es fr it
+ 3.9  M out of focus | flou | unscharf | desenfocado | sfocato   
+ 3.10 M red eye | la tache rouge | die Rotfärbung d~ | los ojos rojos | l'occhio rosso   
+====================================================================================================
+== p258 [tempo-libero] 19 voci, 12 flag, 3 mancanti, 0 leftover, header=LEISU R E • LE TEM PS LIB R E • D IE F R E IZ E IT • EL O C~
+-- G0 subcat: games • les jeux • die Spiele • los juegos • i giochi
+   parts: games • les jeux • die spiele • los juegos • i giochi
+ 0.0  ⚠ white | blanc | weiß | blanco | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it'], ['en', 'fr', 'es', 'it'], ['en', 'de', 'es', 'it']]
+ 0.1  ⚠ queen | la dame | die Dame | la reina | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.2  M king | le roi | der König | el rey | il re   
+ 0.3    black | noir | schwarz | negro | nero   
+ 0.4  M chessboard | i'cchiq uicr | das Schachbrett | el tablero de aj~ | la scacchiera   
+ 0.5  M bishop | le fou | der Läufer | el alfil | l'alfiere   
+ 0.6  M pawn | le pion | der Bauer | el peón | il pendone   
+ 0.7  M rook | la tour | der Turm | la torre | la torre   
+ 0.8  M knight | le cavalier | der Springer | el caballo | il cavallo   
+ 0.9  M square | la case | das Feld | la casilla | la   
+ 0.10 M tile | la pièce | der Stein | la ficha | la pedina   
+ 0.11 M chess | les échecs | das Schach | el ajedrez | gli scacchi   
+ 0.12 ⚠ scrabble | le scrabble | das Scrabble | el scrabble | Io scrabble   it
+ 0.13 M checkers | les dames | das Damespiel | las damas | la dama   
+ 0.14 M counter | le jeton | die Spielmarke | la ficha | la pedina   
+ 0.15 ⚠ monopoly | le m onopoly | das Monopoly | el monopolio | I monopoly   fr it
+ 0.16 ⚠ ? | le dé | der Würfel | el dado | il dado   missing
+ 0.17 ⚠ backgammon | le trictrac | das Backgammon | el backgam m on | il trie trac la ~   es
+ 0.18 M board games | les jeux de soci~ | die Brettspiele | los juegos de me~ | i giochi da tavo~   
+====================================================================================================
+== p259 [tempo-libero] 36 voci, 17 flag, 1 mancanti, 0 leftover, header=LEISU R E • LE TEM PS LIB R E • D IE F R E IZ E IT • EL O C~
+-- G0 subcat: (nessuna)
+ 0.0  M dartboard | la cible | die Dartscheibe | la diana | il bersaglio   
+ 0.1  M bullseye | le mille | das Bull's Eye | el blanco | il centro   
+ 0.2  M dominoes | les dominos | das Domino | el dominó | il domino   
+ 0.3  M darts | les fléchettes | das Darts | los dardos | le freccette   
+ 0.4  M jigsaw puzzle | le puzzle | das Puzzle | el rompecabezas | il puzzle   
+ 0.5  M stamp collecting | la philatelic | das Briefmarkens~ | la filatelia | la filatelia   
+ 0.6  M diamond | le carreau | das Karo | el diamante | il quadro   
+ 0.7  M joker | le joker | der Joker | el comodín | il jolly   
+ 0.8  M jack | le valer | der Bube | el joto | il fante   
+ 0.9  M spade | le piqué | das Pik | la espada | la picea   
+ 0.10   shuffle (v) | battre | mischen | barajar | mescolare   
+ 0.11 M queen | la dame | die Dame | la reina | la regina   
+ 0.12 M heart | le cœ ur | das Herz | el corazón | il cuore   
+ 0.13 M king | le roi | der König | el rey | il re   
+ 0.14 M dub | le trèfle | das Kreuz | el trébol | il fiore   
+ 0.15 ⚠ ace »P as | ? | das Ass | e las | l'asso   en missing
+ 0.16   deal (v) | donner | geben | repartir | distribuire   
+ 0.17 M cards | les carres | die Karten | lascar tas | le carte   
+ 0.18 ⚠ W hose turn is i~ | est à qui de jou~ | Wer ist dran? | A quien le toca | A chi tocca?   de en es it
+ 0.19 M bridge | le bridge | das Bridge | el bridge | il bridge   
+ 0.20 M point | le point | der Punkt | el punto | il punto   
+ 0.21 M loser | le perdant | der Verlierer | el perdedor | il perdente   
+ 0.22   win (v) | gagner | gewinnen | ganar | vincere   
+ 0.23 M move | le coup | der Zug | el turno | la mossa   
+ 0.24 ⚠ It's your move | C' es ta toi de ~ | Dubist dran | Te toca a ti | Tocca a tc   en es fr it
+ 0.25 M deck of cards | le jeu de cartes | das Kartenspiel | la baraja | il mazzo di carte   
+ 0.26 M score | la marque | das Spielergebnis | la puntuación | il punteggio   
+ 0.27 M game | le eu | das Spiel | la partida | il gioco   
+ 0.28 M winner | le gagnant | der Gewinner | el ganador | il vincitore   
+ 0.29   play (v) | jouer | spielen | jugar | giocare   
+ 0.30 ⚠ Roll the dice | Jette le dé | Würfle | Tira los dados | Tira i dadi   en es fr it
+ 0.31 M poker | le poker | das Poker | el póquer | il poker   
+ 0.32 M suit | la couleur | die Farbe | el palo | il colore   
+ 0.33 M bet | le pari | die Wette | la apuesta | la scommessa   
+ 0.34   lose (v) | perdre | verlieren | perder | perdere   
+ 0.35 M player | le joueur | der Spieler | el jugador | il giocatore   
+====================================================================================================
+== p260 [tempo-libero] 25 voci, 22 flag, 2 mancanti, 1 leftover, header=LEIS U R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO •~
+-- G0 subcat: arts and crafts I • les arts et métiers 1 • das Kunsthandwerk 1 • las manualida~
+   parts: art sand craft si • les arts et métiers • das kunsthandwerk • las manualidades • arte e art~
+ 0.0  ⚠ paints | les couleurs pin~ | ? | la vernice | ?   missing
+-- G1 subcat: • die Farben • las
+   parts: die farben • las
+ 1.0  ⚠ easel | le chevalet | die Staffelei | el caballete | I cavalletto   it
+ 1.1  ⚠ painting | le tableau | das Gemälde | n I « « / ! | ?   es missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 1.2  M artist | l'artiste peintre | die Künstlerin | la pintora | l'artista   
+ 1.3  M canvas | la toile | die Leinwand | el lienzo | la tela   
+ 1.4  M oil paints | les couleurs à r~ | die Ölfarben | las pintura sal ~ | i colon ad olio   
+ 1.5  M brush | le pinceau | der Pinsel | el pincel | il pennello   
+ 1.6  M watercolors | la couleur à Peau | die Aquarellfarbe | las acuarelas | gli acquarelli   
+ 1.7  M palette | la palette | die Palette | la paleta | la tavolozza   
+-- G2 subcat: lililí
+   parts: lililí
+ 2.0  M pastels | les pastels | die Pastellstifte | los pasteles | i pastelli   
+ 2.1  M painting | la peinture | die Malerei | la pintura | la pittura   
+-- G3 subcat: colors • les couleurs • die Farben • los colores • i colori
+   parts: colors • les couleurs • die farben • los colores • i colori
+ 3.0    green | vert | grün | verde | verde   
+ 3.1    red | rouge | rot | rojo | rosso   
+ 3.2    blue | bleu | blau | azul | blu   
+ 3.3    yellow | jaune | gelb | amarillo | giallo   
+ 3.4  M acrylic paint | l'acrylique | die Acrylfarbe | la pintura acril~ | i colori acrilici   
+ 3.5    orange | orange | orange | naranja | arancione   
+ 3.6    white | blanc | weiß | blanco | bianco   
+ 3.7    purple | violet | lila | morado | viola   
+ 3.8    black | noir | schwarz | negro | nero   
+ 3.9  M poster paint | la gouache | die Plakatfarbe | la tèm pera | la tempera   
+ 3.10 M brown | marron | braun | mar ron | marrone   
+ 3.11 M indigo | indigo | indigoblau | azul añil | indaco   
+ 3.12   gray | gris | grau | gris | grigio   
+ 3.13   pink | rose | rosa | rosa | rosa   
+   LEFT 'y' @[102, 495] (riga singola isolata)
+====================================================================================================
+== p261 [tempo-libero] 25 voci, 13 flag, 0 mancanti, 1 leftover, header=LEISU R E • LE TEM PS LIBR E • DIE FREIZEIT • EL O C IO • I~
+-- G0 subcat: other crafts • les autres arts • andere Kunstfertigkeiten • las otras maniialid~
+   parts: other crafts • les autres arts • andere kunstfertigkeiten • las otras maniialidades • altri~
+ 0.0  M ink | l'encre | die Druckfarbe | la tinta | l'inchiostro   
+ 0.1  M sketch | le croquis | die Skizze | el boceto | lo schizzo   
+ 0.2  M sketchbook | le carnet à croq~ | der Skizzenblock | el bloc de dibujo | il blocco per sc~   
+ 0.3  M charcoal | le fusain | der Kohlestift | el carboncillo | il carboncino   
+ 0.4  M pencil | le crayon | der Bleistift | el lápiz | la matita   
+ 0.5  M engraving | la gravure | das Gravieren | el grabado | l'incisione   
+ 0.6  M printing | l'imprimerie | das Drucken | la impresión | la stampa   
+ 0.7  M drawing | le dessin | das Zeichnen | el dibujo | il disegno   
+ 0.8  M chisel | le burin | der Meißel | el cincel | lo scalpello   
+ 0.9  M mallet | le maillet | der Schlegel | el mazo | il martello   
+ 0.10 M stone | la pierre | der Stein | la piedra | la pietra   
+ 0.11 M wood | le bois | das Holz | la madera | il legno   
+ 0.12 M modeling tool | la spatule | das Modellierholz | la herramienta p~ | l'attrezzo per m~   
+ 0.13 M potter's wheel | le tour de potier | die Drehscheibe | el tomo de alfar~ | il tornio dava s~   
+ 0.14 M woodworking | la sculpture sur~ | die Holzarbeit | la talla en made~ | la falegnameria   
+ 0.15 M sculpting | la sculpture | die Bildhauerei | la escultura | la scultura   
+ 0.16 M day | l'argile | der Ton | la arcilla | l'argilla   
+ 0.17 ⚠ cardboard | Ir can o n | die Pappe | la cartulina | il cartone   fr
+ 0.18 M glue | la colle | der Klebstoff | el pegamento | la colla   
+ 0.19 M pottery | la poterie | die Töpferei | la cerámica | lacer amica   
+ 0.20 M collage | le collage | die Collage | el collage | il collage   
+ 0.21 ⚠ model-making | le m odélism e | der Modellbau | el m odelism o | il modellismo   es fr
+ 0.22 M origami | l'origam i | das Origami | la papiroflexia | lungarni   
+ 0.23 ⚠ papier-màché | le papier mâche | das Papiermaché | el papel m achó | la cartapesta   es
+ 0.24 M lewelry making | la joaillerie | die Juwelierarbe~ | la orfebrería | l'oreficeria   
+   LEFT '^' @[92, 667] (riga singola isolata)
+====================================================================================================
+== p262 [tempo-libero] 22 voci, 14 flag, 0 mancanti, 2 leftover, header=LEISU R E • I H T E M P S L IB R E • DIE FREIZEIT • E L O C~
+-- G0 subcat: arts and crafts 2 • les arts et métiers 2 • das Kunsthandwerk 2 • las manualida~
+   parts: arts and crafts • les arts et métiers • das kunsthandwerk • las manualidades • arte e artig~
+ 0.0  M thread guide | le guide de Fil | der Faden leiter | la guía del hilo | il guidafilo   
+ 0.1  M thread reel | la bobine de fil | der Spuler | el carrete de hi~ | il rocchetto del~   
+ 0.2  M balance wheel | le balancier | das Handrad | la rueda de ajus~ | la ruota   
+ 0.3  M needle | l'aiguille | die Ñadel | la aguia | lago   
+ 0.4  M presser foot | le picd-de-biche | der Stoffdrücker | el pie de la agu~ | il piedino   
+-- G1 subcat: gagati
+   parts: gagati
+ 1.0  M stitch seleccor | le sélecteur de ~ | der Stichwähler | el selector de p~ | il selezionatore~   
+ 1.1  M needle plate | la platine | die Stichplatte | la placa de la ag | la piastrina dél~   
+ 1.2  M sewing machine | la machine à cou~ | die Nähmaschine | la máquina de co~ | la macchina da c~   
+ 1.3  M pincushion | la pelote à épin~ | das Nadelkissen | el alfiletero | il puntaspilli   
+ 1.4  M scissors | les ciseaux | die Schere | las tijeras | le forbici   
+ 1.5  M pattern | le patron | das Schnittmuster | patrón | il modello   
+ 1.6  ⚠ pin | l'épingle | die Stecknadel | el a lliie r | lo spillo   es
+ 1.7  ⚠ tape measure | le centimètre | das Zentimetermaß | la cinta m etrica | il metro   es
+ 1.8  M material | le tissu | der Stoff | la tela | la stoffa   
+ 1.9  ⚠ sewing basket | la corbeille à c~ | der Nähkorb | costurero | Li cesta del cuc~   it
+ 1.10 M thread | le fil | das Garn | el hilo | il filo   
+ 1.11 ⚠ eye | Barillet | die Öse | la hembra | l'occhiello   fr
+-- G2 subcat: o
+   parts: o
+ 2.0  M bobbin | la bobine | die Spule | la bobina | la bobina   
+ 2.1  M hook | l'agrafe | der Haken | macho | il gancio   
+ 2.2  M thimble | le dé à coudre | der Fingerhut | el dedal | il ditale   
+ 2.3  M tailor's chalk | la craie de tail~ | die Schneiderkre~ | el jaboncillo | il gesso   
+ 2.4  M tailor's dummy | le mannequin | die Schneiderpup~ | el maniquí | il manichino   
+   LEFT 'ï$' @[260, 943] (riga singola isolata)
+   LEFT '1' @[262, 998] (riga singola isolata)
+====================================================================================================
+== p263 [tempo-libero] 31 voci, 20 flag, 1 mancanti, 0 leftover, header=LEISU R E • L E T E M P S LIBRE • DIE FREIZEIT • EL OCIO • ~
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ stitch | le point | der Stich | la puntada | ?   missing slot-ambig
+        ALTS: [['en', 'fr', 'de', 'it']]
+ 0.1    tack (v) | bâtir | heften | hilvanar | imbastire   
+ 0.2    cut (v) | couper | schneiden | cortar | tagliare   
+ 0.3    darn (v) | repriser | stopfen | zurcir | rammendare   
+ 0.4    sew (v) | coudre | nähen | coser | cucire   
+ 0.5    thread (v) | enfiler | einfädeln | ensartar | infilare   
+ 0.6  M crochet hook | le crochet | der Häkelhaken | la aguja de ganc~ | l'uncinetto   
+ 0.7  M patchwork | le patchwork | das Patchwork | la labor de reta~ | il patchwork   
+ 0.8  M embroidery | la broderie | die Stickerei | el bordado | il ricamo   
+ 0.9  M crochet | le crochet | das Häkeln | el ganchillo | l'uncinetto   
+ 0.10 ⚠ macramé | le m acram é | das Makramee | el m acram é | il macramè   es fr
+ 0.11 ⚠ needlepoint | la tapisserie | die Tapisserie | el Bordado en ca~ | la punta dell'ago   es
+ 0.12 M loom | le mener à tisser | der Webstuhl | el telar | il telaio   
+ 0.13 M lace bobbin | le fuseau | der Klöppel | el bolillo | la spoletta   
+ 0.14 M nylon | le nylon | das Nylon | el nailon | il nailon   
+ 0.15   unpick (v) | défaire | auftrennen | descoser | scucire   
+ 0.16 M silk | la soie | die Seide | la seda | la seta   
+ 0.17 M fabric | le tissu | der Stoff | la tela | la tela   
+ 0.18 M designer | le styliste | der Modedesigner | el diseñador | lo stilista   
+ 0.19 M weaving | le tissage | die Weberei | tejer | la tessitura   
+ 0.20 M cotton | le coton | die Baumwolle | el algodón | il cotone   
+ 0.21 M lace making | la dentelle | die Spitzenklöpp~ | la labor de enca~ | la fabbricazione~   
+ 0.22 M quilting | le ouatage | das Wattieren | el acolchado | il trapunto   
+ 0.23 M fashion | la mode | die Mode | la moda | la moda   
+ 0.24 M linen | le lin | das Leinen | el lino | il lino   
+ 0.25 M yam | la laine | die Wolle | la lana | la lana   
+ 0.26 ⚠ knitting needle | Paiguille à tric~ | die Stricknadel | la aguja de tejer | il ferro da calza   fr
+ 0.27 M zipper | la fermeture écl~ | der Reißverschlu~ | la cremallera | la chiusura lampo   
+ 0.28 M polyester | le polyester | das Polyester | el poliéster | il poliestere   
+ 0.29 ⚠ skein | Péche veau | der Strang | la madeja | la matassa   fr
+ 0.30 M knitting | le tricot | das Stricken | la labor de punto | il lavoro a magl~   
+====================================================================================================
+== p264 [tempo-libero] PAGINA DIVISORIA / SENZA VOCI
+   LEFT 'N' @[897, 262]
+   LEFT 'V' @[874, 270]

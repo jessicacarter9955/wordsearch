@@ -1,0 +1,203 @@
+{
+ "page": 184,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "# / T R A N S P O R T A T IO N • I .F T R A N S P O R T • DER VERKEHR * E L T R A N S P O R T E * I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "bus • le bus • der Bus • el autobus • l'autobus",
+   "parts": [
+    "bus",
+    "le bus",
+    "der bus",
+    "el autobus",
+    "l'autobus"
+   ],
+   "entries": [
+    {
+     "en": "driver's seat",
+     "fr": "le siège du conducteur",
+     "de": "der Fahrersitz",
+     "es": "el asiento del conductor",
+     "it": "il sedile dell'autista",
+     "_pos": [
+      41,
+      127
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handrail",
+     "fr": "la poignée",
+     "de": "der Haltegriff",
+     "es": "la barandilla",
+     "it": "la maniglia",
+     "_pos": [
+      213,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "automatic door",
+     "fr": "la porte automatique",
+     "de": "die Automatiktür",
+     "es": "la puerta automática",
+     "it": "la porta a soffietto",
+     "_pos": [
+      350,
+      128
+     ],
+     "_flags": []
+    },
+    {
+     "en": "front wheel",
+     "fr": "la roue avant",
+     "de": "das Vorderrad",
+     "es": "la rueda delantera el portaequipaje",
+     "it": "la ruota anteriore",
+     "_pos": [
+      524,
+      130
+     ],
+     "_flags": []
+    },
+    {
+     "en": "luggage hold",
+     "fr": "le compartiment à bagages",
+     "de": "das Gepackfach",
+     "_pos": [
+      647,
+      130
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "door",
+     "fr": "la porre",
+     "de": "die Tür",
+     "es": "la puerta",
+     "it": "la porta",
+     "_pos": [
+      40,
+      603
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bus",
+     "fr": "le car",
+     "de": "der Reisebus",
+     "es": "el autocar",
+     "it": "il pullman",
+     "_pos": [
+      295,
+      606
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "types of buses • les types de bus • die Bustypen • los tipos de autobuses • i tipi di autobus",
+   "parts": [
+    "types of buses",
+    "les types de bus",
+    "die bustypen",
+    "los tipos de autobuses",
+    "i tipi di autobus"
+   ],
+   "entries": [
+    {
+     "en": "route number",
+     "fr": "le numéro de bus",
+     "de": "die Liniennummer",
+     "es": "el num ero de ruta",
+     "it": "numero del percorso",
+     "_pos": [
+      230,
+      720
+     ],
+     "_flags": []
+    },
+    {
+     "en": "streetcar",
+     "fr": "le trolleybus",
+     "de": "der Obus",
+     "es": "el trolebús",
+     "it": "il filobus",
+     "_pos": [
+      522,
+      870
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le conducteur",
+     "de": "der Fahrer",
+     "es": "el chófer",
+     "it": "l'autista",
+     "_pos": [
+      228,
+      884
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "double-decker bus",
+     "fr": "le bus à deux étages",
+     "de": "der Doppeldecker",
+     "es": "el autobús de dos pisos",
+     "it": "l'autobus a due piani",
+     "_pos": [
+      38,
+      1015
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tram",
+     "fr": "le tramway",
+     "de": "die Straßenbahn",
+     "es": "el tranvía",
+     "it": "il tram",
+     "_pos": [
+      352,
+      1017
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "il bagagliaio",
+   "pos": [
+    648,
+    196
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 12,
+  "complete_clean": 5,
+  "flagged": 7,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 2
+ }
+}

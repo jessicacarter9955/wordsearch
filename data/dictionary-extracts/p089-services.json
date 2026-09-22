@@ -1,0 +1,533 @@
+{
+ "page": 89,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "vigili-del-fuoco",
+   "names": {
+    "en": "fire department",
+    "fr": "les pompiers",
+    "de": "die feuerwehr",
+    "es": "los bomberos",
+    "it": "i vigili del fuoco"
+   },
+   "entries": [
+    {
+     "en": "helmet",
+     "fr": "casque",
+     "de": "Schutzhelm",
+     "es": "casco",
+     "it": "casco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 10,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "smoke",
+     "fr": "fumée",
+     "de": "Rauch",
+     "es": "hum o",
+     "it": "fumo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "hose",
+     "fr": "túyau",
+     "de": "Schlauch",
+     "es": "manguera",
+     "it": "idrante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "cherry picker",
+     "fr": "nacelle",
+     "de": "Auslegerkorb",
+     "es": "cesta",
+     "it": "gabbia",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 12,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "water jet",
+     "fr": "jet d' eau",
+     "de": "Wasserstrahl",
+     "es": "chorro de agua",
+     "it": "getto d'acqua",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 12,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "firefighters",
+     "fr": "sapeurs-pompiers",
+     "de": "Feuerwehrleute",
+     "es": "bomberos",
+     "it": "vigili del fuoco",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 14,
+      "es": 8,
+      "it": 14
+     }
+    },
+    {
+     "en": "boom",
+     "fr": "fiòche",
+     "de": "Ausleger",
+     "es": "brazo",
+     "it": "braccio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "ladder",
+     "fr": "échelle",
+     "de": "Leiter",
+     "es": "escalera",
+     "it": "scala",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "cab",
+     "fr": "cabine",
+     "de": "Fahrerkabine",
+     "es": "laca bina",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 12,
+      "es": 8
+     }
+    },
+    {
+     "en": "fire",
+     "fr": "incendie",
+     "de": "Brand",
+     "es": "incendio",
+     "it": "incendio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "fire escape",
+     "fr": "escalier de secours",
+     "de": "Feuertreppe",
+     "es": "escalera de incendios",
+     "it": "scala di sicurezza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 11,
+      "es": 19,
+      "it": 16
+     }
+    },
+    {
+     "en": "fire engine",
+     "fr": "voiture de pompiers",
+     "de": "Löschfahrzeug",
+     "es": "carro de bom beros",
+     "it": "autopompa",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 13,
+      "es": 15,
+      "it": 9
+     }
+    },
+    {
+     "en": "fire station",
+     "fr": "poste d'incendie",
+     "de": "Feuerwache",
+     "es": "estación de bomberos",
+     "it": "caserma dei vigili del fuoco",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 10,
+      "es": 18,
+      "it": 24
+     }
+    },
+    {
+     "en": "fire extinguisher",
+     "fr": "extincteur",
+     "de": "Feuerlöscher",
+     "es": "extintor",
+     "it": "estintore",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 10,
+      "de": 12,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "fire alarm",
+     "fr": "avertisseur d'incendie",
+     "de": "Feuermelder",
+     "es": "alarm a contra incendios",
+     "it": "allarme antincendio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 20,
+      "de": 11,
+      "es": 21,
+      "it": 18
+     }
+    },
+    {
+     "en": "ax",
+     "fr": "hache",
+     "de": "Beil",
+     "es": "hacha",
+     "it": "ascia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 2,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "hydrant",
+     "fr": "borne d'incendie",
+     "de": "Hydrant",
+     "es": "bomba de agua",
+     "it": "idrante",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 7,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "smoke alarm",
+     "fr": "détecteur de fumée",
+     "de": "Rauchmelder",
+     "es": "ei detector de hum o",
+     "it": "allarme antifumo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 11,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "There's been an accident",
+     "fr": "1! y a eu un accident",
+     "de": "Es i stein Unfall passiert",
+     "es": "H a habido un accidente",
+     "it": "Cè stato un incidente",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 15,
+      "de": 22,
+      "es": 19,
+      "it": 18
+     }
+    },
+    {
+     "en": "Call the police!",
+     "fr": "Appelez la police!",
+     "de": "Rufen Sie die Polizei!",
+     "es": "Llam e a la policía!",
+     "it": "Chiamate la polizia!",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 18,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "There's a fire at",
+     "fr": "U y a un incendie à",
+     "de": "Esbrennt in",
+     "es": "Ha y un incendio en",
+     "it": "Cè un incendio a",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 10,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "I need the police/fire department/ambulance",
+     "fr": "1.a policc/ks pompiers/unc ambulance, s'il vous plaît",
+     "de": "Polizei/die Feuerwehr/einen Krankenwagen, bitte",
+     "es": "Necesito la policia/los bomberos/una ambulancia",
+     "it": "Ho bisogno della polizia/tlei vigili del fuoco/di un'ambulanza",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "Die"
+     },
+     "_grid_len": {
+      "en": 37,
+      "fr": 42,
+      "de": 41,
+      "es": 41,
+      "it": 52
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

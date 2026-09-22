@@ -1,0 +1,45 @@
+{
+ "page": 151,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "study l'étude",
+   "parts": [
+    "study l'étude"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "das Lernen el estudio",
+   "parts": [
+    "das lernen el estudio"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "lo studio",
+   "parts": [
+    "lo studio"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

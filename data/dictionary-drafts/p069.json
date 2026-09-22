@@ -1,0 +1,277 @@
+{
+ "page": 69,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "nursery • la chambre d'enfants • das Kinderzimmer • la habitación de los niños • la camera dei bambini",
+   "parts": [
+    "nursery",
+    "la chambre d'enfants",
+    "das kinderzimmer",
+    "la habitación de los niños",
+    "la camera dei bambini"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "baby care • Ics soins de bébé • die Säuglingspflege • el cuidado del bebé",
+   "parts": [
+    "baby care",
+    "ics soins de bébé",
+    "die säuglingspflege",
+    "el cuidado del bebé"
+   ],
+   "entries": [
+    {
+     "fr": "l'igiene del neonato",
+     "_pos": [
+      58,
+      167
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "diaper rash cream",
+     "fr": "la crème pour l'érythème",
+     "de": "die Wundsalbe",
+     "es": "la crem a para las rozaduras",
+     "it": "la pomata antirossore",
+     "_pos": [
+      331,
+      201
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wet wipe",
+     "fr": "la serviette humide",
+     "de": "das Erfrischungs tuch",
+     "es": "la tool li ta húmeda",
+     "it": "la salvicttma umidificata",
+     "_pos": [
+      539,
+      202
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sponge",
+     "fr": "l'éponge",
+     "de": "der Schwamm",
+     "es": "la esponja",
+     "_pos": [
+      220,
+      248
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "baby bath",
+     "fr": "la baignoire en plastique",
+     "de": "die Babywanne",
+     "es": "ía tina de plástico",
+     "it": "la vaschetta",
+     "_pos": [
+      56,
+      545
+     ],
+     "_flags": []
+    },
+    {
+     "en": "changing mat",
+     "fr": "le maretas à langer « die Wickelmatte",
+     "es": "el cambiador",
+     "it": "il materassi no",
+     "_pos": [
+      644,
+      549
+     ],
+     "_flags": [
+      "missing:de",
+      "fr:weird:«"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "sleeping • le coucher • das Schlafen • la hora de dorm ir • la dormita",
+   "parts": [
+    "sleeping",
+    "le coucher",
+    "das schlafen",
+    "la hora de dormir",
+    "la dormita"
+   ],
+   "entries": [
+    {
+     "en": "sheet",
+     "fr": "le drap",
+     "de": "das Laken",
+     "es": "la sábana",
+     "it": "il lenzuolo",
+     "_pos": [
+      590,
+      631
+     ],
+     "_flags": []
+    },
+    {
+     "en": "blanket",
+     "fr": "la couverture",
+     "de": "die Decke",
+     "es": "la cobija",
+     "it": "la coperta",
+     "_pos": [
+      736,
+      633
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mobile",
+     "fr": "le mobile",
+     "de": "das Mobile",
+     "es": "el móvil",
+     "it": "il mobile",
+     "_pos": [
+      76,
+      644
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bars",
+     "fr": "les barreaux",
+     "de": "die Gitterstäbe",
+     "es": "los barrotes",
+     "it": "le sbarre",
+     "_pos": [
+      454,
+      696
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fleece",
+     "fr": "la Couverture laineuse",
+     "de": "die Flauschdecke",
+     "es": "el vellón",
+     "it": "la felpa",
+     "_pos": [
+      580,
+      748
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "bedding",
+     "fr": "la literie",
+     "de": "das Bettzeug",
+     "es": "la ropa de cama",
+     "it": "la biancheria da letto",
+     "_pos": [
+      688,
+      830
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bumper",
+     "fr": "le protège-barreaux",
+     "de": "der Kopfschutz",
+     "es": "el protector",
+     "it": "il paracolpi",
+     "_pos": [
+      454,
+      844
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mattress",
+     "fr": "le matelas",
+     "de": "die Matratze",
+     "es": "el colchón",
+     "it": "il materasso",
+     "_pos": [
+      268,
+      1010
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rattle",
+     "fr": "le hochet",
+     "de": "die Rassel",
+     "es": "la sonaja",
+     "it": "il sonaglio",
+     "_pos": [
+      476,
+      1044
+     ],
+     "_flags": []
+    },
+    {
+     "en": "moses basket",
+     "fr": "le moïse",
+     "de": "das Körbchen",
+     "es": "el moisés",
+     "it": "il portabebè",
+     "_pos": [
+      668,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crib",
+     "fr": "le lit d' enfant",
+     "de": "das Kinderbett",
+     "es": "la cuna",
+     "it": "il lettino",
+     "_pos": [
+      54,
+      1075
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 3,
+  "flagged": 14,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

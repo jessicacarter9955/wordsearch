@@ -1,0 +1,358 @@
+{
+ "page": 146,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "E A T IN G O U T • SORTIR MANGER • AUSW ÄRTS ESSEN • C O M E R FUERA • MANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "sausage",
+     "fr": "la saucisse",
+     "de": "die Wurst",
+     "es": "la salchicha",
+     "it": "Wurstel",
+     "_pos": [
+      772,
+      82
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "mustard",
+     "fr": "la moutarde",
+     "de": "der Senf",
+     "es": "la mostaza",
+     "it": "la senape",
+     "_pos": [
+      652,
+      83
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bun",
+     "fr": "le petit pan",
+     "de": "das Brötchen",
+     "es": "el hollo",
+     "it": "il panino",
+     "_pos": [
+      408,
+      84
+     ],
+     "_flags": []
+    },
+    {
+     "en": "veglie burger",
+     "fr": "le hamburger végé tanen",
+     "de": "der vegetarische Hamburger",
+     "es": "la hamburguesa vegetariana",
+     "it": "l'hamburger vegetariano",
+     "_pos": [
+      444,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hot dog",
+     "fr": "le hot-dog",
+     "de": "das HotDog",
+     "es": "el hot dog",
+     "it": "l'hot dog",
+     "_pos": [
+      686,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chicken burger",
+     "fr": "le hamburger au poulet",
+     "de": "der Chìckenburger",
+     "es": "la hamburguesa de pollo",
+     "it": "l'hamburger di pollo",
+     "_pos": [
+      234,
+      247
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hamburger",
+     "fr": "le hamburger",
+     "de": "der Hamburger",
+     "es": "la hamburguesa",
+     "it": "l'hamburger",
+     "_pos": [
+      32,
+      249
+     ],
+     "_flags": []
+    },
+    {
+     "en": "filling",
+     "fr": "la garniture",
+     "de": "die Füllung",
+     "es": "el relleno",
+     "it": "I ripieno",
+     "_pos": [
+      630,
+      312
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "wrap",
+     "fr": "le taco",
+     "de": "das gefüllte Fladenbrot",
+     "es": "el taco",
+     "it": "la piadina",
+     "_pos": [
+      712,
+      459
+     ],
+     "_flags": []
+    },
+    {
+     "en": "open face sandwich",
+     "fr": "le canapé",
+     "de": "das belegte Brot",
+     "es": "el sandwich abierto",
+     "it": "il tramezzino aperto",
+     "_pos": [
+      453,
+      460
+     ],
+     "_flags": []
+    },
+    {
+     "en": "club sandwich",
+     "fr": "le sandwich mixte",
+     "de": "der Klubsandwich",
+     "es": "el club sandwich",
+     "it": "il tramezzino a strati",
+     "_pos": [
+      244,
+      461
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sub",
+     "fr": "le sandwich",
+     "de": "der Sandwich",
+     "es": "el bocadillo",
+     "it": "il tramezzino",
+     "_pos": [
+      34,
+      462
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sweet",
+     "fr": "sucré",
+     "de": "süß",
+     "es": "dulce",
+     "_pos": [
+      802,
+      540
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "savory",
+     "fr": "salé",
+     "de": "salzig",
+     "es": "salado",
+     "it": "salato",
+     "_pos": [
+      474,
+      542
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sauce",
+     "fr": "la sauce",
+     "de": "die Soße",
+     "es": "la salsa",
+     "_pos": [
+      200,
+      543
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "topping",
+     "fr": "la garniture",
+     "de": "der Pizzabelag",
+     "es": "los ingredientes",
+     "it": "il condimento",
+     "_pos": [
+      751,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chicken nuggets",
+     "fr": "les beignets de poulet",
+     "de": "die Hähnchenstückchen",
+     "es": "los nuggets de pollo",
+     "it": "i bocconcini di pollo",
+     "_pos": [
+      246,
+      756
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kabob",
+     "fr": "le kébab",
+     "de": "der Kebab",
+     "es": "el alambre",
+     "it": "il kebab",
+     "_pos": [
+      36,
+      757
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crepes",
+     "fr": "les crêpes",
+     "de": "die Crêpes",
+     "es": "la crèpe",
+     "it": "la crèpe",
+     "_pos": [
+      500,
+      787
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fried chicken",
+     "fr": "le poulet fnr",
+     "de": "das gebratene Hähnchen « e l pollo trito",
+     "it": "il pollo fritto",
+     "_pos": [
+      483,
+      1017
+     ],
+     "_flags": [
+      "missing:es",
+      "de:weird:«"
+     ]
+    },
+    {
+     "en": "pizza",
+     "fr": "la pizza",
+     "de": "die Pizza",
+     "es": "la pizza",
+     "it": "la pizza",
+     "_pos": [
+      694,
+      1017
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ribs",
+     "fr": "les côtes",
+     "de": "die Rippen",
+     "es": "las costillas",
+     "it": "le costolette",
+     "_pos": [
+      288,
+      1018
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      38,
+      1020
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "fish and chips",
+      "le poisson avec des frites",
+      "der Brattisch mit Pommes fntes",
+      "el pescado con papas",
+      "ritas",
+      "il pesce con patatine"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "p _ . dolce",
+   "pos": [
+    774,
+    606
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 4,
+  "flagged": 19,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 0
+ }
+}

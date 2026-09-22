@@ -1,0 +1,341 @@
+{
+ "page": 243,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIB R E • DIE FREIZEIT • EL O C IO • IL T EM P O LIB ER O",
+ "groups": [
+  {
+   "names_raw": "woodwind • les bois • die Holzblasinstrumente • el viento-madera • gli strumenti a fiato",
+   "parts": [
+    "woodwind",
+    "les bois",
+    "die holzblasinstrumente",
+    "el viento-madera",
+    "gli strumenti a fiato"
+   ],
+   "entries": [
+    {
+     "en": "English horn",
+     "fr": "le cor anglais",
+     "de": "das Englischhorn",
+     "es": "el corno inglés",
+     "it": "il corno inglese",
+     "_pos": [
+      536,
+      191
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "piccolo",
+     "fr": "le piccolo",
+     "de": "die Pikkoloflöte",
+     "es": "el flautín",
+     "it": "il piffero",
+     "_pos": [
+      26,
+      194
+     ],
+     "_flags": []
+    },
+    {
+     "de": "die Oboe",
+     "es": "el oboe",
+     "it": "l'oboe",
+     "_pos": [
+      366,
+      209
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "traversare",
+     "de": "die Querflöte",
+     "es": "la flauta",
+     "it": "il flauto",
+     "_pos": [
+      196,
+      209
+     ],
+     "_flags": [
+      "missing:fr"
+     ]
+    },
+    {
+     "en": "bassoon",
+     "fr": "le basson",
+     "de": "das Fagott",
+     "es": "el fagote",
+     "it": "il fagotto",
+     "_pos": [
+      367,
+      339
+     ],
+     "_flags": []
+    },
+    {
+     "en": "saxophone",
+     "fr": "le saxophone",
+     "de": "das Saxophon",
+     "es": "el saxofón",
+     "it": "il sassofono",
+     "_pos": [
+      707,
+      339
+     ],
+     "_flags": []
+    },
+    {
+     "en": "double bassoon",
+     "fr": "le contrebasson",
+     "de": "das Kontrafagott",
+     "es": "el contra fagote",
+     "it": "I controfagotto",
+     "_pos": [
+      536,
+      340
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "bass clarinet",
+     "fr": "la clarinette liasse",
+     "de": "die Bassklarmette",
+     "es": "el clarinete bajo",
+     "it": "il clarinetto basso",
+     "_pos": [
+      196,
+      341
+     ],
+     "_flags": []
+    },
+    {
+     "de": "die Klarinette",
+     "es": "el clarinete",
+     "it": "il clarinetto",
+     "_pos": [
+      27,
+      358
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "percussion • la percussion • die Schlaginstrumente • la percusión • la percussione",
+   "parts": [
+    "percussion",
+    "la percussion",
+    "die schlaginstrumente",
+    "la percusión",
+    "la percussione"
+   ],
+   "entries": [
+    {
+     "en": "snare drum",
+     "fr": "la caisse claire",
+     "de": "die kleine Trommel",
+     "es": "el tambor pequeño",
+     "it": "il tamburo militare",
+     "_pos": [
+      708,
+      568
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bongos",
+     "fr": "les bongos",
+     "de": "die Bongos",
+     "es": "los bongos",
+     "it": "i bongo",
+     "_pos": [
+      538,
+      569
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kettledrum",
+     "fr": "la timbale",
+     "de": "die Kesselpauke",
+     "es": "el timbal",
+     "it": "il timpano",
+     "_pos": [
+      28,
+      620
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "W",
+   "parts": [
+    "w"
+   ],
+   "entries": [
+    {
+     "en": "maracas",
+     "fr": "les m aracas",
+     "de": "die Maracas",
+     "es": "las maracas",
+     "it": "i maracas",
+     "_pos": [
+      764,
+      748
+     ],
+     "_flags": [
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "tnangle",
+     "fr": "le triangle",
+     "de": "der Triangel",
+     "es": "el triángulo",
+     "it": "il triangolo",
+     "_pos": [
+      608,
+      749
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tambourine",
+     "fr": "le tambour",
+     "de": "das Tamburin",
+     "es": "el pandero",
+     "it": "il tamburino",
+     "_pos": [
+      214,
+      767
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cymbals",
+     "fr": "les cymbales",
+     "de": "das Becken",
+     "es": "los platillos",
+     "it": "i cembali",
+     "_pos": [
+      30,
+      768
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vibraphone",
+     "fr": "le vibraphone",
+     "de": "das Vibraphon",
+     "es": "la marimba",
+     "it": "il vibrafono",
+     "_pos": [
+      360,
+      800
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "brass • les cuivres • die Blechblasinstrumente • el viento-metal • gli ottoni",
+   "parts": [
+    "brass",
+    "les cuivres",
+    "die blechblasinstrumente",
+    "el viento-metal",
+    "gli ottoni"
+   ],
+   "entries": [
+    {
+     "en": "tuba",
+     "fr": "le tuba",
+     "de": "die Tuba",
+     "es": "la tuba",
+     "it": "la tuba",
+     "_pos": [
+      712,
+      1028
+     ],
+     "_flags": []
+    },
+    {
+     "en": "trombone",
+     "fr": "le trombone",
+     "de": "die Posaune",
+     "es": "el trombón de varas",
+     "it": "il trombone",
+     "_pos": [
+      240,
+      1029
+     ],
+     "_flags": []
+    },
+    {
+     "en": "French horn",
+     "fr": "le cor",
+     "de": "das Horn",
+     "es": "el com o de caza",
+     "it": "I corno",
+     "_pos": [
+      498,
+      1029
+     ],
+     "_flags": [
+      "en:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "trumpet",
+     "fr": "la trompette",
+     "de": "die Trompete",
+     "es": "la trompeta",
+     "it": "la tromba",
+     "_pos": [
+      31,
+      1031
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "X",
+   "pos": [
+    334,
+    273
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 0,
+  "flagged": 21,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 4
+ }
+}

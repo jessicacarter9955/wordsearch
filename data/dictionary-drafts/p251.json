@@ -1,0 +1,282 @@
+{
+ "page": 251,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • L E T E M P S U B R E • DIE FREIZEIT • E L O C IO • Il TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "lifeguard",
+     "fr": "le maître nageur",
+     "de": "der Rettungsschwimmer",
+     "es": "el salvavidas",
+     "it": "il bagnino",
+     "_pos": [
+      163,
+      75
+     ],
+     "_flags": []
+    },
+    {
+     "en": "deck chair",
+     "fr": "le transat asolc3dero",
+     "es": "la sedia a sdraio",
+     "_pos": [
+      666,
+      267
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:it",
+      "fr:num:asolc3dero"
+     ]
+    },
+    {
+     "en": "promenade",
+     "fr": "la promenade m arítim o",
+     "it": "il lungomare",
+     "_pos": [
+      454,
+      268
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "fr:short:m"
+     ]
+    },
+    {
+     "en": "windbreak",
+     "fr": "le parc-vent",
+     "de": "der Windschutz",
+     "es": "la barrera contra el viento",
+     "it": "il paravento",
+     "_pos": [
+      240,
+      271
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      28,
+      273
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "lifeguard tower",
+      "la tour de surveillance",
+      "der Rettungsturm",
+      "la torn",
+      "de vigilancia",
+      "la torre di sorveglianza"
+     ]
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "• der Liegestuhl • el",
+   "parts": [
+    "der liegestuhl",
+    "el"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• die Promenade • el paseo",
+   "parts": [
+    "die promenade",
+    "el paseo"
+   ],
+   "entries": [
+    {
+     "en": "sunblock",
+     "fr": "l'écran t«na I",
+     "de": "der Sonnenblock",
+     "es": "la crema protectora",
+     "it": "la crema protettiva",
+     "_pos": [
+      670,
+      512
+     ],
+     "_flags": [
+      "fr:weird:t«na"
+     ]
+    },
+    {
+     "en": "suntan lotion",
+     "fr": "la lotion solaire",
+     "de": "die Sonnenmilch",
+     "_pos": [
+      458,
+      514
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "sunhat",
+     "fr": "le chapeau de plage",
+     "de": "der Sonnenhut",
+     "es": "el sombrero para el sol",
+     "it": "il cappello da spiaggia",
+     "_pos": [
+      245,
+      516
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sunglasses",
+     "fr": "les lunettes de soleil",
+     "de": "die Sonnenbrille",
+     "es": "los lentes obscuros",
+     "it": "gli occhiali da sole",
+     "_pos": [
+      32,
+      519
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "• el bronceador • la crema",
+   "parts": [
+    "el bronceador",
+    "la crema"
+   ],
+   "entries": [
+    {
+     "en": "swimsuit",
+     "fr": "le maillot de bain",
+     "de": "der Badeanzug",
+     "es": "el traje de baño",
+     "it": "il costume da",
+     "_pos": [
+      501,
+      596
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pad",
+     "fr": "le scau",
+     "de": "der Eimer",
+     "es": "la cubeta",
+     "it": "il secchiello",
+     "_pos": [
+      779,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shovel",
+     "fr": "la pelle",
+     "de": "der Spaten",
+     "es": "la pala",
+     "it": "la paletta",
+     "_pos": [
+      460,
+      695
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rubber ring",
+     "fr": "la bouée",
+     "de": "der Schwimmreifen",
+     "es": "la llanta",
+     "it": "la ciambella",
+     "_pos": [
+      248,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beach ball",
+     "fr": "le ballon de plage",
+     "de": "der Wasserball",
+     "es": "la pelota de playa",
+     "it": "il pallone da spiaggia",
+     "_pos": [
+      36,
+      766
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sandeasde",
+     "fr": "le château de sable",
+     "de": "die Sandburg",
+     "es": "el castillo de arena",
+     "it": "il castello di sabbia",
+     "_pos": [
+      280,
+      845
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shell",
+     "fr": "le coquillage",
+     "de": "die Muschel",
+     "es": "la concha",
+     "it": "la conchiglia",
+     "_pos": [
+      281,
+      977
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beach towel",
+     "fr": "la serviette de plage",
+     "de": "das Strandtuch",
+     "es": "la toalla de playa",
+     "it": "l'asciugamano da spiaggia",
+     "_pos": [
+      38,
+      1012
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "abbronzante",
+   "pos": [
+    458,
+    563
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 4,
+  "flagged": 13,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 3
+ }
+}

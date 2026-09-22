@@ -1,0 +1,395 @@
+{
+ "page": 204,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "porto",
+   "names": {
+    "en": "port",
+    "fr": "le port",
+    "de": "der hafen",
+    "es": "el puerto",
+    "it": "i porto"
+   },
+   "entries": [
+    {
+     "en": "warehouse",
+     "fr": "entrepôt",
+     "de": "Warenlager",
+     "es": "bodega",
+     "it": "magazzino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "crane",
+     "fr": "grue",
+     "de": "Kran",
+     "es": "grúa",
+     "it": "gru",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 3
+     }
+    },
+    {
+     "en": "forklift",
+     "fr": "chariot élévateur",
+     "de": "Gabelstapler",
+     "es": "carretilla elevadora",
+     "it": "carrello elevatore",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 16,
+      "de": 12,
+      "es": 19,
+      "it": 17
+     }
+    },
+    {
+     "en": "access road",
+     "fr": "route d'accès",
+     "de": "Zufahrtsstraße",
+     "es": "vía de acceso",
+     "it": "strada di accesso",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 15,
+      "es": 11,
+      "it": 15
+     }
+    },
+    {
+     "en": "customs house",
+     "fr": "bureau des douanes",
+     "de": "Zollamt",
+     "es": "aduanas del puerto",
+     "it": "ufficio della dogana",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "las",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 7,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "it": "w »II» u l i! A l i i > i r . »",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "it": "I"
+     },
+     "_grid_len": {
+      "it": 12
+     }
+    },
+    {
+     "fr": ">",
+     "_multi": [],
+     "_grid_len": {
+      "fr": 0
+     }
+    },
+    {
+     "en": "container",
+     "fr": "conteneur",
+     "de": "Container",
+     "es": "contenedor",
+     "it": "container",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "dock",
+     "fr": "dock",
+     "de": "Dock",
+     "es": "dársena",
+     "it": "bacino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "1 quay",
+     "fr": "quai",
+     "de": "Kai",
+     "es": "muelle",
+     "it": "banchina",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 3,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "cargo",
+     "fr": "cargaison",
+     "de": "Fracht",
+     "es": "carga",
+     "it": "carico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "ferry terminal",
+     "fr": "term inal tie ferrys",
+     "de": "Fährterminal",
+     "es": "terminal del ferry",
+     "it": "terminale dei traghetti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 12,
+      "es": 16,
+      "it": 21
+     }
+    },
+    {
+     "en": "ferryboat",
+     "fr": "ferry",
+     "de": "Fähre",
+     "es": "ferry",
+     "it": "traghetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "ticket office",
+     "fr": "guichet",
+     "de": "Fahrkartenschalter",
+     "es": "ventanilla de boletos",
+     "it": "bialietterin",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 18,
+      "es": 19,
+      "it": 12
+     }
+    },
+    {
+     "en": "passenger",
+     "fr": "passager",
+     "de": "Passagier",
+     "es": "pasajero",
+     "it": "passeggero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "containerport",
+     "fr": "port de conteneurs",
+     "de": "Containerhafen",
+     "es": "m uelle com ercial",
+     "it": "porto per container",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 14,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "passenger port",
+     "fr": "port de passagers",
+     "de": "Passagier hafen",
+     "es": "muelle de pasajeros",
+     "it": "porto per passeggeri",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 14,
+      "es": 17,
+      "it": 18
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

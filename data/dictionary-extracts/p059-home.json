@@ -1,0 +1,563 @@
+{
+ "page": 59,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "pepper",
+     "fr": "poivre",
+     "de": "Pfeffer",
+     "es": "nim irntn",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 8
+     }
+    },
+    {
+     "en": "table",
+     "fr": "table",
+     "de": "Tisch",
+     "es": "mesa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 4
+     }
+    },
+    {
+     "en": "crockery",
+     "fr": "vaisselle",
+     "de": "Geschirr",
+     "es": "vajilla",
+     "it": "piatti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "chair",
+     "fr": "chaise",
+     "de": "Stuhl",
+     "es": "silla",
+     "it": "sedia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "cutlery",
+     "fr": "couverts",
+     "de": "Besteck",
+     "es": "cubiertos",
+     "it": "posate",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "back",
+     "fr": "dossier",
+     "de": "Lehne",
+     "es": "respaldo",
+     "it": "schienale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "seat",
+     "fr": "siège",
+     "de": "Srtzfläche",
+     "es": "asiento",
+     "it": "sedile",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "leg",
+     "fr": "pied",
+     "de": "Bein",
+     "es": "pata",
+     "it": "gamba",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "May 1 have some m ore, please?",
+     "fr": "Enco re un peu, s'il vous plait?",
+     "de": "Konnte ich bitte noch ein bisschen haben?",
+     "es": "Puedo com er otro poco?",
+     "it": "Posso averne ancora, per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 22,
+      "fr": 23,
+      "de": 34,
+      "es": 18,
+      "it": 26
+     }
+    },
+    {
+     "en": "set the tab ley",
+     "fr": "mettre la table",
+     "de": "Tisch decken",
+     "es": "poner la mesa",
+     "it": "apparecchiare",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "den"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 11,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "lunch",
+     "fr": "déjeuner",
+     "de": "Mittagessen",
+     "es": "com ida",
+     "it": "pranzo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 11,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "place mat",
+     "fr": "napperon",
+     "de": "Set",
+     "es": "mantel individual",
+     "it": "tovaglia individuale",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 3,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "full",
+     "fr": "rassasié",
+     "de": "satt",
+     "es": "lleno",
+     "it": "sazio",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "host",
+     "fr": "Lhóre",
+     "de": "Gastgeber",
+     "es": "anfitrión",
+     "it": "padrone di casa",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 9,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "I've had enough, thank you",
+     "fr": "N on m erci, j'en ai eu asse",
+     "de": "Ich bin satt, danke",
+     "es": "Estoy lleno, gracias",
+     "it": "Ne ho avuto abbastanza, grazie",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 19,
+      "de": 15,
+      "es": 17,
+      "it": 25
+     }
+    },
+    {
+     "en": "serve y",
+     "fr": "servir",
+     "de": "servieren",
+     "es": "servir",
+     "it": "servire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "tablecloth",
+     "fr": "nappe",
+     "de": "Tischdecke",
+     "es": "mantel",
+     "it": "tovaglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "dinner",
+     "fr": "dîner",
+     "de": "Abendessen",
+     "es": "cena",
+     "it": "cena",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "portion",
+     "fr": "portion",
+     "de": "Portion",
+     "es": "ración",
+     "it": "porzione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "hostess",
+     "fr": "hôtesse",
+     "de": "Gastgeberin",
+     "es": "anfitrión a",
+     "it": "padrona di casa",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "That was delicious",
+     "fr": "'était délicieux",
+     "de": "war lecker",
+     "es": "Estaba riquísim o",
+     "it": "Era squisito",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "Das"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 14,
+      "de": 9,
+      "es": 15,
+      "it": 11
+     }
+    },
+    {
+     "en": "eat (v)",
+     "fr": "manger",
+     "de": "essen",
+     "es": "comer",
+     "it": "mangiare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "hungry",
+     "fr": "avoir faim",
+     "de": "hungrig",
+     "es": "hambriento",
+     "it": "affamato",
+     "_multi": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 7,
+      "es": 10,
+      "it": 8
+     }
+    },
+    {
+     "en": "breakfast",
+     "fr": "petit déjeuner",
+     "de": "Frühstück",
+     "es": "desayuno",
+     "it": "colazione",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 9,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "guest",
+     "fr": "invité",
+     "de": "Gast",
+     "es": "invitado",
+     "it": "ospite",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "meal",
+     "fr": "repas",
+     "de": "Essen",
+     "es": "com ida",
+     "it": "pasto",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

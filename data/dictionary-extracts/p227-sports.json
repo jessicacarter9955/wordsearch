@@ -1,0 +1,423 @@
+{
+ "page": 227,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "vela",
+   "names": {
+    "en": "sailing",
+    "fr": "la voile",
+    "de": "der segelsport",
+    "es": "la vela",
+    "it": "la vela"
+   },
+   "entries": [
+    {
+     "en": "mast",
+     "fr": "mât",
+     "de": "Mast",
+     "es": "mástil",
+     "it": "albero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "ngging",
+     "fr": "gréement",
+     "de": "Takelung",
+     "es": "jarcias",
+     "it": "sartiame",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "mainsail",
+     "fr": "grand-voile",
+     "de": "Großsegel",
+     "es": "vela ma vor",
+     "it": "vela di maestra",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "compass",
+     "fr": "compas",
+     "de": "Kompass",
+     "es": "b ruitila",
+     "it": "bussola",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "anchor",
+     "fr": "ancre",
+     "de": "Anker",
+     "es": "ancla",
+     "it": "ancora",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "headsail",
+     "fr": "voile d'avant",
+     "de": "Fock",
+     "es": "ello que",
+     "it": "vela di prua",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 4,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "cleat",
+     "fr": "raquee",
+     "de": "Klampe",
+     "es": "escotera",
+     "it": "galloccia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "sidedeck",
+     "fr": "pont de côté",
+     "de": "Seitendeck",
+     "es": "cubierta",
+     "it": "ponte laterale",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 8,
+      "it": 13
+     }
+    },
+    {
+     "en": "boom",
+     "fr": "bóme",
+     "de": "Baum",
+     "es": "botavara",
+     "it": "boma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 8,
+      "it": 4
+     }
+    },
+    {
+     "en": "bow",
+     "fr": "avant",
+     "de": "Bug",
+     "es": "proa",
+     "it": "prua",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 3,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "stern",
+     "fr": "arrière",
+     "de": "Heck",
+     "es": "popa",
+     "it": "poppa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "navigate (v)",
+     "fr": "naviguer",
+     "de": "navigieren",
+     "es": "navegar",
+     "it": "navigare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "yacht",
+     "fr": "yacht",
+     "de": "Segeljacht",
+     "es": "yate",
+     "it": "yacht",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 10,
+      "es": 4,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": "sicurezza",
+   "names": {
+    "en": "safety",
+    "fr": "la sécurité",
+    "de": "die sicherheit",
+    "es": "la seguridad",
+    "it": "la sicurezza"
+   },
+   "entries": [
+    {
+     "en": "flare",
+     "fr": "fusée éclairante",
+     "de": "Leuchtrakete",
+     "es": "bengala",
+     "it": "razzo illuminante",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 15,
+      "de": 12,
+      "es": 7,
+      "it": 16
+     }
+    },
+    {
+     "en": "life preserver",
+     "fr": "bouée de sauvetage",
+     "de": "Rettungsring",
+     "es": "salvavidas",
+     "it": "salvagente",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 12,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "life jacket",
+     "fr": "gilet de sauvetage",
+     "de": "Schwimmweste",
+     "es": "chaleco salvavidas",
+     "it": "giubbotto di salvataggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 12,
+      "es": 17,
+      "it": 22
+     }
+    },
+    {
+     "en": "life raft",
+     "fr": "radeau de sauvetage",
+     "de": "Rettungsboot",
+     "es": "balsa salvavidas",
+     "it": "zattera di salvataggio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "de": 12,
+      "es": 15,
+      "it": 20
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

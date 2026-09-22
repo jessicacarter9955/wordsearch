@@ -1,0 +1,352 @@
+{
+ "page": 163,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "lavoro",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "header_raw": "W O R K • LK T R A V A IL • DIE ARBEIT • I:L T R A B A J O • IL LAVORO",
+ "groups": [
+  {
+   "names_raw": "office 2 • le bureau 2 • das Büro 2 • la oficina 2 • l'ufficio 2",
+   "parts": [
+    "office",
+    "le bureau",
+    "das büro",
+    "la oficina",
+    "l'ufficio"
+   ],
+   "entries": [
+    {
+     "en": "flipchart",
+     "fr": "le Tableau à feuilles mobiles",
+     "de": "das Flipchart",
+     "es": "el pizarrón",
+     "it": "il poster scorrevole",
+     "_pos": [
+      52,
+      126
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "ensel",
+     "fr": "le chevalet",
+     "de": "das Gestell",
+     "es": "el caballete",
+     "it": "il cavalletto",
+     "_pos": [
+      482,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "manager",
+     "fr": "le directeur",
+     "de": "der Manager",
+     "es": "el gerente",
+     "it": "il direttore",
+     "_pos": [
+      590,
+      129
+     ],
+     "_flags": []
+    },
+    {
+     "en": "proposal",
+     "fr": "la proposition",
+     "de": "das Angebot",
+     "es": "la propuesta",
+     "it": "la proposta",
+     "_pos": [
+      692,
+      130
+     ],
+     "_flags": []
+    },
+    {
+     "en": "minutes",
+     "fr": "I",
+     "de": "das Protokoll",
+     "es": "la minuta",
+     "it": "il verbale",
+     "_pos": [
+      77,
+      228
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "1m",
+     "fr": "« I",
+     "de": "'AW/D",
+     "_pos": [
+      164,
+      228
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "en:num:1m",
+      "fr:weird:«",
+      "de:weird:'AW/D"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "es"
+      ],
+      [
+       "en",
+       "fr",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es"
+      ]
+     ]
+    },
+    {
+     "en": "report",
+     "fr": "le rapport",
+     "de": "der Bericht",
+     "es": "reporte",
+     "it": "la relazione",
+     "_pos": [
+      483,
+      228
+     ],
+     "_flags": []
+    },
+    {
+     "en": "executive",
+     "fr": "le cadre",
+     "de": "der leitende Angestellte",
+     "es": "el ejecutivo",
+     "it": "il dirigente",
+     "_pos": [
+      744,
+      230
+     ],
+     "_flags": []
+    },
+    {
+     "en": "—",
+     "fr": "î^'W T' 'A.4A",
+     "de": "„ ,, V 1",
+     "es": "SHí",
+     "_pos": [
+      214,
+      238
+     ],
+     "_flags": [
+      "missing:it",
+      "en:weird:—",
+      "fr:weird:î^'W",
+      "fr:weird:'A.4A",
+      "de:weird:„",
+      "de:weird:,,",
+      "de:short:V",
+      "de:num:1",
+      "es:case"
+     ]
+    },
+    {
+     "fr": "le compre rendu",
+     "de": "n i",
+     "_pos": [
+      78,
+      244
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:es",
+      "missing:it",
+      "slot-ambig",
+      "de:short:n"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "es"
+      ],
+      [
+       "fr",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "meeting",
+     "fr": "le réunion",
+     "de": "die Sitzung",
+     "es": "la junta",
+     "it": "la riunione",
+     "_pos": [
+      50,
+      643
+     ],
+     "_flags": []
+    },
+    {
+     "en": "projector",
+     "fr": "le projecteur",
+     "de": "der Projektor",
+     "es": "el proyector",
+     "it": "la lavagna luminosa",
+     "_pos": [
+      503,
+      679
+     ],
+     "_flags": []
+    },
+    {
+     "en": "speaker",
+     "fr": "le conférencier",
+     "de": "der Sprecher",
+     "es": "el orador",
+     "_pos": [
+      692,
+      680
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "meeting room",
+     "fr": "la salle de conférence",
+     "de": "der Sitzungsraum",
+     "es": "la sala de juntas",
+     "it": "la sala da riunione",
+     "_pos": [
+      65,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "attend (v)",
+     "fr": "assister à",
+     "de": "teilnehmen",
+     "es": "asistir",
+     "it": "partecipare",
+     "_pos": [
+      278,
+      692
+     ],
+     "_flags": []
+    },
+    {
+     "en": "agenda",
+     "fr": "l'ordre du jour",
+     "de": "die Tagesordnung",
+     "es": "orden del día",
+     "it": "l'ordine del giorno",
+     "_pos": [
+      64,
+      791
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chair (v)",
+     "fr": "présider",
+     "de": "den Vorsitz lühren",
+     "es": "presidir",
+     "it": "presiedere",
+     "_pos": [
+      282,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "W hat time is the meeting?",
+     "fr": "I.a conférence est à quelle heure?",
+     "de": "Um wie viel Uhr ist die Sitzung?",
+     "es": "A qué hora es la junta?",
+     "it": "A che ora é la riunione?",
+     "_pos": [
+      64,
+      892
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:meeting?",
+      "en:case",
+      "fr:weird:I.a",
+      "fr:weird:heure?",
+      "fr:case",
+      "de:weird:Sitzung?",
+      "es:weird:junta?",
+      "es:case",
+      "it:short:é",
+      "it:weird:riunione?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "W hat are your office hours?",
+     "fr": "Quelles sont vos heures de bureau?",
+     "de": "Was sind Ihre Geschäftszeiten?",
+     "es": "C u ál es su horario de oficina?",
+     "it": "Qual è il vostro orario di lavoro?",
+     "_pos": [
+      64,
+      992
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:hours?",
+      "en:case",
+      "fr:weird:bureau?",
+      "fr:case",
+      "de:weird:Geschäftszeiten?",
+      "es:short:C",
+      "es:short:u",
+      "es:weird:oficina?",
+      "es:case",
+      "it:short:è",
+      "it:weird:lavoro?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "presentation",
+     "fr": "la présentation",
+     "de": "die Präsentation",
+     "es": "la presentación",
+     "it": "la presentazione",
+     "_pos": [
+      504,
+      1062
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 8,
+  "flagged": 12,
+  "missing_lang": 4,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

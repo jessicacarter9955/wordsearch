@@ -1,0 +1,380 @@
+{
+ "page": 157,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "studio",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "header_raw": "STUDY * L'É T U D E • DAS LERNEN • EL E S T U D I O • LO STUDIO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "tweezers",
+     "fr": "la pince fine",
+     "de": "die Pinzette",
+     "es": "las pinzas",
+     "it": "le pinzette",
+     "_pos": [
+      458,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "syringe",
+     "fr": "la seringue",
+     "de": "die Spritze",
+     "es": "la jeringa",
+     "it": "la siringa",
+     "_pos": [
+      243,
+      133
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thermometer",
+     "fr": "le thermomètre",
+     "de": "das Thermometer",
+     "es": "el termo metro",
+     "it": "il termometro",
+     "_pos": [
+      27,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "scalpel",
+     "fr": "le scalpel",
+     "de": "das Skalpell",
+     "es": "bisturí",
+     "it": "il bisturi",
+     "_pos": [
+      675,
+      134
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tongs",
+     "fr": "la pince",
+     "de": "die Greifzange",
+     "es": "las tenazas",
+     "it": "le tenaglie",
+     "_pos": [
+      459,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spatula",
+     "fr": "la spatule",
+     "de": "der Spatel",
+     "es": "la espátula",
+     "it": "la spatola",
+     "_pos": [
+      675,
+      283
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dropper",
+     "fr": "le compte-gouttes",
+     "_pos": [
+      28,
+      283
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "forceps",
+     "fr": "le forceps",
+     "de": "die Zange",
+     "es": "los fórceps",
+     "it": "il forcipe",
+     "_pos": [
+      243,
+      283
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "• der Tropfer • el gotero * il",
+   "parts": [
+    "der tropfer",
+    "el gotero * il"
+   ],
+   "entries": [
+    {
+     "en": "pestle",
+     "fr": "le pilon",
+     "de": "die Keule",
+     "es": "la mano de mortero",
+     "it": "il pestello",
+     "_pos": [
+      132,
+      343
+     ],
+     "_flags": []
+    },
+    {
+     "en": "eyepiece",
+     "fr": "l'oculaire das Okular",
+     "es": "el ocular l'oculare",
+     "_pos": [
+      27,
+      404
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "mortar",
+     "fr": "le mord er",
+     "de": "der Mörser",
+     "es": "el mortero",
+     "it": "il mortaio",
+     "_pos": [
+      244,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "en": "filter paper",
+     "fr": "le papier filtre",
+     "de": "das Filterpapier",
+     "es": "el filtro de papel",
+     "it": "il filtro di carta",
+     "_pos": [
+      460,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "en": "safety goggles",
+     "fr": "les lunettes de protection",
+     "de": "die Schutzbrille",
+     "es": "las gafas protectoras",
+     "it": "gli occhiali protettivi",
+     "_pos": [
+      676,
+      450
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      28,
+      466
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "focusing knob",
+      "le bouton de",
+      "mise nu point",
+      "der Einstell knopf",
+      "la perilla de ajuste",
+      "la manopola di messa a fuoco"
+     ]
+    },
+    {
+     "en": "glass rod",
+     "fr": "la tige de verre",
+     "de": "das Glasstabchen",
+     "es": "la varilla de cristal",
+     "it": "la bacchetta di vetro",
+     "_pos": [
+      586,
+      517
+     ],
+     "_flags": []
+    },
+    {
+     "en": "objective lens",
+     "fr": "la lentille de l'objectif",
+     "de": "die Objektivlinse",
+     "es": "la lente del objectivo",
+     "it": "l'obicttivo",
+     "_pos": [
+      294,
+      550
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stage",
+     "fr": "la platine",
+     "de": "der Tisch",
+     "es": "la platina",
+     "it": "il ripiano",
+     "_pos": [
+      322,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pipette",
+     "fr": "la pipette",
+     "de": "die Pipette",
+     "es": "la pipeta",
+     "it": "la pipetta",
+     "_pos": [
+      460,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beaker",
+     "fr": "le bêcher",
+     "de": "das Becherglas",
+     "es": "el vaso de precipitados",
+     "it": "il beeher",
+     "_pos": [
+      676,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "magnet",
+     "fr": "l'aimant",
+     "de": "der Magnet",
+     "es": "el imán",
+     "it": "la calamita",
+     "_pos": [
+      461,
+      832
+     ],
+     "_flags": []
+    },
+    {
+     "en": "alligator clip",
+     "fr": "la pince crocodile",
+     "de": "die Krokodilklemme",
+     "es": "la pinza",
+     "it": "il morsetto",
+     "_pos": [
+      676,
+      832
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slide",
+     "fr": "le porte-objet",
+     "de": "der Objektträger",
+     "es": "el portaobjetos",
+     "it": "la lastrina",
+     "_pos": [
+      288,
+      867
+     ],
+     "_flags": []
+    },
+    {
+     "en": "positive electrode",
+     "fr": "l'électrode positive",
+     "de": "die positive Elektrode",
+     "es": "el electrodo positivo",
+     "it": "l'elettrodo positivo",
+     "_pos": [
+      758,
+      898
+     ],
+     "_flags": []
+    },
+    {
+     "en": "negative electrode",
+     "fr": "l'électrode négative",
+     "de": "die negative Elektrode",
+     "es": "el electrodo negativo",
+     "it": "l'elettrodo negativo",
+     "_pos": [
+      462,
+      899
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mirror",
+     "fr": "le miroir",
+     "de": "der Spiegel",
+     "es": "el espejo",
+     "it": "lo specchio",
+     "_pos": [
+      324,
+      965
+     ],
+     "_flags": []
+    },
+    {
+     "en": "microscope",
+     "fr": "le microscope",
+     "de": "das Mikroskop",
+     "es": "el microscopio",
+     "it": "il microscopio",
+     "_pos": [
+      31,
+      1066
+     ],
+     "_flags": []
+    },
+    {
+     "en": "battery",
+     "fr": "la pile",
+     "de": "die Batterie",
+     "es": "la pila",
+     "it": "la batteria",
+     "_pos": [
+      462,
+      1066
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "contagocce",
+   "pos": [
+    28,
+    316
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 3,
+  "flagged": 24,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,438 @@
+{
+ "page": 95,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "breakfast tray",
+     "fr": "plateau a périr déjeuner",
+     "de": "Frühstuckstablett",
+     "es": "charola del desayuno",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 21,
+      "de": 17,
+      "es": 18
+     }
+    }
+   ]
+  },
+  {
+   "slug": "servizi",
+   "names": {
+    "en": "services",
+    "fr": "les services",
+    "de": "die dienstleistungen",
+    "es": "los servicios",
+    "it": "i servizi"
+   },
+   "entries": [
+    {
+     "en": "laundry service",
+     "fr": "service de blanchisserie",
+     "de": "Wäschedienst",
+     "es": "servicio de lavandería",
+     "it": "servizio di lavanderia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 22,
+      "de": 12,
+      "es": 20,
+      "it": 20
+     }
+    },
+    {
+     "en": "maid service",
+     "fr": "service de ménage",
+     "de": "Zimmerreinigung",
+     "es": "servicio de limpieza",
+     "it": "servizio di pulizia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 15,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "room service",
+     "fr": "service d'étage",
+     "de": "Zimmerservice",
+     "es": "servicio de habitaciones",
+     "it": "servizio in camera",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 13,
+      "es": 22,
+      "it": 16
+     }
+    },
+    {
+     "en": "gym",
+     "fr": "salle de sporr",
+     "de": "Fitnessraum",
+     "es": "gimnasio",
+     "it": "palestra",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 12,
+      "de": 11,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "swimming pool",
+     "fr": "piscine",
+     "de": "Schwimmbad",
+     "es": "piscina",
+     "it": "piscina",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "restaurant",
+     "fr": "restaurant",
+     "de": "Restaurant",
+     "es": "restaurante",
+     "it": "ristorante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "minibar",
+     "fr": "m inibar",
+     "de": "Minibar",
+     "es": "m inlbar",
+     "it": "minibar",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "I'd like a room for three nights",
+     "fr": "Je voudrais une chambre pour trois nuits",
+     "de": "Ich möchte ein Zimmer für drei Nächte",
+     "es": "Q uiero una habitación para tres días",
+     "it": "Vorrei una camera per tre notti",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 25,
+      "fr": 34,
+      "de": 31,
+      "es": 31,
+      "it": 26
+     }
+    },
+    {
+     "en": "Do you have any vacancies?",
+     "fr": "Avez-vous une chambre de libre.1",
+     "de": "Haben Sie ein Zimmer frei?",
+     "es": "Tiene alguna habitación libre?",
+     "it": "Avete una camera libera?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 21,
+      "fr": 26,
+      "de": 21,
+      "es": 26,
+      "it": 20
+     }
+    },
+    {
+     "en": "full board",
+     "fr": "pension complète",
+     "de": "Vollpension",
+     "es": "pensión completa",
+     "it": "pensione completa",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 11,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "W hat is the charge per night?",
+     "fr": "Test combien par nuit?",
+     "de": "Was kostet das Zimmer pro Nacht?",
+     "es": "Cuánto cuesta la habitación por día?",
+     "it": "Quanto costa la camera a notte?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 23,
+      "fr": 18,
+      "de": 26,
+      "es": 30,
+      "it": 25
+     }
+    },
+    {
+     "en": "1 have a reservation",
+     "fr": "J' ai une réservation",
+     "de": "Ich habe ein Zimmer reserviert",
+     "es": "Tengo una reservación",
+     "it": "Ho una prenotazione",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 17,
+      "fr": 17,
+      "de": 26,
+      "es": 19,
+      "it": 17
+     }
+    },
+    {
+     "en": "half board",
+     "fr": "demi-pension",
+     "de": "Halbpension",
+     "es": "media pensión",
+     "it": "mezza pensione",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 11,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "When do 1 have to vacate the room?",
+     "fr": "Q uand est-ce que je dois quitter la chambre?",
+     "de": "Wann muss ich das Zimmer räumen?",
+     "es": "Cuándo tengo que dejar la habitación?",
+     "it": "Quando devo lasciare la stanza?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 26,
+      "fr": 35,
+      "de": 26,
+      "es": 31,
+      "it": 26
+     }
+    },
+    {
+     "en": "I'd like a single room",
+     "fr": "Je voudrais une chambre simple",
+     "de": "Ich mochte ein Einzelzimmer",
+     "es": "Qui ero una habitación sencilla",
+     "it": "Vorrei una camera singola",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 17,
+      "fr": 26,
+      "de": 24,
+      "es": 27,
+      "it": 22
+     }
+    },
+    {
+     "en": "bed and breakfast",
+     "fr": "chambre avec le périr déjeuner",
+     "de": "Übernachtung mit Frühstück",
+     "es": "habitación con desayuno incluido",
+     "it": "pensione con colazione",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 26,
+      "de": 24,
+      "es": 29,
+      "it": 20
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

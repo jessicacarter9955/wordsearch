@@ -1,0 +1,484 @@
+{
+ "page": 80,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "path",
+     "fr": "allée",
+     "de": "Weg",
+     "es": "camino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 3,
+      "es": 6
+     }
+    },
+    {
+     "en": "compost heap",
+     "fr": "ras de compost",
+     "de": "Komposthaufen",
+     "es": "composta",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 13,
+      "es": 8
+     }
+    },
+    {
+     "en": "patio",
+     "fr": "pavé",
+     "de": "Platten",
+     "es": "terraza",
+     "it": "pavimentazione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 7,
+      "es": 7,
+      "it": 14
+     }
+    },
+    {
+     "en": "Boden",
+     "fr": "tierra",
+     "it": "terreno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "gate",
+     "fr": "portail",
+     "de": "Tor",
+     "es": "portón",
+     "it": "cancello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 3,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "flowerbed",
+     "fr": "parterre",
+     "de": "Blumenbeet",
+     "es": "parterre",
+     "it": "aivola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "topsoil",
+     "fr": "terre",
+     "de": "Erde",
+     "es": "capa superior de la tierra",
+     "it": "strato superficiale",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 4,
+      "es": 22,
+      "it": 18
+     }
+    },
+    {
+     "en": "shed",
+     "fr": "cabane",
+     "de": "Schuppen",
+     "es": "cobertizo",
+     "it": "capanno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "sand",
+     "fr": "sable",
+     "de": "Sand",
+     "es": "arena",
+     "it": "sabbia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "lawn",
+     "fr": "l.i pelouse",
+     "de": "Rasen",
+     "es": "césped",
+     "it": "prato",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "greenhouse",
+     "fr": "serre",
+     "de": "Gewächshaus",
+     "es": "invernadero",
+     "it": "ghiaia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 5,
+      "de": 11,
+      "es": 11,
+      "it": 6
+     }
+    },
+    {
+     "en": "fence",
+     "fr": "clôture",
+     "de": "Zaun",
+     "es": "valla",
+     "it": "recinto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 4,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "pond",
+     "fr": "bassin",
+     "de": "Teich",
+     "es": "estanque",
+     "it": "stagno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "chalk",
+     "fr": "chaux",
+     "de": "Kalk",
+     "es": "creta",
+     "it": "gesso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "hedge",
+     "fr": "haie",
+     "de": "Hecke",
+     "es": "seto",
+     "it": "siepe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "herbaceous border",
+     "fr": "bordure de plantes herbacées",
+     "de": "Staudenrabatte",
+     "es": "arriate de plantas herbáceas",
+     "it": "bordo erbaceo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 25,
+      "de": 14,
+      "es": 25,
+      "it": 12
+     }
+    },
+    {
+     "en": "arch",
+     "fr": "arceau",
+     "de": "Bogen",
+     "es": "arco",
+     "it": "arco",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "fr": "p o rg e r",
+     "de": "Gemüsegarten",
+     "es": "huerto",
+     "it": "orto",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 12,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "silt",
+     "fr": "vase",
+     "de": "Schlick",
+     "es": "cieno",
+     "it": "limo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 7,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "clay",
+     "fr": "argile",
+     "de": "Lehm",
+     "es": "arcilla",
+     "it": "argilla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 4,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "deck",
+     "fr": "planches",
+     "de": "Banken",
+     "es": "entarimado",
+     "it": "ti patio in legno",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 10,
+      "it": 14
+     }
+    },
+    {
+     "en": "fountain",
+     "fr": "fontaine",
+     "de": "Springbrunnen",
+     "es": "fuente",
+     "it": "fontana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 13,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

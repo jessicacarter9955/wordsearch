@@ -1,0 +1,769 @@
+{
+ "page": 259,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "dartboard",
+     "fr": "cible",
+     "de": "Dartscheibe",
+     "es": "diana",
+     "it": "bersaglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 5,
+      "de": 11,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "bullseye",
+     "fr": "mille",
+     "de": "Bull's Eye",
+     "es": "blanco",
+     "it": "centro",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 8,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "dominoes",
+     "fr": "dominos",
+     "de": "Domino",
+     "es": "dominó",
+     "it": "domino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "darts",
+     "fr": "fléchettes",
+     "de": "Darts",
+     "es": "dardos",
+     "it": "freccette",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 5,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "jigsaw puzzle",
+     "fr": "puzzle",
+     "de": "Puzzle",
+     "es": "rompecabezas",
+     "it": "puzzle",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 6,
+      "es": 12,
+      "it": 6
+     }
+    },
+    {
+     "en": "stamp collecting",
+     "fr": "philatelic",
+     "de": "Briefmarkensammeln",
+     "es": "filatelia",
+     "it": "filatelia",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 10,
+      "de": 18,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "diamond",
+     "fr": "carreau",
+     "de": "Karo",
+     "es": "diamante",
+     "it": "quadro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 4,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "joker",
+     "fr": "joker",
+     "de": "Joker",
+     "es": "comodín",
+     "it": "jolly",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "jack",
+     "fr": "valer",
+     "de": "Bube",
+     "es": "joto",
+     "it": "fante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "spade",
+     "fr": "piqué",
+     "de": "Pik",
+     "es": "espada",
+     "it": "picea",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 3,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "shuffle (v)",
+     "fr": "battre",
+     "de": "mischen",
+     "es": "barajar",
+     "it": "mescolare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "queen",
+     "fr": "dame",
+     "de": "Dame",
+     "es": "reina",
+     "it": "regina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "heart",
+     "fr": "cœ ur",
+     "de": "Herz",
+     "es": "corazón",
+     "it": "cuore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "king",
+     "fr": "roi",
+     "de": "König",
+     "es": "rey",
+     "it": "re",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 3,
+      "it": 2
+     }
+    },
+    {
+     "en": "dub",
+     "fr": "trèfle",
+     "de": "Kreuz",
+     "es": "trébol",
+     "it": "fiore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "ace »P as",
+     "de": "Ass",
+     "es": "e las",
+     "it": "asso",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "de": 3,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "deal (v)",
+     "fr": "donner",
+     "de": "geben",
+     "es": "repartir",
+     "it": "distribuire",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "cards",
+     "fr": "carres",
+     "de": "Karten",
+     "es": "lascar tas",
+     "it": "carte",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "W hose turn is it?",
+     "fr": "est à qui de jouer",
+     "de": "Wer ist dran?",
+     "es": "A quien le toca",
+     "it": "A chi tocca?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 10,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "bridge",
+     "fr": "bridge",
+     "de": "Bridge",
+     "es": "bridge",
+     "it": "bridge",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "point",
+     "fr": "point",
+     "de": "Punkt",
+     "es": "punto",
+     "it": "punto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "loser",
+     "fr": "perdant",
+     "de": "Verlierer",
+     "es": "perdedor",
+     "it": "perdente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "win (v)",
+     "fr": "gagner",
+     "de": "gewinnen",
+     "es": "ganar",
+     "it": "vincere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "move",
+     "fr": "coup",
+     "de": "Zug",
+     "es": "turno",
+     "it": "mossa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 3,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "It's your move",
+     "fr": "C' es ta toi de jouer",
+     "de": "Dubist dran",
+     "es": "Te toca a ti",
+     "it": "Tocca a tc",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 10,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "deck of cards",
+     "fr": "jeu de cartes",
+     "de": "Kartenspiel",
+     "es": "baraja",
+     "it": "mazzo di carte",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "score",
+     "fr": "marque",
+     "de": "Spielergebnis",
+     "es": "puntuación",
+     "it": "punteggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 13,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "game",
+     "fr": "eu",
+     "de": "Spiel",
+     "es": "partida",
+     "it": "gioco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 2,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "winner",
+     "fr": "gagnant",
+     "de": "Gewinner",
+     "es": "ganador",
+     "it": "vincitore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "play (v)",
+     "fr": "jouer",
+     "de": "spielen",
+     "es": "jugar",
+     "it": "giocare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "Roll the dice",
+     "fr": "Jette le dé",
+     "de": "Würfle",
+     "es": "Tira los dados",
+     "it": "Tira i dadi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 6,
+      "es": 12,
+      "it": 9
+     }
+    },
+    {
+     "en": "poker",
+     "fr": "poker",
+     "de": "Poker",
+     "es": "póquer",
+     "it": "poker",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "suit",
+     "fr": "couleur",
+     "de": "Farbe",
+     "es": "palo",
+     "it": "colore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "bet",
+     "fr": "pari",
+     "de": "Wette",
+     "es": "apuesta",
+     "it": "scommessa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 5,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "lose (v)",
+     "fr": "perdre",
+     "de": "verlieren",
+     "es": "perder",
+     "it": "perdere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "player",
+     "fr": "joueur",
+     "de": "Spieler",
+     "es": "jugador",
+     "it": "giocatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

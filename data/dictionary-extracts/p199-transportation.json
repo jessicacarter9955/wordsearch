@@ -1,0 +1,556 @@
+{
+ "page": 199,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "bipiane",
+     "fr": "biplan",
+     "de": "Doppeldecker",
+     "es": "biplano",
+     "it": "biplano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 12,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "glider",
+     "fr": "planeur",
+     "de": "Segelflugzeug",
+     "es": "planeador",
+     "it": "aliante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 13,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "ultralight",
+     "fr": "U .L .M",
+     "de": "Ultraleichtflugzeug",
+     "es": "ultraligero",
+     "it": "aereo biposto",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 3,
+      "de": 19,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "de": "Propeller",
+     "es": "hélice",
+     "it": "elica",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "de": 9,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "light aircraft",
+     "fr": "avion léger",
+     "de": "Leichtflugzeug",
+     "es": "avioneta",
+     "it": "aereo da diporto",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 10,
+      "de": 14,
+      "es": 8,
+      "it": 14
+     }
+    },
+    {
+     "en": "seaplane",
+     "fr": "hydravion",
+     "de": "Wasserflugzeug",
+     "es": "hidroavión",
+     "it": "idrovolante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 14,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "hot-air balloon",
+     "fr": "montgolfière",
+     "de": "Heißluftballon",
+     "es": "globo aerostático",
+     "it": "mongolfiera",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 15,
+      "es": 16,
+      "it": 11
+     }
+    },
+    {
+     "en": "supersonic jet",
+     "fr": "avion supersonique",
+     "de": "Überschallflugzeug",
+     "es": "avión supersónico",
+     "it": "aereo supersonico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 18,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "pnvate jet",
+     "fr": "jet privé",
+     "de": "Privatjet",
+     "es": "je t privado",
+     "it": "aereo privato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 9,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "rotor blade",
+     "fr": "pale de rotor",
+     "de": "Rotorb! att",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 9
+     }
+    },
+    {
+     "en": "missile",
+     "fr": "missile",
+     "de": "Rakete",
+     "es": "mi sil",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 5
+     }
+    },
+    {
+     "en": "fighter plane",
+     "fr": "chasseur",
+     "de": "Jagdflugzeug",
+     "es": "caza",
+     "it": "aereo da caccia",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 8,
+      "de": 12,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "en": "bomber",
+     "fr": "bombardier",
+     "de": "Bombenflugzeug",
+     "es": "avión de bombardeo",
+     "it": "bombardiere",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 14,
+      "es": 16,
+      "it": 11
+     }
+    },
+    {
+     "en": "helicopter",
+     "fr": "hélicoptère",
+     "de": "Hubschrauber",
+     "es": "helicóptero",
+     "it": "elicottero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 12,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "carry-on luggage",
+     "fr": "bagages à main",
+     "de": "Handgepäck",
+     "es": "equipaje de mano",
+     "it": "bagaglio a mano",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "economy class",
+     "fr": "classe économique",
+     "de": "Economydass",
+     "es": "lada se turista",
+     "it": "classe economica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 16,
+      "de": 11,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "land (v)",
+     "fr": "atterrir",
+     "de": "landen",
+     "es": "aterrizar",
+     "it": "atterrare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 6,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "take off (v)",
+     "fr": "décoller",
+     "de": "starten",
+     "es": "despegar",
+     "it": "decollare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "pilot",
+     "fr": "piloro",
+     "de": "Pilot",
+     "es": "piloto",
+     "it": "pilota",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "seatbelt",
+     "fr": "ceinture de sécurité",
+     "de": "Sicherheitsgurt",
+     "es": "cm turón de seguridad",
+     "it": "cintura di sicurezza",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 18,
+      "de": 15,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "altitude",
+     "fr": "altitude",
+     "de": "Höhe",
+     "es": "altitud",
+     "it": "quota",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "business class",
+     "fr": "classe affaires",
+     "de": "Businessdass",
+     "es": "clase preferente",
+     "it": "business class",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 12,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "copilot",
+     "fr": "copi lore",
+     "de": "Kopilot",
+     "es": "copiloto",
+     "it": "copilot3",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "fly V",
+     "fr": "voler",
+     "de": "fliegen",
+     "es": "volar",
+     "it": "volare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

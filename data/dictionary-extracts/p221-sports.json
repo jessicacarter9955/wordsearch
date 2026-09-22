@@ -1,0 +1,492 @@
+{
+ "page": 221,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "atletica",
+   "names": {
+    "en": "track and field",
+    "fr": "l'athlétisme",
+    "de": "die leichtathletik",
+    "es": "el atletismo",
+    "it": "l'atletica"
+   },
+   "entries": [
+    {
+     "en": "lane",
+     "fr": "It coulo ir",
+     "de": "Bahn",
+     "es": "carril",
+     "it": "corsia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "track",
+     "fr": "piste",
+     "de": "Rennbahn",
+     "es": "pista",
+     "it": "pista",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "finish line",
+     "fr": "lu ligne d'arrivée",
+     "de": "Ziellinie",
+     "es": "línea de meta",
+     "it": "traguardo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 9,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "starting line",
+     "fr": "ligne de départ",
+     "de": "Startlinie",
+     "es": "línea de salida",
+     "it": "linea di partenza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 13,
+      "de": 10,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "field",
+     "fr": "terrain",
+     "de": "Feld",
+     "es": "campo",
+     "it": "campo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "athlete",
+     "fr": "athlète",
+     "de": "Leichtathletin",
+     "es": "atleta",
+     "it": "atleta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "starting blocks!",
+     "fr": "Ic bloc de départ",
+     "de": "Startblock",
+     "es": "cajón de salida",
+     "it": "pedana di partenza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 10,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "sprinter",
+     "fr": "sprinter",
+     "de": "Sprinter",
+     "es": "e les primer",
+     "it": "velocista",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "discus",
+     "fr": "disque",
+     "de": "Diskuswerfen",
+     "es": "lanzamiento de disco",
+     "it": "lancio del disco",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 12,
+      "es": 18,
+      "it": 14
+     }
+    },
+    {
+     "en": "shotput",
+     "fr": "lancement du poids",
+     "de": "Kugelstoßen",
+     "es": "lanzamiento de bala",
+     "it": "lancio del peso",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 12,
+      "es": 17,
+      "it": 13
+     }
+    },
+    {
+     "en": "javelin",
+     "fr": "javelot",
+     "de": "Speerwerfen",
+     "es": "lanzamiento de jabalina",
+     "it": "laricio del giavellotto",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 21,
+      "it": 21
+     }
+    },
+    {
+     "en": "race",
+     "fr": "course",
+     "de": "Rennen",
+     "es": "carrera",
+     "it": "gara",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "record",
+     "fr": "record",
+     "de": "Rekord",
+     "es": "récord",
+     "it": "primato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "photo finish",
+     "fr": "photo-finish",
+     "de": "Fotofinish",
+     "es": "foto final",
+     "it": "fotofinish",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 10,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "pole vault",
+     "fr": "saut à la perche",
+     "de": "Stabhochsprung",
+     "es": "salto con pértiga",
+     "it": "salto con l'asta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 14,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "time",
+     "fr": "temps",
+     "de": "Zeit",
+     "es": "tiempo",
+     "it": "tempo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "break a record (v)",
+     "fr": "battre un record",
+     "de": "einen Rekord brechen",
+     "es": "batir un récord",
+     "it": "battere un primato",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 18,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "marathon",
+     "fr": "marathon",
+     "de": "Marathon",
+     "es": "lama ratón",
+     "it": "maratona",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "personal best",
+     "fr": "record personnel",
+     "de": "persönliche Bestleistung",
+     "es": "marca personal",
+     "it": "primato personale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 23,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "stopwatch",
+     "fr": "chronomètre",
+     "de": "Stoppuhr",
+     "es": "cronòm etro",
+     "it": "cronometro",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 8,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

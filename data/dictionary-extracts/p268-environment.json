@@ -1,0 +1,515 @@
+{
+ "page": 268,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "macro_slug": "ambiente",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "North pole",
+     "fr": "pôle nord",
+     "de": "Nordpol",
+     "es": "Polo Norte",
+     "it": "Polo Nord",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "Arctic orde",
+     "fr": "cercle polaire arctique",
+     "de": "nördliche Polarkeis",
+     "es": "circu lo Polar À rtico",
+     "it": "circolo polare artico",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 21,
+      "de": 18,
+      "es": 18,
+      "it": 19
+     }
+    },
+    {
+     "en": "northern hemisphere",
+     "fr": "Phém isphère nord",
+     "de": "nördliche Halbkugel",
+     "es": "hemisferio norte",
+     "it": "emisfero settentrionale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 15,
+      "de": 18,
+      "es": 15,
+      "it": 22
+     }
+    },
+    {
+     "en": "tropic of Cancer",
+     "fr": "tropique du cancer",
+     "de": "Wendekreis des Krebses",
+     "es": "trópico de Cáncer",
+     "it": "tropico del cancro",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 20,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "longitude",
+     "fr": "longitude",
+     "de": "Langengrad",
+     "es": "longitud",
+     "it": "longitudine",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "latitude",
+     "fr": "latitude",
+     "de": "Breitengrad",
+     "es": "latitud",
+     "it": "> la latitudine",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 12
+     }
+    },
+    {
+     "en": "tropics",
+     "fr": "tropiques",
+     "de": "Tropen",
+     "es": "trópicos",
+     "it": "tropici",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "southern hemisphere",
+     "fr": "hémisphère sud",
+     "de": "südliche Halbkugel",
+     "es": "hemisferio sur",
+     "it": "emisfero meridionale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 18,
+      "fr": 13,
+      "de": 17,
+      "es": 13,
+      "it": 19
+     }
+    },
+    {
+     "en": "equator",
+     "fr": "équateur",
+     "de": "Äquator",
+     "es": "ecuador",
+     "it": "equatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "tropic of",
+     "fr": "tropique du capricorne",
+     "de": "Wendekreis des Steinbocks",
+     "es": "trópico de Capricornio",
+     "it": "tropico del Capricorno",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 20,
+      "de": 23,
+      "es": 20,
+      "it": 20
+     }
+    },
+    {
+     "en": "earthquake",
+     "fr": "rrcm hlem em",
+     "de": "Erdbeben",
+     "es": "terremoto",
+     "it": "terremoto",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 8,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "zones",
+     "fr": "zones",
+     "de": "Erdzonen",
+     "es": "zonas",
+     "it": "zone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "vent",
+     "fr": "cheminée",
+     "de": "Schlot",
+     "es": "chimenea",
+     "it": "fessura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "lava",
+     "fr": "lave",
+     "de": "Lava",
+     "es": "lava",
+     "it": "lava",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "ash",
+     "fr": "cendre",
+     "de": "Asche",
+     "es": "ceniza",
+     "it": "cenere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "plate",
+     "fr": "plaque",
+     "de": "Platte",
+     "es": "placa",
+     "it": "zolla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "erupt (v)",
+     "fr": "entrer en éruption",
+     "de": "ausbrechen",
+     "es": "hacer erupción",
+     "it": "eruttare",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 16,
+      "de": 10,
+      "es": 13,
+      "it": 8
+     }
+    },
+    {
+     "en": "chamber",
+     "fr": "chambre",
+     "de": "Kammer",
+     "es": "cámara",
+     "it": "camera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "tremor",
+     "fr": "rrcm blcm cnt",
+     "de": "Beben",
+     "es": "temblor",
+     "it": "tremore",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "magma",
+     "fr": "magma",
+     "de": "Magma",
+     "es": "magma",
+     "it": "magma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "volcano",
+     "fr": "volcan",
+     "de": "Vulkan",
+     "es": "volcán",
+     "it": "vulcano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "I cratere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

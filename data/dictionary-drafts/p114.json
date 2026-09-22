@@ -1,0 +1,327 @@
+{
+ "page": 114,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "F O O D ♦ LA NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "vegetables I • les légumes 1 • das Gemüse 1 • las verduras 1 • la verdura 1",
+   "parts": [
+    "vegetable si",
+    "les légumes",
+    "das gemüse",
+    "las verduras",
+    "la verdura"
+   ],
+   "entries": [
+    {
+     "en": "pea",
+     "fr": "le périr pois",
+     "de": "die grüne Erbse",
+     "es": "el «. hicharo",
+     "it": "il pisello",
+     "_pos": [
+      742,
+      294
+     ],
+     "_flags": [
+      "es:weird:«."
+     ]
+    },
+    {
+     "en": "green bean",
+     "fr": "le haricot vert",
+     "de": "die grüne Bohne",
+     "es": "el ejote",
+     "it": "il fagiolino",
+     "_pos": [
+      570,
+      295
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pod",
+     "fr": "la gousse",
+     "de": "die Schote",
+     "_pos": [
+      571,
+      378
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "okra",
+     "fr": "l'okra",
+     "de": "die Okra",
+     "es": "el quingombó",
+     "it": "I'okra",
+     "_pos": [
+      572,
+      523
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "bean sprout",
+     "fr": "le germe de soja",
+     "de": "die Sojabohnensprosse",
+     "es": "el germinado de soja",
+     "it": "il germoglio di soia",
+     "_pos": [
+      231,
+      527
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bamboo",
+     "fr": "le bambou",
+     "de": "der Bambus",
+     "es": "el bambú",
+     "it": "il bambù",
+     "_pos": [
+      402,
+      527
+     ],
+     "_flags": []
+    },
+    {
+     "en": "celery",
+     "fr": "le céleri",
+     "de": "der Stangensellerie",
+     "es": "el apio",
+     "it": "il sedano",
+     "_pos": [
+      746,
+      770
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chicory",
+     "fr": "l'endive",
+     "de": "der Chicorée",
+     "es": "la endibia",
+     "it": "la cicoria",
+     "_pos": [
+      234,
+      771
+     ],
+     "_flags": []
+    },
+    {
+     "en": "palm hearts",
+     "fr": "les cœurs de palmier",
+     "de": "die Palmherzen",
+     "es": "los palmitos",
+     "it": "i cuori di palma",
+     "_pos": [
+      574,
+      771
+     ],
+     "_flags": []
+    },
+    {
+     "en": "corn",
+     "fr": "le maïs",
+     "de": "der Mais",
+     "es": "el m aiz dulce",
+     "it": "il granturco",
+     "_pos": [
+      64,
+      772
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "fennel",
+     "fr": "le fenouil",
+     "de": "der Fenchel",
+     "es": "el hinojo",
+     "it": "il finocchio",
+     "_pos": [
+      404,
+      772
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leaf",
+     "fr": "la feuille",
+     "de": "das Blatt",
+     "es": "la hoja",
+     "it": "la foglia",
+     "_pos": [
+      78,
+      871
+     ],
+     "_flags": []
+    },
+    {
+     "en": "floret",
+     "fr": "la fleurette",
+     "de": "das Röschen",
+     "es": "la cabezuela",
+     "it": "il germoglio",
+     "_pos": [
+      190,
+      871
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tip",
+     "fr": "la pointe",
+     "de": "die Spitze",
+     "es": "la punta",
+     "it": "la punta",
+     "_pos": [
+      303,
+      871
+     ],
+     "_flags": []
+    },
+    {
+     "en": "organic",
+     "fr": "biologique",
+     "de": "biodynamisch",
+     "es": "biológico",
+     "it": "biologico",
+     "_pos": [
+      407,
+      871
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Do you sell organic vegetables?",
+     "fr": "Fsr-ce que vous vendez, ties légumes bios?",
+     "de": "Verkaufen Sie Biogemuse?",
+     "es": "Vende verduras orgánicas?",
+     "it": "Vendete verdure biologiche?",
+     "_pos": [
+      560,
+      871
+     ],
+     "_flags": [
+      "en:weird:vegetables?",
+      "en:case",
+      "fr:weird:vendez,",
+      "fr:weird:bios?",
+      "fr:case",
+      "de:weird:Biogemuse?",
+      "es:weird:orgánicas?",
+      "es:case",
+      "it:weird:biologiche?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "stalk",
+     "fr": "le trognon",
+     "de": "der Strunk",
+     "es": "el tallo",
+     "it": "lo Stelo",
+     "_pos": [
+      80,
+      969
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "kernel",
+     "fr": "le grain",
+     "de": "der Kern",
+     "es": "la almendra",
+     "it": "il nocciolo",
+     "_pos": [
+      191,
+      969
+     ],
+     "_flags": []
+    },
+    {
+     "en": "heart",
+     "fr": "le cœur",
+     "de": "das Herz",
+     "es": "el corazón",
+     "it": "il cuore",
+     "_pos": [
+      304,
+      969
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plastic bag",
+     "fr": "le sac en plastique",
+     "de": "die Plastiktüte",
+     "es": "la bolsa de plástico",
+     "it": "la busta di plastica",
+     "_pos": [
+      408,
+      969
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Are these grown locally?",
+     "fr": "Est-ce qu'ils sont cultivés dans la région?",
+     "de": "Werden sie in dieser Gegend angebaut?",
+     "es": "Son productos locales?",
+     "it": "Queste sono della zona?",
+     "_pos": [
+      562,
+      969
+     ],
+     "_flags": [
+      "en:weird:locally?",
+      "en:case",
+      "fr:weird:région?",
+      "fr:case",
+      "de:weird:angebaut?",
+      "es:weird:locales?",
+      "es:case",
+      "it:weird:zona?",
+      "it:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "X",
+   "pos": [
+    271,
+    651
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 21,
+  "complete_clean": 7,
+  "flagged": 14,
+  "missing_lang": 1,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

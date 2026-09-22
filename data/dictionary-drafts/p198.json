@@ -1,0 +1,373 @@
+{
+ "page": 198,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • LE TRANSPORT • DER VERKEHR • KI. TRANSPORTE • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "aircraft • Pavion • das Flugzeug • el avión • l'aeroplano airliner • l'avion de ligne • das Verkehrsflugzeug • el avión de pasajeros • l'aereo di linea",
+   "parts": [
+    "aircraft",
+    "pavion",
+    "das flugzeug",
+    "el avión",
+    "l'aeroplano airliner",
+    "l'avion de ligne",
+    "das verkehrsflugzeug",
+    "el avión de pasajeros",
+    "l'aereo di linea"
+   ],
+   "entries": [
+    {
+     "en": "nose",
+     "fr": "le nez",
+     "de": "der Bug",
+     "es": "la n ari",
+     "it": "il muso",
+     "_pos": [
+      58,
+      160
+     ],
+     "_flags": [
+      "es:short:n"
+     ]
+    },
+    {
+     "en": "cockpit",
+     "fr": "le cockpit",
+     "de": "das Cockpit",
+     "es": "laca bina de pilotaje",
+     "it": "la cabina di pilotaggio",
+     "_pos": [
+      160,
+      161
+     ],
+     "_flags": []
+    },
+    {
+     "en": "engine",
+     "fr": "lb réacteur",
+     "de": "das Triebwerk",
+     "es": "el motor",
+     "it": "il motore",
+     "_pos": [
+      349,
+      163
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wing",
+     "fr": "l'aile",
+     "de": "die Tragfläche",
+     "es": "el ala",
+     "it": "l'ala",
+     "_pos": [
+      628,
+      164
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fuselage",
+     "fr": "le fuselage",
+     "de": "der Rumpf",
+     "es": "el fuselaje",
+     "it": "la fusoliera",
+     "_pos": [
+      504,
+      165
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tail",
+     "fr": "la queue",
+     "de": "das Heck",
+     "es": "la cola",
+     "it": "la coda",
+     "_pos": [
+      814,
+      168
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rudder",
+     "fr": "la gouverne",
+     "de": "das Seitenruder",
+     "es": "el timón",
+     "it": "il timone",
+     "_pos": [
+      792,
+      265
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nosewheel",
+     "fr": "la roue de nez",
+     "de": "das Bugfahrwerk",
+     "es": "el tren delantero",
+     "it": "la ruota anteriore",
+     "_pos": [
+      54,
+      456
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tailplane",
+     "fr": "l'empennage",
+     "de": "das Höhenleitwerk",
+     "es": "el estabilizador",
+     "it": "lo stabilizzatore",
+     "_pos": [
+      749,
+      463
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la sortie",
+     "de": "der Ausgang",
+     "es": "la salida",
+     "it": "l'uscita",
+     "_pos": [
+      220,
+      473
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "le train d'atterrissage",
+     "de": "das Hauptfahrwerk",
+     "es": "el tren de aterrizaje",
+     "it": "il carrello d'attcrraggio",
+     "_pos": [
+      340,
+      477
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "L a i 1er on",
+     "de": "das Querruder",
+     "es": "el alerón",
+     "it": "l'alettone",
+     "_pos": [
+      514,
+      478
+     ],
+     "_flags": [
+      "missing:fr",
+      "slot-ambig",
+      "en:num:1er",
+      "en:case"
+     ],
+     "_alts": [
+      [
+       "fr",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "fr": "la dérive",
+     "de": "das Seitenleitwerk",
+     "es": "la aleta",
+     "it": "l'aletta",
+     "_pos": [
+      630,
+      480
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "cabin • la cabine • die Kabine • la cabina • la cabina",
+   "parts": [
+    "cabin",
+    "la cabine",
+    "die kabine",
+    "laca bina",
+    "la cabina"
+   ],
+   "entries": [
+    {
+     "en": "emergency exit",
+     "fr": "la sortie de secours",
+     "de": "der Notausgang",
+     "es": "la salida de emergencia",
+     "it": "l'uscita di emergenza",
+     "_pos": [
+      124,
+      589
+     ],
+     "_flags": []
+    },
+    {
+     "en": "flight attendant",
+     "fr": "l'hôtesse dt l'air",
+     "de": "die Flugbegleiterin",
+     "es": "la sobrecargo",
+     "it": "l'assistente di volo",
+     "_pos": [
+      298,
+      591
+     ],
+     "_flags": []
+    },
+    {
+     "en": "overhead bin",
+     "fr": "le easier à bagages",
+     "de": "das Gepäckfach",
+     "es": "el com partim ento portaequipajes",
+     "it": "il corriDartimentn oortabannnii",
+     "_pos": [
+      470,
+      592
+     ],
+     "_flags": [
+      "it:rep:oortabannnii"
+     ]
+    },
+    {
+     "en": "air vent",
+     "fr": "le ventilateur",
+     "de": "die Luftdüse",
+     "es": "el ventilador",
+     "it": "la ventola per l'aria",
+     "_pos": [
+      746,
+      660
+     ],
+     "_flags": []
+    },
+    {
+     "en": "window",
+     "fr": "le hublot",
+     "de": "das Fenster",
+     "es": "la ventanilla",
+     "it": "il finestrino",
+     "_pos": [
+      52,
+      736
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reading light",
+     "fr": "la liseuse",
+     "de": "die Leselampe",
+     "es": "la luz de lectura",
+     "it": "la luce di lettura",
+     "_pos": [
+      746,
+      793
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat",
+     "fr": "le siège",
+     "de": "der Sitz",
+     "es": "el asiento",
+     "it": "il sedile",
+     "_pos": [
+      51,
+      851
+     ],
+     "_flags": []
+    },
+    {
+     "en": "row",
+     "fr": "la rangée",
+     "de": "die Reihe",
+     "es": "la fila",
+     "it": "la fila",
+     "_pos": [
+      744,
+      907
+     ],
+     "_flags": []
+    },
+    {
+     "en": "armrest",
+     "fr": "l'accoudoir",
+     "de": "die Armlehne",
+     "es": "el descansahrazos",
+     "it": "il bracciolo",
+     "_pos": [
+      165,
+      1000
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seat back",
+     "fr": "le dossier",
+     "de": "die Rückenlehne",
+     "es": "el respaldo",
+     "it": "lo schienale",
+     "_pos": [
+      635,
+      1004
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le couloir",
+     "de": "der Gang",
+     "es": "el pasillo",
+     "it": "il corridoio",
+     "_pos": [
+      345,
+      1018
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "fr": "la tablette",
+     "de": "der Klapptisch",
+     "es": "la mesa plegable",
+     "it": "il vassoio",
+     "_pos": [
+      480,
+      1020
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 14,
+  "flagged": 11,
+  "missing_lang": 6,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

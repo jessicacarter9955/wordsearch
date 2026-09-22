@@ -1,0 +1,438 @@
+{
+ "page": 91,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "servizi",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "header_raw": "S ER V IC ES • I ES SERVICES • DIE DIENSTLEISTUNGEN • EOS SERVICIOS • I SERVIZI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "coin",
+     "fr": "la picce",
+     "de": "die Münze",
+     "es": "la moneda",
+     "it": "la moneta",
+     "_pos": [
+      32,
+      87
+     ],
+     "_flags": []
+    },
+    {
+     "en": "screen",
+     "fr": "l'écran",
+     "de": "der Bildschirm",
+     "es": "la pantalla",
+     "it": "lo schermo",
+     "_pos": [
+      376,
+      101
+     ],
+     "_flags": []
+    },
+    {
+     "en": "card reader",
+     "fr": "la fence",
+     "de": "der Kartenschlitz",
+     "es": "la ranura de la tarjeta",
+     "it": "la fessura per la carta",
+     "_pos": [
+      728,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bill",
+     "fr": "lo billet",
+     "de": "der Schein",
+     "es": "el billete",
+     "it": "la banconota",
+     "_pos": [
+      248,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "keypad",
+     "fr": "le clavier",
+     "de": "das Tastenfeld",
+     "es": "el teclado",
+     "it": "la tastiera",
+     "_pos": [
+      376,
+      201
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ATM",
+     "fr": "le distributeur",
+     "de": "der Geldautomat",
+     "es": "el cajero automático",
+     "it": "la cassa automatica",
+     "_pos": [
+      481,
+      316
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "money",
+     "fr": "l'argent",
+     "de": "das Geld",
+     "es": "el dinero",
+     "it": "il denaro",
+     "_pos": [
+      34,
+      318
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "étrangères",
+   "parts": [
+    "étrangères"
+   ],
+   "entries": [
+    {
+     "en": "foreign currency",
+     "fr": "les devises",
+     "_pos": [
+      34,
+      380
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "de": "die ausländische",
+     "_pos": [
+      346,
+      380
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "cash (v)",
+     "fr": "encaisser",
+     "de": "einlösen",
+     "es": "cobrar",
+     "it": "incassare",
+     "_pos": [
+      534,
+      381
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stocks",
+     "fr": "les actions",
+     "de": "die Aktien",
+     "es": "las acciones",
+     "it": "le azioni",
+     "_pos": [
+      692,
+      382
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "Währung • las divisas • la valuta estera",
+   "parts": [
+    "währung",
+    "las divisas",
+    "la valuta estera"
+   ],
+   "entries": [
+    {
+     "en": "denomination",
+     "fr": "la valeur",
+     "de": "der Nennwert",
+     "es": "la denominación",
+     "it": "la denominazione",
+     "_pos": [
+      534,
+      480
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dividends",
+     "fr": "les dividendes",
+     "de": "die Gewinnanteile",
+     "es": "los dividendos",
+     "it": "i dividendi",
+     "_pos": [
+      693,
+      481
+     ],
+     "_flags": []
+    },
+    {
+     "en": "traveler's check",
+     "fr": "le traveller",
+     "de": "der Reisescheck",
+     "es": "el cheque de viajero",
+     "it": "il travel cheque",
+     "_pos": [
+      348,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "commission",
+     "fr": "la commission",
+     "de": "die Provision",
+     "es": "la comisión",
+     "it": "la commissione",
+     "_pos": [
+      536,
+      580
+     ],
+     "_flags": []
+    },
+    {
+     "en": "accountant",
+     "fr": "le comprable",
+     "de": "der Wirtschaftsprüfer",
+     "es": "el contador",
+     "it": "il contabile",
+     "_pos": [
+      694,
+      580
+     ],
+     "_flags": []
+    },
+    {
+     "en": "investment",
+     "fr": "l'investissement",
+     "de": "die Kapitalanlage",
+     "es": "la inversión",
+     "it": "l'investimento",
+     "_pos": [
+      536,
+      679
+     ],
+     "_flags": []
+    },
+    {
+     "en": "portfolio",
+     "fr": "le portefeuille",
+     "de": "das Portefeuille",
+     "es": "la cartera",
+     "it": "il portafoglio",
+     "_pos": [
+      694,
+      680
+     ],
+     "_flags": []
+    },
+    {
+     "en": "exchange rate",
+     "fr": "le taux de change",
+     "de": "der Wechselkurs",
+     "es": "el tipo ile cam bio",
+     "it": "il tasso di cambio",
+     "_pos": [
+      350,
+      680
+     ],
+     "_flags": []
+    },
+    {
+     "en": "currency exchange",
+     "fr": "le bureau de change",
+     "de": "die Wechselstube",
+     "es": "la oficina de cambio",
+     "it": "l'ufficio di cambio",
+     "_pos": [
+      36,
+      683
+     ],
+     "_flags": []
+    },
+    {
+     "en": "securities",
+     "fr": "les titres",
+     "de": "die Wertpapiere",
+     "es": "las acetones",
+     "it": "i titoli",
+     "_pos": [
+      537,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "equity",
+     "fr": "l'action",
+     "de": "die Stammaktie",
+     "es": "el patrimonio neto",
+     "it": "il capitale netto",
+     "_pos": [
+      695,
+      780
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "finance • la finance • die Geldwirtschaft • las finanzas",
+   "parts": [
+    "finance",
+    "la finance",
+    "die geldwirtschaft",
+    "las finanzas"
+   ],
+   "entries": [
+    {
+     "fr": "la finanza",
+     "_pos": [
+      38,
+      810
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "stockbroker",
+     "fr": "l'agent de la bourse",
+     "de": "der Börsenmakler",
+     "es": "el agente de bolsa",
+     "it": "il broker",
+     "_pos": [
+      352,
+      829
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stock price",
+     "fr": "le prix des actions",
+     "de": "der Aktienpreis",
+     "es": "el valor de las act iones",
+     "it": "il corso per azione",
+     "_pos": [
+      154,
+      830
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can 1 change this, please?",
+     "fr": "Est-ce que je peux changer ça,s'il vous plaît?",
+     "de": "Konnte ich das bitte wechseln?",
+     "es": "Podría cam biar esto por favor?",
+     "it": "Posso cambiare questo?",
+     "_pos": [
+      538,
+      895
+     ],
+     "_flags": [
+      "en:num:1",
+      "en:weird:this,",
+      "en:weird:please?",
+      "en:case",
+      "fr:weird:ça,s'il",
+      "fr:weird:plaît?",
+      "fr:case",
+      "de:weird:wechseln?",
+      "es:weird:favor?",
+      "es:case",
+      "it:weird:questo?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "W hat's today's exchange rate?",
+     "fr": "Quel est le taux de change aujourd'hui?",
+     "de": "Wie ist der heutige Wechselkurs?",
+     "es": "Cóm o está el tipo de cam bio hoy?",
+     "it": "Qual è il tasso di cambio oggi?",
+     "_pos": [
+      538,
+      994
+     ],
+     "_flags": [
+      "en:short:W",
+      "en:weird:rate?",
+      "en:case",
+      "fr:weird:aujourd'hui?",
+      "fr:case",
+      "de:weird:Wechselkurs?",
+      "es:weird:hoy?",
+      "es:case",
+      "it:short:è",
+      "it:weird:oggi?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "financial advisor",
+     "fr": "la conseillère financière",
+     "de": "die Finanzberaterin",
+     "es": "la asesora financiera",
+     "it": "la consulente finanziaria",
+     "_pos": [
+      39,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stock exchange",
+     "fr": "la bourse",
+     "de": "die Börse",
+     "es": "la bolsa de valores",
+     "it": "la borsa valori",
+     "_pos": [
+      258,
+      1062
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 12,
+  "flagged": 17,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

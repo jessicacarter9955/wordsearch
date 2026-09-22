@@ -1,0 +1,656 @@
+{
+ "page": 217,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "tennis",
+   "names": {
+    "en": "tennis",
+    "fr": "le tennis",
+    "de": "das tennis",
+    "es": "el tenis",
+    "it": "il tennis"
+   },
+   "entries": [
+    {
+     "en": "handle",
+     "fr": "manche",
+     "de": "Griff",
+     "es": "mango",
+     "it": "impugnatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "head",
+     "fr": "tête",
+     "de": "Kopf",
+     "es": "cabeza",
+     "it": "testa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "string",
+     "fr": "corde",
+     "de": "Saite",
+     "es": "cuerda",
+     "it": "corda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "umpire",
+     "fr": "arbitre",
+     "de": "Schiedsrichter",
+     "es": "juez de silla",
+     "it": "arbitro",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 14,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "baseline",
+     "fr": "ligne de fond",
+     "de": "Grundlinie",
+     "es": "línea de fondo",
+     "it": "linea di fondo",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 10,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "racquet",
+     "fr": "raquette",
+     "de": "Tennisschläger",
+     "es": "raqueta",
+     "it": "racchetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 14,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "service line",
+     "fr": "ligne de service",
+     "de": "Aufschlaglinie",
+     "es": "línea de servicio",
+     "it": "linea di servizio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 14,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "sideline",
+     "fr": "ligne de côté",
+     "de": "Seitenlinie",
+     "es": "línea de banda",
+     "it": "linea laterale",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 11,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "ball",
+     "fr": "balle",
+     "de": "Tennisball",
+     "es": "bola",
+     "it": "palla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "wristband",
+     "fr": "poignet",
+     "de": "Schweißband",
+     "es": "muñequera",
+     "it": "polsino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "tennis court",
+     "fr": "court de tennis",
+     "de": "Tennisplatz",
+     "es": "pista de tenis",
+     "it": "campo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 12,
+      "it": 5
+     }
+    },
+    {
+     "en": "singles",
+     "fr": "simple",
+     "de": "Einzel",
+     "es": "singles",
+     "it": "singolare",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "set",
+     "fr": "set",
+     "de": "Satz",
+     "es": "set",
+     "it": "set",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 4,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "deuce",
+     "fr": "l 'égalité",
+     "de": "Einstand",
+     "es": "cuarenta iguales",
+     "it": "deuce",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 8,
+      "es": 15,
+      "it": 5
+     }
+    },
+    {
+     "en": "fault",
+     "fr": "faute",
+     "de": "Fehler",
+     "es": "falta",
+     "it": "fallo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "slice",
+     "fr": "lice",
+     "de": "Slice",
+     "es": "tiro con efecto",
+     "it": "taglio",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 13,
+      "it": 6
+     }
+    },
+    {
+     "en": "spin",
+     "fr": "effet",
+     "de": "Spin",
+     "es": "efecto",
+     "it": "avvitamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 11
+     }
+    },
+    {
+     "en": "doubles",
+     "fr": "double",
+     "de": "Doppel",
+     "es": "dobles",
+     "it": "doppio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "match",
+     "fr": "match",
+     "de": "Match",
+     "es": "partido",
+     "it": "partita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "advantage",
+     "fr": "avantage",
+     "de": "Vorteil",
+     "es": "ventaja",
+     "it": "vantaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "ace",
+     "fr": "as",
+     "de": "Ass",
+     "es": "e las",
+     "it": "asso",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 2,
+      "de": 3,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "rally",
+     "fr": "échange",
+     "de": "Ballwechsel",
+     "es": "peloteo",
+     "it": "palleggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "linesman",
+     "fr": "juge de ligne",
+     "de": "Linienrichter",
+     "es": "juez de línea",
+     "it": "giudice di linea",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 13,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "game",
+     "fr": "jeu",
+     "de": "Spiel",
+     "es": "juego",
+     "it": "gioco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "tiebreaker",
+     "fr": "riebreak",
+     "de": "Tiebreak",
+     "es": "tiebreak",
+     "it": "tiebreak",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "love",
+     "fr": "zéro",
+     "de": "null",
+     "es": "nada",
+     "it": "a zero",
+     "_multi": [
+      "it"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "dropshot",
+     "fr": "amorti",
+     "de": "Stoppball",
+     "es": "dejada",
+     "it": "smorzata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "let!",
+     "fr": "net!",
+     "de": "Netz!",
+     "es": "red!",
+     "it": "colpo nullo!",
+     "_multi": [
+      "it"
+     ],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 4,
+      "es": 3,
+      "it": 10
+     }
+    },
+    {
+     "en": "championship",
+     "fr": "championnat",
+     "de": "Meisterschaft",
+     "es": "campeonato",
+     "it": "campionato",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 13,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

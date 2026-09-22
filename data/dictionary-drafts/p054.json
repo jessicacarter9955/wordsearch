@@ -1,0 +1,275 @@
+{
+ "page": 54,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "HOME • LA MAISON • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "apartment",
+     "fr": "l'appartement",
+     "de": "die Wohnung",
+     "es": "el departamento",
+     "it": "l'appartamento",
+     "_pos": [
+      645,
+      80
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "la entrada",
+   "parts": [
+    "la entrada"
+   ],
+   "entries": [
+    {
+     "en": "entrance",
+     "fr": "l'entrée",
+     "de": "der Eingang",
+     "_pos": [
+      38,
+      82
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "fr": "l'in g resso",
+     "_pos": [
+      378,
+      82
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "fr:short:g"
+     ]
+    },
+    {
+     "en": "balcony",
+     "fr": "le balcon",
+     "de": "der Balkon",
+     "es": "el balcón",
+     "_pos": [
+      646,
+      162
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "landing",
+     "fr": "le palier",
+     "de": "der Treppenabsatz",
+     "es": "el descanso",
+     "it": "il pianerottolo",
+     "_pos": [
+      498,
+      179
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hand rail",
+     "fr": "la main cor nanti",
+     "de": "das Geländer",
+     "es": "el pasamanos",
+     "it": "la ringhierà",
+     "_pos": [
+      38,
+      182
+     ],
+     "_flags": []
+    },
+    {
+     "en": "banister",
+     "fr": "la rampe",
+     "de": "das Treppengeländer",
+     "es": "el barandal",
+     "it": "il corrimano",
+     "_pos": [
+      500,
+      364
+     ],
+     "_flags": []
+    },
+    {
+     "en": "staircase",
+     "fr": "i'cscalier",
+     "de": "die Treppe",
+     "es": "la escalera",
+     "it": "le scale",
+     "_pos": [
+      40,
+      411
+     ],
+     "_flags": []
+    },
+    {
+     "en": "apartment block",
+     "fr": "l'immeuble",
+     "de": "der Wohnblock",
+     "es": "el edificio",
+     "it": "il caseggiato",
+     "_pos": [
+      648,
+      506
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hallway",
+     "fr": "le vesribnle",
+     "de": "die Dieie",
+     "es": "el vestibolo",
+     "it": "l'entrata",
+     "_pos": [
+      150,
+      672
+     ],
+     "_flags": []
+    },
+    {
+     "en": "intercom",
+     "fr": "l'interphone",
+     "de": "die Sprechanlage",
+     "es": "el interfono",
+     "it": "il citofono",
+     "_pos": [
+      650,
+      735
+     ],
+     "_flags": []
+    },
+    {
+     "en": "door knocker",
+     "fr": "le marteau de porte",
+     "de": "der Türklopfer",
+     "es": "la aldaba",
+     "it": "il battente",
+     "_pos": [
+      454,
+      834
+     ],
+     "_flags": []
+    },
+    {
+     "en": "doorbell",
+     "fr": "la sonnette",
+     "de": "die Türklingel",
+     "es": "el timbre",
+     "it": "il campanello",
+     "_pos": [
+      44,
+      837
+     ],
+     "_flags": []
+    },
+    {
+     "en": "doormat",
+     "fr": "le paillasson",
+     "de": "der Fußabtreter",
+     "es": "el tapete",
+     "it": "lo zerbino",
+     "_pos": [
+      236,
+      837
+     ],
+     "_flags": []
+    },
+    {
+     "en": "key",
+     "fr": "la Jet",
+     "de": "der Schlüssel",
+     "es": "la llave",
+     "it": "la chiave",
+     "_pos": [
+      417,
+      923
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "elevator",
+     "fr": "l'ascenseur",
+     "de": "der Fahrstuhl",
+     "es": "el elevador",
+     "it": "l'ascensore",
+     "_pos": [
+      654,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bolt",
+     "fr": "le verrou",
+     "de": "der Türriegel",
+     "es": "el cerrojo",
+     "it": "il chiavistello",
+     "_pos": [
+      440,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lock",
+     "fr": "la serrure",
+     "de": "das Schloss",
+     "es": "la cerradura",
+     "it": "la serratura",
+     "_pos": [
+      258,
+      1033
+     ],
+     "_flags": []
+    },
+    {
+     "en": "door chain",
+     "fr": "la chaîne de >ùreté",
+     "de": "die Türkette",
+     "es": "la cadena",
+     "it": "la catenella",
+     "_pos": [
+      46,
+      1034
+     ],
+     "_flags": [
+      "fr:weird:>ùreté"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 3,
+  "flagged": 16,
+  "missing_lang": 3,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

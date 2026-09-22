@@ -1,0 +1,445 @@
+{
+ "page": 46,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "salute",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "header_raw": "H EA LTH • LA S A N T É • DIE GESUNDHEIT • LA S A L U D • LA SALUTE",
+ "groups": [
+  {
+   "names_raw": "dentist • le dentiste • der Zahnarzt • el dentista • il dentista tooth • la dent • der Zahn • cl diente",
+   "parts": [
+    "dentist",
+    "le dentiste",
+    "der zahnarzt",
+    "el dentista",
+    "il dentista tooth",
+    "la dent",
+    "der zahn",
+    "cl diente"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "check-up • la visite de contróle • der Check-up • la revisión • il controllo",
+   "parts": [
+    "check-up",
+    "la visite de contrôle",
+    "der check-up",
+    "la revisión",
+    "il controllo"
+   ],
+   "entries": [
+    {
+     "it": "il dente",
+     "_pos": [
+      66,
+      139
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:es"
+     ]
+    },
+    {
+     "en": "enamel",
+     "fr": "l'cm ail",
+     "de": "der Zahnschmelz",
+     "es": "el esmalte",
+     "it": "10 smalto",
+     "_pos": [
+      65,
+      172
+     ],
+     "_flags": [
+      "it:num:10"
+     ]
+    },
+    {
+     "en": "gum",
+     "fr": "la gencive",
+     "de": "das Zahnfleisch",
+     "es": "la encía",
+     "it": "la gengiva",
+     "_pos": [
+      290,
+      172
+     ],
+     "_flags": []
+    },
+    {
+     "en": "reflector",
+     "fr": "la lampe",
+     "de": "die Behandlungs",
+     "es": "lampe",
+     "it": "la lam para la lampada",
+     "_pos": [
+      600,
+      218
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig"
+     ],
+     "_alts": [
+      {
+       "en": "reflector",
+       "fr": "In lampe",
+       "de": "die Behandlungs",
+       "es": "lampe la lam para",
+       "it": "la lampada"
+      },
+      {
+       "en": "reflector",
+       "fr": "In lampe",
+       "de": "die Behandlungs lampe",
+       "es": "la lam para",
+       "it": "la lampada"
+      }
+     ]
+    },
+    {
+     "en": "probe",
+     "fr": "la sonde",
+     "de": "die Sonde",
+     "es": "la sonda",
+     "it": "la sonda",
+     "_pos": [
+      480,
+      251
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nerve",
+     "fr": "le nerf",
+     "de": "der Nerv",
+     "es": "el nervio",
+     "it": "11 nervo",
+     "_pos": [
+      66,
+      299
+     ],
+     "_flags": [
+      "it:num:11"
+     ]
+    },
+    {
+     "en": "root",
+     "fr": "la racine",
+     "de": "die Zahnwurzel",
+     "es": "la raíz",
+     "it": "la radice",
+     "_pos": [
+      290,
+      299
+     ],
+     "_flags": []
+    },
+    {
+     "en": "incisor",
+     "fr": "l'incisive",
+     "de": "der Schneidezahn",
+     "es": "el incisivo",
+     "it": "l'incisivo",
+     "_pos": [
+      286,
+      405
+     ],
+     "_flags": []
+    },
+    {
+     "en": "premolar",
+     "fr": "la prémolaire",
+     "de": "der vordere",
+     "es": "Backenzahn el premolar",
+     "it": "il premolare",
+     "_pos": [
+      66,
+      422
+     ],
+     "_flags": [
+      "wrap",
+      "wrap-ambig",
+      "es:case"
+     ],
+     "_alts": [
+      {
+       "en": "premolar",
+       "fr": "la prém olaire",
+       "de": "der vordere Backenzahn",
+       "es": "el prem olar",
+       "it": "il premolare"
+      }
+     ]
+    },
+    {
+     "en": "canine",
+     "fr": "la canine",
+     "de": "der Eckzahn",
+     "es": "el colmillo",
+     "it": "il canino",
+     "_pos": [
+      299,
+      544
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la molaire",
+     "de": "der Backenzahn",
+     "es": "la muela",
+     "it": "il molare",
+     "_pos": [
+      66,
+      560
+     ],
+     "_flags": [
+      "missing:en"
+     ]
+    },
+    {
+     "en": "basin",
+     "fr": "le crachoir",
+     "de": "das Speibecken",
+     "es": "el lavabo",
+     "it": "la sputacchiera",
+     "_pos": [
+      418,
+      577
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dentist's chair",
+     "fr": "le fauteuil de dentiste",
+     "de": "der Patientenstuhl",
+     "es": "el sillón del dentista",
+     "it": "la poltrona da dentista",
+     "_pos": [
+      664,
+      578
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toothache",
+     "fr": "ia ragt de dents",
+     "de": "die Zahnschmerzen",
+     "es": "el dolor de m uelas",
+     "it": "il mal di denti",
+     "_pos": [
+      80,
+      683
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "drill",
+     "fr": "la fraise",
+     "de": "der Bohrer",
+     "es": "el tomo del dentista",
+     "it": "il trapano",
+     "_pos": [
+      228,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plaque",
+     "fr": "la plaque",
+     "de": "der Zahnbelag",
+     "es": "la placa bacteriana",
+     "it": "la placca",
+     "_pos": [
+      81,
+      784
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dentai floss",
+     "fr": "le ITI dem aire",
+     "de": "die Zahnseide",
+     "es": "el hilo dental",
+     "it": "il filo dentale",
+     "_pos": [
+      229,
+      784
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "braces",
+     "fr": "l'appareil dentaire",
+     "de": "die Zahnspange",
+     "es": "los frenos",
+     "it": "l'apparecchio correttore",
+     "_pos": [
+      744,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "floss (v)",
+     "fr": "utiliser le fil dentaire",
+     "de": "mit Zahnseide reinigen",
+     "es": "usar el Itilo dental",
+     "it": "usare il filo dentale",
+     "_pos": [
+      406,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brush (v)",
+     "fr": "brosser",
+     "de": "bürsten",
+     "es": "cepillarse los dientes",
+     "it": "spazzolare",
+     "_pos": [
+      575,
+      790
+     ],
+     "_flags": []
+    },
+    {
+     "en": "decay",
+     "fr": "la carie",
+     "de": "die Karies",
+     "es": "la caries",
+     "it": "lac arie",
+     "_pos": [
+      81,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "extraction",
+     "fr": "l'extraction die Extraktion la extracción l'estrazione",
+     "_pos": [
+      229,
+      885
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "filling",
+     "fr": "le plombage",
+     "de": "die Zahnfüllung",
+     "es": "el empaste",
+     "it": "l'otturazione",
+     "_pos": [
+      81,
+      985
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crown",
+     "fr": "la couronne",
+     "de": "die Krone",
+     "es": "la corona",
+     "it": "la corona",
+     "_pos": [
+      230,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dentai x ray",
+     "fr": "la radio dentaire",
+     "de": "die Röntgen aufnahme",
+     "es": "los ravos x dentales",
+     "it": "la radio grafia dentale",
+     "_pos": [
+      407,
+      1002
+     ],
+     "_flags": [
+      "en:short:x",
+      "es:short:x"
+     ]
+    },
+    {
+     "en": "x-ray film",
+     "fr": "la radio",
+     "de": "das Rontgenbild",
+     "es": "la radiografía",
+     "it": "la pellicola radiografica",
+     "_pos": [
+      576,
+      1002
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dentures",
+     "fr": "le denrier",
+     "de": "die Zahnprothese",
+     "es": "la dentadura postiza",
+     "it": "la dentiera",
+     "_pos": [
+      746,
+      1002
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "}",
+   "pos": [
+    152,
+    280
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "apron",
+   "pos": [
+    528,
+    347
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "le bavoir",
+   "pos": [
+    578,
+    347
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 27,
+  "complete_clean": 12,
+  "flagged": 15,
+  "missing_lang": 3,
+  "leftovers": 3,
+  "subcats": 2
+ }
+}

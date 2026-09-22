@@ -1,0 +1,264 @@
+====================================================================================================
+== p152 [studio] 26 voci, 14 flag, 0 mancanti, 0 leftover, header=STUDY • L'É T U D E • DAS LERNEN • EL E S T U D IO • LO STU~
+-- G0 subcat: school • l'école • die Schule • la escuela • la scuola
+   parts: school • l'école • die schule • la escuela • la scuola
+ 0.0  M teacher | l'institutrice | die Lehrerin | la maestra | l'insegnante   
+ 0.1  M chalkboard | le tableau | die Tafel | el pizarrón | la lavagna   
+ 0.2  M schoolboy | l'écolier | der Schuljunge | el colegial | lo scolaro   
+ 0.3  M school uniform | l'uniforme | die Schuluniform | el uniforme | la divisa scolas~   
+ 0.4  ⚠ pupil | I'eleve | der Schüler | el alumno | l'alunno   fr
+ 0.5  M desk | le pupitre | das Pult | el pupitre | il banco   
+ 0.6  M book bag | le cartable | die Schultasche | mochila | la cartella   
+ 0.7  M chalk | la craie | die Kreide | el gis | il gesso   
+ 0.8  ⚠ schoolgirl | l'èco!ièrc | das Schulmädchen | la colegiala | la scolara   fr
+ 0.9  M classroom | la salle de clas~ | das Klassenzimmer | el salón | l'aula   
+ 0.10 ⚠ physics | la physique | die Physik | La física | la fìsica   es
+ 0.11 M history | l'histoire | die Geschichte | la historia | la storia   
+ 0.12 M art | l'art | die Kunst | el arte | l'arte   
+-- G1 subcat: activities • les activités • die Aktivitäten • las actividades • le attività
+   parts: activities • les activités • die aktivitäten • las actividades • le attività
+ 1.0  M chemistry | la chimie | die Chemie | la química | la chimica   
+ 1.1  M geography | la géographie | die Erdkunde | la geografía | la geografia   
+ 1.2  ⚠ music | la musique | die Musik | la m ùsica | la musica   es
+ 1.3    write (v) | écrire | schreiben | escribir | scrivere   
+ 1.4    read (v) | lire | lesen | leer | leggere   
+ 1.5  ⚠ math | les mathématiques | die Mathematik | las m atem áticas | la matematica   es
+ 1.6  M biology | la biologie | die Biologie | labio logia | la biologia   
+ 1.7  M literature | la littérature | die Literatur | la literatura | la letteratura   
+ 1.8  M physical educati~ | l'éducation phys~ | der Sport | la educación fís~ | l'educazione fis~   
+ 1.9  M languages | les langues | die Sprachen | los idiomas | le lingue   
+ 1.10 M science | les sciences | die Naturwissens~ | la ciencia | la scienza   
+ 1.11   draw (v) | dessiner | zeichnen | dibujar | disegnare   
+ 1.12   spell (v) | épeler | buchstabieren | deletrear | scandire   
+====================================================================================================
+== p153 [studio] 26 voci, 13 flag, 0 mancanti, 0 leftover, header=STUDY • L'ÉTUDE • DAS LERNEN • EL ESTl .'DIO • LO STUDIO
+-- G0 subcat: (nessuna)
+ 0.0  M colored pencil | le crayon de cou~ | der Buntstift | el color | la matita colora~   
+ 0.1  M pendi sharpener | le taille-crayon | der Spitzer | el sacapuntas | il temperamatite   
+ 0.2  M pencil | le crayon | der Bleistift | el lápiz | la matita   
+ 0.3  M pen | le stylo | der Füller | la pluma | la penna   
+ 0.4  M overhead project~ | le rétro project~ | der Overhead pro~ | el proyector de ~ | la lavagna lumin~   
+ 0.5  M eraser | la gomme | der Radiergummi | la goma | la gomma   
+ 0.6  M notebook | le cahier | das Heft | el cuaderno | il quaderno   
+ 0.7  M ruler | la régie | das Lineai | la regia | il righello   
+ 0.8  M pendi case | la trousse | das Federmäppchen | el estuche | l'astuccio   
+ 0.9  M textbook | le livre | das Schulbuch | el libro de texto | il libro di testo   
+ 0.10 M grade | la note | die Note | la calificación | il livello   
+ 0.11 M answer | la réponse | die Antwort | la respuesta | la risposta   
+ 0.12 M principal | le directeur | der Schulleiter | el director | il preside   
+ 0.13 M year | la classe | die Klasse | el año | la classe   
+ 0.14 M homework | les devoirs | die Hausaufgabe | la tarea | i compiti   
+ 0.15 M class | la leçon | die Stunde | la lección | la lezione   
+ 0.16   answer (v) | répondre | antworten | contestar | rispondere   
+ 0.17   question (v) | questionner | fragen | preguntar | domandare   
+ 0.18 M dictionary | le dictionnaire | das Wörterbuch | el diccionario | il dizionario   
+ 0.19 M essay | la rédaction | der Aufsatz | la redacción | il tema   
+ 0.20 M take notes (v) | prendre des notes | Notizen machen | tom ar apuntes | prendere appunti   
+ 0.21 M examination | l'examen | die Prüfung | el examen | l'esame   
+ 0.22 M encyclopedia | l'encyclopédie | das Lexikon | la enciclopedia | l'enciclopedia   
+ 0.23 M question | la question | die Frage | la pregunta | la domanda   
+ 0.24   leam (v) | apprendre | lernen | aprender | imparare   
+ 0.25   discuss (v) | discuter | diskutieren | discutir | discutere   
+====================================================================================================
+== p154 [studio] 27 voci, 19 flag, 3 mancanti, 0 leftover, header=STUDY • L'ÉTUDE • DAS LERNEN • EI. ESTUDIO • LO STUDIO
+-- G0 subcat: math • les mathématiques • die Mathematik • las matemáticas • la m atem atica
+   parts: math • les mathématiques • die mathematik • las matemáticas • la matematica
+-- G1 subcat: shapes • les formes • die Formen • las formas • le forme
+   parts: shapes • les formes • die formen • las formas • le forme
+ 1.0  M arc | l 'arc | der Bogen | el arco | l'arco   
+ 1.1  M circumference | la circonférence | der Umfang | la circunferencia | circonferenza   
+ 1.2  ⚠ ? | la | die Diagonale | la diagonal | la diagonale   missing
+ 1.3  M center | le centre | der Mittelpunkt | el centro | il centro   
+ 1.4  M square | le carré | das Quadrat | el cuadrado | il quadrato   
+ 1.5  M rectangle | le rectangle | das Rechteck | el rectángulo | il rettangolo   
+ 1.6  M diameter | le diamètre | der Durchmesser | el diámetro | il diametro   
+ 1.7  M hypotenuse | l'hypoténuse | die Hypotenuse | la hipotenusa | hipotenusa   
+ 1.8  ⚠ angle | l'angle | der Winkel | el ángulo | ?   missing
+ 1.9  M radius | le rayon | der Radius | el radio | il raggio   
+ 1.10 M oval | l'ovale | das Oval | el óvalo | l'ovale   
+ 1.11 M triangle | le triangle | das Dreieck | el triángulo | il triangolo   
+ 1.12 ⚠ parallelogram | le parallélogram~ | das Parallelogra~ | ? | il parallelogram~   missing
+ 1.13 M circle | le cercle | der Kreis | el círculo | il cerchio   
+ 1.14 M rhombus | le rhum he | der Rhombus | el rombo | il rombo   
+ 1.15 M trapezium | le trapèze | das Trapez | el trapecio | il trapezio   
+ 1.16 M pentagon | le pentagone | das Fünfeck | el pentágono | il pentagono   
+ 1.17 M hexagon | l'hexagone | das Sechseck | el hexágono | l'esagono   
+ 1.18 M octagon | l'octogone | das Achteck | el octágono | l'ottagono   
+-- G2 subcat: solids • les solides • die Körper • los cuerpos geométricos • i solidi
+   parts: solids • les solides • die körper • los cuerpos geométricos • i solidi
+ 2.0  M side | le côté | die Seite | el lado | il lato   
+ 2.1  M apex | le sommer | die Spitze | el ápice | lapice   
+-- G3 subcat: i
+   parts: i
+ 3.0  ⚠ base | la base | die Grundfläche | la base | la base i   wrap wrap-ambig
+        ALTS: [{'en': 'base', 'fr': 'la base', 'de': 'die Grundfläche', 'es': 'la base la base', 'it': 'i'}]
+ 3.1  M cone | le cône | der Kegel | el cono | il cono   
+ 3.2  ⚠ cylinder | le cylindre | der Zylinder | el cilindro | I cilindro   it
+ 3.3  M cube | le cube | der Würfel | el cubo | il cubo   
+ 3.4  M pyramid | la pyramide | die Pyramide | la piràm ide | la piramide   
+ 3.5  M sphere | la sphère | die Kugel | la esferc | la sfera   
+====================================================================================================
+== p155 [studio] 36 voci, 26 flag, 0 mancanti, 0 leftover, header=S T U D Y • L* É T U D E • DAS LERNEN • E I . E S T U D IO ~
+-- G0 subcat: (nessuna)
+ 0.0  ⚠ unes | le lignes | dieLinien | la s lin e a s | le linee   es
+ 0.1    curved | courbe | gekrümmt | curvo | curvo   
+ 0.2    perpendicular | perpendiculaire | senkrecht | perpendicular | perpendicolare   
+ 0.3    parallel | parallèle | parallel | paralelo | parallelo   
+ 0.4    straight | droit | gerade | recto | dritto   
+ 0.5  ⚠ measurements | Ic s m e s u re s | die Maße | la s m e d id a s | le misure   es fr
+ 0.6  M numerator | le numérateur | der Zähler | el numerador | il numeratore   
+ 0.7  M width | la largeur | die Breite | la anchura | la larghezza   
+ 0.8  M length | la longueur | die Länge | la longitud | la lunghezza   
+ 0.9  M height | la hauteur | die Höhe | la altura | l'altezza   
+ 0.10 M denominator | le dénominateur | der Nenner | tl denominador | il denominatore   
+ 0.11 ⚠ depth | l:i profondeur | die Tiefe | la profundidad | la profondità   fr
+ 0.12 M area | l'aire | die Fläche | el área | la superficie   
+ 0.13 M dimensions | les dimensions | die Abmessungen | las dim ensiones | le dimensioni   
+ 0.14 M fraction | la traction | der Bruch | la fracción | la frazione   
+ 0.15 M volume | le volume | das Volumen | el volumen | il volume   
+ 0.16 M equipment | l 'équipe ment | die Ausrüstung | los materia les | l'attrezzatura   
+ 0.17 M calculator | la calculatrice | der Taschenrechn~ | la calculadora | la calcolatrice   
+ 0.18 M compass | le compas | der Zirkel | el compás | il compasso   
+ 0.19 M protractor | le rapporteur | der Winkelmesser | el transportador | il goniometro   
+ 0.20 M ruler | la règle | das Lineal | la regla | il righello   
+ 0.21 M set square | l'équerre | das Zeichendreie~ | la escuadra | la squadra   
+ 0.22 M equation | l'équation | die Gleichung | la ecuación | l'equazione   
+ 0.23   add (v) | additionner | addieren | sumar | sommare   
+ 0.24   multiply (v) | multiplier | multiplizieren | multiplicar | moltiplicare   
+ 0.25 ⚠ times | fois | mal | m ultiplicado por | moltipllcato per   es
+ 0.26 M equals | égalc nt | gleich | igual a | uguale   
+ 0.27   plus | plus | plus | mas | più   
+ 0.28 M geometry | la géométrie | die Geometrie | la geometría | la geometria   
+ 0.29 M percentage | le pourcentage | der Prozentsatz | el porcentaje | la percentuale   
+ 0.30   divide (v) | diviser | dividieren | dividir | dividere   
+ 0.31   subtract (v) | soustraire | subtrahieren | restar | sottrarre   
+ 0.32 M divided by | divise par | geteilt durch | dividido entre | diviso per   
+ 0.33   count (v) | compter | zählen | contar | contare   
+ 0.34   minus | moins | minus | menos | meno   
+ 0.35 M arithmetic | l'arithmétique | die Arithmetik | la aritmética | l'aritmetica   
+====================================================================================================
+== p156 [studio] 18 voci, 12 flag, 0 mancanti, 0 leftover, header=S T U D Y • [ É T U D E • DAS LERNEN • E L E S T U D IO • L~
+-- G0 subcat: science • la science • die Wissenschaft • las ciencias • la scienza
+   parts: science • la science • die wissenschaft • las ciencias • la scienza
+ 0.0  M crucible | le creuset | der Tiegel | el crisol | il crogiolo   
+ 0.1  ⚠ bunsen burner | le bec Bunsen | der Bunsenbrenner | el m echero Buns~ | il becco Bunsen   es
+ 0.2  M weight | le poids | das Gewicht | la pesa | il peso   
+ 0.3  M laboratory | le laboratoire | das Labor | el laboratorio | il laboratorio   
+ 0.4  M scales | la balance | die Laborwaage | la báscula | la bilancia   
+ 0.5  M spring balance | la balance a res~ | die Federwaage | la balanza de mu~ | la bilancia a mo~   
+ 0.6  M tripod | le trépied | der Dreifuß | el trípode | il treppiede   
+ 0.7  M test tube | l'éprouvette | das Reagenzglas | el tubo de ensayo | la provetta   
+ 0.8  M clamp stand | le statit | das Stativ | el poste | il sostegno del ~   
+ 0.9  M glass bottle | la bouteille | die Glasflasche | el frasco de cri~ | la bottiglia di ~   
+ 0.10 M rack | le support | das Gestell | el portatubos | la rastrelliera   
+ 0.11 M clamp | la pince | die Klammer | el brazo | il morsetto   
+ 0.12 M stopper | le bouchon | der Stöpsel | el tapón | il tappo   
+ 0.13 M funnel | l'entonnoir | der Trichter | el embudo | l'imbuto   
+ 0.14 M timer | le chronométré | der Zeitmesser | el cronòm etro | il cronometro   
+ 0.15 M beaker | la fiole | der Kolben | el matraz | l'ampolla   
+ 0.16 M petn dish | la boite de Pétri | die Petrischale | la cápsula de Pe~ | la capsula di Pe~   
+ 0.17 M experiment | l'expérience | der Versuch | el experimento | l'esperimento   
+====================================================================================================
+== p157 [studio] 27 voci, 24 flag, 2 mancanti, 1 leftover, header=STUDY * L'É T U D E • DAS LERNEN • EL E S T U D I O • LO ST~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M tweezers | la pince fine | die Pinzette | las pinzas | le pinzette   
+ 0.1  M syringe | la seringue | die Spritze | la jeringa | la siringa   
+ 0.2  M thermometer | le thermomètre | das Thermometer | el termo metro | il termometro   
+ 0.3  M scalpel | le scalpel | das Skalpell | bisturí | il bisturi   
+ 0.4  M tongs | la pince | die Greifzange | las tenazas | le tenaglie   
+ 0.5  M spatula | la spatule | der Spatel | la espátula | la spatola   
+ 0.6  ⚠ dropper | le compte-gouttes | ? | ? | ?   missing
+ 0.7  M forceps | le forceps | die Zange | los fórceps | il forcipe   
+-- G1 subcat: • der Tropfer • el gotero * il
+   parts: der tropfer • el gotero * il
+ 1.0  M pestle | le pilon | die Keule | la mano de morte~ | il pestello   
+ 1.1  ⚠ eyepiece | l'oculaire das O~ | ? | el ocular l'ocul~ | ?   missing
+ 1.2  M mortar | le mord er | der Mörser | el mortero | il mortaio   
+ 1.3  M filter paper | le papier filtre | das Filterpapier | el filtro de pap~ | il filtro di car~   
+ 1.4  M safety goggles | les lunettes de ~ | die Schutzbrille | las gafas protec~ | gli occhiali pro~   
+ 1.5  ⚠ ? | ? | ? | ? | ?   oriz
+        PARTS: ['focusing knob', 'le bouton de', 'mise nu point', 'der Einstell knopf', 'la perilla de ajuste', 'la manopola di messa a fuoco']
+ 1.6  M glass rod | la tige de verre | das Glasstabchen | la varilla de cr~ | la bacchetta di ~   
+ 1.7  M objective lens | la lentille de l~ | die Objektivlinse | la lente del obj~ | l'obicttivo   
+ 1.8  M stage | la platine | der Tisch | la platina | il ripiano   
+ 1.9  M pipette | la pipette | die Pipette | la pipeta | la pipetta   
+ 1.10 M beaker | le bêcher | das Becherglas | el vaso de preci~ | il beeher   
+ 1.11 M magnet | l'aimant | der Magnet | el imán | la calamita   
+ 1.12 M alligator clip | la pince crocodi~ | die Krokodilklem~ | la pinza | il morsetto   
+ 1.13 M slide | le porte-objet | der Objektträger | el portaobjetos | la lastrina   
+ 1.14 M positive electro~ | l'électrode posi~ | die positive Ele~ | el electrodo pos~ | l'elettrodo posi~   
+ 1.15 M negative electro~ | l'électrode néga~ | die negative Ele~ | el electrodo neg~ | l'elettrodo nega~   
+ 1.16 M mirror | le miroir | der Spiegel | el espejo | lo specchio   
+ 1.17 M microscope | le microscope | das Mikroskop | el microscopio | il microscopio   
+ 1.18 M battery | la pile | die Batterie | la pila | la batteria   
+   LEFT 'contagocce' @[28, 316] (riga singola isolata)
+====================================================================================================
+== p158 [studio] 25 voci, 9 flag, 0 mancanti, 0 leftover, header=STUDY • L'ÉTUDE • DAS LERNEN • EL ESTUDIO • LO STUDIO
+-- G0 subcat: college • l'enseignement supérieur • die Hochschule • la enseñanza superior • l~
+   parts: college • l'enseignement supérieur • die hochschule • la enseñanza superior • l'università
+ 0.0  M admissions office | le secrétariat | das Sekretariat | la secretaria | l'ufficio iscriz~   
+ 0.1  ⚠ playing field | le Terrain de sp~ | der Sportplatz | el campo deporti~ | il campo sportivo   fr
+ 0.2  ⚠ dining room | le restaurant | universitaire di~ | el comedor | il refettorio   wrap wrap-ambig
+        ALTS: [{'en': 'dining room', 'fr': 'le restaurant universitaire', 'de': 'die Mensa', 'es': 'el com edor', 'it': 'il refettorio'}]
+ 0.3  M residence hall | la résidence uni~ | das Studentenheim | la residencia es~ | la casa dello st~   
+ 0.4  M card catalogue | le catalogue | der Katalog | el catálogo | il catalogo   
+ 0.5  M health center | le service de sa~ | die Gesundheitsf~ | el centro de sal~ | l'ambulatorio   
+ 0.6  M campus | le campus | der Campus | el cam pus | il campus   
+ 0.7  M librarian | la bibliothécaire | die Bibliothekar~ | la bibliotecaria | la bibliotecaria   
+ 0.8  M checkout desk | le service de pr~ | die Ausleihe | el mostrador de ~ | il banco prestiti   
+ 0.9    renew (v) | renouveler | verlängern | renovar | rinnovare   
+ 0.10 M inquiries | les renseignemen~ | die Auskunft | la información | il banco informa~   
+ 0.11 M library card | la carte de lect~ | der Leserausweis | la credencial | il tesserino   
+ 0.12 M bookshelf | les rayons | das Bücherregal | el librero | lo scaffale   
+ 0.13 M book | le livre | das Buch | libro | il libro   
+ 0.14 M borrow (v) | emprunter | ausleihen | coger prestado | prendere in pres~   
+ 0.15 M reading room | la salle de lect~ | der Lesesaal | la sala de lectu~ | la sala di lettu~   
+ 0.16 M periodical | le périodique | das Periodikum | el periódico | il periodico   
+ 0.17   reserve (v) | réserver | vorbestellen | reservar | prenotare   
+ 0.18 M title | le tirre | der Titel | el título | il titolo   
+ 0.19 M reading list | les ouvrages rec~ | die Literaturlis~ | la lista de lect~ | la lista dei lib~   
+ 0.20 M journal | la revue | die Zeitschrift | la revista | la rivista   
+ 0.21 M aisle | le couloir | der Gang | el pasillo | la corsia   
+ 0.22 M loan | le prêt | die Ausleihe | el préstamo | il prestito   
+ 0.23 M due date | la date de retour | das Ruckgabedatum | la fecha de devo~ | la data di resti~   
+ 0.24 M library | la bibliothèque | die Bibliothek | la biblioteca | la biblioteca   
+====================================================================================================
+== p159 [studio] 29 voci, 12 flag, 1 mancanti, 2 leftover, header=STUDY • L'É T U D E ♦ DAS LERNEN • E L E S T U D IO • LO ST~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  M professor | l'assistant | der Dozent | el profesor | il docente   
+ 0.1  M undergraduate | l'étudiant | der Student | el estudiante | lo studente univ~   
+ 0.2  ⚠ graduate | la licenciée | dip Graríiiipftp | la | ?   de missing
+ 0.3  M lecture hall | la salle de cours | der Hörsaal | el auditorio | l'aula   
+ 0.4  M graduation cerem~ | la cérémonie de ~ | die Graduierungs~ | la ceremonia de ~ | la consegna dell~   
+-- G1 subcat: schools • les écoles • die Fachhochschulen • las escuelas • le scuole
+   parts: schools • les écoles • die fachhochschulen • las escuelas • le scuole
+ 1.0  M model | le modèle | das Modell | la modelo | lo modella   
+-- G2 subcat: Wh
+   parts: wh
+ 2.0  M art school | l'école des beau~ | die Kunsthochsch~ | la escuela de Be~ | la scuola d'arte   
+ 2.1  ⚠ music school | le Conservatoire | die Musikhochsch~ | el conservatorio | il conservatorio   fr
+ 2.2  M dance school | l'école de danse | die Tanzakademie | la academia de d~ | l'accademia di d~   
+ 2.3  M scholarship | la bourse | das Stipendium | la beca | la borsa di stud~   
+ 2.4  M research | la recherche | die Forschung | la investigación | la ricerca   
+ 2.5  M dissertation | la dissertation | die Examensarbeit | la tesina | la dissertazione   
+ 2.6  M medicine | la médecine | die Medizin | la medicina | la medicina   
+ 2.7  M economics | les sciences éco~ | die Wirtschaftsw~ | las ciencias eco~ | l'economia   
+ 2.8  M master's degree | la maîtrise | der Magister | la mes tri a | il master   
+ 2.9  M diploma | le diplom e | das Diplom | el diploma | il diploma   
+ 2.10 ⚠ department | rU .F .R | der Fachbereich | el departamento | l dipartimento   fr
+ 2.11 M zoology | la zoologie | die Zoologie | la zoología | la zoologia   
+ 2.12 M political science | les sciences pol~ | die Politologie | la política | la politica   
+ 2.13 M doctorate | le doctorar | die Promotion | el doctorado | il dottorato   
+ 2.14 M law | le droit | die Rechtswissen~ | el derecho | il diritto   
+ 2.15 M degree | la licence | der akademische ~ | la carrera | la laurea   
+ 2.16 M physics | la physique | die Physik | la física | la fisica   
+ 2.17 M literature | la littérature | die Literaiur | la literatura | la letteratura   
+ 2.18 M postgraduate | de troisième cyc~ | postgradual | posgrado | di perfezionamen~   
+ 2.19 M thesis | la thèse | die Dissertation | la tesis | la tesi   
+ 2.20 M engineering | les études d'ing~ | der Maschinenbau | la ingeniería | l'ingegneria   
+ 2.21 M philosophy | la philosophic | die Philosophie | la filosofía | la filosofia   
+ 2.22 M art history | l'histoire d'art | die Kunstgeschic~ | la historia del ~ | la storia dell'a~   
+   LEFT 'I O' @[391, 566] (riga singola isolata)
+   LEFT '”' @[457, 566] (riga singola isolata)
+====================================================================================================
+== p160 [studio] PAGINA DIVISORIA / SENZA VOCI

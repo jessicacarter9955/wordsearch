@@ -1,0 +1,632 @@
+{
+ "page": 122,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": "granaglie",
+   "names": {
+    "en": "le granaglie e i legumi secchi grains",
+    "fr": "ics céréales",
+    "de": "das getreide",
+    "es": "los granos",
+    "it": "le granaglie"
+   },
+   "entries": [
+    {
+     "en": "seed",
+     "fr": "graine",
+     "de": "Samen",
+     "es": "semilla",
+     "it": "seme",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "fresh",
+     "fr": "trais",
+     "de": "frisch",
+     "es": "fresco",
+     "it": "fresco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "easy-to-cook",
+     "fr": "facile à cuisiner",
+     "de": "leicht zu kochen",
+     "es": "de fácil cocción",
+     "it": "cottura facile",
+     "_multi": [
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 14,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "husk",
+     "fr": "balle",
+     "de": "Hülse",
+     "es": "cáscara",
+     "it": "pula",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "whole-grain",
+     "fr": "complet",
+     "de": "Vollkorn",
+     "es": "integral",
+     "it": "integrale",
+     "_multi": [],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "fragranced",
+     "fr": "parfumé",
+     "de": "aromatisch",
+     "es": "perfum adó",
+     "it": "profumato",
+     "_multi": [
+      "es"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "wheat",
+     "fr": "blé",
+     "de": "Weizen",
+     "es": "trigo",
+     "it": "grano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "barley",
+     "fr": "orge",
+     "de": "Gerste",
+     "es": "cebada",
+     "it": "orzo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "oats",
+     "fr": "avoine",
+     "de": "Hafer",
+     "es": "avena",
+     "it": "avena",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "long-grain",
+     "fr": "a grains longs",
+     "de": "Langkorn",
+     "es": "largo",
+     "it": "a chiccho lungo",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 8,
+      "es": 5,
+      "it": 13
+     }
+    },
+    {
+     "en": "kernel",
+     "fr": "grain",
+     "de": "Kent",
+     "es": "grano",
+     "it": "seme",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "cereal",
+     "fr": "céréale",
+     "de": "Getreidefìocken",
+     "es": "cereales",
+     "it": "cereale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 15,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "dry",
+     "fr": "SCC",
+     "de": "trocken",
+     "es": "seco",
+     "it": "secco",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 7,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "soak V",
+     "fr": "laisser tremper",
+     "de": "einweichen",
+     "es": "poner a remojo",
+     "it": "mettere a bagno",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 14,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "short-grain",
+     "fr": "à grains ronds",
+     "de": "Rundkorn",
+     "es": "corto",
+     "it": "a chiccho corto",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 8,
+      "es": 5,
+      "it": 13
+     }
+    },
+    {
+     "en": "millet",
+     "fr": "millet",
+     "de": "Hirse",
+     "es": "mijo",
+     "it": "miglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "corn",
+     "fr": "maïs",
+     "de": "Mais",
+     "es": "maíz",
+     "it": "mais",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "qumoa",
+     "fr": "quinoa",
+     "de": "Reismelde",
+     "es": "quinoa",
+     "it": "quinoa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "processed grains",
+     "fr": "céréales traitées procesados",
+     "it": "cereali trattati",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 26,
+      "it": 15
+     }
+    }
+   ]
+  },
+  {
+   "slug": "riso",
+   "names": {
+    "en": "rice",
+    "fr": "le riz",
+    "de": "der reis",
+    "es": "el arroz",
+    "it": "il riso"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "white rice",
+     "fr": "riz blanc",
+     "de": "weiße Reis",
+     "es": "arroz largo",
+     "it": "riso bianco",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "brown rice",
+     "fr": "riz complet",
+     "de": "Naturreis",
+     "es": "arroz integral",
+     "it": "riso integrale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "couscous",
+     "fr": "couscous",
+     "de": "Kuskus",
+     "es": "cu sáis",
+     "it": "ii cuscos",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "cracked wheat",
+     "fr": "blé écrasé",
+     "de": "Weizenschrot",
+     "es": "trigo partido",
+     "it": "grano spezzato",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 12,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "wild rice",
+     "fr": "riz sauvage",
+     "de": "Wasserreis",
+     "es": "arroz salvaje",
+     "it": "riso selvatico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "dessert rice",
+     "fr": "riz rond",
+     "de": "Milchreis",
+     "es": "arroz bomba",
+     "it": "riso da budino",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 9,
+      "es": 10,
+      "it": 12
+     }
+    },
+    {
+     "en": "semolina",
+     "fr": "semoule",
+     "de": "Grieß",
+     "es": "sémola",
+     "it": "semola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "bran",
+     "fr": "son",
+     "de": "Kleie",
+     "es": "salvado",
+     "it": "crusca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "I",
+     "_multi": [],
+     "_grid_len": {
+      "en": 1
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

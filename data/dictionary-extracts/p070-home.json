@@ -1,0 +1,526 @@
+{
+ "page": 70,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "gioco",
+   "names": {
+    "en": "playing",
+    "fr": "le jeu",
+    "de": "das spielen",
+    "es": "los juegos",
+    "it": "il gioco"
+   },
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "doli",
+     "fr": "poupée",
+     "de": "Puppe",
+     "es": "muñeca",
+     "it": "bambola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "dollhouse",
+     "fr": "maison Je poupée",
+     "de": "Puppenhaus",
+     "es": "casa de muñecas",
+     "it": "casa delle bambole",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 10,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "playhouse",
+     "fr": "maison pliante",
+     "de": "Spielhaus",
+     "es": "casa de juguete",
+     "it": "casa da gioco",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 9,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "spiffed toy",
+     "fr": "jouet en peluche",
+     "de": "Kuscheltier",
+     "es": "muñeco de peluche",
+     "it": "giocattolo di pezza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 11,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "baby monitor",
+     "fr": "moniteur",
+     "de": "Babysprechanlage",
+     "es": "intercom unicador",
+     "it": "trasmittente",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 8,
+      "de": 16,
+      "es": 16,
+      "it": 12
+     }
+    },
+    {
+     "en": "teddy bear",
+     "fr": "Tours en peluche",
+     "de": "Teddy",
+     "es": "oso de peluche",
+     "it": "orsacchiotto",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 5,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "toy",
+     "fr": "jouet",
+     "de": "Spielzeug",
+     "es": "juguete",
+     "it": "giocattolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 9,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "ball",
+     "fr": "balle",
+     "de": "Ball",
+     "es": "pelota",
+     "it": "palla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "stair gate",
+     "fr": "barrière d'cscalier",
+     "de": "Treppengitter",
+     "es": "barrera de seguridad",
+     "it": "sbarramento",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 13,
+      "es": 18,
+      "it": 11
+     }
+    },
+    {
+     "en": "playpen",
+     "fr": "pare",
+     "de": "Laufstall",
+     "es": "corral",
+     "it": "box",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 9,
+      "es": 6,
+      "it": 3
+     }
+    },
+    {
+     "en": "voy basket",
+     "fr": "panier à jouets",
+     "de": "Spielzeugkorb",
+     "es": "cesto de los juguetes",
+     "it": "cesto dei giocattoli",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 13,
+      "es": 18,
+      "it": 18
+     }
+    }
+   ]
+  },
+  {
+   "slug": "passeggiata",
+   "names": {
+    "en": "going out",
+    "fr": "la sorrie",
+    "de": "das ausgehen",
+    "es": "el paseo",
+    "it": "la passeggiata"
+   },
+   "entries": [
+    {
+     "en": "eating",
+     "fr": "manger",
+     "it": "pasto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "hood",
+     "fr": "capote",
+     "de": "Verdeck",
+     "es": "capota",
+     "it": "capote",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "stroller",
+     "fr": "poussette",
+     "de": "Sportwagen",
+     "es": "carriola",
+     "it": "passeggino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 10,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "baby buggy",
+     "fr": "landau",
+     "de": "Kinderwagen",
+     "es": "carriola",
+     "it": "carrozzina",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 11,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "diaper",
+     "fr": "couche",
+     "de": "Windel",
+     "es": "pañal",
+     "it": "pannolino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "drinking cup",
+     "fr": "tasse",
+     "de": "Babybecher",
+     "es": "taza",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 10,
+      "es": 4
+     }
+    },
+    {
+     "en": "diaper bag",
+     "fr": "sac",
+     "de": "Babytasche",
+     "es": "pañalera",
+     "it": "borsa dei ricambi",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 3,
+      "de": 10,
+      "es": 8,
+      "it": 15
+     }
+    },
+    {
+     "en": "front pack",
+     "fr": "porte-bebé",
+     "de": "Babytrageschlinge",
+     "es": "cangurera",
+     "it": "marsupio",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 17,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "bassinet",
+     "fr": "couffin",
+     "de": "Tragebeuchen",
+     "es": "bam bineto",
+     "it": "culla portatile",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "bottle",
+     "fr": "biberon",
+     "de": "Babyflasche",
+     "es": "marnila",
+     "it": "biberon",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 11,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

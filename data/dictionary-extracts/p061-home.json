@@ -1,0 +1,444 @@
+{
+ "page": 61,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "cucina",
+   "names": {
+    "en": "kitchen",
+    "fr": "la cuisine",
+    "de": "die küche",
+    "es": "la cocina",
+    "it": "la cucina"
+   },
+   "entries": [
+    {
+     "en": "shelves",
+     "fr": "étagère",
+     "de": "Kuchenregal",
+     "es": "estantes",
+     "it": "mensole",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 11,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "ventilation hood",
+     "fr": "horre",
+     "de": "Dunstabzug",
+     "es": "extractor",
+     "it": "cappa",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 5,
+      "de": 10,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "splashback",
+     "fr": "revêtement",
+     "de": "Spntzschutz",
+     "es": "trente de la cocina",
+     "it": "pannello di protezione",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 16,
+      "it": 20
+     }
+    },
+    {
+     "en": "ceramic stovetop",
+     "fr": "table de cuisson céramique",
+     "de": "Glaskeramikkochfeld",
+     "es": "placa vitrocerám ica",
+     "it": "fornello di ceramica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 23,
+      "de": 19,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "faucet",
+     "fr": "robinet",
+     "de": "Wasserhahn",
+     "es": "grifo",
+     "it": "rubinetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "countertop",
+     "fr": "plan de travail",
+     "de": "Arbeitsfläche",
+     "es": "plancha",
+     "it": "piano di lavoro",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 13,
+      "es": 7,
+      "it": 13
+     }
+    },
+    {
+     "en": "sink",
+     "fr": "évier",
+     "de": "Spülbecken",
+     "es": "fregadero",
+     "it": "lavandino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 10,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "oven",
+     "fr": "four",
+     "de": "Backofen",
+     "es": "horno",
+     "it": "forno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 8,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "drawer",
+     "fr": "tiroir",
+     "de": "Schublade",
+     "es": "cajón",
+     "it": "cassetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "cabinet",
+     "fr": "placard",
+     "de": "Küchenschrank",
+     "es": "gaveta",
+     "it": "armadietto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 13,
+      "es": 6,
+      "it": 10
+     }
+    }
+   ]
+  },
+  {
+   "slug": "e-le-ttro-d-o-m-e-stic-i",
+   "names": {
+    "en": "appliances",
+    "fr": "les appareils ménagers",
+    "de": "die küchengeräte",
+    "es": "lo s e le c t r o d o m é s t ic o s",
+    "it": "gli e le ttro d o m e stic i"
+   },
+   "entries": [
+    {
+     "en": "lid",
+     "fr": "couvercle",
+     "de": "Deckel",
+     "es": "lapa",
+     "it": "coperchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 6,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "work bowl",
+     "fr": "bol du mixeur",
+     "de": "Mixerschüssel",
+     "es": "recipiente",
+     "it": "recipiente",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 13,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "biade",
+     "fr": "lame",
+     "de": "Messer",
+     "es": "cuchilla",
+     "it": "lama",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 6,
+      "es": 8,
+      "it": 4
+     }
+    },
+    {
+     "en": "teakettle",
+     "fr": "bouilloire électrique",
+     "de": "Elektro kessel",
+     "es": "jarra para hervir",
+     "it": "bollitore",
+     "_multi": [
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 20,
+      "de": 13,
+      "es": 15,
+      "it": 9
+     }
+    },
+    {
+     "en": "toaster",
+     "fr": "grille pam",
+     "de": "Toaster",
+     "es": "tostador",
+     "it": "tostapane",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 7,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "food processor",
+     "fr": "robot ménager",
+     "de": "Küchenmaschine",
+     "es": "d m u lti m ezclador",
+     "it": "miscelatore",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 12,
+      "de": 14,
+      "es": 15,
+      "it": 11
+     }
+    },
+    {
+     "en": "blender",
+     "fr": "mixeur",
+     "de": "Mixer",
+     "es": "lidiadora",
+     "it": "frullatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 5,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "dishwasher",
+     "fr": "lave vaisselle",
+     "de": "Spülmaschine",
+     "es": "lavavajilla",
+     "it": "lavastoviglie",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 12,
+      "es": 11,
+      "it": 13
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

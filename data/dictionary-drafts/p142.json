@@ -1,0 +1,351 @@
+{
+ "page": 142,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "mangiare-fuori",
+ "category": {
+  "en": "Eating out",
+  "fr": "Sortir manger",
+  "de": "Auswärts essen",
+  "es": "Comer fuera",
+  "it": "Mangiare fuori"
+ },
+ "header_raw": "EATING OUT - SORTIR MANGER • AUSWÄRTS ESSEN • COMER FUERA • MANGIARE FUORI",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "ce cube",
+     "fr": "le glaçon",
+     "de": "der Eiswürfel",
+     "es": "el cúbito de hielo",
+     "it": "il cubetto di ghiaccio",
+     "_pos": [
+      564,
+      80
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pitcher",
+     "fr": "le pichet",
+     "de": "der Krug",
+     "es": "la jarra",
+     "it": "la brocca",
+     "_pos": [
+      188,
+      84
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "Í",
+   "parts": [
+    "í"
+   ],
+   "entries": [
+    {
+     "en": "scotch and water",
+     "fr": "le scotch à Peau",
+     "de": "der Scotch mit Wasser",
+     "es": "el w hiskey escocés con agua",
+     "it": "il whisky con acqua",
+     "_pos": [
+      243,
+      231
+     ],
+     "_flags": [
+      "es:short:w"
+     ]
+    },
+    {
+     "en": "gin and ionie",
+     "fr": "le gin tonic",
+     "de": "der Gin Tonic",
+     "es": "el gin tonic",
+     "it": "il gin tonic",
+     "_pos": [
+      28,
+      233
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rum and coke",
+     "fr": "le rhum coca",
+     "de": "der Rum mit Cola",
+     "es": "la cuba Ubre",
+     "it": "il rum con coca cola",
+     "_pos": [
+      458,
+      289
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vodka and orange",
+     "fr": "la vodka à l'orange",
+     "de": "der Wodka mit Orangensaft",
+     "es": "el desarmador",
+     "it": "la vodka all'arancia",
+     "_pos": [
+      668,
+      289
+     ],
+     "_flags": []
+    },
+    {
+     "en": "beer",
+     "fr": "la bière",
+     "de": "das Bier",
+     "es": "la cerveza",
+     "it": "la birra",
+     "_pos": [
+      676,
+      493
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wine",
+     "fr": "le vin",
+     "de": "der Wein",
+     "es": "ei vino",
+     "it": "il vino",
+     "_pos": [
+      460,
+      495
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cocktail",
+     "fr": "le cocktail",
+     "de": "der Cocktail",
+     "es": "el cóctel",
+     "it": "il cocktail",
+     "_pos": [
+      248,
+      497
+     ],
+     "_flags": []
+    },
+    {
+     "en": "martini",
+     "fr": "le m artini",
+     "de": "der Martini",
+     "es": "el m artini",
+     "it": "il martini",
+     "_pos": [
+      33,
+      498
+     ],
+     "_flags": [
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "ice and lemon",
+     "fr": "citron er glaçons",
+     "de": "Eis und Zitrone",
+     "_pos": [
+      620,
+      544
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "es"
+      ],
+      [
+       "en",
+       "fr",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es"
+      ]
+     ]
+    },
+    {
+     "en": "double",
+     "fr": "double",
+     "de": "doppelt",
+     "es": "doble",
+     "it": "doppio",
+     "_pos": [
+      384,
+      562
+     ],
+     "_flags": []
+    },
+    {
+     "en": "single",
+     "fr": "simple",
+     "de": "einfach",
+     "es": "sencillo",
+     "it": "singolo",
+     "_pos": [
+      191,
+      580
+     ],
+     "_flags": []
+    },
+    {
+     "en": "without ice",
+     "fr": "sans glaçons",
+     "de": "ohne Eis",
+     "es": "sin hielo",
+     "it": "liscio",
+     "_pos": [
+      462,
+      743
+     ],
+     "_flags": []
+    },
+    {
+     "en": "with ce",
+     "fr": "avec des glaçons",
+     "de": "mit Eis",
+     "es": "con hielo",
+     "it": "con ghiaccio",
+     "_pos": [
+      676,
+      743
+     ],
+     "_flags": []
+    },
+    {
+     "en": "measure",
+     "fr": "la mesure",
+     "de": "das Maß",
+     "es": "la medida",
+     "it": "la misura",
+     "_pos": [
+      249,
+      746
+     ],
+     "_flags": []
+    },
+    {
+     "en": "a shot",
+     "fr": "un coup",
+     "de": "ein Schuss",
+     "es": "un trago",
+     "it": "un bicchiere",
+     "_pos": [
+      34,
+      747
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "bar snacks • les amuse-gueule • die Knabbereien • la botana • gli stuzzichini",
+   "parts": [
+    "bar snacks",
+    "les amuse-gueule",
+    "die knabbereien",
+    "la botana",
+    "gli stuzzichini"
+   ],
+   "entries": [
+    {
+     "en": "cashews",
+     "fr": "les noix de cajou",
+     "de": "die Cashewnüsse",
+     "es": "las nueces de la India",
+     "it": "gli anacardi",
+     "_pos": [
+      379,
+      861
+     ],
+     "_flags": []
+    },
+    {
+     "en": "peanuts",
+     "fr": "les cacahouètes",
+     "de": "die Erdnüsse",
+     "es": "los cacahuetes",
+     "it": "le noccioline",
+     "_pos": [
+      531,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "almonds",
+     "fr": "les amandes",
+     "de": "die Mandeln",
+     "es": "las almendras",
+     "it": "le mandarle",
+     "_pos": [
+      270,
+      879
+     ],
+     "_flags": []
+    },
+    {
+     "en": "olives",
+     "fr": "les olives",
+     "de": "die Oliven",
+     "es": "las aceitunas",
+     "it": "le olive",
+     "_pos": [
+      681,
+      1059
+     ],
+     "_flags": []
+    },
+    {
+     "en": "potato chips",
+     "fr": "les chips",
+     "de": "die Kartoffelchips",
+     "es": "las papas fritas",
+     "it": "le patatine",
+     "_pos": [
+      36,
+      1062
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nuts",
+     "fr": "les noix",
+     "de": "die Nüsse",
+     "es": "los frutos secos",
+     "it": "le noccioline",
+     "_pos": [
+      316,
+      1062
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 23,
+  "complete_clean": 6,
+  "flagged": 17,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

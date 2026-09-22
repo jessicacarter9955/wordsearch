@@ -1,0 +1,627 @@
+{
+ "page": 75,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "scatola-degli-attrezzi",
+   "names": {
+    "en": "toolbox",
+    "fr": "la boîte à outils",
+    "de": "der werkzeugkasten",
+    "es": "la caja de las herramientas",
+    "it": "la scatola degli attrezzi"
+   },
+   "entries": [
+    {
+     "en": "wrench",
+     "fr": "clef",
+     "de": "Schraubenschlüssel",
+     "es": "llave de boca",
+     "it": "chiave",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 18,
+      "es": 11,
+      "it": 6
+     }
+    },
+    {
+     "en": "adjustable wrench",
+     "fr": "clef à molette",
+     "de": "verstellbare Schrauben schlüssel",
+     "es": "llave mglesa",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 12,
+      "de": 30,
+      "es": 11
+     }
+    },
+    {
+     "en": "hammer",
+     "fr": "marteau",
+     "de": "Hammer",
+     "es": "martillo",
+     "it": "martello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "needle-nose pliers",
+     "fr": "pince plate",
+     "de": "Flachzange",
+     "es": "pinzas de alambre",
+     "it": "pinze ad ago",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 10,
+      "de": 10,
+      "es": 15,
+      "it": 10
+     }
+    },
+    {
+     "en": "socket wrench",
+     "fr": "clef à pipe",
+     "de": "Steckschlüssel",
+     "es": "llave de tubo",
+     "it": "chiave a tubo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 14,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "screwdriver bits",
+     "fr": "embouts de tournevis",
+     "de": "Schraubenziehereinsätze !",
+     "es": "cabezales de destornillador",
+     "it": "punte per cacciavite",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 18,
+      "de": 23,
+      "es": 25,
+      "it": 18
+     }
+    },
+    {
+     "en": "leve!",
+     "fr": "niveau",
+     "de": "Wasserwaage",
+     "es": "nivel",
+     "it": "livella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 11,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "washer",
+     "fr": "joint",
+     "de": "Dichtungsring",
+     "es": "rondana",
+     "it": "rondella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 13,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "screwdriver",
+     "fr": "tournevis",
+     "de": "Schraubenzieher",
+     "es": "destornillador",
+     "it": "cacciavite",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 15,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "nut",
+     "fr": "écrou",
+     "de": "Mutter",
+     "es": "tuerca",
+     "it": "dado",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 4
+     }
+    },
+    {
+     "en": "bull nose pliers",
+     "fr": "pince universelle",
+     "de": "Kombinationszange",
+     "es": "alicates",
+     "it": "pinze tonde",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 16,
+      "de": 17,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "tape measure",
+     "fr": "mètre",
+     "de": "Metermaß",
+     "es": "anta métrica",
+     "it": "metro",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 9,
+      "es": 11,
+      "it": 5
+     }
+    },
+    {
+     "fr": "couteau",
+     "de": "Schneider",
+     "es": "cúter",
+     "it": "coltello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "fr": 7,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "socket",
+     "fr": "douille",
+     "de": "Tülle",
+     "es": "encaje",
+     "it": "bussola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 5,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "Allen wrench",
+     "fr": "clef",
+     "de": "Schlüssel",
+     "es": "llave",
+     "it": "chiave",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 4,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "metal bit",
+     "fr": "foret à métaux",
+     "de": "Metallbohrer",
+     "es": "broca para metal",
+     "it": "punta per metalli",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 12,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "spade bit",
+     "fr": "foret à bois plat",
+     "de": "Flachholzbohrer",
+     "es": "broca para",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 14,
+      "de": 15,
+      "es": 9
+     }
+    },
+    {
+     "en": "Phillips screwdriver",
+     "fr": "tournevis cruciforme",
+     "de": "Kreuzschlitzschraubenzieher",
+     "es": "destornillador de cruz",
+     "it": "cacciavite a croce",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 19,
+      "de": 27,
+      "es": 20,
+      "it": 16
+     }
+    },
+    {
+     "en": "reamer",
+     "fr": "alésoir",
+     "de": "Reibahle",
+     "es": "escariador",
+     "it": "alesatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "head",
+     "fr": "tête",
+     "de": "Nagelkopf",
+     "es": "cabeza",
+     "it": "testa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 9,
+      "es": 6,
+      "it": 5
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "> > nail",
+     "fr": "clou",
+     "de": "Nagel",
+     "es": "davo",
+     "it": "chiodo",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 5,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "security bit",
+     "fr": "torci de sécurité",
+     "de": "Sicherheitsbohrer",
+     "es": "broca de seguridad",
+     "it": "punta di sicurezza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 15,
+      "de": 17,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "wood bits",
+     "fr": "forets de bois",
+     "de": "Holzbohrer",
+     "es": "brocas para madera",
+     "it": "punte da falegnameria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 10,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "masonry bit",
+     "fr": "foret de maçonnerie",
+     "de": "Mauerwerkbohrer",
+     "es": "broca de albañil e ria",
+     "it": "fa punta per muratura",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 15,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "screw",
+     "fr": "vis",
+     "de": "Schraub",
+     "es": "vite",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 3,
+      "de": 7,
+      "es": 4
+     }
+    },
+    {
+     "es": "tornillo",
+     "_multi": [],
+     "_articles_removed": {
+      "es": "el"
+     },
+     "_grid_len": {
+      "es": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

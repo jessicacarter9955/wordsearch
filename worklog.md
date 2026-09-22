@@ -170,3 +170,25 @@ Stage Summary:
 - Multi-parola ora ESCLUSE da tutti i round (per lingua) ma visibili nelle statistiche con forma naturale — in attesa della decisione A/B/C/D (sezione 'Da valutare' nel dialog info del gioco)
 - Da chiedere all'utente: (1) conferma extra 'finger' in mano e 'egg' in organi-riproduttivi (non in OCR), (2) conferma spostamento diaframma in Testa, (3) scelta opzione A/B/C/D
 - Prossime pagine dizionario: dal p20 in poi (fuori dal corpo umano: aspetto, salute, servizi, shopping...)
+
+---
+Task ID: 10
+Agent: main (Super Z)
+Task: Pagine 20-270 del dizionario (13 macro-categorie: persone-resto, aspetto, salute, casa, servizi, acquisti, cibo, mangiare-fuori, studio, lavoro, trasporti, sport, tempo-libero, ambiente) — pipeline industriale + revisione umana
+
+Work Log:
+- Mappata struttura del PDF (fitz): 325 pagine, 14 macro-categorie con confini verificati dalle transizioni header (tabella MACROS in batch_parse.py); pagine 26/39/52/87/96/109/138/151/160/181/239/264 = divisori di sezione (0 voci)
+- Costruito scripts/batch_parse.py: parser automatico con coordinate+font fitz — voci = blocchi verticali di righe 12pt in ordine EN/FR/DE/ES/IT (delta-y ~16.5), sottocategorie = righe >=18pt o 14-17pt con bullet, voci orizzontali (bullet su una riga), risolutore di slot per articoli (le/la/l'→fr, der/die/das→de, el/los→es, il/lo/gli→it) per blocchi con lingua mancante, risolutore a partizioni per blocchi >5 righe (wrap dentro una lingua), header/footer/zona-y, colonne parallele (x-gap 12pt per voci, 90pt per titoli + post-pass di fusione righe)
+- Costruito scripts/autofix_noise.py: correzione OCR automatica con pyspellchecker (en/fr/de/es/it) — fusione frammenti spezzati da spazi spurie (m am elon→mamelon, solo se il risultato è valido e i frammenti no), word-break DP per frammentazione pesante, restauro accenti via fold-index, confusioni articolo (cl→el, ¡I→il, In→la, lav→las, Lis→las, Ics→les, P→l', Pc→l'é, 1'→l'), cifre→lettere (ven3→vena), drop consonanti sciolte, preservazione marker (v)
+- CALIBRAZIONE SU DATASET D'ORO (p10-19 curate a mano nel Task 9): accuratezza end-to-end 94,2% dei valori 5/5 senza revisione umana; residuali tipici: lettere scambiate (rete→tête, tempie→temple), lingue mancanti da ricostruire, blocchi interleaved
+- Estratte TUTTE le pagine 20-270: 5083 voci in data/dictionary-drafts/ (bozze con flag) → data/dictionary-extracts/pNNN-<macro>.json
+- Costruito workflow di revisione: scripts/review_sheet.py (fogli compatti per sezione in scripts/review/*.txt) → correzioni in scripts/review_fixes.json (override valori per indice "gruppo.voce", DELETE, add, merge_groups, delete_groups, nomi gruppi) → scripts/apply_fixes.py (applica fix + clean_entry da dictionary_tools: articoli via, flag _multi/_hyphen, _grid_len) → estratti finali con campo "reviewed"
+- REVISIONATE A MANO 30 pagine (685 voci): persone p20-25, aspetto p27-38, salute p40-51 — correzioni OCR (~300 valori), ricostruzioni 5/5 (sister-in-law, pocket, molar, uterus, optic nerve, reiki...), eliminazione voci-titolo (la biancheria intima, departments...), ricostruzione voci da blocchi orizzontali fusi (watch+jewelry box, ointment+adhesive bandage, operating room+gurney, induce labour+forceps, dress+child), nomi gruppi normalizzati con slug italiani
+- Le restanti 221 pagine (4398 voci) salvate come estratti automatici con note "revisione umana pendente" — accuratezza attesa ~94%, i fogli di revisione sono pronti in scripts/review/
+- Scoperte editoriali: il libro usa spagnolo messicano (la playera, el saco, güero, los pants, la ardida), FR 'leger' è corretto per DE casual, male/female+calf sono presenti anche su p11 (curazione Task 9 li aveva solo su p10/p14)
+
+Stage Summary:
+- data/dictionary-extracts/p020-p270: 251 pagine, 5083 voci famiglia-5-lingue (685 revisionate ~99%, 4398 auto ~94%), 407 gruppi/sottocategorie con nomi 5 lingue
+- Pipeline completa e ripetibile: batch_parse → autofix_noise → review_sheet → review_fixes.json → apply_fixes
+- PER CONTINUARE la revisione (prossima sessione): leggere scripts/review/p053-p087-casa.txt ecc., aggiungere fix in scripts/review_fixes.json (formato: pNNN → groups/entries/add/merge_groups/delete_groups), poi python scripts/apply_fixes.py 53 87 e infine rigenerare tutto con python scripts/apply_fixes.py 20 270
+- DA FARE dopo revisione completa: merge nel wordbank (nuove 13 macro-categorie con nomi 5 lingue in MACROS di batch_parse.py), reseed DB, decisione A/B/C/D multi-parola (sezione già presente nell'app da Task 9)

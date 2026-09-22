@@ -1,0 +1,616 @@
+{
+ "page": 33,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "accessori",
+   "names": {
+    "en": "accessories",
+    "fr": "les accessoires",
+    "de": "die Accessoires",
+    "es": "los accesorios",
+    "it": "gli accessori"
+   },
+   "entries": [
+    {
+     "en": "buckle",
+     "fr": "boucle",
+     "de": "Gürtelschnalle",
+     "es": "hebilla",
+     "it": "fibbia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 14,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "handle",
+     "fr": "manche",
+     "de": "Griff",
+     "es": "mango",
+     "it": "manico",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "cap",
+     "fr": "casquette",
+     "de": "Mütze",
+     "es": "gorra",
+     "it": "berretto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 5,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "scarf",
+     "fr": "foulard",
+     "de": "Halstuch",
+     "es": "mascada",
+     "it": "foulard",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "belt",
+     "fr": "ceinture",
+     "de": "Gürtel",
+     "es": "cinturón",
+     "it": "cinta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 6,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "hat",
+     "fr": "chapeau",
+     "de": "Hut",
+     "es": "sombrero",
+     "it": "cappello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 3,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "tip",
+     "fr": "pointe",
+     "de": "Spitze",
+     "es": "punta",
+     "it": "punta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "tiepin",
+     "fr": "épingle de cravate",
+     "de": "Krawattennadel",
+     "es": "alfiler de corbata",
+     "it": "fermacravatta",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 16,
+      "de": 14,
+      "es": 16,
+      "it": 13
+     }
+    },
+    {
+     "en": "umbrella",
+     "fr": "parapluie",
+     "de": "Regenschirm",
+     "es": "paraguas",
+     "it": "ombrello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 11,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "gloves",
+     "fr": "gants",
+     "de": "Handschuhe",
+     "es": "guantes",
+     "it": "guanti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "handkerchief",
+     "fr": "mouchoir",
+     "de": "Taschentuch",
+     "es": "pañuelo",
+     "it": "fazzoletto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 8,
+      "de": 11,
+      "es": 7,
+      "it": 10
+     }
+    },
+    {
+     "en": "bow tie",
+     "fr": "nœud papillon",
+     "de": "Fliege",
+     "es": "moño",
+     "it": "farfalla",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 6,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "jewelry",
+     "fr": "bijoux",
+     "de": "Schmuck",
+     "es": "joyas",
+     "it": "gioielli",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 7,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "strand of pearls",
+     "fr": "rang de perles",
+     "de": "Perlenkette",
+     "es": "collar de perlas",
+     "it": "filo di perle",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 11,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "en": "brooch",
+     "fr": "broche",
+     "de": "Brosche",
+     "es": "prendedor",
+     "it": "spilla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "cufflink",
+     "fr": "bouton de manchette",
+     "de": "Manschettenknopf",
+     "es": "mancuernillas",
+     "it": "gemello",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "las",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "de": 16,
+      "es": 13,
+      "it": 7
+     }
+    },
+    {
+     "en": "pendant",
+     "fr": "pendentif",
+     "de": "Anhänger",
+     "es": "colgante",
+     "it": "pendaglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "earring",
+     "fr": "boucle d'oreille",
+     "de": "Ohrring",
+     "es": "arete",
+     "it": "orecchino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 7,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "link",
+     "fr": "maillon",
+     "de": "Glied",
+     "es": "eslabón",
+     "it": "maglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "clasp",
+     "fr": "fermoir",
+     "de": "Verschluss",
+     "es": "broche",
+     "it": "fermaglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 10,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "ring",
+     "fr": "bague",
+     "de": "Ring",
+     "es": "anillo",
+     "it": "anello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "stone",
+     "fr": "pierre",
+     "de": "Edelstein",
+     "es": "piedra",
+     "it": "pietra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 9,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "necklace",
+     "fr": "collier",
+     "de": "Halskette",
+     "es": "collar",
+     "it": "collana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "bracelet",
+     "fr": "bracelet",
+     "de": "Armband",
+     "es": "pulsera",
+     "it": "bracciale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "chain",
+     "fr": "chaîne",
+     "de": "Kette",
+     "es": "cadena",
+     "it": "catena",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "watch",
+     "fr": "montre",
+     "de": "Uhr",
+     "es": "reloj",
+     "it": "orologio da polso",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 3,
+      "es": 5,
+      "it": 15
+     }
+    },
+    {
+     "en": "jewelry box",
+     "fr": "boîte à bijoux",
+     "de": "Schmuckkasten",
+     "es": "joyero",
+     "it": "cofanetto portagioie",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 13,
+      "es": 6,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ],
+ "note": "0.16 es: OCR 'colguije' → 'el colgante' (correzione da dizionario, formulazione standard DK). 0.23 = 2 voci (watch + jewelry box) fuse in un blocco orizzontale, ricostruite."
+}

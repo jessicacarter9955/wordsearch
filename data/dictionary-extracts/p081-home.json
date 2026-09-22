@@ -1,0 +1,346 @@
+{
+ "page": 81,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "macro_slug": "casa",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "piante-da-giardino",
+   "names": {
+    "en": "garden plants",
+    "fr": "les plantes de jardin",
+    "de": "die gartenpflanzen",
+    "es": "las plantas de jardín",
+    "it": "le piante da giardino"
+   },
+   "entries": []
+  },
+  {
+   "slug": "tipi-di-piante",
+   "names": {
+    "en": "types of plants",
+    "fr": "les genres de plantes",
+    "de": "die pflanzenarten",
+    "es": "los tipos de plantas",
+    "it": "i tipi di piante"
+   },
+   "entries": [
+    {
+     "en": "perennial",
+     "fr": "vivace",
+     "de": "mehrjährig",
+     "es": "perenne",
+     "it": "perenne",
+     "_multi": [],
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "bulb",
+     "fr": "bulbe",
+     "de": "Zwiebel",
+     "es": "bulbo",
+     "it": "bulbo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "annual",
+     "fr": "annuel",
+     "de": "einjährig",
+     "es": "anual",
+     "it": "annuale",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "biennial",
+     "fr": "bisannuel",
+     "de": "zweijährig",
+     "es": "bienal",
+     "it": "biennale",
+     "_multi": [],
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 10,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "fern",
+     "fr": "fougère",
+     "de": "Farn",
+     "es": "helécho",
+     "it": "felce",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "bamboo",
+     "fr": "bambou",
+     "de": "Bambus",
+     "es": "bambú",
+     "it": "bambù",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "cattail",
+     "fr": "jonc",
+     "de": "Binse",
+     "es": "i unco",
+     "it": "giunco",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "weeds",
+     "fr": "mauvaises herbes",
+     "de": "Unkraut",
+     "es": "malas hierbas",
+     "it": "erbacce",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "das",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 15,
+      "de": 7,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "water plant",
+     "fr": "piante aquatique",
+     "de": "Wasserpflanze",
+     "es": "pianta acuática",
+     "it": "pianta acquatica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 13,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "tree",
+     "fr": "arbre",
+     "de": "Baum",
+     "es": "árbol",
+     "it": "albero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "herb",
+     "fr": "herbe",
+     "de": "Kraut",
+     "es": "Inerba",
+     "it": "erbe aromatica",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 6,
+      "it": 13
+     }
+    },
+    {
+     "en": "evergreen",
+     "fr": "à feuilles persistantes",
+     "de": "immergrün",
+     "es": "de hoja perenne",
+     "it": "sempreverde",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 21,
+      "de": 9,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "palm",
+     "fr": "palmier",
+     "de": "Palme",
+     "es": "palmera",
+     "it": "palma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "conifer",
+     "fr": "conifère",
+     "de": "Nadelbaum",
+     "es": "conífera",
+     "it": "conifera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "deciduous",
+     "fr": "à feuilles caduques",
+     "de": "Laubbaum",
+     "es": "de hoja caduca",
+     "it": "a foglie caduche",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 8,
+      "es": 12,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

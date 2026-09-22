@@ -1,0 +1,52 @@
+{
+ "page": 109,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "food",
+   "parts": [
+    "food"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "la nourriture",
+   "parts": [
+    "la nourriture"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "die Nahrungsmittel los alimentos",
+   "parts": [
+    "die nahrungsmittel los alimentos"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "il cibo",
+   "parts": [
+    "il cibo"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

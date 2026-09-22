@@ -1,0 +1,382 @@
+{
+ "page": 20,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "macro_slug": "persone",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "famiglia",
+   "names": {
+    "en": "family",
+    "fr": "la famille",
+    "de": "die Familie",
+    "es": "la familia",
+    "it": "la famiglia"
+   },
+   "entries": [
+    {
+     "en": "grandmother",
+     "fr": "grand-mère",
+     "de": "Großmutter",
+     "es": "abuela",
+     "it": "nonna",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 11,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "grandfather",
+     "fr": "grand-père",
+     "de": "Großvater",
+     "es": "abuelo",
+     "it": "nonno",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 10,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "uncle",
+     "fr": "oncle",
+     "de": "Onkel",
+     "es": "tío",
+     "it": "zio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "aunt",
+     "fr": "tante",
+     "de": "Tante",
+     "es": "tía",
+     "it": "zia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "mother",
+     "fr": "mère",
+     "de": "Mutter",
+     "es": "madre",
+     "it": "madre",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "cousin",
+     "fr": "cousin",
+     "de": "Cousin",
+     "es": "primo",
+     "it": "cugino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "brother",
+     "fr": "frère",
+     "de": "Bruder",
+     "es": "hermano",
+     "it": "fratello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "sister",
+     "fr": "sœur",
+     "de": "Schwester",
+     "es": "hermana",
+     "it": "sorella",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 9,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "wife",
+     "fr": "femme",
+     "de": "Ehefrau",
+     "es": "esposa",
+     "it": "moglie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "daughter-in-law",
+     "fr": "belle-fille",
+     "de": "Schwiegertochter",
+     "es": "nuera",
+     "it": "nuora",
+     "_multi": [],
+     "_hyphen": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 10,
+      "de": 16,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "son",
+     "fr": "fils",
+     "de": "Sohn",
+     "es": "hijo",
+     "it": "figlio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "daughter",
+     "fr": "fille",
+     "de": "Tochter",
+     "es": "hija",
+     "it": "figlia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 7,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "son-in-law",
+     "fr": "gendre",
+     "de": "Schwiegersohn",
+     "es": "yerno",
+     "it": "genero",
+     "_multi": [],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 13,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "grandson",
+     "fr": "petit-fils",
+     "de": "Enkel",
+     "es": "nieto",
+     "it": "nipote",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "granddaughter",
+     "fr": "petite-fille",
+     "de": "Enkelin",
+     "es": "nieta",
+     "it": "nipote",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 11,
+      "de": 7,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "husband",
+     "fr": "mari",
+     "de": "Ehemann",
+     "es": "esposo",
+     "it": "marito",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 7,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ]
+}

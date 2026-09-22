@@ -1,0 +1,269 @@
+{
+ "page": 73,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • I A M A IS O N • DAS HAUS • LA CASA • LA CASA",
+ "groups": [
+  {
+   "names_raw": "w orkshop • l'atelier • die Heimwerkstatt • el taller • il laboratorio",
+   "parts": [
+    "workshop",
+    "l'atelier",
+    "die heimwerkstatt",
+    "el taller",
+    "il laboratorio"
+   ],
+   "entries": [
+    {
+     "en": "chuck",
+     "fr": "le mandrin",
+     "de": "das Bohrfutter",
+     "es": "el cabezal",
+     "it": "il mandrino",
+     "_pos": [
+      414,
+      116
+     ],
+     "_flags": []
+    },
+    {
+     "en": "drill bit",
+     "fr": "la mèche",
+     "de": "der Bohrer",
+     "es": "la broca",
+     "it": "la punta",
+     "_pos": [
+      707,
+      116
+     ],
+     "_flags": []
+    },
+    {
+     "en": "battery pack",
+     "fr": "la pile",
+     "de": "die Batterie",
+     "es": "la batería",
+     "it": "la batteria",
+     "_pos": [
+      264,
+      250
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jigsaw",
+     "fr": "la scie sauteuse",
+     "de": "die Stichsage",
+     "es": "la sierra de vaivén",
+     "it": "la sega da traforo",
+     "_pos": [
+      49,
+      347
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rechargeable dnll",
+     "fr": "la perceuse rechargeable",
+     "de": "der Bohrer mit Batteriebetrieb",
+     "es": "taladro inalámbrico",
+     "it": "il trapano ricaricabilt",
+     "_pos": [
+      241,
+      347
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electric drill",
+     "fr": "la perceuse électrique",
+     "de": "der Elektrobohrer",
+     "es": "el taladro eléctrico",
+     "it": "I trapano elettrico",
+     "_pos": [
+      478,
+      348
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "glue gun",
+     "fr": "le pistolet à colle",
+     "de": "die Leimpistole",
+     "es": "la pistola para encolar",
+     "it": "la pistola per colla",
+     "_pos": [
+      693,
+      349
+     ],
+     "_flags": []
+    },
+    {
+     "en": "clamp",
+     "fr": "le serre-joint",
+     "de": "die Zwinge",
+     "es": "la abrazadera",
+     "it": "il morsetto",
+     "_pos": [
+      220,
+      436
+     ],
+     "_flags": []
+    },
+    {
+     "en": "biade",
+     "fr": "la lame",
+     "de": "das Blatt cuchilla",
+     "_pos": [
+      404,
+      437
+     ],
+     "_flags": [
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "vise",
+     "fr": "l'étau",
+     "de": "der Schraubstock",
+     "es": "el tornillo de banco",
+     "it": "la morsa",
+     "_pos": [
+      49,
+      611
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sander",
+     "fr": "la ponceuse",
+     "de": "die Schleifmaschine",
+     "es": "la lijadura",
+     "it": "la levigatrice",
+     "_pos": [
+      265,
+      612
+     ],
+     "_flags": []
+    },
+    {
+     "en": "circular saw",
+     "fr": "la scie circulaire",
+     "de": "die Kreissäge",
+     "es": "la .sierra circular",
+     "it": "la sega circolare",
+     "_pos": [
+      478,
+      612
+     ],
+     "_flags": [
+      "es:weird:.sierra"
+     ]
+    },
+    {
+     "en": "workbench",
+     "fr": "l'établi",
+     "de": "die Werkbank",
+     "es": "el banco de trabajo",
+     "it": "il banco da lavoro",
+     "_pos": [
+      692,
+      613
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wood glue",
+     "fr": "la colle à bois",
+     "de": "der Holzleim",
+     "es": "el pegamento tie carpintero",
+     "it": "la colla da legno",
+     "_pos": [
+      50,
+      676
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tool rack",
+     "fr": "le porte-outils",
+     "de": "das Werkzeuggestell",
+     "es": "el organizador de las herram ientas",
+     "it": "la rastrelliera per gli arnesi",
+     "_pos": [
+      720,
+      679
+     ],
+     "_flags": []
+    },
+    {
+     "en": "router",
+     "fr": "la guimbarde",
+     "de": "der Grundhobel",
+     "es": "la guimbarda",
+     "it": "la contnrmtrice",
+     "_pos": [
+      50,
+      824
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bit brace",
+     "fr": "le vilebrequin",
+     "de": "die Bohrwinde",
+     "es": "el taladro manual",
+     "it": "il girabacchino",
+     "_pos": [
+      710,
+      828
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wood shavings",
+     "fr": "les copeaux",
+     "de": "die Holzspäne",
+     "es": "las virutas de madera",
+     "it": "i trucioli",
+     "_pos": [
+      49,
+      958
+     ],
+     "_flags": []
+    },
+    {
+     "en": "extension cord",
+     "fr": "le prolongateur",
+     "de": "die Verlängerungsschnur",
+     "es": "la extensión",
+     "it": "la prolunga",
+     "_pos": [
+      714,
+      960
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 19,
+  "complete_clean": 5,
+  "flagged": 14,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

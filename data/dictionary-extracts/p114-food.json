@@ -1,0 +1,486 @@
+{
+ "page": 114,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "verdura",
+   "names": {
+    "en": "vegetable si",
+    "fr": "les légumes",
+    "de": "das gemüse",
+    "es": "las verduras",
+    "it": "la verdura"
+   },
+   "entries": [
+    {
+     "en": "pea",
+     "fr": "périr pois",
+     "de": "grüne Erbse",
+     "es": "«. hicharo",
+     "it": "pisello",
+     "_multi": [
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 9,
+      "de": 10,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "green bean",
+     "fr": "haricot vert",
+     "de": "grüne Bohne",
+     "es": "ejote",
+     "it": "fagiolino",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 10,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "pod",
+     "fr": "gousse",
+     "de": "Schote",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 6
+     }
+    },
+    {
+     "en": "okra",
+     "fr": "okra",
+     "de": "Okra",
+     "es": "quingombó",
+     "it": "I'okra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "bean sprout",
+     "fr": "germe de soja",
+     "de": "Sojabohnensprosse",
+     "es": "germinado de soja",
+     "it": "germoglio di soia",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 17,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "bamboo",
+     "fr": "bambou",
+     "de": "Bambus",
+     "es": "bambú",
+     "it": "bambù",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "celery",
+     "fr": "céleri",
+     "de": "Stangensellerie",
+     "es": "apio",
+     "it": "sedano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 15,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "chicory",
+     "fr": "endive",
+     "de": "Chicorée",
+     "es": "endibia",
+     "it": "cicoria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "palm hearts",
+     "fr": "cœurs de palmier",
+     "de": "Palmherzen",
+     "es": "palmitos",
+     "it": "cuori di palma",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 10,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "corn",
+     "fr": "maïs",
+     "de": "Mais",
+     "es": "m aiz dulce",
+     "it": "granturco",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "fennel",
+     "fr": "fenouil",
+     "de": "Fenchel",
+     "es": "hinojo",
+     "it": "finocchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "leaf",
+     "fr": "feuille",
+     "de": "Blatt",
+     "es": "hoja",
+     "it": "foglia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 5,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "floret",
+     "fr": "fleurette",
+     "de": "Röschen",
+     "es": "cabezuela",
+     "it": "germoglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "tip",
+     "fr": "pointe",
+     "de": "Spitze",
+     "es": "punta",
+     "it": "punta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "organic",
+     "fr": "biologique",
+     "de": "biodynamisch",
+     "es": "biológico",
+     "it": "biologico",
+     "_multi": [],
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 12,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "Do you sell organic vegetables?",
+     "fr": "Fsr-ce que vous vendez, ties légumes bios?",
+     "de": "Verkaufen Sie Biogemuse?",
+     "es": "Vende verduras orgánicas?",
+     "it": "Vendete verdure biologiche?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 26,
+      "fr": 33,
+      "de": 21,
+      "es": 22,
+      "it": 24
+     }
+    },
+    {
+     "en": "stalk",
+     "fr": "trognon",
+     "de": "Strunk",
+     "es": "tallo",
+     "it": "Stelo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "kernel",
+     "fr": "grain",
+     "de": "Kern",
+     "es": "almendra",
+     "it": "nocciolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "heart",
+     "fr": "cœur",
+     "de": "Herz",
+     "es": "corazón",
+     "it": "cuore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "plastic bag",
+     "fr": "sac en plastique",
+     "de": "Plastiktüte",
+     "es": "bolsa de plástico",
+     "it": "busta di plastica",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 11,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "Are these grown locally?",
+     "fr": "Est-ce qu'ils sont cultivés dans la région?",
+     "de": "Werden sie in dieser Gegend angebaut?",
+     "es": "Son productos locales?",
+     "it": "Queste sono della zona?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 34,
+      "de": 31,
+      "es": 19,
+      "it": 19
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,371 @@
+{
+ "page": 257,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • LE TEM PS LIBR E • D IE F R E IZ E IT • EL O C IO • IL TEM PO LIB ER O",
+ "groups": [
+  {
+   "names_raw": "photograph photographier",
+   "parts": [
+    "photograph photographier"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "fotografiar",
+   "parts": [
+    "fotografiar"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• fotografieren •",
+   "parts": [
+    "fotografieren"
+   ],
+   "entries": [
+    {
+     "en": "(v)",
+     "_pos": [
+      132,
+      77
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "fotografare",
+     "_pos": [
+      498,
+      77
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "film spool",
+     "fr": "le rouleau de pellicule",
+     "de": "die Filmspule",
+     "es": "el carrete",
+     "it": "il rollino",
+     "_pos": [
+      153,
+      126
+     ],
+     "_flags": []
+    },
+    {
+     "en": "develop (v)",
+     "fr": "développer",
+     "de": "entwickeln",
+     "es": "revelar",
+     "it": "sviluppare",
+     "_pos": [
+      468,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "negative",
+     "fr": "le négatif",
+     "de": "das Negativ",
+     "es": "el negativo",
+     "it": "il negativo",
+     "_pos": [
+      680,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "film",
+     "fr": "la pellicule",
+     "de": "der Film",
+     "es": "el rollo",
+     "it": "la pellicola",
+     "_pos": [
+      42,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "focus (v)",
+     "fr": "mettre au point",
+     "de": "einstellen",
+     "es": "enfocar",
+     "it": "mettere a fuoco",
+     "_pos": [
+      251,
+      258
+     ],
+     "_flags": []
+    },
+    {
+     "en": "landscape",
+     "fr": "paysage",
+     "de": "quer",
+     "es": "apaisado",
+     "it": "orizzontale",
+     "_pos": [
+      42,
+      323
+     ],
+     "_flags": []
+    },
+    {
+     "en": "portrait",
+     "fr": "portrait",
+     "de": "hoch",
+     "es": "en forma to vertical",
+     "it": "verticale",
+     "_pos": [
+      255,
+      324
+     ],
+     "_flags": []
+    },
+    {
+     "en": "photo album",
+     "fr": "l'album de photos",
+     "de": "das Fotoalbum",
+     "es": "el álbum de fotos",
+     "it": "l'album fotografico",
+     "_pos": [
+      468,
+      504
+     ],
+     "_flags": []
+    },
+    {
+     "en": "picture frame",
+     "fr": "le cadre de photo",
+     "de": "der Fotorahmen",
+     "es": "el portarretratos",
+     "it": "la cornice",
+     "_pos": [
+      706,
+      504
+     ],
+     "_flags": []
+    },
+    {
+     "en": "photograph",
+     "fr": "la photo",
+     "de": "das Foto",
+     "es": "la fotografía",
+     "it": "la fotografia",
+     "_pos": [
+      44,
+      537
+     ],
+     "_flags": []
+    },
+    {
+     "en": "viewfinder",
+     "fr": "le viseur",
+     "de": "der Bildsucher",
+     "es": "el visor",
+     "it": "il mirino",
+     "_pos": [
+      482,
+      585
+     ],
+     "_flags": []
+    },
+    {
+     "en": "print",
+     "fr": "l'épreuve",
+     "de": "der Abzug",
+     "es": "la foto revelada",
+     "it": "la fotografìa sviluppata",
+     "_pos": [
+      690,
+      586
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "problems • les problèmes • die Probleme • los problemas • i difetti",
+   "parts": [
+    "problems",
+    "les problèmes",
+    "die probleme",
+    "los problemas",
+    "i difetti"
+   ],
+   "entries": [
+    {
+     "en": "camera case",
+     "fr": "le sac d'appareil photo",
+     "de": "die Kameratasche",
+     "es": "la funda de la cámara",
+     "it": "l'astuccio",
+     "_pos": [
+      484,
+      684
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mat",
+     "fr": "mat",
+     "de": "matt",
+     "es": "mate",
+     "it": "opaco",
+     "_pos": [
+      690,
+      685
+     ],
+     "_flags": []
+    },
+    {
+     "en": "exposure",
+     "fr": "la pose",
+     "de": "die Belichtung",
+     "es": "la exposición",
+     "it": "l'esposizione",
+     "_pos": [
+      484,
+      783
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gloss",
+     "fr": "b rillian t",
+     "de": "Hochglanz",
+     "es": "con brillo",
+     "it": "lucido",
+     "_pos": [
+      690,
+      783
+     ],
+     "_flags": [
+      "fr:short:b",
+      "fr:short:t"
+     ]
+    },
+    {
+     "en": "overexposed",
+     "fr": "surexposé",
+     "de": "überbelichtet",
+     "es": "sobreexpuesto",
+     "it": "sovraesposto",
+     "_pos": [
+      256,
+      816
+     ],
+     "_flags": []
+    },
+    {
+     "en": "underexposed",
+     "fr": "sous-exposé",
+     "de": "unterbelichtet",
+     "es": "subexpuesto",
+     "it": "sottoesposto",
+     "_pos": [
+      44,
+      816
+     ],
+     "_flags": []
+    },
+    {
+     "en": "enlargement",
+     "fr": "l'agrandissement",
+     "de": "die Vergrößerung",
+     "es": "la ampliación",
+     "it": "l'ingrandimento",
+     "_pos": [
+      691,
+      881
+     ],
+     "_flags": []
+    },
+    {
+     "en": "darkroom",
+     "fr": "la chambre noire",
+     "de": "die Dunkelkammer",
+     "es": "el cuarto oscuro",
+     "it": "la camera oscura",
+     "_pos": [
+      484,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "I'd like this film processed",
+     "fr": "Pourriez-vous faire développer cette pellicule?",
+     "de": "Könnten Sie diesen Rim entwickeln lassen?",
+     "es": "M e gustaría revelar este rollo",
+     "it": "Vorrei far sviluppare questo rollino",
+     "_pos": [
+      484,
+      979
+     ],
+     "_flags": [
+      "en:case",
+      "fr:weird:pellicule?",
+      "fr:case",
+      "de:weird:lassen?",
+      "es:short:M",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "out of focus",
+     "fr": "flou",
+     "de": "unscharf",
+     "es": "desenfocado",
+     "it": "sfocato",
+     "_pos": [
+      44,
+      1029
+     ],
+     "_flags": []
+    },
+    {
+     "en": "red eye",
+     "fr": "la tache rouge",
+     "de": "die Rotfärbung der Augen",
+     "es": "los ojos rojos",
+     "it": "l'occhio rosso",
+     "_pos": [
+      258,
+      1029
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 6,
+  "flagged": 19,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 4
+ }
+}

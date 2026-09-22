@@ -1,0 +1,341 @@
+{
+ "page": 135,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "black olive",
+     "fr": "Poliye noire",
+     "de": "die schwarze Olive",
+     "es": "la aceituna negra",
+     "it": "l'oliva nera",
+     "_pos": [
+      448,
+      81
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "chili",
+     "fr": "le pimenr",
+     "de": "die Peperoni",
+     "es": "el chile piquín",
+     "_pos": [
+      602,
+      82
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "sauce",
+     "fr": "la sauce",
+     "de": "die Soße",
+     "es": "la salsa",
+     "it": "la salsa",
+     "_pos": [
+      772,
+      82
+     ],
+     "_flags": []
+    },
+    {
+     "en": "meat pies",
+     "fr": "les pâtés en croûte",
+     "de": "die Pasteten » los pasteles de carne",
+     "it": "i pasticci di carne",
+     "_pos": [
+      104,
+      82
+     ],
+     "_flags": [
+      "missing:es",
+      "de:weird:»"
+     ]
+    },
+    {
+     "en": "roll",
+     "fr": "le petit pain",
+     "de": "das Brötchen",
+     "es": "el panecillo",
+     "it": "il panino",
+     "_pos": [
+      350,
+      181
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cooked meat",
+     "fr": "la viande cuite",
+     "de": "das gekochte Fleisch",
+     "es": "el fiambre",
+     "it": "la carne cotta",
+     "_pos": [
+      291,
+      315
+     ],
+     "_flags": []
+    },
+    {
+     "en": "green olive",
+     "fr": "Polivo verte",
+     "de": "die grüne Olive",
+     "es": "la aceituna verde",
+     "it": "l'oliva verde",
+     "_pos": [
+      312,
+      497
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "sandwich counter",
+     "fr": "le comptoir sandwichs",
+     "de": "die Sandwichtheke",
+     "es": "el mostrador de bocadillos",
+     "it": "la paninoteca",
+     "_pos": [
+      450,
+      528
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ham",
+     "fr": "le jambon",
+     "de": "der Schinken",
+     "es": "el jamón",
+     "it": "il prosciutto",
+     "_pos": [
+      67,
+      547
+     ],
+     "_flags": []
+    },
+    {
+     "_pos": [
+      496,
+      596
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "in oil",
+      "à l'huile",
+      "in Öl",
+      "en aceite",
+      "sott'olio in brine",
+      "en saum ure",
+      "in Lake",
+      "en salm uera",
+      "in salamoia"
+     ]
+    },
+    {
+     "_pos": [
+      496,
+      662
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "marinated",
+      "m ariné",
+      "mariniert",
+      "m arinado",
+      "marinato salted",
+      "Siile",
+      "gepökelt",
+      "salado",
+      "salato"
+     ]
+    },
+    {
+     "_pos": [
+      496,
+      728
+     ],
+     "_flags": [
+      "oriz:9p"
+     ],
+     "_parts": [
+      "smoked",
+      "fumé",
+      "geräuchert",
+      "ahum ado",
+      "affumicato cured",
+      "séché",
+      "getrocknet",
+      "curado",
+      "trattato"
+     ]
+    },
+    {
+     "_pos": [
+      52,
+      732
+     ],
+     "_flags": [
+      "oriz:6p"
+     ],
+     "_parts": [
+      "r-o ked fish",
+      "le poisson",
+      "une",
+      "der Räucherfisch",
+      "el pescado ahumado",
+      "il pesce affumicato"
+     ]
+    },
+    {
+     "en": "capers",
+     "fr": "les câpres",
+     "de": "die Kapern",
+     "es": "las alcaparras",
+     "it": "i capperi",
+     "_pos": [
+      284,
+      745
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Take a number, please",
+     "fr": "Prenez un num éro, s'il vous plaît",
+     "de": "Nehmen Sie bitte eine Nummer",
+     "es": "Tome un núm ero, por favor",
+     "it": "Prenda un numero, per favore",
+     "_pos": [
+      496,
+      796
+     ],
+     "_flags": [
+      "en:weird:number,",
+      "en:case",
+      "fr:weird:éro,",
+      "fr:case",
+      "es:weird:ero,",
+      "es:case",
+      "it:weird:numero,",
+      "it:case"
+     ]
+    },
+    {
+     "en": "chorizo",
+     "fr": "le chorizo",
+     "de": "die Chonzo",
+     "es": "el chorizo",
+     "it": "il chorizo",
+     "_pos": [
+      284,
+      818
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Can I try some of that, please?",
+     "fr": "Est-ce que je peut goûter un peu de ça, s'il vous plaît V",
+     "de": "Kann ich bitte etwas davon probieren?",
+     "es": "Puedo probar un poco de eso?",
+     "it": "Posso assaggiare un po' di quello, per favore?",
+     "_pos": [
+      498,
+      896
+     ],
+     "_flags": [
+      "en:weird:that,",
+      "en:weird:please?",
+      "en:case",
+      "fr:weird:ça,",
+      "fr:short:V",
+      "fr:case",
+      "de:weird:probieren?",
+      "es:weird:eso?",
+      "es:case",
+      "it:weird:quello,",
+      "it:weird:favore?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "May I have six slices of that, please?",
+     "fr": "Je voudrais six tranches, s'il vous plaît",
+     "de": "Ich hätte gerne sechs Scheiben davon, bitte",
+     "es": "M e pone seis rebanadas de aquél?",
+     "it": "Mi dà sei fette di quello, per favore?",
+     "_pos": [
+      498,
+      995
+     ],
+     "_flags": [
+      "en:weird:that,",
+      "en:weird:please?",
+      "en:case",
+      "fr:weird:tranches,",
+      "fr:case",
+      "de:weird:davon,",
+      "es:short:M",
+      "es:weird:aquél?",
+      "es:case",
+      "it:weird:quello,",
+      "it:weird:favore?",
+      "it:case"
+     ]
+    },
+    {
+     "en": "stuffed olive",
+     "fr": "l'olive fourrée",
+     "de": "die gefüllte Olive",
+     "es": "la aceituna rellena",
+     "it": "le olive ripiene",
+     "_pos": [
+      286,
+      1046
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ceosciutto",
+     "fr": "le prosciutto",
+     "de": "der Prosciutto",
+     "es": "el jamón serrano",
+     "it": "il prosciutto crudo",
+     "_pos": [
+      54,
+      1046
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 20,
+  "complete_clean": 3,
+  "flagged": 17,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

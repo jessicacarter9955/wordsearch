@@ -1,0 +1,396 @@
+{
+ "page": 231,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "pesca",
+   "names": {
+    "en": "fishing",
+    "fr": "la pêche",
+    "de": "der angelsport",
+    "es": "la pesca",
+    "it": "la pesca"
+   },
+   "entries": [
+    {
+     "en": "barb",
+     "fr": "barbillon",
+     "de": "Widerhaken",
+     "es": "punta",
+     "it": "uncino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 10,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "eye",
+     "fr": "œ illet",
+     "de": "Öhr",
+     "es": "ojo",
+     "it": "occhiello",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 3,
+      "es": 3,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "sinker",
+     "fr": "plomb",
+     "de": "Gewicht",
+     "es": "plomo",
+     "it": "l peso",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "fishhook",
+     "fr": "hameçon",
+     "de": "Angelhaken",
+     "es": "anzuelo",
+     "it": "amo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 3
+     }
+    },
+    {
+     "en": "bait",
+     "fr": "amorce",
+     "de": "Köder",
+     "es": "cebo",
+     "it": "esca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 5,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "oat",
+     "fr": "flotteur",
+     "de": "Pose",
+     "es": "I flotador",
+     "it": "galleggiante",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 4,
+      "es": 9,
+      "it": 12
+     }
+    },
+    {
+     "en": "landing net",
+     "fr": "Pépuiseue",
+     "de": "Kescher",
+     "es": "red para recoger",
+     "it": "retina",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 7,
+      "es": 14,
+      "it": 6
+     }
+    },
+    {
+     "en": "fly",
+     "fr": "mouche",
+     "de": "Fliege",
+     "es": "mosca",
+     "it": "mosca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "IÀJ Iure",
+     "fr": "Pappar",
+     "de": "Köderhaken",
+     "es": "señuelo",
+     "it": "esca",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "keep net",
+     "fr": "bourriche",
+     "de": "Setzkescher",
+     "es": "red para las capturas",
+     "it": "rete da pesca",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 11,
+      "es": 18,
+      "it": 11
+     }
+    },
+    {
+     "en": "line",
+     "fr": "ligne",
+     "de": "Schnur",
+     "es": "sedal",
+     "it": "lenza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "tackle box",
+     "fr": "boite d' équipement",
+     "de": "Spinnericasten",
+     "es": "caia de aparejos",
+     "it": "scatola degli attrezzi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 14,
+      "es": 14,
+      "it": 20
+     }
+    },
+    {
+     "en": "fishing rod",
+     "fr": "canne à pêche",
+     "de": "Angelrute",
+     "es": "caña de pescar",
+     "it": "I3 canna da pesca",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 9,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "reel",
+     "fr": "moulinet",
+     "de": "Rolle",
+     "es": "carrete",
+     "it": "mulinello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 5,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "waders",
+     "fr": "bottes de pêche",
+     "de": "Watstiefel",
+     "es": "botas altas de goma",
+     "it": "stivaloni di gomma",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 13,
+      "de": 10,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "fisherman",
+     "fr": "pêcheur",
+     "de": "Angler",
+     "es": "pescador de caña",
+     "it": "pescatore",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 6,
+      "es": 14,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

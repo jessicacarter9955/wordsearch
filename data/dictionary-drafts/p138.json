@@ -1,0 +1,45 @@
+{
+ "page": 138,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": null,
+ "groups": [
+  {
+   "names_raw": "eating out sortir manger",
+   "parts": [
+    "eating out sortir manger"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "auswärts essen comer fuera",
+   "parts": [
+    "auswärts essen comer fuera"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "mangiare fuori",
+   "parts": [
+    "mangiare fuori"
+   ],
+   "entries": []
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 0,
+  "complete_clean": 0,
+  "flagged": 0,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

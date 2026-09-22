@@ -1,0 +1,391 @@
+{
+ "page": 34,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "aspetto",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "header_raw": "A P P E A R A N C E • L'APPARENCE • DIE AUSSERE ERSCHEINUNG • l.A APARIENCIA • L'ASPETTO",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "shoulder strap",
+     "fr": "la bretelle",
+     "de": "der Schulterriemen",
+     "es": "la correa",
+     "it": "la bretella",
+     "_pos": [
+      730,
+      80
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "oags • les sacs • die Taschen • las bolsas • le borse",
+   "parts": [
+    "oags",
+    "les sacs",
+    "die taschen",
+    "las bolsas",
+    "le borse"
+   ],
+   "entries": [
+    {
+     "en": "clasp",
+     "fr": "le fermoir",
+     "de": "der Verschluss",
+     "es": "el cierre",
+     "it": "la cinghia",
+     "_pos": [
+      517,
+      81
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handles les poignées die Griffe lasasasimanici",
+     "_pos": [
+      592,
+      179
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "shoulder bag",
+     "fr": "le sac à bandoulière",
+     "de": "die Umhängetasche",
+     "es": "la bolsa",
+     "it": "la borsa a tracolla",
+     "_pos": [
+      361,
+      228
+     ],
+     "_flags": []
+    },
+    {
+     "en": "change purse",
+     "fr": "le porte-monnaie",
+     "de": "das Portemonnaie",
+     "es": "el monedero",
+     "it": "il portamonete",
+     "_pos": [
+      217,
+      229
+     ],
+     "_flags": []
+    },
+    {
+     "en": "vallet",
+     "fr": "le portefeuille",
+     "de": "die Brieftasche",
+     "es": "cartera",
+     "it": "il portafoglio",
+     "_pos": [
+      40,
+      230
+     ],
+     "_flags": []
+    },
+    {
+     "en": "handbag",
+     "fr": "le sac à main",
+     "de": "die Handtasche",
+     "es": "la bolsa de mano",
+     "it": "labor setta",
+     "_pos": [
+      491,
+      457
+     ],
+     "_flags": []
+    },
+    {
+     "en": "backpack",
+     "fr": "le sa ci dos",
+     "de": "der Rucksack",
+     "es": "la mochila",
+     "it": "lo zainetto",
+     "_pos": [
+      690,
+      457
+     ],
+     "_flags": []
+    },
+    {
+     "en": "briefcase",
+     "fr": "la serviette",
+     "de": "die Aktentasche",
+     "es": "el maletín",
+     "it": "la valigetta",
+     "_pos": [
+      302,
+      458
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cuffie bag",
+     "fr": "le fourre-cuut",
+     "de": "die Reisetasche",
+     "es": "lo bolsa de viaje",
+     "it": "a sacca da viaggio",
+     "_pos": [
+      42,
+      459
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "shoes • les chaussures • die Schuhe • los zapatos • le scarpe",
+   "parts": [
+    "shoes",
+    "les chaussures",
+    "die schuhe",
+    "los zapatos",
+    "le scarpe"
+   ],
+   "entries": [
+    {
+     "en": "tongue",
+     "fr": "la languette",
+     "de": "die Zunge",
+     "es": "la lengüeta",
+     "it": "la lingua",
+     "_pos": [
+      332,
+      572
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lace",
+     "fr": "le lacet",
+     "de": "der Schnürsenkel",
+     "es": "la agujeta",
+     "_pos": [
+      177,
+      573
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "eyelet",
+     "fr": "r œillet",
+     "de": "die Öse",
+     "es": "el ojal",
+     "it": "occhiello",
+     "_pos": [
+      42,
+      574
+     ],
+     "_flags": [
+      "fr:short:r"
+     ]
+    },
+    {
+     "en": "walking boot",
+     "fr": "le pataugas",
+     "de": "der Wanderschuh",
+     "es": "la bota de trekking",
+     "it": "la scarpa da trekking",
+     "_pos": [
+      550,
+      636
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sneaker",
+     "fr": "la basket",
+     "de": "der Sportschuh",
+     "es": "el tenis",
+     "it": "la scarpa da ginnastica",
+     "_pos": [
+      720,
+      637
+     ],
+     "_flags": []
+    },
+    {
+     "en": "heel",
+     "fr": "le raion",
+     "de": "der Absatz",
+     "es": "el tacón",
+     "it": "I tacco",
+     "_pos": [
+      445,
+      670
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "sole",
+     "fr": "la semelle",
+     "de": "aie Sohle",
+     "es": "ia suela",
+     "_pos": [
+      44,
+      705
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "flip-flop",
+     "fr": "la tong",
+     "de": "die Strandsandale",
+     "es": "chancla",
+     "it": "la ciabatta",
+     "_pos": [
+      721,
+      816
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leather shoe",
+     "fr": "la chaussure de cuir",
+     "de": "der Lederschuh",
+     "es": "el zapato de piel",
+     "it": "la scarpa di cuoio",
+     "_pos": [
+      552,
+      817
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ace-up",
+     "fr": "la chaussure lacée",
+     "de": "der Schnürschuh",
+     "es": "el zapato de agujetas",
+     "it": "la scarpa con i lacci",
+     "_pos": [
+      44,
+      835
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slip-on",
+     "fr": "le m ocassin der Slipper",
+     "es": "el m ocasín",
+     "it": "il mocassino",
+     "_pos": [
+      553,
+      996
+     ],
+     "_flags": [
+      "missing:de",
+      "fr:short:m",
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "brogan",
+     "fr": "le richelieu der Herrenhalbschuh",
+     "es": "el zapato de caballero",
+     "it": "la scarpa da uomo",
+     "_pos": [
+      722,
+      996
+     ],
+     "_flags": [
+      "missing:de"
+     ]
+    },
+    {
+     "en": "sandal",
+     "fr": "la sandale die Sandale",
+     "es": "la sandalia",
+     "it": "il sandalo",
+     "_pos": [
+      400,
+      997
+     ],
+     "_flags": [
+      "missing:de"
+     ]
+    },
+    {
+     "en": "platform shoe",
+     "fr": "la chaussure à semelle compensée",
+     "de": "der Plateauschuh",
+     "es": "el zapato de plataforma",
+     "it": "lo zatterone",
+     "_pos": [
+      202,
+      997
+     ],
+     "_flags": []
+    },
+    {
+     "en": "high heel shoe",
+     "fr": "la chaussure à talon",
+     "de": "der Schuh mit hohem Absatz",
+     "es": "el zapato de tacón",
+     "it": "la scarpa con il tacco alto",
+     "_pos": [
+      44,
+      998
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 2,
+  "flagged": 23,
+  "missing_lang": 6,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

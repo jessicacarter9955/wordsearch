@@ -1,0 +1,448 @@
+{
+ "page": 21,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "PEO PLE • LES GENS • DIE MENSCHEN • LA GENTE • LE PERSONE / ■ / 1",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "generation",
+     "fr": "la génération",
+     "de": "die Generation",
+     "es": "la generación",
+     "it": "la generazione",
+     "_pos": [
+      758,
+      92
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stepson",
+     "fr": "le beau-fils",
+     "de": "der Stiefsohn",
+     "es": "el hijastro",
+     "it": "il figliastro",
+     "_pos": [
+      586,
+      95
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stepmother",
+     "fr": "la belle-mère",
+     "de": "die Stiefmutter",
+     "es": "la madrastra",
+     "it": "la matrigna",
+     "_pos": [
+      461,
+      96
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grandchildren",
+     "fr": "les petits-enfants",
+     "de": "die Enkelkinder",
+     "es": "los nietos",
+     "it": "i nipoti",
+     "_pos": [
+      316,
+      97
+     ],
+     "_flags": []
+    },
+    {
+     "en": "parents",
+     "fr": "les parents",
+     "de": "die Eltern",
+     "es": "los padres",
+     "it": "i genitori",
+     "_pos": [
+      209,
+      99
+     ],
+     "_flags": []
+    },
+    {
+     "en": "relatives",
+     "fr": "les parents",
+     "de": "die Verwandten",
+     "es": "los parientes",
+     "it": "i parenti",
+     "_pos": [
+      54,
+      100
+     ],
+     "_flags": []
+    },
+    {
+     "en": "twins",
+     "fr": "les jumeaux",
+     "de": "die Zwillinge",
+     "es": "los geme los",
+     "it": "i gemelli",
+     "_pos": [
+      760,
+      191
+     ],
+     "_flags": []
+    },
+    {
+     "en": "partner",
+     "fr": "le/la partenaire",
+     "de": "der Partner/die Partnerin",
+     "es": "el/la com pañero/-a",
+     "it": "if/la compagno/-a",
+     "_pos": [
+      588,
+      192
+     ],
+     "_flags": [
+      "fr:weird:le/la",
+      "de:weird:Partner/die",
+      "es:weird:el/la",
+      "es:weird:pañero/-a",
+      "it:weird:if/la",
+      "it:weird:compagno/-a"
+     ]
+    },
+    {
+     "en": "stepdaughter",
+     "fr": "la belle-fille",
+     "de": "die Stieftochter",
+     "es": "la hijastra",
+     "it": "la figliastra",
+     "_pos": [
+      462,
+      193
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stepfather",
+     "fr": "le beau-père",
+     "de": "der Stiefvater",
+     "es": "el padrastro",
+     "it": "il patrigno",
+     "_pos": [
+      318,
+      195
+     ],
+     "_flags": []
+    },
+    {
+     "en": "children",
+     "fr": "les enfants",
+     "de": "die Kinder",
+     "es": "los niños",
+     "it": "i bambini",
+     "_pos": [
+      210,
+      196
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grandparents",
+     "fr": "les grands-parents",
+     "de": "die Großeltern",
+     "es": "los abuelos",
+     "it": "i nonni",
+     "_pos": [
+      56,
+      198
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "stages • les stades • dìe Stadien • las etapas • le fasi",
+   "parts": [
+    "stages",
+    "les stades",
+    "dìe stadien",
+    "las etapas",
+    "le fasi"
+   ],
+   "entries": [
+    {
+     "en": "father-irvlaw",
+     "fr": "le beau-père",
+     "de": "der Schwiegervater",
+     "es": "el suegro",
+     "it": "il suocero",
+     "_pos": [
+      298,
+      407
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mother-in law",
+     "fr": "la belle-mère",
+     "de": "die Schwiegermutter",
+     "es": "la suegra",
+     "it": "la suocera",
+     "_pos": [
+      128,
+      409
+     ],
+     "_flags": []
+    },
+    {
+     "en": "child",
+     "fr": "l'enfant",
+     "de": "das Kind",
+     "es": "el niño",
+     "it": "il bambino",
+     "_pos": [
+      724,
+      470
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baby",
+     "fr": "le bébé",
+     "de": "das Baby",
+     "es": "el bebé",
+     "it": "il bimbo",
+     "_pos": [
+      554,
+      472
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brother-in-law",
+     "fr": "le beau-frère",
+     "de": "der Schwager",
+     "es": "el cuñado",
+     "it": "il cognato",
+     "_pos": [
+      46,
+      606
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "la cuñada",
+     "es": "la cognata",
+     "_pos": [
+      217,
+      638
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "girl",
+     "fr": "la fille",
+     "de": "das Mädchen",
+     "es": "la niña",
+     "it": "la ragazza",
+     "_pos": [
+      726,
+      650
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boy",
+     "fr": "le garçon",
+     "de": "der Junge",
+     "es": "el niño",
+     "it": "il ragazzo",
+     "_pos": [
+      556,
+      652
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Mrs",
+     "fr": "Madame",
+     "de": "Frau",
+     "es": "Señora",
+     "_pos": [
+      450,
+      799
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig",
+      "en:case",
+      "fr:case",
+      "es:case"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "adult",
+     "fr": "l'adulte",
+     "de": "der Erwachsene",
+     "es": "el adulto",
+     "it": "l'adulto",
+     "_pos": [
+      728,
+      829
+     ],
+     "_flags": []
+    },
+    {
+     "en": "teenager",
+     "fr": "l'adolescente",
+     "de": "die Jugendliche",
+     "es": "la adolescente",
+     "it": "l'adolescente",
+     "_pos": [
+      559,
+      831
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nephew",
+     "fr": "le neveu",
+     "de": "der Neffe",
+     "es": "el sobrino",
+     "it": "il nipote",
+     "_pos": [
+      220,
+      834
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mece",
+     "fr": "la nièce",
+     "de": "die Nichte",
+     "es": "la sobrina",
+     "it": "la nipote",
+     "_pos": [
+      50,
+      836
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "titles • les titres • die Anreden • los tratamientos • gli appellativi",
+   "parts": [
+    "titles",
+    "les titres",
+    "die anreden",
+    "los tratamientos",
+    "gli appellativi"
+   ],
+   "entries": [
+    {
+     "en": "M r",
+     "fr": "Monsieur",
+     "de": "Herr",
+     "es": "Señor",
+     "it": "Signore",
+     "_pos": [
+      212,
+      982
+     ],
+     "_flags": [
+      "en:short:M",
+      "en:short:r",
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "Miss",
+     "fr": "Mademoiselle",
+     "de": "Fräulein",
+     "es": "Señorita",
+     "it": "Signorina",
+     "_pos": [
+      96,
+      999
+     ],
+     "_flags": [
+      "en:case",
+      "fr:case",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "woman",
+     "fr": "la femme",
+     "de": "die Frau",
+     "es": "la mujer",
+     "it": "la donna",
+     "_pos": [
+      731,
+      1025
+     ],
+     "_flags": []
+    },
+    {
+     "en": "man",
+     "fr": "l'homme",
+     "de": "der Mann",
+     "es": "el hombre",
+     "it": "l'uomo",
+     "_pos": [
+      562,
+      1027
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 29,
+  "complete_clean": 8,
+  "flagged": 21,
+  "missing_lang": 2,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

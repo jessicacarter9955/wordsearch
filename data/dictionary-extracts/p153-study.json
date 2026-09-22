@@ -1,0 +1,572 @@
+{
+ "page": 153,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "colored pencil",
+     "fr": "crayon de couleur",
+     "de": "Buntstift",
+     "es": "color",
+     "it": "matita colorata",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 9,
+      "es": 5,
+      "it": 14
+     }
+    },
+    {
+     "en": "pendi sharpener",
+     "fr": "taille-crayon",
+     "de": "Spitzer",
+     "es": "sacapuntas",
+     "it": "temperamatite",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 7,
+      "es": 10,
+      "it": 13
+     }
+    },
+    {
+     "en": "pencil",
+     "fr": "crayon",
+     "de": "Bleistift",
+     "es": "lápiz",
+     "it": "matita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "pen",
+     "fr": "stylo",
+     "de": "Füller",
+     "es": "pluma",
+     "it": "penna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "overhead projector",
+     "fr": "rétro projecteur",
+     "de": "Overhead projektor",
+     "es": "proyector de acetatos",
+     "it": "lavagna luminosa",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 15,
+      "de": 17,
+      "es": 19,
+      "it": 15
+     }
+    },
+    {
+     "en": "eraser",
+     "fr": "gomme",
+     "de": "Radiergummi",
+     "es": "goma",
+     "it": "gomma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 11,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "notebook",
+     "fr": "cahier",
+     "de": "Heft",
+     "es": "cuaderno",
+     "it": "quaderno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 4,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "ruler",
+     "fr": "régie",
+     "de": "Lineai",
+     "es": "regia",
+     "it": "righello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "pendi case",
+     "fr": "trousse",
+     "de": "Federmäppchen",
+     "es": "estuche",
+     "it": "astuccio",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 13,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "textbook",
+     "fr": "livre",
+     "de": "Schulbuch",
+     "es": "libro de texto",
+     "it": "libro di testo",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "grade",
+     "fr": "note",
+     "de": "Note",
+     "es": "calificación",
+     "it": "livello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "answer",
+     "fr": "réponse",
+     "de": "Antwort",
+     "es": "respuesta",
+     "it": "risposta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "principal",
+     "fr": "directeur",
+     "de": "Schulleiter",
+     "es": "director",
+     "it": "preside",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 11,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "year",
+     "fr": "classe",
+     "de": "Klasse",
+     "es": "año",
+     "it": "classe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 3,
+      "it": 6
+     }
+    },
+    {
+     "en": "homework",
+     "fr": "devoirs",
+     "de": "Hausaufgabe",
+     "es": "tarea",
+     "it": "compiti",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 11,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "class",
+     "fr": "leçon",
+     "de": "Stunde",
+     "es": "lección",
+     "it": "lezione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "answer (v)",
+     "fr": "répondre",
+     "de": "antworten",
+     "es": "contestar",
+     "it": "rispondere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 9,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "question (v)",
+     "fr": "questionner",
+     "de": "fragen",
+     "es": "preguntar",
+     "it": "domandare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 6,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "dictionary",
+     "fr": "dictionnaire",
+     "de": "Wörterbuch",
+     "es": "diccionario",
+     "it": "dizionario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 11,
+      "it": 10
+     }
+    },
+    {
+     "en": "essay",
+     "fr": "rédaction",
+     "de": "Aufsatz",
+     "es": "redacción",
+     "it": "tema",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 7,
+      "es": 9,
+      "it": 4
+     }
+    },
+    {
+     "en": "take notes (v)",
+     "fr": "prendre des notes",
+     "de": "Notizen machen",
+     "es": "tom ar apuntes",
+     "it": "prendere appunti",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 13,
+      "es": 12,
+      "it": 15
+     }
+    },
+    {
+     "en": "examination",
+     "fr": "examen",
+     "de": "Prüfung",
+     "es": "examen",
+     "it": "esame",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "encyclopedia",
+     "fr": "encyclopédie",
+     "de": "Lexikon",
+     "es": "enciclopedia",
+     "it": "enciclopedia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 7,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "question",
+     "fr": "question",
+     "de": "Frage",
+     "es": "pregunta",
+     "it": "domanda",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "leam (v)",
+     "fr": "apprendre",
+     "de": "lernen",
+     "es": "aprender",
+     "it": "imparare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 6,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "discuss (v)",
+     "fr": "discuter",
+     "de": "diskutieren",
+     "es": "discutir",
+     "it": "discutere",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 11,
+      "es": 8,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

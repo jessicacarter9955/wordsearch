@@ -1,0 +1,266 @@
+{
+ "page": 235,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "altri-sport",
+   "names": {
+    "en": "other sports",
+    "fr": "les antres sports",
+    "de": "die anderen sportarten",
+    "es": "los otros deportes",
+    "it": "gli altri sport"
+   },
+   "entries": [
+    {
+     "en": "hang-glider",
+     "fr": "deltaplane",
+     "de": "Drachen",
+     "es": "ala delta",
+     "it": "deltaplane",
+     "_multi": [
+      "es"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 7,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "parachute",
+     "fr": "parachute",
+     "de": "Fallschirm",
+     "es": "paracaídas",
+     "it": "paracadute",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "Fading",
+     "fr": "vol plané",
+     "de": "Segelfliegen",
+     "es": "vuelo sin motor",
+     "it": "volo senza motore",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 12,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "hang-gliding",
+     "fr": "deltaplane",
+     "de": "Drachenfliegen",
+     "es": "vuelo con ala delta",
+     "it": "volo in deltaplano",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 14,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "rock climbing",
+     "fr": "IVsealade",
+     "de": "Klettern",
+     "es": "escalada",
+     "it": "alpinismo in parete",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 17
+     }
+    },
+    {
+     "en": "parachuting",
+     "fr": "parachutisme",
+     "de": "Fallschirmspringen",
+     "es": "paracaidism o",
+     "it": "paracadutismo",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 18,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "parasailing",
+     "fr": "parapente",
+     "de": "Gleitschirmfliegen",
+     "es": "parapente",
+     "it": "parapendio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 18,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "skydiving",
+     "fr": "saut en chute libre",
+     "de": "Fallschirmspringen",
+     "es": "paracaidism o en caída libre",
+     "it": "paracadutismo libero",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 16,
+      "de": 18,
+      "es": 24,
+      "it": 19
+     }
+    },
+    {
+     "en": "rappeling",
+     "fr": "rappel",
+     "de": "Abseilen",
+     "es": "rappel",
+     "it": "cordata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "bungee lumping",
+     "fr": "saut à Eclasrique",
+     "de": "Bungeejumping",
+     "es": "salto bungee",
+     "it": "bungee jumping",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 13,
+      "es": 11,
+      "it": 13
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

@@ -1,0 +1,368 @@
+{
+ "page": 270,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Environment",
+  "fr": "L'environnement",
+  "de": "Die Umwelt",
+  "es": "El medio ambiente",
+  "it": "L'ambiente"
+ },
+ "macro_slug": "ambiente",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "wood",
+     "fr": "hois",
+     "de": "Wald",
+     "es": "bosque",
+     "it": "bosco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "desert",
+     "fr": "désert",
+     "de": "Wüste",
+     "es": "desierto",
+     "it": "deserto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 5,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "forest",
+     "fr": "forêt",
+     "de": "Wald",
+     "es": "bosque",
+     "it": "foresta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 4,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "plain",
+     "fr": "plaine",
+     "de": "Ebene",
+     "es": "llanura",
+     "it": "pianura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "grassland",
+     "fr": "prairie",
+     "de": "Grasland",
+     "es": "pradera",
+     "it": "prateria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "meadow",
+     "fr": "pré",
+     "de": "Wieselabel",
+     "es": "prado",
+     "it": "pascolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 3,
+      "de": 10,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "swamp",
+     "fr": "marais",
+     "de": "Sumpf",
+     "es": "pantano",
+     "it": "palude",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "rain forest",
+     "fr": "foret tropicale",
+     "de": "Regenwald",
+     "es": "selva tropical",
+     "it": "foresta pluviale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 9,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "geyser",
+     "fr": "geyser",
+     "de": "Geysir",
+     "es": "geiser",
+     "it": "geyser",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "lake",
+     "fr": "lac",
+     "de": "See",
+     "es": "lago",
+     "it": "lago",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 3,
+      "de": 3,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "stream",
+     "fr": "ruisseau",
+     "de": "Bach",
+     "es": "arroyo",
+     "it": "torrente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 4,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "waterfall",
+     "fr": "cascade",
+     "de": "Wasserfall",
+     "es": "cascada",
+     "it": "cascata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 10,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "estuary",
+     "fr": "estuaire",
+     "de": "Flussmündung",
+     "es": "estuario",
+     "it": "estuario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 12,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "coral reef",
+     "fr": "récif de corail",
+     "de": "Korallenriff",
+     "es": "arrecife de coral",
+     "it": "barriera corallina",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 12,
+      "es": 15,
+      "it": 17
+     }
+    },
+    {
+     "en": "cliff",
+     "fr": "falaise",
+     "de": "Klippe",
+     "es": "acantilado",
+     "it": "scogliera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 6,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "coast",
+     "fr": "côte",
+     "de": "Küste",
+     "es": "costa",
+     "it": "costa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

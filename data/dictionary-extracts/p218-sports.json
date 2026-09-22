@@ -1,0 +1,381 @@
+{
+ "page": 218,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "ballboy",
+     "fr": "ram asscur de balles",
+     "de": "Balljunge",
+     "es": "recogebolas",
+     "it": "raccattapalle",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 17,
+      "de": 9,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "serve",
+     "fr": "service",
+     "de": "Aufschlag",
+     "es": "servicio",
+     "it": "servizio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "volley",
+     "fr": "voilée",
+     "de": "Volley",
+     "es": "volea",
+     "it": "palleggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "serve (v)",
+     "fr": "servir",
+     "de": "aufschlagen",
+     "es": "sacar",
+     "it": "battere il servigio",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 11,
+      "es": 5,
+      "it": 17
+     }
+    },
+    {
+     "en": "lob",
+     "fr": "lob",
+     "de": "Lob",
+     "es": "globo",
+     "it": "schiacciata",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 5,
+      "it": 11
+     }
+    },
+    {
+     "en": "return",
+     "fr": "retour",
+     "de": "Return",
+     "es": "resto",
+     "it": "ritorno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "tennis shoes",
+     "fr": "tennis",
+     "de": "Tennisschuh",
+     "es": "tenis",
+     "it": "scarpe da tennis",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 11,
+      "es": 5,
+      "it": 14
+     }
+    },
+    {
+     "en": "backhand",
+     "fr": "revers",
+     "de": "Rückhand",
+     "es": "revés",
+     "it": "rovescio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 8,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "forehand",
+     "fr": "coup droit",
+     "de": "Vorhand",
+     "es": "derecho",
+     "it": "dritto",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "player",
+     "fr": "joueur",
+     "de": "Tennisspieler",
+     "es": "jugador",
+     "it": "giocatore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 13,
+      "es": 7,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": "giochi-con-i3-racchetta",
+   "names": {
+    "en": "racquet games",
+    "fr": "les jeux je raquette",
+    "de": "die schlägerspiele",
+    "es": "los juegos de raqueta",
+    "it": "i giochi con i3 racchetta"
+   },
+   "entries": [
+    {
+     "en": "shuttlecock",
+     "fr": "volant",
+     "de": "Federball",
+     "es": "gallo",
+     "it": "volano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 6,
+      "de": 9,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "bat",
+     "fr": "raquette",
+     "de": "Tischtennisschläger",
+     "es": "raqueta la racchetta",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 8,
+      "de": 19,
+      "es": 18
+     }
+    },
+    {
+     "en": "racquetball",
+     "fr": "racquetball",
+     "de": "Racquetball",
+     "es": "racketbaJI",
+     "it": "racquetball",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "squash ® le squash",
+     "de": "Squash",
+     "es": "squash",
+     "it": "squash",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 14,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "table tennis",
+     "fr": "tennis de table",
+     "de": "Tischtennis",
+     "es": "ping-pong",
+     "it": "ping pong",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 11,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "badminton",
+     "fr": "badminton",
+     "de": "Badminton",
+     "es": "bádm inton",
+     "it": "badminton",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 9,
+      "es": 9,
+      "it": 9
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

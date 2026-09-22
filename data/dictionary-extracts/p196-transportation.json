@@ -1,0 +1,448 @@
+{
+ "page": 196,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "treno",
+   "names": {
+    "en": "train",
+    "fr": "le train",
+    "de": "der zug",
+    "es": "el tren",
+    "it": "il treno"
+   },
+   "entries": [
+    {
+     "en": "carriage",
+     "fr": "voiture",
+     "de": "Wagen",
+     "es": "vagón",
+     "it": "vagone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 5,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "platform number",
+     "fr": "nu me rode voie",
+     "de": "Gleisnummer",
+     "es": "número de andén",
+     "it": "numero del binario",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 11,
+      "es": 13,
+      "it": 16
+     }
+    },
+    {
+     "en": "platform",
+     "fr": "quai",
+     "de": "Bahnsteig",
+     "es": "andén",
+     "it": "binario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 4,
+      "de": 9,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "le voyageur",
+     "fr": "der Pendler",
+     "de": "e l viajero de",
+     "es": "cercanías",
+     "it": "pendolare",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 11,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "cart",
+     "fr": "caddie",
+     "de": "Kofferkuli",
+     "es": "carrito",
+     "it": "carrello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "train station",
+     "fr": "gare",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 4
+     }
+    },
+    {
+     "de": "Bahnhof",
+     "es": "estación de tren",
+     "it": "stazione ferroviaria",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "de": 7,
+      "es": 14,
+      "it": 19
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "conducted cabin",
+     "fr": "cabine du conducteur",
+     "de": "Führerstand",
+     "es": "laca bina del conductor",
+     "it": "cabina del conducente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 11,
+      "es": 20,
+      "it": 19
+     }
+    },
+    {
+     "en": "engine",
+     "fr": "locomotive",
+     "de": "Lokomotive",
+     "es": "locomotora",
+     "it": "locomotiva",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 10,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "rail",
+     "fr": "rail",
+     "de": "Schiene",
+     "es": "riel",
+     "it": "rotaia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 7,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "steam train",
+     "fr": "train à vapeur",
+     "de": "Dampflokomotive",
+     "es": "tren de vapor",
+     "it": "if treno a vapore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 15,
+      "es": 11,
+      "it": 14
+     }
+    },
+    {
+     "en": "diesel train",
+     "fr": "train diesel",
+     "de": "Diesellokomotive",
+     "es": "tren diesel",
+     "it": "treno diesel",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 16,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "electric tram",
+     "fr": "rrain électrique",
+     "de": "Elektrolokomotive",
+     "es": "tren eléctrico",
+     "it": "treno elettrico",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 17,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "high-speed tram",
+     "fr": "train à grande vitesse",
+     "de": "Hochgeschwindigkeitszug",
+     "es": "tren de alta velocidad",
+     "it": "treno ad alta velocità",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 19,
+      "de": 23,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "monorail",
+     "fr": "m onorail",
+     "de": "Einschienenbahn",
+     "es": "m onorriel",
+     "it": "monorotaia",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 15,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "underground train",
+     "fr": "métro",
+     "de": "U-Bahn",
+     "es": "metro",
+     "it": "metropolitana",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 13
+     }
+    },
+    {
+     "en": "streetcar",
+     "fr": "tram",
+     "de": "Straßenbahn",
+     "es": "tranvía",
+     "it": "tram",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 4,
+      "de": 12,
+      "es": 7,
+      "it": 4
+     }
+    },
+    {
+     "en": "freight train",
+     "fr": "train de marchandises",
+     "de": "Güterzug",
+     "es": "tren de carga",
+     "it": "treno merci",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 19,
+      "de": 8,
+      "es": 11,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

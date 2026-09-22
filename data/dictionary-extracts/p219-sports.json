@@ -1,0 +1,295 @@
+{
+ "page": 219,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "golf",
+   "names": {
+    "en": "golf",
+    "fr": "le golf",
+    "de": "das golf",
+    "es": "el golf",
+    "it": "i golf"
+   },
+   "entries": [
+    {
+     "en": "bunker",
+     "fr": "bunker",
+     "de": "Bunker",
+     "es": "trampa de",
+     "it": "I",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 1
+     }
+    },
+    {
+     "en": "flag",
+     "fr": "drapeau",
+     "de": "Flagge",
+     "es": "banderola",
+     "it": "bandierina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 6,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "green",
+     "fr": "green",
+     "de": "Grün",
+     "es": "green",
+     "it": "green",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "teeing ground",
+     "fr": "départ",
+     "de": "Abschlag",
+     "es": "salida",
+     "it": "teeing-ground",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 6,
+      "de": 8,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "hole",
+     "fr": "trou",
+     "de": "Loch",
+     "es": "hoyo",
+     "it": "buca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "swing (v)",
+     "fr": "exécuter un swing",
+     "de": "schwingen",
+     "es": "hacer un swing",
+     "it": "fare lo swing",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 6,
+      "fr": 15,
+      "de": 9,
+      "es": 12,
+      "it": 11
+     }
+    },
+    {
+     "en": "water hazard",
+     "fr": "P obstacle d 'eau",
+     "de": "Wasserhindernis",
+     "es": "estanque",
+     "it": "stagno",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 15,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "golf course",
+     "fr": "parcours de golf",
+     "de": "Golfplatz",
+     "es": "campo de golf",
+     "it": "campo di golf",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 9,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "buggy",
+     "fr": "buggy",
+     "de": "Buggy",
+     "es": "carrito",
+     "it": "buggy",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "fr": "position",
+     "de": "Haltung",
+     "es": "postura",
+     "it": "posizione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 9
+     }
+    },
+    {
+     "en": "golfer",
+     "fr": "joueur de golf",
+     "de": "Golfspieler",
+     "es": "golfista",
+     "it": "golfista",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 12,
+      "de": 11,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "clubhouse",
+     "fr": "pavillon",
+     "de": "Klubhaus",
+     "es": "casa d u b",
+     "it": "sede del circolo",
+     "_multi": [
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 8,
+      "de": 8,
+      "es": 7,
+      "it": 14
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

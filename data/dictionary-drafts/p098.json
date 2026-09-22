@@ -1,0 +1,230 @@
+{
+ "page": 98,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • I ES C O U R S E S • DER EINKAUF • L A S C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "department store • le grand magasin • das Kaufhaus • las tiendas departamentales • il grande magazzino",
+   "parts": [
+    "department store",
+    "le grand magasin",
+    "das kaufhaus",
+    "las tiendas departamentales",
+    "il grande magazzino"
+   ],
+   "entries": [
+    {
+     "en": "womenswear",
+     "fr": "les vêtement pour femmes",
+     "de": "die Damenoberbekleidung",
+     "es": "la ropa de dama",
+     "it": "l'abbigliamento da donna",
+     "_pos": [
+      246,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "menswear",
+     "fr": "les vêtements pour hommes",
+     "de": "die Herrenbekleidung",
+     "es": "la ropa de caballero",
+     "it": "l'abbigliamento da uomo",
+     "_pos": [
+      32,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lingerie",
+     "fr": "la lingerie",
+     "de": "die Damenwäsche",
+     "es": "la lencería",
+     "it": "la biancheria intima",
+     "_pos": [
+      462,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "perfumes",
+     "fr": "la parfumerie",
+     "de": "die Parfümerie",
+     "es": "la perfumería",
+     "it": "la profumeria",
+     "_pos": [
+      676,
+      273
+     ],
+     "_flags": []
+    },
+    {
+     "en": "notions",
+     "fr": "la mercerie",
+     "de": "die Kurzwaren",
+     "es": "lamer ce ria",
+     "it": "la merceria",
+     "_pos": [
+      676,
+      530
+     ],
+     "_flags": []
+    },
+    {
+     "en": "linens",
+     "fr": "le linge de maison",
+     "de": "die Wasche",
+     "es": "los blancos",
+     "it": "la biancheria",
+     "_pos": [
+      248,
+      530
+     ],
+     "_flags": []
+    },
+    {
+     "en": "home furnishings",
+     "fr": "l'ameublement",
+     "de": "die Möbel",
+     "es": "el m obiliano para el hogar",
+     "it": "l'arreda mento perla casa",
+     "_pos": [
+      462,
+      530
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "cosmetics",
+     "fr": "la beauté",
+     "de": "die Schönheitspflege",
+     "es": "los cosm éticos",
+     "it": "la bellezza",
+     "_pos": [
+      33,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "en": "electronics",
+     "fr": "l'électroménager",
+     "de": "die Elektroartikel",
+     "es": "los aparatos eléctricos",
+     "it": "gli articoli elettronici",
+     "_pos": [
+      463,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "china",
+     "fr": "la porcelaine",
+     "de": "das Porzellan",
+     "es": "las vajillas",
+     "it": "la porcellana",
+     "_pos": [
+      248,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lighting",
+     "fr": "l'éclairage",
+     "de": "die Lampen",
+     "es": "la iluminación",
+     "it": "l'illuminazione",
+     "_pos": [
+      678,
+      794
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kitchenware",
+     "fr": "la vaisselle",
+     "de": "die Küchengeräte",
+     "es": "los artículos de cocina",
+     "it": "gli articoli da cucina",
+     "_pos": [
+      34,
+      795
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stationery",
+     "fr": "la papererie",
+     "de": "die Scheibwaren",
+     "es": "la papelería",
+     "it": "la cancelleria",
+     "_pos": [
+      464,
+      1042
+     ],
+     "_flags": []
+    },
+    {
+     "en": "groceries",
+     "fr": "l'alimentation",
+     "de": "die Lebensmittelabteilung",
+     "es": "los abarrotes",
+     "it": "il reparto alimentan",
+     "_pos": [
+      678,
+      1042
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sportswear",
+     "fr": "les articles de sport",
+     "de": "die Sportartikel",
+     "es": "los artículos deportivos",
+     "it": "gli articoli sportivi",
+     "_pos": [
+      35,
+      1043
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toys",
+     "fr": "les jouets",
+     "de": "die Spielwaren",
+     "es": "la juguetería",
+     "it": "i giocattoli",
+     "_pos": [
+      249,
+      1043
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 0,
+  "flagged": 16,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,591 @@
+{
+ "page": 165,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Work",
+  "fr": "Le travail",
+  "de": "Die Arbeit",
+  "es": "El trabajo",
+  "it": "Il lavoro"
+ },
+ "macro_slug": "lavoro",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "computer",
+   "names": {
+    "en": "computer",
+    "fr": "l'ordinateur",
+    "de": "der computer",
+    "es": "la computadora",
+    "it": "il computer"
+   },
+   "entries": [
+    {
+     "en": "printer",
+     "fr": "imprimante",
+     "de": "Drucker",
+     "es": "impresora",
+     "it": "stampante",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 7,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "monitor",
+     "fr": "moniteur",
+     "de": "Monitor",
+     "es": "monitor",
+     "it": "monitor",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "screen",
+     "fr": "écran",
+     "de": "Bildschirm",
+     "es": "pantalla",
+     "it": "çrhprmn",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "CPU",
+     "fr": "Puniré cenrrale",
+     "de": "Zentraleinheit",
+     "es": "C P U . il CPU",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 14,
+      "de": 14,
+      "es": 8
+     }
+    },
+    {
+     "en": "scanner",
+     "fr": "scanneur",
+     "de": "Scanner",
+     "es": "escáner",
+     "it": "scanner",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "speaker « le haut-parleur",
+     "de": "Lautsprecher",
+     "es": "bocina",
+     "it": "altoparlante",
+     "_multi": [
+      "en"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 20,
+      "de": 12,
+      "es": 6,
+      "it": 12
+     }
+    },
+    {
+     "en": "mouse",
+     "fr": "souris",
+     "de": "Maus",
+     "es": "ratón",
+     "it": "mouse",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "fr": "touche",
+     "de": "Taste",
+     "es": "tecla",
+     "it": "tasto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "fr": 6,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "clavier",
+     "de": "Tastatur",
+     "es": "teclado",
+     "it": "tastiera",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "hardware",
+     "fr": "matériel",
+     "de": "Hardware",
+     "es": "hardware",
+     "it": "hardware",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "memory",
+     "fr": "mémoire",
+     "de": "Speicher",
+     "es": "memoria",
+     "it": "memoria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "server",
+     "fr": "serveur",
+     "de": "Server",
+     "es": "servidor",
+     "it": "server",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "software",
+     "fr": "logiciel",
+     "de": "Software",
+     "es": "software",
+     "it": "software",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "disk",
+     "fr": "disque",
+     "de": "Diskette",
+     "es": "disquete",
+     "it": "dischetto",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "laptop",
+     "fr": "portable",
+     "de": "Laptop",
+     "es": "laptop",
+     "it": "computer portatile",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 6,
+      "es": 6,
+      "it": 17
+     }
+    },
+    {
+     "en": "RAM",
+     "fr": "R A M",
+     "de": "RAM",
+     "es": "R A M",
+     "it": "RAM",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "application",
+     "fr": "application",
+     "de": "Anwendung",
+     "es": "lu aplicación",
+     "it": "applicazione",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 9,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "port",
+     "fr": "port",
+     "de": "Port",
+     "es": "puerto",
+     "it": "porta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "hard drive",
+     "fr": "disque dur",
+     "de": "Festplattenlaufwerk",
+     "es": "disco duro",
+     "it": "hard drive",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 19,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "bytes",
+     "fr": "bytes",
+     "de": "Bytes",
+     "es": "bytes",
+     "it": "byte",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "program",
+     "fr": "programme",
+     "de": "Programm",
+     "es": "programa",
+     "it": "programma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "power cable",
+     "fr": "câble électrique",
+     "de": "Strom kabel",
+     "es": "cable de alimentación",
+     "it": "cavo di alimentazione",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 15,
+      "de": 10,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "modem",
+     "fr": "modem",
+     "de": "Modem",
+     "es": "módem",
+     "it": "modem",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "system",
+     "fr": "système",
+     "de": "System",
+     "es": "sistema",
+     "it": "sistema",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "network",
+     "fr": "réseau",
+     "de": "Netzwerk",
+     "es": "red",
+     "it": "rete",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 8,
+      "es": 3,
+      "it": 4
+     }
+    },
+    {
+     "en": "processor",
+     "fr": "processeur",
+     "de": "Prozessor",
+     "es": "procesador",
+     "it": "processare",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 9,
+      "es": 10,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

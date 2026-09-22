@@ -1,0 +1,423 @@
+{
+ "page": 263,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "tempo-libero",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "header_raw": "LEISU R E • L E T E M P S LIBRE • DIE FREIZEIT • EL OCIO • IL TEMPO LIBERO",
+ "groups": [
+  {
+   "names_raw": null,
+   "parts": null,
+   "entries": [
+    {
+     "en": "stitch",
+     "fr": "le point",
+     "de": "der Stich",
+     "es": "la puntada",
+     "_pos": [
+      280,
+      73
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "tack (v)",
+     "fr": "bâtir",
+     "de": "heften",
+     "es": "hilvanar",
+     "it": "imbastire",
+     "_pos": [
+      540,
+      236
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cut (v)",
+     "fr": "couper",
+     "de": "schneiden",
+     "es": "cortar",
+     "it": "tagliare",
+     "_pos": [
+      710,
+      236
+     ],
+     "_flags": []
+    },
+    {
+     "en": "darn (v)",
+     "fr": "repriser",
+     "de": "stopfen",
+     "es": "zurcir",
+     "it": "rammendare",
+     "_pos": [
+      370,
+      236
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sew (v)",
+     "fr": "coudre",
+     "de": "nähen",
+     "es": "coser",
+     "it": "cucire",
+     "_pos": [
+      200,
+      237
+     ],
+     "_flags": []
+    },
+    {
+     "en": "thread (v)",
+     "fr": "enfiler",
+     "de": "einfädeln",
+     "es": "ensartar",
+     "it": "infilare",
+     "_pos": [
+      30,
+      238
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crochet hook",
+     "fr": "le crochet",
+     "de": "der Häkelhaken",
+     "es": "la aguja de ganchillo",
+     "it": "l'uncinetto",
+     "_pos": [
+      378,
+      302
+     ],
+     "_flags": []
+    },
+    {
+     "en": "patchwork",
+     "fr": "le patchwork",
+     "de": "das Patchwork",
+     "es": "la labor de retales",
+     "it": "il patchwork",
+     "_pos": [
+      712,
+      464
+     ],
+     "_flags": []
+    },
+    {
+     "en": "embroidery",
+     "fr": "la broderie",
+     "de": "die Stickerei",
+     "es": "el bordado",
+     "it": "il ricamo",
+     "_pos": [
+      201,
+      466
+     ],
+     "_flags": []
+    },
+    {
+     "en": "crochet",
+     "fr": "le crochet",
+     "de": "das Häkeln",
+     "es": "el ganchillo",
+     "it": "l'uncinetto",
+     "_pos": [
+      372,
+      466
+     ],
+     "_flags": []
+    },
+    {
+     "en": "macramé",
+     "fr": "le m acram é",
+     "de": "das Makramee",
+     "es": "el m acram é",
+     "it": "il macramè",
+     "_pos": [
+      542,
+      466
+     ],
+     "_flags": [
+      "fr:short:m",
+      "fr:short:é",
+      "es:short:m",
+      "es:short:é"
+     ]
+    },
+    {
+     "en": "needlepoint",
+     "fr": "la tapisserie",
+     "de": "die Tapisserie",
+     "es": "el Bordado en cañamazo",
+     "it": "la punta dell'ago",
+     "_pos": [
+      32,
+      467
+     ],
+     "_flags": [
+      "es:case"
+     ]
+    },
+    {
+     "en": "loom",
+     "fr": "le mener à tisser",
+     "de": "der Webstuhl",
+     "es": "el telar",
+     "it": "il telaio",
+     "_pos": [
+      372,
+      564
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lace bobbin",
+     "fr": "le fuseau",
+     "de": "der Klöppel",
+     "es": "el bolillo",
+     "it": "la spoletta",
+     "_pos": [
+      120,
+      565
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nylon",
+     "fr": "le nylon",
+     "de": "das Nylon",
+     "es": "el nailon",
+     "it": "il nailon",
+     "_pos": [
+      702,
+      579
+     ],
+     "_flags": []
+    },
+    {
+     "en": "unpick (v)",
+     "fr": "défaire",
+     "de": "auftrennen",
+     "es": "descoser",
+     "it": "scucire",
+     "_pos": [
+      557,
+      581
+     ],
+     "_flags": []
+    },
+    {
+     "en": "silk",
+     "fr": "la soie",
+     "de": "die Seide",
+     "es": "la seda",
+     "it": "la seta",
+     "_pos": [
+      702,
+      678
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fabric",
+     "fr": "le tissu",
+     "de": "der Stoff",
+     "es": "la tela",
+     "it": "la tela",
+     "_pos": [
+      558,
+      680
+     ],
+     "_flags": []
+    },
+    {
+     "en": "designer",
+     "fr": "le styliste",
+     "de": "der Modedesigner",
+     "es": "el diseñador",
+     "it": "lo stilista",
+     "_pos": [
+      703,
+      776
+     ],
+     "_flags": []
+    },
+    {
+     "en": "weaving",
+     "fr": "le tissage",
+     "de": "die Weberei",
+     "es": "tejer",
+     "it": "la tessitura",
+     "_pos": [
+      374,
+      778
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cotton",
+     "fr": "le coton",
+     "de": "die Baumwolle",
+     "es": "el algodón",
+     "it": "il cotone",
+     "_pos": [
+      558,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lace making",
+     "fr": "la dentelle",
+     "de": "die Spitzenklöppelei",
+     "es": "la labor de encaje",
+     "it": "la fabbricazione dei merletti",
+     "_pos": [
+      204,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "quilting",
+     "fr": "le ouatage",
+     "de": "das Wattieren",
+     "es": "el acolchado",
+     "it": "il trapunto",
+     "_pos": [
+      34,
+      779
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fashion",
+     "fr": "la mode",
+     "de": "die Mode",
+     "es": "la moda",
+     "it": "la moda",
+     "_pos": [
+      704,
+      875
+     ],
+     "_flags": []
+    },
+    {
+     "en": "linen",
+     "fr": "le lin",
+     "de": "das Leinen",
+     "es": "el lino",
+     "it": "il lino",
+     "_pos": [
+      560,
+      877
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yam",
+     "fr": "la laine",
+     "de": "die Wolle",
+     "es": "la lana",
+     "it": "la lana",
+     "_pos": [
+      468,
+      893
+     ],
+     "_flags": []
+    },
+    {
+     "en": "knitting needle",
+     "fr": "Paiguille à tricoter",
+     "de": "die Stricknadel",
+     "es": "la aguja de tejer",
+     "it": "il ferro da calza",
+     "_pos": [
+      194,
+      893
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "zipper",
+     "fr": "la fermeture éclair",
+     "de": "der Reißverschluss",
+     "es": "la cremallera",
+     "it": "la chiusura lampo",
+     "_pos": [
+      704,
+      973
+     ],
+     "_flags": []
+    },
+    {
+     "en": "polyester",
+     "fr": "le polyester",
+     "de": "das Polyester",
+     "es": "el poliéster",
+     "it": "il poliestere",
+     "_pos": [
+      560,
+      974
+     ],
+     "_flags": []
+    },
+    {
+     "en": "skein",
+     "fr": "Péche veau",
+     "de": "der Strang",
+     "es": "la madeja",
+     "it": "la matassa",
+     "_pos": [
+      308,
+      1040
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "knitting",
+     "fr": "le tricot",
+     "de": "das Stricken",
+     "es": "la labor de punto",
+     "it": "il lavoro a maglia",
+     "_pos": [
+      36,
+      1042
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 31,
+  "complete_clean": 11,
+  "flagged": 20,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 0
+ }
+}

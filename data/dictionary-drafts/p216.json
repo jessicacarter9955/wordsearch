@@ -1,0 +1,301 @@
+{
+ "page": 216,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SP O R TS ♦ LES S P O R T S • DER SPORT • L O S D E P O R T E S • 6LI SPORT",
+ "groups": [
+  {
+   "names_raw": "actions • les actions • die Aktionen • las acciones",
+   "parts": [
+    "actions",
+    "les actions",
+    "die aktionen",
+    "las acciones"
+   ],
+   "entries": [
+    {
+     "fr": "le azioni",
+     "_pos": [
+      454,
+      88
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "foul line",
+     "fr": "la ligne de pénalité",
+     "de": "die Foullinie",
+     "es": "la línea de falta",
+     "_pos": [
+      306,
+      134
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "right field",
+     "fr": "le cham p droir",
+     "de": "das rechte Feld",
+     "es": "el exterior derecho",
+     "it": "il campo destro",
+     "_pos": [
+      172,
+      136
+     ],
+     "_flags": [
+      "fr:short:p"
+     ]
+    },
+    {
+     "en": "outfield",
+     "fr": "le champ extérieur",
+     "de": "das Außenfeld",
+     "es": "el exterior",
+     "it": "il campo esterno",
+     "_pos": [
+      28,
+      137
+     ],
+     "_flags": []
+    },
+    {
+     "en": "catch z",
+     "fr": "attraper",
+     "de": "fangen",
+     "es": "atrapar",
+     "it": "acchiappare",
+     "_pos": [
+      669,
+      304
+     ],
+     "_flags": [
+      "en:short:z"
+     ]
+    },
+    {
+     "en": "throw (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lanzar",
+     "it": "lanciare",
+     "_pos": [
+      456,
+      306
+     ],
+     "_flags": []
+    },
+    {
+     "en": "team",
+     "fr": "l'équipe",
+     "de": "das Team",
+     "es": "el equipo",
+     "it": "la squadra",
+     "_pos": [
+      307,
+      512
+     ],
+     "_flags": []
+    },
+    {
+     "en": "field (v)",
+     "fr": "être en défense",
+     "de": "als Fänger spielen",
+     "es": "defender",
+     "it": "difendere",
+     "_pos": [
+      672,
+      526
+     ],
+     "_flags": []
+    },
+    {
+     "en": "run (v)",
+     "fr": "courir",
+     "de": "rennen",
+     "es": "correr",
+     "it": "correre",
+     "_pos": [
+      459,
+      527
+     ],
+     "_flags": []
+    },
+    {
+     "en": "slide (v)",
+     "fr": "glisser",
+     "de": "rutschen",
+     "es": "barrer",
+     "it": "scivolare",
+     "_pos": [
+      552,
+      567
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dugout",
+     "fr": "le banc de rauche",
+     "de": "die Spielerbank",
+     "es": "la banca",
+     "it": "la fossa",
+     "_pos": [
+      282,
+      662
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tag (v)",
+     "fr": "courser",
+     "de": "hinterherlaufen",
+     "es": "perseguir",
+     "it": "inseguire",
+     "_pos": [
+      461,
+      723
+     ],
+     "_flags": []
+    },
+    {
+     "en": "umpire",
+     "fr": "l'arbitre",
+     "de": "der Schiedsrichter",
+     "es": "el um pire",
+     "it": "l'arbitro",
+     "_pos": [
+      758,
+      754
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bat (v)",
+     "fr": "harter",
+     "de": "schlagen",
+     "es": "hatear",
+     "_pos": [
+      662,
+      756
+     ],
+     "_flags": [
+      "missing:it",
+      "slot-ambig"
+     ],
+     "_alts": [
+      [
+       "en",
+       "fr",
+       "de",
+       "it"
+      ],
+      [
+       "en",
+       "fr",
+       "es",
+       "it"
+      ],
+      [
+       "en",
+       "de",
+       "es",
+       "it"
+      ]
+     ]
+    },
+    {
+     "en": "pitch (v)",
+     "fr": "lancer",
+     "de": "werfen",
+     "es": "lan/.ar",
+     "it": "servire",
+     "_pos": [
+      462,
+      757
+     ],
+     "_flags": [
+      "es:weird:lan/.ar"
+     ]
+    },
+    {
+     "en": "catcher",
+     "fr": "le receveur",
+     "de": "der Fänger",
+     "es": "el catcher",
+     "it": "I ricevitore",
+     "_pos": [
+      40,
+      1022
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "pitcher",
+     "fr": "le lanceur",
+     "de": "der Werfer",
+     "es": "el pitcher",
+     "it": "il pitcher",
+     "_pos": [
+      251,
+      1022
+     ],
+     "_flags": []
+    },
+    {
+     "en": "play (v)",
+     "fr": "jouer",
+     "de": "spielen",
+     "es": "jugar",
+     "it": "giocare",
+     "_pos": [
+      464,
+      1052
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "229",
+   "pos": [
+    836,
+    1085
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 3,
+  "flagged": 15,
+  "missing_lang": 3,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "page": 105,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LAS C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "newsstand • le marchand de journaux • der Zeitungshändler • los tabacos y las revistas • l'edicola",
+   "parts": [
+    "newsstand",
+    "le marchand de journaux",
+    "der zeitungshändler",
+    "los tabacos y las revistas",
+    "l'edicola"
+   ],
+   "entries": [
+    {
+     "en": "cigarettes",
+     "fr": "les cigarettes",
+     "de": "die Zigaretten",
+     "es": "los cigarros",
+     "it": "le sigarette",
+     "_pos": [
+      665,
+      137
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pack of cigarettes",
+     "fr": "le paquet de cigarettes",
+     "de": "das Päckchen Zigaretten",
+     "es": "la cajetilla de cigarros",
+     "it": "il pacchetto di sigarette",
+     "_pos": [
+      664,
+      237
+     ],
+     "_flags": []
+    },
+    {
+     "en": "matches",
+     "fr": "les allumettes",
+     "de": "die Streichhölzer",
+     "es": "los cerillos",
+     "it": "i fiammiferi",
+     "_pos": [
+      664,
+      336
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lottery tickets",
+     "fr": "les billets de loterie",
+     "de": "die Lottoscheine",
+     "es": "los billetes de lotería",
+     "it": "i biglietti della lotteria",
+     "_pos": [
+      664,
+      433
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stamps",
+     "fr": "les timbres",
+     "de": "die Briefmarken",
+     "es": "los tim bres",
+     "it": "i francobolli",
+     "_pos": [
+      50,
+      531
+     ],
+     "_flags": []
+    },
+    {
+     "en": "postcard",
+     "fr": "la carte postale",
+     "de": "die Postkarte",
+     "es": "la tarjeta postai",
+     "it": "la cartolina",
+     "_pos": [
+      50,
+      763
+     ],
+     "_flags": []
+    },
+    {
+     "en": "comic",
+     "fr": "la bande dessinée",
+     "de": "das Comicheft",
+     "es": "la historieta il giornalino a fumetti",
+     "_pos": [
+      264,
+      764
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "magazine",
+     "fr": "le magazine",
+     "de": "die Zeitschrift",
+     "es": "la revista",
+     "it": "la rivista",
+     "_pos": [
+      480,
+      765
+     ],
+     "_flags": []
+    },
+    {
+     "en": "newspaper",
+     "fr": "le journal",
+     "de": "die Zeitung",
+     "es": "el periódico",
+     "it": "il giornale",
+     "_pos": [
+      694,
+      765
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "smoking • fumer • das Rauchen • fum ar • fumare",
+   "parts": [
+    "smoking",
+    "fumer",
+    "das rauchen",
+    "fumar",
+    "fumare"
+   ],
+   "entries": [
+    {
+     "en": "stem",
+     "fr": "le tuyau",
+     "de": "der Stiel",
+     "es": "el tubo",
+     "it": "la cannuccia",
+     "_pos": [
+      560,
+      864
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bowl",
+     "fr": "le fourneau",
+     "de": "der Kopf",
+     "es": "la cazoleta",
+     "it": "il fornello",
+     "_pos": [
+      418,
+      946
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tobacco",
+     "fr": "le tabac",
+     "de": "der Tabak",
+     "es": "el tabaco",
+     "it": "il tabacco",
+     "_pos": [
+      50,
+      1044
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lighter",
+     "fr": "le briquet",
+     "de": "das Feuerzeug",
+     "es": "el encendedor",
+     "it": "l'accendino",
+     "_pos": [
+      264,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pipe",
+     "fr": "la pipe",
+     "de": "die Pfeife",
+     "es": "la pipa",
+     "it": "la pipa",
+     "_pos": [
+      479,
+      1045
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cigar",
+     "fr": "le cigare",
+     "de": "die Zigarre",
+     "es": "el puro",
+     "it": "il sigaro",
+     "_pos": [
+      693,
+      1047
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 15,
+  "complete_clean": 6,
+  "flagged": 9,
+  "missing_lang": 1,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

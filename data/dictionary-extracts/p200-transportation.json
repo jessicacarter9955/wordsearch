@@ -1,0 +1,554 @@
+{
+ "page": 200,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "aeroporto",
+   "names": {
+    "en": "airport",
+    "fr": "l'aéroport",
+    "de": "der flughafen",
+    "es": "el aeropuerto",
+    "it": "l'aeroporto"
+   },
+   "entries": [
+    {
+     "en": "apron",
+     "fr": "aire de stationnement",
+     "de": "Vorfeld",
+     "es": "pista de estacionamiento",
+     "it": "area di stazionamento",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 19,
+      "de": 7,
+      "es": 22,
+      "it": 19
+     }
+    },
+    {
+     "en": "baggage trailer",
+     "fr": "porte-bagages",
+     "de": "Gepäckanhänger",
+     "es": "remolque del equipaje",
+     "it": "carrello portabagagli",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 12,
+      "de": 14,
+      "es": 19,
+      "it": 20
+     }
+    },
+    {
+     "en": "terminal",
+     "fr": "terminal",
+     "de": "Terminal",
+     "es": "terminal",
+     "it": "terminale",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 8,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "service vehicle",
+     "fr": "véhicule de service",
+     "de": "Versorgungsfahrzeug",
+     "es": "vehículo de servicio",
+     "it": "veicolo di servizio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 17,
+      "de": 19,
+      "es": 18,
+      "it": 17
+     }
+    },
+    {
+     "en": "I et way",
+     "fr": "passerelle",
+     "de": "Fluggastbrucke",
+     "es": "pasarela",
+     "it": "passaggio pedonale",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 14,
+      "es": 8,
+      "it": 17
+     }
+    },
+    {
+     "en": "airliner",
+     "fr": "avion de ligne",
+     "de": "Verkehrsflugzeug",
+     "es": "avión del inca",
+     "it": "aereo di linea",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 16,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "amway",
+     "fr": "piste",
+     "de": "Start- und Landebahn",
+     "es": "«",
+     "it": "pista la pista",
+     "_multi": [
+      "de",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 17,
+      "es": 0,
+      "it": 12
+     }
+    },
+    {
+     "en": "flight number",
+     "fr": "num ero de voi",
+     "de": "Flugnummer",
+     "es": "c i num ero de vuelo",
+     "it": "numero del volo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 10,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "baggage carousel",
+     "fr": "tapis roulant",
+     "de": "Gepackband",
+     "es": "banda transportadora",
+     "it": "nastro trasportatore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 12,
+      "de": 10,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "vacation",
+     "fr": "vacances",
+     "de": "Urlaub",
+     "es": "vacaciones",
+     "it": "vacanza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "der",
+      "es": "las",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 6,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "international flight",
+     "fr": "voi international",
+     "de": "Auslandsflug",
+     "es": "vuelo internacional",
+     "it": "volo internazionale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 19,
+      "fr": 16,
+      "de": 12,
+      "es": 18,
+      "it": 18
+     }
+    },
+    {
+     "en": "immigration",
+     "fr": "immigration",
+     "de": "Passkontrolle",
+     "es": "migración",
+     "it": "controllo passaporti",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 13,
+      "es": 9,
+      "it": 19
+     }
+    },
+    {
+     "en": "security",
+     "fr": "sécurité",
+     "de": "Sicherheitsvorkehrungen",
+     "es": "seguridad",
+     "it": "sicurezza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 23,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "make a flight reservation (v)",
+     "fr": "faire une réservation de vol",
+     "de": "einen Flug buchen",
+     "es": "reservar un vuelo",
+     "it": "prenotare un volo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 23,
+      "fr": 24,
+      "de": 15,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "domestic flight",
+     "fr": "vol domestique",
+     "de": "Inlandsflug",
+     "es": "vuelo nacional",
+     "it": "volo nazionale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 13,
+      "de": 11,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "customs",
+     "fr": "douane",
+     "de": "Zoll",
+     "es": "aduana",
+     "it": "dogana",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 4,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "ray machine",
+     "fr": "machine de rayons x",
+     "de": "Gepäckröntgenmaschine",
+     "es": "máquina de rayos x",
+     "it": "apparecchio a raggi x",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 16,
+      "de": 21,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "check in (v)",
+     "fr": "enregistrer",
+     "de": "einchecken",
+     "es": "hacer check-in",
+     "it": "fare il chcck-in",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "connection",
+     "fr": "correspondance",
+     "de": "Flugverbindung",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 14
+     }
+    },
+    {
+     "en": "excess baggage",
+     "fr": "excédent de bagages",
+     "de": "Übergepäck",
+     "es": "exceso de equipaje",
+     "it": "bagaglio in eccedenza",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 17,
+      "de": 10,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "en": "travel brochure",
+     "fr": "brochure de vacances",
+     "de": "Urlaubsprospekt",
+     "es": "folleto de viajes",
+     "it": "opuscolo vacanze",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 18,
+      "de": 15,
+      "es": 15,
+      "it": 15
+     }
+    },
+    {
+     "en": "control tower",
+     "fr": "tour de contrôle",
+     "de": "Kontrollturm",
+     "es": "torre do control",
+     "it": "torre di controllo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 12,
+      "es": 14,
+      "it": 16
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

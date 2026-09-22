@@ -1,0 +1,448 @@
+{
+ "page": 30,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Appearance",
+  "fr": "L'apparence",
+  "de": "Die äußere Erscheinung",
+  "es": "La apariencia",
+  "it": "L'aspetto"
+ },
+ "macro_slug": "aspetto",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "abbigliamento-uomo",
+   "names": {
+    "en": "men's clothing",
+    "fr": "les vêtements pour hommes",
+    "de": "die Herrenkleidung",
+    "es": "la ropa de caballero",
+    "it": "l'abbigliamento da uomo"
+   },
+   "entries": [
+    {
+     "en": "v-neck",
+     "fr": "encolure en V",
+     "de": "V-Ausschnitt",
+     "es": "cuello en V",
+     "it": "collo a V",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 11,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "crew neck",
+     "fr": "col rond",
+     "de": "runde Ausschnitt",
+     "es": "cuello redondo",
+     "it": "girocollo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 15,
+      "es": 13,
+      "it": 9
+     }
+    },
+    {
+     "en": "vest",
+     "fr": "gilet",
+     "de": "Weste",
+     "es": "chaleco",
+     "it": "gilet",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 5,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "sport coat",
+     "fr": "veste de sport",
+     "de": "Sportjackett",
+     "es": "saco sport",
+     "it": "giacca sportiva",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 12,
+      "es": 9,
+      "it": 14
+     }
+    },
+    {
+     "en": "blazer",
+     "fr": "blazer",
+     "de": "Blazer",
+     "es": "saco",
+     "it": "blazer",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "t-shirt",
+     "fr": "t-shirt",
+     "de": "T-Shirt",
+     "es": "camiseta",
+     "it": "maglietta",
+     "_multi": [],
+     "_hyphen": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "windbreaker",
+     "fr": "coupe-vcnt",
+     "de": "Windjacke",
+     "es": "chamarra",
+     "it": "giacca a vento",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 9,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "sweatshirt",
+     "fr": "sweat-shirt",
+     "de": "Sweatshirt",
+     "es": "sudadera",
+     "it": "felpa",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 10,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "parka",
+     "fr": "anorak",
+     "de": "Anorak",
+     "es": "chaquetón",
+     "it": "giaccone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "sweatpants",
+     "fr": "pantalon de jogging",
+     "de": "Trainingshose",
+     "es": "pants",
+     "it": "pantaloni di felpa",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 17,
+      "de": 13,
+      "es": 5,
+      "it": 16
+     }
+    },
+    {
+     "en": "sportswear",
+     "fr": "vêtements sport",
+     "de": "Freizeitkleidung",
+     "es": "ropa casual",
+     "it": "casual",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 16,
+      "es": 10,
+      "it": 6
+     }
+    },
+    {
+     "en": "undershirt",
+     "fr": "tricot de corps",
+     "de": "Unterhemd",
+     "es": "camiseta de tirantes",
+     "it": "canottiera",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 9,
+      "es": 18,
+      "it": 10
+     }
+    },
+    {
+     "en": "pajamas",
+     "fr": "pyjama",
+     "de": "Schlafanzug",
+     "es": "piyama",
+     "it": "pigiama",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "sweater",
+     "fr": "pullover",
+     "de": "Pullover",
+     "es": "suéter",
+     "it": "maglione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "socks",
+     "fr": "chaussettes",
+     "de": "Socken",
+     "es": "calcetines",
+     "it": "calzini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 11,
+      "de": 6,
+      "es": 10,
+      "it": 7
+     }
+    },
+    {
+     "en": "boxer shorts",
+     "fr": "caleçon",
+     "de": "Boxershorts",
+     "es": "boxers",
+     "it": "boxer",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 7,
+      "de": 11,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "briefs",
+     "fr": "slip",
+     "de": "Slip",
+     "es": "calzoncillos",
+     "it": "slip",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "los",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 4,
+      "es": 12,
+      "it": 4
+     }
+    },
+    {
+     "en": "shorts",
+     "fr": "short",
+     "de": "Shorts",
+     "es": "shorts",
+     "it": "calzoncini",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 6,
+      "es": 6,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Titolo di sezione a metà pagina illeggibile nell'OCR (':d rJR'): voci unite al gruppo abbigliamento uomo."
+}

@@ -1,0 +1,297 @@
+====================================================================================================
+== p097 [acquisti] 20 voci, 6 flag, 1 mancanti, 5 leftover, header=S H O P P IN G • LES C O U R S E S • DER EINKAUF • LAS C O ~
+-- G0 subcat: shopping mall • le centre commercial • das Einkaufszentrum • el centro comercia~
+   parts: shopping mall • le centre commercial • das einkaufszentrum • el centro comercial • il centr~
+ 0.0  M atrium | l'atrium | das Atrium | el atrio | l'atrio   
+ 0.1  M third floor | le deuxième étage | die zweite Etage | el segundo piso | il secondo piano   
+ 0.2  ⚠ sign | Penseignc | das Schild | el letrero | l'insegna   fr
+ 0.3  M second floor | le premier étage | die erste Etage | el primer piso | il primo piano   
+ 0.4  M escalator | l'escalier mécan~ | die Rolltreppe | la escalera eléc~ | la scala mobile   
+ 0.5  ⚠ » | ? | ? | ? | ?   en missing
+ 0.6  M elevator | l'ascenseur | der Fahrstuhl | el elevador | l'ascensore   
+ 0.7  M ground floor | le rez-de-chauss~ | das Erdgeschoss | la planta haja | il piano terra   
+ 0.8  ⚠ customer | le client | der Kunde | el diente | I diente   it
+ 0.9  M childrens depart~ | le rayon enfants | die Kinderabteil~ | el departamento ~ | il reparto bambi~   
+ 0.10 M store directory | le guide | die Anzeigetafel | el directorio | la guida al nego~   
+ 0.11 M fitting rooms | les cabines d'es~ | die Anprobe | los probadores | i camerini   
+ 0.12 ⚠ H ow much is thi~ | C 'est combien? | Was kostet das? | C uanto cuesta e~ | Quanto costa que~   de en es fr it
+ 0.13 M luggage departme~ | le rayon bagages | die Gepackabteil~ | el departamento ~ | il reparto bagag~   
+ 0.14 M sales clerk | le vendeur | der Verkäufer | el vendedor | il commesso   
+ 0.15 M baby changing ro~ | les soins de béb~ | der Wickelraum | el cuarto para c~ | la stanza di cam~   
+ 0.16 ⚠ May 1 exchange t~ | list-ce que je p~ | Kann ich das Umt~ | Puedo cam biar e~ | Posso cambiare q~   de en es fr it
+ 0.17 M shoe department | le rayon chaussu~ | die Schuhabteilu~ | el departamento ~ | il reparto calza~   
+ 0.18 M rest room | les toilettes | die Toiletten | los baños | le toilettes   
+ 0.19 M customer services | le service après~ | der Kundendienst | el servicio al c~ | l'assistenza ai ~   
+   LEFT 'M' @[480, 441] (riga singola isolata)
+   LEFT 'i' @[520, 441] (riga singola isolata)
+   LEFT 'á £ ¡' @[596, 463] (riga singola isolata)
+   LEFT '1' @[540, 468] (riga singola isolata)
+   LEFT '«0' @[559, 468] (riga singola isolata)
+====================================================================================================
+== p098 [acquisti] 16 voci, 16 flag, 0 mancanti, 0 leftover, header=S H O P P IN G • I ES C O U R S E S • DER EINKAUF • L A S C~
+-- G0 subcat: department store • le grand magasin • das Kaufhaus • las tiendas departamentale~
+   parts: department store • le grand magasin • das kaufhaus • las tiendas departamentales • il grand~
+ 0.0  M womenswear | les vêtement pou~ | die Damenoberbek~ | la ropa de dama | l'abbigliamento ~   
+ 0.1  M menswear | les vêtements po~ | die Herrenbeklei~ | la ropa de cabal~ | l'abbigliamento ~   
+ 0.2  M lingerie | la lingerie | die Damenwäsche | la lencería | la biancheria in~   
+ 0.3  M perfumes | la parfumerie | die Parfümerie | la perfumería | la profumeria   
+ 0.4  M notions | la mercerie | die Kurzwaren | lamer ce ria | la merceria   
+ 0.5  M linens | le linge de mais~ | die Wasche | los blancos | la biancheria   
+ 0.6  ⚠ home furnishings | l'ameublement | die Möbel | el m obiliano pa~ | l'arreda mento p~   es
+ 0.7  M cosmetics | la beauté | die Schönheitspf~ | los cosm éticos | la bellezza   
+ 0.8  M electronics | l'électroménager | die Elektroartik~ | los aparatos elé~ | gli articoli ele~   
+ 0.9  M china | la porcelaine | das Porzellan | las vajillas | la porcellana   
+ 0.10 M lighting | l'éclairage | die Lampen | la iluminación | l'illuminazione   
+ 0.11 M kitchenware | la vaisselle | die Küchengeräte | los artículos de~ | gli articoli da ~   
+ 0.12 M stationery | la papererie | die Scheibwaren | la papelería | la cancelleria   
+ 0.13 M groceries | l'alimentation | die Lebensmittel~ | los abarrotes | il reparto alime~   
+ 0.14 M sportswear | les articles de ~ | die Sportartikel | los artículos de~ | gli articoli spo~   
+ 0.15 M toys | les jouets | die Spielwaren | la juguetería | i giocattoli   
+====================================================================================================
+== p099 [acquisti] 15 voci, 10 flag, 0 mancanti, 1 leftover, header=S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LA S C ~
+-- G0 subcat: superm arket • le supermarché • der Supermarkt • el supermercado • ¡I superm er~
+   parts: supermarket • le supermarché • der supermarkt • el supermercado • i supermercato
+ 0.0  M checkout counter | le tapis roulant | das Laufband | la banda transpo~ | il nastro convog~   
+ 0.1  M cashier | le caissier | der Kassierer | el cajero | il cassiere   
+ 0.2  M offers | les promotions | die Angebote | las ofertas | le offerte   
+ 0.3  M aisle | l'allée | der Gang | el pasillo | il passaggio   
+ 0.4  M shelf | l'etagere | das Warenregal | el estante | lo scaffale   
+ 0.5  ⚠ customer | le d ien t | der Kunde | el cliente | il cliente   fr
+ 0.6  M cash registe | la caisse | die Kasse | la caja | la cassa   
+ 0.7  ⚠ Checkout | la caisse | die Kasse | la caja | la cassa   en
+ 0.8  M shopping bag | la sac à provisi~ | die Einkaufstasc~ | la bolsa | la busta della s~   
+ 0.9  M groceries | les provisions | die Lebensmittel | la compra | la spesa   
+ 0.10 M handle | l'anse | der Henkel | el asa | il manico   
+ 0.11 M bar code | le code barres | der Strichkode | el código de bar~ | il codice a barre   
+ 0.12 M grocery cart | le caddie | der Einkaufswagen | el carrito | il carrello   
+ 0.13 M basket | le panier | der Einkaufskorb | la canasta | il cestino   
+ 0.14 M scanner | le lecteur optiq~ | der Scanner | el escáner | il lettore ottico   
+   LEFT '7808631' @[730, 843] (riga singola isolata)
+====================================================================================================
+== p100 [acquisti] 19 voci, 19 flag, 1 mancanti, 0 leftover, header=S H O P P IN G • I F.S C O U R S E S • DER EINKAUF • LAS C ~
+-- G0 subcat: (nessuna)
+ 0.0  M breakfast cereals | les céréales | die Getreidefloc~ | los cereales | i cereali da col~   
+ 0.1  M canned goods | les conserves | die Konserven | las conservas | lo scatolame   
+ 0.2  M candies | la confisene | die Süßwaren | la dulcería | i dolci   
+ 0.3  ⚠ bakery | la boulangerie | die Backwaren « ~ | ? | il pane   de missing
+ 0.4  M dairy | la crémerie | die Milchprodukte | los lácteos | i latticini   
+ 0.5  M fish | le poisson | der Fisch | el pescado | il pesce   
+ 0.6  M fruits | les fruits | das Obst | la fruta | la frutta   
+ 0.7  M meat and poultry | la viande et la ~ | das Fleisch und ~ | la carne y las a~ | la carne e il po~   
+ 0.8  M deli | la charcuterie | die Feinkost | la charcutería | i salumi   
+ 0.9  ⚠ vegetables | les légumes | das Gemüse | I a verdura | le verdure   es
+ 0.10 M household produc~ | les produits d'e~ | die Haushaltswar~ | los productos de~ | i casalinghi   
+ 0.11 M toiletnes | les articles de ~ | die Toilettenart~ | los artículos de~ | i prodotti per i~   
+ 0.12 M drinks | les boissons | die Getränke | las bebidas | le bibite   
+ 0.13 M prepared food | les plats cuisin~ | die Fertiggerich~ | los platos prepa~ | i cibi cotti   
+ 0.14 M frozen food | les produits sur~ | die Gefrierware | los congelados | i surgelati   
+ 0.15 M pet food | la nourriture po~ | das Tierfutter | la comida para a~ | il cibo per anim~   
+ 0.16 M electncal goods | l'électroménager | die Elektroartik~ | los electrodom é~ | gli elettrodomes~   
+ 0.17 M baby products | les articles pou~ | die Babyprodukte | los artículos pa~ | i prodotti per b~   
+ 0.18 M magazines | les magazines | die Zeitschriften | las revistas | le riviste   
+====================================================================================================
+== p101 [acquisti] 18 voci, 9 flag, 1 mancanti, 1 leftover, header=SHOPPING • LUS COURSES • DER EINKAUF • LAS COMPRAS • GLI AC~
+-- G0 subcat: chemist • la pharmacie • die Apotheke • la farmacia • la farmacia
+   parts: chemist • la pharmacie • die apotheke • la farmacia • la farmacia
+ 0.0  M dentai care | le soin dentaire | die Zahnpflege | el cuidado dental | i prodotti per i~   
+ 0.1  M feminine hygiene | l'hygiène fémini~ | die Monatshygiene | la higiene femen~ | l'igiene femmini~   
+ 0.2  M deodorants | les déodorants | die Deos | los desodorantes | i deodoranti   
+ 0.3  M vitamins | les cachets de v~ | die Vitamintable~ | las vitam inas | le vitamine   
+ 0.4  M pharmacy | l'officine | die Apotheke | el dispensario | il dispensario   
+ 0.5  M pharmacist | le pharmacien | der Apotheker | el farmacéutico | il farmacista   
+-- G1 subcat: S3
+   parts: s
+ 1.0  M cough medicine | le médicament po~ | das Hustenmedika~ | el jarabe para l~ | la medicina per ~   
+ 1.1  M herbal remedies | l'herboristerie | Krauterheilmittel | los remedios nat~ | i rimedi alle er~   
+ 1.2  M skin care | les soins de la ~ | die Hautpflege | el cuidado de la~ | i prodotti per l~   
+ 1.3  M aftersun care | l'après-soleil | die AfterSun-Lot~ | la crema para de~ | il doposole   
+ 1.4  ⚠ sunscreen | l'écran solaire ~ | ? | la crema protect~ | la crema schermo   missing
+ 1.5  M sun block | l'écran total | der Sonnenblock | la crema protect~ | la crema schermo~   
+ 1.6  M insect repellent | le produit anti ~ | das Insektenschu~ | el repelente de ~ | l'insettifugo   
+ 1.7  M wet wipe | la serviette hum~ | das Reinigungstu~ | la toallita húme~ | la salvicttina u~   
+ 1.8  M sanitary napkin | la serviette hyg~ | die Damenbinde | las toallas fem ~ | l'assorbente   
+ 1.9  M tissue | le kleenex | das Papiertasche~ | el pañuelo desec~ | il fazzolettino   
+ 1.10 ⚠ tampon | le tampon | der Tampon | el tam pon | I tampone   it
+ 1.11 M panty liner | le protege-slip | die Slipemlage | el pantiprotector | i salvaslip   
+   LEFT 'O' @[136, 261] (riga singola isolata)
+====================================================================================================
+== p102 [acquisti] 37 voci, 18 flag, 1 mancanti, 1 leftover, header=S H O P P IN G • I FS C O U R S E S • DER EINKAUF • LAS C O~
+-- G0 subcat: (nessuna)
+ 0.0  M measuring spoon | la cuiller pour ~ | der Messlöffel | la su i liara me~ | il cucchiaio mis~   
+ 0.1  ⚠ instructions | le mode d' emploi | die Gebrauchsanw~ | el modo de empleo | le istruzioni v   it
+ 0.2  M inhaler | l'inhalateur | der Inhalierstift | el inhalador | l'inalatore   
+ 0.3  M syrup | le sirop | der Saft | el jarabe | lo sciroppo   
+ 0.4  M pill | la pilule | die Pille | la píldora | la pillola   
+ 0.5  M capsule | la capsule | die Kapsel | la cápsula | la pasticca   
+ 0.6  M suppository | le suppositoire | das Zäpfchen | el supositorio | la supposta   
+ 0.7  M gel | le gel | das Gel | el gel | il gel   
+ 0.8  M ointment | la pommade | die Salbe | la pomada | l'unguento   
+ 0.9  M cream | la crème | die Creme | la crema | la crema   
+ 0.10 M eye dropper | le compte-gouttes | der Tropfer | el gotero | il contagocce   
+ 0.11 M needle | l'aiguillc | die Nadel | la aguja | l'ago   
+ 0.12 ⚠ » % | MSB | ? | ? | ?   en fr missing
+ 0.13 M powder | la poudre | der Puder | los polvos | la polvere   
+ 0.14 M synnge | la seringue | die Spritze | la jeringa | la siringa   
+ 0.15 M eye drops | les gouttes | die 'ropfen | las gotas | le gocce   
+ 0.16 M spray | le spray | der Spray | el spray | lo spray   
+ 0.17 M painkiller | l'analgésique | das Schmerzmittel | el analgésico | l'antidolorifico   
+ 0.18   disposable | jetable | Wegwerf | desechable | monouso   
+ 0.19 M medicine | le médicament | das Medikament | el medicamento | la medicina   
+ 0.20 M multivitamins | le médicament mu~ | das Multivitamin~ | el complejo vita~ | la multivitamina   
+ 0.21 M iron | le fer | das Eisen | el hierro | il ferro   
+ 0.22 M sedative | le sédatif | das Beruhigungsm~ | el calmante | il sedativo   
+ 0.23 M laxative | le laxatif | das Abführmittel | el laxante | il lassativo   
+ 0.24   soluble | soluble | löslich | soluble | solubile   
+ 0.25 M side-effects | les effets secon~ | die Nebenwirkung~ | los efectos secu~ | gli effetti coll~   
+ 0.26 M calcium | le calcium | das Kalzium | el calcio | il calcio   
+ 0.27 M sleeping pill | le somnifère | die Schlaftablet~ | el somnífero | il sonnifero   
+ 0.28 M diarrhea | la diarrhée | der Durchfall | la diarrea | la diarrea   
+ 0.29 M expiration date | la date d' expir~ | das Verfallsdatum | la fecha de cadu~ | la data di scade~   
+ 0.30 M dosage | la posologie | die Dosierung | la dosis | il dosaggio   
+ 0.31 M magnesium | le magnésium | das Magnesium | el magnesio | il magnesio   
+ 0.32 ⚠ anti-inflammatory | I'anti-inflam m ~ | der Entzundungsh~ | el anti inflamat~ | Tantinfiammatorio   fr it
+ 0.33 M medication | la médication | die Verordnung | la medicación | il medicamento   
+ 0.34 M throat lozenge | pastille pour la~ | die Halspastille | la pastilla para~ | la pasticca per ~   
+ 0.35 M travel sickness ~ | les cachets anti~ | die Reisekrankhe~ | las pildoras par~ | le pasticche per~   
+ 0.36 M insulin | l'insuline | das Insulin | la insulina | l'insulina   
+   LEFT '> >' @[274, 558] (riga singola isolata)
+====================================================================================================
+== p103 [acquisti] 15 voci, 5 flag, 0 mancanti, 0 leftover, header=S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LAS C O~
+-- G0 subcat: flohst • le fleuriste • das Blumengeschäft • la florería • il fioraio
+   parts: flohst • le fleuriste • das blumengeschäft • la florería • il fioraio
+ 0.0  M gladiolus | le glaïeul | die Gladiole | la gladiola | il gladiolo   
+ 0.1  M flowers | les fleurs | die Blumen | las flores | i fiori   
+ 0.2  M ins | l'iris | die Iris | el ms | l'iris   
+ 0.3  M lily | le lis | die Lilie | la azucena | il giglio   
+ 0.4  M acacia | l'acacia | die Akazie | la acacia | l'acacia   
+ 0.5  M daisy | la marguerite | die Margerite | la margarita | la margherita   
+ 0.6  M carnation | l'œillet | die Nelke | el clavel | il garofano   
+ 0.7  M chrysanthemum | le chrysanthème | die Chrysantheme | el crisantemo | il crisantemo   
+ 0.8  M gypsophila | la gypsophile | das Schleierkraut | la nube | la gipsofila   
+ 0.9  M potted plant | la plante en pot | die Topfpflanze | la maceta | la pianta da vaso   
+ 0.10 M freesia | le freesia | die Freesie | la fresia | la fresia   
+ 0.11 M rose | la rose | die Rose | la rosa | la rosa   
+ 0.12 M foliage | le feuillage | die Blätter | el follaje | il fogliame   
+ 0.13 M stocks | la giroflée | die Levkoje | el alhelí | la violacciocca   
+ 0.14 M gerbera | le gerbera | die Gerbera | la gerbera | la gerbera   
+====================================================================================================
+== p104 [acquisti] 20 voci, 17 flag, 2 mancanti, 0 leftover, header=S H O P P IN G • LES C O U R S E S • DER EINKAUF • LAS COMP~
+-- PRE subcat: (sopra la prima sottocategoria)
+ 0.0  ⚠ vase | le vase | die Blumenvase | el Horero | il vaso   es
+-- G1 subcat: arrangements • Ics com positions florales • die Blumenarrangements • los arregl~
+   parts: arrangements • ics com positions florales • die blumenarrangements • los arreglos • gli arr~
+ 1.0  M ribbon | le ruban | das Band | la cinta | il nastro   
+ 1.1  M dried flowers | les fleurs séché~ | die Trockenblumen | las flores secas | i fiori secchi   
+ 1.2  M bouquet | le bouquet | das Bukett | el ramo | il mazzo di fiori   
+ 1.3  M peony | la pivoine | die Pfingstrose | la peonia | la peonia   
+ 1.4  M orchid | l'orchidée | die Orchidee | la orquídea | l'orchidea   
+ 1.5  ⚠ bunch | la horte | der Strauß | el ramo | ?   missing
+ 1.6  M wreath | la couronne | der Kranz | la corona | la corona   
+ 1.7  M stem | la tige | der Stengel | el tallo | lo stelo   
+ 1.8  M garland | la guirlande de ~ | die Blumengirlan~ | la guirnalda | la ghirlanda   
+ 1.9  M daffodil | la jonquille | die Osterglocke | el narciso | il narciso   
+ 1.10 ⚠ How long will th~ | Liles tiennent c~ | Wie lange halten~ | Cuánto tiempo du~ | Quanto dureranno?   de en es fr it
+ 1.11 ⚠ May I have a bun~ | Je voudrais un b~ | Ich möchte einen~ | Meda un ramo d e~ | Mi dà un mazzo d~   de en es fr it
+ 1.12 ⚠ ? | le bourgeon | die Knospe | el capullo | il bocciolo   missing
+ 1.13 ⚠ May I have them ~ | Pouvez-vous les ~ | Können Sie die B~ | M e los puede en~ | Me li può incart~   de en es fr it
+ 1.14 ⚠ Are they fragran~ | Esr-cc qu'elles ~ | Duften sie? | Huelen? | Sono profumati?   de en es fr it
+ 1.15 M wrapping | l'emballage | das Einwickelpap~ | la envoltura | l'incarto   
+ 1.16 ⚠ Would you send t~ | Pouvez-vous les ~ | Können Sie die B~ | Los puede enviar~ | U può mandare a.~   de en es fr it
+ 1.17 ⚠ May I attach a m~ | Je peux y attach~ | Kann ich eine Na~ | Puedo poner un m~ | Posso allegare u~   de en es fr it
+ 1.18 M tLip | la rulipc | die Tulpe | tulipán | il tulipano   
+====================================================================================================
+== p105 [acquisti] 15 voci, 9 flag, 1 mancanti, 0 leftover, header=S H O P P IN G • I ES C O U R S E S • DER EINKAUF • LAS C O~
+-- G0 subcat: newsstand • le marchand de journaux • der Zeitungshändler • los tabacos y las r~
+   parts: newsstand • le marchand de journaux • der zeitungshändler • los tabacos y las revistas • l'~
+ 0.0  M cigarettes | les cigarettes | die Zigaretten | los cigarros | le sigarette   
+ 0.1  M pack of cigarett~ | le paquet de cig~ | das Päckchen Zig~ | la cajetilla de ~ | il pacchetto di ~   
+ 0.2  M matches | les allumettes | die Streichhölzer | los cerillos | i fiammiferi   
+ 0.3  M lottery tickets | les billets de l~ | die Lottoscheine | los billetes de ~ | i biglietti dell~   
+ 0.4  M stamps | les timbres | die Briefmarken | los tim bres | i francobolli   
+ 0.5  M postcard | la carte postale | die Postkarte | la tarjeta postai | la cartolina   
+ 0.6  ⚠ comic | la bande dessinée | das Comicheft | la historieta il~ | ?   missing
+ 0.7  M magazine | le magazine | die Zeitschrift | la revista | la rivista   
+ 0.8  M newspaper | le journal | die Zeitung | el periódico | il giornale   
+-- G1 subcat: smoking • fumer • das Rauchen • fum ar • fumare
+   parts: smoking • fumer • das rauchen • fumar • fumare
+ 1.0  M stem | le tuyau | der Stiel | el tubo | la cannuccia   
+ 1.1  M bowl | le fourneau | der Kopf | la cazoleta | il fornello   
+ 1.2  M tobacco | le tabac | der Tabak | el tabaco | il tabacco   
+ 1.3  M lighter | le briquet | das Feuerzeug | el encendedor | l'accendino   
+ 1.4  M pipe | la pipe | die Pfeife | la pipa | la pipa   
+ 1.5  M cigar | le cigare | die Zigarre | el puro | il sigaro   
+====================================================================================================
+== p106 [acquisti] 24 voci, 18 flag, 0 mancanti, 1 leftover, header=S H O P P IN G • 1 ES C O U R S E S • DER EINKAUF • I.AS C ~
+-- G0 subcat: candy store • le confiseur • der Konditor • la dulcería • il confettiere
+   parts: candy store • le confiseur • der konditor • la dulcería • il confettiere
+ 0.0  M snack bar | la friandise | die Nascherei | la barrita | la tavoletta spu~   
+ 0.1  M potato chips | les chips | die Chips | las papas fritas | le patatine   
+ 0.2  ⚠ milk chocolate | le chocolat au l~ | die Milchschokol~ | el chocolate de ~ | I cioccolato al ~   it
+ 0.3  M caramel | le caramel | der Karamell | el caramelo | il caramello   
+ 0.4  M box of chocolates | la boite de choc~ | die Schachtel Pr~ | la caja de choco~ | la scatola di ci~   
+ 0.5  M dark chocolate | le chocolat noir | die bittere Scho~ | el chocolate neg~ | il cioccolato am~   
+ 0.6  M truffle | la truffe | der Trüffel | la trufa | il tartufo   
+ 0.7  M white chocolate | le chocolat blanc | die weiße Schoko~ | el chocolate bla~ | il cioccolato bi~   
+ 0.8  M cookie | le biscuit | der Keks | la galleta | il biscotto   
+ 0.9  M pick and mix | les bonbons asso~ | die bunte Mischu~ | los dulces a gra~ | la caramelle ass~   
+ 0.10 M hard candy | les bonbons | die Bonbons | los caramelos du~ | le caramelle   
+ 0.11 M candy store | la confiserie | das Süßwarengesc~ | la dulcería | il negozio di do~   
+-- G1 subcat: confectionery • hi confiserie • die Süßwaren • los dulces • i dolciumi
+   parts: confectionery • hi confiserie • die süßwaren • los dulces • i dolciumi
+ 1.0  M hard candy | les bonbons | die Bonbons | los caramelos du~ | le caramelle   
+ 1.1  M lollipop | la sucette | der Lutscher | la paleta | la lecca lecca   
+ 1.2  M chocolate bar | la tablette de c~ | die Tafel Schoko~ | la tablilla de c~ | la tavoletta di ~   
+ 1.3  M chocolate | le chocolat | die Praline | el chocolate | il cioccolatino   
+ 1.4  M marshmallow | la guimauve | das Marshmallow | el malva risco | la caramella gom~   
+ 1.5  M mint | le bonbon a la m~ | das Pfefferminz | la pastilla de m~ | la mentina   
+ 1.6  M toffee | le caramel | das Toffee | el toffee | la caramella mou   
+ 1.7  M nougat | le nougat | der Nugat | el turrón | il torrone   
+-- G2 subcat: li
+   parts: li
+-- G3 subcat: « H
+   parts: « h
+-- G4 subcat: Y
+   parts: y
+ 4.0  M gumdrop | le bonbon au fru~ | der Fruchtgummi | lago mita | la caramella all~   
+ 4.1  M licorice | le réglisse | die Lakritze | el regaliz | la liquirizia   
+ 4.2  M chewing gum | le chewing gum | der Kaugummi | el chicle | la gomma da mast~   
+ 4.3  M jellybean | la dragée à la g~ | der Geleebonbon | el caramelo blan~ | la caramella di ~   
+   LEFT 'V' @[294, 1006] (riga singola isolata)
+====================================================================================================
+== p107 [acquisti] 12 voci, 12 flag, 0 mancanti, 0 leftover, header=S H O P P IN G • L L S C O U R S E S • DER EINKAUF • LAS C ~
+-- G0 subcat: other stores • les autres magasins • andere Geschäfte • las otras tiendas • gli~
+   parts: other stores • les autres magasins • andere geschäfte • las otras tiendas • gli altri negozi
+ 0.0  M bakery | la boulangerie | die Bäckerei | la panadería | il panificio   
+ 0.1  M cake shop | la pâtisserie | die Konditorei | la confitería | la pasticceria   
+ 0.2  M butcher shop | la boucherie | die Metzgerei | la cam iceria | la macelleria   
+ 0.3  M fish counter | la poissonnerie | das Fischgeschäft | la pescadería | la pescheria   
+ 0.4  M produce stand | le marchand de l~ | der Gemüseladen | la verdulería | il fruttivendolo   
+ 0.5  M grocery store | l'épicerie | das Lebensmittel~ | los abarrotes | la drogheria   
+ 0.6  M shoe store | le magasin de ch~ | das Schuhgeschäft | la zapatería | il negozio di ca~   
+ 0.7  M hardware store | la quincaillerie | die Eisenwaren h~ | la ferretería | il negozio di fe~   
+ 0.8  M antique store | le magasin d'ant~ | der Antiquitäten~ | la tienda de ant~ | il negozio di an~   
+ 0.9  M gift store | la boutique de c~ | der Geschenkarti~ | la tienda de reg~ | il negozio di ar~   
+ 0.10 M travel agency | l'agence de voya~ | das Reisebüro | la agencia de vi~ | l'agenzia di via~   
+ 0.11 M jewelry store | la bijouterie | das Juweliergesc~ | la joyería | la gioielleria   
+====================================================================================================
+== p108 [acquisti] 17 voci, 11 flag, 0 mancanti, 0 leftover, header=S H O P P IN G • I ES C O U R S E S • DER EINKAUF • L A S C~
+-- G0 subcat: (nessuna)
+ 0.0  M pet store | l'animal crie | die Tierhandlung | la tienda de mas~ | il negozio di an~   
+ 0.1  M liquor store | le magasin de vi~ | die Weinhandlung | la tienda de lic~ | il negozio di li~   
+ 0.2  ⚠ record score | le magasin de di~ | das Plattengesch~ | la tienda de dis~ | I negozio di dis~   it
+ 0.3  M bookstore | la librairie | der Buchladen | la librería | la libreria   
+ 0.4  M camera store | le magasin d'app~ | das Fotogeschäft | la tienda de fot~ | il negozio di ar~   
+ 0.5  M realty office | l'agent immobili~ | der Immobilienma~ | la agenda inmobi~ | l'agenzia immobi~   
+ 0.6  M second-hand store | le marchand d' o~ | der Gebrauchtwar~ | la tienda de art~ | il negozio dell'~   
+ 0.7  M garden center | la pépinière | das Gartencenter | el vivero | il vivaio   
+ 0.8  M dry cleaner | le pressing | die Reinigung | la tintorería | il lavasecco   
+ 0.9  M health food store | le magasin bio | das Reformhaus | la tienda naturi~ | il negozio di al~   
+ 0.10 M boutique | la boutique | die Boutique | la boutique | labo utique   
+ 0.11 M furniture store | le magasin de me~ | das Möbelgeschäft | la mueblería | il negozio di mo~   
+ 0.12 M laundromat | la laverie autom~ | der Waschsalon | la lavandería | la lavanderia   
+ 0.13 M art store | la boutique d'art | die Kunsthandlung | la galena de arte | il negozio di ar~   
+ 0.14 M hair salon | le salon de coif~ | der Frisiersalon | la estética | il parrucchiere   
+ 0.15 M tailor shop | le tailleur | die Schneiderei | la sastrería | la sartoria   
+ 0.16 M market | le marché | der Markt | el mercado | il mercato   
+====================================================================================================
+== p109 [acquisti] PAGINA DIVISORIA / SENZA VOCI

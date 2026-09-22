@@ -1,0 +1,293 @@
+{
+ "page": 248,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "attività-all-aria-aperta",
+   "names": {
+    "en": "outdoor activities",
+    "fr": "les activités de plein air",
+    "de": "die aktivitäten im freien",
+    "es": "las actividades al aire libre",
+    "it": "le attività all'aria aperta"
+   },
+   "entries": [
+    {
+     "en": "sundial",
+     "fr": "cadran solaire",
+     "de": "Sonnenuhr",
+     "es": "reloj de sol",
+     "it": "meridiana",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13,
+      "de": 9,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "footpath",
+     "fr": "sentier",
+     "de": "Fußweg",
+     "es": "sendero",
+     "it": "sentiero",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "café",
+     "fr": "café",
+     "de": "Café",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4
+     }
+    },
+    {
+     "en": "park",
+     "fr": "parc",
+     "de": "Park",
+     "es": "parque",
+     "it": "parco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 4,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "formai gardens",
+     "fr": "jardins à la française",
+     "de": "Gartenanlagen",
+     "es": "jardines clásicos",
+     "it": "giardino all'italiana",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 19,
+      "de": 13,
+      "es": 16,
+      "it": 19
+     }
+    },
+    {
+     "fr": "banc",
+     "de": "Bank",
+     "es": "banca",
+     "it": "panchina",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "de": "Gras",
+     "es": "pasto",
+     "it": "prato",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "roller coaster",
+     "fr": "montagnes russes",
+     "de": "Berg-und-Talbahn",
+     "es": "montaña rusa",
+     "it": "montagne russe",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 15,
+      "de": 14,
+      "es": 11,
+      "it": 13
+     }
+    },
+    {
+     "en": "fair",
+     "fr": "foire",
+     "de": "Jahrmarkt",
+     "es": "feria",
+     "it": "luna park",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 9,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "amusement park",
+     "fr": "parc d'attractions",
+     "de": "Vergnügungspark",
+     "es": "parque de diversiones",
+     "it": "parco a tema",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 15,
+      "es": 19,
+      "it": 10
+     }
+    },
+    {
+     "en": "wildlife park",
+     "fr": "réserve",
+     "de": "Safaripark",
+     "es": "safari park",
+     "it": "zoosafari",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 10,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "zoo",
+     "fr": "zoo",
+     "de": "Zoo",
+     "es": "zoológico",
+     "it": "zoo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 9,
+      "it": 3
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

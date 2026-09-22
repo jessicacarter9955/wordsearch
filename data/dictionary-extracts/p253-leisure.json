@@ -1,0 +1,426 @@
+{
+ "page": 253,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "ground cloth",
+     "fr": "tapis de sol",
+     "de": "Zeltboden",
+     "es": "suelo aislante",
+     "it": "telo isolante",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 10,
+      "de": 9,
+      "es": 13,
+      "it": 12
+     }
+    },
+    {
+     "en": "frame",
+     "fr": "cadre",
+     "de": "Gestänge",
+     "es": "estructura",
+     "it": "struttura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 8,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "thermos",
+     "fr": "Thermos",
+     "de": "Thermosflasche",
+     "es": "termo",
+     "it": "thermos",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 14,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "backpack",
+     "fr": "sac à dos",
+     "de": "Rucksack",
+     "es": "mochila",
+     "it": "zaino",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "water bottle",
+     "fr": "bouteille d'eau",
+     "de": "Wasserflasche",
+     "es": "cantimplora",
+     "it": "borraccia",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 13,
+      "es": 11,
+      "it": 9
+     }
+    },
+    {
+     "en": "tent",
+     "fr": "tente",
+     "de": "Zelt",
+     "es": "tienda de campaña",
+     "it": "tenda",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 15,
+      "it": 5
+     }
+    },
+    {
+     "de": "Moskitonetz",
+     "es": "mosquitero",
+     "it": "zanzariera",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "de": 11,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "thermal underwear",
+     "fr": "sous-vêtements thermiques",
+     "de": "Thermowäsche",
+     "es": "ropa térmica",
+     "it": "indumenti termici",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "la",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 23,
+      "de": 12,
+      "es": 11,
+      "it": 16
+     }
+    },
+    {
+     "en": "flashlight",
+     "fr": "lampe torche",
+     "de": "Taschenlampe",
+     "es": "linterna",
+     "it": "torcia",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 12,
+      "es": 8,
+      "it": 6
+     }
+    },
+    {
+     "en": "insect repellent",
+     "fr": "spray contre les insectes",
+     "de": "Insektenspray",
+     "es": "repelente de insectos",
+     "it": "repellente per insetti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 22,
+      "de": 13,
+      "es": 19,
+      "it": 20
+     }
+    },
+    {
+     "en": "sleeping bag",
+     "fr": "sac de couchage",
+     "de": "Schlafsack",
+     "es": "saco de dormir",
+     "it": "sacco a pelo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 13,
+      "de": 10,
+      "es": 12,
+      "it": 10
+     }
+    },
+    {
+     "en": "rain clothes",
+     "fr": "imperméable",
+     "de": "Regenhaut",
+     "es": "manga",
+     "it": "indumenti impermeabili",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 9,
+      "es": 5,
+      "it": 21
+     }
+    },
+    {
+     "en": "hiking boots",
+     "fr": "chaussures de marche",
+     "de": "Wanderschuhe",
+     "es": "butas de trekking",
+     "it": "scarpe da escursionismo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 18,
+      "de": 12,
+      "es": 15,
+      "it": 21
+     }
+    },
+    {
+     "en": "sleeping mat",
+     "fr": "tapis de so",
+     "de": "Schlafmatte",
+     "es": "esterilla",
+     "it": "materassino",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "grill",
+     "fr": "barbecue",
+     "de": "Grill",
+     "es": "parrilla",
+     "it": "griglia per barbecue",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 8,
+      "it": 18
+     }
+    },
+    {
+     "en": "camp stove",
+     "fr": "réchaud",
+     "de": "Gasbrenner",
+     "es": "estufilla",
+     "it": "fornellcTto da campeggio",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 10,
+      "es": 9,
+      "it": 22
+     }
+    },
+    {
+     "en": "air mattress",
+     "fr": "ma tel at pneum arique",
+     "de": "Luftmatratze",
+     "es": "colchoneta",
+     "it": "materassino ad aria",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 18,
+      "de": 12,
+      "es": 10,
+      "it": 17
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

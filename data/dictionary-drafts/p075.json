@@ -1,0 +1,383 @@
+{
+ "page": 75,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • I .A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "toolbox • la boîte à o u tils • der Werkzeugkasten • la caja de las herramientas • la scatola degli attrezzi",
+   "parts": [
+    "toolbox",
+    "la boîte à outils",
+    "der werkzeugkasten",
+    "la caja de las herramientas",
+    "la scatola degli attrezzi"
+   ],
+   "entries": [
+    {
+     "en": "wrench",
+     "fr": "la clef",
+     "de": "der Schraubenschlüssel",
+     "es": "la llave de boca",
+     "it": "la chiave",
+     "_pos": [
+      50,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "en": "adjustable wrench",
+     "fr": "la clef à molette",
+     "de": "der verstellbare Schrauben schlüssel",
+     "es": "la llave mglesa",
+     "_pos": [
+      206,
+      153
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "hammer",
+     "fr": "le marteau",
+     "de": "der Hammer",
+     "es": "el martillo",
+     "it": "il martello",
+     "_pos": [
+      386,
+      154
+     ],
+     "_flags": []
+    },
+    {
+     "en": "needle-nose pliers",
+     "fr": "la pince plate",
+     "de": "die Flachzange",
+     "es": "las pinzas de alambre",
+     "it": "le pinze ad ago",
+     "_pos": [
+      580,
+      154
+     ],
+     "_flags": []
+    },
+    {
+     "en": "socket wrench",
+     "fr": "la clef à pipe",
+     "de": "der Steckschlüssel",
+     "es": "la llave de tubo",
+     "it": "la chiave a tubo",
+     "_pos": [
+      580,
+      219
+     ],
+     "_flags": []
+    },
+    {
+     "en": "screwdriver bits",
+     "fr": "les embouts de tournevis",
+     "de": "die Schraubenziehereinsätze !",
+     "es": "los cabezales de destornillador",
+     "it": "la punte per cacciavite",
+     "_pos": [
+      50,
+      268
+     ],
+     "_flags": [
+      "de:weird:!"
+     ]
+    },
+    {
+     "en": "leve!",
+     "fr": "le niveau",
+     "de": "die Wasserwaage",
+     "es": "el nivel",
+     "it": "la livella",
+     "_pos": [
+      750,
+      279
+     ],
+     "_flags": [
+      "en:weird:leve!"
+     ]
+    },
+    {
+     "en": "washer",
+     "fr": "le joint",
+     "de": "der Dichtungsring",
+     "es": "la rondana",
+     "it": "la rondella",
+     "_pos": [
+      753,
+      384
+     ],
+     "_flags": []
+    },
+    {
+     "en": "screwdriver",
+     "fr": "le tournevis",
+     "de": "der Schraubenzieher",
+     "es": "el destornillador",
+     "it": "il cacciavite",
+     "_pos": [
+      50,
+      434
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nut",
+     "fr": "l'écrou",
+     "de": "die Mutter",
+     "es": "la tuerca",
+     "it": "il dado",
+     "_pos": [
+      753,
+      500
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bull nose pliers",
+     "fr": "la pince universelle",
+     "de": "die Kombinationszange",
+     "es": "los alicates",
+     "it": "le pinze tonde",
+     "_pos": [
+      432,
+      550
+     ],
+     "_flags": []
+    },
+    {
+     "en": "tape measure",
+     "fr": "le mètre",
+     "de": "das Metermaß",
+     "es": "la anta métrica",
+     "it": "il metro",
+     "_pos": [
+      51,
+      566
+     ],
+     "_flags": []
+    },
+    {
+     "fr": "le couteau",
+     "de": "der Schneider",
+     "es": "el cúter",
+     "it": "I coltello",
+     "_pos": [
+      276,
+      583
+     ],
+     "_flags": [
+      "missing:en",
+      "it:case"
+     ]
+    },
+    {
+     "en": "socket",
+     "fr": "la douille",
+     "de": "die Tülle",
+     "es": "encaje",
+     "it": "la bussola",
+     "_pos": [
+      410,
+      616
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Allen wrench",
+     "fr": "la clef",
+     "de": "der Schlüssel",
+     "es": "la llave",
+     "it": "la chiave",
+     "_pos": [
+      695,
+      616
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "drill bits • les forets* die Bohrer • las brocas • le punte",
+   "parts": [
+    "drill bits",
+    "les forets* die bohrer",
+    "las brocas",
+    "le punte"
+   ],
+   "entries": [
+    {
+     "en": "metal bit",
+     "fr": "le foret à métaux",
+     "de": "der Metallbohrer",
+     "es": "la broca para metal",
+     "it": "la punta per metalli",
+     "_pos": [
+      106,
+      699
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spade bit",
+     "fr": "le foret à bois plat",
+     "de": "der Flachholzbohrer",
+     "es": "la broca para",
+     "_pos": [
+      353,
+      699
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "en": "Phillips screwdriver",
+     "fr": "le tournevis cruciforme",
+     "de": "der Kreuzschlitzschraubenzieher",
+     "es": "el destornillador de cruz",
+     "it": "il cacciavite a croce",
+     "_pos": [
+      603,
+      732
+     ],
+     "_flags": [
+      "en:case"
+     ]
+    },
+    {
+     "en": "reamer",
+     "fr": "l'alésoir",
+     "de": "die Reibahle",
+     "es": "escariador",
+     "it": "l'alesatore",
+     "_pos": [
+      52,
+      764
+     ],
+     "_flags": []
+    },
+    {
+     "en": "head",
+     "fr": "la tête",
+     "de": "der Nagelkopf",
+     "es": "la cabeza",
+     "it": "la testa",
+     "_pos": [
+      591,
+      799
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "p",
+   "parts": [
+    "p"
+   ],
+   "entries": [
+    {
+     "en": "> > nail",
+     "fr": "le clou",
+     "de": "der Nagel",
+     "es": "el davo",
+     "it": "il chiodo",
+     "_pos": [
+      737,
+      835
+     ],
+     "_flags": [
+      "en:weird:>"
+     ]
+    },
+    {
+     "en": "security bit",
+     "fr": "le torci de sécurité",
+     "de": "der Sicherheitsbohrer",
+     "es": "la broca de seguridad",
+     "it": "la punta di sicurezza",
+     "_pos": [
+      582,
+      864
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wood bits",
+     "fr": "les forets de bois",
+     "de": "die Holzbohrer",
+     "es": "las brocas para madera",
+     "it": "le punte da falegnameria",
+     "_pos": [
+      52,
+      913
+     ],
+     "_flags": []
+    },
+    {
+     "en": "masonry bit",
+     "fr": "le foret de maçonnerie",
+     "de": "der Mauerwerkbohrer",
+     "es": "la broca de albañil e ria",
+     "it": "fa punta per muratura",
+     "_pos": [
+      583,
+      980
+     ],
+     "_flags": []
+    },
+    {
+     "en": "screw",
+     "fr": "la vis",
+     "de": "die Schraub",
+     "es": "la vite",
+     "_pos": [
+      744,
+      1045
+     ],
+     "_flags": [
+      "missing:it"
+     ]
+    },
+    {
+     "es": "el tornillo",
+     "_pos": [
+      807,
+      1060
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de",
+      "missing:it"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 26,
+  "complete_clean": 6,
+  "flagged": 20,
+  "missing_lang": 5,
+  "leftovers": 0,
+  "subcats": 3
+ }
+}

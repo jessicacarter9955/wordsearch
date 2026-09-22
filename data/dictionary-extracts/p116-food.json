@@ -1,0 +1,616 @@
+{
+ "page": 116,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "macro_slug": "cibo",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "verdure",
+   "names": {
+    "en": "vegetables",
+    "fr": "les légumes",
+    "de": "das gemüse",
+    "es": "las verduras",
+    "it": "le verdure"
+   },
+   "entries": [
+    {
+     "en": "radish",
+     "fr": "radis",
+     "de": "Radieschen",
+     "es": "rábano",
+     "it": "ravanello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 10,
+      "es": 6,
+      "it": 9
+     }
+    },
+    {
+     "en": "artichoke",
+     "fr": "artichaut",
+     "de": "Artischocke",
+     "es": "alcachofa",
+     "it": "carciofo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 11,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "cauliflower",
+     "fr": "chou-fleur",
+     "de": "Blumenkohl",
+     "es": "coliflor",
+     "it": "cavolfiore",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 9,
+      "de": 10,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "fr": "navet",
+     "de": "Rübe",
+     "es": "nabo",
+     "it": "rapa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "fr": 5,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "potato",
+     "fr": "pomme",
+     "de": "de terre die Kartoffel",
+     "es": "papa",
+     "it": "patata",
+     "_multi": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 19,
+      "es": 4,
+      "it": 6
+     }
+    },
+    {
+     "en": "onion",
+     "fr": "oignon",
+     "de": "Zwiebel",
+     "es": "cebolla",
+     "it": "cipolla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "pepper",
+     "fr": "poivron",
+     "de": "Paprika",
+     "es": "pimiento",
+     "it": "peperone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "squash",
+     "fr": "courge",
+     "de": "Gartenkürbis",
+     "es": "calabacita gigante",
+     "it": "zucca",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 12,
+      "es": 17,
+      "it": 5
+     }
+    },
+    {
+     "en": "chili",
+     "fr": "piment",
+     "de": "Peperoni",
+     "es": "chilaca",
+     "it": "peperoncino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 8,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "cherry tomato",
+     "fr": "tomate censé",
+     "de": "Kifschtomale",
+     "es": "jitom ate cherry",
+     "it": "pomodorino",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 11,
+      "de": 12,
+      "es": 14,
+      "it": 10
+     }
+    },
+    {
+     "en": "frozen",
+     "fr": "surgelé",
+     "de": "tiefgefroren",
+     "es": "congelado",
+     "it": "congelato",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "bitter",
+     "fr": "amer",
+     "de": "bitter",
+     "es": "amargo",
+     "it": "amaro",
+     "_multi": [],
+     "_grid_len": {
+      "en": 6,
+      "fr": 4,
+      "de": 6,
+      "es": 6,
+      "it": 5
+     }
+    },
+    {
+     "en": "May 1 have one kilo of potatoes please?",
+     "fr": "Puis-je avo ir un kilo de pommes de",
+     "de": "terre s'il vous plait?",
+     "es": "Konnte ich bitte ein Kilo Kartoffeln",
+     "it": "haben? M e da un kilo de papas, por favor? Mi dà un chilo di patate per favore?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 31,
+      "fr": 27,
+      "de": 17,
+      "es": 31,
+      "it": 58
+     }
+    },
+    {
+     "en": "celehac",
+     "fr": "célen",
+     "de": "Sellerie",
+     "es": "apio-nabo",
+     "it": "sedano rapa",
+     "_multi": [
+      "it"
+     ],
+     "_hyphen": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 5,
+      "de": 8,
+      "es": 8,
+      "it": 10
+     }
+    },
+    {
+     "en": "firm",
+     "fr": "ferme",
+     "de": "fest",
+     "es": "firme",
+     "it": "sodo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 4
+     }
+    },
+    {
+     "en": "raw",
+     "fr": "cru",
+     "de": "roh",
+     "es": "crudo",
+     "it": "crudo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 3,
+      "fr": 3,
+      "de": 3,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "carrot",
+     "fr": "car<»ne",
+     "de": "Karotte",
+     "es": "zanahoria",
+     "it": "carota",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 7,
+      "es": 9,
+      "it": 6
+     }
+    },
+    {
+     "en": "taro root",
+     "fr": "taro",
+     "de": "Tarowurzel",
+     "es": "raíz delta ro",
+     "it": "radice di taro",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 4,
+      "de": 10,
+      "es": 11,
+      "it": 12
+     }
+    },
+    {
+     "en": "What's the price per kilo?",
+     "fr": "'est combien le kilo?",
+     "de": "Was kostet ein Kilo?",
+     "es": "Cuánto vale el kilo?",
+     "it": "Quanto costa al chilo?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 20,
+      "fr": 16,
+      "de": 16,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "breadfruit",
+     "fr": "fruit de l'arbre à pain",
+     "de": "Brotfrucht",
+     "es": "fruto del pan",
+     "it": "l frutto dell'albero del pane",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 10,
+      "es": 11,
+      "it": 24
+     }
+    },
+    {
+     "en": "water chestnut",
+     "fr": "châtaigne d'eau",
+     "de": "Wasserkastanie",
+     "es": "castaña de agua",
+     "it": "castagna d'acqua",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 14,
+      "es": 13,
+      "it": 14
+     }
+    },
+    {
+     "en": "hot spicy",
+     "fr": "cpicé",
+     "de": "scharf",
+     "es": "picante",
+     "it": "piccante",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 5,
+      "de": 6,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "pulp",
+     "fr": "pulpe",
+     "de": "Fleisch",
+     "es": "pulpa",
+     "it": "polpa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 7,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "W h.it are those called?",
+     "fr": "Ils s'appellent comment?",
+     "de": "Wie heißen diese?",
+     "es": "Cóm o sc llam an''",
+     "it": "Quelli come si chiamano?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 18,
+      "fr": 20,
+      "de": 15,
+      "es": 12,
+      "it": 20
+     }
+    },
+    {
+     "en": "new potato",
+     "fr": "pomme de terre nouvelle",
+     "de": "neue Kartoffel",
+     "es": "papa nueva",
+     "it": "patata novella",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 20,
+      "de": 13,
+      "es": 9,
+      "it": 13
+     }
+    },
+    {
+     "en": "cassava",
+     "fr": "manioc",
+     "de": "Maniok",
+     "es": "mandioca",
+     "it": "cassava",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 6,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "sweet",
+     "fr": "sucré",
+     "de": "süß",
+     "es": "dulce",
+     "it": "dolce",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "root",
+     "fr": "racine",
+     "de": "Wurzel",
+     "es": "raíz",
+     "it": "radice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 6,
+      "es": 4,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

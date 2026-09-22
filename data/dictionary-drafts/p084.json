@@ -1,0 +1,357 @@
+{
+ "page": 84,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "casa",
+ "category": {
+  "en": "Home",
+  "fr": "La maison",
+  "de": "Das Haus",
+  "es": "La casa",
+  "it": "La casa"
+ },
+ "header_raw": "H O M E • L A M A IS O N • DAS HAUS • L A C A S A • LA CASA",
+ "groups": [
+  {
+   "names_raw": "(sopra la prima sottocategoria)",
+   "parts": null,
+   "entries": [
+    {
+     "en": "gardening gloves",
+     "fr": "les gants de jardinage",
+     "de": "die Gartenhandschuhe",
+     "es": "los guantes de jardín",
+     "it": "i guanti da giardinaggio",
+     "_pos": [
+      497,
+      82
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hand fork",
+     "fr": "la perire fourche",
+     "de": "die Handgabel",
+     "es": "el trinche",
+     "it": "il forcone",
+     "_pos": [
+      37,
+      150
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pruning shears",
+     "fr": "le sécateur",
+     "de": "die Rosenschere",
+     "es": "las podaderas",
+     "it": "la cesoia",
+     "_pos": [
+      253,
+      165
+     ],
+     "_flags": []
+    },
+    {
+     "en": "twine",
+     "fr": "la lied le",
+     "de": "der Zwirn",
+     "es": "el hilo de bramante",
+     "it": "il fil di ferro",
+     "_pos": [
+      562,
+      181
+     ],
+     "_flags": []
+    },
+    {
+     "en": "labels",
+     "fr": "les criquet res",
+     "de": "die Pflanzenschildchen",
+     "es": "las etiquetas",
+     "it": "le etichette",
+     "_pos": [
+      714,
+      214
+     ],
+     "_flags": []
+    },
+    {
+     "en": "irowel",
+     "fr": "le déplantoir",
+     "de": "die Pflanzschaufel",
+     "es": "la pala pequeña",
+     "it": "la paletta",
+     "_pos": [
+      38,
+      265
+     ],
+     "_flags": []
+    },
+    {
+     "en": "twist ties",
+     "fr": "les attaches",
+     "de": "die Befestigungen",
+     "es": "el alambre",
+     "it": "le fettucce",
+     "_pos": [
+      764,
+      322
+     ],
+     "_flags": []
+    },
+    {
+     "en": "biade",
+     "fr": "la lame",
+     "de": "das Messer",
+     "es": "la hoja",
+     "it": "la lama",
+     "_pos": [
+      155,
+      331
+     ],
+     "_flags": []
+    },
+    {
+     "en": "seed tray",
+     "fr": "le germ oir",
+     "de": "der Setzkasten",
+     "es": "el semillero",
+     "it": "il semenzaio",
+     "_pos": [
+      248,
+      348
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ring ties",
+     "fr": "les anneaux",
+     "de": "die Ringbefestigungen",
+     "es": "las anillas",
+     "it": "gli anelli",
+     "_pos": [
+      634,
+      396
+     ],
+     "_flags": []
+    },
+    {
+     "en": "canes",
+     "fr": "les cannes",
+     "de": "die Gartenslòcke",
+     "es": "las cañas",
+     "it": "le canne",
+     "_pos": [
+      492,
+      413
+     ],
+     "_flags": []
+    },
+    {
+     "en": "'m",
+     "_pos": [
+      152,
+      438
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "sieve",
+     "fr": "le tamis",
+     "de": "das Sieb",
+     "es": "la criba",
+     "it": "il setaccio",
+     "_pos": [
+      452,
+      511
+     ],
+     "_flags": []
+    },
+    {
+     "en": "shears",
+     "fr": "la cisaille",
+     "de": "die Heckenschere",
+     "es": "las tijeras",
+     "it": "le forbici da giardino",
+     "_pos": [
+      39,
+      514
+     ],
+     "_flags": []
+    },
+    {
+     "en": "plant pot",
+     "fr": "le por à fleurs",
+     "de": "der Blumentopf",
+     "es": "la maceta",
+     "it": "il vaso da fiori",
+     "_pos": [
+      453,
+      612
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pesticide",
+     "fr": "le pesticide",
+     "de": "das Pestizid",
+     "es": "el pesticida",
+     "it": "il pesticida",
+     "_pos": [
+      256,
+      613
+     ],
+     "_flags": []
+    },
+    {
+     "en": "rubber boots",
+     "fr": "les hottes",
+     "de": "die Gummistiefel",
+     "es": "las botas de goma",
+     "it": "le galosce",
+     "_pos": [
+      684,
+      644
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hand saw",
+     "fr": "la scie à main",
+     "de": "die Handsäge",
+     "es": "la sierra de mano",
+     "it": "la sega",
+     "_pos": [
+      40,
+      646
+     ],
+     "_flags": []
+    }
+   ],
+   "_flag_pre": true
+  },
+  {
+   "names_raw": "watering • l'arrosage • das Gießen • el riego • l'annaffiatura",
+   "parts": [
+    "watering",
+    "l'arrosage",
+    "das gießen",
+    "el riego",
+    "l'annaffiatura"
+   ],
+   "entries": [
+    {
+     "en": "nozzle",
+     "fr": "le jet",
+     "de": "die Düse",
+     "es": "la boquilla",
+     "it": "il becco",
+     "_pos": [
+      772,
+      760
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sprinkler",
+     "fr": "l'arroseur",
+     "de": "der Rasensprenger",
+     "es": "el aspersor",
+     "it": "l'irrigatore",
+     "_pos": [
+      538,
+      842
+     ],
+     "_flags": []
+    },
+    {
+     "en": "spray gun",
+     "fr": "le vaporisateur",
+     "de": "die Gartenspritze",
+     "es": "el pulverizador",
+     "it": "il diffusore",
+     "_pos": [
+      314,
+      876
+     ],
+     "_flags": []
+    },
+    {
+     "en": "watering can",
+     "fr": "l'nrrosoir",
+     "de": "die Gießkanne",
+     "es": "la regadera",
+     "it": "l'annaffiatoio",
+     "_pos": [
+      316,
+      942
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hose",
+     "fr": "le tuyau d'arrosage",
+     "de": "der Gartenschlauch",
+     "es": "la manguera",
+     "it": "Ja pompa da giardino",
+     "_pos": [
+      445,
+      942
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "rose",
+     "fr": "la pomme",
+     "de": "die Brause",
+     "es": "la pina",
+     "it": "la rosa",
+     "_pos": [
+      317,
+      1042
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hose reel",
+     "fr": "le dévidoir de tuyau",
+     "de": "der Schlauchwagen » el enrollador de manguera",
+     "it": "l'awolgitubo",
+     "_pos": [
+      564,
+      1058
+     ],
+     "_flags": [
+      "missing:es",
+      "de:weird:»"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "^",
+   "pos": [
+    36,
+    381
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 25,
+  "complete_clean": 8,
+  "flagged": 17,
+  "missing_lang": 2,
+  "leftovers": 1,
+  "subcats": 1
+ }
+}

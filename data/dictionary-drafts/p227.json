@@ -1,0 +1,273 @@
+{
+ "page": 227,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPO R TS • L E S S P O R T S • DER SPORT • LOS DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "sailing • la voile • der Segelsport • la vela • la vela",
+   "parts": [
+    "sailing",
+    "la voile",
+    "der segelsport",
+    "la vela",
+    "la vela"
+   ],
+   "entries": [
+    {
+     "en": "mast",
+     "fr": "le mât",
+     "de": "der Mast",
+     "es": "el mástil",
+     "it": "l'albero",
+     "_pos": [
+      602,
+      136
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ngging",
+     "fr": "le gréement",
+     "de": "die Takelung",
+     "es": "las jarcias",
+     "it": "il sartiame",
+     "_pos": [
+      736,
+      174
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mainsail",
+     "fr": "la grand-voile",
+     "de": "das Großsegel",
+     "es": "la vela ma vor",
+     "it": "la vela di maestra",
+     "_pos": [
+      690,
+      298
+     ],
+     "_flags": []
+    },
+    {
+     "en": "compass",
+     "fr": "le compas",
+     "de": "der Kompass",
+     "es": "la b ruitila",
+     "it": "la bussola",
+     "_pos": [
+      60,
+      298
+     ],
+     "_flags": [
+      "es:short:b"
+     ]
+    },
+    {
+     "en": "anchor",
+     "fr": "l'ancre",
+     "de": "der Anker",
+     "es": "el ancla",
+     "it": "l'ancora",
+     "_pos": [
+      272,
+      298
+     ],
+     "_flags": []
+    },
+    {
+     "en": "headsail",
+     "fr": "la voile d'avant",
+     "de": "die Fock",
+     "es": "ello que",
+     "it": "la vela di prua",
+     "_pos": [
+      327,
+      364
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cleat",
+     "fr": "le raquee",
+     "de": "die Klampe",
+     "es": "la escotera",
+     "it": "la galloccia",
+     "_pos": [
+      58,
+      379
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sidedeck",
+     "fr": "le pont de côté",
+     "de": "das Seitendeck",
+     "es": "la cubierta",
+     "it": "il ponte laterale",
+     "_pos": [
+      172,
+      391
+     ],
+     "_flags": []
+    },
+    {
+     "en": "boom",
+     "fr": "la bóme",
+     "de": "der Baum",
+     "es": "la botavara",
+     "it": "il boma",
+     "_pos": [
+      772,
+      396
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bow",
+     "fr": "l'avant",
+     "de": "der Bug",
+     "es": "la proa",
+     "it": "la prua",
+     "_pos": [
+      364,
+      493
+     ],
+     "_flags": []
+    },
+    {
+     "en": "stern",
+     "fr": "l'arrière",
+     "de": "das Heck",
+     "es": "la popa",
+     "it": "la poppa",
+     "_pos": [
+      820,
+      512
+     ],
+     "_flags": []
+    },
+    {
+     "en": "navigate (v)",
+     "fr": "naviguer",
+     "de": "navigieren",
+     "es": "navegar",
+     "it": "navigare",
+     "_pos": [
+      60,
+      806
+     ],
+     "_flags": []
+    },
+    {
+     "en": "yacht",
+     "fr": "le yacht",
+     "de": "die Segeljacht",
+     "es": "el yate",
+     "it": "lo yacht",
+     "_pos": [
+      455,
+      806
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "safety • la sécurité • die Sicherheit • la seguridad • la sicurezza",
+   "parts": [
+    "safety",
+    "la sécurité",
+    "die sicherheit",
+    "la seguridad",
+    "la sicurezza"
+   ],
+   "entries": [
+    {
+     "en": "flare",
+     "fr": "la fusée éclairante",
+     "de": "die Leuchtrakete",
+     "es": "la bengala",
+     "it": "I razzo illuminante",
+     "_pos": [
+      61,
+      1018
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "life preserver",
+     "fr": "la bouée de sauvetage",
+     "de": "der Rettungsring",
+     "es": "el salvavidas",
+     "it": "il salvagente",
+     "_pos": [
+      273,
+      1020
+     ],
+     "_flags": []
+    },
+    {
+     "en": "life jacket",
+     "fr": "le gilet de sauvetage",
+     "de": "die Schwimmweste",
+     "es": "el chaleco salvavidas",
+     "it": "il giubbotto di salvataggio",
+     "_pos": [
+      486,
+      1020
+     ],
+     "_flags": []
+    },
+    {
+     "en": "life raft",
+     "fr": "le radeau de sauvetage",
+     "de": "das Rettungsboot",
+     "es": "la balsa salvavidas",
+     "it": "la zattera di salvataggio",
+     "_pos": [
+      698,
+      1020
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "r i",
+   "pos": [
+    364,
+    140
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "la barre | die Pinne | la caña del | tim ón | la barra | hull | la coque | der Rumpf | el casco | lo scafo",
+   "pos": [
+    358,
+    622
+   ],
+   "why": "blocco 10 righe non partizionabile"
+  }
+ ],
+ "stats": {
+  "entries": 17,
+  "complete_clean": 7,
+  "flagged": 10,
+  "missing_lang": 0,
+  "leftovers": 2,
+  "subcats": 2
+ }
+}

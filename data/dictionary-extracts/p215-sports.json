@@ -1,0 +1,400 @@
+{
+ "page": 215,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "field",
+     "fr": "terrain",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7
+     }
+    },
+    {
+     "en": "campo",
+     "_multi": [],
+     "_grid_len": {
+      "en": 5
+     }
+    },
+    {
+     "en": "left field",
+     "fr": "champ gauche",
+     "de": "linke Feld",
+     "es": "exterior izquierdo",
+     "it": "campo sinistro",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 11,
+      "de": 9,
+      "es": 17,
+      "it": 13
+     }
+    },
+    {
+     "en": "infield",
+     "fr": "champ intérieur",
+     "de": "Innenfeld",
+     "es": "interior",
+     "it": "campo interno",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 14,
+      "de": 9,
+      "es": 8,
+      "it": 12
+     }
+    },
+    {
+     "en": "center field",
+     "fr": "champ central",
+     "de": "Mittelfeld",
+     "es": "centro del campo",
+     "it": "centrocampo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 10,
+      "es": 14,
+      "it": 11
+     }
+    },
+    {
+     "es": "bate",
+     "it": "mazza",
+     "_multi": [],
+     "_articles_removed": {
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "helmet",
+     "fr": "casque",
+     "de": "Helm",
+     "es": "casco",
+     "it": "casco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "baseman",
+     "fr": "homme de hase",
+     "de": "Maispieler",
+     "es": "base",
+     "it": "giocatore di base",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 10,
+      "es": 4,
+      "it": 15
+     }
+    },
+    {
+     "en": "pitcher's mound",
+     "fr": "mont du lanceur",
+     "de": "Werferplatte",
+     "es": "montículo del p itch er",
+     "it": "pedana di lancio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 12,
+      "es": 19,
+      "it": 14
+     }
+    },
+    {
+     "en": "home piate _ ----—'",
+     "fr": "base du batteur",
+     "de": "Schlagmal",
+     "es": "home",
+     "it": "base di battuta",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 9,
+      "es": 4,
+      "it": 13
+     }
+    },
+    {
+     "en": "batter",
+     "fr": "batteur",
+     "de": "Schlagmann",
+     "es": "bateador",
+     "it": "battitore",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "inning",
+     "fr": "tour de batte",
+     "de": "Inning",
+     "es": "turno",
+     "it": "turno di battuta",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 11,
+      "de": 6,
+      "es": 5,
+      "it": 14
+     }
+    },
+    {
+     "en": "safe",
+     "fr": "sauf",
+     "de": "in Sicherheit",
+     "es": "safe",
+     "it": "salvo",
+     "_multi": [
+      "de"
+     ],
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 12,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "sinke",
+     "fr": "coup manque",
+     "de": "Schlagfehler",
+     "es": "d strike",
+     "it": "strike",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 12,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "ball",
+     "fr": "balle",
+     "de": "Baseball",
+     "es": "boia",
+     "it": "palla",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 8,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "foul ball",
+     "fr": "fausse balle",
+     "de": "ungültige Schlag",
+     "es": "foul",
+     "it": "fallo",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 15,
+      "es": 4,
+      "it": 5
+     }
+    },
+    {
+     "en": "glove",
+     "fr": "gant",
+     "de": "Handschuh",
+     "es": "manopla",
+     "it": "guantone",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 9,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "mask",
+     "fr": "masque",
+     "de": "Schutzmaske",
+     "es": "careta",
+     "it": "maschera",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 6,
+      "de": 11,
+      "es": 6,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

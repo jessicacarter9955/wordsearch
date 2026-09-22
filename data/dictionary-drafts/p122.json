@@ -1,0 +1,427 @@
+{
+ "page": 122,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "cibo",
+ "category": {
+  "en": "Food",
+  "fr": "La nourriture",
+  "de": "Die Nahrungsmittel",
+  "es": "Los alimentos",
+  "it": "Il cibo"
+ },
+ "header_raw": "FOOD • I A NOURRITURE • DIE NAHRUNGSMITTEL • LOS ALIMENTOS • IL CIBO",
+ "groups": [
+  {
+   "names_raw": "grains and pulses • les céréales et les légumes secs • die Getreidearten und die Hülsenfrüchte • los granos y las legumbres",
+   "parts": [
+    "grains and pulses",
+    "les céréales et les légumes secs",
+    "die getreidearten und die hülsenfrüchte",
+    "los granos y las legumbres"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• le granaglie e i legumi secchi grains • Ics céréales • das Getreide • los granos • le granaglie",
+   "parts": [
+    "le granaglie e i legumi secchi grains",
+    "ics céréales",
+    "das getreide",
+    "los granos",
+    "le granaglie"
+   ],
+   "entries": [
+    {
+     "en": "seed",
+     "fr": "la graine",
+     "de": "der Samen",
+     "es": "la semilla",
+     "it": "il seme",
+     "_pos": [
+      554,
+      188
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fresh",
+     "fr": "trais",
+     "de": "frisch",
+     "es": "fresco",
+     "it": "fresco",
+     "_pos": [
+      640,
+      188
+     ],
+     "_flags": []
+    },
+    {
+     "en": "easy-to-cook",
+     "fr": "facile à cuisiner",
+     "de": "leicht zu kochen",
+     "es": "de fácil cocción",
+     "it": "cottura facile",
+     "_pos": [
+      765,
+      188
+     ],
+     "_flags": []
+    },
+    {
+     "en": "husk",
+     "fr": "la balle",
+     "de": "die Hülse",
+     "es": "la cáscara",
+     "it": "la pula",
+     "_pos": [
+      554,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "whole-grain",
+     "fr": "complet",
+     "de": "Vollkorn",
+     "es": "integral",
+     "it": "integrale",
+     "_pos": [
+      764,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "fragranced",
+     "fr": "parfumé",
+     "de": "aromatisch",
+     "es": "perfum adó",
+     "it": "profumato",
+     "_pos": [
+      640,
+      284
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wheat",
+     "fr": "le blé",
+     "de": "der Weizen",
+     "es": "el trigo",
+     "it": "il grano",
+     "_pos": [
+      58,
+      336
+     ],
+     "_flags": []
+    },
+    {
+     "en": "barley",
+     "fr": "l'orge",
+     "de": "die Gerste",
+     "es": "la cebada",
+     "it": "l'orzo",
+     "_pos": [
+      380,
+      336
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oats",
+     "fr": "l'avoine",
+     "de": "der Hafer",
+     "es": "la avena",
+     "it": "l'avena",
+     "_pos": [
+      218,
+      337
+     ],
+     "_flags": []
+    },
+    {
+     "en": "long-grain",
+     "fr": "a grains longs",
+     "de": "Langkorn",
+     "es": "largo",
+     "it": "a chiccho lungo",
+     "_pos": [
+      766,
+      380
+     ],
+     "_flags": []
+    },
+    {
+     "en": "kernel",
+     "fr": "le grain",
+     "de": "der Kent",
+     "es": "el grano",
+     "it": "il seme",
+     "_pos": [
+      554,
+      380
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cereal",
+     "fr": "la céréale",
+     "de": "die Getreidefìocken",
+     "es": "los cereales",
+     "it": "il cereale",
+     "_pos": [
+      642,
+      380
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dry",
+     "fr": "SCC",
+     "de": "trocken",
+     "es": "seco",
+     "it": "secco",
+     "_pos": [
+      554,
+      476
+     ],
+     "_flags": [
+      "fr:case"
+     ]
+    },
+    {
+     "en": "soak V",
+     "fr": "laisser tremper",
+     "de": "einweichen",
+     "es": "poner a remojo",
+     "it": "mettere a bagno",
+     "_pos": [
+      642,
+      476
+     ],
+     "_flags": [
+      "en:short:V",
+      "en:case"
+     ]
+    },
+    {
+     "en": "short-grain",
+     "fr": "à grains ronds",
+     "de": "Rundkorn",
+     "es": "corto",
+     "it": "a chiccho corto",
+     "_pos": [
+      765,
+      476
+     ],
+     "_flags": []
+    },
+    {
+     "en": "millet",
+     "fr": "le millet",
+     "de": "die Hirse",
+     "es": "el mijo",
+     "it": "il miglio",
+     "_pos": [
+      58,
+      525
+     ],
+     "_flags": []
+    },
+    {
+     "en": "corn",
+     "fr": "le maïs",
+     "de": "der Mais",
+     "es": "el maíz",
+     "it": "il mais",
+     "_pos": [
+      219,
+      525
+     ],
+     "_flags": []
+    },
+    {
+     "en": "qumoa",
+     "fr": "le quinoa",
+     "de": "die Reismelde",
+     "es": "la quinoa",
+     "it": "la quinoa",
+     "_pos": [
+      380,
+      527
+     ],
+     "_flags": []
+    },
+    {
+     "en": "processed grains",
+     "fr": "les céréales traitées procesados",
+     "it": "i cereali trattati",
+     "_pos": [
+      486,
+      598
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es"
+     ]
+    }
+   ]
+  },
+  {
+   "names_raw": "rice • le riz • der Reis • el arroz • il riso",
+   "parts": [
+    "rice",
+    "le riz",
+    "der reis",
+    "el arroz",
+    "il riso"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "• die verarbeiteten Getreidearten • los granos",
+   "parts": [
+    "die verarbeiteten getreidearten",
+    "los granos"
+   ],
+   "entries": [
+    {
+     "en": "white rice",
+     "fr": "le riz blanc",
+     "de": "der weiße Reis",
+     "es": "el arroz largo",
+     "it": "il riso bianco",
+     "_pos": [
+      60,
+      820
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brown rice",
+     "fr": "le riz complet",
+     "de": "der Naturreis",
+     "es": "el arroz integral",
+     "it": "il riso integrale",
+     "_pos": [
+      272,
+      821
+     ],
+     "_flags": []
+    },
+    {
+     "en": "couscous",
+     "fr": "le couscous",
+     "de": "der Kuskus",
+     "es": "el cu sáis",
+     "it": "ii cuscos",
+     "_pos": [
+      486,
+      821
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cracked wheat",
+     "fr": "le blé écrasé",
+     "de": "der Weizenschrot",
+     "es": "el trigo partido",
+     "it": "il grano spezzato",
+     "_pos": [
+      698,
+      821
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wild rice",
+     "fr": "le riz sauvage",
+     "de": "der Wasserreis",
+     "es": "el arroz salvaje",
+     "it": "il riso selvatico",
+     "_pos": [
+      58,
+      1034
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dessert rice",
+     "fr": "le riz rond",
+     "de": "der Milchreis",
+     "es": "el arroz bomba",
+     "it": "il riso da budino",
+     "_pos": [
+      272,
+      1036
+     ],
+     "_flags": []
+    },
+    {
+     "en": "semolina",
+     "fr": "la semoule",
+     "de": "der Grieß",
+     "es": "la sémola",
+     "it": "la semola",
+     "_pos": [
+      485,
+      1036
+     ],
+     "_flags": []
+    },
+    {
+     "en": "bran",
+     "fr": "le son",
+     "de": "die Kleie",
+     "es": "el salvado",
+     "it": "la crusca",
+     "_pos": [
+      699,
+      1036
+     ],
+     "_flags": []
+    },
+    {
+     "en": "I",
+     "_pos": [
+      358,
+      1086
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it",
+      "en:case"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "1/ 1*»",
+   "pos": [
+    192,
+    693
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "K",
+   "pos": [
+    168,
+    693
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 28,
+  "complete_clean": 10,
+  "flagged": 18,
+  "missing_lang": 2,
+  "leftovers": 2,
+  "subcats": 4
+ }
+}

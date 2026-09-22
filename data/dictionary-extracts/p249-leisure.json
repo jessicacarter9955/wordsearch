@@ -1,0 +1,411 @@
+{
+ "page": 249,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "attività",
+   "names": {
+    "en": "activities",
+    "fr": "les activités",
+    "de": "die aktivitäten",
+    "es": "las actividades",
+    "it": "le attività"
+   },
+   "entries": [
+    {
+     "en": "rollerblading",
+     "fr": "roller",
+     "de": "Inlinerfahren",
+     "es": "patinaje",
+     "it": "pattinaggio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 6,
+      "de": 13,
+      "es": 8,
+      "it": 11
+     }
+    },
+    {
+     "en": "skateboarding",
+     "fr": "planche à roulette",
+     "de": "Skateboardfahren",
+     "es": "lapa tineta",
+     "it": "skateboard",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 16,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "jogging",
+     "fr": "jogging",
+     "de": "Jogging",
+     "es": "jogging",
+     "it": "footing",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "cycling",
+     "fr": "vélo",
+     "de": "Radfahren",
+     "es": "ciclismo",
+     "it": "ciclismo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 9,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "hamper",
+     "fr": "panier à pique-nique",
+     "de": "Picknickkorb",
+     "es": "canasta",
+     "it": "cesta",
+     "_multi": [
+      "fr"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 17,
+      "de": 12,
+      "es": 7,
+      "it": 5
+     }
+    },
+    {
+     "en": "riding trail",
+     "fr": "piste cavalière",
+     "de": "Reitweg",
+     "es": "sendero para caballos",
+     "it": "sentiero per cavalli",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 14,
+      "de": 7,
+      "es": 19,
+      "it": 18
+     }
+    },
+    {
+     "en": "rJ",
+     "_multi": [],
+     "_grid_len": {
+      "en": 2
+     }
+    },
+    {
+     "en": "hiking",
+     "fr": "randonnée",
+     "de": "Wandern",
+     "es": "caminata",
+     "it": "escursionismo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 7,
+      "es": 8,
+      "it": 13
+     }
+    },
+    {
+     "en": "picnic",
+     "fr": "pique-nique",
+     "de": "Picknick",
+     "es": "pienù",
+     "it": "picnic",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 10,
+      "de": 8,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "horseback riding",
+     "fr": "I'equitation",
+     "de": "Reiten",
+     "es": "equitación",
+     "it": "equitazione",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 11,
+      "de": 6,
+      "es": 10,
+      "it": 11
+     }
+    },
+    {
+     "en": "bird watching",
+     "fr": "observation des oiseaux",
+     "de": "Vogel beobachten",
+     "es": "ornitología",
+     "it": "ornitologia",
+     "_multi": [
+      "en",
+      "fr",
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 21,
+      "de": 15,
+      "es": 11,
+      "it": 11
+     }
+    }
+   ]
+  },
+  {
+   "slug": "parco-giochi",
+   "names": {
+    "en": "playground",
+    "fr": "le terrain de jeux",
+    "de": "der spielplatz",
+    "es": "el área de juegos",
+    "it": "il parco giochi"
+   },
+   "entries": [
+    {
+     "en": "swing",
+     "fr": "ha",
+     "de": "Schaukel",
+     "it": "altalena",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 2,
+      "de": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "wading pool",
+     "fr": "pataugeoire",
+     "de": "Planschbecken",
+     "es": "alborea de plástico",
+     "it": "piscina gonfiabile",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 11,
+      "de": 13,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "sandbox",
+     "fr": "bac à sable",
+     "de": "Sandkasten",
+     "es": "cajón de arena",
+     "it": "fossa di sabbia",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 9,
+      "de": 10,
+      "es": 12,
+      "it": 13
+     }
+    },
+    {
+     "en": "climber",
+     "fr": "cage à poules",
+     "de": "Klettergerüst",
+     "es": "changuero",
+     "it": "struttura per arrampicarsi",
+     "_multi": [
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 11,
+      "de": 13,
+      "es": 9,
+      "it": 24
+     }
+    },
+    {
+     "en": "slide",
+     "fr": "toboggan",
+     "de": "Rutsche",
+     "es": "resbaladilla",
+     "it": "scivolo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 7,
+      "es": 12,
+      "it": 7
+     }
+    },
+    {
+     "en": "seesaw",
+     "fr": "bascule",
+     "de": "Wippe",
+     "es": "subibaja",
+     "it": "bilanciere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 5,
+      "es": 8,
+      "it": 10
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

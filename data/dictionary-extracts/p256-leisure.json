@@ -1,0 +1,457 @@
+{
+ "page": 256,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Leisure",
+  "fr": "Le temps libre",
+  "de": "Die Freizeit",
+  "es": "El ocio",
+  "it": "Il tempo libero"
+ },
+ "macro_slug": "tempo-libero",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "fotografia",
+   "names": {
+    "en": "photography",
+    "fr": "la photographie",
+    "de": "die fotografie",
+    "es": "la fotografía",
+    "it": "la fotografia"
+   },
+   "entries": [
+    {
+     "en": "aperture dial",
+     "fr": "réglage de ^ouverture",
+     "de": "Blendenregler",
+     "es": "obturador",
+     "it": "regolatore di esposizione",
+     "_multi": [
+      "en",
+      "fr",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 18,
+      "de": 13,
+      "es": 9,
+      "it": 23
+     }
+    },
+    {
+     "en": "frame counter",
+     "fr": "compteur de vues",
+     "de": "Zähler",
+     "es": "indicador de fotos",
+     "it": "contafotogrammi",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 14,
+      "de": 6,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "flash",
+     "fr": "Hash",
+     "de": "Blitz",
+     "es": "flash",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 5,
+      "es": 5
+     }
+    },
+    {
+     "en": "filter",
+     "fr": "filtre",
+     "de": "Filter",
+     "es": "filtro",
+     "it": "filtro",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 6
+     }
+    },
+    {
+     "en": "shutter release",
+     "fr": "déclencheur",
+     "de": "Ausloser",
+     "es": "disparador",
+     "it": "pulsante di scatto",
+     "_multi": [
+      "en",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 11,
+      "de": 8,
+      "es": 10,
+      "it": 16
+     }
+    },
+    {
+     "en": "lens cap",
+     "fr": "bouchon «Tobjecrif",
+     "de": "Schutzkappe",
+     "es": "tapa del lente",
+     "it": "copriobicttivo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "I"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 16,
+      "de": 11,
+      "es": 12,
+      "it": 14
+     }
+    },
+    {
+     "en": "shutter-speed dial",
+     "fr": "réglage du temps de pose",
+     "de": "Zeiteinstellscheibe",
+     "es": "lu rueda de la velocidad",
+     "it": "regolatore del tempo di esposizione",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 20,
+      "de": 19,
+      "es": 20,
+      "it": 31
+     }
+    },
+    {
+     "en": "lens",
+     "fr": "Tobjecrif",
+     "de": "Linse",
+     "es": "lente",
+     "it": "obiettivo",
+     "_multi": [],
+     "_articles_removed": {
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 9,
+      "de": 5,
+      "es": 5,
+      "it": 9
+     }
+    },
+    {
+     "en": "SLR camera",
+     "fr": "appareil reflex m ono-objectif",
+     "de": "Spiegelreflexkamera",
+     "es": "cám ara rèflex",
+     "it": "macchina fotografica SLR",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 26,
+      "de": 19,
+      "es": 12,
+      "it": 22
+     }
+    },
+    {
+     "en": "flash gun",
+     "fr": "flash compact",
+     "de": "Elektronenblitz",
+     "es": "flash electrónico",
+     "it": "lampeggiatore",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 15,
+      "es": 16,
+      "it": 13
+     }
+    },
+    {
+     "en": "light meter",
+     "fr": "posemètre",
+     "de": "Belichtungsmesser",
+     "es": "fotómetro",
+     "it": "esposimetro",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 9,
+      "de": 17,
+      "es": 9,
+      "it": 11
+     }
+    },
+    {
+     "en": "zoom lens",
+     "fr": "zoom",
+     "de": "Zoom",
+     "es": "zoom",
+     "it": "zoom",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 4,
+      "de": 4,
+      "es": 4,
+      "it": 4
+     }
+    },
+    {
+     "en": "tripod",
+     "fr": "trépied",
+     "de": "Stativ",
+     "es": "tripié",
+     "it": "treppiede",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 6,
+      "it": 9
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "it": "tipi di macchina fotorafica",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "it": "i"
+     },
+     "_grid_len": {
+      "it": 24
+     }
+    },
+    {
+     "en": "digital camera",
+     "fr": "TapparciI num érique",
+     "de": "Digitalkamera",
+     "es": "cámara digital",
+     "it": "macchina fotografica digitale",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 18,
+      "de": 13,
+      "es": 13,
+      "it": 27
+     }
+    },
+    {
+     "en": "APS camera",
+     "fr": "Tappareil photo A PS",
+     "de": "Kamera für APS-Film",
+     "es": "cámara A TS",
+     "it": "macchina fotografica APS",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 17,
+      "de": 16,
+      "es": 9,
+      "it": 22
+     }
+    },
+    {
+     "en": "instant camera",
+     "fr": "Tappareil instantané",
+     "de": "Sofortbildkamera",
+     "es": "cám ara Polaroid",
+     "it": "macchina fotografica instantánea",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 19,
+      "de": 16,
+      "es": 14,
+      "it": 30
+     }
+    },
+    {
+     "en": "disposable camera",
+     "fr": "Tappareil jetable",
+     "de": "Einwegkamera",
+     "es": "cám ara desechable",
+     "it": "m acchini fotografica usa e getta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 16,
+      "de": 12,
+      "es": 16,
+      "it": 28
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

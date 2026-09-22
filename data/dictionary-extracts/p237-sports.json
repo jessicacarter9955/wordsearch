@@ -1,0 +1,341 @@
+{
+ "page": 237,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "macro_slug": "sport",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "gym machine",
+     "fr": "Tappareil de gym",
+     "de": "Fitnessgerät",
+     "es": "máquina de ejercicios",
+     "it": "macchina per esercizi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "de": 12,
+      "es": 19,
+      "it": 19
+     }
+    },
+    {
+     "en": "bench",
+     "fr": "banc",
+     "de": "Bank",
+     "es": "banco",
+     "it": "panca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 4,
+      "de": 4,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "exercise bike",
+     "fr": "vélo d' entraînement",
+     "de": "Trainingsrad",
+     "es": "bicicleta",
+     "it": "cyclette",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 17,
+      "de": 12,
+      "es": 9,
+      "it": 8
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": []
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "free weights",
+     "fr": "poids",
+     "de": "Gewichte",
+     "es": "posas",
+     "it": "manubri",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 5,
+      "de": 8,
+      "es": 5,
+      "it": 7
+     }
+    },
+    {
+     "en": "bar",
+     "fr": "barre",
+     "de": "Stange",
+     "es": "barra",
+     "it": "sbarra",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 6,
+      "es": 5,
+      "it": 6
+     }
+    },
+    {
+     "en": "gym",
+     "fr": "gymnase",
+     "de": "Fitnesscenter",
+     "es": "gim asio",
+     "it": "palestra",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 13,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "rowing machine",
+     "fr": "machine à ramer",
+     "de": "Rudermaschine",
+     "es": "máquina de remos",
+     "it": "vogatore",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 13,
+      "es": 14,
+      "it": 8
+     }
+    },
+    {
+     "en": "treadmill",
+     "fr": "tapis roulant",
+     "de": "Laufband",
+     "es": "banda caminadora",
+     "it": "treadmill",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 12,
+      "de": 8,
+      "es": 15,
+      "it": 9
+     }
+    },
+    {
+     "en": "elliptical trainer",
+     "fr": "machine de randonnée",
+     "de": "Langlauf maschine",
+     "es": "máquina de cross",
+     "it": "cross trainer",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 18,
+      "de": 16,
+      "es": 14,
+      "it": 12
+     }
+    },
+    {
+     "en": "personal trainer",
+     "fr": "Tcntraineusc individuelle",
+     "de": "private Fitness trainerin",
+     "es": "entrenadora personal",
+     "it": "istruttore individuale",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 24,
+      "de": 23,
+      "es": 19,
+      "it": 21
+     }
+    },
+    {
+     "en": "step machine",
+     "fr": "Pcscalier d'entraînem ent",
+     "de": "Tretmaschine",
+     "es": "máquina de step",
+     "it": "macchina per step",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 22,
+      "de": 12,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "swimming pool",
+     "fr": "piscine",
+     "de": "Schwimmbecken",
+     "es": "alberca",
+     "it": "piscina",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 7,
+      "de": 13,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "sauna",
+     "fr": "sauna",
+     "de": "Sauna",
+     "es": "sauna",
+     "it": "sauna",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 5,
+      "es": 5,
+      "it": 5
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

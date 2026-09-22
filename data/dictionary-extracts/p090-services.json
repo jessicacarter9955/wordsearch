@@ -1,0 +1,726 @@
+{
+ "page": 90,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Services",
+  "fr": "Les services",
+  "de": "Die Dienstleistungen",
+  "es": "Los servicios",
+  "it": "I servizi"
+ },
+ "macro_slug": "servizi",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": "banca",
+   "names": {
+    "en": "bank",
+    "fr": "la banque",
+    "de": "die bank",
+    "es": "el banco",
+    "it": "la banca"
+   },
+   "entries": [
+    {
+     "en": "brochures",
+     "fr": "dépliants",
+     "de": "Broschüren",
+     "es": "folletos",
+     "it": "dépliants",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 10,
+      "es": 8,
+      "it": 9
+     }
+    },
+    {
+     "en": "customer",
+     "fr": "client",
+     "de": "Kunde",
+     "es": "cliente",
+     "it": "cliente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "counter",
+     "fr": "comptoir",
+     "de": "Schalter",
+     "es": "mostrador",
+     "it": "banco",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 8,
+      "es": 9,
+      "it": 5
+     }
+    },
+    {
+     "en": "window",
+     "fr": "guichet",
+     "de": "Schalter",
+     "es": "ventanilla",
+     "it": "sportello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 8,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "deposit slips",
+     "fr": "fiches de versenk",
+     "de": "Einzahlungsscheine",
+     "es": "fichas de depósito",
+     "it": "moduli di versamenti",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 15,
+      "de": 18,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "teller",
+     "fr": "caissier",
+     "de": "Kassierer",
+     "es": "cajero",
+     "it": "cassiere",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 8,
+      "de": 9,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "amount",
+     "fr": "montant",
+     "de": "Betrag",
+     "es": "cantidad",
+     "it": "importo",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "signature",
+     "fr": "signature",
+     "de": "Unterschrift",
+     "es": "firma",
+     "it": "firma",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 9,
+      "de": 12,
+      "es": 5,
+      "it": 5
+     }
+    },
+    {
+     "en": "account number",
+     "fr": "numéro de compte",
+     "de": "Kontonummer",
+     "es": "número de cuenta",
+     "it": "numero di conto",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 11,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "stub",
+     "fr": "talon",
+     "de": "Abschnitt",
+     "es": "matriz",
+     "it": "matrice",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 5,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "debit card",
+     "fr": "carte bancaire",
+     "de": "EC-Karte",
+     "es": "tarjeta de débito",
+     "it": "carta di debito",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 13,
+      "de": 7,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "check",
+     "fr": "chèque",
+     "de": "Scheck",
+     "es": "cheque",
+     "it": "assegno",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 6,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "checkbook",
+     "fr": "carnet de chèques",
+     "de": "Scheckheft",
+     "es": "talonario de cheques",
+     "it": "libretto degli assegni",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 15,
+      "de": 10,
+      "es": 18,
+      "it": 20
+     }
+    },
+    {
+     "en": "branch manager",
+     "fr": "directeur d'agence",
+     "de": "Filialleiter",
+     "es": "gerente del banco",
+     "it": "direttore",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 12,
+      "es": 15,
+      "it": 9
+     }
+    },
+    {
+     "en": "credit card",
+     "fr": "carte de crédit",
+     "de": "Kreditkarte",
+     "es": "tarjeta de crédito",
+     "it": "carta di credito",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 13,
+      "de": 11,
+      "es": 16,
+      "it": 14
+     }
+    },
+    {
+     "en": "checking account",
+     "fr": "compte courant",
+     "de": "Girokonto",
+     "es": "cuenta corriente",
+     "it": "conto corrente",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 9,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "deposit (v)",
+     "fr": "verser",
+     "de": "einzahlen",
+     "es": "depositar",
+     "it": "versare",
+     "_multi": [
+      "en"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 6,
+      "de": 9,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "savings",
+     "fr": "épargne",
+     "de": "Spareinlagen",
+     "es": "ahorros",
+     "it": "risparmi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "los",
+      "it": "i"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 12,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "mortgage",
+     "fr": "hypothèque",
+     "de": "Hypothek",
+     "es": "hipoteca",
+     "it": "ipoteca",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 10,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "payment",
+     "fr": "paiement",
+     "de": "Zahlung",
+     "es": "pago",
+     "it": "pagamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 4,
+      "it": 9
+     }
+    },
+    {
+     "en": "savings account",
+     "fr": "compte d' épargne",
+     "de": "Sparkonto",
+     "es": "cuenta de ahorros",
+     "it": "conto di risparmio",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 9,
+      "es": 15,
+      "it": 16
+     }
+    },
+    {
+     "en": "tax",
+     "fr": "impôt",
+     "de": "Steuer",
+     "es": "impuestos",
+     "it": "imposta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "los",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 5,
+      "de": 6,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "direct deposit",
+     "fr": "virement bancaire",
+     "de": "Banküberweisung",
+     "es": "transferencia bancaria",
+     "it": "bonifico bancario",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 16,
+      "de": 15,
+      "es": 21,
+      "it": 16
+     }
+    },
+    {
+     "en": "line of credit",
+     "fr": "découvert",
+     "de": "Kontoüberziehung",
+     "es": "sobregiro",
+     "it": "scoperto",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 9,
+      "de": 16,
+      "es": 9,
+      "it": 8
+     }
+    },
+    {
+     "en": "automatic bill payment",
+     "fr": "prélèvement",
+     "de": "Einzugsauftrag",
+     "es": "débito directo",
+     "it": "addebito diretto",
+     "_multi": [
+      "en",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 20,
+      "fr": 11,
+      "de": 14,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "pin number",
+     "fr": "code secret",
+     "de": "PIN-Kode",
+     "es": "pin",
+     "it": "pin",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_hyphen": [
+      "de"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 10,
+      "de": 7,
+      "es": 3,
+      "it": 3
+     }
+    },
+    {
+     "en": "loan",
+     "fr": "prêt",
+     "de": "Darlehen",
+     "es": "préstamo",
+     "it": "prestito",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 4,
+      "de": 8,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "service charge",
+     "fr": "frais bancaire",
+     "de": "Bankgebühr",
+     "es": "I3 com isión del banco",
+     "it": "commissione bancaria",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 13,
+      "de": 10,
+      "es": 18,
+      "it": 19
+     }
+    },
+    {
+     "en": "interest rate",
+     "fr": "taux d' intérêt",
+     "de": "Zinssatz",
+     "es": "tasa de interés",
+     "it": "tasso d'interesse",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 12,
+      "fr": 12,
+      "de": 8,
+      "es": 13,
+      "it": 15
+     }
+    },
+    {
+     "en": "withdrawal slip",
+     "fr": "fiche de retrait",
+     "de": "Abhebungsformular",
+     "es": "ficha de retiro",
+     "it": "modulo di prelievo",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 14,
+      "fr": 14,
+      "de": 17,
+      "es": 13,
+      "it": 16
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

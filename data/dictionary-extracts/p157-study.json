@@ -1,0 +1,611 @@
+{
+ "page": 157,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Study",
+  "fr": "L'étude",
+  "de": "Das Lernen",
+  "es": "El estudio",
+  "it": "Lo studio"
+ },
+ "macro_slug": "studio",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "tweezers",
+     "fr": "pince fine",
+     "de": "Pinzette",
+     "es": "pinzas",
+     "it": "pinzette",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 9,
+      "de": 8,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "syringe",
+     "fr": "seringue",
+     "de": "Spritze",
+     "es": "jeringa",
+     "it": "siringa",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 8,
+      "de": 7,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "thermometer",
+     "fr": "thermomètre",
+     "de": "Thermometer",
+     "es": "termo metro",
+     "it": "termometro",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 11,
+      "de": 11,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "scalpel",
+     "fr": "scalpel",
+     "de": "Skalpell",
+     "es": "bisturí",
+     "it": "bisturi",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "tongs",
+     "fr": "pince",
+     "de": "Greifzange",
+     "es": "tenazas",
+     "it": "tenaglie",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "las",
+      "it": "le"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 5,
+      "de": 10,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "spatula",
+     "fr": "spatule",
+     "de": "Spatel",
+     "es": "espátula",
+     "it": "spatola",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 6,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "dropper",
+     "fr": "compte-gouttes",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 13
+     }
+    },
+    {
+     "en": "forceps",
+     "fr": "forceps",
+     "de": "Zange",
+     "es": "fórceps",
+     "it": "forcipe",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "los",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    }
+   ]
+  },
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "pestle",
+     "fr": "pilon",
+     "de": "Keule",
+     "es": "mano de mortero",
+     "it": "pestello",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 5,
+      "de": 5,
+      "es": 13,
+      "it": 8
+     }
+    },
+    {
+     "en": "eyepiece",
+     "fr": "oculaire das Okular",
+     "es": "ocular l'oculare",
+     "_multi": [
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "es": "el"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 17,
+      "es": 14
+     }
+    },
+    {
+     "en": "mortar",
+     "fr": "mord er",
+     "de": "Mörser",
+     "es": "mortero",
+     "it": "mortaio",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "filter paper",
+     "fr": "papier filtre",
+     "de": "Filterpapier",
+     "es": "filtro de papel",
+     "it": "filtro di carta",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 12,
+      "es": 13,
+      "it": 13
+     }
+    },
+    {
+     "en": "safety goggles",
+     "fr": "lunettes de protection",
+     "de": "Schutzbrille",
+     "es": "gafas protectoras",
+     "it": "occhiali protettivi",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "les",
+      "de": "die",
+      "es": "las",
+      "it": "gli"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 20,
+      "de": 12,
+      "es": 16,
+      "it": 18
+     }
+    },
+    {
+     "en": "glass rod",
+     "fr": "tige de verre",
+     "de": "Glasstabchen",
+     "es": "varilla de cristal",
+     "it": "bacchetta di vetro",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 12,
+      "es": 16,
+      "it": 16
+     }
+    },
+    {
+     "en": "objective lens",
+     "fr": "lentille de l'objectif",
+     "de": "Objektivlinse",
+     "es": "lente del objectivo",
+     "it": "obicttivo",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 19,
+      "de": 13,
+      "es": 17,
+      "it": 9
+     }
+    },
+    {
+     "en": "stage",
+     "fr": "platine",
+     "de": "Tisch",
+     "es": "platina",
+     "it": "ripiano",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "pipette",
+     "fr": "pipette",
+     "de": "Pipette",
+     "es": "pipeta",
+     "it": "pipetta",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 7,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "beaker",
+     "fr": "bêcher",
+     "de": "Becherglas",
+     "es": "vaso de precipitados",
+     "it": "beeher",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 10,
+      "es": 18,
+      "it": 6
+     }
+    },
+    {
+     "en": "magnet",
+     "fr": "aimant",
+     "de": "Magnet",
+     "es": "imán",
+     "it": "calamita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 6,
+      "es": 4,
+      "it": 8
+     }
+    },
+    {
+     "en": "alligator clip",
+     "fr": "pince crocodile",
+     "de": "Krokodilklemme",
+     "es": "pinza",
+     "it": "morsetto",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 14,
+      "es": 5,
+      "it": 8
+     }
+    },
+    {
+     "en": "slide",
+     "fr": "porte-objet",
+     "de": "Objektträger",
+     "es": "portaobjetos",
+     "it": "lastrina",
+     "_multi": [],
+     "_hyphen": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 10,
+      "de": 12,
+      "es": 12,
+      "it": 8
+     }
+    },
+    {
+     "en": "positive electrode",
+     "fr": "électrode positive",
+     "de": "positive Elektrode",
+     "es": "electrodo positivo",
+     "it": "elettrodo positivo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 17,
+      "de": 17,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "negative electrode",
+     "fr": "électrode négative",
+     "de": "negative Elektrode",
+     "es": "electrodo negativo",
+     "it": "elettrodo negativo",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 17,
+      "fr": 17,
+      "de": 17,
+      "es": 17,
+      "it": 17
+     }
+    },
+    {
+     "en": "mirror",
+     "fr": "miroir",
+     "de": "Spiegel",
+     "es": "espejo",
+     "it": "specchio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "lo"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 6,
+      "de": 7,
+      "es": 6,
+      "it": 8
+     }
+    },
+    {
+     "en": "microscope",
+     "fr": "microscope",
+     "de": "Mikroskop",
+     "es": "microscopio",
+     "it": "microscopio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 9,
+      "es": 11,
+      "it": 11
+     }
+    },
+    {
+     "en": "battery",
+     "fr": "pile",
+     "de": "Batterie",
+     "es": "pila",
+     "it": "batteria",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 4,
+      "de": 8,
+      "es": 4,
+      "it": 8
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

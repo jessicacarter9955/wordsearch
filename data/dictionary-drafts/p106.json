@@ -1,0 +1,369 @@
+{
+ "page": 106,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "acquisti",
+ "category": {
+  "en": "Shopping",
+  "fr": "Les courses",
+  "de": "Der Einkauf",
+  "es": "Las compras",
+  "it": "Gli acquisti"
+ },
+ "header_raw": "S H O P P IN G • 1 ES C O U R S E S • DER EINKAUF • I.AS C O M P R A S • GLI ACQUISTI",
+ "groups": [
+  {
+   "names_raw": "candy store • le confiseur • der Konditor • la dulcería • il confettiere",
+   "parts": [
+    "candy store",
+    "le confiseur",
+    "der konditor",
+    "la dulcería",
+    "il confettiere"
+   ],
+   "entries": [
+    {
+     "en": "snack bar",
+     "fr": "la friandise",
+     "de": "die Nascherei",
+     "es": "la barrita",
+     "it": "la tavoletta spuntino",
+     "_pos": [
+      284,
+      154
+     ],
+     "_flags": []
+    },
+    {
+     "en": "potato chips",
+     "fr": "les chips",
+     "de": "die Chips",
+     "es": "las papas fritas",
+     "it": "le patatine",
+     "_pos": [
+      430,
+      154
+     ],
+     "_flags": []
+    },
+    {
+     "en": "milk chocolate",
+     "fr": "le chocolat au lait",
+     "de": "die Milchschokolade",
+     "es": "el chocolate de leche",
+     "it": "I cioccolato al latte",
+     "_pos": [
+      566,
+      155
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "caramel",
+     "fr": "le caramel",
+     "de": "der Karamell",
+     "es": "el caramelo",
+     "it": "il caramello",
+     "_pos": [
+      724,
+      155
+     ],
+     "_flags": []
+    },
+    {
+     "en": "box of chocolates",
+     "fr": "la boite de chocolats",
+     "de": "die Schachtel Pralinen",
+     "es": "la caja de chocolates",
+     "it": "la scatola di cioccolatini",
+     "_pos": [
+      30,
+      155
+     ],
+     "_flags": []
+    },
+    {
+     "en": "dark chocolate",
+     "fr": "le chocolat noir",
+     "de": "die bittere Schokolade",
+     "es": "el chocolate negro",
+     "it": "il cioccolato amaro",
+     "_pos": [
+      566,
+      254
+     ],
+     "_flags": []
+    },
+    {
+     "en": "truffle",
+     "fr": "la truffe",
+     "de": "der Trüffel",
+     "es": "la trufa",
+     "it": "il tartufo",
+     "_pos": [
+      725,
+      254
+     ],
+     "_flags": []
+    },
+    {
+     "en": "white chocolate",
+     "fr": "le chocolat blanc",
+     "de": "die weiße Schokolade",
+     "es": "el chocolate blanco",
+     "it": "il cioccolato bianco",
+     "_pos": [
+      567,
+      353
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cookie",
+     "fr": "le biscuit",
+     "de": "der Keks",
+     "es": "la galleta",
+     "it": "il biscotto",
+     "_pos": [
+      725,
+      353
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pick and mix",
+     "fr": "les bonbons assortis",
+     "de": "die bunte Mischung",
+     "es": "los dulces a grand",
+     "it": "la caramelle assortite",
+     "_pos": [
+      568,
+      452
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hard candy",
+     "fr": "les bonbons",
+     "de": "die Bonbons",
+     "es": "los caramelos duros",
+     "it": "le caramelle",
+     "_pos": [
+      726,
+      452
+     ],
+     "_flags": []
+    },
+    {
+     "en": "candy store",
+     "fr": "la confiserie",
+     "de": "das Süßwarengeschäft",
+     "es": "la dulcería",
+     "it": "il negozio di dolciumi",
+     "_pos": [
+      32,
+      518
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "confectionery • hi confiserie • die Süßwaren • los dulces • i dolciumi",
+   "parts": [
+    "confectionery",
+    "hi confiserie",
+    "die süßwaren",
+    "los dulces",
+    "i dolciumi"
+   ],
+   "entries": [
+    {
+     "en": "hard candy",
+     "fr": "les bonbons",
+     "de": "die Bonbons",
+     "es": "los caramelos duros",
+     "it": "le caramelle",
+     "_pos": [
+      462,
+      717
+     ],
+     "_flags": []
+    },
+    {
+     "en": "lollipop",
+     "fr": "la sucette",
+     "de": "der Lutscher",
+     "es": "la paleta",
+     "it": "la lecca lecca",
+     "_pos": [
+      676,
+      717
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chocolate bar",
+     "fr": "la tablette de chocolat",
+     "de": "die Tafel Schokolade",
+     "es": "la tablilla de chocolate",
+     "it": "la tavoletta di cioccolata",
+     "_pos": [
+      247,
+      717
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chocolate",
+     "fr": "le chocolat",
+     "de": "die Praline",
+     "es": "el chocolate",
+     "it": "il cioccolatino",
+     "_pos": [
+      33,
+      718
+     ],
+     "_flags": []
+    },
+    {
+     "en": "marshmallow",
+     "fr": "la guimauve",
+     "de": "das Marshmallow",
+     "es": "el malva risco",
+     "it": "la caramella gommosa",
+     "_pos": [
+      462,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mint",
+     "fr": "le bonbon a la menthe",
+     "de": "das Pfefferminz",
+     "es": "la pastilla de menta",
+     "it": "la mentina",
+     "_pos": [
+      676,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "toffee",
+     "fr": "le caramel",
+     "de": "das Toffee",
+     "es": "el toffee",
+     "it": "la caramella mou",
+     "_pos": [
+      34,
+      882
+     ],
+     "_flags": []
+    },
+    {
+     "en": "nougat",
+     "fr": "le nougat",
+     "de": "der Nugat",
+     "es": "el turrón",
+     "it": "il torrone",
+     "_pos": [
+      248,
+      882
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "li",
+   "parts": [
+    "li"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "« H",
+   "parts": [
+    "« h"
+   ],
+   "entries": []
+  },
+  {
+   "names_raw": "Y",
+   "parts": [
+    "y"
+   ],
+   "entries": [
+    {
+     "en": "gumdrop",
+     "fr": "le bonbon au fruir",
+     "de": "der Fruchtgummi",
+     "es": "lago mita",
+     "it": "la caramella alla frutta",
+     "_pos": [
+      462,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "licorice",
+     "fr": "le réglisse",
+     "de": "die Lakritze",
+     "es": "el regaliz",
+     "it": "la liquirizia",
+     "_pos": [
+      678,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "chewing gum",
+     "fr": "le chewing gum",
+     "de": "der Kaugummi",
+     "es": "el chicle",
+     "it": "la gomma da masticare",
+     "_pos": [
+      34,
+      1031
+     ],
+     "_flags": []
+    },
+    {
+     "en": "jellybean",
+     "fr": "la dragée à la gelée",
+     "de": "der Geleebonbon",
+     "es": "el caramelo blando",
+     "it": "la caramella di gelatina",
+     "_pos": [
+      248,
+      1031
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "V",
+   "pos": [
+    294,
+    1006
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 6,
+  "flagged": 18,
+  "missing_lang": 0,
+  "leftovers": 1,
+  "subcats": 5
+ }
+}

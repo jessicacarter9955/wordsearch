@@ -1,0 +1,228 @@
+{
+ "page": 20,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "persone",
+ "category": {
+  "en": "People",
+  "fr": "Les gens",
+  "de": "Die Menschen",
+  "es": "La gente",
+  "it": "Le persone"
+ },
+ "header_raw": "P EO P LE • L E S G E N S • DIE MENSCHEN ♦ L A G E N T E • LE PERSONE",
+ "groups": [
+  {
+   "names_raw": "family • la famille • die Familie • la familia • la fam iglia",
+   "parts": [
+    "family",
+    "la famille",
+    "die familie",
+    "la familia",
+    "la famiglia"
+   ],
+   "entries": [
+    {
+     "en": "grandmother",
+     "fr": "la grand-mère",
+     "de": "die Großmutter",
+     "es": "la abuela",
+     "it": "la nonna",
+     "_pos": [
+      141,
+      231
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grandfather",
+     "fr": "le grand-pére",
+     "de": "der Großvater",
+     "es": "el abuelo",
+     "it": "il nonno",
+     "_pos": [
+      383,
+      231
+     ],
+     "_flags": []
+    },
+    {
+     "en": "uncle",
+     "fr": "l'onde",
+     "de": "der Onkel",
+     "es": "el tío",
+     "it": "lo zio",
+     "_pos": [
+      48,
+      409
+     ],
+     "_flags": []
+    },
+    {
+     "en": "aunt",
+     "fr": "la tante",
+     "de": "die Tante",
+     "es": "la tía",
+     "it": "la zia",
+     "_pos": [
+      218,
+      410
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mother",
+     "fr": "la mère",
+     "de": "die Mutter",
+     "es": "la madre",
+     "it": "la madre",
+     "_pos": [
+      558,
+      413
+     ],
+     "_flags": []
+    },
+    {
+     "en": "cousin",
+     "fr": "le cousin",
+     "de": "der Cousin",
+     "es": "el primo",
+     "it": "il cugino",
+     "_pos": [
+      48,
+      622
+     ],
+     "_flags": []
+    },
+    {
+     "en": "brother",
+     "fr": "le frère",
+     "de": "der Bruder",
+     "es": "el hermano",
+     "it": "il fratello",
+     "_pos": [
+      217,
+      623
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sister",
+     "fr": "la sceiir",
+     "de": "die Schwester",
+     "es": "la hermana",
+     "it": "la sorella",
+     "_pos": [
+      387,
+      624
+     ],
+     "_flags": []
+    },
+    {
+     "en": "wife",
+     "fr": "la femme",
+     "de": "die Ehefrau",
+     "es": "la esposa",
+     "it": "la moglie",
+     "_pos": [
+      726,
+      659
+     ],
+     "_flags": []
+    },
+    {
+     "en": "daughter-in-law",
+     "fr": "la belle-fille",
+     "de": "die Schwiegertochter",
+     "es": "la nuera",
+     "it": "la nuora",
+     "_pos": [
+      46,
+      834
+     ],
+     "_flags": []
+    },
+    {
+     "en": "son",
+     "fr": "le fils",
+     "de": "der Sohn",
+     "es": "el hijo",
+     "it": "il figlio",
+     "_pos": [
+      216,
+      836
+     ],
+     "_flags": []
+    },
+    {
+     "en": "daughter",
+     "fr": "la fille",
+     "de": "die Tochter",
+     "es": "la hija",
+     "it": "la figlia",
+     "_pos": [
+      386,
+      837
+     ],
+     "_flags": []
+    },
+    {
+     "en": "son-in-law",
+     "fr": "le gendre",
+     "de": "der Schwiegersohn",
+     "es": "el yerno",
+     "it": "il genero",
+     "_pos": [
+      726,
+      839
+     ],
+     "_flags": []
+    },
+    {
+     "en": "grandson",
+     "fr": "le perit-fils",
+     "de": "der Enkel",
+     "es": "el nieto",
+     "it": "il nipote",
+     "_pos": [
+      46,
+      1030
+     ],
+     "_flags": []
+    },
+    {
+     "en": "granddaughter",
+     "fr": "la perire-fille",
+     "de": "die Enkelin",
+     "es": "la nieta",
+     "it": "la nipote",
+     "_pos": [
+      215,
+      1032
+     ],
+     "_flags": []
+    },
+    {
+     "en": "husband",
+     "fr": "le mari",
+     "de": "der Ehemann",
+     "es": "el esposo",
+     "it": "il marito",
+     "_pos": [
+      669,
+      1047
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 16,
+  "complete_clean": 0,
+  "flagged": 16,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 1
+ }
+}

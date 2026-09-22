@@ -1,0 +1,400 @@
+{
+ "page": 185,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "macro_slug": "trasporti",
+ "reviewed": false,
+ "groups": [
+  {
+   "slug": null,
+   "names": null,
+   "entries": [
+    {
+     "en": "stop button",
+     "fr": "bouton d'arrêt",
+     "de": "Halteknopf",
+     "es": "botón de parada",
+     "it": "pulsante di chiamata",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 13,
+      "it": 18
+     }
+    },
+    {
+     "en": "window",
+     "fr": "fenêtre",
+     "de": "Fenster",
+     "es": "ventanilla",
+     "it": "finestrino",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "das",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 7,
+      "es": 10,
+      "it": 10
+     }
+    },
+    {
+     "en": "ear wheel",
+     "fr": "a roue arrière",
+     "de": "msHinterrad",
+     "es": "a rueda trasera",
+     "it": "Id ruota posteriore",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 8,
+      "fr": 12,
+      "de": 11,
+      "es": 13,
+      "it": 17
+     }
+    },
+    {
+     "en": "bell",
+     "fr": "sonnette",
+     "de": "Klingel",
+     "es": "timbre",
+     "it": "campanello",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 8,
+      "de": 7,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "bus ticket",
+     "fr": "ticket",
+     "de": "Fahrschein",
+     "es": "boleto de autobus",
+     "it": "biglietto",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 6,
+      "de": 10,
+      "es": 15,
+      "it": 9
+     }
+    },
+    {
+     "en": "bus station",
+     "fr": "gare routière",
+     "de": "Busbahnhof",
+     "es": "estación de autobuses",
+     "it": "autostazione",
+     "_multi": [
+      "en",
+      "fr",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 12,
+      "de": 10,
+      "es": 19,
+      "it": 12
+     }
+    },
+    {
+     "en": "wheelchair access",
+     "fr": "accès aux handicap es",
+     "de": "Rollstuhlzugang",
+     "es": "rampa para sillas de ruedas",
+     "it": "accesso per sedie a rotelle",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 16,
+      "fr": 18,
+      "de": 15,
+      "es": 23,
+      "it": 23
+     }
+    },
+    {
+     "en": "fare",
+     "fr": "prix du ticket",
+     "de": "Fahrpreis",
+     "es": "tarifa",
+     "it": "tariffa",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 12,
+      "de": 9,
+      "es": 6,
+      "it": 7
+     }
+    },
+    {
+     "en": "bus shelter",
+     "fr": "abribus",
+     "de": "Wartehäuschen",
+     "es": "marquesina",
+     "it": "pensilina",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "das",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 13,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "timetable",
+     "fr": "horaire",
+     "de": "Fahrplan",
+     "es": "horario",
+     "it": "orario",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "Which bus goes to ...?",
+     "fr": "'est quel bus pour aller à ...?",
+     "de": "Welcher Bus fährt nach...?",
+     "es": "t Q ué autobus va a ...?",
+     "it": "Qual è l'autobus per...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 14,
+      "fr": 20,
+      "de": 19,
+      "es": 14,
+      "it": 16
+     }
+    },
+    {
+     "en": "Do you stop at...?",
+     "fr": "Vous stoppez à ...?",
+     "de": "Halten Sie am.. ?",
+     "es": "Para usted e n .. 7",
+     "it": "Ferma a...?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 11,
+      "fr": 12,
+      "de": 11,
+      "es": 12,
+      "it": 6
+     }
+    },
+    {
+     "en": "bus stop",
+     "fr": "arrêt de bus",
+     "de": "Bushaltestelle",
+     "es": "parada de autobus",
+     "it": "fermata dell'autobus",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 10,
+      "de": 14,
+      "es": 15,
+      "it": 18
+     }
+    },
+    {
+     "en": "minibus",
+     "fr": "minibus",
+     "de": "Kleinbus",
+     "es": "m icrobús",
+     "it": "pulmino",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 8,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "shuttle bus",
+     "fr": "navette",
+     "de": "Zubringer",
+     "es": "autobus directo",
+     "it": "navetta",
+     "_multi": [
+      "en",
+      "es"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 7,
+      "de": 9,
+      "es": 14,
+      "it": 7
+     }
+    },
+    {
+     "de": "Touristenbus",
+     "es": "autobus turístico",
+     "_multi": [
+      "es"
+     ],
+     "_articles_removed": {
+      "de": "der",
+      "es": "el"
+     },
+     "_grid_len": {
+      "de": 12,
+      "es": 16
+     }
+    },
+    {
+     "en": "tourist bus",
+     "fr": "bus de touristes",
+     "it": "pullman",
+     "_multi": [
+      "en",
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 14,
+      "it": 7
+     }
+    }
+   ]
+  }
+ ],
+ "note": "Estratto automatico (parser+autofix OCR, accuratezza misurata ~94% sul campione d'oro): revisione umana pendente."
+}

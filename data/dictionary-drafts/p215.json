@@ -1,0 +1,276 @@
+{
+ "page": 215,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "sport",
+ "category": {
+  "en": "Sports",
+  "fr": "Les sports",
+  "de": "Der Sport",
+  "es": "Los deportes",
+  "it": "Gli sport"
+ },
+ "header_raw": "SPORTS • LLS SPORTS • DER SPORT • LOS DEPORTES • GLI SPORT",
+ "groups": [
+  {
+   "names_raw": "baseball • le baseball • der Baseball • el béisbol ¡I baseball",
+   "parts": [
+    "baseball",
+    "le baseball",
+    "der baseball",
+    "el béisbol ¡i baseball"
+   ],
+   "entries": [
+    {
+     "en": "field",
+     "fr": "le terrain",
+     "_pos": [
+      56,
+      114
+     ],
+     "_flags": [
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "campo",
+     "_pos": [
+      322,
+      115
+     ],
+     "_flags": [
+      "missing:fr",
+      "missing:de",
+      "missing:es",
+      "missing:it"
+     ]
+    },
+    {
+     "en": "left field",
+     "fr": "le champ gauche",
+     "de": "das linke Feld",
+     "es": "el exterior izquierdo",
+     "it": "il campo sinistro",
+     "_pos": [
+      303,
+      149
+     ],
+     "_flags": []
+    },
+    {
+     "en": "infield",
+     "fr": "le champ intérieur",
+     "de": "das Innenfeld",
+     "es": "el interior",
+     "it": "il campo interno",
+     "_pos": [
+      480,
+      151
+     ],
+     "_flags": []
+    },
+    {
+     "en": "center field",
+     "fr": "le champ central",
+     "de": "das Mittelfeld",
+     "es": "el centro del campo",
+     "it": "il centrocampo",
+     "_pos": [
+      698,
+      152
+     ],
+     "_flags": []
+    },
+    {
+     "es": "el bate",
+     "it": "la mazza",
+     "_pos": [
+      55,
+      197
+     ],
+     "_flags": [
+      "missing:en",
+      "missing:fr",
+      "missing:de"
+     ]
+    },
+    {
+     "en": "helmet",
+     "fr": "le casque",
+     "de": "der Helm",
+     "es": "el casco",
+     "it": "il casco",
+     "_pos": [
+      54,
+      267
+     ],
+     "_flags": []
+    },
+    {
+     "en": "baseman",
+     "fr": "l'homme de hase",
+     "de": "der Maispieler",
+     "es": "base",
+     "it": "il giocatore di base",
+     "_pos": [
+      185,
+      542
+     ],
+     "_flags": []
+    },
+    {
+     "en": "pitcher's mound",
+     "fr": "le mont du lanceur",
+     "de": "die Werferplatte",
+     "es": "el montículo del p itch er",
+     "it": "la pedana di lancio",
+     "_pos": [
+      204,
+      641
+     ],
+     "_flags": [
+      "es:short:p"
+     ]
+    },
+    {
+     "en": "home piate _ ----—'",
+     "fr": "la base du batteur",
+     "de": "das Schlagmal",
+     "es": "el home",
+     "it": "la base di battuta",
+     "_pos": [
+      290,
+      740
+     ],
+     "_flags": [
+      "en:weird:_",
+      "en:weird:----—'"
+     ]
+    },
+    {
+     "en": "batter",
+     "fr": "le batteur",
+     "de": "der Schlagmann",
+     "es": "el bateador",
+     "it": "il battitore",
+     "_pos": [
+      52,
+      838
+     ],
+     "_flags": []
+    },
+    {
+     "en": "inning",
+     "fr": "le tour de batte",
+     "de": "das Inning",
+     "es": "turno",
+     "it": "il turno di battuta",
+     "_pos": [
+      66,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "safe",
+     "fr": "sauf",
+     "de": "in Sicherheit",
+     "es": "safe",
+     "it": "salvo",
+     "_pos": [
+      211,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sinke",
+     "fr": "le coup manque",
+     "de": "der Schlagfehler",
+     "es": "d strike",
+     "it": "lo strike",
+     "_pos": [
+      322,
+      887
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ball",
+     "fr": "la balle",
+     "de": "der Baseball",
+     "es": "la boia",
+     "it": "la palla",
+     "_pos": [
+      638,
+      890
+     ],
+     "_flags": []
+    },
+    {
+     "en": "foul ball",
+     "fr": "la fausse balle",
+     "de": "der ungültige Schlag",
+     "es": "el foul",
+     "it": "il fallo",
+     "_pos": [
+      321,
+      986
+     ],
+     "_flags": []
+    },
+    {
+     "en": "glove",
+     "fr": "le gant",
+     "de": "der Handschuh",
+     "es": "la manopla",
+     "it": "il guantone",
+     "_pos": [
+      477,
+      1036
+     ],
+     "_flags": []
+    },
+    {
+     "en": "mask",
+     "fr": "le masque",
+     "de": "die Schutzmaske",
+     "es": "la careta",
+     "it": "la maschera",
+     "_pos": [
+      690,
+      1038
+     ],
+     "_flags": []
+    }
+   ]
+  }
+ ],
+ "leftovers": [
+  {
+   "text": "das Spielfeld",
+   "pos": [
+    198,
+    115
+   ],
+   "why": "riga singola isolata"
+  },
+  {
+   "text": "campo",
+   "pos": [
+    410,
+    116
+   ],
+   "why": "riga singola isolata"
+  }
+ ],
+ "stats": {
+  "entries": 18,
+  "complete_clean": 5,
+  "flagged": 13,
+  "missing_lang": 3,
+  "leftovers": 2,
+  "subcats": 1
+ }
+}

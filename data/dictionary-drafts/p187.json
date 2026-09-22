@@ -1,0 +1,352 @@
+{
+ "page": 187,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "macro_slug": "trasporti",
+ "category": {
+  "en": "Transportation",
+  "fr": "Le transport",
+  "de": "Der Verkehr",
+  "es": "El transporte",
+  "it": "I trasporti"
+ },
+ "header_raw": "T R A N S P O R T A T IO N • L E T R A N S P O R T • DER VERKEHR • E L T R A N S P O R T E • I TRASPORTI",
+ "groups": [
+  {
+   "names_raw": "types • les modèles • die Wagentypen • los modelos • i tipi",
+   "parts": [
+    "types",
+    "les modèles",
+    "die wagentypen",
+    "los modelos",
+    "i tipi"
+   ],
+   "entries": [
+    {
+     "en": "station wagon",
+     "fr": "le break",
+     "de": "der Kombiwagen",
+     "es": "la camioneta",
+     "it": "l'auto familiare",
+     "_pos": [
+      674,
+      227
+     ],
+     "_flags": []
+    },
+    {
+     "en": "hatchback",
+     "fr": "la berline à hayon",
+     "de": "die Fließhecklimousine",
+     "es": "el carro de cinco puertas",
+     "it": "l'auto a cinque porte",
+     "_pos": [
+      248,
+      228
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sedan",
+     "fr": "la berline",
+     "de": "die Limousine",
+     "es": "el carro familiar",
+     "it": "la berlina",
+     "_pos": [
+      460,
+      228
+     ],
+     "_flags": []
+    },
+    {
+     "en": "ubcornpact",
+     "fr": "la petite voiture",
+     "de": "der Kleinwagen",
+     "es": "el compacto",
+     "it": "l'auto piccola",
+     "_pos": [
+      36,
+      230
+     ],
+     "_flags": []
+    },
+    {
+     "en": "sports car",
+     "fr": "le cabriolet sport",
+     "de": "das Sportkabriolett",
+     "es": "el carro deportivo",
+     "it": "l'auto sportiva",
+     "_pos": [
+      248,
+      426
+     ],
+     "_flags": []
+    },
+    {
+     "en": "minivan",
+     "fr": "la voiture à six places",
+     "de": "die Groöraumlimousine",
+     "es": "la m inivan",
+     "it": "la monovolume",
+     "_pos": [
+      462,
+      426
+     ],
+     "_flags": [
+      "es:short:m"
+     ]
+    },
+    {
+     "en": "four-wheel drive",
+     "fr": "la quatre quatre",
+     "de": "der Geländewagen",
+     "es": "la doble tracción",
+     "it": "il fuoristrada",
+     "_pos": [
+      674,
+      426
+     ],
+     "_flags": []
+    },
+    {
+     "en": "convertible",
+     "fr": "la décapotable",
+     "de": "das Kabriolett",
+     "es": "el convertible",
+     "it": "l'auto decappottabile",
+     "_pos": [
+      36,
+      428
+     ],
+     "_flags": []
+    },
+    {
+     "en": "limousine",
+     "fr": "la limousine",
+     "de": "die verlängerte Limousine",
+     "es": "la lim ousine",
+     "it": "la limousine",
+     "_pos": [
+      434,
+      623
+     ],
+     "_flags": []
+    },
+    {
+     "en": "► muge",
+     "fr": "la voiture d'époque",
+     "de": "das Vorkriegsmodell",
+     "es": "el auto de época",
+     "it": "l'auto d'epoca",
+     "_pos": [
+      38,
+      624
+     ],
+     "_flags": [
+      "en:weird:►"
+     ]
+    },
+    {
+     "en": "car wash",
+     "fr": "le lave-auto",
+     "de": "die Autowaschanlage",
+     "es": "el auto-lavado",
+     "it": "l'autolavaggio",
+     "_pos": [
+      670,
+      688
+     ],
+     "_flags": []
+    },
+    {
+     "en": "leaded",
+     "fr": "avec plomb",
+     "de": "verbleit",
+     "es": "con plomo",
+     "it": "piombata",
+     "_pos": [
+      578,
+      689
+     ],
+     "_flags": []
+    },
+    {
+     "en": "oil",
+     "fr": "l'huile",
+     "de": "das Öl",
+     "es": "el aceite",
+     "it": "l'olio",
+     "_pos": [
+      478,
+      689
+     ],
+     "_flags": []
+    }
+   ]
+  },
+  {
+   "names_raw": "gas station • la station-service • die Tankstelle • la gasolinera • la stazione di servizio",
+   "parts": [
+    "gas station",
+    "la station-service",
+    "die tankstelle",
+    "la gasolinera",
+    "la stazione di servizio"
+   ],
+   "entries": [
+    {
+     "en": "pnce",
+     "fr": "le tarif",
+     "de": "der Benzinpreis",
+     "es": "el precio",
+     "it": "il orezzo",
+     "_pos": [
+      222,
+      739
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gas pump",
+     "fr": "la pompe",
+     "de": "die Zapfsäule",
+     "es": "la bomba",
+     "it": "a pompa di benzina",
+     "_pos": [
+      38,
+      740
+     ],
+     "_flags": []
+    },
+    {
+     "en": "diesel",
+     "fr": "le diesel",
+     "de": "der Diesel",
+     "es": "el diesel",
+     "it": "il diesel",
+     "_pos": [
+      579,
+      787
+     ],
+     "_flags": []
+    },
+    {
+     "en": "gasoline",
+     "fr": "l'essence",
+     "de": "das Benzin",
+     "es": "la gasolina",
+     "it": "la benzina",
+     "_pos": [
+      478,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "antifreeze",
+     "fr": "l'antigel",
+     "de": "das Frostschutzmittel",
+     "es": "el anticongelante",
+     "it": "l'antigelo",
+     "_pos": [
+      671,
+      788
+     ],
+     "_flags": []
+    },
+    {
+     "en": "windshield wiper fluid",
+     "fr": "le lave-glace",
+     "de": "die Scheibenwaschanlage",
+     "es": "el líquido limpiaparabrisas",
+     "it": "il detegente per vetri",
+     "_pos": [
+      672,
+      885
+     ],
+     "_flags": []
+    },
+    {
+     "en": "unleaded",
+     "fr": "sans plomb",
+     "de": "bleifrei",
+     "es": "sin plomo",
+     "it": "senza piombo",
+     "_pos": [
+      480,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "garage",
+     "fr": "le garage",
+     "de": "die Werkstatt",
+     "es": "el taller",
+     "it": "il garage",
+     "_pos": [
+      580,
+      886
+     ],
+     "_flags": []
+    },
+    {
+     "en": "Fill it up. please",
+     "fr": "Le plein, s'il vous plaît",
+     "de": "Voll tanken, bitte",
+     "es": "Llénelo por favor",
+     "it": "Il pieno per favore",
+     "_pos": [
+      480,
+      984
+     ],
+     "_flags": [
+      "en:weird:up.",
+      "en:case",
+      "fr:weird:plein,",
+      "fr:case",
+      "de:weird:tanken,",
+      "es:case",
+      "it:case"
+     ]
+    },
+    {
+     "en": "air hose",
+     "fr": "le compresseur",
+     "de": "das Druckluftgerät",
+     "es": "la bomba del aire",
+     "it": "I distributore di aria compressa",
+     "_pos": [
+      252,
+      1002
+     ],
+     "_flags": [
+      "it:case"
+     ]
+    },
+    {
+     "en": "forecourt",
+     "fr": "l'aire de stationnement",
+     "de": "der Tankstellenplatz",
+     "es": "la /ona de abastecimiento",
+     "it": "i area di stazionamento",
+     "_pos": [
+      40,
+      1003
+     ],
+     "_flags": [
+      "es:weird:/ona"
+     ]
+    }
+   ]
+  }
+ ],
+ "leftovers": [],
+ "stats": {
+  "entries": 24,
+  "complete_clean": 10,
+  "flagged": 14,
+  "missing_lang": 0,
+  "leftovers": 0,
+  "subcats": 2
+ }
+}

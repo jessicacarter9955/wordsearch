@@ -1,0 +1,581 @@
+{
+ "page": 42,
+ "source": "5 Language Visual Dictionary (DK, 2003)",
+ "category": {
+  "en": "Health",
+  "fr": "La santé",
+  "de": "Die Gesundheit",
+  "es": "La salud",
+  "it": "La salute"
+ },
+ "macro_slug": "salute",
+ "reviewed": true,
+ "groups": [
+  {
+   "slug": "ferite",
+   "names": {
+    "en": "injury",
+    "fr": "la blessure",
+    "de": "die Verletzung",
+    "es": "la lesión",
+    "it": "la ferita"
+   },
+   "entries": [
+    {
+     "en": "neck brace",
+     "fr": "minerve",
+     "de": "Halskrawatte",
+     "es": "collarín",
+     "it": "collare",
+     "_multi": [
+      "en"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 12,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "sling",
+     "fr": "écharpe",
+     "de": "Schlinge",
+     "es": "cabestrillo",
+     "it": "fascia a",
+     "_multi": [
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 7,
+      "de": 8,
+      "es": 11,
+      "it": 7
+     }
+    },
+    {
+     "en": "whiplash",
+     "fr": "coup du lapin",
+     "de": "Schleudertrauma",
+     "es": "tirón en el cuello",
+     "it": "colpo di frusta",
+     "_multi": [
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "das",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 11,
+      "de": 15,
+      "es": 15,
+      "it": 13
+     }
+    },
+    {
+     "en": "fracture",
+     "fr": "fracture",
+     "de": "Fraktur",
+     "es": "fractura",
+     "it": "frattura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 7,
+      "es": 8,
+      "it": 8
+     }
+    },
+    {
+     "en": "sprain",
+     "fr": "entorse",
+     "de": "Verstauchung",
+     "es": "torcedura",
+     "it": "slogatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 7,
+      "de": 12,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "splinter",
+     "fr": "écharde",
+     "de": "Splitter",
+     "es": "astilla",
+     "it": "scheggia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 7,
+      "de": 8,
+      "es": 7,
+      "it": 8
+     }
+    },
+    {
+     "en": "bruise",
+     "fr": "contusion",
+     "de": "Prellung",
+     "es": "moretón",
+     "it": "livido",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 6,
+      "fr": 9,
+      "de": 8,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "graze",
+     "fr": "écorchure",
+     "de": "Abschürfung",
+     "es": "raspada",
+     "it": "sbucciatura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 9,
+      "de": 11,
+      "es": 7,
+      "it": 11
+     }
+    },
+    {
+     "en": "cut",
+     "fr": "coupure",
+     "de": "Schnitt",
+     "es": "cortada",
+     "it": "taglio",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 3,
+      "fr": 7,
+      "de": 7,
+      "es": 7,
+      "it": 6
+     }
+    },
+    {
+     "en": "sting",
+     "fr": "piqûre",
+     "de": "Stich",
+     "es": "picadura",
+     "it": "puntura",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 6,
+      "de": 5,
+      "es": 8,
+      "it": 7
+     }
+    },
+    {
+     "en": "burn",
+     "fr": "brûlure",
+     "de": "Brandwunde",
+     "es": "quemadura",
+     "it": "ustione",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 10,
+      "es": 9,
+      "it": 7
+     }
+    },
+    {
+     "en": "sunburn",
+     "fr": "coup de soleil",
+     "de": "Sonnenbrand",
+     "es": "ardida",
+     "it": "scottatura",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 12,
+      "de": 11,
+      "es": 6,
+      "it": 10
+     }
+    },
+    {
+     "en": "bite",
+     "fr": "morsure",
+     "de": "Biss",
+     "es": "mordisco",
+     "it": "morso",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "der",
+      "es": "el",
+      "it": "il"
+     },
+     "_grid_len": {
+      "en": 4,
+      "fr": 7,
+      "de": 4,
+      "es": 8,
+      "it": 5
+     }
+    },
+    {
+     "en": "Will he/she be all right?",
+     "fr": "Est-ce qu'íl/c lk va se rem ettre?",
+     "de": "Wird er/sie es gut überstehen?",
+     "es": "cSe pondrá bien!'",
+     "it": "Si rimetterà?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 19,
+      "fr": 24,
+      "de": 24,
+      "es": 13,
+      "it": 11
+     }
+    },
+    {
+     "en": "concussion",
+     "fr": "commotion cérébrale",
+     "de": "Gehirnerschütterung",
+     "es": "conmoción",
+     "it": "commozione",
+     "_multi": [
+      "fr"
+     ],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 19,
+      "es": 9,
+      "it": 10
+     }
+    },
+    {
+     "en": "hemorrhage",
+     "fr": "hémorragie",
+     "de": "Blutung",
+     "es": "hemorragia",
+     "it": "emorragia",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 10,
+      "de": 7,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "accident",
+     "fr": "accident",
+     "de": "Unfall",
+     "es": "accidente",
+     "it": "incidente",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 8,
+      "fr": 8,
+      "de": 6,
+      "es": 9,
+      "it": 9
+     }
+    },
+    {
+     "en": "head injury",
+     "fr": "traumatisme crânien",
+     "de": "Kopfverletzung",
+     "es": "lesión en la cabeza",
+     "it": "ferita alla testa",
+     "_multi": [
+      "en",
+      "fr",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 10,
+      "fr": 18,
+      "de": 14,
+      "es": 16,
+      "it": 15
+     }
+    },
+    {
+     "en": "Please call an ambulance!",
+     "fr": "Appelez une am bulance s'il vous p lait",
+     "de": "Rufen Sie bitte einen Krankenwagen",
+     "es": "Por favor llame una ambulancia",
+     "it": "Chiami un'ambulanza, per favore",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_grid_len": {
+      "en": 21,
+      "fr": 31,
+      "de": 30,
+      "es": 26,
+      "it": 26
+     }
+    },
+    {
+     "en": "blister",
+     "fr": "ampoule",
+     "de": "Blase",
+     "es": "ampolla",
+     "it": "vescica",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 7,
+      "fr": 7,
+      "de": 5,
+      "es": 7,
+      "it": 7
+     }
+    },
+    {
+     "en": "emergency",
+     "fr": "urgence",
+     "de": "Notfall",
+     "es": "emergencia",
+     "it": "emergenza",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "der",
+      "es": "la",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 7,
+      "de": 7,
+      "es": 10,
+      "it": 9
+     }
+    },
+    {
+     "en": "Where does it hurt?",
+     "fr": "Où avez-vous mal?",
+     "de": "Wo haben Sie Schmerzen?",
+     "es": "D ónde le duele?",
+     "it": "Dove le fa male?",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_hyphen": [
+      "fr"
+     ],
+     "_grid_len": {
+      "en": 15,
+      "fr": 13,
+      "de": 19,
+      "es": 12,
+      "it": 12
+     }
+    },
+    {
+     "en": "electric shock",
+     "fr": "choc électrique",
+     "de": "elektrische Schlag",
+     "es": "shock eléctrico",
+     "it": "scossa elettrica",
+     "_multi": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "it"
+     ],
+     "_articles_removed": {
+      "fr": "le",
+      "de": "der",
+      "es": "el",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 13,
+      "fr": 14,
+      "de": 17,
+      "es": 14,
+      "it": 15
+     }
+    },
+    {
+     "en": "poisoning",
+     "fr": "empoisonnement",
+     "de": "Vergiftung",
+     "es": "envenenamiento",
+     "it": "avvelenamento",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "l'",
+      "de": "die",
+      "es": "el",
+      "it": "l'"
+     },
+     "_grid_len": {
+      "en": 9,
+      "fr": 14,
+      "de": 10,
+      "es": 14,
+      "it": 13
+     }
+    },
+    {
+     "en": "wound",
+     "fr": "blessure",
+     "de": "Wunde",
+     "es": "herida",
+     "it": "ferita",
+     "_multi": [],
+     "_articles_removed": {
+      "fr": "la",
+      "de": "die",
+      "es": "la",
+      "it": "la"
+     },
+     "_grid_len": {
+      "en": 5,
+      "fr": 8,
+      "de": 5,
+      "es": 6,
+      "it": 6
+     }
+    }
+   ]
+  }
+ ],
+ "note": "es 'la ardida' (sunburn) mantenuto: regionalismo messicano del libro."
+}
