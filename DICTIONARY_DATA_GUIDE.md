@@ -25,18 +25,19 @@ Dall'estrazione del "5 Language Visual Dictionary" (pagine 10-303), sono stati c
 ## 📊 **Statistiche attuali:**
 
 ### Parole Singole (gioco):
-- **Inglese:** 15 categorie, 127 parole
-- **Francese:** 15 categorie, 88 parole ✨ (articoli rimossi)
-- **Tedesco:** 21 categorie, 178 parole ✨ (articoli rimossi)
-- **Spagnolo:** 14 categorie, 85 parole ✨ (articoli rimossi)
-- **Italiano:** 23 categorie, 162 parole ✨ (articoli rimossi)
+- **Inglese:** 147 categorie, 978 parole ✨
+- **Francese:** 121 categorie, 609 parole ✨ (articoli rimossi)
+- **Tedesco:** 184 categorie, 1241 parole ✨ (articoli rimossi)
+- **Spagnolo:** 103 categorie, 464 parole ✨ (articoli rimossi)
+- **Italiano:** 85 categorie, 349 parole ✨ (articoli rimossi)
+- **TOTALE: ~3,641 parole singole**
 
 ### Frasi Composte (futuro - opzionale):
-- **Inglese:** 89 categorie, 148 frasi
-- **Francese:** 141 categorie, 338 frasi ✨ (articoli rimossi)
-- **Tedesco:** 105 categorie, 210 frasi ✨ (articoli rimossi)
-- **Spagnolo:** 134 categorie, 339 frasi ✨ (articoli rimossi)
-- **Italiano:** 126 categorie, 253 frasi ✨ (articoli rimossi)
+- **Inglese:** 195 categorie, 1025 frasi ✨ (articoli rimossi)
+- **Francese:** 197 categorie, 1337 frasi ✨ (articoli rimossi)
+- **Tedesco:** 176 categorie, 798 frasi ✨ (articoli rimossi)
+- **Spagnolo:** 183 categorie, 584 frasi ✨ (articoli rimossi)
+- **Italiano:** 136 categorie, 251 frasi ✨ (articoli rimossi)
 
 ## 🚀 **Come integrare nel gioco:**
 

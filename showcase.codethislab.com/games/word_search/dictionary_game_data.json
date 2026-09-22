@@ -3,16 +3,227 @@
     "alphabet": "abcdefghijklmnopqrstuvwxyz",
     "categories": [
       {
+        "cat_name": "P E O P Le I Fs Genis Die Menschen L A Gente Le Persone",
+        "words": [
+          "body",
+          "male",
+          "female"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le L E S Gens Die Menschen L A Gente Le Persone",
+        "words": [
+          "female",
+          "male",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "P E O P Le Les Gens Die Menschen La Gente Le Persone",
         "words": [
+          "arruga",
           "hand",
+          "nail",
           "foot",
+          "muscles",
           "male",
+          "contraception",
+          "titles",
+          "relationships",
           "office",
           "couple",
           "celebrations",
+          "thanksgiving",
+          "diwali",
+          "english",
           "baby",
-          "toddler",
+          "spielanzug",
+          "toddler"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le I F S G E N S Die Menschen L A G E N T E Le Persone",
+        "words": [
+          "head",
+          "throat",
+          "garganta",
+          "tongue",
+          "larynx",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le L E S G E N S Die Menschen L A G E N T E Le Persone",
+        "words": [
+          "family",
+          "nieta",
+          "ehemann",
+          "nuera"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le Les Gf Ns Die Menschen La Gente Le Persone",
+        "words": [
+          "appy",
+          "tristeexcited",
+          "sorpresoscared",
+          "angry",
+          "enfadado",
+          "proud",
+          "engtish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le  Es Gens Die Menschen La Gente Le Persone",
+        "words": [
+          "werden",
+          "heiraten",
+          "wedding",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "blazer",
+          "parka",
+          "sport",
+          "shorts",
+          "english",
+          "styles",
+          "highlights",
+          "colours"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "ladress",
+          "leger",
+          "cngltsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L A P P A R E N C E Die Äussere Erscheinung L A A P A R Ie N C Ia Laspetto",
+        "words": [
+          "accessories",
+          "english",
+          "shoes",
+          "aceup"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E I Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "hair",
+          "accessories",
+          "headband",
+          "englih"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung L A Apariencia Las Petto",
+        "words": [
+          "belleza",
+          "toilettenartikel",
+          "manicure",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "illness",
+          "fever",
+          "engllsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "doctor",
+          "consultation",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H Ia Santé Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "injury",
+          "sprain",
+          "cut",
+          "cortada",
+          "scottaturabum",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La S A N T É Die Gesundheit La S A L U D La Salute",
+        "words": [
+          "dentist",
+          "tooth",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H I A Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "optician",
+          "glasses",
+          "eye",
+          "engtish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesumdheit La Salud La Salute",
+        "words": [
+          "pregnancy",
+          "ultrasound",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H L A S A N T É  Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "childbirth",
+          "einleiten",
+          "entbindung",
           "english"
         ],
         "rows": 10,
@@ -21,13 +232,75 @@
       {
         "cat_name": "Home La Maison Das Haus La Casa La Casa",
         "words": [
+          "home",
           "house",
+          "study",
           "engiish",
+          "bedroom",
+          "soap",
+          "handtücher",
+          "cuerpo",
           "shaving",
+          "desechablt",
           "rgtsh",
           "sleeping",
           "crib",
+          "pintar",
           "engusb"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home La Maison Das Haus La Casa L A Casa",
+        "words": [
+          "home",
+          "hallway",
+          "doorbell",
+          "cadena",
+          "serraturakey",
+          "bolt",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "radiator",
+          "threads",
+          "english",
+          "alpestre",
+          "suculenta",
+          "rgiish",
+          "watering",
+          "pulverizador",
+          "engíish",
+          "gardening",
+          "rastrillar",
+          "cavar"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home L A Maison Das Haus La Casa La Casa",
+        "words": [
+          "home",
+          "plumbing",
+          "boiler",
+          "hebel",
+          "basura",
+          "eogiish",
+          "detergent",
+          "waschmittel",
+          "aspiradora",
+          "dustpan",
+          "activities",
+          "raspar",
+          "barrer",
+          "english"
         ],
         "rows": 10,
         "cols": 10
@@ -36,10 +309,415 @@
         "cat_name": "H O M E I  A M A Is O N Das Haus L A C A S A La Casa",
         "words": [
           "engltsh",
+          "toolbox",
           "socket",
+          "schlüssel",
           "english",
           "home",
+          "pelacables",
+          "piallahandsaw",
+          "file",
+          "afiladora",
+          "schneider",
           "znglish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "kitchen",
+          "teakettle",
+          "kessel",
+          "techniques",
+          "cortar",
+          "serrar",
+          "taladrar",
+          "cepillar",
+          "tallar",
+          "materials",
+          "legnocable",
+          "wood"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus  Ia C A S A La Casa",
+        "words": [
+          "engeratorfreezer",
+          "cooking",
+          "ausrollen"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "kitchenware",
+          "kalk",
+          "rsh",
+          "largo",
+          "cortadora",
+          "podadora",
+          "englisn"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E Ta M A Is O N Das Haus I A C A S A Ia Casa",
+        "words": [
+          "lid",
+          "sartén",
+          "wok",
+          "glass",
+          "spritzbeutel",
+          "engfish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E La M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "bathroom",
+          "engfish",
+          "annual",
+          "anual",
+          "biennaleperennial",
+          "perenne",
+          "fern",
+          "herbes",
+          "herb",
+          "coniferatree",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N  Das Haus L A C A S A La Casa",
+        "words": [
+          "playing",
+          "juguetes",
+          "engllsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E  I A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "laundry",
+          "lavadora",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "jigsaw",
+          "vaivén",
+          "inalámbrico",
+          "abrazadera",
+          "vise",
+          "morsasander",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "decorating",
+          "senkblei",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home I A Maison Das Haus La Casa La Casa",
+        "words": [
+          "home",
+          "garden",
+          "garten",
+          "courtyard"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S I F S S E R V Ic E S Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "ambulance",
+          "rettungssanitäter",
+          "englih"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic Es I Es Services Die Dienstleistungen Eos Servicios I Servizi",
+        "words": [
+          "money",
+          "atm",
+          "währung",
+          "finance",
+          "english",
+          "communications"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S Les Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "telephone",
+          "english",
+          "services",
+          "restaurante",
+          "gimnasio"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S 1 R S Serv Ic Es Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "hotel",
+          "lobby",
+          "reception",
+          "porter",
+          "rooms",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Es C O U R Se S Der Einkauf L A S C O M Pr A S Gli Acquisti",
+        "words": [
+          "sportswear",
+          "deportivos",
+          "papelería",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S G Li Acquisti",
+        "words": [
+          "shopping",
+          "checkout",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Fs C O U R Se S Der Einkauf Las Co M Pra S G Ii Acquisti",
+        "words": [
+          "bakery",
+          "panadería",
+          "pescado",
+          "magazines",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Lus Courses Der Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "shopping",
+          "chemist",
+          "desechable",
+          "engltsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Fs C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "pill",
+          "pildora",
+          "cream",
+          "salbe",
+          "ropfen",
+          "siringaspray",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "shopping",
+          "flohst",
+          "gerbera",
+          "rose"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Les C O U R S E S D E R Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "shopping",
+          "orquídea",
+          "daffodil",
+          "tlip",
+          "blumenarrangements",
+          "bouquet",
+          "ghirlandawreath",
+          "eogfeh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S Gli Acquisti",
+        "words": [
+          "shopping",
+          "newsstand",
+          "postai",
+          "smoking",
+          "tobacco",
+          "lighter",
+          "feuerzeug"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping 1 Es C O U R Se S Der Einkauf Ias C O M Pr A S Gli Acquisti",
+        "words": [
+          "shopping",
+          "confectionery",
+          "nugat",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D I A N O U R R It U R E D Ie Nahrungsmittel Los A U M E N T O S Il Cibo",
+        "words": [
+          "meat",
+          "bacon",
+          "würstchen",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D La N O U R R It U R E D Ie Nahrungsmittel Los Alim Entos Il Cibo",
+        "words": [
+          "cuts",
+          "costilla",
+          "asado",
+          "rebanada",
+          "turkey",
+          "hähnchen",
+          "quail"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "food",
+          "english",
+          "cod",
+          "abadejo",
+          "sardina",
+          "salmon",
+          "butter",
+          "margarinacream",
+          "yogurt",
+          "eggs",
+          "ergiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "dulce",
+          "endibia",
+          "hinojo",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "food",
+          "rauke",
+          "lettuce",
+          "col",
+          "endivie",
+          "english",
+          "cebollin",
+          "puerro",
+          "pepino",
+          "knoblauch",
+          "engiish",
+          "pistache",
+          "nuez",
+          "français",
+          "oils",
+          "lar"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A N Our Riti Irk Die Nahrungsmittel Los Aumentos Il C Ib O",
+        "words": [
+          "food",
+          "vegetables",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourrit R F Die Nahrungsmittel La Comida Il Cibo",
+        "words": [
+          "food",
+          "tángelo",
+          "lemon",
+          "pera",
+          "vhina",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D I A N O U R R It U R E Die Nahrungsmittel L O S A U M E N T O S Il Cibo",
+        "words": [
+          "melonen",
+          "arándano",
+          "français",
+          "food",
+          "caqui"
         ],
         "rows": 10,
         "cols": 10
@@ -47,16 +725,435 @@
       {
         "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
         "words": [
-          "grains",
-          "rice",
-          "engiish",
           "food",
+          "grains",
+          "trigo",
+          "rice",
+          "salvaje",
+          "partido",
+          "engiish",
           "seeds",
+          "chiches",
           "engltsh",
           "marinated",
           "salted",
           "smoked",
-          "cured"
+          "cured",
+          "serrano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "food",
+          "spices",
+          "vainilla",
+          "grano",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D L A Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "engibre",
+          "orégano",
+          "cilantro",
+          "cebollinos",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
+        "words": [
+          "food",
+          "bakery",
+          "backen",
+          "english",
+          "drinks",
+          "cocawater",
+          "coffee",
+          "tea"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La  Ou R R I T U R 1 Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "food",
+          "graines",
+          "nachspeisen",
+          "cakes",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsm Ittel Los Alimentos Il Cibo",
+        "words": [
+          "food",
+          "delicatessen",
+          "edam",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D Ia Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "gin",
+          "tequila",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "coffee",
+          "eléctrica",
+          "expreso",
+          "cappuccino",
+          "techniques",
+          "stuffed",
+          "relleno",
+          "affogatomashed",
+          "fried",
+          "frittopickled",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger A U S W Ä R T S E S S E N Comfr Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "rea",
+          "kamillentee",
+          "milchshakes",
+          "food",
+          "tostado"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger A U S W Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "bar",
+          "corkscrew",
+          "coctelera",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger A U Sw Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "restaurant",
+          "server",
+          "engltsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen C O M E R Huera M Angiare Fuori",
+        "words": [
+          "entrada",
+          "dessert",
+          "engllsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G Out Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "pizza",
+          "enghsh",
+          "briochebread",
+          "frühstück",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger A U Sw Ä R Ts Essen C O M E R Fuera Mangiare Fuori",
+        "words": [
+          "tanen",
+          "abierto",
+          "ritas",
+          "crepes",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T S O R T Ir M A N G E R Auswärts Essen C O M E R F U E R A M Angiare Fuori",
+        "words": [
+          "dinner",
+          "soup",
+          "sopa",
+          "brühe",
+          "curry",
+          "roast",
+          "soufflé",
+          "rice"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen El Estu D Io Lo Studio",
+        "words": [
+          "study",
+          "school",
+          "schuljunge",
+          "colegiala",
+          "english",
+          "bleistift",
+          "notebook",
+          "textbook",
+          "ruler"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Létude D A S L E R N E N Ei Estudio L O St U D Io",
+        "words": [
+          "study",
+          "math",
+          "shapes",
+          "circle",
+          "hexágono",
+          "solids"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S T U D Y L É T U D E Das Lernen E I  E S T U D Io Lo Studio",
+        "words": [
+          "unes",
+          "perpendicolarecurved",
+          "fracción",
+          "area",
+          "engljsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S T U D Y  É T U D E Das Lernen E L E S T U D Io Lo Studio",
+        "words": [
+          "science",
+          "experiment",
+          "rack",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study  Lé T U D E Das Lernen El Estu D Io L O Studio",
+        "words": [
+          "microscope",
+          "skalpell",
+          "papel",
+          "pipette",
+          "battery",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study L Étude D A S L E R N E N El Estudio L O Stu D Io",
+        "words": [
+          "study",
+          "college",
+          "library",
+          "campus",
+          "enghsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen E L E S T U D I O Lo Studio",
+        "words": [
+          "study",
+          "schools",
+          "english",
+          "office",
+          "printer"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Le T R Ava Ii D Ie Arbeit El Tra Ba Jo Il Lavoro",
+        "words": [
+          "agenda",
+          "pinnward",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W Ork Lk Travail Die Arbeit Il Tra Ba Jo Il Lavoro",
+        "words": [
+          "office",
+          "meeting",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Work Lf Travail D Ie Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "work",
+          "desktop",
+          "ventana",
+          "internet",
+          "internetemail",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I I T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "law",
+          "courtroom",
+          "acusación",
+          "english",
+          "prison",
+          "work",
+          "tractor"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L E T R A V A Il Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "cultivables",
+          "futtern",
+          "pflügen",
+          "bewässern",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L F T R Avaii Die Arbeit E L Trabajo  Il Lavoro",
+        "words": [
+          "farm",
+          "crops",
+          "wheat",
+          "rice",
+          "flax",
+          "hay",
+          "tea",
+          "azúcar",
+          "coffee",
+          "tabak"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Work Le Prava 1 1 D Ie A R B E It El Trabajo Il L A V O R O",
+        "words": [
+          "work",
+          "livestock",
+          "pig",
+          "vaca",
+          "lamm",
+          "pferd",
+          "chicleen",
+          "gallina",
+          "hahn",
+          "stable",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I I T R A V A I I Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "materials",
+          "mattonetimber",
+          "dachziegel",
+          "tools",
+          "trowel",
+          "paleta",
+          "machinery",
+          "aplanadora"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I F T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "sailor",
+          "soldier",
+          "engfish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K  L E T R A V A I L Die A Rbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "architect",
+          "pilot",
+          "sobrecargo",
+          "chef"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Lh T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "redactora",
+          "schneider",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "roads",
+          "english",
+          "types",
+          "deportivo",
+          "muge",
+          "engiish"
         ],
         "rows": 10,
         "cols": 10
@@ -66,15 +1163,66 @@
         "words": [
           "enghsh",
           "bus",
+          "minibus",
           "erglish",
+          "motorcycle",
           "controls",
           "clothing",
           "scooter",
           "ecglish",
           "ship",
+          "cabin",
           "english",
           "ferryboat",
-          "port"
+          "yacht",
+          "guerra",
+          "port",
+          "containerport",
+          "hafen",
+          "englìsh",
+          "manna",
+          "der",
+          "boje"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L L T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "car",
+          "interior",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E I T R A N S P O R T E I Trasporti",
+        "words": [
+          "car",
+          "mechanics",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le T R A N S P O R T Der Verkehr L L Transporte I Trasporti",
+        "words": [
+          "train",
+          "streetcar",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr Ki Transporte I Trasporti",
+        "words": [
+          "aircraft",
+          "airliner",
+          "cabin"
         ],
         "rows": 10,
         "cols": 10
@@ -82,17 +1230,175 @@
       {
         "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
         "words": [
+          "football",
           "rugby",
+          "try",
           "ruck",
           "english",
           "soccer",
           "goal",
+          "regatear",
           "cricket",
+          "basketball",
           "engiish",
           "actions",
+          "bloccare",
           "volleyball",
           "player",
-          "gym"
+          "volley",
+          "return",
+          "fitness",
+          "gym",
+          "personal",
+          "step"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "hockey",
+          "fahren",
+          "bowling",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Sports Lls Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sports",
+          "baseball",
+          "field",
+          "batter"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Sports I Fs Sports Der Sport T O S Deportes Gli Sport",
+        "words": [
+          "sports",
+          "golf",
+          "golfer"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L K S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "equipment",
+          "aufsatz",
+          "glove",
+          "handschuh",
+          "actions",
+          "iron",
+          "english",
+          "field"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "gymnastics",
+          "bodenakrobatik",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Spo Ri",
+        "words": [
+          "actions",
+          "fall",
+          "hold",
+          "jump",
+          "block",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I Fs S P O R T S Der Sport L O S D E P O R T E S Gu Sport",
+        "words": [
+          "swimming",
+          "nuotaretum",
+          "onglish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I  E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "styles",
+          "backstroke",
+          "butterfly",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sailing",
+          "bussolaanchor",
+          "anker",
+          "safety",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les Spo R Ts Der Sport Los Deportes G Li Sport",
+        "words": [
+          "watersports",
+          "windsurfing",
+          "rafting",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S Sports Der Sport Los Deportes Gli Spor I",
+        "words": [
+          "events",
+          "rodeo",
+          "trekking",
+          "fishing",
+          "gewicht",
+          "oat",
+          "fly"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les S P O R T S Der Sport Los Deportes G L Sport",
+        "words": [
+          "skiing",
+          "skier",
+          "tip"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Le Is U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O L Ib E R O",
+        "words": [
+          "theater",
+          "seating",
+          "english"
         ],
         "rows": 10,
         "cols": 10
@@ -100,11 +1406,56 @@
       {
         "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O Lib E R O",
         "words": [
+          "concert",
+          "musical",
           "movies",
           "english",
           "orchestra",
           "strings",
-          "piano"
+          "piano",
+          "notation"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "woodwind",
+          "percussion",
+          "brass",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le T E M P S Ubre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "concert",
+          "instruments",
+          "schlagzeug"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E Temps Libre Die Freizeit E L O C Io Il Tempo Ubero",
+        "words": [
+          "jazz",
+          "rap",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E I E Temps Ubre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "sightseeing",
+          "figurine",
+          "guiada",
+          "english"
         ],
         "rows": 10,
         "cols": 10
@@ -113,10 +1464,199 @@
         "cat_name": "Leis U R E T F T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
         "words": [
           "attractions",
+          "casino",
           "information",
+          "map",
           "english",
           "park",
+          "fair",
           "englisb"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S I Ir R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "activities",
+          "playground",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "beach",
+          "english",
+          "engitsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leisure Le Temps Libre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "leisure",
+          "photography",
+          "tripod",
+          "zoom",
+          "spiegelreflexkamera",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E D Ie F R E Iz E It El O C Io Il Tem Po L Ib E R O",
+        "words": [
+          "film",
+          "svilupparenegative",
+          "photograph",
+          "problems",
+          "desenfocado",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E D Ie F R E Iz E It El O C Io Il T Em P O Lib Er O",
+        "words": [
+          "games",
+          "chess",
+          "checkers",
+          "backgammon",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Le Is U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "painting",
+          "colors",
+          "red",
+          "gray",
+          "purple",
+          "pink",
+          "rosa",
+          "marronegreen",
+          "black",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O L Ib E R O",
+        "words": [
+          "stampadrawing",
+          "bols",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt El Mfdio Ambiente Lam Bien Te",
+        "words": [
+          "earth",
+          "planet",
+          "section",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "landscape",
+          "valley",
+          "hill",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L E N V Ir O N N E M E N T Die Umwelt El M Edio Ambiente Lambiente",
+        "words": [
+          "plain",
+          "cascatadesert",
+          "geyser",
+          "coast",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "ram",
+          "storm",
+          "snow",
+          "ice",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt E L Medio Ambiente Lam Bien Te",
+        "words": [
+          "rocks",
+          "igneous",
+          "pomicesedimentary",
+          "gneiss",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio A M B Ie N T E L Ambiente",
+        "words": [
+          "minerals",
+          "metals",
+          "gold",
+          "engllsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T I Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "mammals",
+          "rata",
+          "dog",
+          "foca",
+          "engiish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L  Environnement Die Umwelt E L Medio A M Ri Ente Lambiente",
+        "words": [
+          "trunk",
+          "lion",
+          "engllsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt 1  L M E D Io Ambiente Lam Biente",
+        "words": [
+          "animals",
+          "birds",
+          "english"
         ],
         "rows": 10,
         "cols": 10
@@ -124,12 +1664,95 @@
       {
         "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El M E D Io Ambiente Lambiente",
         "words": [
+          "goose",
+          "peacock",
+          "lalareptiles",
+          "alligator",
+          "lizard",
+          "galápago",
           "engltsh",
           "animals",
           "amphibians",
           "frosch",
           "fish",
-          "biene"
+          "eel",
+          "shark",
+          "libellulaladybug",
+          "ameise",
+          "biene",
+          "babosa",
+          "langosta",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T 1 Environnement D Ie Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "betullapme",
+          "tree",
+          "oak",
+          "laceroelm",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L  E N V Ir O N N E M K N T Die Umwelt Ft M E D Io A M B Ie N T E Lambiente",
+        "words": [
+          "town",
+          "english",
+          "buildings",
+          "theater",
+          "school",
+          "periferiacity",
+          "village"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "church",
+          "digabridge",
+          "cathedral",
+          "engltsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "baroque",
+          "neoclassical",
+          "ilrococo",
+          "enghsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E I N F O R M A T I O N Die Information L O S D A T O S I Dati",
+        "words": [
+          "time",
+          "clock",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Lin F O R M A T Io N Die Information Los D A T O S I Dati",
+        "words": [
+          "reference",
+          "lalbamorning",
+          "dusk",
+          "seraafternoon",
+          "english"
         ],
         "rows": 10,
         "cols": 10
@@ -137,15 +1760,21 @@
       {
         "cat_name": "Reference Lin Fo R M A T Io N D Ie Information Los D A T O S I D A T I",
         "words": [
+          "reference",
           "calendar",
+          "day",
           "english",
           "alaska",
+          "canada",
+          "greenland",
           "belize",
+          "nicaragua",
           "panama",
           "cuba",
           "bahamas",
           "haiti",
           "barbados",
+          "barbuda",
           "grenada"
         ],
         "rows": 10,
@@ -159,6 +1788,8 @@
           "century",
           "jahrhundert",
           "decade",
+          "jahrzehnt",
+          "vorgestern",
           "woche",
           "english"
         ],
@@ -180,9 +1811,29 @@
           "ten",
           "eleven",
           "thirteen",
+          "fourteen",
           "fifteen",
           "sixteen",
+          "seventeen",
+          "eighteen",
+          "nineteen",
           "enghsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L Information Die Information Los Datos I D A T I",
+        "words": [
+          "fünfhundert",
+          "fourth",
+          "fifth",
+          "sixth",
+          "seventh",
+          "eighth",
+          "ninth",
+          "noveno",
+          "english"
         ],
         "rows": 10,
         "cols": 10
@@ -190,10 +1841,18 @@
       {
         "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
         "words": [
+          "fläche",
+          "distancia",
           "scale",
           "length",
+          "foot",
           "english",
+          "capacity",
+          "graduada",
           "container",
+          "carton",
+          "tub",
+          "tube",
           "engllsh",
           "enghsh"
         ],
@@ -201,19 +1860,128 @@
         "cols": 10
       },
       {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
+          "sur",
+          "venezuela",
+          "ecuador",
+          "perù",
+          "guyana",
+          "brazil",
+          "bolivia",
+          "argentina",
+          "paraguay",
+          "uruguay",
+          "falklandinseln"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "reference",
+          "europe",
+          "ireland",
+          "portugal",
+          "spam",
+          "france",
+          "belgium",
+          "sweden",
+          "finland",
+          "estoma",
+          "latvia",
+          "lithuania",
+          "österreich",
+          "switzerland",
+          "italy",
+          "monaco",
+          "sardinia",
+          "slovakia",
+          "belarus",
+          "moldova",
+          "marino",
+          "sicily",
+          "malta",
+          "jugoslawien",
+          "albania",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
+          "africa",
+          "occidental",
+          "senegai",
+          "gambia",
+          "guinea",
+          "leone",
+          "liberia",
+          "mali",
+          "algeria",
+          "tunisia",
+          "nigeria",
+          "chad",
+          "egypt",
+          "sudan",
+          "libya",
+          "niger",
+          "ghana",
+          "togo",
+          "eritrea",
+          "djibouti",
+          "ethiopia",
+          "kenya",
+          "uganda",
+          "gabon",
+          "congo",
+          "cabinda",
+          "rwanda",
+          "burundi",
+          "tanzania",
+          "malawi",
+          "angola",
+          "namibia",
+          "botswana",
+          "lesotho",
+          "swaziland",
+          "madagascar",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Reference Linformation D Ie In Fo R M A T Io N Los Datos I D A T I",
         "words": [
+          "reference",
           "asia",
+          "föderation",
           "georgia",
+          "azerbaijan",
           "iran",
           "iraq",
           "syna",
           "lebanon",
           "israel",
+          "jordan",
+          "yemen",
+          "kazakhstan",
+          "uzbekistan",
+          "afghanistan",
+          "tajikistan",
+          "kyrgyzstan",
+          "pakistan",
           "india",
+          "maldives",
           "china",
+          "mongolia",
           "japan",
           "nepal",
+          "bhutan",
           "laos"
         ],
         "rows": 10,
@@ -222,12 +1990,19 @@
       {
         "cat_name": "Reference L Information D I E In Fo R M A Tio N Los Datos I D A Ii",
         "words": [
+          "reference",
+          "australasia",
+          "tasmania",
+          "neuseeland",
+          "cambodia",
           "malaysia",
           "singapore",
           "indonesia",
           "brunei",
           "philippines",
           "taiwan",
+          "neuguinea",
+          "vanuatu",
           "fiji",
           "english"
         ],
@@ -242,10 +2017,89 @@
       {
         "cat_name": "P E O P Le Les Gens Die Menschen La Gente Le Persone",
         "words": [
+          "lentigginepore",
           "pied",
+          "gens",
+          "contraception",
+          "francai",
+          "nipotenephew",
+          "titres",
+          "luomoadult",
+          "relations",
           "bureau",
           "fetes",
           "bébé",
+          "bib",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le Les Gens Die Menschen L A Gente Le Persone",
+        "words": [
+          "gens",
+          "squelette",
+          "larticulation",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le I F S G E N S Die Menschen L A G E N T E Le Persone",
+        "words": [
+          "tête",
+          "gorge",
+          "langue",
+          "respiratoriodigestive",
+          "endocrinonervous",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le Les Gf Ns Die Menschen La Gente Le Persone",
+        "words": [
+          "émotions",
+          "felicesad",
+          "eccitatobored",
+          "preoccupatonervous",
+          "fâché",
+          "arrabbiato",
+          "fiero",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L  A P P A R E N C E Die Aussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "pere",
+          "français",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "français",
+          "coiffures",
+          "couleurs",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "robe",
+          "casual",
           "français"
         ],
         "rows": 10,
@@ -254,11 +2108,110 @@
       {
         "cat_name": "A P P E A R A N C E L A P P A R E N C E Die Äussere Erscheinung L A A P A R Ie N C Ia Laspetto",
         "words": [
+          "accessoires",
+          "spillacufflink",
           "français",
           "lapparence",
+          "valigettahandbag",
           "borsettaoags",
           "chaussures",
           "ramais"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E I Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "cheveux",
+          "peigner",
+          "legen",
+          "accessoires",
+          "forbiciconditioner",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E I A P P A R E N C E Die Aussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "beauté",
+          "maquillage",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung L A Apariencia Las Petto",
+        "words": [
+          "cerettasunbed",
+          "manicure",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "santé",
+          "maladie",
+          "varicellacough"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "santé",
+          "médecin",
+          "consultation",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H L A S A N T É Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "services",
+          "cardiologiaorthopedics",
+          "dermatologiapediatrics",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La S A N T É Die Gesundheit La S A L U D La Salute",
+        "words": [
+          "dentiste",
+          "dent",
+          "spazzolarebraces",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H I A Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "lopticien",
+          "lœil",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H L A S A N T É  Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "naissance",
+          "nouveauné",
+          "français"
         ],
         "rows": 10,
         "cols": 10
@@ -268,10 +2221,66 @@
         "words": [
           "maison",
           "français",
+          "chambre",
+          "savon",
           "rasage",
           "coucher",
-          "peindre",
-          "pintar"
+          "peindre"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home La Maison Das Haus La Casa L A Casa",
+        "words": [
+          "maison",
+          "vesribnle",
+          "fußabtreter",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "lattaccoground",
+          "français",
+          "larrosage",
+          "jardinage",
+          "tondre",
+          "gazonner",
+          "piquer",
+          "bêcher",
+          "arroser"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home L A Maison Das Haus La Casa La Casa",
+        "words": [
+          "plomberie",
+          "palanca",
+          "français",
+          "detergent",
+          "aspirapolveremop",
+          "pelle",
+          "activités",
+          "nerroyer",
+          "épousseter",
+          "cirer"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I  A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "français",
+          "douille",
+          "laffilatorcplunger",
+          "coupetubc"
         ],
         "rows": 10,
         "cols": 10
@@ -281,13 +2290,316 @@
         "words": [
           "cuisine",
           "techniques",
-          "serrar",
-          "cepillar",
+          "découper",
+          "raboter",
           "sculpter",
-          "tallar",
+          "incidere",
           "matériaux",
+          "câble",
           "bois",
           "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus  Ia C A S A La Casa",
+        "words": [
+          "cuisine",
+          "spianare",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E Ta M A Is O N Das Haus I A C A S A Ia Casa",
+        "words": [
+          "padellasaucepan",
+          "pentolagriddle",
+          "pâtisserie",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E La M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "français",
+          "annuel",
+          "annualebiennial",
+          "vivace",
+          "perennebulb",
+          "fougère",
+          "lherbe",
+          "larbre"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E  I A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "buanderie",
+          "linge",
+          "lavatricewasherdryer",
+          "sécher",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "latelier",
+          "létau",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "décoration",
+          "plomada",
+          "tapisser",
+          "décoller",
+          "poncer",
+          "poser",
+          "carreler",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home I A Maison Das Haus La Casa La Casa",
+        "words": [
+          "jardin",
+          "patio",
+          "cour"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus I A C A S A La Casa",
+        "words": [
+          "palisser",
+          "greffer",
+          "köpfen",
+          "escardar",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic Es I H S Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "pompiers",
+          "lestintorehydrant",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic Es I Es Services Die Dienstleistungen Eos Servicios I Servizi",
+        "words": [
+          "largent",
+          "distributeur",
+          "finance",
+          "français",
+          "communications",
+          "poste",
+          "lenveloppe"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S Les Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "téléphone",
+          "français",
+          "services"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S 1 R S Serv Ic Es Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "lhôtel",
+          "hall",
+          "réception",
+          "porteur",
+          "lascenseur"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Es C O U R Se S Der Einkauf L A S C O M Pr A S Gli Acquisti",
+        "words": [
+          "bellezzalinens",
+          "cancellerialighting",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S G Li Acquisti",
+        "words": [
+          "supermarché",
+          "caddie",
+          "caisse",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Fs C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "pilule",
+          "pomada",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "fleuriste",
+          "gerberafoliage",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Les C O U R S E S D E R Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "lorchideapeony",
+          "jonquille",
+          "rulipc",
+          "bouquet",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S Gli Acquisti",
+        "words": [
+          "cartolinacomic",
+          "tabac",
+          "briquet",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping 1 Es C O U R Se S Der Einkauf Ias C O M Pr A S Gli Acquisti",
+        "words": [
+          "confiseur",
+          "confiserie",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D I A N O U R R It U R E D Ie Nahrungsmittel Los A U M E N T O S Il Cibo",
+        "words": [
+          "viande",
+          "bacon",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D La N O U R R It U R E D Ie Nahrungsmittel Los Alim Entos Il Cibo",
+        "words": [
+          "costatachop",
+          "larrostoheart",
+          "fettarasher",
+          "volaille",
+          "dinde",
+          "caille",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "nourriture",
+          "français",
+          "poissonnerie",
+          "thon",
+          "leglefinosardine",
+          "sardinaskate",
+          "saumon",
+          "pescadilla",
+          "beurre",
+          "œufs"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "légumes",
+          "cicoriabamboo",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "nourriture",
+          "roqueta",
+          "laitue",
+          "lattugawatercress",
+          "voseille",
+          "escarola",
+          "trançais",
+          "cipollinaleek",
+          "zucchini",
+          "calabacita",
+          "français",
+          "mandorlawalnut",
+          "nocehazelnut",
+          "deutsch",
+          "huiles",
+          "pot"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourrit R F Die Nahrungsmittel La Comida Il Cibo",
+        "words": [
+          "fruit",
+          "agrumes",
+          "tángelo",
+          "citron",
+          "poire",
+          "trailláis"
         ],
         "rows": 10,
         "cols": 10
@@ -306,14 +2618,256 @@
         "cols": 10
       },
       {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "épices",
+          "vaniglianutmeg",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D L A Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "loriganocinnamon",
+          "lerbafennel",
+          "lalloroherbs",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
         "words": [
+          "nourriture",
           "boulangerie",
           "mélanger",
+          "mescolare",
+          "hornear",
           "boissons",
-          "cocawater",
           "café",
           "thè"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsm Ittel Los Alimentos Il Cibo",
+        "words": [
+          "nourriture",
+          "charcuterie",
+          "ledam",
+          "ledamcheddar",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D Ia Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "gin",
+          "tequilachampagne",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "café",
+          "lespressocappuccino",
+          "préparation",
+          "schiacciatobaked",
+          "sauté",
+          "frit",
+          "sottaceto",
+          "séché",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger A U S W Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "bar",
+          "tirebouchon",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out  Sortir Manger A U S W Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "misurawine",
+          "amusegueule",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger A U Sw Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "restaurant",
+          "garçon",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen C O M E R Huera M Angiare Fuori",
+        "words": [
+          "lantipastosoup",
+          "dessert",
+          "payer"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G Out Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "pizz",
+          "pain",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T S O R T Ir M A N G E R Auswärts Essen C O M E R F U E R A M Angiare Fuori",
+        "words": [
+          "potage",
+          "rôti",
+          "larrostopie",
+          "riz"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen El Estu D Io Lo Studio",
+        "words": [
+          "lécole",
+          "activités",
+          "lire",
+          "écrire",
+          "dessiner",
+          "français",
+          "létude",
+          "stylo",
+          "cahier",
+          "livre",
+          "règie",
+          "apprendre"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Létude D A S L E R N E N Ei Estudio L O St U D Io",
+        "words": [
+          "létude",
+          "mathématiques",
+          "formes",
+          "cercle",
+          "lovale",
+          "lesagonorectangle",
+          "solides",
+          "piramidesphere"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S T U D Y L É T U D E Das Lernen E I  E S T U D Io Lo Studio",
+        "words": [
+          "courbe",
+          "frazionedimensions",
+          "laire",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S T U D Y  É T U D E Das Lernen E L E S T U D Io Lo Studio",
+        "words": [
+          "science",
+          "lexpérience",
+          "support",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study  Lé T U D E Das Lernen El Estu D Io L O Studio",
+        "words": [
+          "pipette",
+          "pipeta",
+          "pile",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen E L E S T U D I O Lo Studio",
+        "words": [
+          "écoles",
+          "français",
+          "travail",
+          "bureau"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W Ork Lk Travail Die Arbeit Il Tra Ba Jo Il Lavoro",
+        "words": [
+          "bureau",
+          "réunion",
+          "présentation",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Lh Travail Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "affaires",
+          "lagenda",
+          "contrat"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Work Lf Travail D Ie Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "finestrafont",
+          "pinternet",
+          "naviguer",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L L Ir A V A Il Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "giraffateleprompter",
+          "radio",
+          "français"
         ],
         "rows": 10,
         "cols": 10
@@ -322,8 +2876,10 @@
         "cat_name": "W O R K I I T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
         "words": [
           "droit",
+          "juge",
           "français",
           "travail",
+          "prison",
           "ferme",
           "tracteur"
         ],
@@ -331,13 +2887,101 @@
         "cols": 10
       },
       {
+        "cat_name": "W O R K L E T R A V A Il Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "activités",
+          "arar",
+          "regar",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L F T R Avaii Die Arbeit E L Trabajo  Il Lavoro",
+        "words": [
+          "ferme",
+          "blé",
+          "riz",
+          "lin",
+          "foin",
+          "thé",
+          "café",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Work Le Prava 1 1 D Ie A R B E It El Trabajo Il L A V O R O",
         "words": [
+          "prava",
           "bétail",
-          "vaca",
+          "cochon",
           "caprahorse",
-          "gallina",
+          "poulet",
+          "lécurie",
+          "stallapen",
           "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Le Travail Die Arbeit Ft Tra Ba Jo Il Lavoro",
+        "words": [
+          "travail",
+          "construction",
+          "chantier",
+          "construire"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I I T R A V A I I Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "teja",
+          "outils",
+          "truelle",
+          "machines",
+          "grue",
+          "elroadwork",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I F T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "docteur",
+          "linfermieravet",
+          "soldat",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K  L E T R A V A I L Die A Rbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "lautista",
+          "larchitecte",
+          "pilote",
+          "chef"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "routes",
+          "français",
+          "modèles",
+          "stationservice",
+          "crevaison"
         ],
         "rows": 10,
         "cols": 10
@@ -345,9 +2989,11 @@
       {
         "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr El Transporte I Trasporti",
         "words": [
+          "transport",
           "français",
           "bus",
           "car",
+          "moto",
           "commandes",
           "navire",
           "paquebot",
@@ -357,16 +3003,303 @@
         "cols": 10
       },
       {
+        "cat_name": "T R A N S P O R T A T Io N L L T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "voiture",
+          "lintérieur",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E I T R A N S P O R T E I Trasporti",
+        "words": [
+          "voiture",
+          "mécanique",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr Ki Transporte I Trasporti",
+        "words": [
+          "transport",
+          "pavion",
+          "cabine"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
         "words": [
-          "rugby",
           "français",
+          "placcare",
+          "rugby",
           "football",
           "but",
-          "regatear",
+          "palleggiare",
           "cricket",
-          "bloccare",
+          "basket",
+          "tirare",
+          "marcareblock",
           "volley"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sports",
+          "hockey",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L K S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "léquipement",
+          "bois",
+          "français",
+          "lathlétisme"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Spo Ri",
+        "words": [
+          "actions",
+          "blocage",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I Fs S P O R T S Der Sport L O S D E P O R T E S Gu Sport",
+        "words": [
+          "natation",
+          "léquipement",
+          "nageur",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I  E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "styles",
+          "plongée",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport Los Deportes Gli Sport",
+        "words": [
+          "voile",
+          "sécurité",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S Sports Der Sport Los Deportes Gli Spor I",
+        "words": [
+          "peche",
+          "lescabait",
+          "bourriche",
+          "pêcheur"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Le Is U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O L Ib E R O",
+        "words": [
+          "théâtre",
+          "places",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O Lib E R O",
+        "words": [
+          "cinema",
+          "français",
+          "lorchestre",
+          "cordes"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "bois",
+          "oboe",
+          "percussion",
+          "cuivres",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E T F T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "attractions",
+          "linformation",
+          "plan",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S I Ir R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "activités",
+          "lequitazionehiking",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "plage",
+          "sonnenbaden",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leisure Le Temps Libre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "photographie",
+          "filtre",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E D Ie F R E Iz E It El O C Io Il Tem Po L Ib E R O",
+        "words": [
+          "photographier",
+          "problèmes",
+          "sfocatooverexposed",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E D Ie F R E Iz E It El O C Io Il T Em P O Lib Er O",
+        "words": [
+          "jeux",
+          "échecs",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Le Is U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "couleurs",
+          "rouge",
+          "grigioblue",
+          "rose",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O L Ib E R O",
+        "words": [
+          "falegnameriasculpting",
+          "cartapestaorigami",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt El Mfdio Ambiente Lam Bien Te",
+        "words": [
+          "terre",
+          "planète",
+          "section",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "lenvironnement",
+          "zones",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "lenvironnement",
+          "paysage",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt E L Medio Ambiente Lam Bien Te",
+        "words": [
+          "roches",
+          "igné",
+          "sedimentarne",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio A M B Ie N T E L Ambiente",
+        "words": [
+          "lenvironnement",
+          "minéraux",
+          "lorosilver",
+          "pétain",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt 1  L M E D Io Ambiente Lam Biente",
+        "words": [
+          "animaux",
+          "oiseaux",
+          "français"
         ],
         "rows": 10,
         "cols": 10
@@ -374,11 +3307,54 @@
       {
         "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El M E D Io Ambiente Lambiente",
         "words": [
+          "lenvironnement",
+          "locaswan",
+          "paon",
           "français",
           "animaux",
           "rana",
           "poissons",
-          "abeja"
+          "lespadon",
+          "zanzarabeetle",
+          "abeja",
+          "farfallacocoon",
+          "piovracrab",
+          "laragostastarfish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T 1 Environnement D Ie Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "environnement",
+          "plantes",
+          "larbre",
+          "chêne",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L  E N V Ir O N N E M K N T Die Umwelt Ft M E D Io A M B Ie N T E Lambiente",
+        "words": [
+          "ville",
+          "français",
+          "bâtiments",
+          "lécole",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "lenvironnement",
+          "baustile",
+          "neoclassicorenaissance",
+          "français"
         ],
         "rows": 10,
         "cols": 10
@@ -387,6 +3363,7 @@
         "cat_name": "Reference Lin Fo R M A T Io N D Ie Information Los D A T O S I D A T I",
         "words": [
           "calendrier",
+          "pan",
           "français",
           "bahamas",
           "barbado",
@@ -399,9 +3376,13 @@
         "cat_name": "R E F E R E N C E L Information Die Information Los Datos I Dati",
         "words": [
           "ans",
+          "neunzehnhunderteins",
           "saisons",
+          "lété",
+          "lestatefall",
           "siècle",
           "décennie",
+          "übermorgen",
           "français"
         ],
         "rows": 10,
@@ -411,6 +3392,7 @@
         "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
         "words": [
           "nombres",
+          "eins",
           "six",
           "sept",
           "douze",
@@ -421,12 +3403,68 @@
         "cols": 10
       },
       {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "distanzapan",
+          "longueur",
+          "pied",
+          "français",
+          "capacité",
+          "récipient",
+          "pot"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
+          "linformation",
+          "pérou",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "leurope",
+          "suède",
+          "yugoslavia",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
+          "linformation",
+          "lafrique",
+          "westsahara",
+          "sénégal",
+          "fuñiste",
+          "äquatorialguinea",
+          "soudan",
+          "fogo",
+          "tanzanie",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Reference Linformation D Ie In Fo R M A T Io N Los Datos I D A T I",
         "words": [
+          "linformation",
           "lasie",
           "syrie",
           "israël",
+          "kuwait",
           "linde",
+          "bhoutan",
+          "thailand",
           "français"
         ],
         "rows": 10,
@@ -438,18 +3476,86 @@
     "alphabet": "abcdefghijklmnopqrstuvwxyz",
     "categories": [
       {
+        "cat_name": "P E O P Le I Fs Genis Die Menschen L A Gente Le Persone",
+        "words": [
+          "menschen",
+          "körper",
+          "mann",
+          "frau"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le L E S Gens Die Menschen L A Gente Le Persone",
+        "words": [
+          "menschen",
+          "frau",
+          "mann",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "P E O P Le Les Gens Die Menschen La Gente Le Persone",
         "words": [
+          "falte",
           "hand",
+          "fingernagel",
           "fuß",
+          "menschen",
           "männlich",
-          "luomoadult",
+          "anreden",
+          "beziehungen",
           "büro",
           "paar",
+          "freund",
           "feste",
+          "die",
+          "pâques",
+          "pascua",
+          "deutsch",
           "baby",
-          "kleinkind",
+          "kleinkind"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le Les Gens Die Menschen L A Gente Le Persone",
+        "words": [
+          "menschen",
+          "skelett",
+          "wirbelsäule",
+          "gelenk",
           "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le I F S G E N S Die Menschen L A G E N T E Le Persone",
+        "words": [
+          "menschen",
+          "kopf",
+          "kehle",
+          "zunge",
+          "kehlkopf",
+          "stimmbänder",
+          "körpersysteme",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le Les Gens Die Menschen I A Gente L E Pe R So N E",
+        "words": [
+          "menschen",
+          "befruchtung",
+          "reproduction",
+          "weiblich"
         ],
         "rows": 10,
         "cols": 10
@@ -457,12 +3563,229 @@
       {
         "cat_name": "P E O P Le Les Gf Ns Die Menschen La Gente Le Persone",
         "words": [
+          "menschen",
           "gefühle",
-          "felicesad",
-          "eccitatobored",
-          "preoccupatonervous",
-          "arrabbiato",
-          "fiero",
+          "glücklich",
+          "aufgeregt",
+          "erschrocken",
+          "besorgt",
+          "selbstsicher",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le  Es Gens Die Menschen La Gente Le Persone",
+        "words": [
+          "menschen",
+          "geboren",
+          "nascere",
+          "hochzeit",
+          "das",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L  A P P A R E N C E Die Aussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "der",
+          "nachtwàsche",
+          "deutsch",
+          "herrenkleidung",
+          "apariencia",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "blazer",
+          "anorak",
+          "shorts",
+          "deutsch",
+          "frisuren",
+          "haarfarben",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "kleid",
+          "casual",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L A P P A R E N C E Die Äussere Erscheinung L A A P A R Ie N C Ia Laspetto",
+        "words": [
+          "accessoires",
+          "deutsch",
+          "schuhe",
+          "schnürschuh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E I Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "haar",
+          "kämmen",
+          "ausspülen",
+          "waschen",
+          "schneiden",
+          "sécher",
+          "frisierartikel"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E I A P P A R E N C E Die Aussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "schönheit",
+          "makeup",
+          "augenbrauenstift",
+          "lippenkonturenstift",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "gesundheit",
+          "krankheit",
+          "fieber",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "gesundheit",
+          "konsultation",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H Ia Santé Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "gesundheit",
+          "verletzung",
+          "verstauchung",
+          "schnitt",
+          "die",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H I A S A N T É Die Gesundheit La Salud La Salute",
+        "words": [
+          "gesundheit",
+          "salbe",
+          "erstehilfekasten",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H Ia Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "gesundheit",
+          "operationssaal",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H L A S A N T É Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "gesundheit",
+          "abteilungen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La S A N T É Die Gesundheit La S A L U D La Salute",
+        "words": [
+          "gesundheit",
+          "zahnarzt",
+          "zahn",
+          "checkup",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H I A Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "gesundheit",
+          "augenoptiker",
+          "sehtest",
+          "brille",
+          "kontaktlinsen",
+          "auge",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesumdheit La Salud La Salute",
+        "words": [
+          "gesumdheit",
+          "schwangerschaft",
+          "ultraschall",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H L A S A N T É  Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "gesundheit",
+          "geburt",
+          "ventouse",
+          "assistierte",
+          "neugeborene",
+          "couveuse",
+          "geburtsgewicht",
+          "stillen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H L A S A N T E Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "gesundheit",
+          "gruppentherapie",
+          "therapeutin",
           "deutsch"
         ],
         "rows": 10,
@@ -472,10 +3795,28 @@
         "cat_name": "Home La Maison Das Haus La Casa La Casa",
         "words": [
           "haus",
+          "arbeitszimmer",
           "deutsch",
+          "schlafzimmer",
+          "seife",
+          "gli",
           "rasieren",
+          "lattershave",
+          "säuglingspflege",
           "schlafen",
+          "die",
           "kinderbett"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home La Maison Das Haus La Casa L A Casa",
+        "words": [
+          "haus",
+          "dieie",
+          "türriegel",
+          "deutsch"
         ],
         "rows": 10,
         "cols": 10
@@ -483,11 +3824,23 @@
       {
         "cat_name": "H O M E L A M A Is O N Das Haus L A C A S A La Casa",
         "words": [
+          "haus",
+          "hausanschlüsse",
+          "heizkörper",
           "elektrizität",
+          "fassung",
           "deutsch",
+          "die",
           "gedeck",
+          "español",
           "gießen",
-          "mähen"
+          "gartenarbeit",
+          "mähen",
+          "mit",
+          "stechen",
+          "ratisser",
+          "stutzen",
+          "graben"
         ],
         "rows": 10,
         "cols": 10
@@ -495,11 +3848,36 @@
       {
         "cat_name": "Home L A Maison Das Haus La Casa La Casa",
         "words": [
+          "haus",
+          "installation",
           "spüle",
           "boiler",
           "deutsch",
           "polish",
-          "tätigkeiten"
+          "müllschaufel",
+          "tätigkeiten",
+          "putzen",
+          "laver",
+          "kratzen",
+          "balayer",
+          "essuyer",
+          "staub",
+          "polieren",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I  A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "haus",
+          "esszimmer",
+          "deutsch",
+          "werkzeugkasten",
+          "llave",
+          "feile",
+          "rohrab"
         ],
         "rows": 10,
         "cols": 10
@@ -507,11 +3885,18 @@
       {
         "cat_name": "H O M E L A M A Is O N Das Haus L A Casa La Casa",
         "words": [
+          "haus",
           "küche",
+          "toaster",
           "küchengeräte",
           "fertigkeiten",
-          "incidere",
+          "schneiden",
+          "percer",
+          "hobeln",
+          "tourner",
+          "soldar",
           "materialien",
+          "kabel",
           "holz",
           "deutsch"
         ],
@@ -519,17 +3904,490 @@
         "cols": 10
       },
       {
+        "cat_name": "H O M E I A M A Is O N Das Haus  Ia C A S A La Casa",
+        "words": [
+          "gefrierkuhlschrank",
+          "kochen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "haus",
+          "küchengeräte",
+          "das",
+          "spieß",
+          "deutsch",
+          "gartengeräte"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E Ta M A Is O N Das Haus I A C A S A Ia Casa",
+        "words": [
+          "haus",
+          "der",
+          "glas",
+          "kuchenbacken",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home I A Maison Das Haus La Casa La Casa",
+        "words": [
+          "haus",
+          "bettwäsche",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E La M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "haus",
+          "badezimmer",
+          "zahnpflege",
+          "deutsch",
+          "gartenpflanzen",
+          "pflanzenarten",
+          "einjährig",
+          "bisannuel",
+          "mehrjährig",
+          "farn",
+          "las",
+          "kraut"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N  Das Haus L A C A S A La Casa",
+        "words": [
+          "haus",
+          "spielen",
+          "sécurité",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E  I A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "allzweckraum",
+          "wäsche",
+          "trocknen",
+          "bügelbrett"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "haus",
+          "heimwerkstatt",
+          "schraubstock",
+          "die",
+          "létabli",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "haus",
+          "tapezieren",
+          "abziehen",
+          "spachteln",
+          "schmirgeln",
+          "verputzen",
+          "anbringen",
+          "kacheln",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home I A Maison Das Haus La Casa La Casa",
+        "words": [
+          "haus",
+          "garten",
+          "gartentypen",
+          "patio",
+          "architektonische",
+          "hof"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus I A C A S A La Casa",
+        "words": [
+          "haus",
+          "ziehen",
+          "pfropfen",
+          "quitar",
+          "sradicare",
+          "mulchen",
+          "récolter",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S I F S S E R V Ic E S Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "dienstleistungen",
+          "notdienste",
+          "krankenwagen",
+          "polizei",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic Es I H S Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "dienstleistungen",
+          "feuerwehr",
+          "das",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic Es I Es Services Die Dienstleistungen Eos Servicios I Servizi",
+        "words": [
+          "dienstleistungen",
+          "geld",
+          "geldautomat",
+          "ausländische",
+          "geldwirtschaft",
+          "deutsch",
+          "kommunikation",
+          "post",
+          "umschlag"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S Les Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "telefon",
+          "deutsch",
+          "dienstleistungen",
+          "zimmerservice"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S 1 R S Serv Ic Es Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "dienstleistungen",
+          "empfangshalle",
+          "empfang",
+          "hoteldiener",
+          "fahrstuhl",
+          "zimmer",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Es C O U R Se S Der Einkauf L A S C O M Pr A S Gli Acquisti",
+        "words": [
+          "einkauf",
+          "kaufhaus",
+          "das",
+          "juguetería",
+          "léclairage",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S G Li Acquisti",
+        "words": [
+          "einkauf",
+          "supermarkt",
+          "einkaufswagen",
+          "lallée",
+          "kasse",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Fs C O U R Se S Der Einkauf Las Co M Pra S G Ii Acquisti",
+        "words": [
+          "einkauf",
+          "zeitschriften",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Lus Courses Der Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "einkauf",
+          "apotheke",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Fs C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "einkauf",
+          "pille",
+          "creme",
+          "pommade",
+          "lunguentogel",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "einkauf",
+          "blumengeschäft",
+          "die",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Les C O U R S E S D E R Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "osterglocke",
+          "tulpe",
+          "die",
+          "bukett",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S Gli Acquisti",
+        "words": [
+          "einkauf",
+          "zeitungshändler",
+          "rauchen",
+          "tabak",
+          "pipe",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping 1 Es C O U R Se S Der Einkauf Ias C O M Pr A S Gli Acquisti",
+        "words": [
+          "einkauf",
+          "konditor",
+          "süßwarengeschäft",
+          "süßwaren",
+          "der",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Es C O U R S E S Der Einkauf Las C O M Pr A S Gli Acquisti",
+        "words": [
+          "einkauf",
+          "markt",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D I A N O U R R It U R E D Ie Nahrungsmittel Los A U M E N T O S Il Cibo",
+        "words": [
+          "fleisch",
+          "speck",
+          "die",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D La N O U R R It U R E D Ie Nahrungsmittel Los Alim Entos Il Cibo",
+        "words": [
+          "fleischsorten",
+          "geflügel",
+          "pute",
+          "wachtel",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "deutsch",
+          "fischgeschäft",
+          "tunfisch",
+          "die",
+          "lachs",
+          "butter",
+          "margarine",
+          "crème",
+          "eier"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food Ia Nourriture Die Nahrungsmittel 10 Alimentos Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "meeresfrüchte",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "gemüse",
+          "die",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "salat",
+          "lindivia",
+          "deutsch",
+          "die",
+          "léchalote",
+          "laubergine",
+          "español",
+          "öle",
+          "glas"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A N Our Riti Irk Die Nahrungsmittel Los Aumentos Il C Ib O",
+        "words": [
+          "nahrungsmittel",
+          "gemüse",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourrit R F Die Nahrungsmittel La Comida Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "obst",
+          "zitrusfrüchte",
+          "grapefruit",
+          "zitrone",
+          "birne",
+          "pomme",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D I A N O U R R It U R E Die Nahrungsmittel L O S A U M E N T O S Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "groseille",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
         "words": [
+          "nahrungsmittel",
           "getreide",
+          "lavoine",
           "reis",
           "deutsch",
-          "nahrungsmittel",
+          "les",
           "körner",
           "mariniert",
           "gepökelt",
           "geräuchert",
-          "getrocknet"
+          "getrocknet",
+          "sandwichtheke"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "gewürze",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D L A Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "laneto",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D I  A N O U R R I T U R E Die Nahrungsmittel L O S A L Im E N T O S Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "essig",
+          "español",
+          "milchprodukte",
+          "frischkäse",
+          "kuhmilch"
         ],
         "rows": 10,
         "cols": 10
@@ -537,8 +4395,10 @@
       {
         "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
         "words": [
+          "nahrungsmittel",
           "backerei",
-          "mescolare",
+          "sieben",
+          "español",
           "getränke",
           "kaffee",
           "tee"
@@ -547,13 +4407,430 @@
         "cols": 10
       },
       {
-        "cat_name": "W O R K I I T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "cat_name": "Food La  Ou R R I T U R 1 Die Nahrungsmittel Los Alimentos Il Cibo",
         "words": [
-          "recht",
+          "nahrungsmittel",
+          "deutsch",
+          "gebäck"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A Nourriture D Ie Nahrungsmittel Los Aumentos Il C Ib O",
+        "words": [
+          "galletas",
+          "hochzeitstorte",
+          "geburtstagskuchen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsm Ittel Los Alimentos Il Cibo",
+        "words": [
+          "feinkost",
+          "die",
+          "edamer",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D Ia Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "nahrungsmittel",
+          "gin",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "terrassencafe",
+          "café",
+          "zubereitung",
+          "gefüllt",
+          "grillé",
+          "püriert",
+          "kurzgebraten",
+          "gebraten",
+          "assaisonné",
+          "getrocknet"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out  Sortir Manger A U S W Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "mesure",
+          "bière",
+          "liscio",
+          "knabbereien",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger A U Sw Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
+        "words": [
+          "restaurant",
+          "kellner",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen C O M E R Huera M Angiare Fuori",
+        "words": [
+          "bestellen",
+          "gänge",
+          "nachtisch",
+          "bezahlen"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G Out Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "schnellimbiss",
+          "deutsch",
+          "brot",
+          "los"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger A U Sw Ä R Ts Essen C O M E R Fuera Mangiare Fuori",
+        "words": [
+          "crêpes",
+          "pizza",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger Auswärts Essen Comer Fuera M An Giare Fuori",
+        "words": [
+          "frühstück",
+          "frühstückstisch",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T S O R T Ir M A N G E R Auswärts Essen C O M E R F U E R A M Angiare Fuori",
+        "words": [
+          "hauptmahlzeit",
+          "suppe",
+          "braten",
+          "tourte",
+          "das"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen El Estu D Io Lo Studio",
+        "words": [
+          "lernen",
+          "schule",
+          "aktivitäten",
+          "lesen",
+          "schreiben",
+          "zeichnen",
+          "deutsch",
+          "füller",
+          "heft",
+          "schulbuch",
+          "der",
+          "lineai"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Létude D A S L E R N E N Ei Estudio L O St U D Io",
+        "words": [
+          "mathematik",
+          "formen",
+          "kreis",
+          "körper"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S T U D Y L É T U D E Das Lernen E I  E S T U D Io Lo Studio",
+        "words": [
+          "lernen",
+          "gekrümmt",
+          "fläche",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S T U D Y  É T U D E Das Lernen E L E S T U D Io Lo Studio",
+        "words": [
+          "lernen",
+          "wissenschaft",
+          "versuch",
+          "gestell",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study  Lé T U D E Das Lernen El Estu D Io L O Studio",
+        "words": [
+          "die",
+          "forceps",
+          "mikroskop",
+          "beaker",
+          "batterie",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study L Étude D A S L E R N E N El Estudio L O Stu D Io",
+        "words": [
+          "hochschule",
+          "bibliothek",
+          "campus",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen E L E S T U D I O Lo Studio",
+        "words": [
+          "hörsaal",
+          "fachhochschulen",
           "deutsch",
           "arbeit",
+          "büro",
+          "büroausstattung",
+          "fax"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Le T R Ava Ii D Ie Arbeit El Tra Ba Jo Il Lavoro",
+        "words": [
+          "bürobedarf",
+          "lagrafeuse",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W Ork Lk Travail Die Arbeit Il Tra Ba Jo Il Lavoro",
+        "words": [
+          "arbeit",
+          "büro",
+          "sitzung",
+          "präsentation",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Lh Travail Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "arbeit",
+          "geschäft",
+          "arbeitsessen",
+          "terminkalender",
+          "geschäftsabkommen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W Ork I K T R Ava 1 1 Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "arbeit",
+          "computer",
+          "hardware",
+          "diskette"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Work Lf Travail D Ie Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "desktop",
+          "internet",
+          "browsen"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I H T R A V A Il Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "arbeit",
+          "medien",
+          "fernsehstudio"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L L Ir A V A Il Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "arbeit",
+          "radio",
+          "tonstudio",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I I T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "arbeit",
+          "recht",
+          "gerichtssaal",
+          "richter",
+          "deutsch",
+          "los",
+          "gefängnis",
+          "italiano",
           "bauernhof",
-          "traktor"
+          "traktor",
+          "mietitrebbia"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L E T R A V A Il Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "arbeit",
+          "dar",
+          "tätigkeiten",
+          "traire",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L F T R Avaii Die Arbeit E L Trabajo  Il Lavoro",
+        "words": [
+          "arbeit",
+          "bauernhof",
+          "feldfrüchte",
+          "weizen",
+          "reis",
+          "flachs",
+          "balle",
+          "heu",
+          "tee",
+          "kaffee",
+          "der",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Work Le Prava 1 1 D Ie A R B E It El Trabajo Il L A V O R O",
+        "words": [
+          "vieh",
+          "schwein",
+          "pecora",
+          "lagnellogoat",
+          "huhn",
+          "stall",
+          "lenclos",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Le Travail Die Arbeit Ft Tra Ba Jo Il Lavoro",
+        "words": [
+          "arbeit",
+          "baustelle",
+          "bauen"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I I T R A V A I I Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "arbeit",
+          "material",
+          "werkzeuge",
+          "kelle",
+          "maschinen",
+          "kran",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I F T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "arbeit",
+          "seemann",
+          "lopticien",
+          "arzt",
+          "soldat",
+          "der",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K  L E T R A V A I L Die A Rbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "architekt",
+          "pilot",
+          "koch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "straßen",
+          "deutsch",
+          "verkehr",
+          "wagentypen",
+          "vorkriegsmodell",
+          "tankstelle",
+          "reifenpanne"
         ],
         "rows": 10,
         "cols": 10
@@ -561,20 +4838,147 @@
       {
         "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr El Transporte I Trasporti",
         "words": [
+          "verkehr",
+          "verkehrsstau",
           "verkehrsschilder",
           "deutsch",
           "bus",
           "reisebus",
           "bustypen",
-          "verkehr",
+          "kleinbus",
+          "navette",
+          "motorrad",
           "steuerung",
           "kleidung",
+          "typen",
+          "rennmaschine",
+          "tourer",
+          "geländemotorrad",
           "roller",
           "schiff",
           "ozeandampfer",
+          "kabine",
           "fähre",
+          "jacht",
+          "containerschiff",
           "hafen",
-          "fischereihafen"
+          "containerhafen",
+          "passagier",
+          "marina",
+          "fischereihafen",
+          "pier"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N T F T R A N S P O R T Der Verkehr E L Transporte I Trasporti",
+        "words": [
+          "verkehr",
+          "auto",
+          "äußere"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L L T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "verkehr",
+          "auto",
+          "innenausstattung",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N I F T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "verkehr",
+          "armaturen",
+          "linkssteuerung",
+          "rechtssteuerung",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E I T R A N S P O R T E I Trasporti",
+        "words": [
+          "verkehr",
+          "auto",
+          "mechanik",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E Transport Der Verkehr E L Transporte I Trasporti",
+        "words": [
+          "fahrrad",
+          "tandem",
+          "fahrradweg",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le T R A N S P O R T Der Verkehr L L Transporte I Trasporti",
+        "words": [
+          "verkehr",
+          "zug",
+          "diesellokomotive",
+          "straßenbahn",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N I F T R A N S P O R T Der Verkehr El Transporte I Trasporti",
+        "words": [
+          "verkehr",
+          "bahnhofshalle",
+          "speisewagen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr Ki Transporte I Trasporti",
+        "words": [
+          "verkehr",
+          "flugzeug",
+          "verkehrsflugzeug",
+          "kabine"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N I F Transport Der Verkehr El Transporte I Trasporti",
+        "words": [
+          "verkehr",
+          "leichtflugzeug",
+          "privatjet",
+          "laereo",
+          "überschallflugzeug",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E Transport Der Verkehr El Transporte I Trasporti",
+        "words": [
+          "verkehr",
+          "pass",
+          "deutsch"
         ],
         "rows": 10,
         "cols": 10
@@ -582,21 +4986,260 @@
       {
         "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
         "words": [
-          "placcare",
+          "sport",
+          "football",
+          "deutsch",
+          "fangen",
           "rugby",
           "spielfeld",
-          "deutsch",
+          "werfen",
+          "versùch",
+          "kicken",
           "fußball",
           "fußballfeld",
           "tor",
-          "palleggiare",
+          "köpfen",
           "freistoß",
+          "schlagen",
+          "kricketspieler",
+          "basketball",
+          "basketballspieler",
           "aktionen",
-          "tirare",
+          "decken",
           "volleyball",
           "tennisspieler",
+          "volley",
+          "return",
           "schlägerspiele",
+          "fitness",
           "fitnesscenter"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I I S S P O R T S Der Sport Los Deportes Gu Sport",
+        "words": [
+          "sport",
+          "halten",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "eishockey",
+          "eisfläche",
+          "hockey",
+          "eishockeyspieler",
+          "schlagen",
+          "bowling",
+          "bogen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Sports Lls Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "baseball",
+          "campo",
+          "schlagmann",
+          "handschuh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les S P O R T S Der Sport L O S D E P O R T E S 6Li Sport",
+        "words": [
+          "werfen",
+          "rennen",
+          "hinterherlaufen",
+          "spielen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les S P O R T S Der Sport L O S Deportes Gli Sport",
+        "words": [
+          "sport",
+          "tennis",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Sports I Fs Sports Der Sport T O S Deportes Gli Sport",
+        "words": [
+          "sport",
+          "golfspieler",
+          "golfplatz"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L K S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "sport",
+          "ausrüstung",
+          "aktionen",
+          "holz",
+          "eisen",
+          "deutsch",
+          "leichtathletik",
+          "feld"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "sport",
+          "turnen",
+          "schwebebalken",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I Es Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "judo",
+          "kampfsport",
+          "taekwondo",
+          "iurte"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Spo Ri",
+        "words": [
+          "sport",
+          "techniken",
+          "fallen",
+          "griff",
+          "sprung",
+          "block",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I Fs S P O R T S Der Sport L O S D E P O R T E S Gu Sport",
+        "words": [
+          "sport",
+          "schwimmsport",
+          "ausrüstung",
+          "schwimmer",
+          "springen",
+          "nager",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I  E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "sport",
+          "schwimmstile",
+          "kraulen",
+          "rückenschwimmen",
+          "butterfly",
+          "tauchen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "segelsport",
+          "der",
+          "lancora",
+          "navigieren",
+          "sicherheit",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les Spo R Ts Der Sport Los Deportes G Li Sport",
+        "words": [
+          "sport",
+          "wassersport",
+          "rudern",
+          "windsurfing",
+          "wasserski",
+          "raftingspeedboating",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I Ks Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "reitgerte",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S Sports Der Sport Los Deportes Gli Spor I",
+        "words": [
+          "sport",
+          "veranstaltungen",
+          "rodeo",
+          "trekking",
+          "angelsport",
+          "peso",
+          "fliege",
+          "setzkescher",
+          "angler"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les S P O R T S Der Sport Los Deportes G L Sport",
+        "words": [
+          "sport",
+          "skisport",
+          "skiläuferin",
+          "ski",
+          "spitze"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Le Is U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O L Ib E R O",
+        "words": [
+          "freizeit",
+          "theater",
+          "bestuhlung",
+          "deutsch"
         ],
         "rows": 10,
         "cols": 10
@@ -604,11 +5247,64 @@
       {
         "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O Lib E R O",
         "words": [
+          "freizeit",
+          "konzert",
+          "das",
           "kino",
           "deutsch",
           "orchester",
           "saiteninstrumente",
-          "klavier"
+          "klavier",
+          "notation"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "freizeit",
+          "holzblasinstrumente",
+          "querflöte",
+          "schlaginstrumente",
+          "blechblasinstrumente",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le T E M P S Ubre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "freizeit",
+          "konzert",
+          "rockkonzert",
+          "instrumente"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E Temps Libre Die Freizeit E L O C Io Il Tempo Ubero",
+        "words": [
+          "freizeit",
+          "musikstile",
+          "jazz",
+          "folk",
+          "rap",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E I E Temps Ubre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "freizeit",
+          "besichtigungstour",
+          "touristenattraktion",
+          "figur",
+          "deutsch"
         ],
         "rows": 10,
         "cols": 10
@@ -616,11 +5312,315 @@
       {
         "cat_name": "Leis U R E T F T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
         "words": [
-          "sehenswürdigkeiten",
-          "information",
-          "deutsch",
           "freizeit",
-          "park"
+          "sehenswürdigkeiten",
+          "kasino",
+          "information",
+          "stadtplan",
+          "deutsch",
+          "park",
+          "jahrmarkt"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S I Ir R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "freizeit",
+          "aktivitäten",
+          "spielplatz",
+          "rutsche",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "freizeit",
+          "strand",
+          "deutsch",
+          "videorekorder",
+          "videospiel"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib Er O",
+        "words": [
+          "freizeit",
+          "camping",
+          "campingplatz",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T Em P O Lib E R O",
+        "words": [
+          "freizeit",
+          "gli",
+          "luftmatratze",
+          "schlafsack",
+          "deutsch",
+          "privatunter",
+          "hifianlage"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leisure Le Temps Libre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "freizeit",
+          "fotografie",
+          "filter",
+          "stativ",
+          "fotoapparattypen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E D Ie F R E Iz E It El O C Io Il Tem Po L Ib E R O",
+        "words": [
+          "fotografieren",
+          "einstellen",
+          "das",
+          "foto",
+          "probleme",
+          "unscharf",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E D Ie F R E Iz E It El O C Io Il T Em P O Lib Er O",
+        "words": [
+          "spiele",
+          "schach",
+          "damespiel",
+          "backgammon",
+          "brettspiele",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem P S Lib R E D Ie F R E Iz E It E L O C Io Il T E M P O Lib E R O",
+        "words": [
+          "karten",
+          "mischen",
+          "geben",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Le Is U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "freizeit",
+          "kunsthandwerk",
+          "farben",
+          "rot",
+          "grau",
+          "lila",
+          "rosa",
+          "gelb",
+          "weiß",
+          "grün",
+          "schwarz",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O L Ib E R O",
+        "words": [
+          "freizeit",
+          "töpferei",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E I H T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "freizeit",
+          "kunsthandwerk",
+          "nähmaschine",
+          "stoff"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S Libre Die Freizeit El Ocio Il Tempo Libero",
+        "words": [
+          "freizeit",
+          "stricken",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T T Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "umwelt",
+          "weltraum",
+          "sonnensystem",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt E L M E D Io Ambiente Lam Bien Te",
+        "words": [
+          "umwelt",
+          "raumforschung",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt El Mfdio Ambiente Lam Bien Te",
+        "words": [
+          "umwelt",
+          "planet",
+          "längsschnitt",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "umwelt",
+          "vulkan",
+          "erdzonen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "umwelt",
+          "landschaft",
+          "tal",
+          "hügel",
+          "gorge",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L E N V Ir O N N E M E N T Die Umwelt El M Edio Ambiente Lambiente",
+        "words": [
+          "umwelt",
+          "ebene",
+          "foresta",
+          "geysir",
+          "küste",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "umwelt",
+          "sonnenschein",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "umwelt",
+          "regen",
+          "blitz",
+          "gewitter",
+          "schnee",
+          "der",
+          "eis",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt E L Medio Ambiente Lam Bien Te",
+        "words": [
+          "umwelt",
+          "gestein",
+          "eruptiv",
+          "sedimentär",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio A M B Ie N T E L Ambiente",
+        "words": [
+          "umwelt",
+          "metalle",
+          "gold",
+          "das",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T I Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "umwelt",
+          "säugetiere",
+          "hund",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L  Environnement Die Umwelt E L Medio A M Ri Ente Lambiente",
+        "words": [
+          "umwelt",
+          "rüssel",
+          "hirsch",
+          "löwe",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt 1  L M E D Io Ambiente Lam Biente",
+        "words": [
+          "umwelt",
+          "vögel",
+          "deutsch"
         ],
         "rows": 10,
         "cols": 10
@@ -628,12 +5628,99 @@
       {
         "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El M E D Io Ambiente Lambiente",
         "words": [
-          "locaswan",
+          "umwelt",
+          "gans",
+          "pfau",
+          "reptilien",
+          "alligator",
           "deutsch",
           "amphibien",
           "fische",
+          "aal",
+          "haifisch",
+          "der",
+          "schwertfisch",
+          "koikarpfen",
+          "termite",
+          "lapewasp",
+          "lescargot",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T 1 Environnement D Ie Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "die",
+          "pflanzen",
+          "baum",
+          "eiche",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L  E N V Ir O N N E M K N T Die Umwelt Ft M E D Io A M B Ie N T E Lambiente",
+        "words": [
           "umwelt",
-          "lapewasp"
+          "stadt",
+          "deutsch",
+          "gebäude",
+          "das",
+          "schule",
+          "dort",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "umwelt",
+          "kirche",
+          "kathedrale",
+          "larchitecture",
+          "burg",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El Medio Ambiente Lam Bien Te",
+        "words": [
+          "umwelt",
+          "estilos",
+          "barock",
+          "gotisch",
+          "klassizistisch",
+          "rokoko",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E I N F O R M A T I O N Die Information L O S D A T O S I Dati",
+        "words": [
+          "information",
+          "uhrzeit",
+          "uhr",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Lin F O R M A T Io N Die Information Los D A T O S I Dati",
+        "words": [
+          "information",
+          "der",
+          "abenddämmerung",
+          "deutsch"
         ],
         "rows": 10,
         "cols": 10
@@ -642,15 +5729,23 @@
         "cat_name": "Reference Lin Fo R M A T Io N D Ie Information Los D A T O S I D A T I",
         "words": [
           "kalender",
+          "tag",
           "deutsch",
           "alaska",
+          "kanada",
+          "grönland",
+          "mexiko",
+          "guatemala",
           "belize",
+          "honduras",
+          "nicaragua",
           "panama",
           "kuba",
           "bahamas",
           "jamaika",
           "haiti",
           "barbados",
+          "trinidad",
           "grenada"
         ],
         "rows": 10,
@@ -659,14 +5754,14 @@
       {
         "cat_name": "R E F E R E N C E L Information Die Information Los Datos I Dati",
         "words": [
+          "information",
           "jahre",
           "neunzehnhundert",
           "zweitausend",
           "zweitausendeins",
           "jahreszeiten",
-          "lestatefall",
           "annual",
-          "übermorgen",
+          "annuo",
           "deutsch"
         ],
         "rows": 10,
@@ -675,9 +5770,10 @@
       {
         "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
         "words": [
+          "information",
           "zahlen",
           "null",
-          "eins",
+          "uno",
           "zwei",
           "drei",
           "vier",
@@ -690,8 +5786,16 @@
           "elf",
           "zwölf",
           "dreizehn",
+          "vierzehn",
+          "vierhundert",
           "fünfzehn",
           "sechzehn",
+          "siebzehn",
+          "siebenhundert",
+          "achtzehn",
+          "achthundert",
+          "neunzehn",
+          "neunhundert",
           "deutsch"
         ],
         "rows": 10,
@@ -700,15 +5804,20 @@
       {
         "cat_name": "R E F E R E N C E L Information Die Information Los Datos I D A T I",
         "words": [
+          "information",
           "tausend",
           "zehntausend",
           "zwanzigtausend",
           "fünfzigtausend",
+          "funfundfünfzigtausend",
           "hunderttausend",
           "million",
           "milliarde",
-          "quarto",
-          "nonoeleventh",
+          "fünfter",
+          "sechster",
+          "siebter",
+          "achter",
+          "neunter",
           "deutsch"
         ],
         "rows": 10,
@@ -717,11 +5826,123 @@
       {
         "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
         "words": [
+          "information",
           "waage",
           "länge",
+          "fuß",
           "deutsch",
+          "fassungsvermögen",
+          "messbecher",
+          "behälter",
+          "tüte",
+          "dose",
+          "tube"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
           "information",
-          "behälter"
+          "venezuela",
+          "kolumbien",
+          "ecuador",
+          "guyana",
+          "suriname",
+          "brasilien",
+          "bolivien",
+          "chile",
+          "argentinien",
+          "paraguay",
+          "uruguay"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "europa",
+          "irland",
+          "portugal",
+          "spanien",
+          "andorra",
+          "frankreich",
+          "belgien",
+          "deutschland",
+          "danemark",
+          "schweden",
+          "finnland",
+          "estland",
+          "lettland",
+          "litauen",
+          "schweiz",
+          "italien",
+          "monaco",
+          "korsika",
+          "sardinien",
+          "slowakei",
+          "ukraine",
+          "weißrussland",
+          "moldawien",
+          "rumänien",
+          "san",
+          "sizilien",
+          "malta",
+          "jugoslavia",
+          "albanien",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
+          "information",
+          "afrika",
+          "sahara",
+          "senegal",
+          "gambia",
+          "guinea",
+          "sierra",
+          "liberia",
+          "mali",
+          "algerien",
+          "tunesien",
+          "benin",
+          "nigena",
+          "santo",
+          "kamerun",
+          "tschad",
+          "ägypten",
+          "sudan",
+          "libyen",
+          "niger",
+          "ghana",
+          "togo",
+          "eritrea",
+          "dschibuti",
+          "äthiopien",
+          "uganda",
+          "gabun",
+          "kongo",
+          "kabinda",
+          "ruanda",
+          "burundi",
+          "tansania",
+          "malawi",
+          "sambia",
+          "angola",
+          "namibia",
+          "botsuana",
+          "simbabwe",
+          "lesotho",
+          "swasiland",
+          "komoren",
+          "madagaskar",
+          "mauritius"
         ],
         "rows": 10,
         "cols": 10
@@ -731,16 +5952,32 @@
         "words": [
           "georgien",
           "armenien",
+          "aserbaidschan",
           "iran",
           "irak",
           "syrien",
           "libanon",
           "israel",
+          "jordania",
+          "saudiarabien",
           "katar",
+          "oman",
+          "jemen",
+          "kasachstan",
+          "usbekistan",
+          "afghanistan",
+          "tadschikistan",
+          "kirgisistan",
+          "pakistan",
           "indien",
+          "malediven",
           "china",
+          "mongolei",
+          "nordkorea",
+          "südkorea",
           "japan",
           "nepal",
+          "bhutan",
           "laos",
           "deutsch"
         ],
@@ -750,12 +5987,17 @@
       {
         "cat_name": "Reference L Information D I E In Fo R M A Tio N Los Datos I D A Ii",
         "words": [
+          "tasmanien",
+          "kambodscha",
           "malaysia",
           "singapur",
           "indonesien",
           "brunei",
           "philippinen",
           "taiwan",
+          "papua",
+          "salomonen",
+          "vanuatu",
           "fidschi",
           "deutsch"
         ],
@@ -772,8 +6014,12 @@
         "words": [
           "mano",
           "pie",
+          "gente",
+          "italiano",
+          "der",
+          "relaciones",
           "celebraciones",
-          "pascua",
+          "das",
           "apariencia",
           "bebé",
           "español"
@@ -782,14 +6028,232 @@
         "cols": 10
       },
       {
+        "cat_name": "P E O P Le I F S G E N S Die Menschen L A G E N T E Le Persone",
+        "words": [
+          "cabeza",
+          "sistemas",
+          "das",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le L E S G E N S Die Menschen L A G E N T E Le Persone",
+        "words": [
+          "familia",
+          "der",
+          "fille"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le Les Gf Ns Die Menschen La Gente Le Persone",
+        "words": [
+          "gente",
+          "emociones",
+          "triste",
+          "gelangweilt",
+          "ñervos",
+          "verwirrt",
+          "confuso",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L  A P P A R E N C E Die Aussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "apariencia",
+          "español",
+          "laspetto",
+          "italianocollar"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "die",
+          "español",
+          "apariencia",
+          "estilos",
+          "curly",
+          "ricci",
+          "kahl",
+          "calvo",
+          "colores",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L A P P A R E N C E Die Äussere Erscheinung L A A P A R Ie N C Ia Laspetto",
+        "words": [
+          "laspetto",
+          "accesorios",
+          "español",
+          "apariencia",
+          "zapatos"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E I Apparence Die Äussere Erscheinung La Apariencia Laspetto",
+        "words": [
+          "apariencia",
+          "cabello",
+          "lavar",
+          "föhnen",
+          "accesorios",
+          "das",
+          "laque",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung L A Apariencia Las Petto",
+        "words": [
+          "die",
+          "manicura",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "salud",
+          "enfermedad",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "salud",
+          "doctor",
+          "consulta",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H Ia Santé Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "lesión",
+          "die",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H I A S A N T É Die Gesundheit La Salud La Salute",
+        "words": [
+          "salud",
+          "primeros",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H I A Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "salud",
+          "óptico",
+          "ojo",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesumdheit La Salud La Salute",
+        "words": [
+          "salud",
+          "embarazo",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home La Maison Das Haus La Casa La Casa",
+        "words": [
+          "casa",
+          "español",
+          "recámara",
+          "afeitado",
+          "cuna"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home La Maison Das Haus La Casa L A Casa",
+        "words": [
+          "casa",
+          "entrada",
+          "das",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "español",
+          "italiano",
+          "riego",
+          "jardinería",
+          "harken",
+          "säen"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Home L A Maison Das Haus La Casa La Casa",
         "words": [
+          "casa",
+          "fontanería",
           "caldera",
+          "der",
           "español",
           "cire",
+          "cera",
+          "die",
           "acciones",
-          "laver",
-          "essuyer"
+          "spülen",
+          "fegen",
+          "wischen",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I  A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "español",
+          "clef",
+          "chiavewrench",
+          "casa",
+          "der"
         ],
         "rows": 10,
         "cols": 10
@@ -799,10 +6263,62 @@
         "words": [
           "cocina",
           "técnicas",
-          "percer",
-          "tourner",
+          "bohren",
+          "drechseln",
           "souder",
-          "soldar",
+          "saldare",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus  Ia C A S A La Casa",
+        "words": [
+          "casa",
+          "cocinar",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E Ta M A Is O N Das Haus I A C A S A Ia Casa",
+        "words": [
+          "das",
+          "reposteria",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E La M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "baño",
+          "español",
+          "der"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E  I A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "casa",
+          "lavandería",
+          "colada",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "casa",
+          "taller",
+          "die",
           "español"
         ],
         "rows": 10,
@@ -811,11 +6327,177 @@
       {
         "cat_name": "H O M E L A M A Is O N Das Haus La Casa La Casa",
         "words": [
-          "spachteln",
-          "schmirgeln",
-          "anbringen",
-          "kacheln",
+          "casa",
+          "decoración",
+          "despegar",
+          "rellenar",
+          "lijar",
+          "enyesar",
+          "poner",
           "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus I A C A S A La Casa",
+        "words": [
+          "rociar",
+          "ernten",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic Es I H S Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "servicios",
+          "bomberos",
+          "lincendioboom",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S Les Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "teléfono",
+          "español",
+          "servicios",
+          "servicio"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S 1 R S Serv Ic Es Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "hotel",
+          "lobby",
+          "habitaciones",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S G Li Acquisti",
+        "words": [
+          "supermercado",
+          "der",
+          "caja",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Lus Courses Der Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "compras",
+          "farmacia",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Fs C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "die",
+          "seringue",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Les C O U R S E S D E R Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "compras",
+          "narciso",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R Se S Der Einkauf Las C O M Pr A S Gli Acquisti",
+        "words": [
+          "pipe",
+          "pipa",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping 1 Es C O U R Se S Der Einkauf Ias C O M Pr A S Gli Acquisti",
+        "words": [
+          "dulcería",
+          "dulces",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D La N O U R R It U R E D Ie Nahrungsmittel Los Alim Entos Il Cibo",
+        "words": [
+          "cortes",
+          "das",
+          "aves",
+          "pato",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "aumentos",
+          "español",
+          "atún",
+          "der",
+          "salmón",
+          "spigola",
+          "huevos"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "alimentos",
+          "español",
+          "calabaza",
+          "italiani",
+          "aceites"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A N Our Riti Irk Die Nahrungsmittel Los Aumentos Il C Ib O",
+        "words": [
+          "aumentos",
+          "verduras",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourrit R F Die Nahrungsmittel La Comida Il Cibo",
+        "words": [
+          "comida",
+          "fruta",
+          "nectarine",
+          "nectarina"
         ],
         "rows": 10,
         "cols": 10
@@ -823,6 +6505,7 @@
       {
         "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
         "words": [
+          "alimentos",
           "granos",
           "arroz",
           "español",
@@ -833,13 +6516,71 @@
         "cols": 10
       },
       {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "aumentos",
+          "especias",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D L A Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "alimentos",
+          "die",
+          "der",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
         "words": [
+          "alimentos",
           "panadería",
           "pétrir",
+          "italiano",
           "bebidas",
           "refrescos",
-          "café"
+          "lacqua",
+          "café",
+          "die",
+          "tèteabag"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La  Ou R R I T U R 1 Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "alimentos",
+          "español",
+          "pasteles"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsm Ittel Los Alimentos Il Cibo",
+        "words": [
+          "alimentos",
+          "charcutería",
+          "der",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "cafetería",
+          "técnicas",
+          "gegrillt",
+          "gebacken"
         ],
         "rows": 10,
         "cols": 10
@@ -847,10 +6588,125 @@
       {
         "cat_name": "Eating Out  Sortir Manger A U S W Ä R T S E S S E N Comer Fuera M A N G Ia R E F U O R I",
         "words": [
-          "mesure",
-          "bière",
-          "liscio",
+          "das",
           "botana",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Eating Out Sortir Manger Auswärts Essen Comer Fuera M An Giare Fuori",
+        "words": [
+          "desayuno",
+          "drinks",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T S O R T Ir M A N G E R Auswärts Essen C O M E R F U E R A M Angiare Fuori",
+        "words": [
+          "die",
+          "das",
+          "ensalada"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen El Estu D Io Lo Studio",
+        "words": [
+          "escuela",
+          "leer",
+          "español",
+          "der"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study  Lé T U D E Das Lernen El Estu D Io L O Studio",
+        "words": [
+          "die",
+          "forcipe",
+          "pila",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study L Étude D A S L E R N E N El Estudio L O Stu D Io",
+        "words": [
+          "estudio",
+          "enseñanza",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen E L E S T U D I O Lo Studio",
+        "words": [
+          "auditorio",
+          "escuelas",
+          "español",
+          "oficina"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W Ork Lk Travail Die Arbeit Il Tra Ba Jo Il Lavoro",
+        "words": [
+          "oficina",
+          "junta",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Lh Travail Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "trabajo",
+          "negocios",
+          "agenda",
+          "trato",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W Ork I K T R Ava 1 1 Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "trabajo",
+          "computadora",
+          "der"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Work Lf Travail D Ie Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "trabajo",
+          "escritorio",
+          "internet",
+          "navegar",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L L Ir A V A Il Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "trabajo",
+          "radio",
           "español"
         ],
         "rows": 10,
@@ -869,15 +6725,112 @@
         "cols": 10
       },
       {
+        "cat_name": "W O R K L E T R A V A Il Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "actividades",
+          "semer",
+          "melken",
+          "récolter",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L F T R Avaii Die Arbeit E L Trabajo  Il Lavoro",
+        "words": [
+          "granja",
+          "cultivos",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Work Le Prava 1 1 D Ie A R B E It El Trabajo Il L A V O R O",
+        "words": [
+          "trabajo",
+          "ganado",
+          "der",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Le Travail Die Arbeit Ft Tra Ba Jo Il Lavoro",
+        "words": [
+          "construcción",
+          "obra",
+          "construir"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I F T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "medico",
+          "die",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "carreteras",
+          "español",
+          "modelos",
+          "die"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr El Transporte I Trasporti",
         "words": [
+          "transporte",
           "español",
           "autobus",
           "autocar",
-          "navette",
+          "motocicleta",
           "controles",
+          "tipos",
           "barco",
-          "puerto"
+          "puerto",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L L T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "carro",
+          "interior",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le T R A N S P O R T Der Verkehr L L Transporte I Trasporti",
+        "words": [
+          "tren",
+          "die",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N I F Transport Der Verkehr El Transporte I Trasporti",
+        "words": [
+          "transporte",
+          "das",
+          "español"
         ],
         "rows": 10,
         "cols": 10
@@ -885,13 +6838,71 @@
       {
         "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
         "words": [
+          "pasar",
           "rugby",
+          "angreifen",
           "español",
           "fútbol",
-          "köpfen",
           "criquet",
+          "werfen",
+          "fangen",
+          "baloncesto",
+          "acciones"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I I S S P O R T S Der Sport Los Deportes Gu Sport",
+        "words": [
+          "deportes",
+          "kicken",
+          "schießen",
+          "angreifen",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "deportes",
+          "hockey",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les S P O R T S Der Sport L O S D E P O R T E S 6Li Sport",
+        "words": [
+          "der",
+          "pitcher",
+          "fangen",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L K S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "equipo",
           "acciones",
-          "fangen"
+          "español",
+          "atletismo"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "der",
+          "gimnasia",
+          "die",
+          "español"
         ],
         "rows": 10,
         "cols": 10
@@ -902,7 +6913,131 @@
           "natación",
           "equipo",
           "piscinakickboard",
-          "nager",
+          "schwimmen",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I  E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "estilos",
+          "buceo",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport Los Deportes Gli Sport",
+        "words": [
+          "deportes",
+          "vela",
+          "seguridad",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S Sports Der Sport Los Deportes Gli Spor I",
+        "words": [
+          "deportes",
+          "modalidades",
+          "rodeo"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Sports I Es Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "deportes",
+          "otros",
+          "das"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O Lib E R O",
+        "words": [
+          "cine",
+          "español",
+          "orquesta",
+          "cuerda",
+          "notación"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S I Ir R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "actividades",
+          "das",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leisure Le Temps Libre Die Freizeit El O C Io Il Tempo Libero",
+        "words": [
+          "fotografía",
+          "das",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Le Is U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "pittura",
+          "colores",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E L E T E M P S Libre Die Freizeit El Ocio Il Tempo Libero",
+        "words": [
+          "ocio",
+          "heften",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt E L Medio Ambiente Lam Bien Te",
+        "words": [
+          "rocas",
+          "igneo",
+          "sedimentario",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T I Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "mamíferos",
+          "derwal",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt 1  L M E D Io Ambiente Lam Biente",
+        "words": [
+          "animales",
+          "aves",
           "español"
         ],
         "rows": 10,
@@ -911,11 +7046,50 @@
       {
         "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El M E D Io Ambiente Lambiente",
         "words": [
+          "reptiles",
+          "tignane",
+          "iguana",
           "español",
           "animales",
           "anfibios",
+          "die",
           "peces",
-          "guêpe"
+          "guêpe",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L  E N V Ir O N N E M K N T Die Umwelt Ft M E D Io A M B Ie N T E Lambiente",
+        "words": [
+          "ciudad",
+          "español",
+          "edificios",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Lin Fo R M A T Io N D Ie Information Los D A T O S I D A T I",
+        "words": [
+          "calendario",
+          "español",
+          "bahamas",
+          "dominica"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L Information Die Information Los Datos I Dati",
+        "words": [
+          "datos",
+          "años",
+          "estaciones",
+          "annuel",
+          "español"
         ],
         "rows": 10,
         "cols": 10
@@ -925,7 +7099,6 @@
         "words": [
           "números",
           "cero",
-          "uno",
           "dos",
           "tres",
           "seis",
@@ -937,14 +7110,85 @@
         "cols": 10
       },
       {
+        "cat_name": "R E F E R E N C E L Information Die Information Los Datos I D A T I",
+        "words": [
+          "datos",
+          "decimofifteenth",
+          "elfter",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "longitud",
+          "español",
+          "recipiente",
+          "das"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
+          "datos",
+          "paraguay",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "datos",
+          "europa",
+          "ungarn",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
+        "words": [
+          "datos",
+          "àfrica",
+          "benin",
+          "sudan",
+          "togo",
+          "somalia",
+          "congo"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Reference Linformation D Ie In Fo R M A T Io N Los Datos I D A T I",
         "words": [
+          "datos",
           "asia",
           "irán",
           "iraq",
           "israel",
+          "giordania",
+          "pakistan",
           "india",
           "japón",
+          "tailandia",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D I E In Fo R M A Tio N Los Datos I D A Ii",
+        "words": [
+          "datos",
+          "indonesia",
           "español"
         ],
         "rows": 10,
@@ -960,7 +7204,7 @@
         "words": [
           "mano",
           "piede",
-          "der",
+          "persone",
           "celebrazioni",
           "laspetto",
           "bimbo",
@@ -970,13 +7214,30 @@
         "cols": 10
       },
       {
+        "cat_name": "P E O P Le Les Gens Die Menschen L A Gente Le Persone",
+        "words": [
+          "persone",
+          "scheletro",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "P E O P Le I F S G E N S Die Menschen L A G E N T E Le Persone",
+        "words": [
+          "persone",
+          "testa",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "P E O P Le Les Gf Ns Die Menschen La Gente Le Persone",
         "words": [
+          "persone",
           "emozioni",
-          "triste",
-          "gelangweilt",
-          "ñervos",
-          "confuso",
           "italiano"
         ],
         "rows": 10,
@@ -985,11 +7246,21 @@
       {
         "cat_name": "A P P E A R A N C E L Apparence Die Äussere Erscheinung La Apariencia Laspetto",
         "words": [
+          "laspetto",
           "italiano",
           "acconciature",
           "frisé",
-          "calvo",
           "colori"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "A P P E A R A N C E L A P P A R E N C E Die Äussere Erscheinung L A A P A R Ie N C Ia Laspetto",
+        "words": [
+          "italiano",
+          "laspetto",
+          "scarpe"
         ],
         "rows": 10,
         "cols": 10
@@ -997,11 +7268,70 @@
       {
         "cat_name": "A P P E A R A N C E I Apparence Die Äussere Erscheinung La Apariencia Laspetto",
         "words": [
+          "laspetto",
           "capelli",
           "lavare",
-          "föhnen",
-          "accesori",
-          "laque"
+          "accesori"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "salute",
+          "medico",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H Ia Santé Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "salute",
+          "ferita",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H L A S A N T É Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "salute",
+          "reparti",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A Lt H La S A N T É Die Gesundheit La S A L U D La Salute",
+        "words": [
+          "salute",
+          "dentista",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H I A Santé Die Gesundheit La Salud La Salute",
+        "words": [
+          "salute",
+          "lottico",
+          "locchio"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H E A L T H L A S A N T É  Die Gesundheit L A S A L U D La Salute",
+        "words": [
+          "salute",
+          "parto",
+          "italiano"
         ],
         "rows": 10,
         "cols": 10
@@ -1013,7 +7343,19 @@
           "italiano",
           "rasatura",
           "dormita",
-          "lettino"
+          "lettino",
+          "lacquaragia"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "casa",
+          "italiano",
+          "coperto",
+          "lannaffiatura"
         ],
         "rows": 10,
         "cols": 10
@@ -1021,13 +7363,21 @@
       {
         "cat_name": "Home L A Maison Das Haus La Casa La Casa",
         "words": [
+          "casa",
           "lacquaio",
           "scaldaacquafaucet",
           "italiano",
-          "die",
-          "attività",
-          "spülen",
-          "wischen"
+          "attività"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I  A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "casa",
+          "italiano",
+          "der"
         ],
         "rows": 10,
         "cols": 10
@@ -1035,15 +7385,139 @@
       {
         "cat_name": "H O M E L A M A Is O N Das Haus L A Casa La Casa",
         "words": [
+          "casa",
           "cucina",
           "tecniche",
-          "bohren",
-          "drechseln",
           "löten",
-          "saldare",
           "materiali",
           "legnometal",
           "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "casa",
+          "laboratorio",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S I F S S E R V Ic E S Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "servizi",
+          "lambulanza",
+          "polizia",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S Les Services Die Dienstleistungen Los Servicios I Servizi",
+        "words": [
+          "telefono",
+          "italiani",
+          "servizi",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S E R V Ic E S 1 R S Serv Ic Es Die Dienstleistungen L O S S E R V Ic Io S I Servizi",
+        "words": [
+          "lalbergo",
+          "lingresso",
+          "camere",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping Lus Courses Der Einkauf Las Compras Gli Acquisti",
+        "words": [
+          "acquisti",
+          "farmacia",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping I Es C O U R S E S Der Einkauf Las Co M Pra S Gli Acquisti",
+        "words": [
+          "acquisti",
+          "fioraio",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Shopping 1 Es C O U R Se S Der Einkauf Ias C O M Pr A S Gli Acquisti",
+        "words": [
+          "acquisti",
+          "dolciumi",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S H O P P In G I Es C O U R S E S Der Einkauf Las C O M Pr A S Gli Acquisti",
+        "words": [
+          "acquisti",
+          "mercato",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Fo O D La N O U R R It U R E D Ie Nahrungsmittel Los Alim Entos Il Cibo",
+        "words": [
+          "tagli",
+          "pollo",
+          "lanatraleg",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "cibo",
+          "italianofish",
+          "uova",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "cibo",
+          "italiano",
+          "zucca",
+          "oli"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourrit R F Die Nahrungsmittel La Comida Il Cibo",
+        "words": [
+          "cibo",
+          "frutta",
+          "toronja"
         ],
         "rows": 10,
         "cols": 10
@@ -1057,6 +7531,7 @@
           "cibo",
           "semipeas",
           "italiana",
+          "sottolio",
           "marinato",
           "salato",
           "affumicato",
@@ -1066,13 +7541,122 @@
         "cols": 10
       },
       {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "cibo",
+          "spezie",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "Food La Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
         "words": [
           "panificio",
           "kneten",
+          "bevande"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La  Ou R R I T U R 1 Die Nahrungsmittel Los Alimentos Il Cibo",
+        "words": [
+          "cibo",
+          "italiano",
+          "dolci"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food La Nourriture Die Nahrungsm Ittel Los Alimentos Il Cibo",
+        "words": [
+          "cibo",
+          "salumeria",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "F O O D Ia Nourriture Die Nahrungsmittel Los Aumentos Il Cibo",
+        "words": [
+          "cibo",
           "bevande",
-          "lacqua",
-          "tèteabag"
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E A T In G O U T Sortir Manger Auswärts Essen Comer Fuera M Angiare Fuori",
+        "words": [
+          "metodi",
+          "geräuchert",
+          "frit"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study  Lé T U D E Das Lernen El Estu D Io L O Studio",
+        "words": [
+          "das",
+          "batteria",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Study Lé T U D E Das Lernen E L E S T U D I O Lo Studio",
+        "words": [
+          "scuole",
+          "italiano",
+          "lufficio"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K Lh Travail Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "lavoro",
+          "affari",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W Ork I K T R Ava 1 1 Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "lavoro",
+          "computer",
+          "lhardwarescreen"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L L Ir A V A Il Die Arbeit El Trabajo Il Lavoro",
+        "words": [
+          "lavoro",
+          "radio",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I I T R A V A I L Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "lavoro",
+          "legge",
+          "italiano",
+          "trattorecombine"
         ],
         "rows": 10,
         "cols": 10
@@ -1080,11 +7664,21 @@
       {
         "cat_name": "W O R K L E T R A V A Il Die Arbeit E L T R A B A J O Il Lavoro",
         "words": [
+          "lavoro",
           "attività",
-          "semer",
-          "melken",
-          "récolter",
+          "säen",
+          "ernten",
           "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K L F T R Avaii Die Arbeit E L Trabajo  Il Lavoro",
+        "words": [
+          "fattoria",
+          "colture",
+          "italiane"
         ],
         "rows": 10,
         "cols": 10
@@ -1095,7 +7689,29 @@
           "bestiame",
           "die",
           "lâne",
-          "der",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "W O R K I I T R A V A I I Die Arbeit E L T R A B A J O Il Lavoro",
+        "words": [
+          "lavoro",
+          "materiali",
+          "attrezzi",
+          "grucompressoresupport"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "strade",
+          "italianhighway",
+          "trasporti",
+          "tipi",
           "italiano"
         ],
         "rows": 10,
@@ -1104,8 +7720,8 @@
       {
         "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr El Transporte I Trasporti",
         "words": [
-          "italiano",
           "trasporti",
+          "italiano",
           "comandibrake",
           "labbigliamento",
           "vespa",
@@ -1117,15 +7733,75 @@
         "cols": 10
       },
       {
+        "cat_name": "T R A N S P O R T A T Io N T F T R A N S P O R T Der Verkehr E L Transporte I Trasporti",
+        "words": [
+          "trasporti",
+          "lautomobile",
+          "lesterno"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L L T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "trasporti",
+          "lautomobile",
+          "linterno",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N I F T R A N S P O R T Der Verkehr E L T R A N S P O R T E I Trasporti",
+        "words": [
+          "trasporti",
+          "comandi",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N L E T R A N S P O R T Der Verkehr E I T R A N S P O R T E I Trasporti",
+        "words": [
+          "trasporti",
+          "lautomobile",
+          "meccanica",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le T R A N S P O R T Der Verkehr L L Transporte I Trasporti",
+        "words": [
+          "trasporti",
+          "treno",
+          "italiane"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr Ki Transporte I Trasporti",
+        "words": [
+          "trasporti",
+          "laeroplano",
+          "cabina"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
         "words": [
-          "pasar",
+          "sport",
           "campo",
-          "angreifen",
           "italiano",
           "calcio",
           "cricket",
-          "werfen",
           "azioni",
           "pallavolo",
           "camporeferee",
@@ -1136,12 +7812,51 @@
         "cols": 10
       },
       {
+        "cat_name": "S P O R T S Les Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "lhoekey",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
         "cat_name": "S P O R T S Les S P O R T S Der Sport L O S D E P O R T E S 6Li Sport",
         "words": [
-          "pitcher",
-          "fangen",
           "inseguire",
           "giocare",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S Les S P O R T S Der Sport L O S Deportes Gli Sport",
+        "words": [
+          "sport",
+          "tennis",
+          "campo"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L K S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "sport",
+          "azioni",
+          "italiano",
+          "campo"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "sport",
+          "ginnastica",
           "italiano"
         ],
         "rows": 10,
@@ -1153,8 +7868,119 @@
           "nuoto",
           "lattrezzatura",
           "planche",
-          "schwimmen",
           "italiana"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I  E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "sport",
+          "stili",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "vela",
+          "sicurezza",
+          "ita"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S I Ks Sports Der Sport Los Deportes Gli Sport",
+        "words": [
+          "sport",
+          "frustinopommel",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S Sports Der Sport Los Deportes Gli Spor I",
+        "words": [
+          "corse",
+          "pesca",
+          "pescatore"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O Lib E R O",
+        "words": [
+          "cinema",
+          "schermo",
+          "lorchestra",
+          "corde"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit El O C Io Il T E M P O Lib E R O",
+        "words": [
+          "percussione",
+          "das",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E T F T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "linformazione",
+          "italiano",
+          "parco"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T T Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "lambiente",
+          "spazio",
+          "italiane"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt E L Medio Ambiente Lam Bien Te",
+        "words": [
+          "rocce",
+          "igneo",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T I Environnement Die Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "lambiente",
+          "mammiferi",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L Environnement Die Umwelt 1  L M E D Io Ambiente Lam Biente",
+        "words": [
+          "animali",
+          "uccelli",
+          "italianeeagle"
         ],
         "rows": 10,
         "cols": 10
@@ -1162,13 +7988,44 @@
       {
         "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El M E D Io Ambiente Lambiente",
         "words": [
-          "iguana",
           "italiano",
           "animali",
           "anfibi",
-          "die",
           "pesci",
-          "lambientf"
+          "lambientf",
+          "die"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T 1 Environnement D Ie Umwelt El Medio Ambiente Lambiente",
+        "words": [
+          "lambiente",
+          "lalbero",
+          "querciabark",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T L  E N V Ir O N N E M K N T Die Umwelt Ft M E D Io A M B Ie N T E Lambiente",
+        "words": [
+          "lambiente",
+          "città",
+          "itali",
+          "edifici"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E I N F O R M A T I O N Die Information L O S D A T O S I Dati",
+        "words": [
+          "dati",
+          "lora",
+          "italiano"
         ],
         "rows": 10,
         "cols": 10
@@ -1193,10 +8050,21 @@
       {
         "cat_name": "R E F E R E N C E L Information Die Information Los Datos I Dati",
         "words": [
+          "dati",
           "anni",
           "duemila",
           "stagioni",
           "jährlich",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "dati",
+          "numeri",
           "italiano"
         ],
         "rows": 10,
@@ -1209,8 +8077,6 @@
           "milione",
           "miliardo",
           "zehnter",
-          "decimofifteenth",
-          "elfter",
           "italiano"
         ],
         "rows": 10,
@@ -1219,11 +8085,11 @@
       {
         "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
         "words": [
+          "dati",
           "bilancia",
           "lunghezza",
           "italiane",
           "dafl",
-          "das",
           "italiano"
         ],
         "rows": 10,
@@ -1232,12 +8098,11 @@
       {
         "cat_name": "R E F E R E N C E Linformation Die Information Los Datos I Dati",
         "words": [
+          "dati",
           "lafrica",
           "mali",
-          "benin",
           "ciad",
-          "togo",
-          "somalia"
+          "togo"
         ],
         "rows": 10,
         "cols": 10
