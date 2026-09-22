@@ -1,0 +1,584 @@
+{
+  "page": 17,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "note": "DUE sezioni nella stessa pagina: 'head' (cutaway principale) e 'body systems' (box in basso). Il diaframma è etichettato nel cutaway principale → va in TESTA (in wordbank era in sistemi-corporei). OCR: 'il serio'→il seno, 'la b rin g e'→la laringe, 'la ven3'→la vena, 'Ics systèmes'→les systèmes.",
+  "groups": [
+    {
+      "slug": "testa",
+      "names": {
+        "en": "Head",
+        "fr": "Tête",
+        "de": "Kopf",
+        "es": "Cabeza",
+        "it": "Testa"
+      },
+      "entries": [
+        {
+          "en": "head",
+          "fr": "tête",
+          "de": "Kopf",
+          "es": "cabeza",
+          "it": "testa",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "brain",
+          "fr": "cerveau",
+          "de": "Gehirn",
+          "es": "cerebro",
+          "it": "cervello",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 7,
+            "de": 6,
+            "es": 7,
+            "it": 8
+          }
+        },
+        {
+          "en": "sinus",
+          "fr": "sinus",
+          "de": "Sinus",
+          "es": "seno",
+          "it": "seno",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 5,
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "en": "palate",
+          "fr": "palais",
+          "de": "Gaumen",
+          "es": "paladar",
+          "it": "palato",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 6,
+            "es": 7,
+            "it": 6
+          }
+        },
+        {
+          "en": "tongue",
+          "fr": "langue",
+          "de": "Zunge",
+          "es": "lengua",
+          "it": "lingua",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 5,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "pharynx",
+          "fr": "pharynx",
+          "de": "Rachen",
+          "es": "faringe",
+          "it": "faringe",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 6,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "epiglottis",
+          "fr": "épiglotte",
+          "de": "Kehldeckel",
+          "es": "epiglotis",
+          "it": "epiglottide",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 9,
+            "de": 10,
+            "es": 9,
+            "it": 11
+          }
+        },
+        {
+          "en": "esophagus",
+          "fr": "œsophage",
+          "de": "Speiseröhre",
+          "es": "esófago",
+          "it": "esofago",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "die",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 9,
+            "de": 11,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "throat",
+          "fr": "gorge",
+          "de": "Kehle",
+          "es": "garganta",
+          "it": "gola",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 5,
+            "de": 5,
+            "es": 8,
+            "it": 4
+          }
+        },
+        {
+          "en": "larynx",
+          "fr": "larynx",
+          "de": "Kehlkopf",
+          "es": "laringe",
+          "it": "laringe",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 8,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "Adam's apple",
+          "fr": "pomme d'Adam",
+          "de": "Adamsapfel",
+          "es": "manzana de Adán",
+          "it": "pomo di Adamo",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 10,
+            "de": 10,
+            "es": 13,
+            "it": 11
+          }
+        },
+        {
+          "en": "vocal cords",
+          "fr": "cordes vocales",
+          "de": "Stimmbänder",
+          "es": "cuerdas vocales",
+          "it": "corde vocali",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "las",
+            "it": "le"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 13,
+            "de": 11,
+            "es": 14,
+            "it": 11
+          }
+        },
+        {
+          "en": "diaphragm",
+          "fr": "diaphragme",
+          "de": "Zwerchfell",
+          "es": "diafragma",
+          "it": "diaframma",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 10,
+            "de": 10,
+            "es": 9,
+            "it": 9
+          }
+        }
+      ]
+    },
+    {
+      "slug": "sistemi-corporei",
+      "names": {
+        "en": "Body systems",
+        "fr": "Systèmes du corps",
+        "de": "Körpersysteme",
+        "es": "Sistemas corporales",
+        "it": "Sistemi corporei"
+      },
+      "entries": [
+        {
+          "en": "body systems",
+          "fr": "systèmes du corps",
+          "de": "Körpersysteme",
+          "es": "sistemas",
+          "it": "sistemi corporali",
+          "_multi": [
+            "en",
+            "fr",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "los",
+            "it": "i"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 15,
+            "de": 13,
+            "es": 8,
+            "it": 16
+          }
+        },
+        {
+          "en": "respiratory",
+          "fr": "respiratoire",
+          "de": "Atmungssystem",
+          "es": "respiratorio",
+          "it": "respiratorio",
+          "_multi": [],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 12,
+            "de": 13,
+            "es": 12,
+            "it": 12
+          }
+        },
+        {
+          "en": "digestive",
+          "fr": "digestif",
+          "de": "Verdauungssystem",
+          "es": "digestivo",
+          "it": "digestivo",
+          "_multi": [],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 8,
+            "de": 16,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "cardiovascular",
+          "fr": "cardio-vasculaire",
+          "de": "Herz- und Gefäßsystem",
+          "es": "cardiovascular",
+          "it": "cardiovascolare",
+          "_multi": [
+            "de"
+          ],
+          "_hyphen": [
+            "fr",
+            "de"
+          ],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 14,
+            "fr": 16,
+            "de": 19,
+            "es": 14,
+            "it": 15
+          }
+        },
+        {
+          "en": "lymphatic",
+          "fr": "lymphatique",
+          "de": "lymphatische System",
+          "es": "linfático",
+          "it": "linfatico",
+          "_multi": [
+            "de"
+          ],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 11,
+            "de": 18,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "urinary",
+          "fr": "urinaire",
+          "de": "Harnsystem",
+          "es": "urinario",
+          "it": "urinario",
+          "_multi": [],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 8,
+            "de": 10,
+            "es": 8,
+            "it": 8
+          }
+        },
+        {
+          "en": "endocrine",
+          "fr": "endocrine",
+          "de": "endokrine System",
+          "es": "endocrino",
+          "it": "endocrino",
+          "_multi": [
+            "de"
+          ],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 9,
+            "de": 15,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "nervous",
+          "fr": "nerveux",
+          "de": "Nervensystem",
+          "es": "nervioso",
+          "it": "nervoso",
+          "_multi": [],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 12,
+            "es": 8,
+            "it": 7
+          }
+        },
+        {
+          "en": "reproductive",
+          "fr": "reproducteur",
+          "de": "Fortpflanzungssystem",
+          "es": "reproductor",
+          "it": "riproduttivo",
+          "_multi": [],
+          "_articles_removed": {
+            "de": "das"
+          },
+          "_grid_len": {
+            "en": 12,
+            "fr": 12,
+            "de": 20,
+            "es": 11,
+            "it": 12
+          }
+        },
+        {
+          "en": "vein",
+          "fr": "veine",
+          "de": "Vene",
+          "es": "vena",
+          "it": "vena",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 4,
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "en": "artery",
+          "fr": "artère",
+          "de": "Arterie",
+          "es": "arteria",
+          "it": "arteria",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "die",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 7,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "gland",
+          "fr": "glande",
+          "de": "Drüse",
+          "es": "glándula",
+          "it": "ghiandola",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 6,
+            "de": 5,
+            "es": 8,
+            "it": 9
+          }
+        },
+        {
+          "en": "nerve",
+          "fr": "nerf",
+          "de": "Nerv",
+          "es": "nervio",
+          "it": "nervo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 4,
+            "de": 4,
+            "es": 6,
+            "it": 5
+          }
+        }
+      ]
+    }
+  ]
+}

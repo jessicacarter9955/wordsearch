@@ -2,15 +2,22 @@
   "page": 13,
   "source": "5 Language Visual Dictionary (DK, 2003)",
   "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "note": "Pagina senza sottocategoria nell'header: dettagli pelle (→viso), mano e piede. 'corazón' isolato nell'OCR = etichetta residua di un'illustrazione, scartata.",
   "groups": [
     {
-      "slug": "mano",
-      "names": {"en": "Hand", "fr": "Main", "de": "Hand", "es": "Mano", "it": "Mano"},
+      "slug": "viso",
+      "names": {"en": "Face", "fr": "Visage", "de": "Gesicht", "es": "Cara", "it": "Viso"},
       "entries": [
         {"en": "wrinkle", "fr": "la ride", "de": "die Falte", "es": "la arruga", "it": "la ruga"},
         {"en": "freckle", "fr": "la tache de rousseur", "de": "die Sommersprosse", "es": "la peca", "it": "la lentiggine"},
         {"en": "pore", "fr": "le pore", "de": "die Pore", "es": "el poro", "it": "il poro"},
-        {"en": "dimple", "fr": "la fossette", "de": "das Grübchen", "es": "el hoyuelo", "it": "la fossetta"},
+        {"en": "dimple", "fr": "la fossette", "de": "das Grübchen", "es": "el hoyuelo", "it": "la fossetta"}
+      ]
+    },
+    {
+      "slug": "mano",
+      "names": {"en": "Hand", "fr": "Main", "de": "Hand", "es": "Mano", "it": "Mano"},
+      "entries": [
         {"en": "hand", "fr": "la main", "de": "die Hand", "es": "la mano", "it": "la mano"},
         {"en": "wrist", "fr": "le poignet", "de": "das Handgelenk", "es": "la muñeca", "it": "il polso"},
         {"en": "palm", "fr": "la paume", "de": "die Handfläche", "es": "la palma de la mano", "it": "il palmo"},
@@ -30,6 +37,7 @@
       "names": {"en": "Foot", "fr": "Pied", "de": "Fuß", "es": "Pie", "it": "Piede"},
       "entries": [
         {"en": "foot", "fr": "le pied", "de": "der Fuß", "es": "el pie", "it": "il piede"},
+        {"en": "ankle", "fr": "la cheville", "de": "der Knöchel", "es": "el tobillo", "it": "la caviglia"},
         {"en": "toe", "fr": "l'orteil", "de": "der Zeh", "es": "el dedo del pie", "it": "il dito del piede"},
         {"en": "big toe", "fr": "le gros orteil", "de": "der große Zeh", "es": "el dedo gordo del pie", "it": "l'alluce"},
         {"en": "little toe", "fr": "le petit orteil", "de": "der kleine Zeh", "es": "el dedo pequeño del pie", "it": "il mignolo del piede"},

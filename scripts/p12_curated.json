@@ -1,0 +1,30 @@
+{
+  "page": 12,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "groups": [
+    {
+      "slug": "viso",
+      "names": {"en": "Face", "fr": "Visage", "de": "Gesicht", "es": "Cara", "it": "Viso"},
+      "entries": [
+        {"en": "face", "fr": "le visage", "de": "das Gesicht", "es": "la cara", "it": "la faccia"},
+        {"en": "forehead", "fr": "le front", "de": "die Stirn", "es": "la frente", "it": "la fronte"},
+        {"en": "temple", "fr": "la tempe", "de": "die Schläfe", "es": "la sien", "it": "la tempia"},
+        {"en": "eye", "fr": "l'œil", "de": "das Auge", "es": "el ojo", "it": "l'occhio"},
+        {"en": "eyebrow", "fr": "le sourcil", "de": "die Augenbraue", "es": "la ceja", "it": "il sopracciglio"},
+        {"en": "eyelash", "fr": "le cil", "de": "die Wimper", "es": "la pestaña", "it": "il ciglio"},
+        {"en": "ear", "fr": "l'oreille", "de": "das Ohr", "es": "la oreja", "it": "l'orecchio"},
+        {"en": "nose", "fr": "le nez", "de": "die Nase", "es": "la nariz", "it": "il naso"},
+        {"en": "nostril", "fr": "la narine", "de": "das Nasenloch", "es": "la fosa nasal", "it": "la narice"},
+        {"en": "cheek", "fr": "la joue", "de": "die Backe", "es": "la mejilla", "it": "la guancia"},
+        {"en": "mole", "fr": "le grain de beauté", "de": "das Muttermal", "es": "el lunar", "it": "il neo"},
+        {"en": "mouth", "fr": "la bouche", "de": "der Mund", "es": "la boca", "it": "la bocca"},
+        {"en": "lip", "fr": "la lèvre", "de": "die Lippe", "es": "el labio", "it": "il labbro"},
+        {"en": "jaw", "fr": "la mâchoire", "de": "die Kinnlade", "es": "la mandíbula", "it": "la mandibola"},
+        {"en": "chin", "fr": "le menton", "de": "das Kinn", "es": "la barbilla", "it": "il mento"},
+        {"en": "hair", "fr": "les cheveux", "de": "das Haar", "es": "el cabello", "it": "i capelli"},
+        {"en": "skin", "fr": "la peau", "de": "die Haut", "es": "la piel", "it": "la pelle"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page": 14,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "note": "OCR: 'quadncipite'→quadricipite, 'd clto id eo'→deltoides, 'Ruckenmuskel'→Rückenmuskel, 'di achilie'→di Achille. 'buttock' e 'calf' qui sono i muscoli (varianti fr/de/es diverse da p11 corpo).",
+  "groups": [
+    {
+      "slug": "muscoli",
+      "names": {"en": "Muscles", "fr": "Muscles", "de": "Muskeln", "es": "Músculos", "it": "Muscoli"},
+      "entries": [
+        {"en": "muscles", "fr": "les muscles", "de": "die Muskeln", "es": "los músculos", "it": "i muscoli"},
+        {"en": "frontal", "fr": "le frontal", "de": "der Stirnmuskel", "es": "el frontal", "it": "il frontale"},
+        {"en": "intercostal", "fr": "l'intercostal", "de": "der Zwischenrippenmuskel", "es": "el intercostal", "it": "l'intercostale"},
+        {"en": "biceps", "fr": "le biceps", "de": "der Bizeps", "es": "el bíceps", "it": "il bicipite"},
+        {"en": "trapezius", "fr": "le trapèze", "de": "der Kapuzenmuskel", "es": "el trapecio", "it": "il trapezio"},
+        {"en": "abdominals", "fr": "les abdominaux", "de": "die Bauchmuskeln", "es": "el abdominal", "it": "gli addominali"},
+        {"en": "quadriceps", "fr": "les quadriceps", "de": "die Oberschenkelmuskeln", "es": "el cuádriceps", "it": "il quadricipite"},
+        {"en": "latissimus dorsi", "fr": "le dorsal", "de": "der Rückenmuskel", "es": "el dorsal", "it": "il dorsale"},
+        {"en": "triceps", "fr": "le triceps", "de": "der Trizeps", "es": "el tríceps", "it": "il tricipite"},
+        {"en": "pectoral", "fr": "le pectoral", "de": "der Brustmuskel", "es": "el pectoral", "it": "il pettorale"},
+        {"en": "deltoid", "fr": "le deltoïde", "de": "der Deltamuskel", "es": "el deltoides", "it": "il deltoide"},
+        {"en": "hamstring", "fr": "le tendon du jarret", "de": "der Kniesehnenstrang", "es": "el tendón de la corva", "it": "il tendine"},
+        {"en": "Achilles tendon", "fr": "le tendon d'Achille", "de": "die Achillessehne", "es": "el tendón de Aquiles", "it": "il tendine di Achille"},
+        {"en": "buttock", "fr": "le fessier", "de": "der Gesäßmuskel", "es": "el glúteo", "it": "la natica"},
+        {"en": "calf", "fr": "les muscles jumeaux", "de": "der Wadenmuskel", "es": "los gemelos", "it": "il polpaccio"}
+      ]
+    }
+  ]
+}

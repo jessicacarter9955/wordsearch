@@ -38,7 +38,8 @@ export interface LanguageWords {
     slug: string
     name: string
     emoji: string
-    words: string[]
+    /** text = forma griglia ("SPINADORSALE"), display = forma naturale ("SPINA DORSALE") */
+    words: { text: string; display: string }[]
   }[]
 }
 

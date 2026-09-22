@@ -1,0 +1,302 @@
+{
+  "page": 11,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "groups": [
+    {
+      "slug": "corpo",
+      "names": {
+        "en": "Body",
+        "fr": "Corps",
+        "de": "Körper",
+        "es": "Cuerpo",
+        "it": "Corpo"
+      },
+      "entries": [
+        {
+          "en": "shoulder",
+          "fr": "épaule",
+          "de": "Schulter",
+          "es": "hombro",
+          "it": "spalla",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "die",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 6,
+            "de": 8,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "back",
+          "fr": "dos",
+          "de": "Rücken",
+          "es": "espalda",
+          "it": "schiena",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 3,
+            "de": 6,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "nape",
+          "fr": "nuque",
+          "de": "Nacken",
+          "es": "nuca",
+          "it": "nuca",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 6,
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "en": "arm",
+          "fr": "bras",
+          "de": "Arm",
+          "es": "brazo",
+          "it": "braccio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 4,
+            "de": 3,
+            "es": 5,
+            "it": 7
+          }
+        },
+        {
+          "en": "elbow",
+          "fr": "coude",
+          "de": "Ellbogen",
+          "es": "codo",
+          "it": "gomito",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 8,
+            "es": 4,
+            "it": 6
+          }
+        },
+        {
+          "en": "wrist",
+          "fr": "poignet",
+          "de": "Handgelenk",
+          "es": "muñeca",
+          "it": "polso",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 7,
+            "de": 10,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "armpit",
+          "fr": "aisselle",
+          "de": "Achselhöhle",
+          "es": "axila",
+          "it": "ascella",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "die",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 8,
+            "de": 11,
+            "es": 5,
+            "it": 7
+          }
+        },
+        {
+          "en": "small of back",
+          "fr": "creux des reins",
+          "de": "Kreuz",
+          "es": "zona lumbar",
+          "it": "reni",
+          "_multi": [
+            "en",
+            "fr",
+            "es"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "le"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 13,
+            "de": 5,
+            "es": 10,
+            "it": 4
+          }
+        },
+        {
+          "en": "hand",
+          "fr": "main",
+          "de": "Hand",
+          "es": "mano",
+          "it": "mano",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "en": "buttock",
+          "fr": "fesse",
+          "de": "Hinterbacke",
+          "es": "nalga",
+          "it": "natica",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 5,
+            "de": 11,
+            "es": 5,
+            "it": 6
+          }
+        },
+        {
+          "en": "calf",
+          "fr": "mollet",
+          "de": "Wade",
+          "es": "pantorrilla",
+          "it": "polpaccio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 6,
+            "de": 4,
+            "es": 11,
+            "it": 9
+          }
+        },
+        {
+          "en": "ankle",
+          "fr": "cheville",
+          "de": "Knöchel",
+          "es": "tobillo",
+          "it": "caviglia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 8,
+            "de": 7,
+            "es": 7,
+            "it": 8
+          }
+        },
+        {
+          "en": "heel",
+          "fr": "talon",
+          "de": "Ferse",
+          "es": "talón",
+          "it": "tallone",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 5,
+            "es": 5,
+            "it": 7
+          }
+        }
+      ]
+    }
+  ]
+}

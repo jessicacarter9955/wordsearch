@@ -1,0 +1,28 @@
+{
+  "page": 16,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "note": "OCR: 'la rare'→la rate, 'le cceur'→le cœur, 'higado'→hígado, 'glánd ula del tiro id es'→glándula del tiroides. Header de 'die inneren Organe' (OCR mescolato con en).",
+  "groups": [
+    {
+      "slug": "organi-interni",
+      "names": {"en": "Inner organs", "fr": "Organes internes", "de": "Innere Organe", "es": "Órganos internos", "it": "Organi interni"},
+      "entries": [
+        {"en": "inner organs", "fr": "les organes internes", "de": "die inneren Organe", "es": "los órganos internos", "it": "gli organi interni"},
+        {"en": "thyroid gland", "fr": "la thyroïde", "de": "die Schilddrüse", "es": "la glándula del tiroides", "it": "la tiroide"},
+        {"en": "windpipe", "fr": "la trachée", "de": "die Luftröhre", "es": "la tráquea", "it": "la trachea"},
+        {"en": "lung", "fr": "le poumon", "de": "die Lunge", "es": "el pulmón", "it": "il polmone"},
+        {"en": "heart", "fr": "le cœur", "de": "das Herz", "es": "el corazón", "it": "il cuore"},
+        {"en": "liver", "fr": "le foie", "de": "die Leber", "es": "el hígado", "it": "il fegato"},
+        {"en": "stomach", "fr": "l'estomac", "de": "der Magen", "es": "el estómago", "it": "lo stomaco"},
+        {"en": "duodenum", "fr": "le duodénum", "de": "der Zwölffingerdarm", "es": "el duodeno", "it": "il duodeno"},
+        {"en": "small intestine", "fr": "l'intestin grêle", "de": "der Dünndarm", "es": "el intestino delgado", "it": "l'intestino tenue"},
+        {"en": "large intestine", "fr": "le gros intestin", "de": "der Dickdarm", "es": "el intestino grueso", "it": "l'intestino crasso"},
+        {"en": "appendix", "fr": "l'appendice", "de": "der Blinddarm", "es": "el apéndice", "it": "l'appendice"},
+        {"en": "spleen", "fr": "la rate", "de": "die Milz", "es": "el bazo", "it": "la milza"},
+        {"en": "kidney", "fr": "le rein", "de": "die Niere", "es": "el riñón", "it": "il rene"},
+        {"en": "pancreas", "fr": "le pancréas", "de": "die Bauchspeicheldrüse", "es": "el páncreas", "it": "il pancreas"}
+      ]
+    }
+  ]
+}

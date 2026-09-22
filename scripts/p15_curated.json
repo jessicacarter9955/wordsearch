@@ -1,0 +1,42 @@
+{
+  "page": 15,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "note": "OCR: 'omoplate' ok (l'omoplate), 'rò tu la'→rótula, 'cù b ito'→cúbito, 'maxillaire' (le maxillaire), 'hueso' (el hueso). Vertebre italiane SINGOLARI nel libro ('la vertebra cervicale/toracica/lombare').",
+  "groups": [
+    {
+      "slug": "scheletro",
+      "names": {"en": "Skeleton", "fr": "Squelette", "de": "Skelett", "es": "Esqueleto", "it": "Scheletro"},
+      "entries": [
+        {"en": "skeleton", "fr": "le squelette", "de": "das Skelett", "es": "el esqueleto", "it": "lo scheletro"},
+        {"en": "shoulder blade", "fr": "l'omoplate", "de": "das Schulterblatt", "es": "la escápula", "it": "la scapola"},
+        {"en": "breast bone", "fr": "le sternum", "de": "das Brustbein", "es": "el esternón", "it": "lo sterno"},
+        {"en": "rib", "fr": "la côte", "de": "die Rippe", "es": "la costilla", "it": "la costola"},
+        {"en": "radius", "fr": "le radius", "de": "die Speiche", "es": "el radio", "it": "il radio"},
+        {"en": "pelvis", "fr": "le bassin", "de": "das Becken", "es": "la pelvis", "it": "il bacino"},
+        {"en": "kneecap", "fr": "la rotule", "de": "die Kniescheibe", "es": "la rótula", "it": "la rotula"},
+        {"en": "fibula", "fr": "le péroné", "de": "das Wadenbein", "es": "el peroné", "it": "il perone"},
+        {"en": "metatarsal", "fr": "le métatarsien", "de": "der Mittelfußknochen", "es": "el metatarso", "it": "il metatarso"},
+        {"en": "spine", "fr": "la colonne vertébrale", "de": "die Wirbelsäule", "es": "la espina dorsal", "it": "la spina dorsale"},
+        {"en": "collar bone", "fr": "la clavicule", "de": "das Schlüsselbein", "es": "la clavícula", "it": "la clavicola"},
+        {"en": "ulna", "fr": "le cubitus", "de": "die Elle", "es": "el cúbito", "it": "l'ulna"},
+        {"en": "cervical vertebrae", "fr": "les vertèbres cervicales", "de": "die Halswirbel", "es": "las vértebras cervicales", "it": "la vertebra cervicale"},
+        {"en": "femur", "fr": "le fémur", "de": "der Oberschenkelknochen", "es": "el fémur", "it": "il femore"},
+        {"en": "tibia", "fr": "le tibia", "de": "das Schienbein", "es": "la tibia", "it": "la tibia"},
+        {"en": "joint", "fr": "l'articulation", "de": "das Gelenk", "es": "la articulación", "it": "l'articolazione"},
+        {"en": "humerus", "fr": "l'humérus", "de": "der Oberarmknochen", "es": "el húmero", "it": "l'omero"},
+        {"en": "rib cage", "fr": "la cage thoracique", "de": "der Brustkorb", "es": "la caja torácica", "it": "la cassa toracica"},
+        {"en": "metacarpal", "fr": "le métacarpien", "de": "der Mittelhandknochen", "es": "el metacarpo", "it": "il metacarpo"},
+        {"en": "thoracic vertebrae", "fr": "les vertèbres thoraciques", "de": "die Brustwirbel", "es": "las vértebras dorsales", "it": "la vertebra toracica"},
+        {"en": "lumbar vertebrae", "fr": "les lombaires", "de": "die Lendenwirbel", "es": "las vértebras lumbares", "it": "la vertebra lombare"},
+        {"en": "tailbone", "fr": "le coccyx", "de": "das Steißbein", "es": "el coxis", "it": "la coccige"},
+        {"en": "cartilage", "fr": "le cartilage", "de": "der Knorpel", "es": "el cartílago", "it": "la cartilagine"},
+        {"en": "ligament", "fr": "le ligament", "de": "das Sehnenband", "es": "el ligamento", "it": "il legamento"},
+        {"en": "skull", "fr": "le crâne", "de": "der Schädel", "es": "el cráneo", "it": "il cranio"},
+        {"en": "jaw", "fr": "le maxillaire", "de": "der Kieferknochen", "es": "la mandíbula", "it": "la mandibola"},
+        {"en": "bone", "fr": "l'os", "de": "der Knochen", "es": "el hueso", "it": "l'osso"},
+        {"en": "tendon", "fr": "le tendon", "de": "die Sehne", "es": "el tendón", "it": "il tendine"}
+      ]
+    }
+  ]
+}

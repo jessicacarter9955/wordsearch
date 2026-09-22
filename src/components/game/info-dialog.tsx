@@ -7,7 +7,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from '@/components/ui/dialog'
-import { Database, Globe, Layers, Puzzle } from 'lucide-react'
+import { Database, Globe, Layers, Lightbulb, Puzzle } from 'lucide-react'
 
 interface InfoDialogProps {
   open: boolean
@@ -84,6 +84,38 @@ VALUES (1, 'GIRAFFA', 'medium');`}
               della categoria. Con Prisma Studio (<code className="rounded bg-stone-100 px-1 text-xs">bunx prisma studio</code>)
               puoi gestire tutto da interfaccia grafica.
             </p>
+          </section>
+
+          <section className="rounded-2xl bg-violet-50 p-3 text-violet-900">
+            <h3 className="mb-1 flex items-center gap-2 font-bold">
+              <Lightbulb className="h-4 w-4" /> Parole composte — da valutare
+            </h3>
+            <p className="text-[13px]">
+              Molte voci del dizionario sono fatte di più parole
+              (<em>arco plantar</em>, <em>tendón de la corva</em>, <em>palma de la mano</em>).
+              Per ora il gioco le <strong>esclude dalle griglie</strong> (restano visibili
+              nelle statistiche), ma sono <strong>salvate nel database</strong> con la loro
+              forma naturale, pronte all&apos;uso. Quattro opzioni da valutare:
+            </p>
+            <ul className="mt-2 space-y-1.5 pl-1 text-[13px]">
+              <li>
+                <strong>A · Concatenata</strong> — la frase intera attaccata in griglia
+                (ARCOPLANTARE): semplice, ma oltre 12 lettere non entra mai.
+              </li>
+              <li>
+                <strong>B · Parola-chiave</strong> ⭐ — in griglia solo la parola corta
+                (ARCO) e nella lista la frase completa con la chiave evidenziata:
+                tutte le lingue restano giocabili.
+              </li>
+              <li>
+                <strong>C · Modalità frasi</strong> — le parole della frase piazzate
+                separate nella griglia: trovarle tutte completa la frase con un bonus.
+              </li>
+              <li>
+                <strong>D · Solo vocabolario</strong> — escluse dalle griglie ma
+                visibili nella schermata statistiche.
+              </li>
+            </ul>
           </section>
 
           <section className="rounded-2xl bg-amber-50 p-3 text-amber-900">

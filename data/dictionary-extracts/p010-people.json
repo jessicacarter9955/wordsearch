@@ -1,0 +1,450 @@
+{
+  "page": 10,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "groups": [
+    {
+      "slug": "corpo",
+      "names": {
+        "en": "Body",
+        "fr": "Corps",
+        "de": "Körper",
+        "es": "Cuerpo",
+        "it": "Corpo"
+      },
+      "entries": [
+        {
+          "en": "body",
+          "fr": "corps",
+          "de": "Körper",
+          "es": "cuerpo",
+          "it": "corpo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 6,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "head",
+          "fr": "tête",
+          "de": "Kopf",
+          "es": "cabeza",
+          "it": "testa",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "neck",
+          "fr": "cou",
+          "de": "Hals",
+          "es": "cuello",
+          "it": "collo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 3,
+            "de": 4,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "chest",
+          "fr": "poitrine",
+          "de": "Brust",
+          "es": "pecho",
+          "it": "torace",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 8,
+            "de": 5,
+            "es": 5,
+            "it": 6
+          }
+        },
+        {
+          "en": "breast",
+          "fr": "sein",
+          "de": "Brust",
+          "es": "pecho",
+          "it": "seno",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 4,
+            "de": 5,
+            "es": 5,
+            "it": 4
+          }
+        },
+        {
+          "en": "nipple",
+          "fr": "mamelon",
+          "de": "Brustwarze",
+          "es": "pezón",
+          "it": "capezzolo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 7,
+            "de": 10,
+            "es": 5,
+            "it": 9
+          }
+        },
+        {
+          "en": "abdomen",
+          "fr": "ventre",
+          "de": "Bauch",
+          "es": "abdomen",
+          "it": "addome",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 6,
+            "de": 5,
+            "es": 7,
+            "it": 6
+          }
+        },
+        {
+          "en": "waist",
+          "fr": "taille",
+          "de": "Taille",
+          "es": "cintura",
+          "it": "vita",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 6,
+            "de": 6,
+            "es": 7,
+            "it": 4
+          }
+        },
+        {
+          "en": "navel",
+          "fr": "nombril",
+          "de": "Nabel",
+          "es": "ombligo",
+          "it": "ombelico",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 7,
+            "de": 5,
+            "es": 7,
+            "it": 8
+          }
+        },
+        {
+          "en": "groin",
+          "fr": "aine",
+          "de": "Leiste",
+          "es": "ingle",
+          "it": "inguine",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "die",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 4,
+            "de": 6,
+            "es": 5,
+            "it": 7
+          }
+        },
+        {
+          "en": "genitals",
+          "fr": "organes génitaux",
+          "de": "Geschlechtsteile",
+          "es": "genitales",
+          "it": "genitali",
+          "_multi": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "los",
+            "it": "i"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 15,
+            "de": 16,
+            "es": 9,
+            "it": 8
+          }
+        },
+        {
+          "en": "hip",
+          "fr": "hanche",
+          "de": "Hüfte",
+          "es": "cadera",
+          "it": "fianco",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 6,
+            "de": 5,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "thigh",
+          "fr": "cuisse",
+          "de": "Oberschenkel",
+          "es": "muslo",
+          "it": "coscia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 6,
+            "de": 12,
+            "es": 5,
+            "it": 6
+          }
+        },
+        {
+          "en": "knee",
+          "fr": "genou",
+          "de": "Knie",
+          "es": "rodilla",
+          "it": "ginocchio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 4,
+            "es": 7,
+            "it": 9
+          }
+        },
+        {
+          "en": "leg",
+          "fr": "jambe",
+          "de": "Bein",
+          "es": "pierna",
+          "it": "gamba",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "das",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 5,
+            "de": 4,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "shin",
+          "fr": "tibia",
+          "de": "Schienbein",
+          "es": "espinilla",
+          "it": "stinco",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "lo"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 10,
+            "es": 9,
+            "it": 6
+          }
+        },
+        {
+          "en": "forearm",
+          "fr": "avant-bras",
+          "de": "Unterarm",
+          "es": "antebrazo",
+          "it": "avambraccio",
+          "_multi": [],
+          "_hyphen": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 9,
+            "de": 8,
+            "es": 9,
+            "it": 11
+          }
+        },
+        {
+          "en": "foot",
+          "fr": "pied",
+          "de": "Fuß",
+          "es": "pie",
+          "it": "piede",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 3,
+            "it": 5
+          }
+        },
+        {
+          "en": "male",
+          "fr": "homme",
+          "de": "Mann",
+          "es": "hombre",
+          "it": "uomo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 4,
+            "es": 6,
+            "it": 4
+          }
+        },
+        {
+          "en": "female",
+          "fr": "femme",
+          "de": "Frau",
+          "es": "mujer",
+          "it": "donna",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 5,
+            "de": 4,
+            "es": 5,
+            "it": 5
+          }
+        }
+      ]
+    }
+  ]
+}

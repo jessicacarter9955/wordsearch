@@ -1,0 +1,33 @@
+{
+  "page": 10,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "groups": [
+    {
+      "slug": "corpo",
+      "names": {"en": "Body", "fr": "Corps", "de": "Körper", "es": "Cuerpo", "it": "Corpo"},
+      "entries": [
+        {"en": "body", "fr": "le corps", "de": "der Körper", "es": "el cuerpo", "it": "il corpo"},
+        {"en": "head", "fr": "la tête", "de": "der Kopf", "es": "la cabeza", "it": "la testa"},
+        {"en": "neck", "fr": "le cou", "de": "der Hals", "es": "el cuello", "it": "il collo"},
+        {"en": "chest", "fr": "la poitrine", "de": "die Brust", "es": "el pecho", "it": "il torace"},
+        {"en": "breast", "fr": "le sein", "de": "die Brust", "es": "el pecho", "it": "il seno"},
+        {"en": "nipple", "fr": "le mamelon", "de": "die Brustwarze", "es": "el pezón", "it": "il capezzolo"},
+        {"en": "abdomen", "fr": "le ventre", "de": "der Bauch", "es": "el abdomen", "it": "l'addome"},
+        {"en": "waist", "fr": "la taille", "de": "die Taille", "es": "la cintura", "it": "la vita"},
+        {"en": "navel", "fr": "le nombril", "de": "der Nabel", "es": "el ombligo", "it": "l'ombelico"},
+        {"en": "groin", "fr": "l'aine", "de": "die Leiste", "es": "la ingle", "it": "l'inguine"},
+        {"en": "genitals", "fr": "les organes génitaux", "de": "die Geschlechtsteile", "es": "los genitales", "it": "i genitali"},
+        {"en": "hip", "fr": "la hanche", "de": "die Hüfte", "es": "la cadera", "it": "il fianco"},
+        {"en": "thigh", "fr": "la cuisse", "de": "der Oberschenkel", "es": "el muslo", "it": "la coscia"},
+        {"en": "knee", "fr": "le genou", "de": "das Knie", "es": "la rodilla", "it": "il ginocchio"},
+        {"en": "leg", "fr": "la jambe", "de": "das Bein", "es": "la pierna", "it": "la gamba"},
+        {"en": "shin", "fr": "le tibia", "de": "das Schienbein", "es": "la espinilla", "it": "lo stinco"},
+        {"en": "forearm", "fr": "l'avant-bras", "de": "der Unterarm", "es": "el antebrazo", "it": "l'avambraccio"},
+        {"en": "foot", "fr": "le pied", "de": "der Fuß", "es": "el pie", "it": "il piede"},
+        {"en": "male", "fr": "l'homme", "de": "der Mann", "es": "el hombre", "it": "l'uomo"},
+        {"en": "female", "fr": "la femme", "de": "die Frau", "es": "la mujer", "it": "la donna"}
+      ]
+    }
+  ]
+}

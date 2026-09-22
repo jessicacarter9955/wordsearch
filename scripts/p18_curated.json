@@ -1,0 +1,38 @@
+{
+  "page": 18,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "note": "Organi riproduttivi femminili + box glossario. NB: 'egg/ovulo' non compare nell'OCR di questa pagina (mantenuto nel wordbank dalla sessione precedente, da verificare).",
+  "groups": [
+    {
+      "slug": "organi-riproduttivi",
+      "names": {"en": "Reproductive organs", "fr": "Organes de reproduction", "de": "Fortpflanzungsorgane", "es": "Órganos reproductores", "it": "Organi riproduttivi"},
+      "entries": [
+        {"en": "reproductive organs", "fr": "les organes de reproduction", "de": "die Fortpflanzungsorgane", "es": "los órganos reproductores", "it": "gli organi riproduttivi"},
+        {"en": "ovary", "fr": "l'ovaire", "de": "der Eierstock", "es": "el ovario", "it": "l'ovaia"},
+        {"en": "follicle", "fr": "le follicule", "de": "der Follikel", "es": "el folículo", "it": "il follicolo"},
+        {"en": "fallopian tube", "fr": "la trompe de Fallope", "de": "der Eileiter", "es": "la trompa de Falopio", "it": "il tubo di Fallopio"},
+        {"en": "uterus", "fr": "l'utérus", "de": "die Gebärmutter", "es": "el útero", "it": "l'utero"},
+        {"en": "cervix", "fr": "le col de l'utérus", "de": "der Gebärmutterhals", "es": "el cuello uterino", "it": "il collo dell'utero"},
+        {"en": "vagina", "fr": "le vagin", "de": "die Scheide", "es": "la vagina", "it": "la vagina"},
+        {"en": "clitoris", "fr": "le clitoris", "de": "die Klitoris", "es": "el clítoris", "it": "il clitoride"},
+        {"en": "labia", "fr": "les lèvres", "de": "die Schamlippen", "es": "los labios", "it": "le labbra"},
+        {"en": "bladder", "fr": "la vessie", "de": "die Blase", "es": "la vejiga", "it": "la vescica"},
+        {"en": "urethra", "fr": "l'urètre", "de": "die Harnröhre", "es": "la uretra", "it": "l'uretra"},
+        {"en": "sperm", "fr": "le sperme", "de": "das Spermium", "es": "el esperma", "it": "lo sperma"},
+        {"en": "fertilization", "fr": "la fertilisation", "de": "die Befruchtung", "es": "la fertilización", "it": "la fecondizzazione"},
+        {"en": "reproduction", "fr": "la reproduction", "de": "die Fortpflanzung", "es": "la reproducción", "it": "la riproduzione"},
+        {"en": "hormone", "fr": "l'hormone", "de": "das Hormon", "es": "la hormona", "it": "l'ormone"},
+        {"en": "impotent", "fr": "impuissant", "de": "impotent", "es": "impotente", "it": "impotente"},
+        {"en": "menstruation", "fr": "les règles", "de": "die Menstruation", "es": "la menstruación", "it": "la mestruazione"},
+        {"en": "ovulation", "fr": "l'ovulation", "de": "der Eisprung", "es": "la ovulación", "it": "l'ovulazione"},
+        {"en": "fertile", "fr": "fécond", "de": "fruchtbar", "es": "fértil", "it": "fecondo"},
+        {"en": "intercourse", "fr": "les rapports sexuels", "de": "der Geschlechtsverkehr", "es": "el coito", "it": "il coito"},
+        {"en": "infertile", "fr": "stérile", "de": "steril", "es": "estéril", "it": "sterile"},
+        {"en": "conceive", "fr": "concevoir", "de": "empfangen", "es": "concebir", "it": "concepire"},
+        {"en": "sexually transmitted disease", "fr": "la maladie sexuellement transmissible", "de": "die Geschlechtskrankheit", "es": "la enfermedad de transmisión sexual", "it": "la malattia trasmissibile per via sessuale"},
+        {"en": "female", "fr": "féminin", "de": "weiblich", "es": "femenino", "it": "femminili"}
+      ]
+    }
+  ]
+}

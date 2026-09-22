@@ -1,0 +1,339 @@
+{
+  "page": 16,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "note": "OCR: 'la rare'→la rate, 'le cceur'→le cœur, 'higado'→hígado, 'glánd ula del tiro id es'→glándula del tiroides. Header de 'die inneren Organe' (OCR mescolato con en).",
+  "groups": [
+    {
+      "slug": "organi-interni",
+      "names": {
+        "en": "Inner organs",
+        "fr": "Organes internes",
+        "de": "Innere Organe",
+        "es": "Órganos internos",
+        "it": "Organi interni"
+      },
+      "entries": [
+        {
+          "en": "inner organs",
+          "fr": "organes internes",
+          "de": "inneren Organe",
+          "es": "órganos internos",
+          "it": "organi interni",
+          "_multi": [
+            "en",
+            "fr",
+            "de",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "los",
+            "it": "gli"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 15,
+            "de": 13,
+            "es": 15,
+            "it": 13
+          }
+        },
+        {
+          "en": "thyroid gland",
+          "fr": "thyroïde",
+          "de": "Schilddrüse",
+          "es": "glándula del tiroides",
+          "it": "tiroide",
+          "_multi": [
+            "en",
+            "es"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 12,
+            "fr": 8,
+            "de": 11,
+            "es": 19,
+            "it": 7
+          }
+        },
+        {
+          "en": "windpipe",
+          "fr": "trachée",
+          "de": "Luftröhre",
+          "es": "tráquea",
+          "it": "trachea",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 7,
+            "de": 9,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "lung",
+          "fr": "poumon",
+          "de": "Lunge",
+          "es": "pulmón",
+          "it": "polmone",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 6,
+            "de": 5,
+            "es": 6,
+            "it": 7
+          }
+        },
+        {
+          "en": "heart",
+          "fr": "cœur",
+          "de": "Herz",
+          "es": "corazón",
+          "it": "cuore",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 4,
+            "es": 7,
+            "it": 5
+          }
+        },
+        {
+          "en": "liver",
+          "fr": "foie",
+          "de": "Leber",
+          "es": "hígado",
+          "it": "fegato",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 4,
+            "de": 5,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "stomach",
+          "fr": "estomac",
+          "de": "Magen",
+          "es": "estómago",
+          "it": "stomaco",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "lo"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 5,
+            "es": 8,
+            "it": 7
+          }
+        },
+        {
+          "en": "duodenum",
+          "fr": "duodénum",
+          "de": "Zwölffingerdarm",
+          "es": "duodeno",
+          "it": "duodeno",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 8,
+            "de": 15,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "small intestine",
+          "fr": "intestin grêle",
+          "de": "Dünndarm",
+          "es": "intestino delgado",
+          "it": "intestino tenue",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 14,
+            "fr": 13,
+            "de": 8,
+            "es": 16,
+            "it": 14
+          }
+        },
+        {
+          "en": "large intestine",
+          "fr": "gros intestin",
+          "de": "Dickdarm",
+          "es": "intestino grueso",
+          "it": "intestino crasso",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 14,
+            "fr": 12,
+            "de": 8,
+            "es": 15,
+            "it": 15
+          }
+        },
+        {
+          "en": "appendix",
+          "fr": "appendice",
+          "de": "Blinddarm",
+          "es": "apéndice",
+          "it": "appendice",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 9,
+            "de": 9,
+            "es": 8,
+            "it": 9
+          }
+        },
+        {
+          "en": "spleen",
+          "fr": "rate",
+          "de": "Milz",
+          "es": "bazo",
+          "it": "milza",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 4,
+            "de": 4,
+            "es": 4,
+            "it": 5
+          }
+        },
+        {
+          "en": "kidney",
+          "fr": "rein",
+          "de": "Niere",
+          "es": "riñón",
+          "it": "rene",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 4,
+            "de": 5,
+            "es": 5,
+            "it": 4
+          }
+        },
+        {
+          "en": "pancreas",
+          "fr": "pancréas",
+          "de": "Bauchspeicheldrüse",
+          "es": "páncreas",
+          "it": "pancreas",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 8,
+            "de": 18,
+            "es": 8,
+            "it": 8
+          }
+        }
+      ]
+    }
+  ]
+}

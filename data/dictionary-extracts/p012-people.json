@@ -1,0 +1,386 @@
+{
+  "page": 12,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "groups": [
+    {
+      "slug": "viso",
+      "names": {
+        "en": "Face",
+        "fr": "Visage",
+        "de": "Gesicht",
+        "es": "Cara",
+        "it": "Viso"
+      },
+      "entries": [
+        {
+          "en": "face",
+          "fr": "visage",
+          "de": "Gesicht",
+          "es": "cara",
+          "it": "faccia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 6,
+            "de": 7,
+            "es": 4,
+            "it": 6
+          }
+        },
+        {
+          "en": "forehead",
+          "fr": "front",
+          "de": "Stirn",
+          "es": "frente",
+          "it": "fronte",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 5,
+            "de": 5,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "temple",
+          "fr": "tempe",
+          "de": "Schläfe",
+          "es": "sien",
+          "it": "tempia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 5,
+            "de": 7,
+            "es": 4,
+            "it": 6
+          }
+        },
+        {
+          "en": "eye",
+          "fr": "œil",
+          "de": "Auge",
+          "es": "ojo",
+          "it": "occhio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "das",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 4,
+            "de": 4,
+            "es": 3,
+            "it": 6
+          }
+        },
+        {
+          "en": "eyebrow",
+          "fr": "sourcil",
+          "de": "Augenbraue",
+          "es": "ceja",
+          "it": "sopracciglio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 10,
+            "es": 4,
+            "it": 12
+          }
+        },
+        {
+          "en": "eyelash",
+          "fr": "cil",
+          "de": "Wimper",
+          "es": "pestaña",
+          "it": "ciglio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 3,
+            "de": 6,
+            "es": 7,
+            "it": 6
+          }
+        },
+        {
+          "en": "ear",
+          "fr": "oreille",
+          "de": "Ohr",
+          "es": "oreja",
+          "it": "orecchio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "das",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 7,
+            "de": 3,
+            "es": 5,
+            "it": 8
+          }
+        },
+        {
+          "en": "nose",
+          "fr": "nez",
+          "de": "Nase",
+          "es": "nariz",
+          "it": "naso",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 3,
+            "de": 4,
+            "es": 5,
+            "it": 4
+          }
+        },
+        {
+          "en": "nostril",
+          "fr": "narine",
+          "de": "Nasenloch",
+          "es": "fosa nasal",
+          "it": "narice",
+          "_multi": [
+            "es"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "das",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 6,
+            "de": 9,
+            "es": 9,
+            "it": 6
+          }
+        },
+        {
+          "en": "cheek",
+          "fr": "joue",
+          "de": "Backe",
+          "es": "mejilla",
+          "it": "guancia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 4,
+            "de": 5,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "mole",
+          "fr": "grain de beauté",
+          "de": "Muttermal",
+          "es": "lunar",
+          "it": "neo",
+          "_multi": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 13,
+            "de": 9,
+            "es": 5,
+            "it": 3
+          }
+        },
+        {
+          "en": "mouth",
+          "fr": "bouche",
+          "de": "Mund",
+          "es": "boca",
+          "it": "bocca",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 6,
+            "de": 4,
+            "es": 4,
+            "it": 5
+          }
+        },
+        {
+          "en": "lip",
+          "fr": "lèvre",
+          "de": "Lippe",
+          "es": "labio",
+          "it": "labbro",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 5,
+            "de": 5,
+            "es": 5,
+            "it": 6
+          }
+        },
+        {
+          "en": "jaw",
+          "fr": "mâchoire",
+          "de": "Kinnlade",
+          "es": "mandíbula",
+          "it": "mandibola",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 8,
+            "de": 8,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "chin",
+          "fr": "menton",
+          "de": "Kinn",
+          "es": "barbilla",
+          "it": "mento",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 6,
+            "de": 4,
+            "es": 8,
+            "it": 5
+          }
+        },
+        {
+          "en": "hair",
+          "fr": "cheveux",
+          "de": "Haar",
+          "es": "cabello",
+          "it": "capelli",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "das",
+            "es": "el",
+            "it": "i"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 7,
+            "de": 4,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "skin",
+          "fr": "peau",
+          "de": "Haut",
+          "es": "piel",
+          "it": "pelle",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 4,
+            "it": 5
+          }
+        }
+      ]
+    }
+  ]
+}

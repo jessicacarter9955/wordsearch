@@ -1,0 +1,410 @@
+{
+  "page": 19,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "note": "Organi riproduttivi maschili (stesso spread di p18) + sezione contraccezione. OCR: 'semmai vesicle'→seminal vesicle, 'la prestata'→la próstata, 'testicie'→testicle, 'D l l 1'→DIU.",
+  "groups": [
+    {
+      "slug": "organi-riproduttivi",
+      "names": {
+        "en": "Reproductive organs",
+        "fr": "Organes de reproduction",
+        "de": "Fortpflanzungsorgane",
+        "es": "Órganos reproductores",
+        "it": "Organi riproduttivi"
+      },
+      "entries": [
+        {
+          "en": "penis",
+          "fr": "pénis",
+          "de": "Penis",
+          "es": "pene",
+          "it": "pene",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 5,
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "en": "foreskin",
+          "fr": "prépuce",
+          "de": "Vorhaut",
+          "es": "prepucio",
+          "it": "prepuzio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 7,
+            "de": 7,
+            "es": 8,
+            "it": 8
+          }
+        },
+        {
+          "en": "scrotum",
+          "fr": "scrotum",
+          "de": "Hodensack",
+          "es": "escroto",
+          "it": "scroto",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "lo"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 9,
+            "es": 7,
+            "it": 6
+          }
+        },
+        {
+          "en": "testicle",
+          "fr": "testicule",
+          "de": "Hoden",
+          "es": "testículo",
+          "it": "testicolo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 9,
+            "de": 5,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "seminal vesicle",
+          "fr": "vésicule séminale",
+          "de": "Samenbläschen",
+          "es": "vesícula seminal",
+          "it": "vescicola seminale",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "das",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 14,
+            "fr": 16,
+            "de": 13,
+            "es": 15,
+            "it": 17
+          }
+        },
+        {
+          "en": "ejaculatory duct",
+          "fr": "conduit éjaculatoire",
+          "de": "Samenausführungsgang",
+          "es": "conducto seminal",
+          "it": "dotto eiaculatorio",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 15,
+            "fr": 19,
+            "de": 20,
+            "es": 15,
+            "it": 17
+          }
+        },
+        {
+          "en": "prostate",
+          "fr": "prostate",
+          "de": "Prostata",
+          "es": "próstata",
+          "it": "prostata",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 8,
+            "de": 8,
+            "es": 8,
+            "it": 8
+          }
+        },
+        {
+          "en": "vas deferens",
+          "fr": "conduit spermatique",
+          "de": "Samenleiter",
+          "es": "conducto deferente",
+          "it": "dotto deferente",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 18,
+            "de": 11,
+            "es": 17,
+            "it": 14
+          }
+        },
+        {
+          "en": "ureter",
+          "fr": "uretère",
+          "de": "Harnleiter",
+          "es": "uréter",
+          "it": "uretere",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 7,
+            "de": 10,
+            "es": 6,
+            "it": 7
+          }
+        },
+        {
+          "en": "rectum",
+          "fr": "rectum",
+          "de": "Mastdarm",
+          "es": "recto",
+          "it": "retto",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 8,
+            "es": 5,
+            "it": 5
+          }
+        },
+        {
+          "en": "male",
+          "fr": "masculin",
+          "de": "männlich",
+          "es": "masculino",
+          "it": "maschili",
+          "_multi": [],
+          "_grid_len": {
+            "en": 4,
+            "fr": 8,
+            "de": 8,
+            "es": 9,
+            "it": 8
+          }
+        }
+      ]
+    },
+    {
+      "slug": "contraccezione",
+      "names": {
+        "en": "Contraception",
+        "fr": "Contraception",
+        "de": "Empfängnisverhütung",
+        "es": "Anticoncepción",
+        "it": "Contraccezione"
+      },
+      "entries": [
+        {
+          "en": "contraception",
+          "fr": "contraception",
+          "de": "Empfängnisverhütung",
+          "es": "anticoncepción",
+          "it": "contraccezione",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 13,
+            "fr": 13,
+            "de": 19,
+            "es": 14,
+            "it": 14
+          }
+        },
+        {
+          "en": "cap",
+          "fr": "pessaire",
+          "de": "Pessar",
+          "es": "anillo cervical",
+          "it": "cappuccio cervicale",
+          "_multi": [
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 8,
+            "de": 6,
+            "es": 14,
+            "it": 18
+          }
+        },
+        {
+          "en": "diaphragm",
+          "fr": "diaphragme",
+          "de": "Diaphragma",
+          "es": "diafragma",
+          "it": "diaframma",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 10,
+            "de": 10,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "condom",
+          "fr": "condom",
+          "de": "Kondom",
+          "es": "condón",
+          "it": "preservativo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 6,
+            "es": 6,
+            "it": 12
+          }
+        },
+        {
+          "en": "IUD",
+          "fr": "stérilet",
+          "de": "Spirale",
+          "es": "dispositivo intrauterino",
+          "it": "dispositivo intrauterino",
+          "_multi": [
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 8,
+            "de": 7,
+            "es": 23,
+            "it": 23
+          }
+        },
+        {
+          "en": "pill",
+          "fr": "pilule",
+          "de": "Pille",
+          "es": "pastilla",
+          "it": "pillola",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 6,
+            "de": 5,
+            "es": 8,
+            "it": 7
+          }
+        }
+      ]
+    }
+  ]
+}

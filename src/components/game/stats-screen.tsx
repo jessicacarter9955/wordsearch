@@ -28,7 +28,7 @@ function CategorySection({
   open: boolean
   onToggle: () => void
 }) {
-  const foundCount = cat.words.filter((w) => found[w] !== undefined).length
+  const foundCount = cat.words.filter((w) => found[w.text] !== undefined).length
   const pct = cat.words.length > 0 ? Math.round((foundCount / cat.words.length) * 100) : 0
 
   return (
@@ -69,11 +69,11 @@ function CategorySection({
         <div className="border-t border-white/15 bg-[#0a1e6b]/40 px-4 py-3">
           <ul className="flex flex-wrap gap-1.5">
             {cat.words.map((w) => {
-              const n = found[w]
+              const n = found[w.text]
               const isFound = n !== undefined
               return (
                 <li
-                  key={w}
+                  key={w.text}
                   className={`inline-flex items-center gap-1.5 rounded-full border px-2.5 py-1 text-xs font-bold transition ${
                     isFound
                       ? 'border-emerald-300/60 bg-emerald-400/25 text-white shadow-[0_0_8px_rgba(52,211,153,0.35)]'
@@ -85,7 +85,7 @@ function CategorySection({
                   ) : (
                     <X className="h-3 w-3 text-red-400/70" strokeWidth={3} />
                   )}
-                  <span>{w.toLowerCase()}</span>
+                  <span>{w.display.toLowerCase()}</span>
                   {isFound && n > 1 && (
                     <span className="rounded-full bg-emerald-400/40 px-1.5 text-[10px] font-extrabold tabular-nums text-emerald-100">
                       ×{n}

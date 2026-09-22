@@ -1,0 +1,46 @@
+{
+  "page": 17,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "note": "DUE sezioni nella stessa pagina: 'head' (cutaway principale) e 'body systems' (box in basso). Il diaframma è etichettato nel cutaway principale → va in TESTA (in wordbank era in sistemi-corporei). OCR: 'il serio'→il seno, 'la b rin g e'→la laringe, 'la ven3'→la vena, 'Ics systèmes'→les systèmes.",
+  "groups": [
+    {
+      "slug": "testa",
+      "names": {"en": "Head", "fr": "Tête", "de": "Kopf", "es": "Cabeza", "it": "Testa"},
+      "entries": [
+        {"en": "head", "fr": "la tête", "de": "der Kopf", "es": "la cabeza", "it": "la testa"},
+        {"en": "brain", "fr": "le cerveau", "de": "das Gehirn", "es": "el cerebro", "it": "il cervello"},
+        {"en": "sinus", "fr": "le sinus", "de": "der Sinus", "es": "el seno", "it": "il seno"},
+        {"en": "palate", "fr": "le palais", "de": "der Gaumen", "es": "el paladar", "it": "il palato"},
+        {"en": "tongue", "fr": "la langue", "de": "die Zunge", "es": "la lengua", "it": "la lingua"},
+        {"en": "pharynx", "fr": "le pharynx", "de": "der Rachen", "es": "la faringe", "it": "la faringe"},
+        {"en": "epiglottis", "fr": "l'épiglotte", "de": "der Kehldeckel", "es": "la epiglotis", "it": "l'epiglottide"},
+        {"en": "esophagus", "fr": "l'œsophage", "de": "die Speiseröhre", "es": "el esófago", "it": "l'esofago"},
+        {"en": "throat", "fr": "la gorge", "de": "die Kehle", "es": "la garganta", "it": "la gola"},
+        {"en": "larynx", "fr": "le larynx", "de": "der Kehlkopf", "es": "la laringe", "it": "la laringe"},
+        {"en": "Adam's apple", "fr": "la pomme d'Adam", "de": "der Adamsapfel", "es": "la manzana de Adán", "it": "il pomo di Adamo"},
+        {"en": "vocal cords", "fr": "les cordes vocales", "de": "die Stimmbänder", "es": "las cuerdas vocales", "it": "le corde vocali"},
+        {"en": "diaphragm", "fr": "le diaphragme", "de": "das Zwerchfell", "es": "el diafragma", "it": "il diaframma"}
+      ]
+    },
+    {
+      "slug": "sistemi-corporei",
+      "names": {"en": "Body systems", "fr": "Systèmes du corps", "de": "Körpersysteme", "es": "Sistemas corporales", "it": "Sistemi corporei"},
+      "entries": [
+        {"en": "body systems", "fr": "les systèmes du corps", "de": "die Körpersysteme", "es": "los sistemas", "it": "i sistemi corporali"},
+        {"en": "respiratory", "fr": "respiratoire", "de": "das Atmungssystem", "es": "respiratorio", "it": "respiratorio"},
+        {"en": "digestive", "fr": "digestif", "de": "das Verdauungssystem", "es": "digestivo", "it": "digestivo"},
+        {"en": "cardiovascular", "fr": "cardio-vasculaire", "de": "das Herz- und Gefäßsystem", "es": "cardiovascular", "it": "cardiovascolare"},
+        {"en": "lymphatic", "fr": "lymphatique", "de": "das lymphatische System", "es": "linfático", "it": "linfatico"},
+        {"en": "urinary", "fr": "urinaire", "de": "das Harnsystem", "es": "urinario", "it": "urinario"},
+        {"en": "endocrine", "fr": "endocrine", "de": "das endokrine System", "es": "endocrino", "it": "endocrino"},
+        {"en": "nervous", "fr": "nerveux", "de": "das Nervensystem", "es": "nervioso", "it": "nervoso"},
+        {"en": "reproductive", "fr": "reproducteur", "de": "das Fortpflanzungssystem", "es": "reproductor", "it": "riproduttivo"},
+        {"en": "vein", "fr": "la veine", "de": "die Vene", "es": "la vena", "it": "la vena"},
+        {"en": "artery", "fr": "l'artère", "de": "die Arterie", "es": "la arteria", "it": "l'arteria"},
+        {"en": "gland", "fr": "la glande", "de": "die Drüse", "es": "la glándula", "it": "la ghiandola"},
+        {"en": "nerve", "fr": "le nerf", "de": "der Nerv", "es": "el nervio", "it": "il nervo"}
+      ]
+    }
+  ]
+}

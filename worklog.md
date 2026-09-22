@@ -143,3 +143,30 @@ Stage Summary:
 - Pipeline pronta e dimostrata su pag 13: gli estratti futuri seguiranno automaticamente le regole (articoli via, multi a parte, categoria per pagina)
 - data/dictionary-extracts/p013-people.json è il primo estratto pulito (fonte di verità per reseed/arricchimenti)
 - Proposte allegate in chat all'utente per l'uso delle multi-parola nel gioco (A concatenata / B parola-chiave+display / C modalità frasi / D solo stats) — attesa decisione prima di toccare seeder/UI
+
+---
+Task ID: 9
+Agent: main (Super Z)
+Task: Pagine 10-19 del dizionario (macro-categoria Persone/corpo umano) — estrazione, curation, merge wordbank, reseed, esclusione multi-parola dai round, sezione A/B/C/D nell'app
+
+Work Log:
+- Estratto testo grezzo pagine 10-19 (scripts/dump_pages.py → pages_10_14.txt, pages_15_19.txt); mappatura pagine→sottocategorie: p10+p11 corpo, p12 viso, p13 viso(dettagli pelle)+mano+piede, p14 muscoli, p15 scheletro, p16 organi-interni, p17 testa+sistemi-corporei, p18 organi-riproduttivi (femminili+glossario), p19 organi-riproduttivi (maschili)+contraccezione
+- Curati 10 file scripts/pXX_curated.json con correzioni OCR (es. 'la rete'→la tête, 'la rare'→la rate, 'il nasi)'→il naso, 'quadncipite'→quadricipite, 'semmai vesicle'→seminal vesicle, 'la prestata'→la próstata, 'il serio'→il seno) e ricostruzioni (en 'hip'/'lip' mancanti nell'OCR, en 'internal organs' da header de mescolato)
+- Pipeline dictionary_tools clean su tutte le 10 pagine → data/dictionary-extracts/p010..p019-people.json con regole utente (articoli via incl. apostrofati, flag _multi per lingua, _grid_len)
+- scripts/merge_extracts.py: merge per sottocategoria con match per termine EN; aggiornate le forme alla fedeltà del libro (es. es palma→palma de la mano, fr jointure→nœud de l'articulation, de Knöchel→Handknöchel, es empeine→parte interna del pie [instep], es juanete [ball], it spirale→dispositivo intrauterino, it colonna vertebrale→spina dorsale, it seno paranasale→seno, vertebre it plurale→singolare, de Kreislaufsystem→Herz- und Gefäßsystem, es tiroides→glándula del tiroides, es conducto eyaculador→conducto seminal, it tubo di Falloppio→di Fallopio, it tendine d'Achille→di Achille)
+- Aggiunte parole mancanti: corpo +polso (da p11, mancava!) +reni (small of back); muscoli +hamstring(tendine) +calf(polpaccio muscolare) +buttock(natica, fix gluteo/gluteus) +header muscoli; scheletro +jaw(mandibola) +header scheletro; piede +bridge(dorso del piede) +ankle; organi-interni +header organi interni; testa +diaphragm (spostato da sistemi-corporei: nel libro è nel cutaway della pagina head) +header testa; organi-riproduttivi +reproduction +sexually transmitted disease +header; sistemi +header sistemi corporali
+- Rimozioni: muscoli/gluteus e /muscolo (doppioni), scheletro/sternum (doppione di breast bone), contraccezione/cervical cap (voce inventata: il libro ha solo cap=cappuccio cervicale), piede/ball of foot→ball, sistemi/diaphragm (spostato)
+- Extra preservati con flag: mano/finger (dito), organi-riproduttivi/egg (ovulo — NON verificabile nell'OCR p18, chiedere all'utente)
+- Risultato wordbank persone: 204 concetti (corpo 33, viso 21, mano 13, piede 12, muscoli 15, scheletro 28, organi-interni 14, testa 13, sistemi-corporei 13, organi-riproduttivi 36, contraccezione 6), 0 duplicati it-word per sottocategoria
+- Rigenerato supabase/seed-wordbank.sql (75 categorie, 1570 parole) + reseed SQLite via npx tsx prisma/seed.ts (1570 parole, era 1515)
+- /api/words round mode: NUOVO filtro display?.includes(' ') → tutte le multi-parola escluse dai round (era: solo >maxLen); il filtro è PER LINGUA (ogni lingua ha la sua riga Word: 'big toe' escluso in en ma 'alluce' giocabile in it)
+- /api/words modalità vocabolario (languageCode): ora restituisce {text, display} con forma naturale deduplicata per text (prima solo text concatenato: 'TENDINEDIACHILLE'); aggiornati LanguageWords in types.ts e stats-screen.tsx (match trovate su text, rendering display)
+- info-dialog.tsx: nuova sezione violetta 'Parole composte — da valutare' con opzioni A Concatenata / B Parola-chiave ⭐ / C Modalità frasi / D Solo vocabolario (richiesta dell'utente)
+- E2E agent-browser: dialog info con 4 opzioni ✓, partita Scheletro hard (mandibola+scheletro nuove in gioco, 0 multi leak su 5 round), Muscoli medium (muscoli/polpaccio nuovi), FR contraccezione (STÉRILET incluso=giocabile in fr mentre IUD escluso in it → per-lingua ok), partita Mano facile con drag MIGNOLO trovata, statistiche: 192 chip Persone con multi naturali ('dito del piede', 'arco plantare', 'tendine di achille') e match ✓ su mignolo; 0 errori console/pagina
+- tsc --noEmit pulito su src/, eslint pulito
+
+Stage Summary:
+- Pipeline dizionario completa e dimostrata su 10 pagine: estratti puliti in data/dictionary-extracts/ (fonte di verità), wordbank.json aggiornato alla fedeltà del libro, DB reseedato (1570 parole), SQL Supabase rigenerato
+- Multi-parola ora ESCLUSE da tutti i round (per lingua) ma visibili nelle statistiche con forma naturale — in attesa della decisione A/B/C/D (sezione 'Da valutare' nel dialog info del gioco)
+- Da chiedere all'utente: (1) conferma extra 'finger' in mano e 'egg' in organi-riproduttivi (non in OCR), (2) conferma spostamento diaframma in Testa, (3) scelta opzione A/B/C/D
+- Prossime pagine dizionario: dal p20 in poi (fuori dal corpo umano: aspetto, salute, servizi, shopping...)

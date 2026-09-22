@@ -1,0 +1,353 @@
+{
+  "page": 14,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "note": "OCR: 'quadncipite'→quadricipite, 'd clto id eo'→deltoides, 'Ruckenmuskel'→Rückenmuskel, 'di achilie'→di Achille. 'buttock' e 'calf' qui sono i muscoli (varianti fr/de/es diverse da p11 corpo).",
+  "groups": [
+    {
+      "slug": "muscoli",
+      "names": {
+        "en": "Muscles",
+        "fr": "Muscles",
+        "de": "Muskeln",
+        "es": "Músculos",
+        "it": "Muscoli"
+      },
+      "entries": [
+        {
+          "en": "muscles",
+          "fr": "muscles",
+          "de": "Muskeln",
+          "es": "músculos",
+          "it": "muscoli",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "los",
+            "it": "i"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 7,
+            "es": 8,
+            "it": 7
+          }
+        },
+        {
+          "en": "frontal",
+          "fr": "frontal",
+          "de": "Stirnmuskel",
+          "es": "frontal",
+          "it": "frontale",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 11,
+            "es": 7,
+            "it": 8
+          }
+        },
+        {
+          "en": "intercostal",
+          "fr": "intercostal",
+          "de": "Zwischenrippenmuskel",
+          "es": "intercostal",
+          "it": "intercostale",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 11,
+            "de": 20,
+            "es": 11,
+            "it": 12
+          }
+        },
+        {
+          "en": "biceps",
+          "fr": "biceps",
+          "de": "Bizeps",
+          "es": "bíceps",
+          "it": "bicipite",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 6,
+            "es": 6,
+            "it": 8
+          }
+        },
+        {
+          "en": "trapezius",
+          "fr": "trapèze",
+          "de": "Kapuzenmuskel",
+          "es": "trapecio",
+          "it": "trapezio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 7,
+            "de": 13,
+            "es": 8,
+            "it": 8
+          }
+        },
+        {
+          "en": "abdominals",
+          "fr": "abdominaux",
+          "de": "Bauchmuskeln",
+          "es": "abdominal",
+          "it": "addominali",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "el",
+            "it": "gli"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 10,
+            "de": 12,
+            "es": 9,
+            "it": 10
+          }
+        },
+        {
+          "en": "quadriceps",
+          "fr": "quadriceps",
+          "de": "Oberschenkelmuskeln",
+          "es": "cuádriceps",
+          "it": "quadricipite",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 10,
+            "de": 19,
+            "es": 10,
+            "it": 12
+          }
+        },
+        {
+          "en": "latissimus dorsi",
+          "fr": "dorsal",
+          "de": "Rückenmuskel",
+          "es": "dorsal",
+          "it": "dorsale",
+          "_multi": [
+            "en"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 15,
+            "fr": 6,
+            "de": 12,
+            "es": 6,
+            "it": 7
+          }
+        },
+        {
+          "en": "triceps",
+          "fr": "triceps",
+          "de": "Trizeps",
+          "es": "tríceps",
+          "it": "tricipite",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 7,
+            "es": 7,
+            "it": 9
+          }
+        },
+        {
+          "en": "pectoral",
+          "fr": "pectoral",
+          "de": "Brustmuskel",
+          "es": "pectoral",
+          "it": "pettorale",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 8,
+            "de": 11,
+            "es": 8,
+            "it": 9
+          }
+        },
+        {
+          "en": "deltoid",
+          "fr": "deltoïde",
+          "de": "Deltamuskel",
+          "es": "deltoides",
+          "it": "deltoide",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 8,
+            "de": 11,
+            "es": 9,
+            "it": 8
+          }
+        },
+        {
+          "en": "hamstring",
+          "fr": "tendon du jarret",
+          "de": "Kniesehnenstrang",
+          "es": "tendón de la corva",
+          "it": "tendine",
+          "_multi": [
+            "fr",
+            "es"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 14,
+            "de": 16,
+            "es": 15,
+            "it": 7
+          }
+        },
+        {
+          "en": "Achilles tendon",
+          "fr": "tendon d'Achille",
+          "de": "Achillessehne",
+          "es": "tendón de Aquiles",
+          "it": "tendine di Achille",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 14,
+            "fr": 14,
+            "de": 13,
+            "es": 15,
+            "it": 16
+          }
+        },
+        {
+          "en": "buttock",
+          "fr": "fessier",
+          "de": "Gesäßmuskel",
+          "es": "glúteo",
+          "it": "natica",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 12,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "calf",
+          "fr": "muscles jumeaux",
+          "de": "Wadenmuskel",
+          "es": "gemelos",
+          "it": "polpaccio",
+          "_multi": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "der",
+            "es": "los",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 14,
+            "de": 11,
+            "es": 7,
+            "it": 9
+          }
+        }
+      ]
+    }
+  ]
+}

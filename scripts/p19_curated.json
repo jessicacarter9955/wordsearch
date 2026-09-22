@@ -1,0 +1,37 @@
+{
+  "page": 19,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "note": "Organi riproduttivi maschili (stesso spread di p18) + sezione contraccezione. OCR: 'semmai vesicle'→seminal vesicle, 'la prestata'→la próstata, 'testicie'→testicle, 'D l l 1'→DIU.",
+  "groups": [
+    {
+      "slug": "organi-riproduttivi",
+      "names": {"en": "Reproductive organs", "fr": "Organes de reproduction", "de": "Fortpflanzungsorgane", "es": "Órganos reproductores", "it": "Organi riproduttivi"},
+      "entries": [
+        {"en": "penis", "fr": "le pénis", "de": "der Penis", "es": "el pene", "it": "il pene"},
+        {"en": "foreskin", "fr": "le prépuce", "de": "die Vorhaut", "es": "el prepucio", "it": "il prepuzio"},
+        {"en": "scrotum", "fr": "le scrotum", "de": "der Hodensack", "es": "el escroto", "it": "lo scroto"},
+        {"en": "testicle", "fr": "le testicule", "de": "der Hoden", "es": "el testículo", "it": "il testicolo"},
+        {"en": "seminal vesicle", "fr": "la vésicule séminale", "de": "das Samenbläschen", "es": "la vesícula seminal", "it": "la vescicola seminale"},
+        {"en": "ejaculatory duct", "fr": "le conduit éjaculatoire", "de": "der Samenausführungsgang", "es": "el conducto seminal", "it": "il dotto eiaculatorio"},
+        {"en": "prostate", "fr": "la prostate", "de": "die Prostata", "es": "la próstata", "it": "la prostata"},
+        {"en": "vas deferens", "fr": "le conduit spermatique", "de": "der Samenleiter", "es": "el conducto deferente", "it": "il dotto deferente"},
+        {"en": "ureter", "fr": "l'uretère", "de": "der Harnleiter", "es": "el uréter", "it": "l'uretere"},
+        {"en": "rectum", "fr": "le rectum", "de": "der Mastdarm", "es": "el recto", "it": "il retto"},
+        {"en": "male", "fr": "masculin", "de": "männlich", "es": "masculino", "it": "maschili"}
+      ]
+    },
+    {
+      "slug": "contraccezione",
+      "names": {"en": "Contraception", "fr": "Contraception", "de": "Empfängnisverhütung", "es": "Anticoncepción", "it": "Contraccezione"},
+      "entries": [
+        {"en": "contraception", "fr": "la contraception", "de": "die Empfängnisverhütung", "es": "la anticoncepción", "it": "la contraccezione"},
+        {"en": "cap", "fr": "le pessaire", "de": "das Pessar", "es": "el anillo cervical", "it": "il cappuccio cervicale"},
+        {"en": "diaphragm", "fr": "le diaphragme", "de": "das Diaphragma", "es": "el diafragma", "it": "il diaframma"},
+        {"en": "condom", "fr": "le condom", "de": "das Kondom", "es": "el condón", "it": "il preservativo"},
+        {"en": "IUD", "fr": "le stérilet", "de": "die Spirale", "es": "el dispositivo intrauterino", "it": "il dispositivo intrauterino"},
+        {"en": "pill", "fr": "la pilule", "de": "die Pille", "es": "la pastilla", "it": "la pillola"}
+      ]
+    }
+  ]
+}

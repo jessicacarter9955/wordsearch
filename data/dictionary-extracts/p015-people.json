@@ -1,0 +1,643 @@
+{
+  "page": 15,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "note": "OCR: 'omoplate' ok (l'omoplate), 'rò tu la'→rótula, 'cù b ito'→cúbito, 'maxillaire' (le maxillaire), 'hueso' (el hueso). Vertebre italiane SINGOLARI nel libro ('la vertebra cervicale/toracica/lombare').",
+  "groups": [
+    {
+      "slug": "scheletro",
+      "names": {
+        "en": "Skeleton",
+        "fr": "Squelette",
+        "de": "Skelett",
+        "es": "Esqueleto",
+        "it": "Scheletro"
+      },
+      "entries": [
+        {
+          "en": "skeleton",
+          "fr": "squelette",
+          "de": "Skelett",
+          "es": "esqueleto",
+          "it": "scheletro",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "lo"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 9,
+            "de": 7,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "shoulder blade",
+          "fr": "omoplate",
+          "de": "Schulterblatt",
+          "es": "escápula",
+          "it": "scapola",
+          "_multi": [
+            "en"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "das",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 13,
+            "fr": 8,
+            "de": 13,
+            "es": 8,
+            "it": 7
+          }
+        },
+        {
+          "en": "breast bone",
+          "fr": "sternum",
+          "de": "Brustbein",
+          "es": "esternón",
+          "it": "sterno",
+          "_multi": [
+            "en"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "lo"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 7,
+            "de": 9,
+            "es": 8,
+            "it": 6
+          }
+        },
+        {
+          "en": "rib",
+          "fr": "côte",
+          "de": "Rippe",
+          "es": "costilla",
+          "it": "costola",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 4,
+            "de": 5,
+            "es": 8,
+            "it": 7
+          }
+        },
+        {
+          "en": "radius",
+          "fr": "radius",
+          "de": "Speiche",
+          "es": "radio",
+          "it": "radio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 7,
+            "es": 5,
+            "it": 5
+          }
+        },
+        {
+          "en": "pelvis",
+          "fr": "bassin",
+          "de": "Becken",
+          "es": "pelvis",
+          "it": "bacino",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 6,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "kneecap",
+          "fr": "rotule",
+          "de": "Kniescheibe",
+          "es": "rótula",
+          "it": "rotula",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 6,
+            "de": 11,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "fibula",
+          "fr": "péroné",
+          "de": "Wadenbein",
+          "es": "peroné",
+          "it": "perone",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 9,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "metatarsal",
+          "fr": "métatarsien",
+          "de": "Mittelfußknochen",
+          "es": "metatarso",
+          "it": "metatarso",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 11,
+            "de": 17,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "spine",
+          "fr": "colonne vertébrale",
+          "de": "Wirbelsäule",
+          "es": "espina dorsal",
+          "it": "spina dorsale",
+          "_multi": [
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 17,
+            "de": 11,
+            "es": 12,
+            "it": 12
+          }
+        },
+        {
+          "en": "collar bone",
+          "fr": "clavicule",
+          "de": "Schlüsselbein",
+          "es": "clavícula",
+          "it": "clavicola",
+          "_multi": [
+            "en"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "das",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 9,
+            "de": 13,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "ulna",
+          "fr": "cubitus",
+          "de": "Elle",
+          "es": "cúbito",
+          "it": "ulna",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 7,
+            "de": 4,
+            "es": 6,
+            "it": 4
+          }
+        },
+        {
+          "en": "cervical vertebrae",
+          "fr": "vertèbres cervicales",
+          "de": "Halswirbel",
+          "es": "vértebras cervicales",
+          "it": "vertebra cervicale",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "las",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 17,
+            "fr": 19,
+            "de": 10,
+            "es": 19,
+            "it": 17
+          }
+        },
+        {
+          "en": "femur",
+          "fr": "fémur",
+          "de": "Oberschenkelknochen",
+          "es": "fémur",
+          "it": "femore",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 19,
+            "es": 5,
+            "it": 6
+          }
+        },
+        {
+          "en": "tibia",
+          "fr": "tibia",
+          "de": "Schienbein",
+          "es": "tibia",
+          "it": "tibia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 10,
+            "es": 5,
+            "it": 5
+          }
+        },
+        {
+          "en": "joint",
+          "fr": "articulation",
+          "de": "Gelenk",
+          "es": "articulación",
+          "it": "articolazione",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "das",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 12,
+            "de": 6,
+            "es": 12,
+            "it": 13
+          }
+        },
+        {
+          "en": "humerus",
+          "fr": "humérus",
+          "de": "Oberarmknochen",
+          "es": "húmero",
+          "it": "omero",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 14,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "rib cage",
+          "fr": "cage thoracique",
+          "de": "Brustkorb",
+          "es": "caja torácica",
+          "it": "cassa toracica",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 14,
+            "de": 9,
+            "es": 12,
+            "it": 13
+          }
+        },
+        {
+          "en": "metacarpal",
+          "fr": "métacarpien",
+          "de": "Mittelhandknochen",
+          "es": "metacarpo",
+          "it": "metacarpo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 11,
+            "de": 17,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "thoracic vertebrae",
+          "fr": "vertèbres thoraciques",
+          "de": "Brustwirbel",
+          "es": "vértebras dorsales",
+          "it": "vertebra toracica",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "las",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 17,
+            "fr": 20,
+            "de": 11,
+            "es": 17,
+            "it": 16
+          }
+        },
+        {
+          "en": "lumbar vertebrae",
+          "fr": "lombaires",
+          "de": "Lendenwirbel",
+          "es": "vértebras lumbares",
+          "it": "vertebra lombare",
+          "_multi": [
+            "en",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "las",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 15,
+            "fr": 9,
+            "de": 12,
+            "es": 17,
+            "it": 15
+          }
+        },
+        {
+          "en": "tailbone",
+          "fr": "coccyx",
+          "de": "Steißbein",
+          "es": "coxis",
+          "it": "coccige",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 6,
+            "de": 10,
+            "es": 5,
+            "it": 7
+          }
+        },
+        {
+          "en": "cartilage",
+          "fr": "cartilage",
+          "de": "Knorpel",
+          "es": "cartílago",
+          "it": "cartilagine",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 9,
+            "de": 7,
+            "es": 9,
+            "it": 11
+          }
+        },
+        {
+          "en": "ligament",
+          "fr": "ligament",
+          "de": "Sehnenband",
+          "es": "ligamento",
+          "it": "legamento",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 8,
+            "de": 10,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "skull",
+          "fr": "crâne",
+          "de": "Schädel",
+          "es": "cráneo",
+          "it": "cranio",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 7,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "jaw",
+          "fr": "maxillaire",
+          "de": "Kieferknochen",
+          "es": "mandíbula",
+          "it": "mandibola",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 10,
+            "de": 13,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "bone",
+          "fr": "os",
+          "de": "Knochen",
+          "es": "hueso",
+          "it": "osso",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 2,
+            "de": 7,
+            "es": 5,
+            "it": 4
+          }
+        },
+        {
+          "en": "tendon",
+          "fr": "tendon",
+          "de": "Sehne",
+          "es": "tendón",
+          "it": "tendine",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 5,
+            "es": 6,
+            "it": 7
+          }
+        }
+      ]
+    }
+  ]
+}

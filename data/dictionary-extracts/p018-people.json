@@ -1,0 +1,521 @@
+{
+  "page": 18,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "note": "Organi riproduttivi femminili + box glossario. NB: 'egg/ovulo' non compare nell'OCR di questa pagina (mantenuto nel wordbank dalla sessione precedente, da verificare).",
+  "groups": [
+    {
+      "slug": "organi-riproduttivi",
+      "names": {
+        "en": "Reproductive organs",
+        "fr": "Organes de reproduction",
+        "de": "Fortpflanzungsorgane",
+        "es": "Órganos reproductores",
+        "it": "Organi riproduttivi"
+      },
+      "entries": [
+        {
+          "en": "reproductive organs",
+          "fr": "organes de reproduction",
+          "de": "Fortpflanzungsorgane",
+          "es": "órganos reproductores",
+          "it": "organi riproduttivi",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "los",
+            "it": "gli"
+          },
+          "_grid_len": {
+            "en": 18,
+            "fr": 21,
+            "de": 20,
+            "es": 20,
+            "it": 18
+          }
+        },
+        {
+          "en": "ovary",
+          "fr": "ovaire",
+          "de": "Eierstock",
+          "es": "ovario",
+          "it": "ovaia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 6,
+            "de": 9,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "follicle",
+          "fr": "follicule",
+          "de": "Follikel",
+          "es": "folículo",
+          "it": "follicolo",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 9,
+            "de": 8,
+            "es": 8,
+            "it": 9
+          }
+        },
+        {
+          "en": "fallopian tube",
+          "fr": "trompe de Fallope",
+          "de": "Eileiter",
+          "es": "trompa de Falopio",
+          "it": "tubo di Fallopio",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 13,
+            "fr": 15,
+            "de": 8,
+            "es": 15,
+            "it": 14
+          }
+        },
+        {
+          "en": "uterus",
+          "fr": "utérus",
+          "de": "Gebärmutter",
+          "es": "útero",
+          "it": "utero",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "die",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 6,
+            "de": 11,
+            "es": 5,
+            "it": 5
+          }
+        },
+        {
+          "en": "cervix",
+          "fr": "col de l'utérus",
+          "de": "Gebärmutterhals",
+          "es": "cuello uterino",
+          "it": "collo dell'utero",
+          "_multi": [
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 12,
+            "de": 15,
+            "es": 13,
+            "it": 14
+          }
+        },
+        {
+          "en": "vagina",
+          "fr": "vagin",
+          "de": "Scheide",
+          "es": "vagina",
+          "it": "vagina",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 5,
+            "de": 7,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "clitoris",
+          "fr": "clitoris",
+          "de": "Klitoris",
+          "es": "clítoris",
+          "it": "clitoride",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 8,
+            "fr": 8,
+            "de": 8,
+            "es": 8,
+            "it": 9
+          }
+        },
+        {
+          "en": "labia",
+          "fr": "lèvres",
+          "de": "Schamlippen",
+          "es": "labios",
+          "it": "labbra",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "los",
+            "it": "le"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 6,
+            "de": 11,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "bladder",
+          "fr": "vessie",
+          "de": "Blase",
+          "es": "vejiga",
+          "it": "vescica",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 6,
+            "de": 5,
+            "es": 6,
+            "it": 7
+          }
+        },
+        {
+          "en": "urethra",
+          "fr": "urètre",
+          "de": "Harnröhre",
+          "es": "uretra",
+          "it": "uretra",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "die",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 6,
+            "de": 9,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "sperm",
+          "fr": "sperme",
+          "de": "Spermium",
+          "es": "esperma",
+          "it": "sperma",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "el",
+            "it": "lo"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 6,
+            "de": 8,
+            "es": 7,
+            "it": 6
+          }
+        },
+        {
+          "en": "fertilization",
+          "fr": "fertilisation",
+          "de": "Befruchtung",
+          "es": "fertilización",
+          "it": "fecondizzazione",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 13,
+            "fr": 13,
+            "de": 11,
+            "es": 13,
+            "it": 15
+          }
+        },
+        {
+          "en": "reproduction",
+          "fr": "reproduction",
+          "de": "Fortpflanzung",
+          "es": "reproducción",
+          "it": "riproduzione",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 12,
+            "fr": 12,
+            "de": 13,
+            "es": 12,
+            "it": 12
+          }
+        },
+        {
+          "en": "hormone",
+          "fr": "hormone",
+          "de": "Hormon",
+          "es": "hormona",
+          "it": "ormone",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "das",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 7,
+            "de": 6,
+            "es": 7,
+            "it": 6
+          }
+        },
+        {
+          "en": "impotent",
+          "fr": "impuissant",
+          "de": "impotent",
+          "es": "impotente",
+          "it": "impotente",
+          "_multi": [],
+          "_grid_len": {
+            "en": 8,
+            "fr": 10,
+            "de": 8,
+            "es": 9,
+            "it": 9
+          }
+        },
+        {
+          "en": "menstruation",
+          "fr": "règles",
+          "de": "Menstruation",
+          "es": "menstruación",
+          "it": "mestruazione",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 12,
+            "fr": 6,
+            "de": 12,
+            "es": 12,
+            "it": 12
+          }
+        },
+        {
+          "en": "ovulation",
+          "fr": "ovulation",
+          "de": "Eisprung",
+          "es": "ovulación",
+          "it": "ovulazione",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 9,
+            "de": 8,
+            "es": 9,
+            "it": 10
+          }
+        },
+        {
+          "en": "fertile",
+          "fr": "fécond",
+          "de": "fruchtbar",
+          "es": "fértil",
+          "it": "fecondo",
+          "_multi": [],
+          "_grid_len": {
+            "en": 7,
+            "fr": 6,
+            "de": 9,
+            "es": 6,
+            "it": 7
+          }
+        },
+        {
+          "en": "intercourse",
+          "fr": "rapports sexuels",
+          "de": "Geschlechtsverkehr",
+          "es": "coito",
+          "it": "coito",
+          "_multi": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "les",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 15,
+            "de": 18,
+            "es": 5,
+            "it": 5
+          }
+        },
+        {
+          "en": "infertile",
+          "fr": "stérile",
+          "de": "steril",
+          "es": "estéril",
+          "it": "sterile",
+          "_multi": [],
+          "_grid_len": {
+            "en": 9,
+            "fr": 7,
+            "de": 6,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "conceive",
+          "fr": "concevoir",
+          "de": "empfangen",
+          "es": "concebir",
+          "it": "concepire",
+          "_multi": [],
+          "_grid_len": {
+            "en": 8,
+            "fr": 9,
+            "de": 9,
+            "es": 8,
+            "it": 9
+          }
+        },
+        {
+          "en": "sexually transmitted disease",
+          "fr": "maladie sexuellement transmissible",
+          "de": "Geschlechtskrankheit",
+          "es": "enfermedad de transmisión sexual",
+          "it": "malattia trasmissibile per via sessuale",
+          "_multi": [
+            "en",
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 26,
+            "fr": 32,
+            "de": 20,
+            "es": 29,
+            "it": 35
+          }
+        },
+        {
+          "en": "female",
+          "fr": "féminin",
+          "de": "weiblich",
+          "es": "femenino",
+          "it": "femminili",
+          "_multi": [],
+          "_grid_len": {
+            "en": 6,
+            "fr": 7,
+            "de": 8,
+            "es": 8,
+            "it": 9
+          }
+        }
+      ]
+    }
+  ]
+}

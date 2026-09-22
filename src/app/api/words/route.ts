@@ -29,7 +29,7 @@ export async function GET(req: NextRequest) {
         include: {
           categories: {
             orderBy: [{ sortOrder: 'asc' }, { id: 'asc' }],
-            include: { words: { select: { text: true } } },
+            include: { words: { select: { text: true, display: true } } },
           },
         },
       })
@@ -43,17 +43,21 @@ export async function GET(req: NextRequest) {
           .filter((c) => c.parentId === null)
           .map((cat) => {
             const children = language.categories.filter((c) => c.parentId === cat.id)
-            const texts = new Set<string>()
-            for (const w of cat.words) texts.add(w.text)
+            // dedupe per testo mantenendo la forma naturale (display):
+            // le parole composte appaiono come "SPINA DORSALE", non "SPINADORSALE"
+            const byText = new Map<string, string>()
+            const add = (text: string, display: string | null) =>
+              byText.set(text, display ?? text)
+            for (const w of cat.words) add(w.text, w.display)
             for (const child of children) {
-              for (const w of child.words) texts.add(w.text)
+              for (const w of child.words) add(w.text, w.display)
             }
             return {
               id: cat.id,
               slug: cat.slug,
               name: cat.name,
               emoji: cat.emoji,
-              words: Array.from(texts),
+              words: Array.from(byText, ([text, display]) => ({ text, display })),
             }
           }),
       })
@@ -89,10 +93,15 @@ export async function GET(req: NextRequest) {
 
     // Filtro lunghezza + dedupe per testo (la stessa parola può comparire in
     // più sottocategorie della stessa categoria padre)
+    // Le PAROLE COMPOSTE (display con spazio, es. "SPINA DORSALE") sono escluse
+    // dai round finché non si sceglie l'opzione A/B/C/D (vedi dialog info).
+    // Il filtro è per lingua: ogni lingua ha la sua riga Word, quindi
+    // "big toe" (multi in en) è escluso ma "alluce" (it) resta giocabile.
     const seen = new Set<string>()
     words = words.filter((w) => {
       if (w.text.length < minLen) return false
       if (maxLen && w.text.length > maxLen) return false
+      if (w.display?.includes(' ')) return false
       if (seen.has(w.text)) return false
       seen.add(w.text)
       return true

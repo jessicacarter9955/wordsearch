@@ -8,15 +8,16 @@
     "es": "La gente",
     "it": "Le persone"
   },
+  "note": "Pagina senza sottocategoria nell'header: dettagli pelle (→viso), mano e piede. 'corazón' isolato nell'OCR = etichetta residua di un'illustrazione, scartata.",
   "groups": [
     {
-      "slug": "mano",
+      "slug": "viso",
       "names": {
-        "en": "Hand",
-        "fr": "Main",
-        "de": "Hand",
-        "es": "Mano",
-        "it": "Mano"
+        "en": "Face",
+        "fr": "Visage",
+        "de": "Gesicht",
+        "es": "Cara",
+        "it": "Viso"
       },
       "entries": [
         {
@@ -104,7 +105,19 @@
             "es": 7,
             "it": 8
           }
-        },
+        }
+      ]
+    },
+    {
+      "slug": "mano",
+      "names": {
+        "en": "Hand",
+        "fr": "Main",
+        "de": "Hand",
+        "es": "Mano",
+        "it": "Mano"
+      },
+      "entries": [
         {
           "en": "hand",
           "fr": "main",
@@ -402,6 +415,27 @@
             "de": 4,
             "es": 3,
             "it": 5
+          }
+        },
+        {
+          "en": "ankle",
+          "fr": "cheville",
+          "de": "Knöchel",
+          "es": "tobillo",
+          "it": "caviglia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "der",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 8,
+            "de": 7,
+            "es": 7,
+            "it": 8
           }
         },
         {
