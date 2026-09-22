@@ -23,7 +23,12 @@ interface UploadedFile {
 
 type Phase = 'idle' | 'uploading' | 'done' | 'error'
 
-/** Formatta i byte in modo leggibile (KB/MB/GB con una sola cifra decimale) */
+/** Dimensione iniziale dei blocchi; si dimezza automaticamente se il
+ *  gateway rifiuta/interrompe una richiesta (502/timeout), fino al minimo */
+const START_CHUNK = 4 * 1024 * 1024 // 4 MB
+const MIN_CHUNK = 256 * 1024 // 256 KB
+
+/** Formatta i byte in modo leggibile (KB/MB/GB con una cifra decimale) */
 function fmt(bytes: number): string {
   if (bytes < 1024) return `${bytes} B`
   if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(1)} KB`
@@ -31,41 +36,109 @@ function fmt(bytes: number): string {
   return `${(bytes / 1024 / 1024 / 1024).toFixed(2)} GB`
 }
 
-/**
- * Upload con XMLHttpRequest invece di fetch: solo XHR espone l'evento
- * di avanzamento (caricati/totali), indispensabile per file grandi.
- * Il File viaggia come corpo raw -> il server lo strema su disco.
- */
-function uploadRaw(
-  file: File,
-  onProgress: (loaded: number, total: number) => void
-): Promise<{ ok: boolean; filename?: string; size?: number; error?: string }> {
+class UploadError extends Error {
+  restart?: boolean
+  constructor(message: string, restart = false) {
+    super(message)
+    this.restart = restart
+  }
+}
+
+/** Invia un singolo blocco come corpo raw. XHR = evento di avanzamento. */
+function sendChunk(
+  filename: string,
+  blob: Blob,
+  offset: number,
+  last: boolean,
+  onChunkProgress: (loaded: number) => void
+): Promise<void> {
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest()
-    xhr.open('POST', `/api/upload?filename=${encodeURIComponent(file.name)}`)
+    xhr.open(
+      'POST',
+      `/api/upload?filename=${encodeURIComponent(filename)}&offset=${offset}&last=${last ? 1 : 0}`
+    )
     xhr.setRequestHeader('Content-Type', 'application/octet-stream')
     xhr.upload.onprogress = (e) => {
-      if (e.lengthComputable) onProgress(e.loaded, e.total)
+      if (e.lengthComputable) onChunkProgress(e.loaded)
     }
     xhr.onload = () => {
+      if (xhr.status >= 200 && xhr.status < 300) return resolve()
+      let restart = false
       try {
-        const data = JSON.parse(xhr.responseText)
-        if (xhr.status >= 200 && xhr.status < 300 && data.ok) resolve(data)
-        else reject(new Error(data.error ?? `Errore ${xhr.status}`))
+        restart = Boolean(JSON.parse(xhr.responseText)?.restart)
       } catch {
-        reject(new Error(`Errore ${xhr.status}`))
+        /* corpo non JSON: resta un errore semplice */
       }
+      reject(new UploadError(`Errore ${xhr.status}`, restart))
     }
-    xhr.onerror = () => reject(new Error('Errore di rete durante il caricamento'))
-    xhr.onabort = () => reject(new Error('Caricamento annullato'))
-    xhr.send(file)
+    xhr.onerror = () => reject(new UploadError('Errore di rete durante il caricamento'))
+    xhr.onabort = () => reject(new UploadError('Caricamento annullato'))
+    xhr.send(blob)
   })
+}
+
+/**
+ * Carica un file a BLOCCHI: il gateway esterno che serve il gioco rifiuta
+ * le richieste singole troppo grandi (502), quindi il file viene spezzato.
+ * - ogni blocco confermato avanza l'offset
+ * - su errore: 2 tentativi alla stessa dimensione, poi dimezza (min 256 KB)
+ *   — così un limite di dimensione O un timeout del proxy vengono entrambi
+ *   aggirati automaticamente
+ * - 409 restart → riparte da 0 (temporaneo perso lato server)
+ */
+async function uploadChunked(
+  file: File,
+  onProgress: (sent: number, total: number) => void
+): Promise<void> {
+  const filename = file.name
+  let chunkSize = START_CHUNK
+  let offset = 0
+  const failsAtSize = new Map<number, number>()
+
+  // file vuoto: un solo blocco (vuoto) che chiude subito
+  if (file.size === 0) {
+    await sendChunk(filename, new Blob([]), 0, true, () => {})
+    return
+  }
+
+  while (offset < file.size) {
+    const end = Math.min(offset + chunkSize, file.size)
+    const last = end >= file.size
+    const blob = file.slice(offset, end)
+
+    try {
+      await sendChunk(filename, blob, offset, last, (loaded) =>
+        onProgress(offset + loaded, file.size)
+      )
+      offset = end
+      onProgress(offset, file.size)
+      failsAtSize.clear() // un blocco andato a buon fine azzera i conteggi
+    } catch (e) {
+      const err = e as UploadError
+      if (err.restart) {
+        offset = 0 // il server ha perso il temporaneo: ricomincia
+        continue
+      }
+      const fails = (failsAtSize.get(chunkSize) ?? 0) + 1
+      failsAtSize.set(chunkSize, fails)
+      if (fails >= 2 && chunkSize > MIN_CHUNK) {
+        chunkSize = Math.max(MIN_CHUNK, Math.floor(chunkSize / 2))
+      } else if (fails >= 5) {
+        throw new UploadError(
+          'Caricamento interrotto più volte: controlla la connessione e riprova'
+        )
+      }
+      // pausa breve prima di ritentare (backoff)
+      await new Promise((r) => setTimeout(r, 900))
+    }
+  }
 }
 
 /**
  * Dialog per caricare il dizionario PDF (o qualunque file) direttamente
  * dal gioco: drag & drop oppure selezione, barra di avanzamento live e
- * NESSUN limite di dimensione — il file va in streaming su disco.
+ * NESSUN limite di dimensione — il file viaggia a blocchi in streaming.
  */
 export function UploadDialog({ open, onOpenChange }: UploadDialogProps) {
   const inputRef = useRef<HTMLInputElement>(null)
@@ -109,11 +182,12 @@ export function UploadDialog({ open, onOpenChange }: UploadDialogProps) {
       setProgress({ loaded: 0, total: file.size })
       setResult(null)
       setErrorMsg('')
-      uploadRaw(file, (loaded, total) => setProgress({ loaded, total }))
-        .then((d) => {
-          setResult({ filename: d.filename ?? file.name, size: d.size ?? file.size })
-          setPhase('done')
+      uploadChunked(file, (loaded, total) => setProgress({ loaded, total }))
+        .then(async () => {
+          // il nome sul server è sanitizzato: riprendilo dalla lista
           refreshList()
+          setResult({ filename: file.name, size: file.size })
+          setPhase('done')
         })
         .catch((e: Error) => {
           setErrorMsg(e.message)
@@ -178,7 +252,7 @@ export function UploadDialog({ open, onOpenChange }: UploadDialogProps) {
                 Trascina il file qui, oppure clicca per sceglierlo
               </span>
               <span className="text-xs font-semibold text-emerald-700">
-                Nessun limite di dimensione · PDF, immagini, qualunque formato
+                Nessun limite di dimensione · inviato a blocchi · PDF, immagini, qualunque formato
               </span>
               <input
                 ref={inputRef}

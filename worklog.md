@@ -107,3 +107,21 @@ Stage Summary:
 - L'utente può ora caricare il PDF del dizionario direttamente dal gioco (menu -> icona libro): drag&drop o selezione, progress live, nessun limite di dimensione
 - I file finiscono in /home/z/my-project/uploads/ (fuori dal repo git): quando arriva un caricamento, leggerlo da lì per l'analisi (estrazione parole per pagina -> nuove categorie wordbank.json -> reseed)
 - uploads/ è vuoto e pronto per il PDF reale
+
+---
+Task ID: 7
+Agent: main (Super Z)
+Task: Fix 502 durante il caricamento ("Errore di rete durante il caricamento")
+
+Work Log:
+- Diagnosi: il log del dev server NON contiene la richiesta dell'utente → il 502 arriva PRIMA del container. Test isolati: 300MB via localhost:3000 OK (1,7s), 300MB via Caddy :81 OK (1,7s) → il colpevole è il gateway esterno del preview URL che rifiuta/interrompe richieste singole grandi o lente
+- Soluzione: upload a BLOCCHI (chunked) — il client spezza il file e il server accoda i pezzi, così ogni richiesta è piccola e veloce
+- Server route.ts: modalità blocchi con ?offset=N&last=1 → scrive su .nome.part (offset 0 = tronca/crea, offset>0 = 'r+' con start esatto così un retry sovrascrive i propri byte senza duplicati), last=1 → rename al nome finale; offset>0 senza .part → 409 {restart:true}; modalità file intero mantenuta per compatibilità; GET lista ora esclude i .part
+- Client upload-dialog.tsx: uploadChunked() con blocchi da 4MB, progress complessivo (offset confermato + caricato del blocco corrente), 2 tentativi per dimensione poi dimezzo automatico fino a 256KB (aggira sia limiti di size che timeout del proxy), backoff 900ms, gestione 409 restart ripartendo da 0, caso file vuoto gestito
+- Test protocollo (scripts/test-chunk-upload.sh): sequenza 3 blocchi byte-identical; retry stesso offset senza duplicati; 409 restart OK; lista GET senza .part; 20MB in blocchi da 4MB via fetch byte-identical
+- E2E browser: dialog → upload PDF test → "File caricato!" 1.5KB → file su disco byte-identical → 0 errori console
+- tsc + eslint puliti
+
+Stage Summary:
+- L'uploader ora funziona anche attraverso il gateway del preview URL: il file viaggia a blocchi da 4MB (auto-ridotti a 256KB se il proxy continua a rifiutare), con progress live, retry automatici e nessun limite di dimensione
+- uploads/ vuoto e pronto per il PDF reale del dizionario
