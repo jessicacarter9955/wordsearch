@@ -125,3 +125,21 @@ Work Log:
 Stage Summary:
 - L'uploader ora funziona anche attraverso il gateway del preview URL: il file viaggia a blocchi da 4MB (auto-ridotti a 256KB se il proxy continua a rifiutare), con progress live, retry automatici e nessun limite di dimensione
 - uploads/ vuoto e pronto per il PDF reale del dizionario
+
+---
+Task ID: 8
+Agent: main (Super Z)
+Task: Pipeline estrazione dizionario con regole utente (articoli via, multi-parola a parte)
+
+Work Log:
+- Regole concordate con l'utente per OGNI futura pagina del dizionario: (1) articoli rimossi da tutti i termini, (2) termini multi-parola tenuti COMPLETI ma salvati/flaggati a parte (il gioco ancora non li usa), (3) una categoria per pagina (header 5 lingue), (4) trattino = parola singola (avant-pied si concatena da solo)
+- Creato scripts/dictionary_tools.py (riutilizzabile): strip_article per lingua (le/la/l', der/die/das, el/la, il/lo/la/l', the), flag _multi/_hyphen per lingua, _grid_len (lunghezza forma griglia), _articles_removed, salva estratti in data/dictionary-extracts/, comando `page N` per testo grezzo + header categoria, comando `clean` per pulire + diff vs wordbank
+- Fix bug regex: articoli apostrofati (l'ongle, l'index) non venivano rimossi — ora l' non richiede spazio
+- Processata pagina 13 (curated: scripts/p13_curated.json) → data/dictionary-extracts/p013-people.json: 27 entry (12 singole, 15 multi-parola in almeno una lingua)
+- Diff vs wordbank.json: pag 13 già coperta (wrinkle/freckle/pore/dimple in viso, resto in mano/piede); divergenze trovate: es palma de la mano→palma, fr nœud de l'articulation→jointure, de Handknöchel→Knöchel, es dedo gordo del pie→dedo gordo, es parte interna del pie→empeine, es juanete→antepié, en ball→ball of foot, de kleine(r) Finger/Zeh; entry "bridge" (dorso del piede) MANCANTE nel wordbank
+- Analisi giocabilità: griglie 8/10/12 con maxWordLength 7/10/12 → multi-parola concatenate ≥13 lettere (es dedopequeñodelpie=17, noeuddelarticulation=20) MAI giocabili in nessuna difficoltà; campo display già presente in DB/API ma non ancora usato nella lista parole (mostra forma concatenata)
+
+Stage Summary:
+- Pipeline pronta e dimostrata su pag 13: gli estratti futuri seguiranno automaticamente le regole (articoli via, multi a parte, categoria per pagina)
+- data/dictionary-extracts/p013-people.json è il primo estratto pulito (fonte di verità per reseed/arricchimenti)
+- Proposte allegate in chat all'utente per l'uso delle multi-parola nel gioco (A concatenata / B parola-chiave+display / C modalità frasi / D solo stats) — attesa decisione prima di toccare seeder/UI

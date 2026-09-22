@@ -1,0 +1,46 @@
+{
+  "page": 13,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {"en": "People", "fr": "Les gens", "de": "Die Menschen", "es": "La gente", "it": "Le persone"},
+  "groups": [
+    {
+      "slug": "mano",
+      "names": {"en": "Hand", "fr": "Main", "de": "Hand", "es": "Mano", "it": "Mano"},
+      "entries": [
+        {"en": "wrinkle", "fr": "la ride", "de": "die Falte", "es": "la arruga", "it": "la ruga"},
+        {"en": "freckle", "fr": "la tache de rousseur", "de": "die Sommersprosse", "es": "la peca", "it": "la lentiggine"},
+        {"en": "pore", "fr": "le pore", "de": "die Pore", "es": "el poro", "it": "il poro"},
+        {"en": "dimple", "fr": "la fossette", "de": "das Grübchen", "es": "el hoyuelo", "it": "la fossetta"},
+        {"en": "hand", "fr": "la main", "de": "die Hand", "es": "la mano", "it": "la mano"},
+        {"en": "wrist", "fr": "le poignet", "de": "das Handgelenk", "es": "la muñeca", "it": "il polso"},
+        {"en": "palm", "fr": "la paume", "de": "die Handfläche", "es": "la palma de la mano", "it": "il palmo"},
+        {"en": "thumb", "fr": "le pouce", "de": "der Daumen", "es": "el pulgar", "it": "il pollice"},
+        {"en": "index finger", "fr": "l'index", "de": "der Zeigefinger", "es": "el índice", "it": "l'indice"},
+        {"en": "middle finger", "fr": "le majeur", "de": "der Mittelfinger", "es": "el dedo corazón", "it": "il medio"},
+        {"en": "ring finger", "fr": "l'annulaire", "de": "der Ringfinger", "es": "el anular", "it": "l'anulare"},
+        {"en": "little finger", "fr": "l'auriculaire", "de": "der kleine Finger", "es": "el meñique", "it": "il mignolo"},
+        {"en": "knuckle", "fr": "le nœud de l'articulation", "de": "der Handknöchel", "es": "el nudillo", "it": "la nocca"},
+        {"en": "nail", "fr": "l'ongle", "de": "der Fingernagel", "es": "la uña", "it": "l'unghia"},
+        {"en": "cuticle", "fr": "la cuticule", "de": "die Nagelhaut", "es": "la cutícula", "it": "la pellicina"},
+        {"en": "fist", "fr": "le poing", "de": "die Faust", "es": "el puño", "it": "il pugno"}
+      ]
+    },
+    {
+      "slug": "piede",
+      "names": {"en": "Foot", "fr": "Pied", "de": "Fuß", "es": "Pie", "it": "Piede"},
+      "entries": [
+        {"en": "foot", "fr": "le pied", "de": "der Fuß", "es": "el pie", "it": "il piede"},
+        {"en": "toe", "fr": "l'orteil", "de": "der Zeh", "es": "el dedo del pie", "it": "il dito del piede"},
+        {"en": "big toe", "fr": "le gros orteil", "de": "der große Zeh", "es": "el dedo gordo del pie", "it": "l'alluce"},
+        {"en": "little toe", "fr": "le petit orteil", "de": "der kleine Zeh", "es": "el dedo pequeño del pie", "it": "il mignolo del piede"},
+        {"en": "toenail", "fr": "l'ongle du pied", "de": "der Zehennagel", "es": "la uña del pie", "it": "l'unghia del piede"},
+        {"en": "sole", "fr": "la plante du pied", "de": "die Fußsohle", "es": "la planta del pie", "it": "la pianta del piede"},
+        {"en": "ball", "fr": "l'avant-pied", "de": "der Ballen", "es": "el juanete", "it": "l'avampiede"},
+        {"en": "heel", "fr": "le talon", "de": "die Ferse", "es": "el talón", "it": "il tallone"},
+        {"en": "instep", "fr": "le cou-de-pied", "de": "der Spann", "es": "la parte interna del pie", "it": "il collo del piede"},
+        {"en": "arch", "fr": "la cambrure", "de": "das Gewölbe", "es": "el arco plantar", "it": "l'arco plantare"},
+        {"en": "bridge", "fr": "le dos du pied", "de": "der Fußrücken", "es": "el empeine", "it": "il dorso del piede"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "page": 13,
+  "source": "5 Language Visual Dictionary (DK, 2003)",
+  "category": {
+    "en": "People",
+    "fr": "Les gens",
+    "de": "Die Menschen",
+    "es": "La gente",
+    "it": "Le persone"
+  },
+  "groups": [
+    {
+      "slug": "mano",
+      "names": {
+        "en": "Hand",
+        "fr": "Main",
+        "de": "Hand",
+        "es": "Mano",
+        "it": "Mano"
+      },
+      "entries": [
+        {
+          "en": "wrinkle",
+          "fr": "ride",
+          "de": "Falte",
+          "es": "arruga",
+          "it": "ruga",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 4,
+            "de": 5,
+            "es": 6,
+            "it": 4
+          }
+        },
+        {
+          "en": "freckle",
+          "fr": "tache de rousseur",
+          "de": "Sommersprosse",
+          "es": "peca",
+          "it": "lentiggine",
+          "_multi": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 15,
+            "de": 13,
+            "es": 4,
+            "it": 10
+          }
+        },
+        {
+          "en": "pore",
+          "fr": "pore",
+          "de": "Pore",
+          "es": "poro",
+          "it": "poro",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "en": "dimple",
+          "fr": "fossette",
+          "de": "Grübchen",
+          "es": "hoyuelo",
+          "it": "fossetta",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "das",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 8,
+            "de": 8,
+            "es": 7,
+            "it": 8
+          }
+        },
+        {
+          "en": "hand",
+          "fr": "main",
+          "de": "Hand",
+          "es": "mano",
+          "it": "mano",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 4,
+            "it": 4
+          }
+        },
+        {
+          "en": "wrist",
+          "fr": "poignet",
+          "de": "Handgelenk",
+          "es": "muñeca",
+          "it": "polso",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "das",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 7,
+            "de": 10,
+            "es": 6,
+            "it": 5
+          }
+        },
+        {
+          "en": "palm",
+          "fr": "paume",
+          "de": "Handfläche",
+          "es": "palma de la mano",
+          "it": "palmo",
+          "_multi": [
+            "es"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 10,
+            "es": 13,
+            "it": 5
+          }
+        },
+        {
+          "en": "thumb",
+          "fr": "pouce",
+          "de": "Daumen",
+          "es": "pulgar",
+          "it": "pollice",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 5,
+            "fr": 5,
+            "de": 6,
+            "es": 6,
+            "it": 7
+          }
+        },
+        {
+          "en": "index finger",
+          "fr": "index",
+          "de": "Zeigefinger",
+          "es": "índice",
+          "it": "indice",
+          "_multi": [
+            "en"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 11,
+            "fr": 5,
+            "de": 11,
+            "es": 6,
+            "it": 6
+          }
+        },
+        {
+          "en": "middle finger",
+          "fr": "majeur",
+          "de": "Mittelfinger",
+          "es": "dedo corazón",
+          "it": "medio",
+          "_multi": [
+            "en",
+            "es"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 12,
+            "fr": 6,
+            "de": 12,
+            "es": 11,
+            "it": 5
+          }
+        },
+        {
+          "en": "ring finger",
+          "fr": "annulaire",
+          "de": "Ringfinger",
+          "es": "anular",
+          "it": "anulare",
+          "_multi": [
+            "en"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 10,
+            "fr": 9,
+            "de": 10,
+            "es": 6,
+            "it": 7
+          }
+        },
+        {
+          "en": "little finger",
+          "fr": "auriculaire",
+          "de": "kleine Finger",
+          "es": "meñique",
+          "it": "mignolo",
+          "_multi": [
+            "en",
+            "de"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 12,
+            "fr": 11,
+            "de": 12,
+            "es": 7,
+            "it": 7
+          }
+        },
+        {
+          "en": "knuckle",
+          "fr": "nœud de l'articulation",
+          "de": "Handknöchel",
+          "es": "nudillo",
+          "it": "nocca",
+          "_multi": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 20,
+            "de": 11,
+            "es": 7,
+            "it": 5
+          }
+        },
+        {
+          "en": "nail",
+          "fr": "ongle",
+          "de": "Fingernagel",
+          "es": "uña",
+          "it": "unghia",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 11,
+            "es": 3,
+            "it": 6
+          }
+        },
+        {
+          "en": "cuticle",
+          "fr": "cuticule",
+          "de": "Nagelhaut",
+          "es": "cutícula",
+          "it": "pellicina",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 8,
+            "de": 9,
+            "es": 8,
+            "it": 9
+          }
+        },
+        {
+          "en": "fist",
+          "fr": "poing",
+          "de": "Faust",
+          "es": "puño",
+          "it": "pugno",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 5,
+            "es": 4,
+            "it": 5
+          }
+        }
+      ]
+    },
+    {
+      "slug": "piede",
+      "names": {
+        "en": "Foot",
+        "fr": "Pied",
+        "de": "Fuß",
+        "es": "Pie",
+        "it": "Piede"
+      },
+      "entries": [
+        {
+          "en": "foot",
+          "fr": "pied",
+          "de": "Fuß",
+          "es": "pie",
+          "it": "piede",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 4,
+            "de": 4,
+            "es": 3,
+            "it": 5
+          }
+        },
+        {
+          "en": "toe",
+          "fr": "orteil",
+          "de": "Zeh",
+          "es": "dedo del pie",
+          "it": "dito del piede",
+          "_multi": [
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 3,
+            "fr": 6,
+            "de": 3,
+            "es": 10,
+            "it": 12
+          }
+        },
+        {
+          "en": "big toe",
+          "fr": "gros orteil",
+          "de": "große Zeh",
+          "es": "dedo gordo del pie",
+          "it": "alluce",
+          "_multi": [
+            "en",
+            "fr",
+            "de",
+            "es"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 10,
+            "de": 9,
+            "es": 15,
+            "it": 6
+          }
+        },
+        {
+          "en": "little toe",
+          "fr": "petit orteil",
+          "de": "kleine Zeh",
+          "es": "dedo pequeño del pie",
+          "it": "mignolo del piede",
+          "_multi": [
+            "en",
+            "fr",
+            "de",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 9,
+            "fr": 11,
+            "de": 9,
+            "es": 17,
+            "it": 15
+          }
+        },
+        {
+          "en": "toenail",
+          "fr": "ongle du pied",
+          "de": "Zehennagel",
+          "es": "uña del pie",
+          "it": "unghia del piede",
+          "_multi": [
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "la",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 7,
+            "fr": 11,
+            "de": 10,
+            "es": 9,
+            "it": 14
+          }
+        },
+        {
+          "en": "sole",
+          "fr": "plante du pied",
+          "de": "Fußsohle",
+          "es": "planta del pie",
+          "it": "pianta del piede",
+          "_multi": [
+            "fr",
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "die",
+            "es": "la",
+            "it": "la"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 12,
+            "de": 9,
+            "es": 12,
+            "it": 14
+          }
+        },
+        {
+          "en": "ball",
+          "fr": "avant-pied",
+          "de": "Ballen",
+          "es": "juanete",
+          "it": "avampiede",
+          "_multi": [],
+          "_hyphen": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "l'",
+            "de": "der",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 9,
+            "de": 6,
+            "es": 7,
+            "it": 9
+          }
+        },
+        {
+          "en": "heel",
+          "fr": "talon",
+          "de": "Ferse",
+          "es": "talón",
+          "it": "tallone",
+          "_multi": [],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "die",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 5,
+            "de": 5,
+            "es": 5,
+            "it": 7
+          }
+        },
+        {
+          "en": "instep",
+          "fr": "cou-de-pied",
+          "de": "Spann",
+          "es": "parte interna del pie",
+          "it": "collo del piede",
+          "_multi": [
+            "es",
+            "it"
+          ],
+          "_hyphen": [
+            "fr"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "la",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 9,
+            "de": 5,
+            "es": 18,
+            "it": 13
+          }
+        },
+        {
+          "en": "arch",
+          "fr": "cambrure",
+          "de": "Gewölbe",
+          "es": "arco plantar",
+          "it": "arco plantare",
+          "_multi": [
+            "es",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "la",
+            "de": "das",
+            "es": "el",
+            "it": "l'"
+          },
+          "_grid_len": {
+            "en": 4,
+            "fr": 8,
+            "de": 7,
+            "es": 11,
+            "it": 12
+          }
+        },
+        {
+          "en": "bridge",
+          "fr": "dos du pied",
+          "de": "Fußrücken",
+          "es": "empeine",
+          "it": "dorso del piede",
+          "_multi": [
+            "fr",
+            "it"
+          ],
+          "_articles_removed": {
+            "fr": "le",
+            "de": "der",
+            "es": "el",
+            "it": "il"
+          },
+          "_grid_len": {
+            "en": 6,
+            "fr": 9,
+            "de": 10,
+            "es": 7,
+            "it": 13
+          }
+        }
+      ]
+    }
+  ]
+}
