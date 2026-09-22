@@ -1,0 +1,561 @@
+{
+  "en": {
+    "alphabet": "abcdefghijklmnopqrstuvwxyz",
+    "categories": [
+      {
+        "cat_name": "P E O P Le Les Gens Die Menschen La Gente Le Persone",
+        "words": [
+          "hand",
+          "foot",
+          "male",
+          "office",
+          "couple",
+          "celebrations",
+          "baby",
+          "toddler",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home La Maison Das Haus La Casa La Casa",
+        "words": [
+          "house",
+          "engiish",
+          "shaving",
+          "rgtsh",
+          "sleeping",
+          "crib",
+          "engusb"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E I  A M A Is O N Das Haus L A C A S A La Casa",
+        "words": [
+          "engltsh",
+          "socket",
+          "english",
+          "home",
+          "znglish"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
+        "words": [
+          "grains",
+          "rice",
+          "engiish",
+          "food",
+          "seeds",
+          "engltsh",
+          "marinated",
+          "salted",
+          "smoked",
+          "cured"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "T R A N S P O R T A T Io N Le Transport Der Verkehr El Transporte I Trasporti",
+        "words": [
+          "enghsh",
+          "bus",
+          "erglish",
+          "controls",
+          "clothing",
+          "scooter",
+          "ecglish",
+          "ship",
+          "english",
+          "ferryboat",
+          "port"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "S P O R T S L E S S P O R T S Der Sport L O S D E P O R T E S Gli Sport",
+        "words": [
+          "rugby",
+          "ruck",
+          "english",
+          "soccer",
+          "goal",
+          "cricket",
+          "engiish",
+          "actions",
+          "volleyball",
+          "player",
+          "gym"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E Le Tem Ps Lib R E Die Freizeit E L O C Io Il T E M P O Lib E R O",
+        "words": [
+          "movies",
+          "english",
+          "orchestra",
+          "strings",
+          "piano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Leis U R E T F T E M P S L I B R E Die Freizeit E L O C Io Il Tempo Libero",
+        "words": [
+          "attractions",
+          "information",
+          "english",
+          "park",
+          "englisb"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "E N V Ir O N M E N T Lenvironnement Die Umwelt El M E D Io Ambiente Lambiente",
+        "words": [
+          "engltsh",
+          "animals",
+          "amphibians",
+          "frosch",
+          "fish",
+          "biene"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Lin Fo R M A T Io N D Ie Information Los D A T O S I D A T I",
+        "words": [
+          "calendar",
+          "english",
+          "alaska",
+          "belize",
+          "panama",
+          "cuba",
+          "bahamas",
+          "haiti",
+          "barbados",
+          "grenada"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L Information Die Information Los Datos I Dati",
+        "words": [
+          "years",
+          "seasons",
+          "century",
+          "jahrhundert",
+          "decade",
+          "woche",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "zero",
+          "one",
+          "three",
+          "four",
+          "five",
+          "six",
+          "seven",
+          "eight",
+          "nine",
+          "ten",
+          "eleven",
+          "thirteen",
+          "fifteen",
+          "sixteen",
+          "enghsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "scale",
+          "length",
+          "english",
+          "container",
+          "engllsh",
+          "enghsh"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Linformation D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "asia",
+          "georgia",
+          "iran",
+          "iraq",
+          "syna",
+          "lebanon",
+          "israel",
+          "india",
+          "china",
+          "japan",
+          "nepal",
+          "laos"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D I E In Fo R M A Tio N Los Datos I D A Ii",
+        "words": [
+          "malaysia",
+          "singapore",
+          "indonesia",
+          "brunei",
+          "philippines",
+          "taiwan",
+          "fiji",
+          "english"
+        ],
+        "rows": 10,
+        "cols": 10
+      }
+    ]
+  },
+  "fr": {
+    "alphabet": "abcdefghijklmnopqrstuvwxyz",
+    "categories": [
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "serrar",
+          "cepillar",
+          "sculpter",
+          "tallar",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "six",
+          "sept",
+          "douze",
+          "seize",
+          "français"
+        ],
+        "rows": 10,
+        "cols": 10
+      }
+    ]
+  },
+  "de": {
+    "alphabet": "abcdefghijklmnopqrstuvwxyz",
+    "categories": [
+      {
+        "cat_name": "P E O P Le Les Gf Ns Die Menschen La Gente Le Persone",
+        "words": [
+          "felicesad",
+          "eccitatobored",
+          "preoccupatonervous",
+          "arrabbiato",
+          "fiero",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
+        "words": [
+          "deutsch",
+          "mariniert",
+          "gepökelt",
+          "geräuchert",
+          "getrocknet"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Lin Fo R M A T Io N D Ie Information Los D A T O S I D A T I",
+        "words": [
+          "deutsch",
+          "alaska",
+          "belize",
+          "panama",
+          "kuba",
+          "jamaika",
+          "haiti",
+          "barbados",
+          "grenada"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L Information Die Information Los Datos I Dati",
+        "words": [
+          "neunzehnhundert",
+          "zweitausend",
+          "zweitausendeins",
+          "lestatefall",
+          "übermorgen",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "null",
+          "eins",
+          "zwei",
+          "drei",
+          "vier",
+          "fünf",
+          "sechs",
+          "sieben",
+          "acht",
+          "neun",
+          "zehn",
+          "elf",
+          "zwölf",
+          "dreizehn",
+          "fünfzehn",
+          "sechzehn",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L Information Die Information Los Datos I D A T I",
+        "words": [
+          "tausend",
+          "zehntausend",
+          "zwanzigtausend",
+          "fünfzigtausend",
+          "hunderttausend",
+          "quarto",
+          "nonoeleventh",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Linformation D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "georgien",
+          "armenien",
+          "syrien",
+          "israel",
+          "katar",
+          "indien",
+          "china",
+          "japan",
+          "nepal",
+          "laos",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D I E In Fo R M A Tio N Los Datos I D A Ii",
+        "words": [
+          "malaysia",
+          "singapur",
+          "indonesien",
+          "brunei",
+          "taiwan",
+          "fidschi",
+          "deutsch"
+        ],
+        "rows": 10,
+        "cols": 10
+      }
+    ]
+  },
+  "es": {
+    "alphabet": "abcdefghijklmnopqrstuvwxyz",
+    "categories": [
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "percer",
+          "tourner",
+          "souder",
+          "soldar",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus La Casa La Casa",
+        "words": [
+          "spachteln",
+          "schmirgeln",
+          "anbringen",
+          "kacheln",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L In F O R M A T Io N Die Information L O S D A T O S I Dati",
+        "words": [
+          "cero",
+          "uno",
+          "dos",
+          "tres",
+          "seis",
+          "siete",
+          "once",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Linformation D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "asia",
+          "irán",
+          "iraq",
+          "israel",
+          "india",
+          "japón",
+          "español"
+        ],
+        "rows": 10,
+        "cols": 10
+      }
+    ]
+  },
+  "it": {
+    "alphabet": "abcdefghijklmnopqrstuvwxyz",
+    "categories": [
+      {
+        "cat_name": "P E O P Le Les Gf Ns Die Menschen La Gente Le Persone",
+        "words": [
+          "triste",
+          "gelangweilt",
+          "ñervos",
+          "confuso",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Home L A Maison Das Haus La Casa La Casa",
+        "words": [
+          "lacquaio",
+          "italiano",
+          "die",
+          "spülen",
+          "wischen"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "H O M E L A M A Is O N Das Haus L A Casa La Casa",
+        "words": [
+          "bohren",
+          "drechseln",
+          "löten",
+          "saldare",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Food I A Nourriture Die Nahrungsmittel Los Alimentos Il C Ib O",
+        "words": [
+          "italiano",
+          "italiana",
+          "marinato",
+          "salato",
+          "affumicato",
+          "trattato"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Lin Fo R M A T Io N D Ie Information Los D A T O S I D A T I",
+        "words": [
+          "italiano",
+          "lalaska",
+          "cuba",
+          "haiti",
+          "barbados",
+          "grenada"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "R E F E R E N C E L Information Die Information Los Datos I D A T I",
+        "words": [
+          "mille",
+          "zehnter",
+          "decimofifteenth",
+          "elfter",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference Linformation D Ie In Fo R M A T Io N Los Datos I D A T I",
+        "words": [
+          "larmenia",
+          "liran",
+          "liraq",
+          "lisraele",
+          "lindia",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      },
+      {
+        "cat_name": "Reference L Information D I E In Fo R M A Tio N Los Datos I D A Ii",
+        "words": [
+          "singapore",
+          "lindonesia",
+          "brunei",
+          "taiwan",
+          "figi",
+          "italiano"
+        ],
+        "rows": 10,
+        "cols": 10
+      }
+    ]
+  }
+}
