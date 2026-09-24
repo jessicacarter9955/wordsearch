@@ -270,7 +270,58 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;-we
 .game-actions{display:flex;align-items:center;gap:.5rem}
 .game-actions .icon-btn{width:3.5rem;height:3.5rem}
 .game-actions .icon-btn svg{width:1.5rem;height:1.5rem}
-.btn-hint{border-color:rgba(253,230,138,.9);color:#fde68a}
+.btn-hint{border-color:rgba(253,230,138,.9);color:#fde68a;position:relative}
+
+/* ---------- badge aiuti sulla lampadina ---------- */
+.hint-badge{
+  position:absolute;top:-.45rem;right:-.45rem;min-width:1.5rem;height:1.5rem;padding:0 .3rem;
+  border-radius:9999px;border:2px solid rgba(255,255,255,.9);
+  display:flex;align-items:center;justify-content:center;
+  font-size:.7rem;font-weight:800;font-variant-numeric:tabular-nums;color:#fff;
+  background:linear-gradient(180deg,#fcd34d,#f97316);
+  box-shadow:0 0 10px rgba(251,146,60,.8);
+}
+.hint-badge.ad{background:linear-gradient(180deg,#e879f9,#7c3aed);box-shadow:0 0 10px rgba(217,70,239,.8)}
+.hint-badge svg{width:.95rem;height:.95rem}
+
+/* ---------- overlay spot a premio (rewarded demo) ---------- */
+#ad-overlay{position:fixed;inset:0;z-index:60;display:flex;flex-direction:column;background:rgba(2,2,23,.96);backdrop-filter:blur(3px)}
+#ad-overlay.hidden{display:none}
+.ad-top{display:flex;align-items:center;justify-content:space-between;gap:.75rem;padding:.75rem 1rem}
+.ad-tag{border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.1);border-radius:.375rem;padding:.1rem .5rem;font-size:.68rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.9);white-space:nowrap}
+.ad-countdown{border-radius:9999px;background:rgba(255,255,255,.1);padding:.25rem .8rem;font-size:.75rem;font-weight:800;color:#fff;font-variant-numeric:tabular-nums;white-space:nowrap}
+.ad-x{width:2.5rem;height:2.5rem;flex:none;border-radius:9999px;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.1);color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:background .15s ease}
+.ad-x:hover{background:rgba(255,255,255,.22)}
+.ad-x svg{width:1.15rem;height:1.15rem}
+.ad-mid{flex:1;display:flex;align-items:center;justify-content:center;padding:0 1rem .5rem}
+.ad-screen{position:relative;aspect-ratio:16/9;width:100%;max-width:42rem;overflow:hidden;border-radius:1rem;border:2px solid rgba(255,255,255,.15);background:linear-gradient(135deg,#1718d3 0%,#1e3a8a 50%,#033ed2 100%);box-shadow:0 0 60px rgba(5,162,251,.35)}
+.ad-inner{position:relative;z-index:2;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.7rem;padding:0 1.5rem;text-align:center}
+.ad-play-circle{width:4rem;height:4rem;border-radius:9999px;border:4px solid rgba(255,255,255,.85);display:flex;align-items:center;justify-content:center;box-shadow:0 0 25px rgba(255,255,255,.45)}
+.ad-play-circle svg{width:1.9rem;height:1.9rem;margin-left:.2rem}
+.ad-title{font-size:clamp(1.15rem,3vw,1.5rem);font-weight:800;letter-spacing:.02em;color:#fff;text-shadow:0 2px 3px rgba(0,0,60,.5)}
+.ad-sub{max-width:28rem;font-size:.8rem;font-weight:600;line-height:1.6;color:rgba(255,255,255,.75)}
+.ad-ready-sub{font-size:.85rem;font-weight:700;color:#a7f3d0}
+.ad-check{width:4rem;height:4rem;border-radius:9999px;background:#34d399;display:flex;align-items:center;justify-content:center;box-shadow:0 0 30px rgba(52,211,153,.75)}
+.ad-check svg{width:2.2rem;height:2.2rem;color:#022c22}
+.ad-watermark{position:absolute;bottom:.5rem;right:.75rem;z-index:2;font-size:.6rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.45)}
+.ad-bottom{padding:0 1rem 1.5rem;max-width:42rem;margin:0 auto;width:100%}
+.ad-progress-track{height:.6rem;border-radius:9999px;background:rgba(255,255,255,.15);overflow:hidden}
+.ad-progress-bar{height:100%;width:0;border-radius:9999px;background:linear-gradient(90deg,#67e8f9,#60a5fa);box-shadow:0 0 10px rgba(0,221,255,.8)}
+.ad-note{margin-top:.5rem;display:flex;align-items:center;justify-content:center;gap:.375rem;font-size:.75rem;font-weight:700;color:rgba(255,255,255,.7);text-align:center}
+.ad-note svg{width:.9rem;height:.9rem;flex:none}
+.ad-claim{margin:0 auto;display:flex;align-items:center;gap:.6rem;height:3.5rem;padding:0 2rem;font-size:1.05rem;font-weight:800;letter-spacing:.02em;cursor:pointer}
+.ad-claim svg{width:1.3rem;height:1.3rem}
+.ad-confirm{display:flex;flex-direction:column;align-items:center;gap:.6rem;padding:1.25rem 1.5rem;text-align:center}
+.ad-confirm-title{font-size:1.1rem;font-weight:800;color:#fff}
+.ad-confirm-sub{font-size:.85rem;font-weight:600;color:rgba(255,255,255,.75)}
+.ad-confirm-btns{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:.75rem;margin-top:.25rem}
+.ad-confirm-btns .ws-btn{height:2.75rem;padding:0 1.25rem;font-size:.85rem;font-weight:800;cursor:pointer}
+.ad-confirm-btns .ws-btn-play{height:2.75rem;padding:0 1.25rem;font-size:.85rem;font-weight:800;display:flex;align-items:center;gap:.4rem;cursor:pointer}
+.ad-confirm-btns svg{width:1rem;height:1rem}
+.ad-shine{position:absolute;top:0;bottom:0;width:34%;background:linear-gradient(100deg,rgba(255,255,255,0) 0%,rgba(255,255,255,.16) 45%,rgba(255,255,255,.34) 50%,rgba(255,255,255,.16) 55%,rgba(255,255,255,0) 100%);animation:ad-sweep 2.6s ease-in-out infinite;pointer-events:none}
+.ad-letter{position:absolute;font-weight:800;line-height:1;color:rgba(255,255,255,.24);animation:ad-float 3.4s ease-in-out infinite;pointer-events:none;user-select:none}
+@keyframes ad-sweep{0%{transform:translateX(-130%) skewX(-18deg)}100%{transform:translateX(240%) skewX(-18deg)}}
+@keyframes ad-float{0%,100%{transform:translateY(0) rotate(-7deg)}50%{transform:translateY(-16px) rotate(6deg)}}
 
 .game-sub{display:flex;align-items:baseline;justify-content:space-between;padding:0 .25rem;margin-bottom:.5rem}
 .game-cat{font-size:.875rem;font-weight:800;text-transform:uppercase;letter-spacing:.05em;color:#fff;filter:drop-shadow(0 1px 2px rgba(0,0,60,.4))}
@@ -469,6 +520,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;-we
         </button>
         <button class="ws-btn icon-btn btn-hint" id="btn-hint" aria-label="Aiuto: rivela la prima lettera di una parola">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/></svg>
+          <span class="hint-badge" id="hint-badge"><span id="hint-badge-n">3</span><svg id="hint-badge-ad" class="hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M10.2 4.373a.9.9 0 0 1 1.575-.013l1.71 2.816.678-.169a5.2 5.2 0 0 1 2.805.096l.635.2 1.187-3.022a.9.9 0 0 1 1.672.102l1.318 4.353.33.508a5.2 5.2 0 0 1 .486 4.762l-.179.4.938 1.36a.9.9 0 0 1-1.187 1.293l-1.272-.723-.408.19a5.2 5.2 0 0 1-4.598-.16l-.452-.241-3.387.847a.9.9 0 0 1-1.086-1.086l.847-3.387-.241-.452a5.2 5.2 0 0 1-.16-4.598l.19-.408-.723-1.272a.9.9 0 0 1 .148-1.014z"/></svg></span>
         </button>
         <button class="ws-btn icon-btn" id="btn-home" aria-label="Esci e torna alla selezione">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
@@ -555,6 +607,71 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;-we
   </div>
 </div>
 
+<!-- ============ OVERLAY SPOT A PREMIO (rewarded demo) ============ -->
+<div class="hidden" id="ad-overlay" role="dialog" aria-modal="true" aria-label="Spot a premio">
+  <div class="ad-top">
+    <div style="display:flex;align-items:center;gap:.5rem">
+      <span class="ad-tag">Pubblicità</span>
+      <span class="ad-tag" style="border:none;background:none;letter-spacing:.08em">Spot a premio</span>
+    </div>
+    <div style="display:flex;align-items:center;gap:.75rem">
+      <span class="ad-countdown" id="ad-countdown">Ricompensa in 5s</span>
+      <button class="ad-x" id="ad-x" aria-label="Chiudi lo spot">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="ad-mid">
+    <div class="ad-screen">
+      <div class="ad-shine"></div>
+      <span class="ad-letter" style="left:8%;top:18%;font-size:2.6rem;animation-delay:0s">C</span>
+      <span class="ad-letter" style="left:78%;top:12%;font-size:3.4rem;animation-delay:.6s">R</span>
+      <span class="ad-letter" style="left:16%;top:64%;font-size:3rem;animation-delay:1.1s">U</span>
+      <span class="ad-letter" style="left:68%;top:58%;font-size:2.4rem;animation-delay:.3s">Z</span>
+      <span class="ad-letter" style="left:46%;top:20%;font-size:2rem;animation-delay:1.6s">!</span>
+      <div class="ad-inner" id="ad-view-playing">
+        <div class="ad-play-circle">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3" fill="#fff"/></svg>
+        </div>
+        <p class="ad-title">SPOT DIMOSTRATIVO</p>
+        <p class="ad-sub">Placeholder del video pubblicitario: qui la rete reale (AdSense for Games, GameDistribution, CrazyGames...) mostrerà il proprio contenuto a premio.</p>
+      </div>
+      <div class="ad-inner hidden" id="ad-view-ready">
+        <div class="ad-check">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+        </div>
+        <p class="ad-title">RICOMPENSA SBLOCCATA!</p>
+        <p class="ad-ready-sub">L'aiuto è pronto — ritiralo qui sotto</p>
+      </div>
+      <span class="ad-watermark">demo · rewarded</span>
+    </div>
+  </div>
+  <div class="ad-bottom">
+    <div id="ad-bottom-playing">
+      <div class="ad-progress-track"><div class="ad-progress-bar" id="ad-progress-bar"></div></div>
+      <p class="ad-note">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M10.2 4.373a.9.9 0 0 1 1.575-.013l1.71 2.816.678-.169a5.2 5.2 0 0 1 2.805.096l.635.2 1.187-3.022a.9.9 0 0 1 1.672.102l1.318 4.353.33.508a5.2 5.2 0 0 1 .486 4.762l-.179.4.938 1.36a.9.9 0 0 1-1.187 1.293l-1.272-.723-.408.19a5.2 5.2 0 0 1-4.598-.16l-.452-.241-3.387.847a.9.9 0 0 1-1.086-1.086l.847-3.387-.241-.452a5.2 5.2 0 0 1-.16-4.598l.19-.408-.723-1.272a.9.9 0 0 1 .148-1.014z"/></svg>
+        Guarda lo spot fino alla fine per ottenere l'aiuto
+      </p>
+    </div>
+    <button class="ws-btn-play ad-claim hidden" id="ad-claim">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13"/><path d="M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/><path d="M7.5 8a2.5 2.5 0 0 1 0-5C11 3 12 8 12 8s1-5 4.5-5a2.5 2.5 0 0 1 0 5"/></svg>
+      OTTIENI L'AIUTO
+    </button>
+    <div class="ws-glass ad-confirm hidden" id="ad-view-confirm">
+      <p class="ad-confirm-title">Chiudi senza ricompensa?</p>
+      <p class="ad-confirm-sub">Se esci ora dallo spot non otterrai l'aiuto.</p>
+      <div class="ad-confirm-btns">
+        <button class="ws-btn-play" id="ad-continue">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3" fill="#fff"/></svg>
+          CONTINUA A GUARDARE
+        </button>
+        <button class="ws-btn" id="ad-abandon" style="border-color:rgba(255,255,255,.4);color:rgba(255,255,255,.85)">Chiudi</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- ============ OVERLAY INFO ============ -->
 <div class="overlay hidden" id="info-overlay" role="dialog" aria-label="Come si gioca">
   <div class="info-card">
@@ -575,6 +692,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;-we
       <ul>
         <li>Le parole si nascondono in orizzontale, verticale e diagonale — anche al contrario, secondo la difficoltà.</li>
         <li>Ogni partita è diversa: le parole vengono estratte a sorte dal vocabolario della categoria.</li>
+        <li>Ogni partita parte con <strong>3 aiuti gratuiti</strong>; dal quarto, ogni aiuto si sblocca guardando uno <strong>spot a premio</strong> (uno spot = un aiuto, niente scorte).</li>
         <li>Punti: 10 per lettera di ogni parola + bonus tempo. Ogni aiuto costa 25 punti.</li>
         <li>Il record di tempo per ogni categoria e difficoltà viene salvato sul tuo dispositivo.</li>
       </ul>
@@ -850,7 +968,8 @@ const sfx = (() => {
     found(){ tone(523.25,0,.12,.15,'triangle'); tone(659.25,.09,.12,.15,'triangle'); tone(783.99,.18,.22,.15,'triangle') },
     wrong(){ tone(196,0,.15,.1,'sawtooth'); tone(155.56,.1,.2,.08,'sawtooth') },
     win(){ [523.25,587.33,659.25,783.99,1046.5].forEach((n,i)=>tone(n,i*.11,.3,.16,'triangle')) },
-    hint(){ tone(880,0,.08,.1,'sine'); tone(1174.66,.08,.12,.1,'sine') }
+    hint(){ tone(880,0,.08,.1,'sine'); tone(1174.66,.08,.12,.1,'sine') },
+    reward(){ [659.25,783.99,987.77,1318.51].forEach((n,i)=>tone(n,i*.09,.22,.14,'triangle')) }
   }
 })()
 
@@ -905,7 +1024,9 @@ const state = {
   hintsUsed:0, score:0, isNewRecord:false,
   best:{}, muted:false
 }
-const frozen = () => state.won || state.paused
+let adOpen = false
+const frozen = () => state.won || state.paused || adOpen
+const FREE_HINTS = 3, AD_SECONDS = 5
 const bestKey = () => state.lang + ':' + state.catSlug + ':' + state.difficulty
 
 /* ---------- sfondo lettere (deterministico) ---------- */
@@ -1029,6 +1150,7 @@ function startGame(){
   $('#win-overlay').classList.add('hidden')
   $('#btn-pause').disabled = false
   $('#btn-hint').disabled = false
+  updateHintBadge()
   updatePauseIcon()
   buildBoard(); renderWords()
   show('game')
@@ -1201,10 +1323,21 @@ function addFoundLine(placement, idx){
 }
 
 /* ---------- aiuto ---------- */
-function useHint(){
-  if (!state.puzzle || frozen()) return
-  const target = state.puzzle.placements.find(p => !p.found)
-  if (!target) return
+function firstUnfound(){
+  return state.puzzle ? state.puzzle.placements.find(p => !p.found) : null
+}
+function updateHintBadge(){
+  const needsAd = state.hintsUsed >= FREE_HINTS
+  const left = Math.max(0, FREE_HINTS - state.hintsUsed)
+  const badge = $('#hint-badge')
+  badge.classList.toggle('ad', needsAd)
+  $('#hint-badge-n').classList.toggle('hidden', needsAd)
+  $('#hint-badge-ad').classList.toggle('hidden', !needsAd)
+  $('#btn-hint').setAttribute('aria-label', needsAd
+    ? 'Aiuto: guarda uno spot a premio per rivelare una lettera'
+    : 'Aiuto: rivela la prima lettera di una parola (' + left + ' gratuiti rimasti)')
+}
+function applyHint(target){
   state.hintsUsed++
   state.score = Math.max(0, state.score - 25)
   if (hintCellPos) cellEls[hintCellPos.r][hintCellPos.c].classList.remove('hint')
@@ -1216,6 +1349,66 @@ function useHint(){
     if (hintCellPos) cellEls[hintCellPos.r][hintCellPos.c].classList.remove('hint')
     hintCellPos = null
   }, 4000)
+  updateHintBadge()
+}
+function useHint(){
+  if (!state.puzzle || frozen()) return
+  const target = firstUnfound()
+  if (!target) return
+  if (state.hintsUsed >= FREE_HINTS){
+    openAd()
+    return
+  }
+  applyHint(target)
+}
+
+/* ---------- spot a premio (demo) ---------- */
+let adTimerId = null, adAccMs = 0, adLast = 0, adPhase = 'playing'
+function setAdPhase(p){
+  adPhase = p
+  const playing = p === 'playing', ready = p === 'ready', confirm = p === 'confirm-close'
+  $('#ad-view-playing').classList.toggle('hidden', !playing)
+  $('#ad-view-ready').classList.toggle('hidden', !ready)
+  $('#ad-view-confirm').classList.toggle('hidden', !confirm)
+  $('#ad-bottom-playing').classList.toggle('hidden', !playing)
+  $('#ad-claim').classList.toggle('hidden', !ready)
+  $('#ad-x').classList.toggle('hidden', ready)
+  $('#ad-countdown').classList.toggle('hidden', !playing)
+}
+function renderAdProgress(){
+  const total = AD_SECONDS * 1000
+  $('#ad-progress-bar').style.width = Math.min(100, adAccMs / total * 100) + '%'
+  $('#ad-countdown').textContent = 'Ricompensa in ' + Math.max(0, Math.ceil((total - adAccMs) / 1000)) + 's'
+}
+function openAd(){
+  adOpen = true
+  stopTimer()
+  adAccMs = 0; adLast = Date.now()
+  setAdPhase('playing')
+  renderAdProgress()
+  $('#ad-overlay').classList.remove('hidden')
+  adTimerId = setInterval(() => {
+    const now = Date.now(), dt = now - adLast; adLast = now
+    if (adPhase !== 'playing') return
+    adAccMs += dt
+    if (adAccMs >= AD_SECONDS * 1000){
+      adAccMs = AD_SECONDS * 1000
+      renderAdProgress()
+      setAdPhase('ready')
+      return
+    }
+    renderAdProgress()
+  }, 100)
+}
+function finishAd(rewarded){
+  if (adTimerId){ clearInterval(adTimerId); adTimerId = null }
+  adOpen = false
+  $('#ad-overlay').classList.add('hidden')
+  if (state.screen === 'game' && !state.won && !state.paused) startTimer()
+  if (rewarded){
+    const target = firstUnfound()
+    if (target){ sfx.reward(); applyHint(target) }
+  }
 }
 
 /* ---------- pausa ---------- */
@@ -1283,6 +1476,10 @@ $('#btn-home').onclick = backToSelect
 $('#btn-pause').onclick = togglePause
 $('#btn-resume').onclick = togglePause
 $('#btn-hint').onclick = useHint
+$('#ad-x').onclick = () => setAdPhase('confirm-close')
+$('#ad-continue').onclick = () => { adLast = Date.now(); setAdPhase('playing') }
+$('#ad-abandon').onclick = () => finishAd(false)
+$('#ad-claim').onclick = () => finishAd(true)
 $('#btn-mute-menu').onclick = toggleMute
 $('#btn-mute-game').onclick = toggleMute
 $('#btn-replay').onclick = startGame
@@ -1300,7 +1497,7 @@ updateMuteIcons()
 renderLangPills(); renderDiff(); renderCategories(); updateStartBtn()
 const TOTAL_WORDS = DATA.reduce((a, b) => a + b.categories.reduce((x, c) => x + c.words.length, 0), 0)
 $('#info-word-count').textContent = TOTAL_WORDS
-window.__version = '1.0.0'
+window.__version = '1.1.0'
 
 /* hook di debug/test (solo con #debug nell'URL): posizioni in px delle parole */
 if (location.hash.indexOf('debug') !== -1){
