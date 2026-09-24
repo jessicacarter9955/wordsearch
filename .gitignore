@@ -54,3 +54,14 @@ server.log
 /uploads/
 # Skills directory
 /skills/
+
+# Credenziali — MAI committare
+/GITHUB_PAT.md
+
+# Materiali locali non destinati al repo pubblico
+/upload/
+/db/
+/examples/
+worklog.md
+.claude
+dev.log.zscripts/
