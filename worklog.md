@@ -192,3 +192,26 @@ Stage Summary:
 - Pipeline completa e ripetibile: batch_parse → autofix_noise → review_sheet → review_fixes.json → apply_fixes
 - PER CONTINUARE la revisione (prossima sessione): leggere scripts/review/p053-p087-casa.txt ecc., aggiungere fix in scripts/review_fixes.json (formato: pNNN → groups/entries/add/merge_groups/delete_groups), poi python scripts/apply_fixes.py 53 87 e infine rigenerare tutto con python scripts/apply_fixes.py 20 270
 - DA FARE dopo revisione completa: merge nel wordbank (nuove 13 macro-categorie con nomi 5 lingue in MACROS di batch_parse.py), reseed DB, decisione A/B/C/D multi-parola (sezione già presente nell'app da Task 9)
+
+---
+Task ID: 15
+Agent: main (Super Z)
+Task: Fix sistema aiuti web — 3 gratis poi spot a premio, zero accumulo, count da 0 (+ richiesta link GitHub commit)
+
+Work Log:
+- Diagnosi bug utente ("click lampadina in Animali medio IT dà subito il suggerimento"): il workspace corrente aveva ancora la versione vecchia di useHint (nessun limite, nessuna ad) — il fix della sessione precedente non era mai arrivato in questo ambiente (repo senza remote, senza workflows, senza tag: lavoro Task 14 assente)
+- Creato src/lib/rewarded-ads.ts: FREE_HINTS_PER_GAME=3, AD_DURATION_SECONDS=5, interfaccia RewardedAdProvider (adapter pronto per AdSense for Games/GameDistribution/AdMob)
+- Creato src/components/game/rewarded-ad-overlay.tsx: player spot demo (countdown 5s, barra progresso, chiusura anticipata con pannello conferma "Chiudi senza ricompensa?", claim "OTTIENI L'AIUTO"); montaggio condizionale = reset pulito a ogni visualizzazione; countdown congelato durante pannello conferma e ripresa dal punto esatto (accumulatore con phaseRef)
+- page.tsx: stato adOpen, gate in useHint (hintsUsed >= 3 → apre spot), applyHint separato, handleAdFinish (reward solo se completato), cronometro fermo durante spot (adOpen nelle deps dell'effect), frozen=won||paused||adOpen
+- game-screen.tsx: badge su lampadina (3→2→1 arancione, poi clapperboard viola quando servono spot), aria-label e title dinamici
+- globals.css: keyframes ws-ad-sweep/ws-ad-float/ws-ad-marquee per lo spot demo
+- sfx.ts: aggiunto sfxReward (arpeggio procedurale)
+- Fix lint react-hooks/set-state-in-effect: overlay senza prop open, montato/smontato dal parent
+- E2E agent-browser su Animali medio IT: badge 3→2→1→0 ✓, 4° click apre spot ✓, X → pannello conferma ✓, countdown congelato 4,5s ✓, "Continua a guardare" riprende da 4s rimanenti (esatto) ✓, claim applica aiuto ✓, 6° aiuto richiede nuovo spot (no accumulo) ✓, chiusura senza ricompensa NON applica aiuto (hint-cell=0 dopo finestra) ✓, nuova partita resetta a 3 gratuiti ✓, mobile 390px no overflow ✓, 0 errori console ✓
+- Commit locale 0a1dc1f "feat(aiuti): sistema aiuti con spot a premio sul web"
+
+Stage Summary:
+- Sistema aiuti completo e verificato: count da 0 a ogni partita, 3 gratis, poi 1 spot per ogni aiuto extra, zero scorte accumulabili
+- Lo spot web è DEMO (placeholder chiaramente etichettato): le reti reali si agganciano implementando RewardedAdProvider
+- GitHub: NESSUN remote configurato nel repo — il push della sessione precedente non è mai avvenuto (PAT mai fornito). Il commit esiste solo in locale (hash 0a1dc1f su branch main). Per il link GitHub serve il PAT dell'utente
+- Screenshot di verifica: scripts/hint_badge_3.png, scripts/hint_badge_ad.png, scripts/ad_opened.png, scripts/ad_overlay_final.png, scripts/hint_mobile.png
