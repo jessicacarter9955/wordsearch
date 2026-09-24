@@ -293,3 +293,56 @@
   user-select: none;
   pointer-events: none;
 }
+
+/* ===================== SPOT A PREMIO (rewarded ad demo) ===================== */
+
+/* Luce che scorre sullo "schermo" dello spot */
+@keyframes ws-ad-sweep {
+  0% { transform: translateX(-130%) skewX(-18deg); }
+  100% { transform: translateX(240%) skewX(-18deg); }
+}
+
+/* Lettere fluttuanti dentro lo spot */
+@keyframes ws-ad-float {
+  0%, 100% { transform: translateY(0) rotate(-7deg); }
+  50% { transform: translateY(-16px) rotate(6deg); }
+}
+
+/* Striscia promozionale scorrevole */
+@keyframes ws-ad-marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.ws-ad-shine {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 34%;
+  background: linear-gradient(
+    100deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.16) 45%,
+    rgba(255, 255, 255, 0.34) 50%,
+    rgba(255, 255, 255, 0.16) 55%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  animation: ws-ad-sweep 2.6s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.ws-ad-letter {
+  position: absolute;
+  font-weight: 800;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.24);
+  animation: ws-ad-float 3.4s ease-in-out infinite;
+  user-select: none;
+  pointer-events: none;
+}
+
+.ws-ad-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: ws-ad-marquee 9s linear infinite;
+}

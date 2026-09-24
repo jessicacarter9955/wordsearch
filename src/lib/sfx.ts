@@ -71,3 +71,9 @@ export function sfxHint() {
   tone(880, 0, 0.08, 0.1, 'sine')
   tone(1174.66, 0.08, 0.12, 0.1, 'sine')
 }
+
+/** ricompensa ottenuta dopo lo spot a premio */
+export function sfxReward() {
+  const notes = [659.25, 783.99, 987.77, 1318.51]
+  notes.forEach((n, i) => tone(n, i * 0.09, 0.22, 0.14, 'triangle'))
+}

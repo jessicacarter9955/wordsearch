@@ -5,7 +5,7 @@ import { LetterBackground, SpeakerIcon } from '@/components/game/decor'
 import { Skeleton } from '@/components/ui/skeleton'
 import { WORD_COLORS } from '@/lib/types'
 import type { Difficulty, Puzzle, Vec } from '@/lib/game-engine'
-import { Home, Lightbulb, Pause, Play, Timer } from 'lucide-react'
+import { Clapperboard, Home, Lightbulb, Pause, Play, Timer } from 'lucide-react'
 
 interface GameScreenProps {
   puzzle: Puzzle | null
@@ -17,6 +17,10 @@ interface GameScreenProps {
   paused: boolean
   muted: boolean
   hintCell: Vec | null
+  /** Aiuti gratuiti rimasti in questa partita */
+  freeHintsLeft: number
+  /** true = aiuti gratuiti esauriti, il prossimo richiede lo spot a premio */
+  hintNeedsAd: boolean
   foundCount: number
   totalCount: number
   frozen: boolean
@@ -42,6 +46,8 @@ export function GameScreen({
   paused,
   muted,
   hintCell,
+  freeHintsLeft,
+  hintNeedsAd,
   foundCount,
   totalCount,
   frozen,
@@ -85,10 +91,32 @@ export function GameScreen({
             <button
               onClick={onHint}
               disabled={frozen}
-              aria-label="Aiuto: rivela la prima lettera di una parola"
-              className="ws-btn flex h-14 w-14 items-center justify-center !border-amber-200/90 text-amber-200"
+              aria-label={
+                hintNeedsAd
+                  ? 'Aiuto: guarda uno spot a premio per rivelare una lettera'
+                  : `Aiuto: rivela la prima lettera di una parola (${freeHintsLeft} gratuiti rimasti)`
+              }
+              title={
+                hintNeedsAd
+                  ? 'Aiuti gratuiti esauriti: guarda uno spot per un aiuto extra'
+                  : `Aiuti gratuiti rimasti: ${freeHintsLeft}`
+              }
+              className="ws-btn relative flex h-14 w-14 items-center justify-center !border-amber-200/90 text-amber-200"
             >
               <Lightbulb className="h-6 w-6" strokeWidth={2.6} />
+              {/* Badge: aiuti gratis rimasti, o icona spot quando sono finiti */}
+              {hintNeedsAd ? (
+                <span className="absolute -right-1.5 -top-1.5 flex h-6 w-6 items-center justify-center rounded-full border-2 border-white/90 bg-gradient-to-b from-fuchsia-400 to-violet-600 shadow-[0_0_10px_rgba(217,70,239,0.8)]">
+                  <Clapperboard className="h-3.5 w-3.5 text-white" strokeWidth={2.6} />
+                </span>
+              ) : (
+                <span
+                  key={freeHintsLeft}
+                  className="absolute -right-1.5 -top-1.5 flex h-6 min-w-6 items-center justify-center rounded-full border-2 border-white/90 bg-gradient-to-b from-amber-300 to-orange-500 px-1 text-[11px] font-extrabold tabular-nums text-white shadow-[0_0_10px_rgba(251,146,60,0.8)]"
+                >
+                  {freeHintsLeft}
+                </span>
+              )}
             </button>
             <button
               onClick={onHome}

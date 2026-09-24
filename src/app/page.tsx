@@ -4,6 +4,7 @@ import { GameScreen } from '@/components/game/game-screen'
 import { InfoDialog } from '@/components/game/info-dialog'
 import { MenuScreen } from '@/components/game/menu-screen'
 import { SelectScreen } from '@/components/game/select-screen'
+import { RewardedAdOverlay } from '@/components/game/rewarded-ad-overlay'
 import { StatsScreen } from '@/components/game/stats-screen'
 import { UploadDialog } from '@/components/game/upload-dialog'
 import { WinDialog } from '@/components/game/win-dialog'
@@ -17,7 +18,8 @@ import {
   type Puzzle,
   type Vec,
 } from '@/lib/game-engine'
-import { isMuted, setMuted, sfxFound, sfxWin } from '@/lib/sfx'
+import { isMuted, setMuted, sfxFound, sfxReward, sfxWin } from '@/lib/sfx'
+import { FREE_HINTS_PER_GAME } from '@/lib/rewarded-ads'
 import { loadWordStats, recordFoundWord, type WordStats } from '@/lib/wordstats'
 import type { Wordbank } from '@/lib/types'
 import { useCallback, useEffect, useRef, useState } from 'react'
@@ -34,6 +36,11 @@ function loadBest(): Record<string, number> {
   } catch {
     return {}
   }
+}
+
+/** Prima parola non ancora trovata (bersaglio dell'aiuto) */
+function firstUnfound(puzzle: Puzzle) {
+  return puzzle.placements.find((p) => !p.found) ?? null
 }
 
 export default function Home() {
@@ -53,6 +60,7 @@ export default function Home() {
   const [paused, setPaused] = useState(false)
   const [hintsUsed, setHintsUsed] = useState(0)
   const [hintCell, setHintCell] = useState<Vec | null>(null)
+  const [adOpen, setAdOpen] = useState(false)
   const [won, setWon] = useState(false)
   const [score, setScore] = useState(0)
   const [isNewRecord, setIsNewRecord] = useState(false)
@@ -79,13 +87,13 @@ export default function Home() {
     setMuted(m)
   }, [])
 
-  // ---- cronometro (aggiorna i centesimi) ----
+  // ---- cronometro (aggiorna i centesimi; fermo anche durante lo spot) ----
   useEffect(() => {
-    if (screen !== 'game' || won || paused) return
+    if (screen !== 'game' || won || paused || adOpen) return
     const started = Date.now() - elapsedMs
     const id = window.setInterval(() => setElapsedMs(Date.now() - started), 53)
     return () => window.clearInterval(id)
-  }, [screen, won, paused])
+  }, [screen, won, paused, adOpen])
 
   useEffect(() => () => {
     if (hintTimer.current) window.clearTimeout(hintTimer.current)
@@ -174,17 +182,46 @@ export default function Home() {
   )
 
   // ---- aiuto ----
+  // Regole: contatore da 0 ad ogni partita; i primi FREE_HINTS_PER_GAME sono
+  // gratuiti; dal successivo serve uno spot a premio che sblocca UN solo aiuto
+  // (consumato subito, nessun accumulo di scorte).
+  const applyHint = useCallback(
+    (target: NonNullable<ReturnType<typeof firstUnfound>>) => {
+      setHintsUsed((h) => h + 1)
+      setScore((s) => Math.max(0, s - 25))
+      setHintCell(target.cells[0])
+      import('@/lib/sfx').then(({ sfxHint }) => sfxHint())
+      if (hintTimer.current) window.clearTimeout(hintTimer.current)
+      hintTimer.current = window.setTimeout(() => setHintCell(null), 4000)
+    },
+    []
+  )
+
   const useHint = useCallback(() => {
-    if (!puzzle || won || paused) return
-    const target = puzzle.placements.find((p) => !p.found)
+    if (!puzzle || won || paused || adOpen) return
+    const target = firstUnfound(puzzle)
     if (!target) return
-    setHintsUsed((h) => h + 1)
-    setScore((s) => Math.max(0, s - 25))
-    setHintCell(target.cells[0])
-    import('@/lib/sfx').then(({ sfxHint }) => sfxHint())
-    if (hintTimer.current) window.clearTimeout(hintTimer.current)
-    hintTimer.current = window.setTimeout(() => setHintCell(null), 4000)
-  }, [puzzle, won, paused])
+    if (hintsUsed >= FREE_HINTS_PER_GAME) {
+      // gratuiti esauriti: sblocca l'aiuto con lo spot a premio
+      setAdOpen(true)
+      return
+    }
+    applyHint(target)
+  }, [puzzle, won, paused, adOpen, hintsUsed, applyHint])
+
+  // Chiusura dello spot: ricompensa solo se completato
+  const handleAdFinish = useCallback(
+    (result: { rewarded: boolean }) => {
+      setAdOpen(false)
+      if (!result.rewarded || !puzzle || won) return
+      const target = firstUnfound(puzzle)
+      if (target) {
+        sfxReward()
+        applyHint(target)
+      }
+    },
+    [puzzle, won, applyHint]
+  )
 
   const toggleMute = useCallback(() => {
     const next = !isMuted()
@@ -259,9 +296,11 @@ export default function Home() {
           paused={paused}
           muted={muted}
           hintCell={hintCell}
+          freeHintsLeft={Math.max(0, FREE_HINTS_PER_GAME - hintsUsed)}
+          hintNeedsAd={hintsUsed >= FREE_HINTS_PER_GAME}
           foundCount={foundCount}
           totalCount={totalCount}
-          frozen={won || paused}
+          frozen={won || paused || adOpen}
           onSelection={handleSelection}
           onHint={useHint}
           onTogglePause={() => setPaused((p) => !p)}
@@ -275,6 +314,8 @@ export default function Home() {
       )}
 
       <InfoDialog open={infoOpen} onOpenChange={setInfoOpen} />
+
+      {adOpen && <RewardedAdOverlay onFinish={handleAdFinish} />}
 
       <UploadDialog open={uploadOpen} onOpenChange={setUploadOpen} />
 
